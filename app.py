@@ -53,7 +53,7 @@ st.markdown(
 # 🧊 Charge les données SPX une seule fois (cache Streamlit)
 @st.cache_data(ttl=3600)  # cache 1 heure par exemple
 def load_spx_close():
-    data = yf.download("^GSPC", period="1mo", interval="1d")
+    data = yf.download("^GSPC", period="3mo", interval="1d")
     if data.empty:
         return None
 
@@ -64,6 +64,49 @@ def load_spx_close():
         close = data["Close"]
 
     return close
+
+def load_spx_ohlc():
+    """Download and prepare OHLC data for SPX (3 months)"""
+    tickers = ['^GSPC', '^STOXX50E', '^RUT']
+    data = yf.download(tickers, period="3mo", interval="1d", auto_adjust=False)
+
+    # Extract SPX OHLC cleanly
+    ohlc = data.xs('^GSPC', level=1, axis=1)[["Open", "High", "Low", "Close"]]
+
+    # Build business-day index and compute missing (holidays etc.)
+    full_index = pd.date_range(start=ohlc.index.min(), end=ohlc.index.max(), freq="B")
+    missing = full_index.difference(ohlc.index)
+
+    # Create OHLC chart
+    fig = go.Figure(
+        data=go.Ohlc(
+            x=ohlc.index,
+            open=ohlc["Open"],
+            high=ohlc["High"],
+            low=ohlc["Low"],
+            close=ohlc["Close"],
+            name="SPX"
+        )
+    )
+
+    fig.update_xaxes(
+        rangebreaks=[
+            dict(bounds=["sat", "mon"]),
+            dict(values=missing)  # remove holidays
+        ]
+    )
+
+    fig.update_layout(
+        title="S&P 500 (SPX) – OHLC over the last 3 months (no gaps)",
+        xaxis_title="Date",
+        yaxis_title="Index level",
+        xaxis_rangeslider_visible=False,
+        template="plotly_white",
+        height=500,
+        width=900
+    )
+
+    return ohlc, fig
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
@@ -87,7 +130,7 @@ def repondre(question: str):
         return "Avec plaisir 😄 !", fig
 
     # 🟢 Cas spécial SPX : on utilise les données cachées
-    if "spx" in q:
+    if "spxold" in q:
         close = load_spx_close()
         if close is None:
             return "Je n’ai pas réussi à récupérer les données du SPX 🤔.", fig
@@ -108,7 +151,13 @@ def repondre(question: str):
         )
 
         return "Voici le graphique du SPX sur le dernier mois 📈", fig
-
+    # 🟢 SPX case → load cached OHLC data
+    if "spx" in q:
+        try:
+            ohlc, fig = load_spx_ohlc()
+            return "last 3m SPX chart 📈", fig
+        except Exception as e:
+            return f"Erreur lors du chargement du SPX : {e}", fig
     # Réponse par défaut
     return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !", fig
 
