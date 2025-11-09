@@ -108,21 +108,47 @@ def load_indices_ohlc():
 # --------------------------------------------------
 
 def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
-    """Generate an interactive OHLC Plotly figure from an OHLC DataFrame."""
-    # Détection des jours ouvrés manquants (fériés)
+
+    """
+    Generate an interactive OHLC Plotly figure for a given index (SPX, SX5E, RUT).
+    Works even if you pass the full multi-ticker DataFrame directly.
+    """
+
+    # 🔹 Mapping between index code and Yahoo Finance symbol
+    ticker_map = {
+        "SPX": "^GSPC",
+        "SX5E": "^STOXX50E",
+        "RUT": "^RUT",
+    }
+
+    # 🔹 If the input is the multi-ticker dataframe (MultiIndex columns)
+    if isinstance(ohlc_df.columns, pd.MultiIndex):
+        if name not in ticker_map:
+            raise ValueError(f"Unknown index name: {name}")
+        yahoo_code = ticker_map[name]
+        # Extract the OHLC subpart for the given ticker
+        ohlc_df = ohlc_df.xs(yahoo_code, level=1, axis=1)[["Open", "High", "Low", "Close"]]
+
+
+
+    
+     # --- Detect missing days (holidays etc.) ---
     full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
     missing = full_index.difference(ohlc_df.index)
-    # --- Compute performance ---
-    last_close = ohlc_df["Close"].iloc[-1]
-    prev_close = ohlc_df["Close"].iloc[-2] if len(ohlc_df) > 1 else last_close
-    start_close = ohlc_df["Close"].iloc[0]
+
+    # --- Compute performance (1d & 3m) ---
+    closes = ohlc_df["Close"].dropna()
+    last_close = closes.iloc[-1]
+    prev_close = closes.iloc[-2] if len(closes) > 1 else last_close
+    start_close = closes.iloc[0]  # period="3mo" => first day is 3M anchor
 
     perf_1d = (last_close / prev_close - 1) * 100
     perf_3m = (last_close / start_close - 1) * 100
 
     perf_1d_str = f"{perf_1d:+.1f}%"
     perf_3m_str = f"{perf_3m:+.1f}%"
-    
+
+    # --- Create OHLC chart ---
     fig = go.Figure(
         data=go.Ohlc(
             x=ohlc_df.index,
@@ -139,9 +165,9 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
             dict(bounds=["sat", "mon"]),
             dict(values=missing)
         ],
-        tickformat="%b %d",   # ex: Sep 05
-        tickangle=-45,        # penché pour gagner de la place
-        nticks=8              # plus de repères de date
+        tickformat="%b %d",
+        tickangle=-45,
+        nticks=8
     )
 
     fig.update_layout(
@@ -150,9 +176,8 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
         yaxis_title="Index level",
         xaxis_rangeslider_visible=False,
         template="plotly_white",
-        height=350,                       # plus compact pour mobile
-        margin=dict(l=40, r=10, t=40, b=60)
-        # ❌ pas de width ici → use_container_width=True fera le job
+        height=350,
+        margin=dict(l=40, r=10, t=40, b=60),
     )
 
     return fig
