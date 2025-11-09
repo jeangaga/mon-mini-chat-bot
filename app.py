@@ -208,7 +208,8 @@ if envoyer and user_input.strip() != "":
         st.session_state.messages.append(("plot", fig))
 
 # 🧾 Affichage de tout l'historique (texte + graph)
-for msg_type, content in st.session_state.messages:
+# 🧾 Affichage de tout l'historique (texte + graph)
+for i, (msg_type, content) in enumerate(st.session_state.messages):  # 👈 ajoute un index
     if msg_type == "user":
         st.markdown(
             f"""
@@ -234,6 +235,7 @@ for msg_type, content in st.session_state.messages:
             unsafe_allow_html=True,
         )
     elif msg_type == "plot":
-        st.plotly_chart(content, use_container_width=True)
+        # 🔑 Ajoute une clé unique pour chaque graphique
+        st.plotly_chart(content, use_container_width=True, key=f"plot_{i}")
 
 st.markdown("</div>", unsafe_allow_html=True)
