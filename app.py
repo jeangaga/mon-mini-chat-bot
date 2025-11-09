@@ -74,7 +74,17 @@ st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 st.title("💬 Mon mini chat bot en Python")
 st.write("Pose une question et je te réponds. Tu pourras modifier le code pour m’apprendre de nouvelles réponses 😉")
 
-# 🧾 Affichage de l’historique
+# 📝 Zone de saisie (avant l’affichage des messages)
+user_input = st.text_input("Écris ta question ici :")
+envoyer = st.button("Envoyer")
+
+# 👉 Si on clique sur Envoyer, on ajoute direct aux messages
+if envoyer and user_input.strip() != "":
+    st.session_state.messages.append(("user", user_input))
+    bot_reply = repondre(user_input)
+    st.session_state.messages.append(("bot", bot_reply))
+
+# 🧾 Affichage de l’historique (y compris le nouveau message)
 for sender, text in st.session_state.messages:
     if sender == "user":
         st.markdown(
@@ -100,21 +110,5 @@ for sender, text in st.session_state.messages:
             """,
             unsafe_allow_html=True,
         )
-
-# 📝 Zone de saisie
-user_input = st.text_input("Écris ta question ici :")
-
-envoyer = st.button("Envoyer")
-
-if envoyer and user_input.strip() != "":
-    # Ajoute message utilisateur
-    st.session_state.messages.append(("user", user_input))
-
-    # Génère la réponse
-    bot_reply = repondre(user_input)
-    st.session_state.messages.append(("bot", bot_reply))
-
-    # Recharge la page pour afficher les nouveaux messages
-    st.experimental_rerun()
 
 st.markdown("</div>", unsafe_allow_html=True)
