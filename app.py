@@ -78,7 +78,27 @@ def load_spx_ohlc():
     # Extract SPX OHLC cleanly
     ohlc = data.xs('^GSPC', level=1, axis=1)[["Open", "High", "Low", "Close"]]
     return ohlc
+def load_indices_ohlc():
+    """Download and prepare OHLC data for SPX / SX5E / RUT (3 months)."""
+    tickers = {
+        "SPX": "^GSPC",
+        "SX5E": "^STOXX50E",
+        "RUT": "^RUT",
+    }
 
+    data = yf.download(
+        list(tickers.values()),
+        period="3mo",
+        interval="1d",
+        auto_adjust=False,
+    )
+
+    out = {}
+    for code, yahoo in tickers.items():
+        ohlc = data.xs(yahoo, level=1, axis=1)[["Open", "High", "Low", "Close"]]
+        out[code] = ohlc
+
+    return out  # dict: {"SPX": df, "SX5E": df, "RUT": df}
 
 # --------------------------------------------------
 # 📈 Generate Plotly OHLC figure (self-contained)
@@ -128,6 +148,7 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
 # 🧠 Logique du bot : renvoie (texte, fig)
 def repondre(question: str):
     q = question.lower().strip()
+    q_upper = q.upper()
     fig = None  # par défaut, pas de graphique
 
     if q == "":
@@ -168,18 +189,18 @@ def repondre(question: str):
 
         return "Voici le graphique du SPX sur le dernier mois 📈", fig
     # 🟢 SPX case → load cached OHLC data
-    if "spx" in q:
-        try:
-            ohlc = load_spx_ohlc()
-            fig = generate_ohlc(ohlc, name="SPX")
-            # Display in Streamlit
-            st.plotly_chart(fig, use_container_width=True)
-            return "last 3m SPX chart 📈", fig
-        except Exception as e:
-            return f"Erreur lors du chargement du SPX : {e}", fig
-    # Réponse par défaut
-    return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !", fig
-
+    
+    # 🔎 Cherche un des tickers dans la question
+    for code in ["SPX", "SX5E", "RUT"]:
+        if code in q_upper:
+            try:
+                all_ohlc = load_indices_ohlc()
+                ohlc = all_ohlc[code]
+                fig = generate_ohlc(ohlc, name=code)
+                #st.plotly_chart(fig, use_container_width=True)
+                return f"last 3m {code} chart 📈", fig
+            except Exception as e:
+                return f"Erreur lors du chargement de {code} : {e}", None
 
 # 📌 Historique des messages (texte + graph)
 # On stocke des tuples (type, contenu) avec type ∈ {"user", "bot", "plot"}
