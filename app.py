@@ -336,6 +336,7 @@ def generate_labor_chart():
 # 🧠 Logique du bot : renvoie (texte, fig)
 def repondre(question: str):
     q = question.lower().strip()
+    q_lower = q.lower()
     q_upper = q.upper()
     fig = None  # par défaut, pas de graphique
 
@@ -345,11 +346,7 @@ def repondre(question: str):
     if "bonjour" in q or "salut" in q or "hello" in q:
         return "Salut 👋 ! Comment ça va aujourd’hui ?", fig
 
-    if "2+2" in q or "2 + 2" in q:
-        return "Facile ! 2 + 2 = 4 🔢", fig
 
-    if "comment tu t'appelles" in q or "comment tu t appelles" in q:
-        return "Je suis ton petit bot en Python 🤖.", fig
 
     if "merci" in q:
         return "Avec plaisir 😄 !", fig
