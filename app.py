@@ -1,7 +1,7 @@
 import streamlit as st
 
 # ⚙️ Config de la page
-st.set_page_config(page_title="Mon mini chat bot", page_icon="💬")
+st.set_page_config(page_title="Mon mini chat bot en Python", page_icon="💬")
 
 # 🌈 Un peu de style pour faire des bulles de chat
 st.markdown(
@@ -102,11 +102,9 @@ for sender, text in st.session_state.messages:
         )
 
 # 📝 Zone de saisie
-user_input = st.text_input("Écris ta question ici :", key="input")
+user_input = st.text_input("Écris ta question ici :")
 
-col1, col2 = st.columns([1, 4])
-with col1:
-    envoyer = st.button("Envoyer")
+envoyer = st.button("Envoyer")
 
 if envoyer and user_input.strip() != "":
     # Ajoute message utilisateur
@@ -116,10 +114,7 @@ if envoyer and user_input.strip() != "":
     bot_reply = repondre(user_input)
     st.session_state.messages.append(("bot", bot_reply))
 
-    # Vide la case texte
-    st.session_state.input = ""
-
-    # Force le rafraîchissement pour voir les bulles ajoutées
+    # Recharge la page pour afficher les nouveaux messages
     st.experimental_rerun()
 
 st.markdown("</div>", unsafe_allow_html=True)
