@@ -1,11 +1,16 @@
 import streamlit as st
 import yfinance as yf
-import plotly.express as px
 import plotly.graph_objects as go
-# ⚙️ Config de la page
-st.set_page_config(page_title="Mon mini chat bot en Python", page_icon="💬")
+import pandas as pd
 
-# 🌈 Un peu de style pour faire des bulles de chat
+# ⚙️ Config de la page
+st.set_page_config(
+    page_title="Mon mini chat bot en Python",
+    page_icon="💬",
+    layout="centered"
+)
+
+# 🌈 Style bulles de chat
 st.markdown(
     """
     <style>
@@ -45,101 +50,125 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 🧠 Mini "IA" très simple
-def repondre(question: str) -> str:
+# 🧊 Charge les données SPX une seule fois (cache Streamlit)
+@st.cache_data(ttl=3600)  # cache 1 heure par exemple
+def load_spx_close():
+    data = yf.download("^GSPC", period="1mo", interval="1d")
+    if data.empty:
+        return None
+
+    # Au cas où un jour tu passes plusieurs tickers
+    if isinstance(data.columns, pd.MultiIndex):
+        close = data["Close"]["^GSPC"]
+    else:
+        close = data["Close"]
+
+    return close
+
+
+# 🧠 Logique du bot : renvoie (texte, fig)
+def repondre(question: str):
     q = question.lower().strip()
+    fig = None  # par défaut, pas de graphique
 
     if q == "":
-        return "Tu n’as rien écrit 😅"
+        return "Tu n’as rien écrit 😅", fig
 
     if "bonjour" in q or "salut" in q or "hello" in q:
-        return "Salut 👋 ! Comment ça va aujourd’hui ?"
+        return "Salut 👋 ! Comment ça va aujourd’hui ?", fig
 
     if "2+2" in q or "2 + 2" in q:
-        return "Facile ! 2 + 2 = 4 🔢"
+        return "Facile ! 2 + 2 = 4 🔢", fig
 
     if "comment tu t'appelles" in q or "comment tu t appelles" in q:
-        return "Je suis ton petit bot en Python 🤖."
+        return "Je suis ton petit bot en Python 🤖.", fig
 
     if "merci" in q:
-        return "Avec plaisir 😄 !"
+        return "Avec plaisir 😄 !", fig
 
-    # 🟢 Nouveau cas : si l'utilisateur parle du SPX
+    # 🟢 Cas spécial SPX : on utilise les données cachées
     if "spx" in q:
-        try:
-            data = yf.download("^GSPC", period="1mo", interval="1d")
-            if data.empty:
-                return "Je n’ai pas réussi à récupérer les données du SPX 🤔."
+        close = load_spx_close()
+        if close is None:
+            return "Je n’ai pas réussi à récupérer les données du SPX 🤔.", fig
 
-            # On prend bien une série 1D
-            close = data["Close"]["^GSPC"]
+        fig = go.Figure()
+        fig.add_trace(
+            go.Scatter(
+                x=close.index,
+                y=close.values,   # vecteur 1D
+                mode="lines",
+                name="SPX"
+            )
+        )
+        fig.update_layout(
+            title="SPX – Dernier mois (clôture quotidienne)",
+            xaxis_title="Date",
+            yaxis_title="Close"
+        )
 
-            fig = go.Figure()
-            fig.add_trace(
-                go.Scatter(
-                    x=close.index,
-                    y=close.values,   # vecteur 1D
-                    mode="lines",
-                    name="SPX"
-                )
-            )
-            fig.update_layout(
-                title="SPX – Dernier mois (clôture quotidienne)",
-                xaxis_title="Date",
-                yaxis_title="Close"
-            )
-            st.plotly_chart(fig, use_container_width=True)
-            return "Voici le graphique du SPX sur le dernier mois 📈"
-        except Exception as e:
-            return f"Erreur lors du téléchargement du SPX : {e}"
+        return "Voici le graphique du SPX sur le dernier mois 📈", fig
 
     # Réponse par défaut
-    return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !"
+    return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !", fig
 
-# 📌 Initialisation de l’historique
+
+# 📌 Historique des messages (texte + graph)
+# On stocke des tuples (type, contenu) avec type ∈ {"user", "bot", "plot"}
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
 st.title("💬 Mon mini chat bot en Python")
-st.write("Pose une question et je te réponds. Tu pourras modifier le code pour m’apprendre de nouvelles réponses 😉")
+st.write("Pose une question et je te réponds. Tape « SPX » pour voir un graphique sur 1 mois 📈")
 
-# 📝 Zone de saisie (avant l’affichage des messages)
+# 📝 Saisie utilisateur
 user_input = st.text_input("Écris ta question ici :")
 envoyer = st.button("Envoyer")
 
-# 👉 Si on clique sur Envoyer, on ajoute direct aux messages
+# 👉 Quand on envoie un message
 if envoyer and user_input.strip() != "":
+    # 1. message utilisateur
     st.session_state.messages.append(("user", user_input))
-    bot_reply = repondre(user_input)
-    st.session_state.messages.append(("bot", bot_reply))
 
-# 🧾 Affichage de l’historique (y compris le nouveau message)
-for sender, text in st.session_state.messages:
-    if sender == "user":
+    # 2. réponse + éventuel graphique
+    reply_text, fig = repondre(user_input)
+
+    # 3. texte bot
+    st.session_state.messages.append(("bot", reply_text))
+
+    # 4. graphique dans l’historique si présent
+    if fig is not None:
+        st.session_state.messages.append(("plot", fig))
+
+# 🧾 Affichage de tout l'historique (texte + graph)
+for msg_type, content in st.session_state.messages:
+    if msg_type == "user":
         st.markdown(
             f"""
             <div class="message">
                 <div class="user-bubble">
                     <div class="username">Toi</div>
-                    {text}
+                    {content}
                 </div>
             </div>
             """,
             unsafe_allow_html=True,
         )
-    else:
+    elif msg_type == "bot":
         st.markdown(
             f"""
             <div class="message">
                 <div class="bot-bubble">
                     <div class="username">Bot</div>
-                    {text}
+                    {content}
                 </div>
             </div>
             """,
             unsafe_allow_html=True,
         )
+    elif msg_type == "plot":
+        st.plotly_chart(content, use_container_width=True)
 
 st.markdown("</div>", unsafe_allow_html=True)
