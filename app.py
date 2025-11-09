@@ -88,7 +88,7 @@ def repondre(question: str) -> str:
                 xaxis_title="Date",
                 yaxis_title="Close"
             )
-            fig.show()
+            st.plotly_chart(fig, use_container_width=True)
             return "Voici le graphique du SPX sur le dernier mois 📈"
         except Exception as e:
             return f"Erreur lors du téléchargement du SPX : {e}"
