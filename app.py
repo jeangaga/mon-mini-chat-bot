@@ -83,13 +83,13 @@ def load_spx_ohlc():
 # --------------------------------------------------
 # 📈 Generate Plotly OHLC figure (self-contained)
 # --------------------------------------------------
+
 def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     """Generate an interactive OHLC Plotly figure from an OHLC DataFrame."""
-    # Detect missing (non-trading) days automatically
+    # Détection des jours ouvrés manquants (fériés)
     full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
     missing = full_index.difference(ohlc_df.index)
 
-    # Create OHLC chart
     fig = go.Figure(
         data=go.Ohlc(
             x=ohlc_df.index,
@@ -101,25 +101,28 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
         )
     )
 
-    # Remove weekends + holidays
     fig.update_xaxes(
         rangebreaks=[
             dict(bounds=["sat", "mon"]),
             dict(values=missing)
-        ]
+        ],
+        tickformat="%b %d",   # ex: Sep 05
+        tickangle=-45,        # penché pour gagner de la place
+        nticks=8              # plus de repères de date
     )
 
     fig.update_layout(
-        title=f"{name} – OHLC over the last 3 months (no gaps)",
+        title=f"{name} –  last 3 months ",
         xaxis_title="Date",
         yaxis_title="Index level",
         xaxis_rangeslider_visible=False,
         template="plotly_white",
-        height=500,
-        width=900
+        height=350,                       # plus compact pour mobile
+        margin=dict(l=40, r=10, t=40, b=60)
+        # ❌ pas de width ici → use_container_width=True fera le job
     )
-    return fig
 
+    return fig
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
