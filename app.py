@@ -1,5 +1,7 @@
 import streamlit as st
-
+import yfinance as yf
+import plotly.express as px
+import plotly.graph_objects as go
 # ⚙️ Config de la page
 st.set_page_config(page_title="Mon mini chat bot en Python", page_icon="💬")
 
@@ -61,6 +63,33 @@ def repondre(question: str) -> str:
 
     if "merci" in q:
         return "Avec plaisir 😄 !"
+
+    # 🟢 Nouveau cas : si l'utilisateur parle du SPX
+    if "spx" in q:
+        try:
+            data = yf.download("^GSPC", period="1mo", interval="1d")
+            if data.empty:
+                return "Je n’ai pas réussi à récupérer les données du SPX 🤔."
+
+            # On prend bien une série 1D
+            close = data["Close"]["^GSPC"]
+
+            fig = go.Figure()
+            fig.add_trace(
+                go.Scatter(
+                    x=close.index,
+                    y=close.values,   # vecteur 1D
+                    mode="lines",
+                    name="SPX"
+                )
+            )
+            fig.update_layout(
+                title="SPX – Dernier mois (clôture quotidienne)",
+                xaxis_title="Date",
+                yaxis_title="Close"
+            )
+            fig.show()
+    
 
     # Réponse par défaut
     return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !"
