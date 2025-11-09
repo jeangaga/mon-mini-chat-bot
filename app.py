@@ -65,39 +65,52 @@ def load_spx_close():
 
     return close
 
+
+# --------------------------------------------------
+# 🧊 Load and cache SPX OHLC data (3 months)
+# --------------------------------------------------
+@st.cache_data(ttl=3600)
 def load_spx_ohlc():
-    """Download and prepare OHLC data for SPX (3 months)"""
+    """Download and prepare OHLC data for SPX (3 months)."""
     tickers = ['^GSPC', '^STOXX50E', '^RUT']
     data = yf.download(tickers, period="3mo", interval="1d", auto_adjust=False)
 
     # Extract SPX OHLC cleanly
     ohlc = data.xs('^GSPC', level=1, axis=1)[["Open", "High", "Low", "Close"]]
+    return ohlc
 
-    # Build business-day index and compute missing (holidays etc.)
-    full_index = pd.date_range(start=ohlc.index.min(), end=ohlc.index.max(), freq="B")
-    missing = full_index.difference(ohlc.index)
+
+# --------------------------------------------------
+# 📈 Generate Plotly OHLC figure (self-contained)
+# --------------------------------------------------
+def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
+    """Generate an interactive OHLC Plotly figure from an OHLC DataFrame."""
+    # Detect missing (non-trading) days automatically
+    full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
+    missing = full_index.difference(ohlc_df.index)
 
     # Create OHLC chart
     fig = go.Figure(
         data=go.Ohlc(
-            x=ohlc.index,
-            open=ohlc["Open"],
-            high=ohlc["High"],
-            low=ohlc["Low"],
-            close=ohlc["Close"],
-            name="SPX"
+            x=ohlc_df.index,
+            open=ohlc_df["Open"],
+            high=ohlc_df["High"],
+            low=ohlc_df["Low"],
+            close=ohlc_df["Close"],
+            name=name
         )
     )
 
+    # Remove weekends + holidays
     fig.update_xaxes(
         rangebreaks=[
             dict(bounds=["sat", "mon"]),
-            dict(values=missing)  # remove holidays
+            dict(values=missing)
         ]
     )
 
     fig.update_layout(
-        title="S&P 500 (SPX) – OHLC over the last 3 months (no gaps)",
+        title=f"{name} – OHLC over the last 3 months (no gaps)",
         xaxis_title="Date",
         yaxis_title="Index level",
         xaxis_rangeslider_visible=False,
@@ -105,8 +118,8 @@ def load_spx_ohlc():
         height=500,
         width=900
     )
+    return fig
 
-    return ohlc, fig
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
@@ -154,7 +167,10 @@ def repondre(question: str):
     # 🟢 SPX case → load cached OHLC data
     if "spx" in q:
         try:
-            ohlc, fig = load_spx_ohlc()
+            ohlc = load_spx_ohlc()
+            fig = generate_ohlc(ohlc, name="SPX")
+            # Display in Streamlit
+            st.plotly_chart(fig, use_container_width=True)
             return "last 3m SPX chart 📈", fig
         except Exception as e:
             return f"Erreur lors du chargement du SPX : {e}", fig
