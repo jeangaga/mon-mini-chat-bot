@@ -309,8 +309,8 @@ def generate_labor_chart():
 
     # --- Subplots side-by-side ---
     fig = make_subplots(
-        rows=1,
-        cols=2,
+        rows=2,
+        cols=1,
         subplot_titles=("Total Nonfarm Payrolls", "Private Payrolls")
     )
 
@@ -319,8 +319,8 @@ def generate_labor_chart():
     fig.add_trace(go.Scatter(x=nfp["Date"], y=nfp["3m MA"], name="3m MA", mode="lines"), row=1, col=1)
 
     # Right panel – private payrolls
-    fig.add_trace(go.Scatter(x=private["Date"], y=private["Private Δ"], name="Private Δ (m/m)", mode="lines"), row=1, col=2)
-    fig.add_trace(go.Scatter(x=private["Date"], y=private["3m MA"], name="3m MA", mode="lines"), row=1, col=2)
+    fig.add_trace(go.Scatter(x=private["Date"], y=private["Private Δ"], name="Private Δ (m/m)", mode="lines"), row=2, col=1)
+    fig.add_trace(go.Scatter(x=private["Date"], y=private["3m MA"], name="3m MA", mode="lines"), row=2, col=1)
 
     # --- Layout ---
     fig.update_layout(
