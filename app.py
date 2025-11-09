@@ -119,6 +119,11 @@ import streamlit as st
 import yfinance as yf
 import plotly.graph_objects as go
 import pandas as pd
+import fredapi as fa
+from plotly.subplots import make_subplots
+
+# Initialize FRED API (use Streamlit secrets in production)
+fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
 
 # ⚙️ Config de la page
 st.set_page_config(
@@ -281,6 +286,52 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     return fig
 
 
+def load_fred_series(series_id):
+    """Fetch a FRED series and return a pandas Series."""
+    return fred.get_series(series_id)
+
+def generate_labor_chart():
+    """Fetch and plot NFP and Private Payrolls (monthly, 3m MA)."""
+
+    # --- Nonfarm Payrolls ---
+    nfp = load_fred_series("PAYEMS").to_frame("Payrolls")
+    nfp["Date"] = nfp.index
+    nfp["NFP Δ"] = nfp["Payrolls"].diff()
+    nfp["3m MA"] = nfp["NFP Δ"].rolling(window=3).mean()
+    nfp = nfp[nfp.index > "2022-01-01"]
+
+    # --- Private Payrolls ---
+    private = load_fred_series("USPRIV").to_frame("Private Payrolls")
+    private["Date"] = private.index
+    private["Private Δ"] = private["Private Payrolls"].diff()
+    private["3m MA"] = private["Private Δ"].rolling(window=3).mean()
+    private = private[private.index > "2022-01-01"]
+
+    # --- Subplots side-by-side ---
+    fig = make_subplots(
+        rows=1,
+        cols=2,
+        subplot_titles=("Total Nonfarm Payrolls", "Private Payrolls")
+    )
+
+    # Left panel – total NFP
+    fig.add_trace(go.Scatter(x=nfp["Date"], y=nfp["NFP Δ"], name="NFP Δ (m/m)", mode="lines"), row=1, col=1)
+    fig.add_trace(go.Scatter(x=nfp["Date"], y=nfp["3m MA"], name="3m MA", mode="lines"), row=1, col=1)
+
+    # Right panel – private payrolls
+    fig.add_trace(go.Scatter(x=private["Date"], y=private["Private Δ"], name="Private Δ (m/m)", mode="lines"), row=1, col=2)
+    fig.add_trace(go.Scatter(x=private["Date"], y=private["3m MA"], name="3m MA", mode="lines"), row=1, col=2)
+
+    # --- Layout ---
+    fig.update_layout(
+        title_text="U.S. Labor Market — Monthly Changes in Payrolls (k jobs)",
+        template="plotly_white",
+        height=500,
+        margin=dict(l=40, r=10, t=40, b=40),
+        legend=dict(orientation="h", y=-0.2),
+    )
+
+    return fig
 
 # 🧠 Logique du bot : renvoie (texte, fig)
 def repondre(question: str):
@@ -317,6 +368,11 @@ def repondre(question: str):
                 return f"last 3m {code} chart 📈", fig
             except Exception as e:
                 return f"Erreur lors du chargement de {code} : {e}", None
+   
+    # Labor Market chart
+    if "labor" in q_lower:
+        fig = generate_labor_chart()
+        return "U.S. Labor Market update 📊", fig
 
 # 📌 Historique des messages (texte + graph)
 # On stocke des tuples (type, contenu) avec type ∈ {"user", "bot", "plot"}
