@@ -84,6 +84,9 @@ def load_indices_ohlc():
         "SPX": "^GSPC",
         "SX5E": "^STOXX50E",
         "RUT": "^RUT",
+        "NDX" : "^IXIC",
+        "HSI" :"^HSI",
+        "CAC" : "^FCHI"
     }
 
     data = yf.download(
@@ -109,7 +112,17 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     # Détection des jours ouvrés manquants (fériés)
     full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
     missing = full_index.difference(ohlc_df.index)
+    # --- Compute performance ---
+    last_close = ohlc_df["Close"].iloc[-1]
+    prev_close = ohlc_df["Close"].iloc[-2] if len(ohlc_df) > 1 else last_close
+    start_close = ohlc_df["Close"].iloc[0]
 
+    perf_1d = (last_close / prev_close - 1) * 100
+    perf_3m = (last_close / start_close - 1) * 100
+
+    perf_1d_str = f"{perf_1d:+.1f}%"
+    perf_3m_str = f"{perf_3m:+.1f}%"
+    
     fig = go.Figure(
         data=go.Ohlc(
             x=ohlc_df.index,
@@ -132,7 +145,7 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     )
 
     fig.update_layout(
-        title=f"{name} –  last 3 months ",
+        title=f"{name} – 1d: {perf_1d_str} • 3m: {perf_3m_str}",
         xaxis_title="Date",
         yaxis_title="Index level",
         xaxis_rangeslider_visible=False,
@@ -166,32 +179,11 @@ def repondre(question: str):
     if "merci" in q:
         return "Avec plaisir 😄 !", fig
 
-    # 🟢 Cas spécial SPX : on utilise les données cachées
-    if "spxold" in q:
-        close = load_spx_close()
-        if close is None:
-            return "Je n’ai pas réussi à récupérer les données du SPX 🤔.", fig
 
-        fig = go.Figure()
-        fig.add_trace(
-            go.Scatter(
-                x=close.index,
-                y=close.values,   # vecteur 1D
-                mode="lines",
-                name="SPX"
-            )
-        )
-        fig.update_layout(
-            title="SPX – Dernier mois (clôture quotidienne)",
-            xaxis_title="Date",
-            yaxis_title="Close"
-        )
-
-        return "Voici le graphique du SPX sur le dernier mois 📈", fig
     # 🟢 SPX case → load cached OHLC data
     
     # 🔎 Cherche un des tickers dans la question
-    for code in ["SPX", "SX5E", "RUT"]:
+    for code in ["SPX", "SX5E", "RUT","NDX","CAC","HSI"]:
         if code in q_upper:
             try:
                 all_ohlc = load_indices_ohlc()
