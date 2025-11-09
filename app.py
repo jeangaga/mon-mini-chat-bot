@@ -108,39 +108,20 @@ def load_indices_ohlc():
 # --------------------------------------------------
 
 def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
+    """Generate an interactive OHLC Plotly figure from a single-index OHLC DataFrame."""
 
-    """
-    Generate an interactive OHLC Plotly figure for a given index (SPX, SX5E, RUT).
-    Works even if you pass the full multi-ticker DataFrame directly.
-    """
-
-    # 🔹 Mapping between index code and Yahoo Finance symbol
-    ticker_map = {
-        "SPX": "^GSPC",
-        "SX5E": "^STOXX50E",
-        "RUT": "^RUT",
-    }
-
-    # 🔹 If the input is the multi-ticker dataframe (MultiIndex columns)
-    if isinstance(ohlc_df.columns, pd.MultiIndex):
-        if name not in ticker_map:
-            raise ValueError(f"Unknown index name: {name}")
-        yahoo_code = ticker_map[name]
-        # Extract the OHLC subpart for the given ticker
-        ohlc_df = ohlc_df.xs(yahoo_code, level=1, axis=1)[["Open", "High", "Low", "Close"]]
-
-
-
-    
-     # --- Detect missing days (holidays etc.) ---
+    # --- détecter les jours manquants (fériés) ---
     full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
     missing = full_index.difference(ohlc_df.index)
 
-    # --- Compute performance (1d & 3m) ---
+    # --- perfs 1d & 3m ---
     closes = ohlc_df["Close"].dropna()
+    if len(closes) < 2:
+        raise ValueError(f"Not enough data to compute performance for {name}")
+
     last_close = closes.iloc[-1]
-    prev_close = closes.iloc[-2] if len(closes) > 1 else last_close
-    start_close = closes.iloc[0]  # period="3mo" => first day is 3M anchor
+    prev_close = closes.iloc[-2]
+    start_close = closes.iloc[0]   # début des 3 mois
 
     perf_1d = (last_close / prev_close - 1) * 100
     perf_3m = (last_close / start_close - 1) * 100
@@ -148,7 +129,7 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     perf_1d_str = f"{perf_1d:+.1f}%"
     perf_3m_str = f"{perf_3m:+.1f}%"
 
-    # --- Create OHLC chart ---
+    # --- figure OHLC ---
     fig = go.Figure(
         data=go.Ohlc(
             x=ohlc_df.index,
@@ -156,18 +137,18 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
             high=ohlc_df["High"],
             low=ohlc_df["Low"],
             close=ohlc_df["Close"],
-            name=name
+            name=name,
         )
     )
 
     fig.update_xaxes(
         rangebreaks=[
             dict(bounds=["sat", "mon"]),
-            dict(values=missing)
+            dict(values=missing),
         ],
         tickformat="%b %d",
         tickangle=-45,
-        nticks=8
+        nticks=8,
     )
 
     fig.update_layout(
@@ -181,6 +162,7 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     )
 
     return fig
+
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
