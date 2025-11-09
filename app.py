@@ -89,7 +89,9 @@ def repondre(question: str) -> str:
                 yaxis_title="Close"
             )
             fig.show()
-    
+            return "Voici le graphique du SPX sur le dernier mois 📈"
+        except Exception as e:
+            return f"Erreur lors du téléchargement du SPX : {e}"
 
     # Réponse par défaut
     return "Je ne sais pas encore répondre à ça 🤔, mais tu peux modifier mon code pour m’apprendre !"
