@@ -1,3 +1,120 @@
+"""
+=====================================================================
+💬 MON MINI CHAT BOT STREAMLIT — VERSION INDICES BOURSIERS (SPX, SX5E, RUT, etc.)
+=====================================================================
+
+📌 OBJECTIF
+-----------
+Ce programme crée une application Streamlit interactive où l'utilisateur
+peut dialoguer avec un "bot" capable de répondre à des messages simples
+et d’afficher des graphiques de marchés boursiers (indices) à la demande.
+
+Exemple :
+    - "SPX"   → affiche le graphique OHLC du S&P 500 sur 3 mois
+    - "SX5E"  → affiche le graphique EuroStoxx 50 sur 3 mois
+    - "RUT"   → affiche le graphique Russell 2000
+    - "NDX"   → Nasdaq 100
+    - "HSI"   → Hang Seng
+    - "CAC"   → CAC 40
+
+L’interface est présentée comme une conversation :
+les messages récents apparaissent **en haut**, l’historique **en bas**,
+et chaque échange est séparé par une fine ligne grise.
+
+---------------------------------------------------------------------
+🏗️ STRUCTURE GÉNÉRALE DU CODE
+---------------------------------------------------------------------
+
+1️⃣  IMPORTS ET CONFIGURATION STREAMLIT
+    - streamlit, yfinance, pandas, plotly.graph_objects
+    - configuration de la page Streamlit (titre, icône, layout centré)
+
+2️⃣  CHARGEMENT DES DONNÉES — `load_indices_ohlc()`
+    - télécharge les données OHLC de plusieurs indices via Yahoo Finance
+    - période : 3 derniers mois, intervalle : 1 jour
+    - renvoie un dictionnaire :
+        {
+            "SPX": DataFrame OHLC du S&P 500,
+            "SX5E": DataFrame OHLC de l’EuroStoxx 50,
+            ...
+        }
+    - cette fonction est **mise en cache** via `@st.cache_data(ttl=3600)`
+      → téléchargement limité à une fois par heure
+
+3️⃣  GÉNÉRATION DU GRAPHIQUE — `generate_ohlc(ohlc_df, name)`
+    - prend un DataFrame OHLC (issu du dictionnaire précédent)
+    - calcule :
+        • performance 1 jour (%)
+        • performance 3 mois (%)
+    - crée un graphique Plotly OHLC interactif :
+        • sans week-ends ni jours fériés (via rangebreaks)
+        • axe des dates propre (tickformat + angle)
+    - ajoute un titre dynamique :
+        ex. "SPX – 1d: +0.8% • 3m: +4.9%"
+
+4️⃣  LOGIQUE DE RÉPONSE — `repondre(question)`
+    - analyse la question saisie par l'utilisateur
+    - réponses textuelles de base :
+        • "bonjour", "merci", "hello" → réponse amicale
+    - détection d’un ticker dans ["SPX", "SX5E", "RUT", "NDX", "HSI", "CAC"]
+        → appelle `load_indices_ohlc()`
+        → sélectionne le bon DataFrame
+        → appelle `generate_ohlc()` pour produire le graphique
+        → renvoie le texte et la figure à afficher
+    - renvoie par défaut "Je ne sais pas encore répondre à ça 🤔"
+
+5️⃣  GESTION DE L’HISTORIQUE — `st.session_state.messages`
+    - stocke les messages dans une liste de tuples :
+        ("user", texte) | ("bot", texte) | ("plot", fig)
+    - permet de conserver l’historique après chaque interaction
+    - les figures Plotly ont une clé unique (`key=f"plot_{i}"`)
+      pour éviter l’erreur StreamlitDuplicateElementId
+
+6️⃣  AFFICHAGE (BOUCLE DE CHAT)
+    - les messages sont affichés **en ordre inverse** (plus récents en haut)
+    - format HTML léger (bulles vertes pour l’utilisateur, grises pour le bot)
+    - une fine ligne grise `<hr>` sépare chaque échange
+    - les graphiques s’affichent en dessous de chaque réponse du bot
+
+---------------------------------------------------------------------
+📈 POINTS TECHNIQUES IMPORTANTS
+---------------------------------------------------------------------
+
+✅ `rangebreaks` sur l’axe X
+   → supprime les week-ends et jours fériés
+   → timeline continue de trading
+
+✅ `@st.cache_data(ttl=3600)`
+   → évite de recharger les données à chaque interaction
+   → rafraîchit automatiquement après 1h
+
+✅ Clé unique dans `st.plotly_chart()`
+   → `key=f"plot_{i}"` pour éviter les doublons d’éléments Streamlit
+
+✅ Design responsive
+   → `use_container_width=True` permet une adaptation mobile fluide
+   → graphique plus compact (`height=350`) pour téléphone
+
+---------------------------------------------------------------------
+🔧 EXTENSIONS POSSIBLES
+---------------------------------------------------------------------
+- Ajouter des actions individuelles (AAPL, TSLA, etc.)
+- Ajouter un menu déroulant de tickers
+- Ajouter une mini-carte des performances globales
+- Ajouter le dernier prix "spot" ou la variation journalière en annotation
+- Ajouter la détection automatique de phrases du type “montre-moi le CAC”
+
+---------------------------------------------------------------------
+🧠 AUTEUR -- JGM
+---------------------------------------------------------------------
+Code rédigé et documenté avec l’aide de ChatGPT (GPT-5)
+pour un usage éducatif, analytique et personnel.
+
+=====================================================================
+"""
+
+
+
 import streamlit as st
 import yfinance as yf
 import plotly.graph_objects as go
