@@ -209,7 +209,7 @@ if "messages" not in st.session_state:
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
 st.title("💬 Mon mini chat bot en Python")
-st.write("Pose une question et je te réponds. Tape « SPX » pour voir un graphique sur 1 mois 📈")
+st.write("Pose une question et je te réponds. Tape « SPX » pour voir un graphique sur 3 mois 📈")
 
 # 📝 Saisie utilisateur
 user_input = st.text_input("Écris ta question ici :")
@@ -231,34 +231,39 @@ if envoyer and user_input.strip() != "":
         st.session_state.messages.append(("plot", fig))
 
 # 🧾 Affichage de tout l'historique (texte + graph)
-# 🧾 Affichage de tout l'historique (texte + graph)
-for i, (msg_type, content) in enumerate(st.session_state.messages):  # 👈 ajoute un index
+# 💬 Affichage inversé : les nouveaux messages en haut
+st.markdown("<div class='chat-container' style='display:flex; flex-direction:column-reverse;'>", unsafe_allow_html=True)
+
+for i, (msg_type, content) in enumerate(reversed(st.session_state.messages)):
     if msg_type == "user":
         st.markdown(
             f"""
-            <div class="message">
-                <div class="user-bubble">
-                    <div class="username">Toi</div>
-                    {content}
+            <div class="message" style="margin-top:8px; margin-bottom:8px;">
+                <div class="user-bubble" style="background-color:#DCF8C6; border-radius:12px; padding:8px;">
+                    <strong>Toi :</strong> {content}
                 </div>
             </div>
             """,
             unsafe_allow_html=True,
         )
+
     elif msg_type == "bot":
         st.markdown(
             f"""
-            <div class="message">
-                <div class="bot-bubble">
-                    <div class="username">Bot</div>
-                    {content}
+            <div class="message" style="margin-top:8px; margin-bottom:8px;">
+                <div class="bot-bubble" style="background-color:#F1F0F0; border-radius:12px; padding:8px;">
+                    <strong>Bot :</strong> {content}
                 </div>
             </div>
             """,
             unsafe_allow_html=True,
         )
+
     elif msg_type == "plot":
-        # 🔑 Ajoute une clé unique pour chaque graphique
         st.plotly_chart(content, use_container_width=True, key=f"plot_{i}")
 
+    # 🔹 fine grey separator between conversation turns
+    st.markdown("<hr style='margin:4px 0; border:0.5px solid #e0e0e0;'>", unsafe_allow_html=True)
+
 st.markdown("</div>", unsafe_allow_html=True)
+
