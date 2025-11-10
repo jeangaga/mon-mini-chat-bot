@@ -289,7 +289,8 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
 def load_index_comment(code: str):
     """Charge les infos du dernier tag JSON d’un indice (SPX, SX5E, etc.) depuis GitHub."""
     try:
-        url = f"https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/{code}.json"
+        #url = f"https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/{code}.json"
+        url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/SPX.json"
         r = requests.get(url)
         if r.status_code != 200:
             return f"❌ Aucun commentaire trouvé pour {code}."
