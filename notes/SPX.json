@@ -1,0 +1,25 @@
+{
+  "tag": "SPX",
+  "date": "2025-11-07",
+  "close": 6728.8,
+  "daily_change_pct": 0.13,
+  "trend": "neutral",
+  "bias_emoji": "🟡",
+  "key_levels": {
+    "support_1": 6700,
+    "support_2": 6800,
+    "resistance_1": 6900,
+    "resistance_2": 7000
+  },
+  "retail_sentiment": "mixed",
+  "top_tickers": [
+    "SPY",
+    "SPX"
+  ],
+  "top_topics": [
+    "AI-led rally and new highs",
+    "pullback towards rising channel support",
+    "0DTE options activity on SPY"
+  ],
+  "comment": "SPX is consolidating just below recent highs, holding above the 6,700 area within a broader rising channel. Bulls still control the medium-term trend, but the loss of momentum and repeated tests of support keep the near-term bias closer to neutral, with 6,700–6,800 as key support and 6,900–7,000 as the main resistance zone to watch."
+}
