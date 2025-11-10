@@ -4,7 +4,7 @@
   "close": 6728.8,
   "daily_change_pct": 0.13,
   "trend": "neutral",
-  "bias_emoji": "neutral",
+  "bias": "neutral",
   "key_levels": {
     "support_1": 6700,
     "support_2": 6800,
@@ -12,10 +12,7 @@
     "resistance_2": 7000
   },
   "retail_sentiment": "mixed",
-  "top_tickers": [
-    "SPY",
-    "SPX"
-  ],
+  "top_tickers": ["SPY", "SPX"],
   "top_topics": [
     "AI-led rally and new highs",
     "pullback towards rising channel support",
