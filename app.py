@@ -399,9 +399,9 @@ def repondre(question: str):
                 return f"Erreur lors du chargement de {code} : {e}", None
    
     # Labor Market chart
-    if "labor" in q_lower:
+    if "nfp" in q_lower:
         fig = generate_labor_chart()
-        return "U.S. Labor Market update 📊", fig
+        return "U.S. Labor NFP update 📊", fig
 
 # 📌 Historique des messages (texte + graph)
 # On stocke des tuples (type, contenu) avec type ∈ {"user", "bot", "plot"}
