@@ -295,8 +295,8 @@ def load_index_comment(code: str):
         if r.status_code != 200:
             return f"❌ Aucun commentaire trouvé pour {code}."
         # 🔍 DEBUG : afficher ce qu'on reçoit vraiment
-        st.write(f"DEBUG {code} status:", r.status_code)
-        st.write("DEBUG first 200 chars:", r.text[:200])
+        #st.write(f"DEBUG {code} status:", r.status_code)
+        #st.write("DEBUG first 200 chars:", r.text[:200])
         
         data = r.json()
 
@@ -415,7 +415,7 @@ if "messages" not in st.session_state:
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
 st.title("💬 JGM Macro chat bot")
-st.write("Pose une question et je te réponds. Tape « SPX » pour voir un graphique sur 3 mois 📈")
+st.write("Enter ticker (SPX) or macro (NFP)")
 
 # 📝 Saisie utilisateur
 user_input = st.text_input("Écris ta question ici :")
