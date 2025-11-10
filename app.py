@@ -293,7 +293,10 @@ def load_index_comment(code: str):
         r = requests.get(url)
         if r.status_code != 200:
             return f"❌ Aucun commentaire trouvé pour {code}."
-
+        # 🔍 DEBUG : afficher ce qu'on reçoit vraiment
+        st.write(f"DEBUG {code} status:", r.status_code)
+        st.write("DEBUG first 200 chars:", r.text[:200])
+        
         data = r.json()
 
         tag_date = data.get("date", "n/a")
