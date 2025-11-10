@@ -121,6 +121,7 @@ import plotly.graph_objects as go
 import pandas as pd
 import fredapi as fa
 from plotly.subplots import make_subplots
+import requests
 
 # Initialize FRED API (use Streamlit secrets in production)
 fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
