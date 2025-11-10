@@ -285,6 +285,33 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
 
     return fig
 
+def load_index_comment(code: str):
+    """Charge les infos du dernier tag JSON d’un indice (SPX, SX5E, etc.) depuis GitHub."""
+    try:
+        url = f"https://raw.githubusercontent.com/tonuser/tonrepo/main/notes/{code}.json"
+        r = requests.get(url)
+        if r.status_code != 200:
+            return f"❌ Aucun commentaire trouvé pour {code}."
+
+        data = r.json()
+
+        tag_date = data.get("date", "n/a")
+        close_val = data.get("close", "n/a")
+        sentiment = data.get("retail_sentiment", "n/a")
+        topics = ", ".join(data.get("top_topics", []))
+        comment = data.get("comment", "n/a")
+
+        text = (
+            f"**Dernier tag {code} ({tag_date})**  \n"
+            f"📈 **Clôture :** {close_val}  \n"
+            f"🧠 **Sentiment retail :** {sentiment}  \n"
+            f"🔥 **Top sujets :** {topics}  \n"
+            f"💬 **Commentaire :** {comment}"
+        )
+        return text
+
+    except Exception as e:
+        return f"Erreur lors du chargement du commentaire {code} : {e}"
 
 def load_fred_series(series_id):
     """Fetch a FRED series and return a pandas Series."""
@@ -361,8 +388,12 @@ def repondre(question: str):
                 all_ohlc = load_indices_ohlc()
                 ohlc = all_ohlc[code]
                 fig = generate_ohlc(ohlc, name=code)
-                #st.plotly_chart(fig, use_container_width=True)
-                return f"last 3m {code} chart 📈", fig
+                # 🔹 Charger le commentaire JSON correspondant
+                comment_text = load_index_comment(code)
+
+                # 👉 Retourne le texte et le graphique
+                return comment_text, fig               
+                
             except Exception as e:
                 return f"Erreur lors du chargement de {code} : {e}", None
    
