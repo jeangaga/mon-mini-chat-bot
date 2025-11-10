@@ -378,7 +378,7 @@ if "messages" not in st.session_state:
 
 st.markdown("<div class='chat-container'>", unsafe_allow_html=True)
 
-st.title("💬 Mon mini chat bot en Python")
+st.title("💬 JGM Macro chat bot")
 st.write("Pose une question et je te réponds. Tape « SPX » pour voir un graphique sur 3 mois 📈")
 
 # 📝 Saisie utilisateur
