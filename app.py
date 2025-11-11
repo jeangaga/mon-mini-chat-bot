@@ -366,13 +366,23 @@ def load_index_comment(code: str):
 
 def load_stock_comment(code: str):
     """
-    Charge le commentaire fondamental d’un titre (AAPL, MSFT, META...) 
+    Charge le commentaire fondamental d’un titre (AAPL, MSFT, META...)
     depuis le JSON global stocks_daily_fundamental_feed_YYYYMMDD.json sur GitHub.
     Si le fichier du jour n’existe pas, essaie automatiquement jusqu’à 10 jours en arrière.
     """
+
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
     found_data = None
     used_date = None
+
+    # Petit helper pour nettoyer les strings (supprimer \n multiples, espaces chelous)
+    def clean(text):
+        if text is None:
+            return ""
+        if not isinstance(text, str):
+            text = str(text)
+        # collapse tous les espaces / retours à la ligne en un seul espace
+        return " ".join(text.split())
 
     # 🔁 Boucle sur les 10 derniers jours
     for i in range(10):
@@ -400,21 +410,47 @@ def load_stock_comment(code: str):
 
         # === Extraction principale ===
         ticker = stock.get("ticker", code)
-        summary = stock.get("chat_summary", "n/a")
-        last_earn = stock.get("last_earnings", {})
-        news = stock.get("market_news_last_5d", {})
         sentiment = stock.get("sentiment_tag", "n/a")
 
+        news = stock.get("market_news_last_5d", {}) or {}
+        last_earn = stock.get("last_earnings", {}) or {}
+        summary_raw = stock.get("chat_summary", "n/a")
+
         # === Détails Earnings ===
-        last_period = last_earn.get("period", "n/a")
-        last_report_date = last_earn.get("report_date", "n/a")
-        last_comment = last_earn.get("summary_comment", "n/a")
+        last_period = clean(last_earn.get("period", "n/a"))
+        last_report_date = clean(last_earn.get("report_date", "n/a"))
+        last_comment = clean(last_earn.get("summary_comment", "n/a"))
+
+        # === Key insights ===
+        key_insights = last_earn.get("key_insights", {}) or {}
+        if key_insights:
+            ki_lines = [
+                f"- **{clean(k)} :** {clean(v)}"
+                for k, v in key_insights.items()
+            ]
+            key_insights_text = "\n".join(ki_lines)
+        else:
+            key_insights_text = "_Pas de key insights disponibles._"
+
+        # === Outlook ===
+        outlook = last_earn.get("outlook", {}) or {}
+        if outlook:
+            ol_lines = [
+                f"- **{clean(k)} :** {clean(v)}"
+                for k, v in outlook.items()
+            ]
+            outlook_text = "\n".join(ol_lines)
+        else:
+            outlook_text = "_Pas d’outlook disponible._"
 
         # === Détails News ===
-        news_summary = news.get("summary_overview", "")
-        market_reaction = news.get("market_reaction", "")
+        news_summary = clean(news.get("summary_overview", ""))
+        market_reaction = clean(news.get("market_reaction", ""))
 
-        # === Format markdown pour Streamlit/chatbox ===
+        # === Synthèse JGM / chatbox ===
+        summary = clean(summary_raw)
+
+        # === Format markdown pour Streamlit / chatbox ===
         text = (
             f"### 🧾 **{ticker} — Résumé fondamental ({used_date})**  \n"
             f"**Sentiment :** {sentiment}  \n\n"
@@ -423,6 +459,10 @@ def load_stock_comment(code: str):
             f"🪙 *Réaction de marché :* {market_reaction}\n\n"
             f"**Dernier trimestre reporté :** {last_period} *(publié le {last_report_date})*  \n"
             f"{last_comment}\n\n"
+            f"**Key insights :**  \n"
+            f"{key_insights_text}\n\n"
+            f"**Outlook :**  \n"
+            f"{outlook_text}\n\n"
             f"**Synthèse JGM Chatbox :**  \n"
             f"{summary}"
         )
