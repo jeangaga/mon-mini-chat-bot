@@ -142,7 +142,7 @@ listTickerEquity = [
     "WMT", "TGT", "HD", "JPM",
 ]
 
-listIndexCodes == ["SPX", "SX5E", "RUT", "NDX", "HSI", "CAC"]
+listIndexCodes = ["SPX", "SX5E", "RUT", "NDX", "HSI", "CAC"]
 # === 2️⃣ Define your Yahoo Finance mapping ===
 tickers = {
     # --- Indices ---
