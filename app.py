@@ -127,8 +127,8 @@ import json
 from datetime import date, timedelta
 
 from functions.load_comments import load_stock_comment, load_index_comment
-
-
+from functions.fred_tools import generate_labor_chart
+from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
 listTickerEquity = [
     # --- Indices ---
