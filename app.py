@@ -509,18 +509,18 @@ def repondre(question: str):
                 all_ohlc = load_indices_ohlc()
                 ohlc = all_ohlc[code]
                 fig = generate_ohlc(ohlc, name=code)
-            # 🔹 Charger le commentaire JSON correspondant
-            if code in listIndexCodes:
-                comment_text = load_index_comment(code)
-            else:
-                comment_text = load_stock_comment(code)
+
+                # 🔹 Charger le commentaire JSON correspondant
+                if code in listIndexCodes:
+                    comment_text = load_index_comment(code)
+                else:
+                    comment_text = load_stock_comment(code)
 
                 # 👉 Retourne le texte et le graphique
-            return comment_text, fig               
-                
+                return comment_text, fig
+
             except Exception as e:
-                return f"Erreur lors du chargement de {code} : {e}", None
-   
+                return f"Erreur lors du chargement de {code} : {e}", None  
     # Labor Market chart
     if "nfp" in q_lower:
         fig = generate_labor_chart()
