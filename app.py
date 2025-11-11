@@ -126,9 +126,48 @@ import requests
 # Initialize FRED API (use Streamlit secrets in production)
 fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
 
+
+listTickerEquity = [
+    # --- Indices ---
+    "SPX", "SX5E", "RUT", "NDX", "HSI", "CAC",
+
+    # --- MAG7 + Tech ---
+    "META", "AAPL", "AMZN", "GOOGL", "MSFT", "NVDA", "TSLA", "PLTR", "AVGO",
+
+    # --- Consumer / Financials ---
+    "WMT", "TGT", "HD", "JPM",
+]
+# === 2️⃣ Define your Yahoo Finance mapping ===
+tickers = {
+    # --- Indices ---
+    "SPX": "^GSPC",
+    "SX5E": "^STOXX50E",
+    "RUT": "^RUT",
+    "NDX": "^IXIC",
+    "HSI": "^HSI",
+    "CAC": "^FCHI",
+
+    # --- MAG7 + Tech ---
+    "META": "META",
+    "AAPL": "AAPL",
+    "AMZN": "AMZN",
+    "GOOGL": "GOOGL",
+    "MSFT": "MSFT",
+    "NVDA": "NVDA",
+    "TSLA": "TSLA",
+    "PLTR": "PLTR",
+    "AVGO": "AVGO",
+
+    # --- Consumer / Financials ---
+    "WMT": "WMT",
+    "TGT": "TGT",
+    "HD": "HD",
+    "JPM": "JPM",
+}
+
 # ⚙️ Config de la page
 st.set_page_config(
-    page_title="Mon mini chat bot en Python",
+    page_title="JGM mini chat bot",
     page_icon="💬",
     layout="centered"
 )
@@ -203,14 +242,7 @@ def load_spx_ohlc():
     return ohlc
 def load_indices_ohlc():
     """Download and prepare OHLC data for SPX / SX5E / RUT (3 months)."""
-    tickers = {
-        "SPX": "^GSPC",
-        "SX5E": "^STOXX50E",
-        "RUT": "^RUT",
-        "NDX" : "^IXIC",
-        "HSI" :"^HSI",
-        "CAC" : "^FCHI"
-    }
+
 
     data = yf.download(
         list(tickers.values()),
@@ -387,7 +419,7 @@ def repondre(question: str):
     # 🟢 SPX case → load cached OHLC data
     
     # 🔎 Cherche un des tickers dans la question
-    for code in ["SPX", "SX5E", "RUT","NDX","CAC","HSI"]:
+    for code in listTickerEquity:
         if code in q_upper:
             try:
                 all_ohlc = load_indices_ohlc()
