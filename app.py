@@ -364,6 +364,7 @@ def load_index_comment(code: str):
     except Exception as e:
         return f"Erreur lors du chargement du commentaire {code} : {e}"
 
+
 def load_stock_comment(code: str):
     """
     Charge le commentaire fondamental d’un titre (AAPL, MSFT, META...)
@@ -375,14 +376,24 @@ def load_stock_comment(code: str):
     found_data = None
     used_date = None
 
-    # Petit helper pour nettoyer les strings (supprimer \n multiples, espaces chelous)
     def clean(text):
+        """Normalise les espaces / tirets chelous + compresse en une seule espace."""
         if text is None:
             return ""
         if not isinstance(text, str):
             text = str(text)
-        # collapse tous les espaces / retours à la ligne en un seul espace
-        return " ".join(text.split())
+
+        # remplace espaces exotiques par des espaces normales
+        for ch in ["\u00a0", "\u202f", "\u2009", "\u2007", "\u200a"]:
+            text = text.replace(ch, " ")
+
+        # remplace tirets exotiques par un tiret simple
+        for ch in ["\u2010", "\u2011", "\u2012", "\u2013", "\u2014", "\u2212"]:
+            text = text.replace(ch, "-")
+
+        # compresse tous les blancs (retours ligne, tabs, etc.) en un seul espace
+        text = " ".join(text.split())
+        return text
 
     # 🔁 Boucle sur les 10 derniers jours
     for i in range(10):
@@ -408,7 +419,6 @@ def load_stock_comment(code: str):
         if not stock:
             return f"❌ Aucun commentaire trouvé pour {code} dans le feed du {used_date}."
 
-        # === Extraction principale ===
         ticker = stock.get("ticker", code)
         sentiment = stock.get("sentiment_tag", "n/a")
 
@@ -416,12 +426,12 @@ def load_stock_comment(code: str):
         last_earn = stock.get("last_earnings", {}) or {}
         summary_raw = stock.get("chat_summary", "n/a")
 
-        # === Détails Earnings ===
+        # === Earnings ===
         last_period = clean(last_earn.get("period", "n/a"))
         last_report_date = clean(last_earn.get("report_date", "n/a"))
         last_comment = clean(last_earn.get("summary_comment", "n/a"))
 
-        # === Key insights ===
+        # key_insights
         key_insights = last_earn.get("key_insights", {}) or {}
         if key_insights:
             ki_lines = [
@@ -432,7 +442,7 @@ def load_stock_comment(code: str):
         else:
             key_insights_text = "_Pas de key insights disponibles._"
 
-        # === Outlook ===
+        # outlook
         outlook = last_earn.get("outlook", {}) or {}
         if outlook:
             ol_lines = [
@@ -443,14 +453,13 @@ def load_stock_comment(code: str):
         else:
             outlook_text = "_Pas d’outlook disponible._"
 
-        # === Détails News ===
+        # === News ===
         news_summary = clean(news.get("summary_overview", ""))
         market_reaction = clean(news.get("market_reaction", ""))
 
-        # === Synthèse JGM / chatbox ===
+        # === Synthèse globale ===
         summary = clean(summary_raw)
 
-        # === Format markdown pour Streamlit / chatbox ===
         text = (
             f"### 🧾 **{ticker} — Résumé fondamental ({used_date})**  \n"
             f"**Sentiment :** {sentiment}  \n\n"
@@ -471,8 +480,6 @@ def load_stock_comment(code: str):
 
     except Exception as e:
         return f"Erreur lors du chargement du commentaire {code} : {e}"
-
-
 
 def load_fred_series(series_id):
     """Fetch a FRED series and return a pandas Series."""
