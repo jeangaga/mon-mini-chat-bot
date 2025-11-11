@@ -119,7 +119,7 @@ import streamlit as st
 import yfinance as yf
 import plotly.graph_objects as go
 import pandas as pd
-import fredapi as fa
+
 from plotly.subplots import make_subplots
 import requests
 
@@ -128,9 +128,6 @@ from datetime import date, timedelta
 
 from functions.load_comments import load_stock_comment, load_index_comment
 
-
-# Initialize FRED API (use Streamlit secrets in production)
-fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
 
 
 listTickerEquity = [
@@ -224,52 +221,7 @@ st.markdown(
 @st.cache_data(ttl=3600)  # cache 1 heure par exemple
 
 
-def load_fred_series(series_id):
-    """Fetch a FRED series and return a pandas Series."""
-    return fred.get_series(series_id)
 
-def generate_labor_chart():
-    """Fetch and plot NFP and Private Payrolls (monthly, 3m MA)."""
-
-    # --- Nonfarm Payrolls ---
-    nfp = load_fred_series("PAYEMS").to_frame("Payrolls")
-    nfp["Date"] = nfp.index
-    nfp["NFP Δ"] = nfp["Payrolls"].diff()
-    nfp["3m MA"] = nfp["NFP Δ"].rolling(window=3).mean()
-    nfp = nfp[nfp.index > "2022-01-01"]
-
-    # --- Private Payrolls ---
-    private = load_fred_series("USPRIV").to_frame("Private Payrolls")
-    private["Date"] = private.index
-    private["Private Δ"] = private["Private Payrolls"].diff()
-    private["3m MA"] = private["Private Δ"].rolling(window=3).mean()
-    private = private[private.index > "2022-01-01"]
-
-    # --- Subplots side-by-side ---
-    fig = make_subplots(
-        rows=2,
-        cols=1,
-        subplot_titles=("Total Nonfarm Payrolls", "Private Payrolls")
-    )
-
-    # Left panel – total NFP
-    fig.add_trace(go.Scatter(x=nfp["Date"], y=nfp["NFP Δ"], name="NFP Δ (m/m)", mode="lines"), row=1, col=1)
-    fig.add_trace(go.Scatter(x=nfp["Date"], y=nfp["3m MA"], name="3m MA", mode="lines"), row=1, col=1)
-
-    # Right panel – private payrolls
-    fig.add_trace(go.Scatter(x=private["Date"], y=private["Private Δ"], name="Private Δ (m/m)", mode="lines"), row=2, col=1)
-    fig.add_trace(go.Scatter(x=private["Date"], y=private["3m MA"], name="3m MA", mode="lines"), row=2, col=1)
-
-    # --- Layout ---
-    fig.update_layout(
-        title_text="U.S. Labor Market — Monthly Changes in Payrolls (k jobs)",
-        template="plotly_white",
-        height=500,
-        margin=dict(l=40, r=10, t=40, b=40),
-        legend=dict(orientation="h", y=-0.2),
-    )
-
-    return fig
 
 # 🧠 Logique du bot : renvoie (texte, fig)
 def repondre(question: str):
