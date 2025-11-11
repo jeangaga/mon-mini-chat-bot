@@ -516,7 +516,7 @@ def repondre(question: str):
                 comment_text = load_stock_comment(code)
 
                 # 👉 Retourne le texte et le graphique
-                return comment_text, fig               
+            return comment_text, fig               
                 
             except Exception as e:
                 return f"Erreur lors du chargement de {code} : {e}", None
