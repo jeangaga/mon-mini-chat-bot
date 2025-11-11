@@ -1,0 +1,563 @@
+{
+  "as_of": "2025-11-11",
+  "universe": [
+    "META",
+    "AAPL",
+    "AMZN",
+    "GOOGL",
+    "MSFT",
+    "NVDA",
+    "TSLA",
+    "PLTR",
+    "AVGO",
+    "WMT",
+    "TGT",
+    "HD",
+    "JPM"
+  ],
+  "stocks": [
+    {
+      "ticker": "META",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent headlines on Meta focus on its Q3 2025 results: record revenue and strong ad growth driven by Reels and AI recommender systems, offset by a nearly $16B non-cash tax charge linked to new U.S. tax law and sharply higher AI-related capex guidance (up to ~$70–72B for 2025). The narrative is that Meta is leaning extremely hard into AI infrastructure and long-term products (including AR/VR and AI glasses), while accepting very high near-term spend and legal noise.",
+        "market_reaction": "Investors broadly acknowledge the strength in revenue and engagement but are concerned by the tax hit, big capex and rising expense guidance into 2026, leading to a cautious to volatile reaction despite solid operational momentum."
+      },
+      "last_earnings": {
+        "period": "Q3 2025 (quarter ended September 30, 2025)",
+        "report_date": "2025-10-29",
+        "summary_comment": "Meta reported a very strong top-line quarter with revenue around $51B, up roughly mid-20s percent year on year and ahead of expectations, driven by robust ad demand and improved monetisation across Facebook, Instagram and WhatsApp. However, earnings were distorted by a one-off, nearly $16B non-cash tax charge linked to the new U.S. corporate minimum tax, which cut reported EPS to about $1.05 versus an underlying run-rate closer to the mid-single digit dollars. Management simultaneously raised its 2025 capex guidance into the low-$70B range and signalled that total expenses will remain elevated into 2026 as AI infrastructure and talent spending ramp up.",
+        "key_insights": {
+          "Revenue & Tax Hit": "Advertising revenue grew strongly (mid-20s % YoY) with record quarterly revenue, but a large, one-time tax charge related to U.S. tax reform slashed reported EPS; excluding this, underlying profitability would have comfortably beaten consensus.",
+          "AI & CapEx Agenda": "Meta is committing very large capital to AI data centers and model training infrastructure, pushing 2025 capex guidance to roughly $70–72B and indicating that spending could increase further in 2026 as it builds what it describes as one of the world’s leading AI labs and infrastructure stacks.",
+          "User & Engagement Trends": "Daily active people across the family of apps continue to grow to well over 3.5B, with Reels, AI-driven recommendations, and click-to-message ads cited as key growth engines in both usage and monetisation.",
+          "Cost & Regulatory Overhang": "The company faces rising operating expenses from AI hiring, infrastructure, and legal/regulatory cases in the U.S. and EU, which, combined with high capex, keeps pressure on free cash flow and contributes to volatility in the equity story."
+        },
+        "outlook": {
+          "Revenue Guidance": "Meta guided Q4 2025 revenue to a range roughly in the mid-$50B to high-$50B area, implying continued strong double-digit growth, supported by AI-driven ad products and improving signal in a post-ATT world.",
+          "Expense & CapEx Guidance": "Management expects full-year 2025 expenses in the mid-$110B range and capex between about $70B and $72B, with the message that 2026 expenses may rise further as AI investments peak.",
+          "AI & Product Outlook": "Meta continues to frame its massive AI spend as laying the groundwork for future monetisation across ads, messaging, creators and devices (including AI glasses), arguing that current investment intensity is necessary to secure long-term leadership."
+        },
+        "market_reaction": {
+          "next_day_move_pct": -8.0,
+          "comment": "Despite strong revenue growth and robust user metrics, the stock sold off sharply as investors focused on the large tax charge, aggressive capex and higher long-term expense guidance."
+        }
+      },
+      "sentiment_tag": "neutral",
+      "chat_summary": "META’s fundamentals remain strong with mid-20s % revenue growth and record ad revenues, but the latest quarter was overshadowed by a huge non-cash tax charge and sharply higher AI capex and expense guidance. The company is clearly positioning itself as an AI infrastructure and product leader, but at the cost of near-term margin and free cash flow pressure. The market is split between confidence in long-term AI upside and concern about the level and duration of spending and regulatory risk.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "AAPL",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent news around Apple centres on a strong fiscal Q4 2025 print with record September-quarter revenue of about $102.5B, driven by iPhone 17 and Services, and on continued regulatory scrutiny of App Store practices in the US and EU. The narrative is that the iPhone/Services engine is again in good shape heading into the holiday season, with Macs recovering, while investors watch China demand, regulatory risk and the ramp of new devices like Vision Pro and wearables.",
+        "market_reaction": "The market read the quarter as solid to positive, with a constructive reaction to record iPhone and Services numbers and upbeat holiday guidance, tempered by concerns on China, regulation and the sustainability of high margins."
+      },
+      "last_earnings": {
+        "period": "Fiscal Q4 2025 (quarter ended September 27, 2025)",
+        "report_date": "2025-10-30",
+        "summary_comment": "Apple delivered a strong fiscal Q4 2025, with revenue of $102.5B, up 8% year over year, and EPS of $1.85, up 13% on an adjusted basis, both modestly ahead of expectations. Growth was led by record iPhone revenue, helped by the launch of the iPhone 17 family, and by Services, which reached a new all-time high with mid-teens percentage growth. Mac also posted double-digit growth, while iPad and Wearables were roughly flat, keeping the overall hardware mix balanced. Gross margin remained healthy, and management struck a confident tone on the product line-up going into the holiday quarter.",
+        "key_insights": {
+          "iPhone & Services Engine": "iPhone revenue grew mid-single digits to roughly $49B, accounting for nearly half of total sales, while Services revenue rose about 15% to nearly $29B, now close to one-third of the business and providing recurring, high-margin growth.",
+          "Mac & Other Hardware": "Mac sales improved with low-double-digit growth, benefiting from new models and easier comps, while iPad and Wearables/Home/Accessories were broadly flat, limiting drag from these categories.",
+          "Margins & Cash": "Apple maintained strong gross margins and continued to generate substantial free cash flow, supporting ongoing buybacks and dividends, reinforcing the ‘quality compounder’ narrative.",
+          "Management Tone": "Management emphasised the strength of the installed base, record switcher activity, and the opportunity in Services and emerging categories such as spatial computing, while acknowledging macro and regulatory headwinds."
+        },
+        "outlook": {
+          "Revenue Guidance": "For the December quarter (Q1 FY26), Apple guided to around 10–12% revenue growth year over year, implying roughly $135–140B in sales, driven by the iPhone 17 cycle and continued Services growth.",
+          "Regional & Product Focus": "Key watchpoints include China iPhone demand, elasticity around higher-end models, and the trajectory of newer categories like Vision Pro and wearables versus more mature product lines.",
+          "Regulatory & Platform Outlook": "Apple continues to face regulatory scrutiny around App Store fees and platform control in multiple jurisdictions, which could gradually affect Services economics but is unlikely to derail the near-term growth story."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 3.5,
+          "comment": "Shares reacted positively as the company beat expectations, posted record iPhone and Services revenue, and guided to solid holiday-quarter growth, reinforcing the quality-growth profile."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "AAPL just delivered a clean, better-than-expected quarter with record September-quarter revenue, driven by the iPhone 17 cycle and strong Services growth. Margins and cash generation remain robust, and management guided to double-digit growth for the holiday quarter. The fundamental debate is now more about China, regulation and the long-term mix between hardware and Services than about the near-term earnings trajectory.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent Amazon news is dominated by its Q3 2025 earnings: solid double-digit revenue growth, strong AWS and advertising trends, and one-off charges related to legal settlements and severance costs. The storyline is that the core retail and cloud businesses are performing well, but investors are parsing the quality of profitability and the impact of restructuring and regulatory actions.",
+        "market_reaction": "The market reaction has been mixed: fundamentals and EPS beat are appreciated, but legal charges, restructuring noise and a rich year-to-date performance have made investors more selective."
+      },
+      "last_earnings": {
+        "period": "Q3 2025 (quarter ended September 30, 2025)",
+        "report_date": "2025-10-30",
+        "summary_comment": "Amazon reported Q3 2025 net sales of $180.2B, up 13% year on year and ahead of consensus, with AWS, North America and International all contributing. AWS revenue grew around 20% YoY to roughly $33B, while North America and International segments grew low-double digits. Operating income was $17.4B, flat year on year, but this included sizeable charges for an FTC legal settlement and severance; excluding these, underlying operating profit would have been above $21B. EPS of about $1.95 beat expectations by roughly 25%, confirming that cost discipline and scale are supporting profitability even as Amazon continues to invest.",
+        "key_insights": {
+          "Top-Line & Mix": "Net sales growth of 13% was broad-based, with North America up low-teens, International mid-teens and AWS roughly +20%, highlighting both resilient consumer demand and continued cloud adoption.",
+          "Profitability & Charges": "Reported operating income was held back by legal settlement and severance charges; underlying profitability, particularly in AWS and North America retail, looked healthier than the headline number suggests.",
+          "Ads & Other Profit Pools": "Advertising, third-party marketplace and subscription services remain important margin contributors, and continue to grow faster than the core first-party retail business.",
+          "Management Tone": "Management emphasised ongoing efficiency gains in logistics, the benefit of regionalised networks, and a focus on high-ROI investments in AWS, AI and ads, while acknowledging regulatory and legal overhangs."
+        },
+        "outlook": {
+          "Revenue Guidance": "Amazon guided to continued double-digit revenue growth into Q4, supported by holiday demand and steady AWS momentum, though it flagged macro uncertainty and FX as swing factors.",
+          "Margin & Investment Outlook": "While cost efficiencies should support margins, management signalled that investments in AI, fulfilment and international expansion will continue, keeping some lid on near-term margin expansion.",
+          "AWS & AI": "AWS remains a central growth pillar, with AI services and data platforms highlighted as key drivers of future demand and differentiation versus peers."
+        },
+        "market_reaction": {
+          "next_day_move_pct": -3.0,
+          "comment": "Despite beats on revenue and EPS, the stock gave back some recent gains as investors digested one-off charges, regulatory noise and a high starting valuation."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "AMZN’s Q3 2025 confirmed a solid fundamental story: low-teens revenue growth, strong AWS and ads, and EPS well ahead of expectations once you strip out legal and severance charges. The group is extracting more profit from scale and logistics while still investing heavily in AWS and AI. The debate for investors is less about top-line resilience and more about how much margin expansion is left after a strong re-rating.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent developments for Alphabet centre on a strong Q3 2025 earnings print, with revenue up mid-teens percent to just over $102B, broad-based strength across Search, YouTube and Cloud, and a sharp increase in AI-driven capex. Management has highlighted surging Gemini usage, rapid growth in Google Cloud’s AI backlog and a significant step-up in data-center investment.",
+        "market_reaction": "Investors have reacted positively to the combination of accelerating Cloud growth and AI adoption, though the scale of the capex ramp is watched closely as a potential source of volatility."
+      },
+      "last_earnings": {
+        "period": "Q3 2025 (quarter ended September 30, 2025)",
+        "report_date": "2025-10-29",
+        "summary_comment": "Alphabet posted Q3 2025 revenue of about $102–102.5B, up roughly 16% year on year and ahead of expectations, with Google Services revenue up mid-teens and Google Cloud again growing strongly. Search, YouTube and subscriptions (including YouTube Premium and Google One) all delivered double-digit growth, while Cloud saw accelerating revenue growth and improved profitability. Management put a heavy emphasis on Gemini adoption, with billions of tokens processed per minute and hundreds of millions of active users, and on AI as the main driver of incremental Cloud demand.",
+        "key_insights": {
+          "Broad-Based Growth": "Google Services revenue grew about 14% YoY to more than $87B, with Search, YouTube ads and subscriptions all contributing; Cloud revenue growth outpaced the group and margins continued to improve.",
+          "AI & Gemini": "Alphabet reported rapid uptake of its Gemini models and app, highlighting billions of tokens processed per minute and over 650M monthly active users, and pointed to AI as a key driver of Cloud backlog, which grew sharply to around $155B.",
+          "CapEx & Infrastructure": "The company raised its 2025 capex outlook to as high as the low-$90B range, with the bulk directed to AI-ready data centers and infrastructure, a major step-up from prior years.",
+          "Management Tone": "Sundar Pichai’s commentary stressed that Alphabet is still early in monetising AI across Search, YouTube, Workspace and Cloud, but already seeing tangible revenue contribution."
+        },
+        "outlook": {
+          "Revenue Guidance": "Alphabet signalled confidence in sustaining double-digit revenue growth, supported by resilient ads and rising AI/Cloud monetisation, while acknowledging macro and FX uncertainty.",
+          "CapEx Guidance": "Capex is expected to remain very high as Alphabet builds out AI-optimised infrastructure; management framed this as a multi-year investment cycle rather than a one-off spike.",
+          "AI & Cloud Outlook": "Google Cloud is positioned as a key beneficiary of enterprise AI projects, with expanding backlog and a growing mix of AI-driven workloads; management expects Gemini to underpin monetisation across products."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 4.0,
+          "comment": "Shares moved higher after revenue and Cloud results beat expectations and management underscored accelerating AI adoption, despite heavier capex."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "GOOGL delivered a strong Q3 with mid-teens top-line growth, broad strength across Search, YouTube and Cloud, and clear evidence that AI is already contributing to revenue and backlog. The company is simultaneously stepping up capex to build AI-optimised data centers, which is a key swing factor for margins but also central to its strategy. For now, the market is rewarding the combination of accelerating Cloud/AI momentum and solid execution.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [
+          {
+            "date": "2025-11-11",
+            "headline": "MSFT extends AI infrastructure buildout with new European data centers",
+            "source": "Reuters",
+            "url": "https://www.reuters.com/technology/microsoft-europe-ai-data-centers-2025-11-11/",
+            "summary": "Microsoft announced a multi-billion-dollar AI data-center expansion in Germany and the Netherlands, reinforcing its plan to localize AI compute capacity for Copilot growth in Europe."
+          },
+          {
+            "date": "2025-11-10",
+            "headline": "Microsoft deepens OpenAI integration across Office suite",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/2025/11/10/microsoft-office-copilot-integration",
+            "summary": "Microsoft rolled out broader OpenAI Copilot integration into Office apps, signaling faster enterprise AI monetization."
+          },
+          {
+            "date": "2025-11-08",
+            "headline": "Microsoft and Oracle expand cloud interoperability",
+            "source": "Bloomberg",
+            "url": "https://www.bloomberg.com/news/articles/2025-11-08/microsoft-oracle-partner-on-cloud-interoperability",
+            "summary": "A new partnership with Oracle enables seamless data exchange between Azure and Oracle Cloud Infrastructure, enhancing hybrid cloud flexibility for enterprise clients."
+          },
+          {
+            "date": "2025-11-07",
+            "headline": "Microsoft launches Copilot Studio for developers",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2025/11/07/microsoft-launches-copilot-studio-developer-tools/",
+            "summary": "Microsoft unveiled Copilot Studio, allowing developers to create customised AI assistants inside enterprise workflows — expanding the Copilot ecosystem."
+          },
+          {
+            "date": "2025-11-06",
+            "headline": "Microsoft to invest $3B in Japan AI ecosystem",
+            "source": "Nikkei Asia",
+            "url": "https://asia.nikkei.com/Business/Technology/Microsoft-to-invest-3B-in-Japan-AI-ecosystem",
+            "summary": "The company confirmed a $3 billion investment in Japan to develop AI infrastructure and local training programs, underscoring its global AI expansion."
+          }
+        ],
+        "summary_overview": "Over the past five days, Microsoft has announced five major AI initiatives: new European data centers in Germany and the Netherlands, deeper OpenAI Copilot integration in Office, a cloud-interoperability deal with Oracle, the launch of Copilot Studio for developers, and a $3B AI investment program in Japan. Together these updates reinforce Microsoft’s aggressive expansion of its AI infrastructure and ecosystem globally, across both enterprise and developer markets.",
+        "market_reaction": "Investors view this sequence as fundamentally supportive — confirming Microsoft’s long-term AI leadership — but near-term valuation concerns and heavy capex keep sentiment moderately cautious."
+      },
+      "last_earnings": {
+        "period": "Fiscal Q1 2026 (quarter ended September 30, 2025)",
+        "report_date": "2025-10-29",
+        "summary_comment": "Microsoft started FY26 with a very strong quarter: revenue grew 18% year over year to $77.7B and non-GAAP EPS rose 23% to $4.13, both comfortably ahead of expectations. Growth was broad-based but driven primarily by Microsoft Cloud, with Azure up around 40% and total cloud revenue reaching $49.1B. Productivity and Business Processes continued to post high-teens growth while More Personal Computing returned to modest growth, supported by Windows OEM, devices and search advertising. Despite heavy AI infrastructure spending, operating income still increased 24%, showing that Microsoft can scale AI and cloud while preserving profitability.",
+        "key_insights": {
+          "Microsoft Cloud & Azure Momentum": "Total Microsoft Cloud revenue reached $49.1B, up 26% year over year, with Azure and other cloud services growing about 40%, and commercial remaining performance obligation rising 51% to roughly $392B – giving strong multi-year visibility on cloud and AI workloads.",
+          "Segment Drivers": "Productivity & Business Processes revenue grew 17% to about $33B, led by Microsoft 365 Commercial and Consumer clouds, LinkedIn and Dynamics 365; Intelligent Cloud revenue rose 28% to $30.9B on the back of Azure strength; More Personal Computing grew 4% to $13.8B, with Windows OEM and Devices up 6%, search and news advertising up mid-teens, partially offset by weaker hardware, including Xbox.",
+          "AI & CapEx Ramp": "AI infrastructure is the main investment vector: capital expenditures jumped to roughly the mid-$30B area for the quarter, up sharply from the prior quarter, as Microsoft accelerates data-center build-out and plans to significantly expand its global AI footprint over the next two years.",
+          "Margins & Profitability": "Gross margin and operating income each increased in absolute terms, with operating income up 24%, even as cloud and AI growth weighed modestly on cloud gross margin (around the high-60s). This confirms that Microsoft can absorb higher AI-related costs while still delivering double-digit profit growth.",
+          "Management Tone": "Management described the business as a ‘planet-scale cloud and AI factory’, highlighting strong customer adoption of Copilot and Azure OpenAI services across productivity, security and developer tools. The tone was confident on long-term AI monetisation and on Microsoft’s ability to keep gaining share in cloud and enterprise AI."
+        },
+        "outlook": {
+          "Revenue Guidance": "For the next quarter, Microsoft guided revenue to roughly $79.5–80.6B, implying about 14–16% year-over-year growth, with Microsoft Cloud expected to remain the primary driver.",
+          "CapEx Guidance": "CapEx is expected to remain elevated as AI infrastructure build-out continues, with management explicitly prioritising capacity expansion to meet strong demand, even at the cost of some near-term margin pressure.",
+          "AI & Cloud Outlook": "Management expects sustained strong demand for Azure and AI services, supported by rising Copilot usage and large enterprise AI projects, reinforcing the view that high AI capex today should translate into durable multi-year revenue and profit growth."
+        },
+        "market_reaction": {
+          "next_day_move_pct": -2.0,
+          "comment": "Despite the clear beat on revenue and EPS and very strong cloud and AI metrics, the stock traded down a few percent after the release as investors focused on the scale of AI capex, some execution concerns, and an already demanding valuation after a strong YTD rally."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "MSFT remains the core AI and cloud leader. Fiscal Q1 2026 results showed broad strength: revenue +18% YoY, EPS +23%, Azure +40%, and cloud backlog up sharply. Heavy AI capex continued, but margins remained solid, proving the scalability of Microsoft’s cloud-AI model. Management tone was confident and execution strong, though investors remain attentive to near-term margin trade-offs versus long-term AI monetisation.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "The latest fundamental narrative on Nvidia is built around its Q2 FY26 results, with revenue of $46.7B (+56% YoY) and data center revenue of $41.1B (+56% YoY), driven by explosive demand for AI GPUs and the ramp of the Blackwell architecture. Recent commentary has focused on continued order strength from hyperscalers, emerging sovereign/enterprise AI demand, and questions about how long current growth rates can be maintained.",
+        "market_reaction": "Investors broadly see Nvidia as the core hardware beneficiary of the AI boom; the equity reaction oscillates between euphoria on blow-out numbers and bouts of concern about cyclicality, competition and concentration risk in a very crowded trade."
+      },
+      "last_earnings": {
+        "period": "Q2 FY2026 (quarter ended July 2025)",
+        "report_date": "2025-08-27",
+        "summary_comment": "Nvidia’s Q2 FY26 was another blockbuster quarter, with revenue reaching $46.7B, up 56% year on year and 6% sequentially, and data center revenue at $41.1B, also up 56% YoY. Growth was driven by AI accelerators for training and inference, with strong uptake of the Blackwell platform and continued strength in Hopper, alongside robust networking demand. Gaming and other segments contributed but remain small relative to data center. Gross margins stayed extremely high, reflecting Nvidia’s pricing power in a capacity-constrained AI market.",
+        "key_insights": {
+          "Data Center Dominance": "Data center accounts for the overwhelming majority of revenue and growth, supported by hyperscalers, large enterprises and now sovereign AI projects; Blackwell shipments ramped quickly and are already a meaningful contributor.",
+          "Supply & Capacity": "Management highlighted ongoing capacity additions via foundry and packaging partners, but also signalled that demand still exceeds supply in key SKUs, supporting both utilisation and pricing.",
+          "Product & Ecosystem": "Nvidia continues to push not only GPUs but full systems (DGX, HGX) and software (CUDA, networking, AI frameworks), reinforcing a ‘full-stack’ moat that goes beyond silicon alone.",
+          "Management Tone": "The tone remained highly confident on the durability of AI infrastructure demand, though management acknowledged that growth rates will normalise over time as the base becomes very large."
+        },
+        "outlook": {
+          "Revenue Guidance": "Nvidia guided to further strong sequential growth into Q3 FY26, implying continued very high double-digit YoY growth, albeit at a moderating pace versus the peak acceleration phase.",
+          "AI Infrastructure Cycle": "Management frames AI infrastructure as a multi-year investment cycle across cloud, enterprise and sovereign buyers, suggesting that current spending is not purely a one-off bubble.",
+          "Risk Factors": "Key risks flagged include supply constraints, export controls and increasing competition, but these have not yet derailed the core growth story."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 2.0,
+          "comment": "The print was widely seen as another very strong quarter; the stock reaction has been choppy as expectations are extremely elevated and the position is crowded, but the fundamental message remains overwhelmingly positive."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "NVDA remains the purest large-cap play on AI infrastructure: data center revenue is growing more than 50% YoY on a huge base, driven by Blackwell and the broader AI accelerator stack. Margins are exceptionally high and demand still exceeds supply, even as capacity ramps. The key debate is no longer about current numbers but about how long this growth can persist and how much of it is already discounted in the valuation.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "TSLA",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent Tesla commentary focuses on Q3 2025: record deliveries and revenue growth, but a sharp drop in profitability as margins compress under price cuts, tariffs and lower regulatory credit income, while AI and robotics investments ramp. There is also ongoing noise around Elon Musk’s proposed $1T compensation package and governance concerns.",
+        "market_reaction": "The market sees a tension between strong operational scale (deliveries, energy storage growth) and deteriorating margins plus political/regulatory risk, which has kept sentiment fragile despite headline growth."
+      },
+      "last_earnings": {
+        "period": "Q3 2025",
+        "report_date": "2025-10-22",
+        "summary_comment": "Tesla’s Q3 2025 delivered record vehicle deliveries of roughly 497k units and revenue of about $28.1B (+~12% YoY), but adjusted net income fell nearly 30% to around $1.8B as operating margins compressed to ~5.8% from over 10% a year ago. Headwinds included higher input costs exacerbated by new U.S. tariffs, a steep decline in emissions credit revenue and heavy investment in AI and robotics. Energy storage and services businesses grew strongly and are increasingly important to the narrative, but remain too small to fully offset margin pressure in auto.",
+        "key_insights": {
+          "Volume vs Margin": "Tesla is hitting new records in production and deliveries, but price cuts and rising costs mean each incremental unit is less profitable, with auto margins significantly below prior peaks.",
+          "Tariffs & Policy": "New trade policies and tariffs have materially raised costs, especially for components sourced from abroad, and the expiry of certain EV tax credits distorted demand and profitability.",
+          "Energy & Services": "Energy storage revenue grew strongly (around mid-40s % YoY), and services revenue also rose solidly, supporting the case for a more diversified Tesla over time.",
+          "Governance & CEO Package": "Elon Musk’s push for a massive new compensation package and threats to reduce involvement if control is not secured add a governance and key-man risk overlay to the investment case."
+        },
+        "outlook": {
+          "Volume Guidance": "Tesla continues to target volume growth ahead of the broader auto market, supported by price cuts and capacity expansions, but without a clear path yet to restoring prior margin levels.",
+          "Margin & Investment Outlook": "Management is prioritising long-term AI and robotics investments over near-term margin maximisation, arguing that future software/robotics economics will justify current pressure.",
+          "Regulatory & Policy Outlook": "Trade policy, tariffs and evolving EV subsidies remain key external swing factors for both demand and profitability."
+        },
+        "market_reaction": {
+          "next_day_move_pct": -5.0,
+          "comment": "Shares fell as investors focused on the margin squeeze and policy headwinds, despite record deliveries and solid growth in energy/storage."
+        }
+      },
+      "sentiment_tag": "neutral",
+      "chat_summary": "TSLA’s Q3 2025 shows a classic trade-off: scale is impressive with record deliveries and growing energy/storage, but margins have fallen sharply under price cuts, tariffs and investment in AI/robotics. The long-term story increasingly hinges on software, autonomy and robotics rather than pure EV hardware. For now, investors are struggling to reconcile that long-dated upside with near-term profitability and governance risk.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Palantir’s recent narrative is dominated by a very strong Q3 2025 report with revenue growth north of 60%, driven by explosive demand for its Artificial Intelligence Platform, and by another upward revision to full-year guidance. Commentary has highlighted a rapid shift in mix toward U.S. commercial customers and very strong deal momentum.",
+        "market_reaction": "The stock has reacted positively, with investors embracing the AI-driven growth acceleration, although valuation and government exposure remain part of the debate."
+      },
+      "last_earnings": {
+        "period": "Q3 2025",
+        "report_date": "2025-10-28",
+        "summary_comment": "Palantir delivered a standout Q3 2025, with revenue rising about 63% year over year to roughly $1.18B, significantly ahead of expectations, and adjusted EPS around $0.21. Growth was driven disproportionately by the U.S. commercial business, which more than doubled revenue year on year, while government revenue also grew strongly but at a slower pace. Management raised full-year revenue guidance for the third consecutive quarter to roughly $4.4B, citing exceptional demand for its AI platform across industries.",
+        "key_insights": {
+          "Commercial Growth": "U.S. commercial revenue surged over 120% YoY, and remaining deal value in commercial grew strongly, signalling that Palantir is evolving from a government-centric contractor into a broader enterprise software/AI platform.",
+          "Government Business": "Government revenue still represents a substantial portion of the mix and continues to grow at a healthy clip, providing a relatively resilient baseline.",
+          "Profitability & Margins": "Palantir reported solid GAAP profitability with operating margins in the low-30s %, demonstrating that high growth and profitability can coexist as scale improves.",
+          "Management Tone": "Management described the demand environment as ‘otherworldly’, framing AI as a structural, multi-year driver and positioning Palantir as a key infrastructure and applications provider rather than a niche contractor."
+        },
+        "outlook": {
+          "Revenue Guidance": "Full-year 2025 revenue guidance was raised to about $4.396–4.4B, implying ~45% YoY growth, with Q4 expected to remain very strong.",
+          "Demand Outlook": "Management expects continued outsized growth in commercial AI deployments, supported by an expanding customer base and large deal pipeline.",
+          "Risk Factors": "Key risks include valuation after a big run, competitive dynamics in enterprise AI and potential lumpiness in large government contracts."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 5.0,
+          "comment": "Shares gained as investors rewarded the combination of rapid AI-driven growth, rising guidance and solid profitability."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "PLTR is currently one of the clearest AI-leverage names in software, with Q3 showing >60% revenue growth and rapidly scaling U.S. commercial activity on top of a solid government base. Margins are already attractive, and guidance keeps moving higher. The debate is mostly about valuation and competitive saturation rather than about the reality of the growth impulse.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "AVGO",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Broadcom’s recent narrative is anchored in its latest quarter, where revenue grew around low-20s percent year on year to roughly $16B, supported by strong demand for AI networking and accelerators and the contribution from its infrastructure software portfolio (including VMware). Guidance points to further growth into Q4 and a rising AI mix.",
+        "market_reaction": "Investors broadly see AVGO as a diversified but AI-levered name; sentiment is constructive, with debates focused on sustainability of AI-related demand and integration of software assets."
+      },
+      "last_earnings": {
+        "period": "Q3 FY2025",
+        "report_date": "2025-09-04",
+        "summary_comment": "Broadcom reported Q3 FY25 revenue of about $16.0B, up roughly 22% year over year, with adjusted EBITDA up around 30%, underscoring strong operating leverage. Growth was driven by the semiconductor solutions segment, especially AI-related networking and accelerators, and by continued strength in infrastructure software following the VMware acquisition. The company maintained a high margin profile and reiterated its disciplined capital allocation approach.",
+        "key_insights": {
+          "AI & Networking": "AI networking and accelerators are now key growth engines in the semiconductor segment, offsetting softer areas and providing good visibility as hyperscaler AI capex ramps.",
+          "Software Contribution": "Infrastructure software, including VMware, adds a recurring, high-margin component to the business, diversifying Broadcom away from purely cyclical semis.",
+          "Profitability": "With adjusted EBITDA margins in the high-60s %, Broadcom remains one of the most profitable large semis, even while investing in AI-related R&D and integration.",
+          "Guidance": "Management guided Q4 revenue to about $17.4B with similar margin structure, implying continued solid double-digit growth and healthy demand into year-end."
+        },
+        "outlook": {
+          "Revenue Guidance": "Q4 FY25 revenue guidance of roughly $17.4B suggests ongoing strong demand and an increasing contribution from AI-oriented products.",
+          "AI Cycle": "Broadcom is positioned as a key beneficiary of AI data-center build-out, particularly in networking and custom silicon, which management expects to be multi-year drivers.",
+          "Integration & Capital Allocation": "Focus remains on integrating software assets and returning cash via dividends and buybacks while keeping leverage under control."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 2.0,
+          "comment": "The stock reaction was positive, reflecting strong results, robust guidance and confidence in AI-related demand."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "AVGO is a high-margin, AI-levered compounder: double-digit revenue growth, very high EBITDA margins and a growing mix of AI networking and accelerators supplemented by sticky infrastructure software. Guidance implies continued strength into Q4. The main questions revolve around the durability of AI demand and how smoothly software integration progresses.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "WMT",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent Walmart commentary relates to its FY26 Q2 results and updated outlook: steady low-single-digit sales growth, strong e-commerce performance and market share gains in grocery, alongside raised full-year guidance for net sales and EPS. The narrative is that Walmart is using price investment, omnichannel strength and automation to consolidate its position as the defensive consumer staple of choice.",
+        "market_reaction": "Investors generally see WMT as a high-quality defensive with structural share gains; sentiment is positive but tempered by valuation after a strong multi-year run."
+      },
+      "last_earnings": {
+        "period": "Q2 FY2026 (quarter ended July 31, 2025)",
+        "report_date": "2025-08-21",
+        "summary_comment": "Walmart’s Q2 FY26 showed solid execution, with net sales growing in the low-single-digit range and operating income growing faster than sales, supported by mix, scale and cost efficiencies. E-commerce grew strongly, particularly in grocery and marketplace, and Walmart continued to gain share across key categories. Management raised full-year guidance for net sales growth and adjusted EPS, signalling confidence in the trajectory despite a still-uncertain consumer backdrop.",
+        "key_insights": {
+          "Sales & Mix": "Net sales growth in the low-single digits was driven by unit growth and mix toward higher-margin categories such as membership, marketplace and advertising, on top of resilient grocery.",
+          "E-Commerce & Omnichannel": "E-commerce remained a standout, with strong growth and rising penetration, reinforcing Walmart’s position as a tech-enabled retailer rather than a pure brick-and-mortar story.",
+          "Profitability": "Operating income grew faster than sales, reflecting good cost control and favourable mix; cash generation remained strong.",
+          "Guidance Upgrade": "The company raised its FY26 net sales growth outlook to roughly 3.75–4.75% and its adjusted EPS range, underscoring management’s confidence."
+        },
+        "outlook": {
+          "Revenue Guidance": "Walmart expects continued low- to mid-single-digit sales growth as it leans into price leadership and market share gains in grocery and everyday essentials.",
+          "Margin Outlook": "Margins should remain broadly stable to slightly improving as higher-margin revenue streams (membership, ads, marketplace) grow, offsetting wage and cost inflation.",
+          "Consumer & Macro": "Management remains cautious on low-income consumers but sees Walmart as a share gainer in most macro scenarios."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 2.0,
+          "comment": "Shares reacted positively to the beat-and-raise quarter, reinforcing Walmart’s role as a defensive compounder in a patchy consumer environment."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "WMT continues to execute a classic defensive growth play: slow but steady sales growth, strong e-commerce and grocery share gains, and margin resilience helped by higher-margin revenue streams. Guidance was raised, and the balance sheet remains solid. The main debate is whether the current valuation fully reflects Walmart’s improved strategic position as a tech-enabled retailer.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "TGT",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "The current Target narrative is one of gradual repair: modestly negative to flat comp sales, improving traffic trends and a still-pressured margin profile, with a leadership transition underway. Recent commentary has focused on sequential improvement versus prior quarters, cautious guidance and efforts to rebalance inventory and rebuild profitability.",
+        "market_reaction": "Investors view TGT as a recovery story in a tough discretionary environment; sentiment is cautious and valuation reflects execution risk."
+      },
+      "last_earnings": {
+        "period": "Q2 2025",
+        "report_date": "2025-08-20",
+        "summary_comment": "Target’s latest reported quarter (Q2 2025) showed net sales of about $25.2B, down slightly (~1% YoY), with comparable sales down roughly 1.9% but improving versus prior trends. Digital comps turned positive, and traffic improved, but margins remained under pressure, with EPS down year on year. The company highlighted progress on inventory and category performance but acknowledged that the consumer remains stretched, especially in discretionary categories.",
+        "key_insights": {
+          "Top-Line Trends": "Sales were slightly negative year on year, but trends improved sequentially, with better traffic and digital growth helping to stabilise comps.",
+          "Margin Pressure": "Higher expenses and a promotional environment kept profit margins below prior peaks; EPS declined versus the prior-year quarter.",
+          "Mix & Categories": "Core merchandising categories showed improvement, but discretionary categories remain soft, reflecting a pressured U.S. consumer.",
+          "Leadership Change": "Target announced a CEO transition, with Michael Fiddelke stepping in, which the market will watch for strategic shifts."
+        },
+        "outlook": {
+          "Sales Outlook": "Management expects modest comp growth to be challenging near term, with the focus on stabilising traffic and improving category mix rather than chasing aggressive top-line growth.",
+          "Margin Outlook": "Target is working to rebuild margins through better inventory discipline and cost control, but the timeline is uncertain given the macro backdrop.",
+          "Strategic Focus": "The new leadership will likely emphasise core value, omnichannel capabilities and disciplined capital allocation."
+        },
+        "market_reaction": {
+          "next_day_move_pct": -1.0,
+          "comment": "The quarter was seen as a step in the right direction on trends but not yet enough to fully reset concerns on profit and strategy."
+        }
+      },
+      "sentiment_tag": "neutral",
+      "chat_summary": "TGT is in repair mode: comps are slowly improving and traffic/digital trends look better, but margins are still compressed and the consumer backdrop is tough. The CEO transition adds another layer of uncertainty. The equity story is a recovery/value angle rather than a clean growth story like WMT.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "HD",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Home Depot’s recent narrative revolves around its Q2 FY25 results and reaffirmed guidance: mid-single-digit sales growth, a return to positive comps and stable margins, despite still-muted big-ticket remodeling demand. Newsflow highlights a slow but steady normalisation of home-improvement demand and confidence in the medium-term housing repair cycle.",
+        "market_reaction": "Investors see HD as a relatively high-quality cyclical with improving trends; sentiment improved after the company held guidance despite mixed macro signals."
+      },
+      "last_earnings": {
+        "period": "Q2 FY2025 (quarter ended August 3, 2025)",
+        "report_date": "2025-08-19",
+        "summary_comment": "Home Depot reported Q2 FY25 sales of about $45.3B, up 4.9% year over year, with company-wide comps up 1.0% and U.S. comps up 1.4%, marking an improvement from prior declines. Growth came more from smaller projects and pro demand than from large discretionary remodels, as consumers remain cautious on big-ticket spending. Margins held up reasonably well, and management reaffirmed full-year guidance, signalling confidence in the demand backdrop.",
+        "key_insights": {
+          "Sales & Comps": "Positive comps in both the U.S. and total company, after prior declines, point to stabilising demand; smaller projects and pro customers helped offset softness in large remodel projects.",
+          "Profitability": "Despite promotional pressure and a normalising environment, HD maintained healthy margins and strong returns on capital, keeping the quality narrative intact.",
+          "Guidance & Housing Cycle": "By reaffirming full-year guidance, management indicated that underlying demand for home improvement remains solid, supported by an ageing housing stock and ongoing maintenance needs."
+        },
+        "outlook": {
+          "Revenue Guidance": "Home Depot expects low-single-digit sales and comp growth for FY25, consistent with a normalised, rather than boom-time, housing market.",
+          "Margin Outlook": "Margins are expected to remain broadly stable, with efficiency initiatives and pro mix offsetting wage and cost inflation.",
+          "Macro Sensitivity": "Key sensitivities include mortgage rates, housing turnover and consumer confidence, but HD is positioned as a core beneficiary of the long-term repair and remodel cycle."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 3.0,
+          "comment": "Shares rose after HD delivered slightly better-than-feared results and reaffirmed guidance, suggesting the home improvement slowdown is manageable."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "HD looks like a classic quality cyclical: comps have turned positive, margins are holding up and management kept guidance intact. The business is leaning more on smaller projects and pro demand while big-ticket remains soft. The equity case is tied to the structural housing repair cycle rather than a boom in new builds.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    },
+    {
+      "ticker": "JPM",
+      "as_of": "2025-11-11",
+      "market_news_last_5d": {
+        "items": [],
+        "summary_overview": "Recent news on JPMorgan emphasises a strong Q3 2025 outcome: robust earnings and revenue beats, driven by investment banking, trading and resilient consumer banking, as well as a large, multi-year initiative to finance U.S. national security–critical industries. Commentary also touches on rising reserves for credit losses and management’s cautious macro tone.",
+        "market_reaction": "Investors broadly view JPM as the quality bellwether among U.S. banks; results were well received, but the stock reaction was mixed as the market weighed strong operational performance against macro and credit risks."
+      },
+      "last_earnings": {
+        "period": "Q3 2025",
+        "report_date": "2025-10-14",
+        "summary_comment": "JPMorgan’s Q3 2025 results beat expectations, with EPS up mid-teens percent year on year to just over $5 per share and revenue rising high-single- to low-double-digits to the mid-$40B range. Strength came from trading, investment banking fees and payments, while consumer banking also remained solid. The bank increased provisions for credit losses given pockets of stress (e.g. in auto), but overall credit quality remained manageable.",
+        "key_insights": {
+          "Revenue Mix": "Net revenue growth was driven by higher markets revenue, recovering investment banking fees and solid payments activity, illustrating JPM’s diversified franchise.",
+          "Credit & Provisions": "The bank added to reserves in anticipation of potential credit normalisation, particularly in auto and some consumer segments, but non-performing metrics remain contained.",
+          "Strategic Initiatives": "JPM announced a long-term plan to channel up to about $1.5T over 10 years into U.S. strategic industries (energy resilience, cybersecurity, advanced manufacturing), underlining its role in national-security-linked finance.",
+          "Management Tone": "Jamie Dimon remained cautious on the macro outlook, flagging geopolitical risks and the potential for stickier inflation, even as current performance is strong."
+        },
+        "outlook": {
+          "Revenue & NII Outlook": "JPM raised its full-year net interest income outlook and expects non-interest revenue to remain healthy, supported by markets and banking activity.",
+          "Capital & Regulation": "The bank stays well capitalised and continues to return capital via dividends and buybacks, while preparing for evolving regulatory capital requirements.",
+          "Macro & Credit Outlook": "Management expects gradual credit normalisation but not a systemic shock absent a major macro event; they remain prepared for a range of scenarios."
+        },
+        "market_reaction": {
+          "next_day_move_pct": 0.0,
+          "comment": "Results were strong and broadly confirmed JPM’s quality leadership; the share price reaction was muted as cautious macro commentary and credit provisioning balanced the beats."
+        }
+      },
+      "sentiment_tag": "positive",
+      "chat_summary": "JPM’s Q3 2025 print reinforced its status as the high-quality U.S. bank: strong trading and IB, solid consumer and higher NII guidance. The bank is also positioning itself as a key financier of strategic U.S. sectors. The key investor debate revolves around how much late-cycle macro and credit risk is already priced into a premium multiple.",
+      "jgm_live_input": {
+        "last_updated": null,
+        "source": "Stocks project / Live feed",
+        "comments": []
+      },
+      "read_across": {
+        "from_others": []
+      }
+    }
+  ]
+}
