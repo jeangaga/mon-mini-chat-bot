@@ -21,72 +21,114 @@ from datetime import datetime, timedelta
 # ============================================================
 # 1️⃣ Téléchargement des données Yahoo (indices + actions)
 # ============================================================
-def load_indices_ohlc(period: str = "3mo", interval: str = "1d"):
+import yfinance as yf
+import pandas as pd
+
+def load_indices_ohlc():
     """
-    Télécharge les prix OHLC pour une liste d'indices et d'actions.
+    Charge les données OHLC pour indices + principaux stocks.
     Retourne un dict {ticker: DataFrame}.
     """
-    tickers = [
+    tickers = {
         # --- Indices ---
-        "^GSPC",  # SPX
-        "^STOXX50E",  # SX5E
-        "^NDX",  # Nasdaq 100
-        "^FCHI",  # CAC 40
-        "^GDAXI",  # DAX
+        "SPX": "^GSPC",
+        "SX5E": "^STOXX50E",
+        "RUT": "^RUT",
+        "NDX": "^NDX",
+        "HSI": "^HSI",
+        "CAC": "^FCHI",
 
-        # --- Stocks ---
-        "META", "AAPL", "AMZN", "GOOGL", "MSFT", "NVDA",
-        "TSLA", "PLTR", "AVGO", "WMT", "TGT", "HD", "JPM",
-    ]
+        # --- Stocks (ajout) ---
+        "META": "META",
+        "AAPL": "AAPL",
+        "AMZN": "AMZN",
+        "GOOGL": "GOOGL",
+        "MSFT": "MSFT",
+        "NVDA": "NVDA",
+        "TSLA": "TSLA",
+        "PLTR": "PLTR",
+        "AVGO": "AVGO",
+        "WMT": "WMT",
+        "TGT": "TGT",
+        "HD": "HD",
+        "JPM": "JPM",
+    }
 
-    all_data = {}
-    for t in tickers:
+    all_ohlc = {}
+    for code, symbol in tickers.items():
         try:
-            df = yf.download(t, period=period, interval=interval, progress=False)
+            df = yf.download(symbol, period="3mo", interval="1d", progress=False)
             if df.empty:
                 continue
-            df = df.rename(columns=str.title)  # Open/High/Low/Close
-            all_data[t.replace("^", "")] = df
+            df = df.rename(columns=str.title)  # Open, High, Low, Close
+            df.index = pd.to_datetime(df.index)
+            all_ohlc[code] = df
         except Exception:
             continue
 
-    return all_data
-
+    return all_ohlc
 
 # ============================================================
 # 2️⃣ Génération du graphique Plotly OHLC
 # ============================================================
 def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
-    """
-    Crée un graphique Plotly OHLC / candlestick.
-    ohlc_df doit contenir Open, High, Low, Close.
-    """
+    """Generate an interactive OHLC Plotly figure from a single-index OHLC DataFrame."""
 
-    if ohlc_df is None or ohlc_df.empty:
-        return None
+    # ✅ Allow passing the full dict {code: df} — keep only the selected one
+    if isinstance(ohlc_df, dict):
+        ohlc_df = ohlc_df.get(name)
+        ohlc_df =ohlc_df.dropna()
+        if ohlc_df is None:
+            raise ValueError(f"{name} not found in provided OHLC dict")
+    # --- détecter les jours manquants (fériés) ---
+    full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
+    missing = full_index.difference(ohlc_df.index)
 
+    # --- perfs 1d & 3m ---
+    closes = ohlc_df["Close"].dropna()
+    if len(closes) < 2:
+        raise ValueError(f"Not enough data to compute performance for {name}")
+
+    last_close = closes.iloc[-1]
+    prev_close = closes.iloc[-2]
+    start_close = closes.iloc[0]   # début des 3 mois
+
+    perf_1d = (last_close / prev_close - 1) * 100
+    perf_3m = (last_close / start_close - 1) * 100
+
+    perf_1d_str = f"{perf_1d:+.1f}%"
+    perf_3m_str = f"{perf_3m:+.1f}%"
+
+    # --- figure OHLC ---
     fig = go.Figure(
-        data=[
-            go.Candlestick(
-                x=ohlc_df.index,
-                open=ohlc_df["Open"],
-                high=ohlc_df["High"],
-                low=ohlc_df["Low"],
-                close=ohlc_df["Close"],
-                name=name,
-            )
-        ]
+        data=go.Ohlc(
+            x=ohlc_df.index,
+            open=ohlc_df["Open"],
+            high=ohlc_df["High"],
+            low=ohlc_df["Low"],
+            close=ohlc_df["Close"],
+            name=name,
+        )
     )
 
-    # Style minimaliste pro
+    fig.update_xaxes(
+        rangebreaks=[
+            dict(bounds=["sat", "mon"]),
+            dict(values=missing),
+        ],
+        tickformat="%b %d",
+        tickangle=-45,
+        nticks=8,
+    )
+
     fig.update_layout(
-        title=f"{name} – Yahoo Finance OHLC ({ohlc_df.index.min().date()} → {ohlc_df.index.max().date()})",
+        title=f"{name} – 1d: {perf_1d_str} • 3m: {perf_3m_str}",
         xaxis_title="Date",
-        yaxis_title="Price",
-        height=500,
-        margin=dict(l=40, r=40, t=60, b=40),
+        yaxis_title="Index level",
         xaxis_rangeslider_visible=False,
         template="plotly_white",
+        height=350,
+        margin=dict(l=40, r=10, t=40, b=60),
     )
 
     return fig
