@@ -265,6 +265,15 @@ def load_indices_ohlc():
 def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     """Generate an interactive OHLC Plotly figure from a single-index OHLC DataFrame."""
 
+def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
+    """Generate an interactive OHLC Plotly figure from a single-index OHLC DataFrame."""
+
+    # ✅ Allow passing the full dict {code: df} — keep only the selected one
+    if isinstance(ohlc_df, dict):
+        ohlc_df = ohlc_df.get(name)
+        ohlc_df =ohlc_df.dropna()
+        if ohlc_df is None:
+            raise ValueError(f"{name} not found in provided OHLC dict")
     # --- détecter les jours manquants (fériés) ---
     full_index = pd.date_range(start=ohlc_df.index.min(), end=ohlc_df.index.max(), freq="B")
     missing = full_index.difference(ohlc_df.index)
@@ -317,7 +326,6 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     )
 
     return fig
-
 def load_index_comment(code: str):
     """Charge les infos du dernier tag JSON d’un indice (SPX, SX5E, etc.) depuis GitHub."""
     try:
