@@ -123,6 +123,10 @@ import fredapi as fa
 from plotly.subplots import make_subplots
 import requests
 
+import json
+from datetime import date, timedelta
+
+
 # Initialize FRED API (use Streamlit secrets in production)
 fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
 
@@ -137,6 +141,8 @@ listTickerEquity = [
     # --- Consumer / Financials ---
     "WMT", "TGT", "HD", "JPM",
 ]
+
+listIndexCodes == ["SPX", "SX5E", "RUT", "NDX", "HSI", "CAC"]
 # === 2️⃣ Define your Yahoo Finance mapping ===
 tickers = {
     # --- Indices ---
@@ -358,6 +364,76 @@ def load_index_comment(code: str):
     except Exception as e:
         return f"Erreur lors du chargement du commentaire {code} : {e}"
 
+def load_stock_comment(code: str):
+    """
+    Charge le commentaire fondamental d’un titre (AAPL, MSFT, META...) 
+    depuis le JSON global stocks_daily_fundamental_feed_YYYYMMDD.json sur GitHub.
+    Si le fichier du jour n’existe pas, essaie automatiquement jusqu’à 10 jours en arrière.
+    """
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
+    found_data = None
+    used_date = None
+
+    # 🔁 Boucle sur les 10 derniers jours
+    for i in range(10):
+        check_date = (date.today() - timedelta(days=i)).strftime("%Y%m%d")
+        url = f"{base_url}stocks_daily_fundamental_feed_{check_date}.json"
+
+        try:
+            r = requests.get(url, timeout=5)
+            if r.status_code == 200:
+                found_data = r.json()
+                used_date = check_date
+                break
+        except Exception:
+            continue
+
+    if not found_data:
+        return f"❌ Aucun fichier de feed trouvé sur les 10 derniers jours pour {code}."
+
+    try:
+        stocks = found_data.get("stocks", [])
+        stock = next((s for s in stocks if s.get("ticker", "").upper() == code.upper()), None)
+
+        if not stock:
+            return f"❌ Aucun commentaire trouvé pour {code} dans le feed du {used_date}."
+
+        # === Extraction principale ===
+        ticker = stock.get("ticker", code)
+        summary = stock.get("chat_summary", "n/a")
+        last_earn = stock.get("last_earnings", {})
+        news = stock.get("market_news_last_5d", {})
+        sentiment = stock.get("sentiment_tag", "n/a")
+
+        # === Détails Earnings ===
+        last_period = last_earn.get("period", "n/a")
+        last_report_date = last_earn.get("report_date", "n/a")
+        last_comment = last_earn.get("summary_comment", "n/a")
+
+        # === Détails News ===
+        news_summary = news.get("summary_overview", "")
+        market_reaction = news.get("market_reaction", "")
+
+        # === Format markdown pour Streamlit/chatbox ===
+        text = (
+            f"### 🧾 **{ticker} — Résumé fondamental ({used_date})**  \n"
+            f"**Sentiment :** {sentiment}  \n\n"
+            f"**Derniers développements (5 derniers jours)**  \n"
+            f"{news_summary}\n\n"
+            f"🪙 *Réaction de marché :* {market_reaction}\n\n"
+            f"**Dernier trimestre reporté :** {last_period} *(publié le {last_report_date})*  \n"
+            f"{last_comment}\n\n"
+            f"**Synthèse JGM Chatbox :**  \n"
+            f"{summary}"
+        )
+
+        return text
+
+    except Exception as e:
+        return f"Erreur lors du chargement du commentaire {code} : {e}"
+
+
+
 def load_fred_series(series_id):
     """Fetch a FRED series and return a pandas Series."""
     return fred.get_series(series_id)
@@ -433,8 +509,11 @@ def repondre(question: str):
                 all_ohlc = load_indices_ohlc()
                 ohlc = all_ohlc[code]
                 fig = generate_ohlc(ohlc, name=code)
-                # 🔹 Charger le commentaire JSON correspondant
+            # 🔹 Charger le commentaire JSON correspondant
+            if code in listIndexCodes:
                 comment_text = load_index_comment(code)
+            else:
+                comment_text = load_stock_comment(code)
 
                 # 👉 Retourne le texte et le graphique
                 return comment_text, fig               
