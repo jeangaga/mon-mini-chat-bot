@@ -126,6 +126,8 @@ import requests
 import json
 from datetime import date, timedelta
 
+from functions.load_comments import load_stock_comment, load_index_comment
+
 
 # Initialize FRED API (use Streamlit secrets in production)
 fred = fa.Fred(api_key='6e079bc3e1ab2b8280b94e05ff432f30')
@@ -332,148 +334,7 @@ def generate_ohlc(ohlc_df: pd.DataFrame, name: str = "SPX"):
     )
 
     return fig
-def load_index_comment(code: str):
-    """Charge les infos du dernier tag JSON d’un indice (SPX, SX5E, etc.) depuis GitHub."""
-    try:
-        #url = f"https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/{code}.json"
-        url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/SPX.json"
-        r = requests.get(url)
-        if r.status_code != 200:
-            return f"❌ Aucun commentaire trouvé pour {code}."
-        # 🔍 DEBUG : afficher ce qu'on reçoit vraiment
-        #st.write(f"DEBUG {code} status:", r.status_code)
-        #st.write("DEBUG first 200 chars:", r.text[:200])
-        
-        data = r.json()
 
-        tag_date = data.get("date", "n/a")
-        close_val = data.get("close", "n/a")
-        sentiment = data.get("retail_sentiment", "n/a")
-        topics = ", ".join(data.get("top_topics", []))
-        comment = data.get("comment", "n/a")
-
-        text = (
-            f"**Dernier tag {code} ({tag_date})**  \n"
-            f"📈 **Clôture :** {close_val}  \n"
-            f"🧠 **Sentiment retail :** {sentiment}  \n"
-            f"🔥 **Top sujets :** {topics}  \n"
-            f"💬 **Commentaire :** {comment}"
-        )
-        return text
-
-    except Exception as e:
-        return f"Erreur lors du chargement du commentaire {code} : {e}"
-
-
-
-def load_stock_comment(code: str):
-    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
-    found_data = None
-    used_date = None
-
-    def clean(text):
-        """Version hardcore : vire tout ce qui n’est pas ASCII + compresse les blancs."""
-        if text is None:
-            return ""
-        if not isinstance(text, str):
-            text = str(text)
-
-        # remplace les retours à la ligne par des espaces
-        text = text.replace("\n", " ")
-
-        # force en ASCII : supprime guillemets typographiques, tirets exotiques, etc.
-        text = text.encode("ascii", "ignore").decode("ascii")
-
-        # compresse tous les blancs (espaces multiples, tabs…) en un seul espace
-        text = " ".join(text.split())
-
-        return text
-
-    # 🔁 Boucle sur les 10 derniers jours
-    for i in range(10):
-        check_date = (date.today() - timedelta(days=i)).strftime("%Y%m%d")
-        url = f"{base_url}stocks_daily_fundamental_feed_{check_date}.json"
-
-        try:
-            r = requests.get(url, timeout=5)
-            if r.status_code == 200:
-                found_data = r.json()
-                used_date = check_date
-                break
-        except Exception:
-            continue
-
-    if not found_data:
-        return f"❌ Aucun fichier de feed trouvé sur les 10 derniers jours pour {code}."
-
-    try:
-        stocks = found_data.get("stocks", [])
-        stock = next((s for s in stocks if s.get("ticker", "").upper() == code.upper()), None)
-
-        if not stock:
-            return f"❌ Aucun commentaire trouvé pour {code} dans le feed du {used_date}."
-
-        ticker = stock.get("ticker", code)
-        sentiment = stock.get("sentiment_tag", "n/a")
-
-        news = stock.get("market_news_last_5d", {}) or {}
-        last_earn = stock.get("last_earnings", {}) or {}
-        summary_raw = stock.get("chat_summary", "n/a")
-
-        # === Earnings ===
-        last_period = clean(last_earn.get("period", "n/a"))
-        last_report_date = clean(last_earn.get("report_date", "n/a"))
-        last_comment = clean(last_earn.get("summary_comment", "n/a"))
-
-        # key_insights
-        key_insights = last_earn.get("key_insights", {}) or {}
-        if key_insights:
-            ki_lines = [
-                f"- **{clean(k)} :** {clean(v)}"
-                for k, v in key_insights.items()
-            ]
-            key_insights_text = "\n".join(ki_lines)
-        else:
-            key_insights_text = "_Pas de key insights disponibles._"
-
-        # outlook
-        outlook = last_earn.get("outlook", {}) or {}
-        if outlook:
-            ol_lines = [
-                f"- **{clean(k)} :** {clean(v)}"
-                for k, v in outlook.items()
-            ]
-            outlook_text = "\n".join(ol_lines)
-        else:
-            outlook_text = "_Pas d’outlook disponible._"
-
-        # === News ===
-        news_summary = clean(news.get("summary_overview", ""))
-        market_reaction = clean(news.get("market_reaction", ""))
-
-        # === Synthèse globale ===
-        summary = clean(summary_raw)
-
-        text = (
-            f"### 🧾 **{ticker} — Résumé fondamental ({used_date})**  \n"
-            f"**Sentiment :** {sentiment}  \n\n"
-            f"**Derniers développements (5 derniers jours)**  \n"
-            f"{news_summary}\n\n"
-            f"🪙 *Réaction de marché :* {market_reaction}\n\n"
-            f"**Dernier trimestre reporté :** {last_period} *(publié le {last_report_date})*  \n"
-            f"{last_comment}\n\n"
-            f"**Key insights :**  \n"
-            f"{key_insights_text}\n\n"
-            f"**Outlook :**  \n"
-            f"{outlook_text}\n\n"
-            f"**Synthèse JGM Chatbox :**  \n"
-            f"{summary}"
-        )
-
-        return text
-
-    except Exception as e:
-        return f"Erreur lors du chargement du commentaire {code} : {e}"
 
 def load_fred_series(series_id):
     """Fetch a FRED series and return a pandas Series."""
