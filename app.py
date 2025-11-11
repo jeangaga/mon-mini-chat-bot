@@ -365,34 +365,28 @@ def load_index_comment(code: str):
         return f"Erreur lors du chargement du commentaire {code} : {e}"
 
 
-def load_stock_comment(code: str):
-    """
-    Charge le commentaire fondamental d’un titre (AAPL, MSFT, META...)
-    depuis le JSON global stocks_daily_fundamental_feed_YYYYMMDD.json sur GitHub.
-    Si le fichier du jour n’existe pas, essaie automatiquement jusqu’à 10 jours en arrière.
-    """
 
+def load_stock_comment(code: str):
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
     found_data = None
     used_date = None
 
     def clean(text):
-        """Normalise les espaces / tirets chelous + compresse en une seule espace."""
+        """Version hardcore : vire tout ce qui n’est pas ASCII + compresse les blancs."""
         if text is None:
             return ""
         if not isinstance(text, str):
             text = str(text)
 
-        # remplace espaces exotiques par des espaces normales
-        for ch in ["\u00a0", "\u202f", "\u2009", "\u2007", "\u200a"]:
-            text = text.replace(ch, " ")
+        # remplace les retours à la ligne par des espaces
+        text = text.replace("\n", " ")
 
-        # remplace tirets exotiques par un tiret simple
-        for ch in ["\u2010", "\u2011", "\u2012", "\u2013", "\u2014", "\u2212"]:
-            text = text.replace(ch, "-")
+        # force en ASCII : supprime guillemets typographiques, tirets exotiques, etc.
+        text = text.encode("ascii", "ignore").decode("ascii")
 
-        # compresse tous les blancs (retours ligne, tabs, etc.) en un seul espace
+        # compresse tous les blancs (espaces multiples, tabs…) en un seul espace
         text = " ".join(text.split())
+
         return text
 
     # 🔁 Boucle sur les 10 derniers jours
