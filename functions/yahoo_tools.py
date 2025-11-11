@@ -54,19 +54,19 @@ def load_indices_ohlc():
         "JPM": "JPM",
     }
 
-    all_ohlc = {}
-    for code, symbol in tickers.items():
-        try:
-            df = yf.download(symbol, period="3mo", interval="1d", progress=False)
-            if df.empty:
-                continue
-            df = df.rename(columns=str.title)  # Open, High, Low, Close
-            df.index = pd.to_datetime(df.index)
-            all_ohlc[code] = df
-        except Exception:
-            continue
+    data = yf.download(
+        list(tickers.values()),
+        period="3mo",
+        interval="1d",
+        auto_adjust=False,
+    )
 
-    return all_ohlc
+    out = {}
+    for code, yahoo in tickers.items():
+        ohlc = data.xs(yahoo, level=1, axis=1)[["Open", "High", "Low", "Close"]]
+        out[code] = ohlc
+
+    return out  # dict: {"SPX": df, "SX5E": df, "RUT": df}
 
 # ============================================================
 # 2️⃣ Génération du graphique Plotly OHLC
