@@ -221,6 +221,34 @@ st.markdown(
 @st.cache_data(ttl=3600)  # cache 1 heure par exemple
 
 
+RAW_NOTES_BASE = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
+
+def fetch_last_us_macro_note() -> str:
+    """
+    Récupère la note US macro 'latest' sur GitHub et extrait
+    le DERNIER bloc entre <<<US_MACRO_NOTE_BEGIN>>> et <<<US_MACRO_NOTE_END>>>.
+    """
+    filename = "US_macro_latest.txt"
+    url = RAW_NOTES_BASE + filename
+
+    try:
+        resp = requests.get(url, timeout=5)
+    except Exception as e:
+        return f"Erreur lors du chargement de la note US macro : {e}"
+
+    if resp.status_code != 200:
+        return f"Impossible de récupérer la note US macro (fichier {filename} introuvable sur GitHub)."
+
+    text = resp.text
+
+    pattern = r"<<<US_MACRO_NOTE_BEGIN>>>(.*?)<<<US_MACRO_NOTE_END>>>"
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return "Aucune note balisée US_MACRO_NOTE trouvée dans le fichier."
+
+    last_block = matches[-1].strip()
+    return last_block
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
@@ -240,7 +268,11 @@ def repondre(question: str):
 
     if "merci" in q:
         return "Avec plaisir 😄 !", fig
-
+        
+    # 🟣 Commande spéciale MACROUS → charge la dernière note US macro depuis GitHub
+    if q_upper == "MACROUS":
+        note = fetch_last_us_macro_note()
+        return note, None
 
     # 🟢 SPX case → load cached OHLC data
     
