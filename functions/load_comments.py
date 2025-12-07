@@ -116,25 +116,33 @@ def load_index_comment(code: str):
 
 import requests
 
+ 
+import re
+
 def load_us_macro_comment() -> str:
     """
-    DEBUG : lit US_macro_latest.txt sur GitHub
-    et renvoie seulement les 10 premières lignes.
+    Charge la dernière note US macro depuis GitHub (US_macro_latest.txt)
+    et renvoie le DERNIER bloc entre
+    <<<US_MACRO_NOTE_BEGIN>>> et <<<US_MACRO_NOTE_END>>>.
     """
     url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/US_macro_latest.txt"
     try:
         r = requests.get(url, timeout=5)
         if r.status_code != 200:
-            return f"[DEBUG MACROUS] HTTP {r.status_code} en lisant {url}"
+            return f"❌ Aucun commentaire US macro trouvé (HTTP {r.status_code})."
     except Exception as e:
-        return f"[DEBUG MACROUS] Erreur HTTP en lisant {url} : {e}"
+        return f"Erreur lors du chargement du commentaire US macro : {e}"
 
     text = r.text
-    lines = text.splitlines()
-    preview = "\n".join(lines[:10])
 
-    return (
-        "[DEBUG MACROUS] Premières lignes de US_macro_latest.txt :\n\n"
-        + preview
-    )
+    # Tous les blocs entre les balises
+    pattern = r"<<<US_MACRO_NOTE_BEGIN>>>(.*?)<<<US_MACRO_NOTE_END>>>"
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return "❌ Aucune balise <<<US_MACRO_NOTE_BEGIN>>> ... <<<US_MACRO_NOTE_END>>> trouvée dans US_macro_latest.txt."
+
+    # On prend simplement le DERNIER bloc, même s'il est vide
+    last_block = matches[-1].strip()
+    return last_block
 
