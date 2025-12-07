@@ -355,20 +355,10 @@ for i, (msg_type, content) in enumerate(reversed(st.session_state.messages)):
         )
 
     elif msg_type == "bot":
-        # On échappe le contenu pour éviter que HTML ne le mange,
-        # puis on convertit les retours à la ligne en <br>
-        safe_content = html.escape(str(content)).replace("\n", "<br>")
-
-        st.markdown(
-            f"""
-            <div class="message" style="margin-top:8px; margin-bottom:8px;">
-                <div class="bot-bubble" style="background-color:#F1F0F0; border-radius:12px; padding:8px;">
-                    <strong>Bot :</strong><br>{safe_content}
-                </div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+        # Affichage simple en Streamlit, sans HTML custom
+        # pour être sûr de voir tout le texte (notamment MACROUS)
+        st.markdown("**Bot :**")
+        st.markdown(str(content))
 
     elif msg_type == "plot":
         st.plotly_chart(content, use_container_width=True, key=f"plot_{i}")
