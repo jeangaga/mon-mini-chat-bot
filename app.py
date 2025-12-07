@@ -126,7 +126,7 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment
+from functions.load_comments import load_stock_comment, load_index_comment, load_us_macro_comment
 from functions.fred_tools import generate_labor_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
@@ -219,41 +219,7 @@ st.markdown(
 
 
 
-RAW_NOTES_BASE = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
 
-def fetch_last_us_macro_note() -> str:
-    """
-    Lit le fichier US_macro_latest.txt sur GitHub et extrait
-    le DERNIER bloc entre <<<US_MACRO_NOTE_BEGIN>>> et <<<US_MACRO_NOTE_END>>>.
-    """
-    filename = "US_macro_latest.txt"
-    url = RAW_NOTES_BASE + filename
-
-    try:
-        resp = requests.get(url, timeout=5)
-    except Exception as e:
-        return f"Erreur lors de la requête HTTP vers GitHub : {e}\nURL : {url}"
-
-    if resp.status_code != 200:
-        return (
-            f"Impossible de récupérer la note US macro.\n"
-            f"URL : {url}\n"
-            f"Status code : {resp.status_code}"
-        )
-
-    text = resp.text
-
-    pattern = r"<<<US_MACRO_NOTE_BEGIN>>>(.*?)<<<US_MACRO_NOTE_END>>>"
-    matches = re.findall(pattern, text, flags=re.S)
-
-    if not matches:
-        return (
-            "Fichier US_macro_latest.txt trouvé, mais aucune balise "
-            "<<<US_MACRO_NOTE_BEGIN>>> ... <<<US_MACRO_NOTE_END>>> détectée."
-        )
-
-    last_block = matches[-1].strip()
-    return last_block
     
 # 🧊 Charge les données SPX une seule fois (cache Streamlit)
 #@st.cache_data(ttl=3600)  # cache 1 heure par exemple
@@ -279,9 +245,8 @@ def repondre(question: str):
         
     # 🟣 Commande spéciale MACROUS → charge la dernière note US macro depuis GitHub
     if q_upper == "MACROUS":
-        note = fetch_last_us_macro_note()
-        return note, None
-
+        comment_text = load_us_macro_comment()
+        return comment_text, None
     # 🟢 SPX case → load cached OHLC data
     
     # 🔎 Cherche un des tickers dans la question
