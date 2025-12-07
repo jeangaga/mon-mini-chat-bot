@@ -223,7 +223,7 @@ RAW_NOTES_BASE = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/m
 
 def fetch_last_us_macro_note() -> str:
     """
-    Récupère la note US macro 'latest' sur GitHub et extrait
+    Lit le fichier US_macro_latest.txt sur GitHub et extrait
     le DERNIER bloc entre <<<US_MACRO_NOTE_BEGIN>>> et <<<US_MACRO_NOTE_END>>>.
     """
     filename = "US_macro_latest.txt"
@@ -232,10 +232,14 @@ def fetch_last_us_macro_note() -> str:
     try:
         resp = requests.get(url, timeout=5)
     except Exception as e:
-        return f"Erreur lors du chargement de la note US macro : {e}"
+        return f"Erreur lors de la requête HTTP vers GitHub : {e}\nURL : {url}"
 
     if resp.status_code != 200:
-        return f"Impossible de récupérer la note US macro (fichier {filename} introuvable sur GitHub)."
+        return (
+            f"Impossible de récupérer la note US macro.\n"
+            f"URL : {url}\n"
+            f"Status code : {resp.status_code}"
+        )
 
     text = resp.text
 
@@ -243,7 +247,10 @@ def fetch_last_us_macro_note() -> str:
     matches = re.findall(pattern, text, flags=re.S)
 
     if not matches:
-        return "Aucune note balisée US_MACRO_NOTE trouvée dans le fichier."
+        return (
+            "Fichier US_macro_latest.txt trouvé, mais aucune balise "
+            "<<<US_MACRO_NOTE_BEGIN>>> ... <<<US_MACRO_NOTE_END>>> détectée."
+        )
 
     last_block = matches[-1].strip()
     return last_block
