@@ -125,7 +125,7 @@ import requests
 import re
 import json
 from datetime import date, timedelta
-
+import html
 from functions.load_comments import load_stock_comment, load_index_comment
 from functions.fred_tools import generate_labor_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
@@ -355,11 +355,15 @@ for i, (msg_type, content) in enumerate(reversed(st.session_state.messages)):
         )
 
     elif msg_type == "bot":
+        # On échappe le contenu pour éviter que HTML ne le mange,
+        # puis on convertit les retours à la ligne en <br>
+        safe_content = html.escape(str(content)).replace("\n", "<br>")
+
         st.markdown(
             f"""
             <div class="message" style="margin-top:8px; margin-bottom:8px;">
                 <div class="bot-bubble" style="background-color:#F1F0F0; border-radius:12px; padding:8px;">
-                    <strong>Bot :</strong> {content}
+                    <strong>Bot :</strong><br>{safe_content}
                 </div>
             </div>
             """,
