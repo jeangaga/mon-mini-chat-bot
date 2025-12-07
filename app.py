@@ -217,8 +217,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 🧊 Charge les données SPX une seule fois (cache Streamlit)
-@st.cache_data(ttl=3600)  # cache 1 heure par exemple
 
 
 RAW_NOTES_BASE = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
@@ -249,6 +247,9 @@ def fetch_last_us_macro_note() -> str:
 
     last_block = matches[-1].strip()
     return last_block
+    
+# 🧊 Charge les données SPX une seule fois (cache Streamlit)
+@st.cache_data(ttl=3600)  # cache 1 heure par exemple
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
