@@ -111,3 +111,30 @@ def load_index_comment(code: str):
 
     except Exception as e:
         return f"Erreur lors du chargement du commentaire {code} : {e}"
+
+
+
+import requests
+
+def load_us_macro_comment() -> str:
+    """
+    DEBUG : lit US_macro_latest.txt sur GitHub
+    et renvoie seulement les 10 premières lignes.
+    """
+    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/US_macro_latest.txt"
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"[DEBUG MACROUS] HTTP {r.status_code} en lisant {url}"
+    except Exception as e:
+        return f"[DEBUG MACROUS] Erreur HTTP en lisant {url} : {e}"
+
+    text = r.text
+    lines = text.splitlines()
+    preview = "\n".join(lines[:10])
+
+    return (
+        "[DEBUG MACROUS] Premières lignes de US_macro_latest.txt :\n\n"
+        + preview
+    )
+
