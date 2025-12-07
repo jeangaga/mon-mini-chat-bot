@@ -122,7 +122,7 @@ import pandas as pd
 
 from plotly.subplots import make_subplots
 import requests
-
+import re
 import json
 from datetime import date, timedelta
 
@@ -256,7 +256,7 @@ def fetch_last_us_macro_note() -> str:
     return last_block
     
 # 🧊 Charge les données SPX une seule fois (cache Streamlit)
-@st.cache_data(ttl=3600)  # cache 1 heure par exemple
+#@st.cache_data(ttl=3600)  # cache 1 heure par exemple
 
 
 # 🧠 Logique du bot : renvoie (texte, fig)
