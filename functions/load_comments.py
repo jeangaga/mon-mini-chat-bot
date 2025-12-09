@@ -148,28 +148,31 @@ def load_us_macro_comment() -> str:
 
 def load_eur_macro_comment() -> str:
     """
-    Charge la dernière note US macro depuis GitHub (US_macro_latest.txt)
+    Charge la dernière note EUR macro depuis GitHub (EUR_macro_latest.txt)
     et renvoie le DERNIER bloc entre
-    <<<US_MACRO_NOTE_BEGIN>>> et <<<US_MACRO_NOTE_END>>>.
+    <<<EUR_MACRO_NOTE_BEGIN>>> et <<<EUR_MACRO_NOTE_END>>>.
     """
-    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/EUR_MACRO_NOTE.txt"
+    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/EUR_macro_latest.txt"
+    # ou : "…/EUR_MACRO_NOTE.txt" si c’est ce que tu as poussé
+
     try:
         r = requests.get(url, timeout=5)
         if r.status_code != 200:
-            return f"❌ Aucun commentaire US macro trouvé (HTTP {r.status_code})."
+            return f"❌ Aucun commentaire EUR macro trouvé (HTTP {r.status_code})."
     except Exception as e:
         return f"Erreur lors du chargement du commentaire EUR macro : {e}"
 
     text = r.text
 
-    # Tous les blocs entre les balises
     pattern = r"<<<EUR_MACRO_NOTE_BEGIN>>>(.*?)<<<EUR_MACRO_NOTE_END>>>"
     matches = re.findall(pattern, text, flags=re.S)
 
     if not matches:
-        return "❌ Aucune balise <<<EUR_MACRO_NOTE_BEGIN>>> ... <<<EUR_MACRO_NOTE_END>>> trouvée dans US_macro_latest.txt."
+        return (
+            "❌ Aucune balise <<<EUR_MACRO_NOTE_BEGIN>>> ... "
+            "<<<EUR_MACRO_NOTE_END>>> trouvée dans le fichier EUR macro."
+        )
 
-    # On prend simplement le DERNIER bloc, même s'il est vide
     last_block = matches[-1].strip()
     return last_block
 
