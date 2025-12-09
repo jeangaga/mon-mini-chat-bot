@@ -152,7 +152,7 @@ def load_eur_macro_comment() -> str:
     et renvoie le DERNIER bloc entre
     <<<EUR_MACRO_NOTE_BEGIN>>> et <<<EUR_MACRO_NOTE_END>>>.
     """
-    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/EUR_macro_latest.txt"
+    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/EUR_MACRO_NOTE.txt"
     # ou : "…/EUR_MACRO_NOTE.txt" si c’est ce que tu as poussé
 
     try:
