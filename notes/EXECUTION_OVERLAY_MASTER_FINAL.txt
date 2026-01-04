@@ -1,0 +1,219 @@
+<<<EXECUTION_OVERLAY_MASTER_BEGIN>>>
+EXECUTION_OVERLAY_MASTER_FINAL_v2 (AUDIT-LOCKED)
+Date: 2025-12-24 (Paris)
+
+====================================================
+GLOBAL HARD GATES — NO OUTPUT UNLESS VALID
+====================================================
+
+G1) FIXED SCHEMA REQUIRED
+High-quality analysis that does not strictly follow
+the MA.txt section schema is INVALID.
+Auditability takes precedence over intelligence.
+
+G2) DATE-CONSTRAINT CHECK
+Date coherence is NOT sufficient.
+The agent MUST explicitly state that the date-constraint
+has been checked and passed.
+
+G3) OFFICIAL RELEASE COMPLETENESS
+Missing any major official macro release (GDP, CPI, NFP,
+central bank decision) = AUTOMATIC INVALID.
+
+G4) CENTRAL BANK SPEAKER TAPE
+If market-relevant communications exist in rolling 1M,
+named speakers + dates + message are mandatory.
+
+
+
+====================================================
+USER DATA & CONTEXT RECONCILIATION (MANDATORY – HARD GATE)
+====================================================
+
+G-UD1) USER-PROVIDED DATA PRIORITY & INTEGRATION
+
+If the execution chat contains macro data pasted by the user
+(figures, summaries, commentary):
+
+- The agent MUST treat this data as an explicit input source.
+- ALL user-provided macro data MUST be included and commented.
+- User-provided data MUST NOT be silently dropped, overwritten,
+  or re-attributed.
+
+If user-provided data fall outside the strict date window:
+- They MUST be included as Context / Regime Anchors.
+
+Failure to integrate ALL user-provided macro data
+→ AUTOMATIC INVALID OUTPUT.
+
+
+G-UD2) UNION-MODE DATA RECONCILIATION
+
+The effective dataset for the run is defined as:
+
+USER DATA ∪ INDEPENDENTLY VERIFIED PROFESSIONAL DATA
+
+Rules:
+- Missing data or missing weeks in user notes MUST be reconstructed
+  from professional sources.
+- If both user data and external data exist, TAKE THE UNION,
+  not the intersection.
+- Absence of user data MUST NOT be interpreted as absence of release.
+
+
+G-UD3) DISCREPANCY HANDLING
+
+If user-provided data conflict with independently sourced data:
+- The agent MUST flag the discrepancy explicitly.
+- Both versions MUST remain visible unless instructed otherwise.
+- The agent MUST NOT silently correct user-provided data.
+
+If no discrepancy exists:
+- Verification MUST remain implicit (no mention in output).
+
+
+G-UD4) CONTEXT CONTINUITY ACROSS RUNS
+
+If a previous MA.txt run exists in the execution chat:
+- The agent MUST reuse it as contextual memory
+  (macro regime, anchors, framing).
+- New data update or refine the regime; they MUST NOT
+  mechanically reset it.
+
+
+G-UD5) OUTPUT HYGIENE
+
+- NO web links, URLs, citations, or source references
+  are allowed in the output text.
+- Source checking is implicit and MUST NOT be documented.
+
+Violation of any rule above
+→ AUTOMATIC INVALID OUTPUT.
+
+
+
+G-OH1) EXECUTION METADATA EXCLUSION
+
+Within the output block enclosed by:
+
+<<<REGION_MACRO_NOTE_BEGIN>>>
+...
+<<<REGION_MACRO_NOTE_END>>>
+
+the agent MUST NOT include:
+
+- execution checks or diagnostics
+  (e.g. date-constraint checks, PASS/FAIL statements),
+- internal gate titles or headings,
+- overlay or MA.txt rule references,
+- validation statements or self-auditing language.
+
+The output MUST contain ONLY
+the macro content defined by MA.txt section titles.
+
+Violation → AUTOMATIC INVALID OUTPUT.
+
+
+
+G-2) OUTPUT FORMATTING — SECTION HEADER STYLE (HARD RULE)
+
+
+All macro note section headers MUST use the following
+lightweight, uniform format:
+
+<Section Title>
+-------------------------------------------------
+
+Example (MANDATORY STYLE):
+
+Executive Summary – Macro Regime & New Information
+-------------------------------------------------
+
+Key Macro Releases – Primary Window (HF take)
+--------------------------------------------
+
+Top-Down Macro
+--------------
+
+Central Bank Speaker Tape
+-------------------------
+
+Political / Policy Events with Market Impact
+--------------------------------------------
+
+Cross-Market – Rates / FX / Risk Attribution
+--------------------------------------------
+
+PROHIBITED:
+- Heavy visual separators (e.g. "=====", "#####", boxed titles)
+- Oversized banners around section titles
+- PDF / sell-side style framing
+
+RATIONALE:
+- Preserve analytical density
+- Avoid visual dominance of any single section
+- Maintain hedge-fund / PM notebook aesthetics
+
+Violation of this formatting rule
+→ AUTOMATIC INVALID OUTPUT.
+====================================================
+
+
+
+
+====================================================
+QUALITY THRESHOLD — BENCHMARK-LOCKED (HARD GATE)
+====================================================
+
+PM Self-Assessment is a HARD STOP condition.
+Absence, misplacement, or vagueness blocks the output
+regardless of apparent quality.
+
+The self-assessment MUST explicitly score the run
+against the latest validated benchmark
+(e.g. USMacroLatest.txt), not against internal standards.
+
+The score MUST reflect the following FIVE dimensions:
+
+1) Signal hierarchy
+   - One dominant binding constraint clearly identified
+   - Secondary signals and noise explicitly pruned
+
+2) Causal & analytical compression
+   - Clear chain: data → dominant macro loop → reaction function
+   - No parallel, evenly-weighted, or narrative-heavy analysis
+
+3) Reaction-function precision
+   - Central bank communication shifts probabilities
+   - Asymmetries (hawkish vs dovish tails) explicitly stated
+
+4) Professional / hedge-fund narrative depth (MANDATORY)
+   - Explicit evidence of consultation of HF-followed
+     and institutional macro sources beyond Bloomberg/Reuters
+   - Integration of non-obvious professional insights
+     (revisions, composition effects, caveats, what professionals ignored)
+   - Clear articulation of:
+       • prevailing professional base case,
+       • key debates,
+       • tail risks,
+       • and what would force a narrative shift
+
+5) PM-level decision usefulness
+   - Analysis materially reduces the risk of a macro-driven mistake
+   - Makes unambiguous what matters most, what does not, and why
+
+Scoring rule (NON-NEGOTIABLE):
+- Any material weakness vs the benchmark
+  in ANY dimension caps the score at ≤ 9.6 / 10.
+- Superficial or absent treatment of
+  Dimension (4) AUTOMATICALLY caps the score at ≤ 9.4 / 10.
+- A score < 9.8 / 10 is AUTOMATICALLY INVALID
+  and triggers a mandatory full re-run.
+
+Only runs demonstrably comparable to or exceeding
+the benchmark in sharpness, hierarchy,
+professional depth, and PM judgement
+may score ≥ 9.8 / 10.
+
+====================================================
+<<<EXECUTION_OVERLAY_MASTER_END>>>
