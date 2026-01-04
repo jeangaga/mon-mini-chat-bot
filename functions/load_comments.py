@@ -146,14 +146,14 @@ def load_us_macro_comment() -> str:
     last_block = matches[-1].strip()
     return last_block
 
+
 def load_eur_macro_comment() -> str:
     """
-    Charge la dernière note EUR macro depuis GitHub (EUR_macro_latest.txt)
-    et renvoie le DERNIER bloc entre
+    Charge la note EUR macro depuis GitHub (EUR_MACRO_NOTE.txt)
+    et renvoie le PREMIER bloc entre
     <<<EUR_MACRO_NOTE_BEGIN>>> et <<<EUR_MACRO_NOTE_END>>>.
     """
     url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/EUR_MACRO_NOTE.txt"
-    # ou : "…/EUR_MACRO_NOTE.txt" si c’est ce que tu as poussé
 
     try:
         r = requests.get(url, timeout=5)
@@ -173,6 +173,9 @@ def load_eur_macro_comment() -> str:
             "<<<EUR_MACRO_NOTE_END>>> trouvée dans le fichier EUR macro."
         )
 
-    last_block = matches[-1].strip()
-    return last_block
+    first_block = matches[0].strip()
+    return first_block
+
+
+    
 
