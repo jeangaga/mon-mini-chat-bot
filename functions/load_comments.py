@@ -1,5 +1,6 @@
 # functions/load_comments.py
 import requests
+import re
 from datetime import date, timedelta
 
 # === Fonction principale pour les actions ===
@@ -117,7 +118,7 @@ def load_index_comment(code: str):
 import requests
 
  
-import re
+
 
 def load_us_macro_comment() -> str:
     """
@@ -175,6 +176,54 @@ def load_eur_macro_comment() -> str:
 
     first_block = matches[0].strip()
     return first_block
+
+import re
+import requests
+
+def load_macro_note(region: str) -> str:
+    """
+    Load the FIRST macro note block for a given region from GitHub.
+
+    - region examples: "eur", "jpy", "usd", "mxn", "zar" (case-insensitive)
+    - file: <REGION>_MACRO_NOTE.txt (e.g., EUR_MACRO_NOTE.txt)
+    - block markers:
+        <<<EUR_MACRO_NOTE_BEGIN>>> ... <<<EUR_MACRO_NOTE_END>>>
+        <<<JPY_MACRO_NOTE_BEGIN>>> ... <<<JPY_MACRO_NOTE_END>>>
+    Returns: the first matched block (stripped), or an error message.
+    """
+
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Région invalide (vide)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"{reg}_MACRO_NOTE.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<<{reg}_MACRO_NOTE_BEGIN>>>"
+    end_tag = f"<<<{reg}_MACRO_NOTE_END>>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ Aucun fichier macro trouvé pour {reg} (HTTP {r.status_code}) : {filename}"
+    except Exception as e:
+        return f"Erreur lors du chargement de la note macro {reg} : {e}"
+
+    text = r.text
+
+    # Escape tags in case they ever contain regex-significant chars
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return (
+            f"❌ Balises introuvables dans {filename} : "
+            f"{begin_tag} ... {end_tag}"
+        )
+
+    # FIRST block in file order
+    return matches[0].strip()
 
 
     
