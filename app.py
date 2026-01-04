@@ -126,7 +126,7 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment, load_us_macro_comment, load_eur_macro_comment
+from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment
 from functions.fred_tools import generate_labor_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
@@ -243,15 +243,18 @@ def repondre(question: str):
     if "merci" in q:
         return "Avec plaisir 😄 !", fig
         
-    # 🟣 Commande spéciale MACROUS → charge la dernière note US macro depuis GitHub
-    if q_upper == "MACROUS":
-        comment_text = load_us_macro_comment()
-        return comment_text, None
+
 
     # 🟣 Commande spéciale MACROUS → charge la dernière note US macro depuis GitHub
-    if q_upper == "MACROEUR":
-        comment_text = load_eur_macro_comment()
-        return comment_text, None
+    #if q_upper == "MACROEUR":
+    #    comment_text = load_eur_macro_comment()
+     #   return comment_text, None
+
+  # 🟣 Commandes spéciales MACRO<REGION>
+    if q_upper.startswith("MACRO"):
+        region = q_upper.replace("MACRO", "").lower()
+        comment_text = load_macro_note(region)
+        return comment_text, None  
     # 🟢 SPX case → load cached OHLC data
     
     # 🔎 Cherche un des tickers dans la question
