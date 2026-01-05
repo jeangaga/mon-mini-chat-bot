@@ -113,7 +113,20 @@ the macro content defined by MA.txt section titles.
 
 Violation → AUTOMATIC INVALID OUTPUT.
 
+G-DS1) DEEP SEARCH ATTESTATION (HARD GATE — ALWAYS ON)
+Before printing the <<<REGION_MACRO_NOTE_BEGIN>>> block, the agent MUST print a 3-line attestation (NO URLs):
 
+Bloomberg check: YES/NO
+
+Reuters check: YES/NO
+
+HF/institutional sources consulted: at least 2 (list names only, no links)
+If missing → INVALID (no output).
+
+Important: this attestation MUST be OUTSIDE the macro note block to comply with G-OH1 and G-UD5 (no links/citations inside the note).
+
+G-DF1) DATA-FIRST COMPLETENESS (HARD GATE — ALWAYS ON)
+If Section 2 contains “n/a (not verified)” for any major public release (CPI/GDP/labour/central bank decision) that is available on mainstream calendars, the run is INVALID and MUST be aborted (no narrative fill, no score).
 
 G-2) OUTPUT FORMATTING — SECTION HEADER STYLE (HARD RULE)
 
@@ -203,16 +216,60 @@ The score MUST reflect the following FIVE dimensions:
    - Makes unambiguous what matters most, what does not, and why
 
 Scoring rule (NON-NEGOTIABLE):
-- Any material weakness vs the benchmark
-  in ANY dimension caps the score at ≤ 9.6 / 10.
-- Superficial or absent treatment of
-  Dimension (4) AUTOMATICALLY caps the score at ≤ 9.4 / 10.
-- A score < 9.8 / 10 is AUTOMATICALLY INVALID
-  and triggers a mandatory full re-run.
 
-Only runs demonstrably comparable to or exceeding
-the benchmark in sharpness, hierarchy,
-professional depth, and PM judgement
+Any material weakness vs the benchmark
+in ANY of the five dimensions
+caps the score at ≤ 9.6 / 10.
+
+Superficial, generic, or unsubstantiated treatment of
+Dimension (4) – Professional / HF narrative depth
+(i.e. absence of explicit professional debates, non-obvious details, or HF-level divergences)
+AUTOMATICALLY caps the score at ≤ 9.4 / 10.
+
+Section-2 data integrity rule (HARD):
+If any major public macro release relevant to the region
+(CPI, GDP, labour, central bank decision)
+is:
+
+missing from Section 2, OR
+
+present without numeric Actual / Prior when publicly available, OR
+
+replaced by narrative placeholders (“directional”, “n/a (not verified)”) without justification,
+
+then the score is AUTOMATICALLY capped at ≤ 6.5 / 10
+and the run is treated as INVALID.
+
+Data-first anchoring rule (HARD):
+If Sections 1, 3, or 6 contain macro claims not explicitly anchored
+to dated releases listed in Section 2,
+the score is AUTOMATICALLY capped at ≤ 7.0 / 10.
+
+Process credibility rule (HARD):
+If the run exhibits signs of insufficient verification depth
+(e.g. implausibly fast end-to-end execution for a full macro run,
+absence of deep-search attestation, or narrative fill preceding data inventory),
+the score is AUTOMATICALLY capped at ≤ 7.0 / 10,
+regardless of apparent analytical quality.
+
+Benchmark gate (NON-NEGOTIABLE):
+A score < 9.8 / 10 is AUTOMATICALLY INVALID
+and triggers a MANDATORY full re-run.
+
+Only runs demonstrably comparable to or exceeding the benchmark
+in:
+
+signal hierarchy,
+
+causal compression,
+
+reaction-function precision,
+
+professional / HF narrative depth, and
+
+PM-level decision usefulness,
+
+with fully populated, numeric Section-2 data,
 may score ≥ 9.8 / 10.
 
 ====================================================
