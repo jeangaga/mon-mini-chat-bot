@@ -1,0 +1,145 @@
+<<<USD_MACRO_NOTE_BEGIN>>>
+Date: 2 Jan 2026 (Paris)
+Window: last 4 weeks into year-end 2025 (with regime anchors explicitly labelled)
+
+Executive Summary – Macro Regime & New Information
+
+Macro regime (binding constraint): U.S. is in a growth-floor / labour-cooling regime. The binding constraint for policy is the labour slack trajectory versus core/services inflation persistence, not the level of headline activity.
+
+What changed in this window (delta):
+
+Policy: Fed delivered a 25bp cut in Dec 2025 and framed it as “insurance” largely completed → pause is baseline unless labour/inflation deteriorate.
+
+Liquidity implementation: reserve-management bill purchases (~$40bn first month / near term elevated) were announced as technical plumbing → reduces money-market tail risk but not a macro easing signal by itself.
+
+Data quality / noise: shutdown-related distortions + revisions are a first-order issue for signal extraction.
+
+What did not change:
+
+Activity prints can look strong (GDP tracking / consumption), but labour is still cooling at the margin.
+
+Inflation constraint is still core/services momentum, not headline.
+
+Regime-change triggers:
+
+Dovish acceleration: unemployment drifts above ~4.7% (user narrative) with corroboration (hours/wages/continuing claims trend).
+
+Hawkish tail / pause-longer: core/services persistence reasserts; cuts get deferred.
+
+Key Macro Releases – Primary Window (HF take)
+
+(Union-mode: ALL user-provided releases included; verification shown only via numbers that can be confirmed; otherwise “n/a (not verified)” or “(User input)” retained.)
+
+Dec 2025 – Fed policy action + liquidity operations
+Actual / Consensus / Prior: 25bp cut (User input) / n/a / prior n/a
+Signal: Cut framed as “insurance” easing; pause conditional on labour/inflation (User input).
+HF take: Reaction function shifts to near-neutral plateau + conditionality; market should not extrapolate a mechanical easing cycle.
+Add-on (implementation): Reserve management purchases ~“$40bn first month / near term elevated” (User input).
+HF take: Technical support to keep reserves ample; reduces funding-tail risk, but is not QE-by-intent.
+
+Late 2025 – Real activity / GDP tracking
+3Q GDP: ~3.5% q/q saar (User input) / n/a / n/a
+Signal: Upside risks to near-term growth tracking (User input); composition flagged as trade/inventories (User input).
+HF take: Growth floor can coexist with labour cooling; quality/composition matters more than headline.
+
+Nov 2025 – CPI (User input summary)
+Actual / Consensus / Prior: Headline ~+0.3% m/m (User input); Core ~+0.27–0.30% m/m (User input) / n/a / n/a
+Signal: Mixed inflation signals; shutdown-related distortions and rebound risk (User input).
+HF take: The Fed’s pause is consistent with inflation noise: it wants confirmation on core/services momentum before moving again.
+
+Labour – unemployment / openings / quits / claims (composite)
+Unemployment: ~4.6% in late 2025 (User input); peak read ~4.7% early 2026 (User narrative) / n/a / n/a
+Signal: Cooling but not collapsing (User input).
+HF take: This supports “pause” unless corroborated by hours/wage cooling or a sustained rise in continuing claims.
+
+Initial claims: ~220k week ending Dec 13 (User input) / n/a / n/a
+Signal: Elevated vs cyclical troughs (~200–220k) (User input).
+HF take: Claims are above trough but still consistent with low layoffs; labour cooling is more about hiring.
+
+Nov 2025 — Pending Home Sales
+Actual / Consensus / Prior: +3.3% m/m (User input) / n/a / n/a
+Signal: Strong gain, highest since Feb 2023 (User input).
+HF take: Housing is stabilising off depressed levels; contributes to the “growth floor,” but does not negate labour cooling.
+
+(Additional user-provided level): Pending home sales ~77.5 (mn ar) (User input)
+HF note: Level metric is kept as provided; treated as non-core because definition/units vary.
+
+Nov 2025 — Average weekly workweek
+Actual / Consensus / Prior: 34.3 hours (Nov) (User input); expected 34.2 (Dec) (User input) / n/a / n/a
+Signal: Hours stable over ~18 months (User input).
+HF take: Hours are a high-signal labour margin; stability argues against abrupt recession, but a downshift would be an early dovish trigger.
+
+Late 2025 — Payroll prints and revisions
+Actual / Consensus / Prior: “first-round revisions tended negative” (User input) / n/a / n/a
+Signal: Revision risk can materially change initial payroll reads (User input).
+HF take: Under a pause regime, tighten the filter: do not overweight first prints if revision/collection noise is elevated.
+
+Dec 2025 – PMIs (S&P Global; user summary)
+All-industry output: 53.0 (User input); prior 54.2 (User input)
+Services business activity: 52.9 (User input)
+New business: 54.3 (User input)
+Services prices: “cycle highs” (User input)
+Manufacturing composite: 51.8 (User input)
+Signal: Growth slowed but remains expansionary; prices pressures concentrated in services (User input).
+HF take: Consistent with growth floor + services inflation constraint → reinforces “pause.”
+
+Nov 2025 – Retail sales
+Control group: +0.5% m/m (User input)
+Headline: ~−0.1% m/m (User input) (autos timing)
+Signal: Underlying consumption resilient despite headline dip.
+HF take: Supports near-term activity; makes labour the main pivot for further cuts.
+
+Dec 2025 – Philadelphia Fed
+General conditions: “positive; components mixed” (User input)
+Signal: Regional activity steady but uneven.
+HF take: Secondary sentinel: supportive, not decisive versus labour/inflation constraint.
+
+Top-Down Macro
+
+Hierarchy (HF compression):
+
+Policy reaction function is the regime anchor: cut-to-near-neutral then pause unless labour slack accelerates or inflation persistence breaks the other way.
+
+Labour is the binding constraint: unemployment drifting higher + openings/quits moderating; watch hours and continuing claims for confirmation.
+
+Inflation remains noisy: services prices / core momentum are the key; shutdown/revision noise raises the threshold for reacting to any single print.
+
+Activity is a floor, not a green light: retail/control + PMI expansion suggest no imminent recession, but composition/revision issues keep conviction capped.
+
+Rolling regime assessment: CONFIRMS “growth floor + labour cooling,” with convexity in labour drift vs services inflation persistence.
+
+Central Bank Speaker Tape
+Last Policy Meeting – Decision, Rationale & Projections
+
+FOMC (Dec 2025)
+Policy decision: 25bp cut (User input); stance framed as near-neutral with high optionality.
+Rationale: insurance easing; pause conditional on labour/inflation.
+Projections: n/a (not required for this rerun; not verified in user text).
+
+Rolling communications (include-boilerplate ON; discipline > omission)
+
+Powell (Chair) – Dec 2025 (press conference)
+Core message: pause baseline; data-dependent; separated liquidity ops from stance.
+Bias: neutral-to-cautious.
+Adds/changes: institutionalises pause and raises the bar for sequential cuts.
+
+FOMC Minutes – Dec 2025
+Core message: finely balanced; uncertainty elevated; implementation/reserves discussed.
+Bias: neutral (distribution-aware).
+Adds/changes: strengthens “pause can persist” even after a cut.
+
+(Other speakers in rolling month)
+
+Included only if dated, policy-relevant and verified; otherwise excluded to avoid false precision.
+
+Political / Policy Events with Market Impact
+
+In-window: No verified market-moving fiscal/political shock in the user input beyond shutdown-related data distortion risk.
+Rolling: data-quality risk raises uncertainty premia; does not mechanically shift macro baseline.
+
+Cross-Market – Rates / FX / Risk Attribution
+
+Rates: front-end anchored by “cut-to-neutral then pause”; sensitivity highest to labour confirmation (hours/claims/UE drift) and services inflation momentum.
+USD: supported by growth floor and pause optionality; downside if labour drift forces earlier/steeper cut path.
+
+<<<USD_MACRO_NOTE_END>>>
