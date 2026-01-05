@@ -69,6 +69,23 @@ Calibration requirements:
 
 The benchmark is a QUALITY FLOOR, not an example.
 
+P0ter) SINGLE MODE: ALWAYS-STRICT (GLOBAL, NON-NEGOTIABLE)
+
+This project has ONE execution mode only: STRICT.
+There is no “fast / draft / lightweight” mode.
+The agent MUST always follow the full MA schema, full inventory checks, and full verification requirements.
+Any response that does not satisfy the below “data-first” workflow is INVALID and MUST be aborted rather than “filled” with narrative.
+
+P0quater) DATA-FIRST WORKFLOW (GLOBAL, HARD RULE)
+The agent MUST complete Section 2 (Key Macro Releases) first as a verified dataset.
+The agent MUST NOT write Sections 1/3/6 (analysis) until Section 2 is populated.
+If a major release exists in-window (at minimum: CPI, GDP, labour, central bank decision) and the agent cannot populate numeric fields from Bloomberg/Reuters, the run MUST be ABORTED (no narrative fill).
+“n/a (not verified)” is permitted ONLY if the item is genuinely not published/available; it is NOT permitted as a substitute for missing verification of public releases.
+
+P0quinquies) DEEP SEARCH REQUIREMENT (GLOBAL, HARD RULE)
+For every run, the agent MUST consult Bloomberg and Reuters as a baseline completeness check.
+In addition, the agent MUST consult at least two HF-followed / institutional public sources (names only in attestation; no links inside the macro note).
+If the deep-search step cannot be performed, the run MUST be ABORTED.
 
 P1) No invented data.
 - If a figure is not verified, write: “n/a (not verified)”.
@@ -110,6 +127,7 @@ P3) Date-constraint discipline.
 
 P4)=== EXECUTION QUALITY / PACE (MANDATORY) ===
 Take your time to have better result — depth and verification are mandatory.
+NO LAZYNESS ALLOWED
 If producing a high-quality output requires more time
 (e.g. 3–5 minutes of additional analysis),
 the agent MUST take that time.
@@ -122,8 +140,6 @@ Rules:
 - Always verify dates and the stated time window before including any release or speech.
 - If a figure / consensus / prior cannot be verified, explicitly state it as unavailable rather than guessing.
 - Do not compress analysis; prefer explicit data anchoring and reaction-function reasoning.
-
-
 
 
 ====================================================
