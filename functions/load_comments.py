@@ -275,88 +275,107 @@ def load_live_macro_block(region: str) -> str:
 SEP_EQ_RE = re.compile(r"^=+$")
 SEP_DASH_RE = re.compile(r"^-+$")
 
-def render_live_macro_block(text: str) -> None:
+def render_live_macro_block(text: str) -> str:
     """
-    Render a LIVE macro block nicely in Streamlit WITHOUT changing the source text.
-    Designed for your ASCII HF notebook format:
-      - top title lines (e.g., 'US MACRO — LIVE WEEK VIEW ...')
-      - STATUS line
-      - day headers like 'MONDAY 05 JAN — RELEASED' / '... — LIVE (PREVIEW)'
-      - indicator headers in ALL CAPS
-      - separator lines made of ==== or ----
+    PURE formatter: takes the raw LIVE block (ASCII) and returns a nicer
+    Streamlit-friendly Markdown string.
+
+    IMPORTANT:
+    - No Streamlit calls here (no st.*)
+    - Keeps your workflow: comment_text = render_live_macro_block(comment_text)
+    - Works with st.markdown(comment_text)
     """
-    if not text or text.strip().startswith("❌"):
-        st.error(text if text else "❌ Empty LIVE macro block.")
-        return
+    if not text:
+        return "❌ Empty LIVE macro block."
+    if text.strip().startswith("❌"):
+        return text
 
     lines = text.splitlines()
 
-    # 1) Strip block markers if present
-    filtered = []
+    # Remove LIVE markers if present
+    cleaned = []
     for ln in lines:
-        if ln.strip().startswith("<<LIVE_") and ln.strip().endswith(">>"):
+        s = ln.strip()
+        if s.startswith("<<LIVE_") and s.endswith(">>"):
             continue
-        filtered.append(ln.rstrip("\n"))
+        cleaned.append(ln.rstrip())
 
-    # 2) Render line-by-line with simple rules
-    pending_paragraph = []
+    out = []
+    i = 0
 
-    def flush_paragraph():
-        nonlocal pending_paragraph
-        if pending_paragraph:
-            # keep manual line breaks
-            st.markdown("<br>".join(pending_paragraph), unsafe_allow_html=True)
-            pending_paragraph = []
+    def add_blank():
+        if out and out[-1] != "":
+            out.append("")
 
-    for raw in filtered:
-        line = raw.rstrip()
+    def add_line_keep_break(s: str):
+        # In Markdown, a hard line break needs two spaces before newline
+        out.append(s + "  ")
 
-        # blank line => paragraph break
-        if line.strip() == "":
-            flush_paragraph()
-            continue
+    while i < len(cleaned):
+        line = cleaned[i].rstrip()
+        s = line.strip()
 
-        # visual separators
-        if SEP_EQ_RE.match(line.strip()):
-            flush_paragraph()
-            st.divider()
+        # blank line
+        if s == "":
+            add_blank()
+            i += 1
             continue
 
-        if SEP_DASH_RE.match(line.strip()):
-            flush_paragraph()
-            st.divider()
+        # separators -> horizontal rule
+        if SEP_EQ_RE.match(s) or SEP_DASH_RE.match(s):
+            add_blank()
+            out.append("---")
+            add_blank()
+            i += 1
             continue
 
-        # STATUS line
-        if line.upper().startswith("STATUS:"):
-            flush_paragraph()
-            st.caption(line)
+        upper = s.upper()
+
+        # Title line (first line usually)
+        if "LIVE WEEK VIEW" in upper and len(s) <= 120:
+            add_blank()
+            out.append(f"# {s}")
+            add_blank()
+            i += 1
             continue
 
-        # Big title line (first big header)
-        if "LIVE WEEK VIEW" in line.upper() and len(line) < 120:
-            flush_paragraph()
-            st.title(line)
+        # Status line
+        if upper.startswith("STATUS:"):
+            add_blank()
+            out.append(f"_{s}_")
+            add_blank()
+            i += 1
             continue
 
-        # Day header
-        # e.g. "MONDAY 05 JAN — RELEASED"
-        if ("—" in line or "-" in line) and ("RELEASED" in line.upper() or "LIVE" in line.upper()):
-            # safeguard: typical day headers are mostly uppercase
-            if line == line.upper() and len(line) <= 60:
-                flush_paragraph()
-                st.header(line)
-                continue
-
-        # Indicator header: all caps and short-ish
-        # e.g. "WARDS TOTAL VEHICLE SALES (DEC)"
-        if line == line.upper() and 3 <= len(line) <= 70:
-            flush_paragraph()
-            st.subheader(line)
+        # Day headers (all caps + RELEASED / LIVE)
+        if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 80:
+            add_blank()
+            out.append(f"## {s}")
+            add_blank()
+            i += 1
             continue
 
-        # Otherwise: accumulate as paragraph (preserve manual line breaks)
-        pending_paragraph.append(line)
+        # Indicator headers (ALL CAPS, short)
+        if s == upper and 3 <= len(s) <= 90:
+            add_blank()
+            out.append(f"### {s}")
+            add_blank()
+            i += 1
+            continue
 
-    flush_paragraph()
+        # Bullet lines: keep as-is
+        if s.startswith("- ") or s.startswith("* ") or s.startswith("• "):
+            add_line_keep_break(s)
+            i += 1
+            continue
+
+        # Normal text: keep line breaks (important for your HF notebook feel)
+        add_line_keep_break(s)
+        i += 1
+
+    # cleanup: remove trailing blanks
+    while out and out[-1] == "":
+        out.pop()
+
+    return "\n".join(out)
 
