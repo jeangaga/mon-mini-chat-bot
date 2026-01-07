@@ -225,6 +225,52 @@ def load_macro_note(region: str) -> str:
     # FIRST block in file order
     return matches[0].strip()
 
+def load_live_macro_block(region: str) -> str:
+    """
+    Load the FIRST LIVE macro block for a given region from GitHub.
+
+    - region examples: "eur", "jpy", "usd", "mxn", "zar" (case-insensitive)
+    - file: <REGION>_MACRO_NOTE.txt (e.g., EUR_MACRO_NOTE.txt)
+    - block markers:
+        <<LIVE_EUR_MACRO_BEGIN>> ... <<LIVE_EUR_MACRO_END>>
+        <<LIVE_JPY_MACRO_BEGIN>> ... <<LIVE_JPY_MACRO_END>>
+
+    Returns:
+        - first matched LIVE block (stripped)
+        - or a clear error message
+    """
+
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"{reg}_MACRO_NOTE.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
+    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ Macro file not found for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading LIVE macro note for {reg}: {e}"
+
+    text = r.text
+
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return (
+            f"❌ LIVE macro block not found in {filename}: "
+            f"{begin_tag} ... {end_tag}"
+        )
+
+    # FIRST block in file order
+    return matches[0].strip()
 
     
 
