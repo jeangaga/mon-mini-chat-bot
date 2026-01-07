@@ -126,7 +126,7 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment
+from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block
 from functions.fred_tools import generate_labor_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
@@ -255,7 +255,13 @@ def repondre(question: str):
         region = q_upper.replace("MACRO", "").lower()
         comment_text = load_macro_note(region)
         return comment_text, None  
-    # 🟢 SPX case → load cached OHLC data
+
+
+
+    if q_upper.startswith("LIVE"):
+        region = q_upper.replace("LIVE", "").lower()
+        comment_text = load_live_macro_block(region)
+        return comment_text, None  
     
     # 🔎 Cherche un des tickers dans la question
     for code in listTickerEquity:
