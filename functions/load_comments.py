@@ -225,68 +225,21 @@ def load_macro_note(region: str) -> str:
     # FIRST block in file order
     return matches[0].strip()
 
-def load_live_macro_block(region: str) -> str:
-    """
-    Load the FIRST LIVE macro block for a given region from GitHub.
-
-    - region examples: "eur", "jpy", "usd", "mxn", "zar" (case-insensitive)
-    - file: <REGION>_MACRO_NOTE.txt (e.g., EUR_MACRO_NOTE.txt)
-    - block markers:
-        <<LIVE_EUR_MACRO_BEGIN>> ... <<LIVE_EUR_MACRO_END>>
-        <<LIVE_JPY_MACRO_BEGIN>> ... <<LIVE_JPY_MACRO_END>>
-
-    Returns:
-        - first matched LIVE block (stripped)
-        - or a clear error message
-    """
-
-    reg = region.strip().upper()
-    if not reg:
-        return "❌ Invalid region (empty)."
-
-    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
-    filename = f"{reg}_MACRO_NOTE.txt"
-    url = f"{base_url}/{filename}"
-
-    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
-    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
-
-    try:
-        r = requests.get(url, timeout=5)
-        if r.status_code != 200:
-            return f"❌ Macro file not found for {reg} (HTTP {r.status_code}): {filename}"
-    except Exception as e:
-        return f"❌ Error loading LIVE macro note for {reg}: {e}"
-
-    text = r.text
-
-    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
-    matches = re.findall(pattern, text, flags=re.S)
-
-    if not matches:
-        return (
-            f"❌ LIVE macro block not found in {filename}: "
-            f"{begin_tag} ... {end_tag}"
-        )
-
-    # FIRST block in file order
-    return matches[0].strip()
-
-SEP_EQ_RE = re.compile(r"^=+$")
-SEP_DASH_RE = re.compile(r"^-+$")
-
 def render_live_macro_block(text: str) -> str:
     """
     PURE formatter: takes the raw LIVE block (ASCII) and returns a nicer
     Streamlit-friendly Markdown string.
 
-    Typography + structure (v3):
+    v4 (structure-tight, no semantic hacks):
     - Title smaller (##)
     - STATUS line bold
     - Day headers smaller (bold, not heading)
     - ALL-CAPS short headers -> ### (kept)
-    - Release title lines (including "CHINA — ...") -> bold
-    - No semantic hacks (no "Sensitivity" special-casing)
+    - Release title lines -> bold (tight heuristic)
+      * short-ish (<= 60 chars)
+      * NOT ALL CAPS
+      * NOT data-prefix lines (Actual/Cons/Prior/etc)
+      * MUST NOT contain ':' (prevents bolding commentary like "Sensitivity: ...")
     """
     if not text:
         return "❌ Empty LIVE macro block."
@@ -339,8 +292,8 @@ def render_live_macro_block(text: str) -> str:
 
         upper = s.upper()
 
-        # Title line (first line usually) — smaller
-        if "LIVE WEEK VIEW" in upper and len(s) <= 140:
+        # Title line — smaller
+        if "LIVE WEEK VIEW" in upper and len(s) <= 160:
             add_blank()
             out.append(f"## {s}")
             add_blank()
@@ -355,15 +308,15 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
-        # Day headers (ALL CAPS + RELEASED/LIVE) — smaller (bold, not heading)
-        if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 90:
+        # Day headers (ALL CAPS + RELEASED/LIVE/PREVIEW) — smaller (bold)
+        if ("RELEASED" in upper or "LIVE" in upper or "PREVIEW" in upper) and s == upper and len(s) <= 100:
             add_blank()
             out.append(f"**{s}**")
             add_blank()
             i += 1
             continue
 
-        # ALL CAPS short headers (section-ish) -> ### (kept)
+        # ALL CAPS short headers -> ### (kept)
         if s == upper and 3 <= len(s) <= 90:
             add_blank()
             out.append(f"### {s}")
@@ -371,26 +324,26 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
-        # Bullet lines: keep as-is (line breaks preserved)
+        # Bullet lines: keep as-is
         if s.startswith("- ") or s.startswith("* ") or s.startswith("• "):
             add_line_keep_break(s)
             i += 1
             continue
 
-        # Release title lines — bold (works for "ISM ..." and "CHINA — ...")
-        # Heuristic: short-ish, not ALL CAPS, not a data line, not status.
+        # Release title lines — bold (tight heuristic)
         if (
-            3 <= len(s) <= 110
+            3 <= len(s) <= 60
             and s != upper
+            and ":" not in s
             and not upper.startswith(DATA_PREFIXES)
             and not upper.startswith("STATUS:")
         ):
-            add_blank()  # separate from previous block
+            add_blank()
             out.append(f"**{s}**  ")
             i += 1
             continue
 
-        # Normal text: keep line breaks (important for your HF notebook feel)
+        # Normal text: keep line breaks
         add_line_keep_break(s)
         i += 1
 
@@ -399,6 +352,3 @@ def render_live_macro_block(text: str) -> str:
         out.pop()
 
     return "\n".join(out)
-
-
-
