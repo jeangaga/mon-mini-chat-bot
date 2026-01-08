@@ -280,11 +280,13 @@ def render_live_macro_block(text: str) -> str:
     PURE formatter: takes the raw LIVE block (ASCII) and returns a nicer
     Streamlit-friendly Markdown string.
 
-    Typography tweak v2:
-    - Smaller title
+    Typography + structure (v3):
+    - Title smaller (##)
     - STATUS line bold
     - Day headers smaller (bold, not heading)
-    - Release title lines (e.g., "ISM Manufacturing PMI (Dec)") bold
+    - ALL-CAPS short headers -> ### (kept)
+    - Release title lines (including "CHINA — ...") -> bold
+    - No semantic hacks (no "Sensitivity" special-casing)
     """
     if not text:
         return "❌ Empty LIVE macro block."
@@ -338,7 +340,7 @@ def render_live_macro_block(text: str) -> str:
         upper = s.upper()
 
         # Title line (first line usually) — smaller
-        if "LIVE WEEK VIEW" in upper and len(s) <= 120:
+        if "LIVE WEEK VIEW" in upper and len(s) <= 140:
             add_blank()
             out.append(f"## {s}")
             add_blank()
@@ -353,15 +355,15 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
-        # Day headers — smaller (bold, not heading)
-        if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 80:
+        # Day headers (ALL CAPS + RELEASED/LIVE) — smaller (bold, not heading)
+        if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 90:
             add_blank()
             out.append(f"**{s}**")
             add_blank()
             i += 1
             continue
 
-        # Indicator headers (ALL CAPS, short) — keep as heading
+        # ALL CAPS short headers (section-ish) -> ### (kept)
         if s == upper and 3 <= len(s) <= 90:
             add_blank()
             out.append(f"### {s}")
@@ -369,27 +371,26 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
-        # Release title lines — bold (e.g., "ISM Manufacturing PMI (Dec)")
-        # Heuristic: short-ish, not a data line, not a bullet, not a day header.
-        if (
-            3 <= len(s) <= 90
-            and not s.startswith(("- ", "* ", "• "))
-            and not upper.startswith(DATA_PREFIXES)
-            and not upper.startswith("STATUS:")
-            and "—" not in s
-        ):
-            add_blank()
-            out.append(f"**{s}**  ")
-            i += 1
-            continue
-
-        # Bullet lines: keep as-is
+        # Bullet lines: keep as-is (line breaks preserved)
         if s.startswith("- ") or s.startswith("* ") or s.startswith("• "):
             add_line_keep_break(s)
             i += 1
             continue
 
-        # Normal text: keep line breaks
+        # Release title lines — bold (works for "ISM ..." and "CHINA — ...")
+        # Heuristic: short-ish, not ALL CAPS, not a data line, not status.
+        if (
+            3 <= len(s) <= 110
+            and s != upper
+            and not upper.startswith(DATA_PREFIXES)
+            and not upper.startswith("STATUS:")
+        ):
+            add_blank()  # separate from previous block
+            out.append(f"**{s}**  ")
+            i += 1
+            continue
+
+        # Normal text: keep line breaks (important for your HF notebook feel)
         add_line_keep_break(s)
         i += 1
 
