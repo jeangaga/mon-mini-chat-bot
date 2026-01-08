@@ -225,6 +225,42 @@ def load_macro_note(region: str) -> str:
 
     # FIRST block in file order
     return matches[0].strip()
+def load_live_macro_block(region: str) -> str:
+    """
+    Load the FIRST LIVE macro block for a given region from GitHub.
+
+    File convention:
+      notes/LIVE_<REGION>_MACRO.txt   (e.g., LIVE_USD_MACRO.txt)
+
+    Block markers:
+      <<LIVE_<REGION>_MACRO_BEGIN>> ... <<LIVE_<REGION>_MACRO_END>>
+    """
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"LIVE_{reg}_MACRO.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
+    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No LIVE macro file for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading LIVE macro for {reg}: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return f"❌ LIVE markers not found in {filename}: {begin_tag} ... {end_tag}"
+
+    return matches[0].strip()
 
 def render_live_macro_block(text: str) -> str:
     """
