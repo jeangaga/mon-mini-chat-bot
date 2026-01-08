@@ -240,7 +240,7 @@ def load_live_macro_block(region: str) -> str:
         return "❌ Invalid region (empty)."
 
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
-    filename = f"LIVE_{reg}_MACRO.txt"
+    filename = f"{reg}_MACRO_NOTE.txt"
     url = f"{base_url}/{filename}"
 
     begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
