@@ -280,9 +280,11 @@ def render_live_macro_block(text: str) -> str:
     PURE formatter: takes the raw LIVE block (ASCII) and returns a nicer
     Streamlit-friendly Markdown string.
 
-    Typography tweak v1:
-    - Smaller title and day headers
-    - STATUS line bold (not italic)
+    Typography tweak v2:
+    - Smaller title
+    - STATUS line bold
+    - Day headers smaller (bold, not heading)
+    - Release title lines (e.g., "ISM Manufacturing PMI (Dec)") bold
     """
     if not text:
         return "❌ Empty LIVE macro block."
@@ -307,17 +309,25 @@ def render_live_macro_block(text: str) -> str:
             out.append("")
 
     def add_line_keep_break(s: str):
+        # In Markdown, a hard line break needs two spaces before newline
         out.append(s + "  ")
+
+    DATA_PREFIXES = (
+        "ACTUAL", "PRIOR", "CONS", "REVISED", "MIN", "MAX", "COUNT",
+        "SURPRISE", "HF TAKE", "HF COMMENT"
+    )
 
     while i < len(cleaned):
         line = cleaned[i].rstrip()
         s = line.strip()
 
+        # blank line
         if s == "":
             add_blank()
             i += 1
             continue
 
+        # separators -> horizontal rule
         if SEP_EQ_RE.match(s) or SEP_DASH_RE.match(s):
             add_blank()
             out.append("---")
@@ -330,28 +340,28 @@ def render_live_macro_block(text: str) -> str:
         # Title line (first line usually) — smaller
         if "LIVE WEEK VIEW" in upper and len(s) <= 120:
             add_blank()
-            out.append(f"## {s}")   # was "#"
+            out.append(f"## {s}")
             add_blank()
             i += 1
             continue
 
-        # Status line — bold (not italic)
+        # Status line — bold
         if upper.startswith("STATUS:"):
             add_blank()
-            out.append(f"**{s}**")  # was italic
+            out.append(f"**{s}**")
             add_blank()
             i += 1
             continue
 
-        # Day headers — smaller
+        # Day headers — smaller (bold, not heading)
         if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 80:
             add_blank()
-            out.append(f"### {s}")  # was "##"
+            out.append(f"**{s}**")
             add_blank()
             i += 1
             continue
 
-        # Indicator headers (unchanged for now)
+        # Indicator headers (ALL CAPS, short) — keep as heading
         if s == upper and 3 <= len(s) <= 90:
             add_blank()
             out.append(f"### {s}")
@@ -359,17 +369,35 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
+        # Release title lines — bold (e.g., "ISM Manufacturing PMI (Dec)")
+        # Heuristic: short-ish, not a data line, not a bullet, not a day header.
+        if (
+            3 <= len(s) <= 90
+            and not s.startswith(("- ", "* ", "• "))
+            and not upper.startswith(DATA_PREFIXES)
+            and not upper.startswith("STATUS:")
+            and "—" not in s
+        ):
+            add_blank()
+            out.append(f"**{s}**  ")
+            i += 1
+            continue
+
+        # Bullet lines: keep as-is
         if s.startswith("- ") or s.startswith("* ") or s.startswith("• "):
             add_line_keep_break(s)
             i += 1
             continue
 
+        # Normal text: keep line breaks
         add_line_keep_break(s)
         i += 1
 
+    # cleanup: remove trailing blanks
     while out and out[-1] == "":
         out.pop()
 
     return "\n".join(out)
+
 
 
