@@ -280,10 +280,9 @@ def render_live_macro_block(text: str) -> str:
     PURE formatter: takes the raw LIVE block (ASCII) and returns a nicer
     Streamlit-friendly Markdown string.
 
-    IMPORTANT:
-    - No Streamlit calls here (no st.*)
-    - Keeps your workflow: comment_text = render_live_macro_block(comment_text)
-    - Works with st.markdown(comment_text)
+    Typography tweak v1:
+    - Smaller title and day headers
+    - STATUS line bold (not italic)
     """
     if not text:
         return "❌ Empty LIVE macro block."
@@ -308,20 +307,17 @@ def render_live_macro_block(text: str) -> str:
             out.append("")
 
     def add_line_keep_break(s: str):
-        # In Markdown, a hard line break needs two spaces before newline
         out.append(s + "  ")
 
     while i < len(cleaned):
         line = cleaned[i].rstrip()
         s = line.strip()
 
-        # blank line
         if s == "":
             add_blank()
             i += 1
             continue
 
-        # separators -> horizontal rule
         if SEP_EQ_RE.match(s) or SEP_DASH_RE.match(s):
             add_blank()
             out.append("---")
@@ -331,31 +327,31 @@ def render_live_macro_block(text: str) -> str:
 
         upper = s.upper()
 
-        # Title line (first line usually)
+        # Title line (first line usually) — smaller
         if "LIVE WEEK VIEW" in upper and len(s) <= 120:
             add_blank()
-            out.append(f"# {s}")
+            out.append(f"## {s}")   # was "#"
             add_blank()
             i += 1
             continue
 
-        # Status line
+        # Status line — bold (not italic)
         if upper.startswith("STATUS:"):
             add_blank()
-            out.append(f"_{s}_")
+            out.append(f"**{s}**")  # was italic
             add_blank()
             i += 1
             continue
 
-        # Day headers (all caps + RELEASED / LIVE)
+        # Day headers — smaller
         if ("RELEASED" in upper or "LIVE" in upper) and s == upper and len(s) <= 80:
             add_blank()
-            out.append(f"## {s}")
+            out.append(f"### {s}")  # was "##"
             add_blank()
             i += 1
             continue
 
-        # Indicator headers (ALL CAPS, short)
+        # Indicator headers (unchanged for now)
         if s == upper and 3 <= len(s) <= 90:
             add_blank()
             out.append(f"### {s}")
@@ -363,19 +359,17 @@ def render_live_macro_block(text: str) -> str:
             i += 1
             continue
 
-        # Bullet lines: keep as-is
         if s.startswith("- ") or s.startswith("* ") or s.startswith("• "):
             add_line_keep_break(s)
             i += 1
             continue
 
-        # Normal text: keep line breaks (important for your HF notebook feel)
         add_line_keep_break(s)
         i += 1
 
-    # cleanup: remove trailing blanks
     while out and out[-1] == "":
         out.pop()
 
     return "\n".join(out)
+
 
