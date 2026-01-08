@@ -179,7 +179,8 @@ def load_eur_macro_comment() -> str:
 
 import re
 import requests
-
+SEP_EQ_RE = re.compile(r"^={3,}$")
+SEP_DASH_RE = re.compile(r"^-{3,}$")
 def load_macro_note(region: str) -> str:
     """
     Load the FIRST macro note block for a given region from GitHub.
