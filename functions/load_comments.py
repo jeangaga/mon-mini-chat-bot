@@ -4,7 +4,56 @@ import re
 from datetime import date, timedelta
 
 # === Fonction principale pour les actions ===
-def load_stock_comment(code: str):
+
+import requests
+import re
+
+def load_stock_comment(code: str) -> str:
+    """
+    Load the FIRST LIVE stock macro block for a given ticker from GitHub.
+
+    File:
+      notes/STOCKS_LIVE_NOTE.txt
+
+    Block markers:
+      <<LIVE_<TICKER>_MACRO_BEGIN>> ... <<LIVE_<TICKER>_MACRO_END>>
+    """
+    ticker = code.strip().upper()
+    if not ticker:
+        return "❌ Invalid ticker (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = "STOCKS_LIVE_NOTE.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<LIVE_{ticker}_MACRO_BEGIN>>"
+    end_tag   = f"<<LIVE_{ticker}_MACRO_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No STOCKS live note file (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading STOCKS live note: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return (
+            f"❌ LIVE stock markers not found for {ticker} in {filename}: "
+            f"{begin_tag} ... {end_tag}"
+        )
+
+    return matches[0].strip()
+
+
+
+
+
+
+def load_stock_comment_old(code: str):
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/"
     found_data = None
     used_date = None
