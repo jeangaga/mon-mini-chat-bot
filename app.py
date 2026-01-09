@@ -152,22 +152,41 @@ tickers = {
     "HSI": "^HSI",
     "CAC": "^FCHI",
 
-    # --- MAG7 + Tech ---
+    # --- Hyperscalers / Platforms ---
     "META": "META",
     "AAPL": "AAPL",
     "AMZN": "AMZN",
     "GOOGL": "GOOGL",
     "MSFT": "MSFT",
-    "NVDA": "NVDA",
-    "TSLA": "TSLA",
-    "PLTR": "PLTR",
-    "AVGO": "AVGO",
+    "ORCL": "ORCL",
 
-    # --- Consumer / Financials ---
+    # --- Core AI Compute / Silicon ---
+    "NVDA": "NVDA",
+    "AVGO": "AVGO",
+    "AMD":  "AMD",
+    "TSM":  "TSM",
+    "ASML": "ASML",
+
+    # --- Networking / Optics ---
+    "ANET": "ANET",
+    "CSCO": "CSCO",
+    "MRVL": "MRVL",
+    "LITE": "LITE",
+    "COHR": "COHR",
+
+    # --- AI Servers / Systems ---
+    "SMCI": "SMCI",
+    "CLS":  "CLS",
+
+    # --- Consumer / Financials (AI Beneficiaries) ---
     "WMT": "WMT",
     "TGT": "TGT",
-    "HD": "HD",
+    "HD":  "HD",
     "JPM": "JPM",
+
+    # --- Optional / Thematic ---
+    "PLTR": "PLTR",
+    "TSLA": "TSLA",
 }
 
 # ⚙️ Config de la page
