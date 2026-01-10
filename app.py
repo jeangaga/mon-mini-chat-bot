@@ -127,7 +127,7 @@ import json
 from datetime import date, timedelta
 import html
 from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block
-from functions.fred_tools import generate_labor_chart
+from functions.fred_tools import generate_labor_chart,generate_jobs_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
 listTickerEquity = [
@@ -306,7 +306,10 @@ def repondre(question: str):
     if "nfp" in q_lower:
         fig = generate_labor_chart()
         return "U.S. Labor NFP update 📊", fig
-
+    if "jobs" in q_lower:
+        fig = generate_jobs_chart()
+        return "U.S. Labor  update 📊", fig
+        
 # 📌 Historique des messages (texte + graph)
 # On stocke des tuples (type, contenu) avec type ∈ {"user", "bot", "plot"}
 if "messages" not in st.session_state:
