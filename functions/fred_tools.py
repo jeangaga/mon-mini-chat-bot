@@ -229,23 +229,16 @@ import plotly.graph_objects as go
 
 def generate_jobs_chart():
     """
-    U.S. Job Market — stacked (single column), PM-readable.
+    U.S. Job Market — stacked (single column), with LAST RELEASE labels.
 
-    DATE RULES (as requested):
-    - Unemployment rate (household survey, UNRATE): from 2005-01-01
-    - Participation rate (CIVPART): from 2005-01-01
+    DATE RULES:
+    - UNRATE: from 2005-01-01
+    - CIVPART: from 2005-01-01
     - Claims (ICSA, CCSA): from 2022-01-01
-    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY (no start-date filter)
+    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY
 
-    Panels (top to bottom):
-    1) Unemployment Rate (UNRATE)
-    2) Participation Rate (CIVPART)
-    3) Initial Claims (ICSA) + 12w MA
-    4) Continued Claims (CCSA)
-    5) Job Openings (JTSJOL)
-    6) Hires rate (JTSHIR)
-    7) Quits rate (JTSQUR)
-    8) Layoffs & discharges rate (JTSLDR)
+    Adds a last-value annotation to each panel.
+    Legend disabled (no trace list on the right).
     """
 
     UNRATE_START_DATE = "2005-01-01"
@@ -260,31 +253,63 @@ def generate_jobs_chart():
             df = df[df.index > start_date]
         return df
 
-    # ------------------------------------------------
-    # Household survey rates (from 2005-01-01)
-    # ------------------------------------------------
+    def add_last_label(fig, df, ycol: str, row: int, col: int,
+                       kind: str = "level", suffix: str = "", scale: str | None = None):
+        """
+        kind:
+          - 'pct'   -> 1 decimal + %
+          - 'level' -> integer with optional k/M formatting via 'scale'
+        scale:
+          - None, 'k' (divide by 1e3), 'M' (divide by 1e6)
+        """
+        if df.empty:
+            return
+
+        last = df.dropna(subset=[ycol]).iloc[-1]
+        x = last["Date"]
+        y = float(last[ycol])
+
+        if kind == "pct":
+            txt = f"{y:.1f}%"
+        else:
+            v = y
+            if scale == "k":
+                v = v / 1_000.0
+                txt = f"{v:,.0f}k{suffix}"
+            elif scale == "M":
+                v = v / 1_000_000.0
+                txt = f"{v:,.2f}M{suffix}"
+            else:
+                txt = f"{v:,.0f}{suffix}"
+
+        fig.add_annotation(
+            x=x, y=y,
+            text=txt,
+            showarrow=True,
+            arrowhead=2,
+            ax=25, ay=-25,
+            row=row, col=col
+        )
+
+    # ------------------------
+    # Data
+    # ------------------------
     unrate = make_level_df("UNRATE", "Unemployment Rate (%)", start_date=UNRATE_START_DATE)
     part   = make_level_df("CIVPART", "Participation Rate (%)", start_date=CIVPART_START_DATE)
 
-    # ------------------------------------------------
-    # Claims (from 2022-01-01)
-    # ------------------------------------------------
     ic = make_level_df("ICSA", "Initial Claims", start_date=CLAIMS_START_DATE)
     ic["12w MA"] = ic["Initial Claims"].rolling(window=12).mean()
 
     cc = make_level_df("CCSA", "Continued Claims", start_date=CLAIMS_START_DATE)
 
-    # ------------------------------------------------
-    # JOLTS (full history)
-    # ------------------------------------------------
     jol = make_level_df("JTSJOL", "Job Openings (ths)", start_date=None)
     hir = make_level_df("JTSHIR", "Hires rate (%)", start_date=None)
     qur = make_level_df("JTSQUR", "Quits rate (%)", start_date=None)
     ldr = make_level_df("JTSLDR", "Layoffs & discharges rate (%)", start_date=None)
 
-    # ------------------------------------------------
-    # Subplots: single column, stacked
-    # ------------------------------------------------
+    # ------------------------
+    # Figure (stacked, 1 col)
+    # ------------------------
     titles = (
         "Unemployment Rate (UNRATE, household survey)",
         "Participation Rate (CIVPART)",
@@ -304,73 +329,54 @@ def generate_jobs_chart():
         vertical_spacing=0.05
     )
 
-    # 1) Unemployment rate
-    fig.add_trace(
-        go.Scatter(x=unrate["Date"], y=unrate["Unemployment Rate (%)"], mode="lines"),
-        row=1, col=1
-    )
+    # 1) UNRATE
+    fig.add_trace(go.Scatter(x=unrate["Date"], y=unrate["Unemployment Rate (%)"], mode="lines"), row=1, col=1)
     fig.update_yaxes(ticksuffix="%", row=1, col=1)
+    add_last_label(fig, unrate, "Unemployment Rate (%)", row=1, col=1, kind="pct")
 
-    # 2) Participation rate
-    fig.add_trace(
-        go.Scatter(x=part["Date"], y=part["Participation Rate (%)"], mode="lines"),
-        row=2, col=1
-    )
+    # 2) CIVPART
+    fig.add_trace(go.Scatter(x=part["Date"], y=part["Participation Rate (%)"], mode="lines"), row=2, col=1)
     fig.update_yaxes(ticksuffix="%", row=2, col=1)
+    add_last_label(fig, part, "Participation Rate (%)", row=2, col=1, kind="pct")
 
-    # 3) Initial claims (level + 12w MA)
-    fig.add_trace(
-        go.Scatter(x=ic["Date"], y=ic["Initial Claims"], mode="lines"),
-        row=3, col=1
-    )
-    fig.add_trace(
-        go.Scatter(x=ic["Date"], y=ic["12w MA"], mode="lines"),
-        row=3, col=1
-    )
+    # 3) Initial claims + MA
+    fig.add_trace(go.Scatter(x=ic["Date"], y=ic["Initial Claims"], mode="lines"), row=3, col=1)
+    fig.add_trace(go.Scatter(x=ic["Date"], y=ic["12w MA"], mode="lines"), row=3, col=1)
+    add_last_label(fig, ic, "Initial Claims", row=3, col=1, kind="level", scale="k")
 
     # 4) Continued claims
-    fig.add_trace(
-        go.Scatter(x=cc["Date"], y=cc["Continued Claims"], mode="lines"),
-        row=4, col=1
-    )
+    fig.add_trace(go.Scatter(x=cc["Date"], y=cc["Continued Claims"], mode="lines"), row=4, col=1)
+    add_last_label(fig, cc, "Continued Claims", row=4, col=1, kind="level", scale="k")
 
-    # 5) Job openings
-    fig.add_trace(
-        go.Scatter(x=jol["Date"], y=jol["Job Openings (ths)"], mode="lines"),
-        row=5, col=1
-    )
+    # 5) Job openings (ths)
+    fig.add_trace(go.Scatter(x=jol["Date"], y=jol["Job Openings (ths)"], mode="lines"), row=5, col=1)
+    # Job openings are already in thousands → show as "7,900k"
+    add_last_label(fig, jol, "Job Openings (ths)", row=5, col=1, kind="level", suffix="", scale=None)
 
     # 6) Hires rate
-    fig.add_trace(
-        go.Scatter(x=hir["Date"], y=hir["Hires rate (%)"], mode="lines"),
-        row=6, col=1
-    )
+    fig.add_trace(go.Scatter(x=hir["Date"], y=hir["Hires rate (%)"], mode="lines"), row=6, col=1)
     fig.update_yaxes(ticksuffix="%", row=6, col=1)
+    add_last_label(fig, hir, "Hires rate (%)", row=6, col=1, kind="pct")
 
     # 7) Quits rate
-    fig.add_trace(
-        go.Scatter(x=qur["Date"], y=qur["Quits rate (%)"], mode="lines"),
-        row=7, col=1
-    )
+    fig.add_trace(go.Scatter(x=qur["Date"], y=qur["Quits rate (%)"], mode="lines"), row=7, col=1)
     fig.update_yaxes(ticksuffix="%", row=7, col=1)
+    add_last_label(fig, qur, "Quits rate (%)", row=7, col=1, kind="pct")
 
     # 8) Layoffs rate
-    fig.add_trace(
-        go.Scatter(x=ldr["Date"], y=ldr["Layoffs & discharges rate (%)"], mode="lines"),
-        row=8, col=1
-    )
+    fig.add_trace(go.Scatter(x=ldr["Date"], y=ldr["Layoffs & discharges rate (%)"], mode="lines"), row=8, col=1)
     fig.update_yaxes(ticksuffix="%", range=[0, 2.5], row=8, col=1)
+    add_last_label(fig, ldr, "Layoffs & discharges rate (%)", row=8, col=1, kind="pct")
 
-    # ------------------------------------------------
-    # Layout: remove the right-side "trace 0/..." list
-    # ------------------------------------------------
+    # ------------------------
+    # Layout: no legend clutter
+    # ------------------------
     fig.update_layout(
-        title="U.S. Job Market — Household Survey (since 2005), Claims (post-2022), and JOLTS (full history)",
+        title="U.S. Job Market — last release labels on each panel",
         template="plotly_white",
         height=1750,
         margin=dict(l=60, r=30, t=70, b=40),
-        showlegend=False,  # ✅ kills the right-side trace list
-        # legend=dict(orientation="h", y=-0.05),  # enable later if needed
+        showlegend=False,  # kills right-side trace list
     )
 
     return fig
