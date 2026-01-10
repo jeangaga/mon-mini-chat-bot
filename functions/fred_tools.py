@@ -229,25 +229,31 @@ import plotly.graph_objects as go
 
 def generate_jobs_chart():
     """
-    U.S. Job Market — Claims & JOLTS (stacked, single column)
+    U.S. Job Market — stacked (single column), PM-readable.
 
-    Date rules:
+    DATE RULES (as requested):
+    - Unemployment rate (household survey, UNRATE): from 2005-01-01
+    - Participation rate (CIVPART): from 2005-01-01
     - Claims (ICSA, CCSA): from 2022-01-01
-    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY
+    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY (no start-date filter)
 
     Panels (top to bottom):
-    1) Initial Claims (level + 12w MA)
-    2) Continued Claims (level)
-    3) Job Openings (level)
-    4) Hires rate
-    5) Quits rate
-    6) Layoffs & discharges rate
+    1) Unemployment Rate (UNRATE)
+    2) Participation Rate (CIVPART)
+    3) Initial Claims (ICSA) + 12w MA
+    4) Continued Claims (CCSA)
+    5) Job Openings (JTSJOL)
+    6) Hires rate (JTSHIR)
+    7) Quits rate (JTSQUR)
+    8) Layoffs & discharges rate (JTSLDR)
     """
 
+    UNRATE_START_DATE = "2005-01-01"
+    CIVPART_START_DATE = "2005-01-01"
     CLAIMS_START_DATE = "2022-01-01"
 
     def make_level_df(series_id: str, name: str, start_date: str | None = None):
-        s = load_fred_series(series_id)   # pd.Series with DatetimeIndex
+        s = load_fred_series(series_id)  # pd.Series with DatetimeIndex
         df = s.to_frame(name)
         df["Date"] = df.index
         if start_date is not None:
@@ -255,25 +261,33 @@ def generate_jobs_chart():
         return df
 
     # ------------------------------------------------
-    # Claims (post-2022)
+    # Household survey rates (from 2005-01-01)
     # ------------------------------------------------
-    ic = make_level_df("ICSA", "Initial Claims", CLAIMS_START_DATE)
+    unrate = make_level_df("UNRATE", "Unemployment Rate (%)", start_date=UNRATE_START_DATE)
+    part   = make_level_df("CIVPART", "Participation Rate (%)", start_date=CIVPART_START_DATE)
+
+    # ------------------------------------------------
+    # Claims (from 2022-01-01)
+    # ------------------------------------------------
+    ic = make_level_df("ICSA", "Initial Claims", start_date=CLAIMS_START_DATE)
     ic["12w MA"] = ic["Initial Claims"].rolling(window=12).mean()
 
-    cc = make_level_df("CCSA", "Continued Claims", CLAIMS_START_DATE)
+    cc = make_level_df("CCSA", "Continued Claims", start_date=CLAIMS_START_DATE)
 
     # ------------------------------------------------
     # JOLTS (full history)
     # ------------------------------------------------
-    jol = make_level_df("JTSJOL", "Job Openings (ths)")
-    hir = make_level_df("JTSHIR", "Hires rate (%)")
-    qur = make_level_df("JTSQUR", "Quits rate (%)")
-    ldr = make_level_df("JTSLDR", "Layoffs & discharges rate (%)")
+    jol = make_level_df("JTSJOL", "Job Openings (ths)", start_date=None)
+    hir = make_level_df("JTSHIR", "Hires rate (%)", start_date=None)
+    qur = make_level_df("JTSQUR", "Quits rate (%)", start_date=None)
+    ldr = make_level_df("JTSLDR", "Layoffs & discharges rate (%)", start_date=None)
 
     # ------------------------------------------------
     # Subplots: single column, stacked
     # ------------------------------------------------
     titles = (
+        "Unemployment Rate (UNRATE, household survey)",
+        "Participation Rate (CIVPART)",
         "Initial Claims (ICSA)",
         "Continued Claims (CCSA)",
         "Job Openings (JTSJOL, level)",
@@ -283,64 +297,79 @@ def generate_jobs_chart():
     )
 
     fig = make_subplots(
-        rows=6,
+        rows=8,
         cols=1,
         shared_xaxes=False,
         subplot_titles=titles,
         vertical_spacing=0.05
     )
 
-    # --- Initial claims ---
+    # 1) Unemployment rate
+    fig.add_trace(
+        go.Scatter(x=unrate["Date"], y=unrate["Unemployment Rate (%)"], mode="lines"),
+        row=1, col=1
+    )
+    fig.update_yaxes(ticksuffix="%", row=1, col=1)
+
+    # 2) Participation rate
+    fig.add_trace(
+        go.Scatter(x=part["Date"], y=part["Participation Rate (%)"], mode="lines"),
+        row=2, col=1
+    )
+    fig.update_yaxes(ticksuffix="%", row=2, col=1)
+
+    # 3) Initial claims (level + 12w MA)
     fig.add_trace(
         go.Scatter(x=ic["Date"], y=ic["Initial Claims"], mode="lines"),
-        row=1, col=1
+        row=3, col=1
     )
     fig.add_trace(
         go.Scatter(x=ic["Date"], y=ic["12w MA"], mode="lines"),
-        row=1, col=1
-    )
-
-    # --- Continued claims ---
-    fig.add_trace(
-        go.Scatter(x=cc["Date"], y=cc["Continued Claims"], mode="lines"),
-        row=2, col=1
-    )
-
-    # --- Job openings ---
-    fig.add_trace(
-        go.Scatter(x=jol["Date"], y=jol["Job Openings (ths)"], mode="lines"),
         row=3, col=1
     )
 
-    # --- Hires rate ---
+    # 4) Continued claims
     fig.add_trace(
-        go.Scatter(x=hir["Date"], y=hir["Hires rate (%)"], mode="lines"),
+        go.Scatter(x=cc["Date"], y=cc["Continued Claims"], mode="lines"),
         row=4, col=1
     )
-    fig.update_yaxes(ticksuffix="%", row=4, col=1)
 
-    # --- Quits rate ---
+    # 5) Job openings
     fig.add_trace(
-        go.Scatter(x=qur["Date"], y=qur["Quits rate (%)"], mode="lines"),
+        go.Scatter(x=jol["Date"], y=jol["Job Openings (ths)"], mode="lines"),
         row=5, col=1
     )
-    fig.update_yaxes(ticksuffix="%", row=5, col=1)
 
-    # --- Layoffs rate ---
+    # 6) Hires rate
     fig.add_trace(
-        go.Scatter(x=ldr["Date"], y=ldr["Layoffs & discharges rate (%)"], mode="lines"),
+        go.Scatter(x=hir["Date"], y=hir["Hires rate (%)"], mode="lines"),
         row=6, col=1
     )
-    fig.update_yaxes(ticksuffix="%", range=[0, 2.5], row=6, col=1)
+    fig.update_yaxes(ticksuffix="%", row=6, col=1)
+
+    # 7) Quits rate
+    fig.add_trace(
+        go.Scatter(x=qur["Date"], y=qur["Quits rate (%)"], mode="lines"),
+        row=7, col=1
+    )
+    fig.update_yaxes(ticksuffix="%", row=7, col=1)
+
+    # 8) Layoffs rate
+    fig.add_trace(
+        go.Scatter(x=ldr["Date"], y=ldr["Layoffs & discharges rate (%)"], mode="lines"),
+        row=8, col=1
+    )
+    fig.update_yaxes(ticksuffix="%", range=[0, 2.5], row=8, col=1)
 
     # ------------------------------------------------
-    # Layout (legend disabled, ready for later)
+    # Layout: remove the right-side "trace 0/..." list
     # ------------------------------------------------
     fig.update_layout(
-        title="U.S. Job Market — Claims (post-2022) and JOLTS (full history)",
+        title="U.S. Job Market — Household Survey (since 2005), Claims (post-2022), and JOLTS (full history)",
         template="plotly_white",
-        height=1400,
+        height=1750,
         margin=dict(l=60, r=30, t=70, b=40),
+        showlegend=False,  # ✅ kills the right-side trace list
         # legend=dict(orientation="h", y=-0.05),  # enable later if needed
     )
 
