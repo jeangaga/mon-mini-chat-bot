@@ -41,42 +41,41 @@ def load_fred_series(series_id: str) -> pd.Series:
 # ============================================================
 def generate_labor_chart():
     """
-    Récupère et trace NFP (PAYEMS) et Private Payrolls (USPRIV),
-    en variations mensuelles (Δ) + moyenne mobile 3 mois.
-
-    Retourne une figure Plotly (subplots 2 lignes).
+    U.S. labor market:
+    - NFP (PAYEMS) & Private Payrolls (USPRIV)
+    - Monthly change (bars)
+    - 3m moving average (line)
     """
 
     # --- Nonfarm Payrolls ---
     nfp = load_fred_series("PAYEMS").to_frame("Payrolls")
     nfp["Date"] = nfp.index
-    nfp["NFP Δ"] = nfp["Payrolls"].diff()
-    nfp["3m MA"] = nfp["NFP Δ"].rolling(window=3).mean()
+    nfp["Δ"] = nfp["Payrolls"].diff()
+    nfp["3m MA"] = nfp["Δ"].rolling(3).mean()
     nfp = nfp[nfp.index > "2022-01-01"]
 
     # --- Private Payrolls ---
-    private = load_fred_series("USPRIV").to_frame("Private Payrolls")
+    private = load_fred_series("USPRIV").to_frame("Private")
     private["Date"] = private.index
-    private["Private Δ"] = private["Private Payrolls"].diff()
-    private["3m MA"] = private["Private Δ"].rolling(window=3).mean()
+    private["Δ"] = private["Private"].diff()
+    private["3m MA"] = private["Δ"].rolling(3).mean()
     private = private[private.index > "2022-01-01"]
 
-    # --- Subplots (2 lignes, 1 colonne) ---
     fig = make_subplots(
         rows=2,
         cols=1,
         shared_xaxes=True,
-        subplot_titles=("Total Nonfarm Payrolls (Δ m/m)", "Private Payrolls (Δ m/m)")
+        subplot_titles=(
+            "Total Nonfarm Payrolls — Monthly Change",
+            "Private Payrolls — Monthly Change"
+        )
     )
 
-    # Ligne 1 – total NFP
-    fig.add_trace(
-        go.Scatter(
-            x=nfp["Date"],
-            y=nfp["NFP Δ"],
-            name="NFP Δ (m/m)",
-            mode="lines"
-        ),
+    # --- NFP ---
+    fig.add_bar(
+        x=nfp["Date"],
+        y=nfp["Δ"],
+        name="NFP Δ (m/m)",
         row=1,
         col=1
     )
@@ -84,21 +83,18 @@ def generate_labor_chart():
         go.Scatter(
             x=nfp["Date"],
             y=nfp["3m MA"],
-            name="NFP Δ – 3m MA",
+            name="NFP 3m MA",
             mode="lines"
         ),
         row=1,
         col=1
     )
 
-    # Ligne 2 – private payrolls
-    fig.add_trace(
-        go.Scatter(
-            x=private["Date"],
-            y=private["Private Δ"],
-            name="Private Δ (m/m)",
-            mode="lines"
-        ),
+    # --- Private ---
+    fig.add_bar(
+        x=private["Date"],
+        y=private["Δ"],
+        name="Private Δ (m/m)",
         row=2,
         col=1
     )
@@ -106,20 +102,43 @@ def generate_labor_chart():
         go.Scatter(
             x=private["Date"],
             y=private["3m MA"],
-            name="Private Δ – 3m MA",
+            name="Private 3m MA",
             mode="lines"
         ),
         row=2,
         col=1
     )
 
-    # --- Layout ---
+    # --- Zero lines ---
+    fig.add_hline(y=0, row=1, col=1, line_width=1)
+    fig.add_hline(y=0, row=2, col=1, line_width=1)
+
+    # --- Latest annotations ---
+    fig.add_annotation(
+        x=nfp["Date"].iloc[-1],
+        y=nfp["Δ"].iloc[-1],
+        text=f"{int(nfp['Δ'].iloc[-1]):,}k",
+        showarrow=True,
+        row=1,
+        col=1
+    )
+
+    fig.add_annotation(
+        x=private["Date"].iloc[-1],
+        y=private["Δ"].iloc[-1],
+        text=f"{int(private['Δ'].iloc[-1]):,}k",
+        showarrow=True,
+        row=2,
+        col=1
+    )
+
     fig.update_layout(
-        title_text="U.S. Labor Market — Monthly Changes in Payrolls (k jobs)",
+        title="U.S. Labor Market — Payroll Momentum",
         template="plotly_white",
-        height=600,
-        margin=dict(l=40, r=10, t=40, b=40),
-        legend=dict(orientation="h", y=-0.2),
+        height=650,
+        legend=dict(orientation="h", y=-0.25),
+        margin=dict(l=40, r=20, t=50, b=40)
     )
 
     return fig
+
