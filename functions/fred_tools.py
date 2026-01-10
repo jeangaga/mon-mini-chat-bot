@@ -218,5 +218,161 @@ Great read on services demand + immigration/participation dynamics; also where p
 **Practical recommendation (keep it lean)**  
 Keep the core 11 panels as your default “labor dashboard”. Add more sub-sectors only when you’re debugging a specific macro question.
 """
+    # ------------------------------------------------
+    # JOBS
+    # ------------------------------------------------
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
 
+def generate_jobs_chart():
+    """
+    U.S. job market / labor flows dashboard.
+
+    IMPORTANT DATE RULE (as requested):
+    - Claims (ICSA, CCSA): start at 2022-01-01
+    - JOLTS panels (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY (no start-date filter)
+
+    Panels:
+    - Initial Claims (ICSA): level + 12-week MA
+    - Continued Claims (CCSA): level
+    - JOLTS:
+        • Job openings (level)
+        • Hires rate
+        • Quits rate
+        • Layoffs & discharges rate
+    """
+
+    CLAIMS_START_DATE = "2022-01-01"
+
+    def make_level_df(series_id: str, name: str, start_date: str | None = None):
+        s = load_fred_series(series_id)  # pd.Series with DatetimeIndex
+        df = s.to_frame(name)
+        df["Date"] = df.index
+        if start_date is not None:
+            df = df[df.index > start_date]
+        return df
+
+    # ------------------------------------------------
+    # Claims (filtered from 2022-01-01)
+    # ------------------------------------------------
+    ic = make_level_df("ICSA", "Initial Claims", start_date=CLAIMS_START_DATE)
+    ic["12w MA"] = ic["Initial Claims"].rolling(window=12).mean()
+
+    cc = make_level_df("CCSA", "Continued Claims", start_date=CLAIMS_START_DATE)
+
+    # ------------------------------------------------
+    # JOLTS (FULL HISTORY — no start-date filter)
+    # ------------------------------------------------
+    jol = make_level_df("JTSJOL", "Job Openings (ths)", start_date=None)
+    hir = make_level_df("JTSHIR", "Hires rate (%)", start_date=None)
+    qur = make_level_df("JTSQUR", "Quits rate (%)", start_date=None)
+    ldr = make_level_df("JTSLDR", "Layoffs & discharges rate (%)", start_date=None)
+
+    # ------------------------------------------------
+    # Subplots layout
+    # Row 1: Claims (2 columns)
+    # Rows 2–3: JOLTS (2x2)
+    # ------------------------------------------------
+    fig = make_subplots(
+        rows=3,
+        cols=2,
+        shared_xaxes=False,
+        subplot_titles=(
+            "Initial Claims (ICSA)",
+            "Continued Claims (CCSA)",
+            "Job Openings (JTSJOL, level)",
+            "Hires Rate (JTSHIR)",
+            "Quits Rate (JTSQUR)",
+            "Layoffs & Discharges Rate (JTSLDR)",
+        ),
+        vertical_spacing=0.12
+    )
+
+    # --- Initial claims ---
+    fig.add_trace(
+        go.Scatter(
+            x=ic["Date"],
+            y=ic["Initial Claims"],
+            name="Initial Claims",
+            mode="lines"
+        ),
+        row=1, col=1
+    )
+    fig.add_trace(
+        go.Scatter(
+            x=ic["Date"],
+            y=ic["12w MA"],
+            name="Initial Claims – 12w MA",
+            mode="lines"
+        ),
+        row=1, col=1
+    )
+
+    # --- Continued claims ---
+    fig.add_trace(
+        go.Scatter(
+            x=cc["Date"],
+            y=cc["Continued Claims"],
+            name="Continued Claims",
+            mode="lines"
+        ),
+        row=1, col=2
+    )
+
+    # --- JOLTS panels (full history) ---
+    fig.add_trace(
+        go.Scatter(
+            x=jol["Date"],
+            y=jol["Job Openings (ths)"],
+            name="Job Openings",
+            mode="lines"
+        ),
+        row=2, col=1
+    )
+
+    fig.add_trace(
+        go.Scatter(
+            x=hir["Date"],
+            y=hir["Hires rate (%)"],
+            name="Hires rate",
+            mode="lines"
+        ),
+        row=2, col=2
+    )
+    fig.update_yaxes(ticksuffix="%", row=2, col=2)
+
+    fig.add_trace(
+        go.Scatter(
+            x=qur["Date"],
+            y=qur["Quits rate (%)"],
+            name="Quits rate",
+            mode="lines"
+        ),
+        row=3, col=1
+    )
+    fig.update_yaxes(ticksuffix="%", row=3, col=1)
+
+    fig.add_trace(
+        go.Scatter(
+            x=ldr["Date"],
+            y=ldr["Layoffs & discharges rate (%)"],
+            name="Layoffs rate",
+            mode="lines"
+        ),
+        row=3, col=2
+    )
+    fig.update_yaxes(ticksuffix="%", range=[0, 2.5], row=3, col=2)
+
+    # ------------------------------------------------
+    # Layout (legend disabled for now, keep for later)
+    # ------------------------------------------------
+    fig.update_layout(
+        title="U.S. Job Market — Claims (post-2022) and JOLTS (full history)",
+        template="plotly_white",
+        height=900,
+        margin=dict(l=60, r=30, t=70, b=40),
+        # legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),  # enable later if needed
+    )
+
+    return fig
 
