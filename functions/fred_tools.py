@@ -47,107 +47,100 @@ import plotly.graph_objects as go
 
 def generate_labor_chart():
     """
-    U.S. labor market dashboard (post-2023):
-    Panels in this order:
-      1) Total NFP
-      2) Private
-      3) Cyclical = NFP - Gov - Edu&Health
-      4) Non-Cyclical = Gov + Edu&Health
-      5) Goods-Producing
-      6) Service-Providing
-      7) Government
-      8) Education & Health Services
-      9) Temporary Help Services (TEMPHELPS)
-     10) Manufacturing (MANEMP)
-     11) Leisure & Hospitality (USLAH)
-
-    Each panel: monthly change (Δ, bars) + 3m MA (line) + 0-line + last Δ annotation.
-    Returns a Plotly figure.
+    U.S. labor market dashboard (post-2023).
+    16 stacked panels, each with:
+      - Monthly change (Δ, bars)
+      - 3m moving average (line)
+      - Zero reference line
+      - Latest Δ annotation
     """
 
     def make_delta_df(series_id: str, level_name: str):
-        # load_fred_series(series_id) must return a pd.Series with DatetimeIndex
-        s = load_fred_series(series_id)
+        s = load_fred_series(series_id)   # pd.Series with DatetimeIndex
         df = s.to_frame(level_name)
         df["Date"] = df.index
         df["Δ"] = df[level_name].diff()
         df["3m MA"] = df["Δ"].rolling(3).mean()
-        df = df[df.index > "2023-01-01"]
-        return df
+        return df[df.index > "2023-01-01"]
 
-    def make_constructed_delta_df(level_series, level_name: str):
-        df = level_series.to_frame(level_name).copy()
+    def make_constructed_delta_df(level_series, name: str):
+        df = level_series.to_frame(name)
         df["Date"] = df.index
-        df["Δ"] = df[level_name].diff()
+        df["Δ"] = df[name].diff()
         df["3m MA"] = df["Δ"].rolling(3).mean()
-        df = df[df.index > "2023-01-01"]
-        return df
+        return df[df.index > "2023-01-01"]
 
-    def add_panel(fig, df, row: int, bar_name: str, ma_name: str):
-        # Bars: monthly change
-        fig.add_trace(
-            go.Bar(
-                x=df["Date"],
-                y=df["Δ"],
-                name=bar_name,
-            ),
-            row=row, col=1
+    def add_panel(fig, df, row, label):
+        fig.add_bar(
+            x=df["Date"],
+            y=df["Δ"],
+            name=f"{label} Δ",
+            row=row,
+            col=1
         )
 
-        # Line: 3m MA
         fig.add_trace(
             go.Scatter(
                 x=df["Date"],
                 y=df["3m MA"],
-                name=ma_name,
-                mode="lines",
+                name=f"{label} 3m MA",
+                mode="lines"
             ),
-            row=row, col=1
+            row=row,
+            col=1
         )
 
-        # 0-line
         fig.add_hline(y=0, row=row, col=1, line_width=1)
 
-        # Latest Δ annotation
-        if len(df) > 0 and df["Δ"].notna().any():
+        if df["Δ"].notna().any():
             last = df.dropna(subset=["Δ"]).iloc[-1]
             fig.add_annotation(
                 x=last["Date"],
                 y=last["Δ"],
                 text=f"{int(last['Δ']):,}k",
                 showarrow=True,
-                row=row, col=1
+                row=row,
+                col=1
             )
 
-    # --- Core series (levels -> Δ) ---
-    nfp  = make_delta_df("PAYEMS", "Payrolls")
-    priv = make_delta_df("USPRIV", "Private Payrolls")
+    # --- Core series ---
+    nfp   = make_delta_df("PAYEMS", "Payrolls")
+    priv  = make_delta_df("USPRIV", "Private Payrolls")
     goods = make_delta_df("USGOOD", "Goods-Producing")
     serv  = make_delta_df("CES0800000001", "Service-Providing")
     govt  = make_delta_df("USGOVT", "Government")
     eduh  = make_delta_df("USEHS", "Education & Health Services")
 
-    # --- Extras (levels -> Δ) ---
-    temphelps = make_delta_df("TEMPHELPS", "Temporary Help Services")
-    manemp    = make_delta_df("MANEMP", "Manufacturing")
-    uslah     = make_delta_df("USLAH", "Leisure & Hospitality")
+    # --- Extras ---
+    temp  = make_delta_df("TEMPHELPS", "Temporary Help Services")
+    man   = make_delta_df("MANEMP", "Manufacturing")
+    lah   = make_delta_df("USLAH", "Leisure & Hospitality")
 
-    # --- Construct cyclical vs non-cyclical from aligned LEVELS ---
+    cons  = make_delta_df("USCONS", "Construction")
+    dman  = make_delta_df("DMANEMP", "Durable Goods")
+    ndman = make_delta_df("NDMANEMP", "Nondurable Goods")
+    tpu   = make_delta_df("USTPU", "Trade, Transportation & Utilities")
+    pbs   = make_delta_df("USPBS", "Professional & Business Services")
+
+    # --- Cyclical vs Non-cyclical ---
     aligned = (
-        nfp.set_index("Date")["Payrolls"].to_frame("Payrolls")
-        .join(govt.set_index("Date")["Government"], how="inner")
-        .join(eduh.set_index("Date")["Education & Health Services"], how="inner")
+        nfp.set_index("Date")["Payrolls"]
+        .to_frame("Payrolls")
+        .join(govt.set_index("Date")["Government"])
+        .join(eduh.set_index("Date")["Education & Health Services"])
         .dropna()
     )
 
-    cyclical_level = aligned["Payrolls"] - aligned["Government"] - aligned["Education & Health Services"]
-    noncyc_level   = aligned["Government"] + aligned["Education & Health Services"]
+    cyc  = make_constructed_delta_df(
+        aligned["Payrolls"] - aligned["Government"] - aligned["Education & Health Services"],
+        "Cyclical Payrolls"
+    )
+    nonc = make_constructed_delta_df(
+        aligned["Government"] + aligned["Education & Health Services"],
+        "Non-Cyclical Payrolls"
+    )
 
-    cyc    = make_constructed_delta_df(cyclical_level, "Cyclical Payrolls")
-    noncyc = make_constructed_delta_df(noncyc_level,   "Non-Cyclical Payrolls")
-
-    # --- Subplots: 11 stacked panels in requested order ---
-    titles = (
+    titles = [
         "Total Nonfarm Payrolls (Δ m/m)",
         "Private Payrolls (Δ m/m)",
         "Cyclical Payrolls = NFP − Gov − Edu&Health (Δ m/m)",
@@ -159,34 +152,42 @@ def generate_labor_chart():
         "Temporary Help Services (Δ m/m)",
         "Manufacturing Payrolls (Δ m/m)",
         "Leisure & Hospitality Payrolls (Δ m/m)",
-    )
+        "Construction Payrolls (Δ m/m)",
+        "Durable Goods Payrolls (Δ m/m)",
+        "Nondurable Goods Payrolls (Δ m/m)",
+        "Trade, Transportation & Utilities Payrolls (Δ m/m)",
+        "Professional & Business Services Payrolls (Δ m/m)",
+    ]
 
     fig = make_subplots(
-        rows=11,
+        rows=16,
         cols=1,
         shared_xaxes=True,
         subplot_titles=titles,
-        vertical_spacing=0.03
+        vertical_spacing=0.025
     )
 
-    add_panel(fig, nfp,       1, "NFP Δ", "NFP 3m MA")
-    add_panel(fig, priv,      2, "Private Δ", "Private 3m MA")
-    add_panel(fig, cyc,       3, "Cyclical Δ", "Cyclical 3m MA")
-    add_panel(fig, noncyc,    4, "Non-Cyclical Δ", "Non-Cyclical 3m MA")
-    add_panel(fig, goods,     5, "Goods Δ", "Goods 3m MA")
-    add_panel(fig, serv,      6, "Services Δ", "Services 3m MA")
-    add_panel(fig, govt,      7, "Government Δ", "Government 3m MA")
-    add_panel(fig, eduh,      8, "Edu&Health Δ", "Edu&Health 3m MA")
-    add_panel(fig, temphelps, 9, "Temp Help Δ", "Temp Help 3m MA")
-    add_panel(fig, manemp,   10, "Manufacturing Δ", "Manufacturing 3m MA")
-    add_panel(fig, uslah,    11, "Leisure & Hosp Δ", "Leisure & Hosp 3m MA")
+    panels = [
+        nfp, priv, cyc, nonc, goods, serv, govt, eduh,
+        temp, man, lah, cons, dman, ndman, tpu, pbs
+    ]
+
+    labels = [
+        "NFP", "Private", "Cyclical", "Non-Cyclical",
+        "Goods", "Services", "Government", "Edu & Health",
+        "Temp Help", "Manufacturing", "Leisure & Hosp",
+        "Construction", "Durable", "Nondurable", "TTU", "PBS"
+    ]
+
+    for i, (df, lab) in enumerate(zip(panels, labels), start=1):
+        add_panel(fig, df, i, lab)
 
     fig.update_layout(
-        title="U.S. Payrolls — Headline, Cyclical vs Non-Cyclical, Sector Components, and Key Extras (Δ m/m + 3m MA)",
+        title="U.S. Payrolls — Full Decomposition (Δ m/m + 3m MA)",
         template="plotly_white",
-        height=2150,
+        height=3000,
         margin=dict(l=40, r=20, t=60, b=40),
-        legend=dict(orientation="h", y=-0.05),
+        # legend=dict(orientation="h", y=-0.03),  # ← disabled for now (keep for later)
         barmode="overlay",
     )
 
