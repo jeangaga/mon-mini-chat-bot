@@ -384,21 +384,19 @@ def generate_jobs_chart():
 # ============================================================
 # 3️⃣ Graphique du CPI US
 # ============================================================
+from plotly.subplots import make_subplots
+import plotly.graph_objects as go
+
 def generate_cpi_chart():
     """
     EXACTLY your logic:
     - Fetch FULL history
     - Compute YoY (12m % change) on FULL history
-    - (Optional) compute 3m annualized on FULL history (headline + core)
-    - THEN filter the df for display windows (e.g. since 2015-08-01)
-    - Stacked, single-column charts (like your jobs & labor functions)
-    - Last-release annotation on each panel
-    - Legend disabled (no trace list on the right)
-
-    Panels:
-    1) Headline CPI YoY + Core CPI YoY + Services/Goods/Food YoY  (since 2015-08-01)
-    2) Core Services breakdown YoY (since 2015-08-01)
-    3) Headline CPI 3m annualized + Core CPI 3m annualized (since 2015-08-01)
+    - Compute 3m annualized on FULL history (headline + core)
+    - THEN filter df after the chosen display date
+    - Stacked, single-column panels
+    - Last-release annotation on key series
+    - Legend ON and placed BETWEEN panel 1 and panel 2 (global Plotly legend)
     """
 
     START_MAIN = "2015-08-01"
@@ -426,16 +424,19 @@ def generate_cpi_chart():
         df = df.iloc[3:]
         return df
 
-    def add_last_label(fig, df, ycol, row, col, kind="pct", fmt="{:.1f}%"):
+    def add_last_label_pct(fig, df, ycol, row, col, fmt="{:.1f}%"):
+        """
+        df contains rates as decimals (e.g., 0.027 for 2.7%)
+        -> display as percent.
+        """
         if df.empty or not df[ycol].notna().any():
             return
         last = df.dropna(subset=[ycol]).iloc[-1]
         x = last["Date"]
         y = float(last[ycol])
-        txt = fmt.format(y * 100) if kind == "pct_x100" else fmt.format(y)
         fig.add_annotation(
             x=x, y=y,
-            text=txt,
+            text=fmt.format(y * 100),
             showarrow=True,
             arrowhead=2,
             ax=25, ay=-25,
@@ -452,12 +453,12 @@ def generate_cpi_chart():
     Foods_yoy      = yoy_df("CPIUFDSL", "Foods CPI")
     Energy_yoy     = yoy_df("CPIENGSL", "Energy CPI")
 
-    Shelter_yoy    = yoy_df("CUSR0000SAH1", "Shelter CPI")
-    MedicalSvc_yoy = yoy_df("CUSR0000SAM2", "Medical Svc CPI")
+    Shelter_yoy      = yoy_df("CUSR0000SAH1", "Shelter CPI")
+    MedicalSvc_yoy   = yoy_df("CUSR0000SAM2", "Medical Svc CPI")
     TransportSvc_yoy = yoy_df("CUUR0000SAS4", "Transport Svc CPI")
-    EduCommSvc_yoy = yoy_df("CPIEDUSL", "Edu Comm Svc CPI")
+    EduCommSvc_yoy   = yoy_df("CPIEDUSL", "Edu Comm Svc CPI")
     RecreationSvc_yoy = yoy_df("CPIRECSL", "Recreation Svc CPI")
-    OtherSvc_yoy   = yoy_df("CPIOGSSL", "Other Svc CPI")
+    OtherSvc_yoy     = yoy_df("CPIOGSSL", "Other Svc CPI")
 
     # Merge all YoY into one DF (index-aligned like your code)
     df = CPI_yoy.copy()
@@ -468,13 +469,12 @@ def generate_cpi_chart():
     ]:
         df = df.merge(d, left_index=True, right_index=True)
 
-    # Add Date column AFTER merges (consistent)
     df["Date"] = df.index
 
     # -------------------------
     # 3m annualized (headline + core) (full history -> 3m ann)
     # -------------------------
-    CPI_3m_ann = ann3m_df("CPIAUCSL", "CPI 3m ann")
+    CPI_3m_ann  = ann3m_df("CPIAUCSL", "CPI 3m ann")
     Core_3m_ann = ann3m_df("CPILFESL", "Core CPI 3m ann")
 
     df3m = CPI_3m_ann.merge(Core_3m_ann, left_index=True, right_index=True)
@@ -505,11 +505,10 @@ def generate_cpi_chart():
     # --- Panel 1: CPI buckets ---
     for col in ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]:
         fig.add_trace(
-            go.Scatter(x=df_main["Date"], y=df_main[col], mode="lines"),
+            go.Scatter(x=df_main["Date"], y=df_main[col], mode="lines", name=col),
             row=1, col=1
         )
-    # last label (headline CPI YoY) — show as %
-    add_last_label(fig, df_main, "CPI", row=1, col=1, kind="pct_x100", fmt="{:.1f}%")
+    add_last_label_pct(fig, df_main, "CPI", row=1, col=1)
 
     # --- Panel 2: Core services breakdown ---
     for col in [
@@ -517,31 +516,40 @@ def generate_cpi_chart():
         "Edu Comm Svc CPI", "Recreation Svc CPI", "Other Svc CPI"
     ]:
         fig.add_trace(
-            go.Scatter(x=df_svc["Date"], y=df_svc[col], mode="lines"),
+            go.Scatter(x=df_svc["Date"], y=df_svc[col], mode="lines", name=col),
             row=2, col=1
         )
-    add_last_label(fig, df_svc, "Services CPI", row=2, col=1, kind="pct_x100", fmt="{:.1f}%")
+    add_last_label_pct(fig, df_svc, "Services CPI", row=2, col=1)
 
     # --- Panel 3: 3m annualized ---
     for col in ["CPI 3m ann", "Core CPI 3m ann"]:
         fig.add_trace(
-            go.Scatter(x=df_3m["Date"], y=df_3m[col], mode="lines"),
+            go.Scatter(x=df_3m["Date"], y=df_3m[col], mode="lines", name=col),
             row=3, col=1
         )
-    add_last_label(fig, df_3m, "CPI 3m ann", row=3, col=1, kind="pct_x100", fmt="{:.1f}%")
+    add_last_label_pct(fig, df_3m, "CPI 3m ann", row=3, col=1)
 
     # y-axis formatting: show % on all panels
     for r in [1, 2, 3]:
         fig.update_yaxes(ticksuffix="%", row=r, col=1)
 
-    # Layout: remove right-side trace list
+    # -------------------------
+    # Layout: legend BETWEEN panel 1 and 2
+    # -------------------------
     fig.update_layout(
         title="U.S. CPI Dashboard (YoY + 3m annualized) — rolling computed on full history, then filtered",
         template="plotly_white",
         height=1600,
         margin=dict(l=60, r=30, t=70, b=40),
-        showlegend=False,
-        # legend=dict(orientation="h", y=-0.05),  # enable later if needed
+        showlegend=True,
+        legend=dict(
+            orientation="h",
+            yanchor="middle",
+            y=0.50,          # ✅ between panel 1 and 2
+            xanchor="center",
+            x=0.5,
+            font=dict(size=11)
+        ),
     )
 
     return fig
