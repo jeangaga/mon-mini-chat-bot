@@ -392,7 +392,9 @@ def generate_cpi_chart():
     CPI dashboard:
     - FULL history -> compute YoY + 3m ann -> THEN filter display
     - 3 stacked panels (1 col)
-    - Legend: RIGHT side, grouped & spaced to read like "per chart"
+    - NO Plotly legend (so charts don't shrink)
+    - Per-panel "legend" as text annotations placed BETWEEN panels
+    - Last-release annotation on key series
     """
 
     START_MAIN = "2015-08-01"
@@ -429,19 +431,18 @@ def generate_cpi_chart():
             row=row, col=col
         )
 
-    def add_spacer(fig, legendgroup: str):
-        """Add an invisible trace that only serves as whitespace in the legend."""
-        fig.add_trace(
-            go.Scatter(
-                x=[None], y=[None],
-                mode="lines",
-                line=dict(width=0),
-                opacity=0,
-                showlegend=True,
-                name=" ",
-                legendgroup=legendgroup
-            ),
-            row=1, col=1
+    def add_panel_legend_text(fig, text: str, ypaper: float):
+        """
+        Adds a centered annotation in paper coordinates (not shrinking charts).
+        ypaper: position on the full figure (0..1).
+        """
+        fig.add_annotation(
+            x=0.5, y=ypaper,
+            xref="paper", yref="paper",
+            text=text,
+            showarrow=False,
+            align="center",
+            font=dict(size=11),
         )
 
     # -------------------------
@@ -482,7 +483,7 @@ def generate_cpi_chart():
     df_3m   = df3m[df3m.index > START_MAIN].copy()
 
     # -------------------------
-    # Plot
+    # Plot (stacked, single column)
     # -------------------------
     fig = make_subplots(
         rows=3, cols=1,
@@ -492,89 +493,54 @@ def generate_cpi_chart():
             "US Core Services CPI — YoY breakdown [display since 2015-08-01]",
             "US CPI — 3m annualized (headline vs core) [display since 2015-08-01]",
         ),
-        vertical_spacing=0.10
+        vertical_spacing=0.12
     )
 
-    # ---- Panel 1 legend group ----
-    g1 = "P1"
-    # Title for group (shows once in legend)
-    # We attach it to the FIRST trace in the group:
-    p1_cols = ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]
-    for i, col in enumerate(p1_cols):
-        fig.add_trace(
-            go.Scatter(
-                x=df_main["Date"], y=df_main[col],
-                mode="lines",
-                name=col,
-                legendgroup=g1,
-                legendgrouptitle_text="Panel 1 — Headline/Core + buckets" if i == 0 else None
-            ),
-            row=1, col=1
-        )
+    # Panel 1
+    p1 = ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]
+    for col in p1:
+        fig.add_trace(go.Scatter(x=df_main["Date"], y=df_main[col], mode="lines"), row=1, col=1)
     add_last_label_pct(fig, df_main, "CPI", row=1, col=1)
 
-    # spacer block between groups
-    add_spacer(fig, g1)
-    add_spacer(fig, g1)
-
-    # ---- Panel 2 legend group ----
-    g2 = "P2"
-    p2_cols = [
+    # Panel 2
+    p2 = [
         "Services CPI", "Shelter CPI", "Medical Svc CPI", "Transport Svc CPI",
         "Edu Comm Svc CPI", "Recreation Svc CPI", "Other Svc CPI"
     ]
-    for i, col in enumerate(p2_cols):
-        fig.add_trace(
-            go.Scatter(
-                x=df_svc["Date"], y=df_svc[col],
-                mode="lines",
-                name=col,
-                legendgroup=g2,
-                legendgrouptitle_text="Panel 2 — Core services breakdown" if i == 0 else None
-            ),
-            row=2, col=1
-        )
+    for col in p2:
+        fig.add_trace(go.Scatter(x=df_svc["Date"], y=df_svc[col], mode="lines"), row=2, col=1)
     add_last_label_pct(fig, df_svc, "Services CPI", row=2, col=1)
 
-    add_spacer(fig, g2)
-    add_spacer(fig, g2)
-
-    # ---- Panel 3 legend group ----
-    g3 = "P3"
-    p3_cols = ["CPI 3m ann", "Core CPI 3m ann"]
-    for i, col in enumerate(p3_cols):
-        fig.add_trace(
-            go.Scatter(
-                x=df_3m["Date"], y=df_3m[col],
-                mode="lines",
-                name=col,
-                legendgroup=g3,
-                legendgrouptitle_text="Panel 3 — 3m annualized" if i == 0 else None
-            ),
-            row=3, col=1
-        )
+    # Panel 3
+    p3 = ["CPI 3m ann", "Core CPI 3m ann"]
+    for col in p3:
+        fig.add_trace(go.Scatter(x=df_3m["Date"], y=df_3m[col], mode="lines"), row=3, col=1)
     add_last_label_pct(fig, df_3m, "CPI 3m ann", row=3, col=1)
 
-    # y-axes formatting
+    # y-axis formatting
     for r in [1, 2, 3]:
         fig.update_yaxes(ticksuffix="%", row=r, col=1)
 
-    # Layout: legend to the RIGHT with space
+    # -------------------------
+    # Per-panel legends as TEXT (no shrink)
+    # -------------------------
+    legend1 = "Panel 1: CPI | Core CPI | Services CPI | Goods CPI | Foods CPI"
+    legend2 = "Panel 2: Services | Shelter | Medical | Transport | Edu/Comm | Recreation | Other"
+    legend3 = "Panel 3: CPI 3m ann | Core CPI 3m ann"
+
+    # Place between panels (paper coordinates)
+    add_panel_legend_text(fig, legend1, ypaper=0.64)  # between panel 1 and 2
+    add_panel_legend_text(fig, legend2, ypaper=0.33)  # between panel 2 and 3
+    add_panel_legend_text(fig, legend3, ypaper=0.05)  # below panel 3
+
+    # Layout: no Plotly legend
     fig.update_layout(
         title="U.S. CPI Dashboard (YoY + 3m annualized) — rolling computed on full history, then filtered",
         template="plotly_white",
-        height=1600,
-        margin=dict(l=60, r=360, t=70, b=40),  # ✅ reserve space for right-side legend
-        showlegend=True,
-        legend=dict(
-            orientation="v",
-            x=1.02, xanchor="left",
-            y=0.98, yanchor="top",
-            bgcolor="rgba(255,255,255,0.0)",
-            borderwidth=0,
-            font=dict(size=11),
-            tracegroupgap=18  # ✅ extra gap between groups (helps the "per-panel" feel)
-        ),
+        height=1650,
+        margin=dict(l=60, r=30, t=70, b=60),
+        showlegend=False,
     )
 
     return fig
+
