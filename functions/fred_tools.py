@@ -231,40 +231,36 @@ def generate_jobs_chart():
     """
     U.S. Job Market — stacked (single column), with LAST RELEASE labels.
 
-    DATE RULES:
-    - UNRATE: from 2005-01-01
-    - CIVPART: from 2005-01-01
-    - Claims (ICSA, CCSA): from 2022-01-01
-    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY
+    IMPORTANT (your logic):
+    - Fetch FULL HISTORY
+    - Compute rolling metrics on FULL HISTORY
+    - THEN filter df after chosen start date (display window)
 
-    Adds a last-value annotation to each panel.
-    Legend disabled (no trace list on the right).
+    DATE RULES:
+    - UNRATE: display from 2005-01-01 (but computed on full history)
+    - CIVPART: display from 2005-01-01 (but computed on full history)
+    - Claims (ICSA, CCSA): display from 2022-01-01 (but computed on full history)
+    - JOLTS (JTSJOL, JTSHIR, JTSQUR, JTSLDR): FULL HISTORY (no display filter)
     """
 
     UNRATE_START_DATE = "2005-01-01"
     CIVPART_START_DATE = "2005-01-01"
     CLAIMS_START_DATE = "2022-01-01"
 
-    def make_level_df(series_id: str, name: str, start_date: str | None = None):
+    def make_level_df_full_then_filter(series_id: str, name: str, display_start: str | None = None):
+        # 1) full history
         s = load_fred_series(series_id)  # pd.Series with DatetimeIndex
         df = s.to_frame(name)
         df["Date"] = df.index
-        if start_date is not None:
-            df = df[df.index > start_date]
+        # 2) filter only for display
+        if display_start is not None:
+            df = df[df.index > display_start]
         return df
 
     def add_last_label(fig, df, ycol: str, row: int, col: int,
-                       kind: str = "level", suffix: str = "", scale: str | None = None):
-        """
-        kind:
-          - 'pct'   -> 1 decimal + %
-          - 'level' -> integer with optional k/M formatting via 'scale'
-        scale:
-          - None, 'k' (divide by 1e3), 'M' (divide by 1e6)
-        """
-        if df.empty:
+                       kind: str = "level", scale: str | None = None):
+        if df.empty or not df[ycol].notna().any():
             return
-
         last = df.dropna(subset=[ycol]).iloc[-1]
         x = last["Date"]
         y = float(last[ycol])
@@ -272,43 +268,43 @@ def generate_jobs_chart():
         if kind == "pct":
             txt = f"{y:.1f}%"
         else:
-            v = y
             if scale == "k":
-                v = v / 1_000.0
-                txt = f"{v:,.0f}k{suffix}"
-            elif scale == "M":
-                v = v / 1_000_000.0
-                txt = f"{v:,.2f}M{suffix}"
+                txt = f"{y/1_000:,.0f}k"
             else:
-                txt = f"{v:,.0f}{suffix}"
+                txt = f"{y:,.0f}"
 
         fig.add_annotation(
-            x=x, y=y,
-            text=txt,
-            showarrow=True,
-            arrowhead=2,
-            ax=25, ay=-25,
+            x=x, y=y, text=txt,
+            showarrow=True, arrowhead=2, ax=25, ay=-25,
             row=row, col=col
         )
 
     # ------------------------
-    # Data
+    # Household survey (display since 2005; computed on full history)
     # ------------------------
-    unrate = make_level_df("UNRATE", "Unemployment Rate (%)", start_date=UNRATE_START_DATE)
-    part   = make_level_df("CIVPART", "Participation Rate (%)", start_date=CIVPART_START_DATE)
-
-    ic = make_level_df("ICSA", "Initial Claims", start_date=CLAIMS_START_DATE)
-    ic["12w MA"] = ic["Initial Claims"].rolling(window=12).mean()
-
-    cc = make_level_df("CCSA", "Continued Claims", start_date=CLAIMS_START_DATE)
-
-    jol = make_level_df("JTSJOL", "Job Openings (ths)", start_date=None)
-    hir = make_level_df("JTSHIR", "Hires rate (%)", start_date=None)
-    qur = make_level_df("JTSQUR", "Quits rate (%)", start_date=None)
-    ldr = make_level_df("JTSLDR", "Layoffs & discharges rate (%)", start_date=None)
+    unrate = make_level_df_full_then_filter("UNRATE", "Unemployment Rate (%)", display_start=UNRATE_START_DATE)
+    part   = make_level_df_full_then_filter("CIVPART", "Participation Rate (%)", display_start=CIVPART_START_DATE)
 
     # ------------------------
-    # Figure (stacked, 1 col)
+    # Claims: FULL history -> compute 12w MA -> THEN filter display since 2022
+    # ------------------------
+    ic_full = load_fred_series("ICSA").to_frame("Initial Claims")
+    ic_full["Date"] = ic_full.index
+    ic_full["12w MA"] = ic_full["Initial Claims"].rolling(window=12).mean()
+    ic = ic_full[ic_full.index > CLAIMS_START_DATE]
+
+    cc = make_level_df_full_then_filter("CCSA", "Continued Claims", display_start=CLAIMS_START_DATE)
+
+    # ------------------------
+    # JOLTS (full history, no filter)
+    # ------------------------
+    jol = make_level_df_full_then_filter("JTSJOL", "Job Openings (ths)", display_start=None)
+    hir = make_level_df_full_then_filter("JTSHIR", "Hires rate (%)", display_start=None)
+    qur = make_level_df_full_then_filter("JTSQUR", "Quits rate (%)", display_start=None)
+    ldr = make_level_df_full_then_filter("JTSLDR", "Layoffs & discharges rate (%)", display_start=None)
+
+    # ------------------------
+    # Figure (stacked)
     # ------------------------
     titles = (
         "Unemployment Rate (UNRATE, household survey)",
@@ -322,11 +318,8 @@ def generate_jobs_chart():
     )
 
     fig = make_subplots(
-        rows=8,
-        cols=1,
-        shared_xaxes=False,
-        subplot_titles=titles,
-        vertical_spacing=0.05
+        rows=8, cols=1, shared_xaxes=False,
+        subplot_titles=titles, vertical_spacing=0.05
     )
 
     # 1) UNRATE
@@ -339,7 +332,7 @@ def generate_jobs_chart():
     fig.update_yaxes(ticksuffix="%", row=2, col=1)
     add_last_label(fig, part, "Participation Rate (%)", row=2, col=1, kind="pct")
 
-    # 3) Initial claims + MA
+    # 3) Initial claims (level + 12w MA computed on full history)
     fig.add_trace(go.Scatter(x=ic["Date"], y=ic["Initial Claims"], mode="lines"), row=3, col=1)
     fig.add_trace(go.Scatter(x=ic["Date"], y=ic["12w MA"], mode="lines"), row=3, col=1)
     add_last_label(fig, ic, "Initial Claims", row=3, col=1, kind="level", scale="k")
@@ -348,10 +341,17 @@ def generate_jobs_chart():
     fig.add_trace(go.Scatter(x=cc["Date"], y=cc["Continued Claims"], mode="lines"), row=4, col=1)
     add_last_label(fig, cc, "Continued Claims", row=4, col=1, kind="level", scale="k")
 
-    # 5) Job openings (ths)
+    # 5) Job openings (ths) — last label as X.XM
     fig.add_trace(go.Scatter(x=jol["Date"], y=jol["Job Openings (ths)"], mode="lines"), row=5, col=1)
-    # Job openings are already in thousands → show as "7,900k"
-    add_last_label(fig, jol, "Job Openings (ths)", row=5, col=1, kind="level", suffix="", scale=None)
+    if not jol.empty and jol["Job Openings (ths)"].notna().any():
+        last = jol.dropna(subset=["Job Openings (ths)"]).iloc[-1]
+        fig.add_annotation(
+            x=last["Date"],
+            y=float(last["Job Openings (ths)"]),
+            text=f"{float(last['Job Openings (ths)'])/1000:.1f}M",
+            showarrow=True, arrowhead=2, ax=25, ay=-25,
+            row=5, col=1
+        )
 
     # 6) Hires rate
     fig.add_trace(go.Scatter(x=hir["Date"], y=hir["Hires rate (%)"], mode="lines"), row=6, col=1)
@@ -368,15 +368,180 @@ def generate_jobs_chart():
     fig.update_yaxes(ticksuffix="%", range=[0, 2.5], row=8, col=1)
     add_last_label(fig, ldr, "Layoffs & discharges rate (%)", row=8, col=1, kind="pct")
 
-    # ------------------------
-    # Layout: no legend clutter
-    # ------------------------
+    # Layout
     fig.update_layout(
-        title="U.S. Job Market — last release labels on each panel",
+        title="U.S. Job Market — Household Survey (since 2005), Claims (post-2022), and JOLTS (full history)",
         template="plotly_white",
         height=1750,
         margin=dict(l=60, r=30, t=70, b=40),
-        showlegend=False,  # kills right-side trace list
+        showlegend=False,
+        # legend=dict(orientation="h", y=-0.05),  # enable later if needed
+    )
+
+    return fig
+
+
+# ============================================================
+# 3️⃣ Graphique du CPI US
+# ============================================================
+def generate_cpi_chart():
+    """
+    EXACTLY your logic:
+    - Fetch FULL history
+    - Compute YoY (12m % change) on FULL history
+    - (Optional) compute 3m annualized on FULL history (headline + core)
+    - THEN filter the df for display windows (e.g. since 2015-08-01)
+    - Stacked, single-column charts (like your jobs & labor functions)
+    - Last-release annotation on each panel
+    - Legend disabled (no trace list on the right)
+
+    Panels:
+    1) Headline CPI YoY + Core CPI YoY + Services/Goods/Food YoY  (since 2015-08-01)
+    2) Core Services breakdown YoY (since 2015-08-01)
+    3) Headline CPI 3m annualized + Core CPI 3m annualized (since 2015-08-01)
+    """
+
+    START_MAIN = "2015-08-01"
+
+    # -------------------------
+    # Helpers (your logic)
+    # -------------------------
+    def yoy_df(series_id: str, name: str):
+        # 1) full history
+        s = load_fred_series(series_id)  # pd.Series
+        df = s.to_frame(name)
+        # 2) compute YoY on full history
+        df = df.pct_change(periods=12)
+        # 3) drop first 12 NaNs (your tail(-12))
+        df = df.iloc[12:]
+        return df
+
+    def ann3m_df(series_id: str, name: str):
+        # 1) full history
+        s = load_fred_series(series_id)
+        df = s.to_frame(name)
+        # 2) compute 3m annualized on full history
+        df = df.pct_change(periods=3) * 4
+        # 3) drop first 3 NaNs (your tail(-3))
+        df = df.iloc[3:]
+        return df
+
+    def add_last_label(fig, df, ycol, row, col, kind="pct", fmt="{:.1f}%"):
+        if df.empty or not df[ycol].notna().any():
+            return
+        last = df.dropna(subset=[ycol]).iloc[-1]
+        x = last["Date"]
+        y = float(last[ycol])
+        txt = fmt.format(y * 100) if kind == "pct_x100" else fmt.format(y)
+        fig.add_annotation(
+            x=x, y=y,
+            text=txt,
+            showarrow=True,
+            arrowhead=2,
+            ax=25, ay=-25,
+            row=row, col=col
+        )
+
+    # -------------------------
+    # Build YoY components (full history -> YoY)
+    # -------------------------
+    CPI_yoy        = yoy_df("CPIAUCSL", "CPI")
+    CoreCPI_yoy    = yoy_df("CPILFESL", "Core CPI")
+    Services_yoy   = yoy_df("CUSR0000SASLE", "Services CPI")
+    Goods_yoy      = yoy_df("CUUR0000SACL1E", "Goods CPI")
+    Foods_yoy      = yoy_df("CPIUFDSL", "Foods CPI")
+    Energy_yoy     = yoy_df("CPIENGSL", "Energy CPI")
+
+    Shelter_yoy    = yoy_df("CUSR0000SAH1", "Shelter CPI")
+    MedicalSvc_yoy = yoy_df("CUSR0000SAM2", "Medical Svc CPI")
+    TransportSvc_yoy = yoy_df("CUUR0000SAS4", "Transport Svc CPI")
+    EduCommSvc_yoy = yoy_df("CPIEDUSL", "Edu Comm Svc CPI")
+    RecreationSvc_yoy = yoy_df("CPIRECSL", "Recreation Svc CPI")
+    OtherSvc_yoy   = yoy_df("CPIOGSSL", "Other Svc CPI")
+
+    # Merge all YoY into one DF (index-aligned like your code)
+    df = CPI_yoy.copy()
+    for d in [
+        CoreCPI_yoy, Services_yoy, Goods_yoy, Foods_yoy, Energy_yoy,
+        Shelter_yoy, MedicalSvc_yoy, TransportSvc_yoy, EduCommSvc_yoy,
+        RecreationSvc_yoy, OtherSvc_yoy
+    ]:
+        df = df.merge(d, left_index=True, right_index=True)
+
+    # Add Date column AFTER merges (consistent)
+    df["Date"] = df.index
+
+    # -------------------------
+    # 3m annualized (headline + core) (full history -> 3m ann)
+    # -------------------------
+    CPI_3m_ann = ann3m_df("CPIAUCSL", "CPI 3m ann")
+    Core_3m_ann = ann3m_df("CPILFESL", "Core CPI 3m ann")
+
+    df3m = CPI_3m_ann.merge(Core_3m_ann, left_index=True, right_index=True)
+    df3m["Date"] = df3m.index
+
+    # -------------------------
+    # Display filters (AFTER calc, per your logic)
+    # -------------------------
+    df_main = df[df.index > START_MAIN].copy()
+    df_svc  = df[df.index > START_MAIN].copy()
+    df_3m   = df3m[df3m.index > START_MAIN].copy()
+
+    # -------------------------
+    # Plot (stacked, single column)
+    # -------------------------
+    fig = make_subplots(
+        rows=3,
+        cols=1,
+        shared_xaxes=False,
+        subplot_titles=(
+            "US CPI — YoY (headline/core + major buckets) [display since 2015-08-01]",
+            "US Core Services CPI — YoY breakdown [display since 2015-08-01]",
+            "US CPI — 3m annualized (headline vs core) [display since 2015-08-01]",
+        ),
+        vertical_spacing=0.08
+    )
+
+    # --- Panel 1: CPI buckets ---
+    for col in ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]:
+        fig.add_trace(
+            go.Scatter(x=df_main["Date"], y=df_main[col], mode="lines"),
+            row=1, col=1
+        )
+    # last label (headline CPI YoY) — show as %
+    add_last_label(fig, df_main, "CPI", row=1, col=1, kind="pct_x100", fmt="{:.1f}%")
+
+    # --- Panel 2: Core services breakdown ---
+    for col in [
+        "Services CPI", "Shelter CPI", "Medical Svc CPI", "Transport Svc CPI",
+        "Edu Comm Svc CPI", "Recreation Svc CPI", "Other Svc CPI"
+    ]:
+        fig.add_trace(
+            go.Scatter(x=df_svc["Date"], y=df_svc[col], mode="lines"),
+            row=2, col=1
+        )
+    add_last_label(fig, df_svc, "Services CPI", row=2, col=1, kind="pct_x100", fmt="{:.1f}%")
+
+    # --- Panel 3: 3m annualized ---
+    for col in ["CPI 3m ann", "Core CPI 3m ann"]:
+        fig.add_trace(
+            go.Scatter(x=df_3m["Date"], y=df_3m[col], mode="lines"),
+            row=3, col=1
+        )
+    add_last_label(fig, df_3m, "CPI 3m ann", row=3, col=1, kind="pct_x100", fmt="{:.1f}%")
+
+    # y-axis formatting: show % on all panels
+    for r in [1, 2, 3]:
+        fig.update_yaxes(ticksuffix="%", row=r, col=1)
+
+    # Layout: remove right-side trace list
+    fig.update_layout(
+        title="U.S. CPI Dashboard (YoY + 3m annualized) — rolling computed on full history, then filtered",
+        template="plotly_white",
+        height=1600,
+        margin=dict(l=60, r=30, t=70, b=40),
+        showlegend=False,
+        # legend=dict(orientation="h", y=-0.05),  # enable later if needed
     )
 
     return fig
