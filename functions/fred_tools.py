@@ -389,14 +389,10 @@ import plotly.graph_objects as go
 
 def generate_cpi_chart():
     """
-    EXACTLY your logic:
-    - Fetch FULL history
-    - Compute YoY (12m % change) on FULL history
-    - Compute 3m annualized on FULL history (headline + core)
-    - THEN filter df after the chosen display date
-    - Stacked, single-column panels
-    - Last-release annotation on key series
-    - Legend ON and placed BETWEEN panel 1 and panel 2 (global Plotly legend)
+    CPI dashboard:
+    - FULL history -> compute YoY + 3m ann -> THEN filter display
+    - 3 stacked panels (1 col)
+    - Legend: RIGHT side, grouped & spaced to read like "per chart"
     """
 
     START_MAIN = "2015-08-01"
@@ -405,30 +401,20 @@ def generate_cpi_chart():
     # Helpers (your logic)
     # -------------------------
     def yoy_df(series_id: str, name: str):
-        # 1) full history
-        s = load_fred_series(series_id)  # pd.Series
+        s = load_fred_series(series_id)  # full history
         df = s.to_frame(name)
-        # 2) compute YoY on full history
         df = df.pct_change(periods=12)
-        # 3) drop first 12 NaNs (your tail(-12))
-        df = df.iloc[12:]
+        df = df.iloc[12:]  # tail(-12)
         return df
 
     def ann3m_df(series_id: str, name: str):
-        # 1) full history
-        s = load_fred_series(series_id)
+        s = load_fred_series(series_id)  # full history
         df = s.to_frame(name)
-        # 2) compute 3m annualized on full history
         df = df.pct_change(periods=3) * 4
-        # 3) drop first 3 NaNs (your tail(-3))
-        df = df.iloc[3:]
+        df = df.iloc[3:]  # tail(-3)
         return df
 
     def add_last_label_pct(fig, df, ycol, row, col, fmt="{:.1f}%"):
-        """
-        df contains rates as decimals (e.g., 0.027 for 2.7%)
-        -> display as percent.
-        """
         if df.empty or not df[ycol].notna().any():
             return
         last = df.dropna(subset=[ycol]).iloc[-1]
@@ -443,24 +429,38 @@ def generate_cpi_chart():
             row=row, col=col
         )
 
-    # -------------------------
-    # Build YoY components (full history -> YoY)
-    # -------------------------
-    CPI_yoy        = yoy_df("CPIAUCSL", "CPI")
-    CoreCPI_yoy    = yoy_df("CPILFESL", "Core CPI")
-    Services_yoy   = yoy_df("CUSR0000SASLE", "Services CPI")
-    Goods_yoy      = yoy_df("CUUR0000SACL1E", "Goods CPI")
-    Foods_yoy      = yoy_df("CPIUFDSL", "Foods CPI")
-    Energy_yoy     = yoy_df("CPIENGSL", "Energy CPI")
+    def add_spacer(fig, legendgroup: str):
+        """Add an invisible trace that only serves as whitespace in the legend."""
+        fig.add_trace(
+            go.Scatter(
+                x=[None], y=[None],
+                mode="lines",
+                line=dict(width=0),
+                opacity=0,
+                showlegend=True,
+                name=" ",
+                legendgroup=legendgroup
+            ),
+            row=1, col=1
+        )
 
-    Shelter_yoy      = yoy_df("CUSR0000SAH1", "Shelter CPI")
-    MedicalSvc_yoy   = yoy_df("CUSR0000SAM2", "Medical Svc CPI")
-    TransportSvc_yoy = yoy_df("CUUR0000SAS4", "Transport Svc CPI")
-    EduCommSvc_yoy   = yoy_df("CPIEDUSL", "Edu Comm Svc CPI")
-    RecreationSvc_yoy = yoy_df("CPIRECSL", "Recreation Svc CPI")
-    OtherSvc_yoy     = yoy_df("CPIOGSSL", "Other Svc CPI")
+    # -------------------------
+    # Build YoY components
+    # -------------------------
+    CPI_yoy      = yoy_df("CPIAUCSL", "CPI")
+    CoreCPI_yoy  = yoy_df("CPILFESL", "Core CPI")
+    Services_yoy = yoy_df("CUSR0000SASLE", "Services CPI")
+    Goods_yoy    = yoy_df("CUUR0000SACL1E", "Goods CPI")
+    Foods_yoy    = yoy_df("CPIUFDSL", "Foods CPI")
+    Energy_yoy   = yoy_df("CPIENGSL", "Energy CPI")
 
-    # Merge all YoY into one DF (index-aligned like your code)
+    Shelter_yoy        = yoy_df("CUSR0000SAH1", "Shelter CPI")
+    MedicalSvc_yoy     = yoy_df("CUSR0000SAM2", "Medical Svc CPI")
+    TransportSvc_yoy   = yoy_df("CUUR0000SAS4", "Transport Svc CPI")
+    EduCommSvc_yoy     = yoy_df("CPIEDUSL", "Edu Comm Svc CPI")
+    RecreationSvc_yoy  = yoy_df("CPIRECSL", "Recreation Svc CPI")
+    OtherSvc_yoy       = yoy_df("CPIOGSSL", "Other Svc CPI")
+
     df = CPI_yoy.copy()
     for d in [
         CoreCPI_yoy, Services_yoy, Goods_yoy, Foods_yoy, Energy_yoy,
@@ -468,87 +468,112 @@ def generate_cpi_chart():
         RecreationSvc_yoy, OtherSvc_yoy
     ]:
         df = df.merge(d, left_index=True, right_index=True)
-
     df["Date"] = df.index
 
-    # -------------------------
-    # 3m annualized (headline + core) (full history -> 3m ann)
-    # -------------------------
+    # 3m annualized
     CPI_3m_ann  = ann3m_df("CPIAUCSL", "CPI 3m ann")
     Core_3m_ann = ann3m_df("CPILFESL", "Core CPI 3m ann")
-
     df3m = CPI_3m_ann.merge(Core_3m_ann, left_index=True, right_index=True)
     df3m["Date"] = df3m.index
 
-    # -------------------------
-    # Display filters (AFTER calc, per your logic)
-    # -------------------------
+    # Display filter AFTER calc
     df_main = df[df.index > START_MAIN].copy()
     df_svc  = df[df.index > START_MAIN].copy()
     df_3m   = df3m[df3m.index > START_MAIN].copy()
 
     # -------------------------
-    # Plot (stacked, single column)
+    # Plot
     # -------------------------
     fig = make_subplots(
-        rows=3,
-        cols=1,
+        rows=3, cols=1,
         shared_xaxes=False,
         subplot_titles=(
             "US CPI — YoY (headline/core + major buckets) [display since 2015-08-01]",
             "US Core Services CPI — YoY breakdown [display since 2015-08-01]",
             "US CPI — 3m annualized (headline vs core) [display since 2015-08-01]",
         ),
-        vertical_spacing=0.08
+        vertical_spacing=0.10
     )
 
-    # --- Panel 1: CPI buckets ---
-    for col in ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]:
+    # ---- Panel 1 legend group ----
+    g1 = "P1"
+    # Title for group (shows once in legend)
+    # We attach it to the FIRST trace in the group:
+    p1_cols = ["CPI", "Core CPI", "Services CPI", "Goods CPI", "Foods CPI"]
+    for i, col in enumerate(p1_cols):
         fig.add_trace(
-            go.Scatter(x=df_main["Date"], y=df_main[col], mode="lines", name=col),
+            go.Scatter(
+                x=df_main["Date"], y=df_main[col],
+                mode="lines",
+                name=col,
+                legendgroup=g1,
+                legendgrouptitle_text="Panel 1 — Headline/Core + buckets" if i == 0 else None
+            ),
             row=1, col=1
         )
     add_last_label_pct(fig, df_main, "CPI", row=1, col=1)
 
-    # --- Panel 2: Core services breakdown ---
-    for col in [
+    # spacer block between groups
+    add_spacer(fig, g1)
+    add_spacer(fig, g1)
+
+    # ---- Panel 2 legend group ----
+    g2 = "P2"
+    p2_cols = [
         "Services CPI", "Shelter CPI", "Medical Svc CPI", "Transport Svc CPI",
         "Edu Comm Svc CPI", "Recreation Svc CPI", "Other Svc CPI"
-    ]:
+    ]
+    for i, col in enumerate(p2_cols):
         fig.add_trace(
-            go.Scatter(x=df_svc["Date"], y=df_svc[col], mode="lines", name=col),
+            go.Scatter(
+                x=df_svc["Date"], y=df_svc[col],
+                mode="lines",
+                name=col,
+                legendgroup=g2,
+                legendgrouptitle_text="Panel 2 — Core services breakdown" if i == 0 else None
+            ),
             row=2, col=1
         )
     add_last_label_pct(fig, df_svc, "Services CPI", row=2, col=1)
 
-    # --- Panel 3: 3m annualized ---
-    for col in ["CPI 3m ann", "Core CPI 3m ann"]:
+    add_spacer(fig, g2)
+    add_spacer(fig, g2)
+
+    # ---- Panel 3 legend group ----
+    g3 = "P3"
+    p3_cols = ["CPI 3m ann", "Core CPI 3m ann"]
+    for i, col in enumerate(p3_cols):
         fig.add_trace(
-            go.Scatter(x=df_3m["Date"], y=df_3m[col], mode="lines", name=col),
+            go.Scatter(
+                x=df_3m["Date"], y=df_3m[col],
+                mode="lines",
+                name=col,
+                legendgroup=g3,
+                legendgrouptitle_text="Panel 3 — 3m annualized" if i == 0 else None
+            ),
             row=3, col=1
         )
     add_last_label_pct(fig, df_3m, "CPI 3m ann", row=3, col=1)
 
-    # y-axis formatting: show % on all panels
+    # y-axes formatting
     for r in [1, 2, 3]:
         fig.update_yaxes(ticksuffix="%", row=r, col=1)
 
-    # -------------------------
-    # Layout: legend BETWEEN panel 1 and 2
-    # -------------------------
+    # Layout: legend to the RIGHT with space
     fig.update_layout(
         title="U.S. CPI Dashboard (YoY + 3m annualized) — rolling computed on full history, then filtered",
         template="plotly_white",
         height=1600,
-        margin=dict(l=60, r=30, t=70, b=40),
+        margin=dict(l=60, r=360, t=70, b=40),  # ✅ reserve space for right-side legend
         showlegend=True,
         legend=dict(
-            orientation="h",
-            yanchor="middle",
-            y=0.50,          # ✅ between panel 1 and 2
-            xanchor="center",
-            x=0.5,
-            font=dict(size=11)
+            orientation="v",
+            x=1.02, xanchor="left",
+            y=0.98, yanchor="top",
+            bgcolor="rgba(255,255,255,0.0)",
+            borderwidth=0,
+            font=dict(size=11),
+            tracegroupgap=18  # ✅ extra gap between groups (helps the "per-panel" feel)
         ),
     )
 
