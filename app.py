@@ -127,7 +127,7 @@ import json
 from datetime import date, timedelta
 import html
 from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block
-from functions.fred_tools import generate_labor_chart,generate_jobs_chart
+from functions.fred_tools import generate_labor_chart,generate_jobs_chart,generate_cpi_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
 listTickerEquity = [
@@ -308,6 +308,9 @@ def repondre(question: str):
         return "U.S. Labor NFP update 📊", fig
     if "jobs" in q_lower:
         fig = generate_jobs_chart()
+        return "U.S. Labor  update 📊", fig
+    if "cpi" in q_lower:
+        fig = generate_cpi_chart()
         return "U.S. Labor  update 📊", fig
         
 # 📌 Historique des messages (texte + graph)
