@@ -1,13 +1,12 @@
 <<LIVE_DM_MACRO_BEGIN>>
 DM MACRO — LIVE WEEK VIEW (Jan 5–9, 2026)
 
-STATUS: Live as of Wednesday close
+STATUS: Live as of Friday close
 
 MONDAY 5 — RELEASED
 
 Japan — S&P Global Manufacturing PMI (Dec, final)
 Actual 49.7 vs 50.0 consensus vs prior 49.7
-
 Dominant signal: manufacturing remains in contraction and fails to recover into year-end; the miss versus consensus reinforces the view that Japan’s goods cycle is still a drag despite services resilience.
 Secondary: the lack of upward revision confirms that late-2025 optimism around external demand was premature.
 Noise: small headline miss magnitude; no new collapse signal.
@@ -16,7 +15,6 @@ Transmission: limits JPY support via growth expectations rather than inflation r
 
 Switzerland — Retail Sales (Nov, y/y)
 Actual 2.7% vs 2.3% consensus vs 2.2% prior
-
 Dominant signal: consumer demand remains resilient despite tight financial conditions.
 Secondary: upside relative to consensus suggests households are still absorbing higher prices without a sharp pullback.
 Noise: single-month volatility.
@@ -25,7 +23,6 @@ Transmission: supports CHF via growth resilience rather than policy repricing.
 
 Switzerland — Manufacturing PMI (Dec)
 Actual 49.7 vs 45.8 consensus
-
 Dominant signal: sharp upside surprise lifts PMI close to expansion threshold; manufacturing contraction is far less severe than feared.
 Secondary: suggests external demand weakness may be stabilising rather than accelerating.
 Noise: survey volatility after deep pessimism.
@@ -33,8 +30,7 @@ Reaction function: lowers urgency for SNB dovish pivot driven by growth fears.
 Transmission: supports CHF sentiment through improved cyclical optics.
 
 United Kingdom — BoE Consumer Credit (Nov)
-Actual £2.08bn vs £1.10bn consensus vs £0.98bn prior
-
+Actual £2.077bn vs £1.100bn consensus vs £0.977bn prior
 Dominant signal: credit growth remains robust, indicating demand resilience despite restrictive policy.
 Secondary: suggests financial conditions are not biting households as hard as expected.
 Noise: monthly volatility in unsecured credit.
@@ -42,8 +38,7 @@ Reaction function: reinforces BoE caution on declaring victory over demand-drive
 Transmission: supports front-end rates via “restrictive but leaky” conditions.
 
 United Kingdom — Mortgage Lending (Nov)
-Actual £4.49bn vs £4.50bn consensus vs £4.27bn prior
-
+Actual £4.490bn vs £4.500bn consensus vs £4.156bn prior
 Dominant signal: mortgage flows stabilising; housing is no longer a sharp drag.
 Secondary: consistent with gradual adjustment rather than collapse.
 Noise: marginal miss vs consensus.
@@ -51,8 +46,7 @@ Reaction function: neutral for BoE; does not argue for early easing.
 Transmission: stabilises housing-related growth expectations.
 
 United Kingdom — Mortgage Approvals (Nov)
-Actual 64.5k vs 64.4k consensus vs 65.0k prior
-
+Actual 64.53k vs 64.40k consensus vs 65.01k prior
 Dominant signal: housing demand holding steady.
 Secondary: supports the view that rate sensitivity has plateaued.
 Noise: small monthly fluctuations.
@@ -61,7 +55,6 @@ Transmission: limits downside risk premia in UK rates and GBP.
 
 Australia — Services PMI (Dec, final)
 Actual 51.0 vs 51.1 consensus
-
 Dominant signal: services expansion intact but not accelerating.
 Secondary: confirms moderate domestic demand.
 Noise: trivial miss.
@@ -70,7 +63,6 @@ Transmission: none material.
 
 Australia — Composite PMI (Dec, final)
 Actual 51.1 vs 51.0 consensus
-
 Dominant signal: economy growing modestly into year-end.
 Secondary: balanced growth mix.
 Noise: marginal upside.
@@ -80,8 +72,7 @@ Transmission: stabilises AUD growth narrative.
 TUESDAY 6 — RELEASED
 
 Japan — Monetary Base (Dec, y/y)
-Actual -8.66% vs -9.81% prior
-
+Actual -8.66% vs prior -9.81%
 Dominant signal: pace of balance-sheet contraction is slowing.
 Secondary: confirms gradual policy normalisation without active tightening.
 Noise: base effects.
@@ -90,7 +81,6 @@ Transmission: mildly supportive for JPY via reduced easing impulse, but secondar
 
 United Kingdom — Services PMI (Dec, final)
 Actual 51.4 vs 52.1 consensus vs 52.0 prior
-
 Dominant signal: services momentum cooled more than expected.
 Secondary: signals some sensitivity to restrictive policy.
 Noise: survey revision risk.
@@ -99,36 +89,40 @@ Transmission: softens GBP growth support; modest front-end relief.
 
 United Kingdom — Composite PMI (Dec, final)
 Actual 51.4 vs 52.1 consensus vs 51.9 prior
-
 Dominant signal: growth deceleration confirmed.
 Secondary: aligns with services slowdown.
 Noise: PMI still above 50.
 Reaction function: keeps BoE in “wait and assess” mode.
 Transmission: caps upside in UK rates.
 
+United Kingdom — Reserve Assets Total (Dec)
+Actual $222,488.53m vs $224,754.48m consensus
+Dominant signal: lower reserve stock than expected (flow/valuation mix can matter, but this is not a clean “intervention” tell without composition).
+Secondary: in the current UK macro setup, this is second-order unless it coincides with stress episodes.
+Noise: valuation effects dominate month-to-month.
+Reaction function: none for BoE; this is not a domestic demand/inflation input.
+Transmission: only relevant if markets start pricing external funding/BoP stress — not implied by this print alone.
+
 Norway — Housing Prices (Dec, y/y)
 Actual 6.2% vs 5.0% consensus
-
 Dominant signal: housing inflation re-accelerating sharply.
 Secondary: indicates financial conditions remain accommodative domestically.
 Noise: seasonal distortions.
 Reaction function: strengthens Norges Bank’s reluctance to ease.
 Transmission: supports NOK via domestic demand and rate-differential channel.
 
-New Zealand — Global Dairy Trade Auction
-Actual 3,341 vs 3,533 prior
-
-Dominant signal: dairy prices softened, weighing on export income.
-Secondary: confirms downside pressure on rural incomes.
-Noise: auction volatility.
-Reaction function: marginally dovish for RBNZ at the margin.
-Transmission: negative for NZD via terms-of-trade channel.
+New Zealand — Milk Auctions (6 Jan, w/e)
+Actual 3,533 vs prior 3,533
+Dominant signal: flat auction result — no new terms-of-trade impulse.
+Secondary: stabilisation after prior volatility keeps NZ growth/income narrative unchanged.
+Noise: auction-to-auction noise.
+Reaction function: neutral for RBNZ at the margin.
+Transmission: NZD impact muted.
 
 WEDNESDAY 7 — RELEASED
 
 Japan — Services PMI (Dec, final)
 Actual 52.5 vs 51.6 consensus
-
 Dominant signal: services strength is materially better than expected.
 Secondary: confirms two-speed economy — services offsetting manufacturing weakness.
 Noise: survey optimism.
@@ -137,7 +131,6 @@ Transmission: supports JPY via domestic demand resilience rather than policy shi
 
 Japan — Composite PMI (Dec, final)
 Actual 51.5 vs 51.1 consensus
-
 Dominant signal: overall activity stronger than feared.
 Secondary: supports “no hard landing” narrative.
 Noise: survey breadth.
@@ -145,38 +138,42 @@ Reaction function: neutral-to-supportive for gradual normalisation.
 Transmission: modestly JPY-supportive.
 
 Australia — CPI (Nov)
-Headline y/y: 3.4% vs 3.7% consensus vs 3.8% prior  
-Trimmed mean m/m: 0.258% vs ~0.30% consensus vs 0.33% prior
+Headline m/m: 0.00% vs 0.30% consensus vs 0.00% prior
+Headline y/y: 3.40% vs 3.70% consensus vs 3.80% prior
+Trimmed mean m/m (SA): 0.30% vs 0.25% consensus vs 0.30% prior
 
-Dominant signal: disinflation continues but lands squarely in a grey zone; the trimmed mean decelerated from October but remains firm enough to keep upside risk to the RBA’s quarterly CPI forecast (~0.8% q/q).
-Secondary: housing components are mixed — rents accelerated to +0.4% m/m (strongest since Feb-25), while new dwelling prices slowed to +0.5% m/m from +0.7% previously; services inflation (restaurants/takeaways) remains contained.
-Noise: monthly CPI volatility and composition effects.
-Reaction function: no clear signal for the February meeting; both a hike and a hold remain live options, with the data insufficient to force the RBA’s hand ahead of the full-quarter print.
-Transmission: caps AUD upside via rates repricing; keeps front-end expectations range-bound.
-
-Bottom-line (AUS CPI): November does not break the debate. RBA deliberations stay on the fence until the full quarter is available; current data are still consistent with an on-hold bias. No change in view.
+Dominant signal: no clean February signal — headline disinflation is clear, but underlying is still in a “grey zone” (trimmed mean momentum not collapsing).
+Secondary: trimmed mean deceleration (key ref: ~0.258% m/m on the trimmed mean) still leaves upside risk to the quarterly CPI forecast (~0.8% q/q); housing details are mixed (rents firmer, new dwellings softer), while discretionary services (restaurants/takeaways) look contained.
+Noise: monthly CPI is composition-heavy and can mislead; the quarterly aggregate is the decision-grade input.
+Reaction function: keeps both hike/hold on the table; the bar for a hike is not met by this print alone, but the bar for a “done” declaration isn’t met either.
+Transmission: caps AUD directionality via front-end range-trading — policy debate stays live until the full-quarter CPI arrives.
 
 Australia — Building Approvals (Nov, m/m)
-Actual +15.2% vs 2.0% consensus vs -6.4% prior
-
+Actual +15.2% vs +2.0% consensus vs -6.4% prior
 Dominant signal: sharp rebound in construction approvals.
 Secondary: housing activity may stabilise sooner than expected.
 Noise: catch-up volatility.
 Reaction function: offsets some dovish CPI impulse but clearly secondary.
 Transmission: marginal support to growth expectations, but inflation dominates.
 
+Australia — Building Approvals (Nov, y/y)
+Actual +5.6% vs +4.4% consensus vs +6.4% prior
+Dominant signal: approvals improving vs consensus but growth is not accelerating vs prior.
+Secondary: points to stabilisation rather than re-boom.
+Noise: base effects.
+Reaction function: neutral for RBA at the margin.
+Transmission: limited.
+
 United Kingdom — Construction PMI (Dec)
 Actual 40.1 vs 42.5 consensus vs 39.4 prior
-
 Dominant signal: construction remains deeply contractionary.
-Secondary: housing and infrastructure still weak.
+Secondary: weak construction is consistent with late-cycle stagnation, but it’s not the BoE constraint.
 Noise: sector-specific.
-Reaction function: not decisive for BoE; services inflation still dominates.
+Reaction function: does not force easing; services/wages still dominate the BoE decision map.
 Transmission: growth drag without immediate policy impact.
 
 United Kingdom — Composite PMI (Dec, final)
 Actual 50.1 vs 50.4 consensus
-
 Dominant signal: economy barely expanding.
 Secondary: reinforces late-cycle stagnation narrative.
 Noise: small miss.
@@ -185,7 +182,6 @@ Transmission: keeps GBP range-bound.
 
 Canada — Ivey PMI (Dec)
 Actual 44.5 vs 43.3 consensus
-
 Dominant signal: activity remains contractionary but slightly less weak than feared.
 Secondary: domestic demand still soft.
 Noise: survey volatility.
@@ -194,11 +190,184 @@ Transmission: limited CAD impact.
 
 Canada — Ivey PMI SA (Dec)
 Actual 48.4 vs 51.9 consensus
-
 Dominant signal: underlying momentum weaker than expected.
 Secondary: confirms growth slowdown.
 Noise: adjustment issues.
 Reaction function: marginally dovish bias preserved.
 Transmission: negative CAD via growth expectations.
 
-<<LIVE_DM_MACRO_END>>
+Canada — Overall Comprehensive Risk (Q1)
+Actual 9.13 vs 9.12 prior
+Dominant signal: essentially unchanged risk score.
+Secondary/noise: low-frequency index; not a decision-grade macro input this week.
+Reaction function: none.
+Transmission: negligible.
+
+THURSDAY 8 — RELEASED
+
+Australia — Balance on Goods (Nov)
+Actual A$2,936m vs A$4,900m consensus vs A$4,385m prior
+Dominant signal: external surplus underwhelms materially; net trade impulse is weaker than expected into Q4 tracking.
+Secondary: consistent with a softer export pulse and/or resilience in import demand; confirms AUD’s sensitivity to terms-of-trade and China-linked volume risk.
+Noise: one month can swing with commodity pricing/shipments.
+Reaction function: not an RBA trigger by itself, but it removes one “growth cushion” that would have made hawkishness easier to justify after the CPI grey zone.
+Transmission: mildly AUD-negative through current-account/terms-of-trade optics; reduces upside convexity.
+
+Australia — Exports (Nov)
+Actual -2.9% vs +3.4% consensus vs +4.3% prior
+Dominant signal: export momentum rolled over hard vs expectations.
+Secondary: makes the weak trade balance more “real” (not just imports noise).
+Reaction function: dovish-tilt at the margin via growth impulse, but secondary to quarterly CPI.
+Transmission: AUD-negative via growth/earnings channel.
+
+Australia — Imports (Nov)
+Actual +0.2% vs +2.0% consensus vs +2.4% prior
+Dominant signal: import demand cooler than expected — domestic demand not overheating.
+Secondary: partially offsets the export weakness in net trade arithmetic, but not enough given the trade balance miss.
+Noise: shipment timing.
+Reaction function: marginally supports the “hold still plausible” interpretation post-CPI.
+Transmission: limited.
+
+United Kingdom — Halifax House Prices (Dec, m/m)
+Actual -0.6% vs +0.2% consensus vs 0.0% prior
+Dominant signal: housing prices softer than expected.
+Secondary: confirms the housing channel is still rate-sensitive.
+Noise: Halifax is noisy month-to-month.
+Reaction function: marginally dovish at the margin but not decisive vs services inflation constraint.
+Transmission: slightly easier UK front-end bias; GBP impact second-order.
+
+United Kingdom — Halifax House Prices (Dec, y/y)
+Actual +0.3% vs +1.1% consensus vs +0.7% prior
+Dominant signal: sharp downside surprise underscores housing disinflation.
+Secondary: weak price momentum can feed through to consumption confidence later, but lagged.
+Noise: sample effects.
+Reaction function: adds to the “growth is soft” pile, still not the binding constraint.
+Transmission: same as above.
+
+Sweden — CPI Flash (Dec, y/y)
+Actual 0.3% vs 0.5% consensus vs 0.3% prior
+Dominant signal: headline inflation remains very low.
+Secondary: keeps the disinflation narrative intact.
+Noise: headline is not the Riksbank constraint when CPIF is stable.
+Reaction function: supports the easing bias if activity weakens further, but CPIF is the policy metric.
+Transmission: SEK support limited; rates bias marginally dovish.
+
+Sweden — CPIF Flash (Dec, y/y)
+Actual 2.1% vs 2.5% consensus vs 2.3% prior
+Dominant signal: meaningful downside surprise in the policy-relevant measure.
+Secondary: suggests underlying inflation is converging faster than expected.
+Noise: one flash print, but the direction matters.
+Reaction function: strengthens the case that policy can lean dovish without risking a re-acceleration narrative.
+Transmission: front-end rates down bias; SEK capped unless global risk helps.
+
+Sweden — CPIF ex Energy Flash (Dec, y/y)
+Actual 2.3% vs 2.6% consensus vs 2.4% prior
+Dominant signal: downside in core-like measure confirms the CPIF surprise is not just energy noise.
+Secondary: reduces hawkish tail risk.
+Reaction function: dovish optionality rises.
+Transmission: reinforces SEK-capping, rates-bullish impulse.
+
+Norway — Manufacturing Output (Nov, m/m)
+Actual +2.4% vs -0.9% consensus vs -1.3% prior
+Dominant signal: sharp positive surprise — manufacturing is not rolling over despite tight policy.
+Secondary: reduces near-term growth downside that would otherwise justify Norges easing.
+Noise: volatile series.
+Reaction function: supports “hold restrictive” bias, especially when paired with strong housing.
+Transmission: NOK supportive via growth/rate differential expectations.
+
+Switzerland — CPI (Dec, m/m)
+Actual 0.0% vs -0.1% consensus vs -0.2% prior
+Dominant signal: mild upside vs expectations; deflation risk not intensifying.
+Secondary: confirms inflation remains extremely low but stable.
+Noise: small monthly prints.
+Reaction function: keeps SNB comfortable; no urgency either direction.
+Transmission: CHF impact small.
+
+Switzerland — CPI (Dec, y/y)
+Actual 0.1% vs 0.1% consensus vs 0.0% prior
+Dominant signal: inflation barely positive; low-inflation regime persists.
+Reaction function: SNB remains biased toward preventing CHF-driven undershoot, but no immediate catalyst from this print.
+Transmission: CHF stays driven by global risk/rates more than domestic CPI.
+
+Canada — Trade Balance (Oct, C$)
+Actual -C$0.58bn vs -C$1.36bn consensus vs +C$0.15bn prior
+Dominant signal: deficit smaller than feared, but still a deterioration vs prior surplus.
+Secondary: narrows near-term growth downside a touch vs consensus.
+Noise: commodity price/volume mix.
+Reaction function: modestly reduces dovish pressure, but labour/inflation dominate BoC.
+Transmission: CAD support is limited; the direction vs prior is still soft.
+
+United Kingdom — Overall Comprehensive Risk (Q1)
+Actual 9.01 vs 9.01 consensus
+Dominant signal/noise: unchanged index; not decision-grade for BoE.
+Reaction function/transmission: negligible.
+
+FRIDAY 9 — RELEASED
+
+Japan — All Household Spending (Nov, y/y)
+Actual +2.9% vs -0.9% consensus vs -2.9% prior (revised -2.3%)
+Dominant signal: sharp upside surprise in consumption — households are not retrenching as feared.
+Secondary: could reflect bonus/seasonality effects, but the level of surprise matters for near-term demand tracking.
+Noise: high volatility series.
+Reaction function: raises the “services resilience” weight in the BoJ map; reduces the argument that weak manufacturing will quickly drag the whole economy.
+Transmission: JPY marginally supported through growth expectations, not immediate policy repricing.
+
+Japan — All Household Spending (Nov, m/m)
+Actual +6.2% vs +2.7% consensus vs -3.5% prior (revised +0.4%)
+Dominant signal: acceleration in sequential momentum reinforces the y/y upside.
+Secondary: reinforces the two-speed theme (strong domestic demand vs weak goods).
+Reaction function/transmission: same as above.
+
+New Zealand — Reserve Assets Total (Dec)
+Actual 48,654m vs prior 55,852m
+Dominant signal: lower reserve stock can reflect valuation/flow; not a clean stress/intervention signal alone.
+Secondary: worth watching only if paired with funding stress or sharp NZD moves (not implied here).
+Reaction function: none for RBNZ.
+Transmission: limited.
+
+Sweden — GDP (Nov, m/m)
+Actual +0.9% vs -0.3% consensus vs -0.3% prior
+Dominant signal: meaningful upside growth surprise — activity is not as weak as priced.
+Secondary: offsets some of the dovish impulse from the CPIF downside surprise; puts the onus back on inflation rather than growth.
+Noise: single month volatility.
+Reaction function: increases the probability Riksbank can ease more cautiously (inflation allows it, growth doesn’t force it).
+Transmission: SEK ambiguity — inflation says dovish, activity says less urgency.
+
+Sweden — Private Production (Nov, y/y)
+Actual +3.5% vs +3.6% consensus vs +3.8% prior
+Dominant signal: still solid y/y but easing.
+Secondary: consistent with “OK level, slowing momentum.”
+Reaction function: neutral; GDP surprise carries more weight.
+Transmission: minor.
+
+Sweden — Private Production (Nov, m/m)
+Actual +0.5% vs prior -1.4%
+Dominant signal: rebound adds to the upside activity story.
+Reaction function: marginally reduces urgency to ease aggressively.
+Transmission: supports the “SEK not one-way weak” case, but still dominated by CPIF.
+
+Sweden — Industrial Production Value (Nov, y/y)
+Actual +4.2% vs +5.9% consensus
+Dominant signal: softer than expected on the y/y measure despite the GDP rebound — composition matters.
+Secondary: suggests the GDP strength may be broader than industry-value alone (services/other components).
+Noise: base effects.
+Reaction function: keeps the Riksbank able to focus on inflation.
+Transmission: mixed.
+
+Sweden — Industrial Production Value (Nov, m/m)
+Actual -0.1% vs prior -6.6% (revised -6.8%)
+Dominant signal: stabilisation after a very weak prior month.
+Secondary: supports the “activity is not collapsing” read.
+Reaction function/transmission: secondary.
+
+Norway — CPI (Dec, m/m)
+Actual 0.1% vs 0.1% consensus
+Norway — CPI (Dec, y/y)
+Actual 3.2% vs 3.0% consensus vs 2.9% prior
+Dominant signal: upside surprise on y/y re-anchors inflation persistence.
+Secondary: strengthens the case that domestic inflation is sticky even as Europe disinflates.
+Noise: monthly base effects, but direction matters for policy debate.
+Reaction function: Norges easing optionality is pushed out; the bar for dovish signalling rises materially when inflation surprises up alongside strong housing and output.
+Transmission: NOK-supportive via front-end repricing / higher-for-longer bias.
+
+Norway — Core Inflation (Dec, m/m)
