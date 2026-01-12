@@ -2,174 +2,169 @@
 
 <<LIVE_USD_MACRO_BEGIN>>
 USD MACRO — LIVE WEEK VIEW (Jan 5–Jan 9, 2026)
-STATUS: Live as of Wednesday close
+STATUS: Final as of Friday close
 
 MONDAY 05 — RELEASED
 
 ISM Manufacturing PMI (Dec)
 Actual 47.9 vs Cons 48.4 vs Prior 48.2
-HF take: First-order signal remains manufacturing contraction with marginal deterioration. This is not the binding constraint for policy unless it transmits into labor or services; transmission is via risk sentiment, cyclicals, and term premium, not the Fed path. Secondary: reinforces the “weak goods / resilient services” regime rather than a broad growth break.
 
-ISM Mfg Prices Paid (Dec)
+HF take: Manufacturing remains in contraction and deteriorated modestly at the margin. This continues to signal goods-sector drag, but not a regime break. The policy relevance is second-order unless weakness spills into services demand or labor. Transmission is primarily via earnings cyclicality, capex restraint, and term-premium sensitivity, not the Fed reaction function.
+
+ISM Manufacturing Prices Paid (Dec)
 Actual 58.5 vs Cons 57.0 vs Prior 58.5
-HF take: Sticky upstream price pressure despite contraction. This keeps the inflation tail alive and raises the bar for aggressive dovish repricing on growth-only fears. Alone, it’s secondary unless confirmed by CPI/PCE momentum.
+
+HF take: Persistent upstream price pressure despite contraction keeps the inflation tail non-negligible. This prevents the market from cleanly extrapolating weak manufacturing into fast easing. Alone, this does not re-anchor policy expectations; it matters only in combination with services inflation metrics.
 
 ISM Manufacturing Employment (Dec)
 Actual 44.0 vs Prior 44.9
-HF take: Goods-sector labor demand remains weak; second-order for payrolls unless corroborated by claims/NFP diffusion.
+
+HF take: Goods-sector labor demand remains weak. This is known and priced, and only matters if corroborated by claims or NFP diffusion.
 
 ISM Manufacturing New Orders (Dec)
 Actual 47.4 vs Prior 47.7
-HF take: Orders remain below 50; no inventory-led rebound signal yet. Market relevance only if it bleeds into broader demand.
 
-U.S. 6M Bill Auction (Jan 5) — High 3.475%, BTC 3.280
-HF take: Funding micro; no stress signal.
+HF take: Orders remain sub-50 with no inventory-led rebound signal. Reinforces the view that goods demand is a drag, not a catalyst.
 
-U.S. 3M Bill Auction (Jan 5) — High 3.540%, BTC 2.840
-HF take: Same; background only.
+U.S. 6M & 3M Bill Auctions (Jan 5)
+HF take: Healthy demand and coverage. No funding stress or liquidity signal relevant for macro.
 
 TUESDAY 06 — RELEASED
 
 S&P Global Composite PMI (Dec, final)
 Actual 53.0 vs Cons 52.7
-HF take: Growth resilience persists, offsetting weak ISM manufacturing. Supports “no urgency to cut” absent inflation confirmation; caps bull-steepener enthusiasm.
+
+HF take: Composite activity remains expansionary, reinforcing the soft-landing base case and offsetting weak ISM manufacturing. Supports patience in policy pricing.
 
 S&P Global Services PMI (Dec, final)
 Actual 52.9 vs Cons 52.5
-HF take: Services remain expansionary; reduces probability that weak goods data alone force a dovish pivot.
+
+HF take: Services remain in expansion. This confirms that growth momentum is services-led, reducing the probability that goods weakness alone triggers a dovish pivot.
 
 Redbook YoY (w/e 29 Dec)
 Actual 7.1% vs Prior 7.6%
-HF take: Marginal cooling; noise unless confirmed by hard consumption.
+
+HF take: Marginal deceleration; noise unless confirmed by hard consumption data.
 
 WEDNESDAY 07 — RELEASED
 
-MBA Mortgage Applications (w/e 2 Jan)
-Actual +0.3% vs Prior -10.0%
-HF take: Small bounce after volatility; second-order unless persistent.
-
-MBA 30Y Mortgage Rate (w/e 2 Jan)
-Actual 6.25% vs Prior 6.32%
-HF take: Directionally supportive, still restrictive; slow transmission.
-
 ADP National Employment (Dec)
 Actual +41k vs Cons ~50k vs Prior revised -29k
-HF take: “Ok but not hot.” Positive after a negative prior, but soft vs late-cycle strength. Stand-alone policy impact limited; mainly sets expectations into NFP.
 
-Durable Goods Orders (Oct, revised)
-Actual -2.2% m/m vs Cons -2.2%
-HF take: Confirms goods/capex softness; indirect policy relevance.
+HF take: Hiring is positive but subdued, consistent with late-cycle normalization. Composition matters: services gains dominate, goods employment continues to contract. ADP mainly frames expectations into NFP rather than shifting policy probabilities.
 
-Durables ex-Defense (Oct, revised)
-Actual -1.5% m/m
-HF take: Confirmation print.
+Durables / Factory Orders (Oct, revised)
 
-Durables ex-Transport (Oct, revised)
-Actual +0.2% m/m vs Prior +0.1%
-HF take: Nuance: underlying orders not collapsing; second-order offset.
-
-Nondefense Capex ex-Aircraft (Oct, revised)
-Actual +0.5% m/m
-HF take: Capex proxy holding up; caps downside growth tail.
-
-Factory Orders (Oct)
-Actual -1.3% m/m vs Cons -1.2% vs Prior +0.2%
-HF take: Hard-data goods softness; supports cooling narrative without regime change.
-
-Factory Orders ex-Transport (Oct)
-Actual +0.2% m/m vs Prior +0.1%
-HF take: Underlying trend firmer than headline.
+HF take: Headline durables and factory orders confirm capex and goods softness, but ex-transport and non-defense capex show underlying stabilization, not collapse. This caps recession risk but does not generate upside torque.
 
 ISM Non-Manufacturing PMI (Dec)
 Actual 54.4 vs Cons 52.3 vs Prior 52.6
-HF take (dominant print so far): Services ended the year strong, rising to a 13-month high with broad-based gains. This materially raises the confidence threshold for easing and truncates the near-term dovish tail unless inflation breaks decisively. Transmission: front-end pressure / curve flattening risk; USD support via relative growth and policy asymmetry.
 
-— Internal mix that professionals care about:
-• Employment rebounded to expansion (~52), pushing back against a sharp labor slowdown narrative.
-• New orders surged to a ~15-month high (~57+), rebuilding forward momentum into early 2026 (even if partly reversing November weakness).
-• Supplier deliveries eased; some sequential strength likely reflects post-shutdown normalization, so month-to-month acceleration is down-weighted in favor of cross-survey confirmation.
+HF take (dominant weekly signal): Services activity re-accelerated meaningfully, reaching a 13-month high with broad-based strength. This materially raises the confidence threshold for easing and truncates the near-term dovish tail.
+
+Internal signal hierarchy:
+• New orders surged to a ~15-month high, rebuilding forward momentum into early 2026.
+• Employment rebounded into expansion, directly countering narratives of imminent labor market stress.
+• Sequential strength is partially distorted by post-shutdown normalization; professionals therefore prioritize cross-survey confirmation over one-month acceleration.
 
 ISM Services Prices Paid (Dec)
-Actual ~64.3 (eight-month low) vs Prior ~65.4
-HF take: Directionally constructive—inflation pressure is no longer accelerating—but levels remain consistent with elevated supercore PCE near term. This supports “hold longer,” not early cuts; services/wages remain the constraint.
+Actual ~64.3 (8-month low)
 
-ISM Services Business Activity (Dec)
-Actual 54.5 vs Prior 56.0
-HF take: Still strong; minor dip is secondary versus the headline upside.
-
-ISM Services New Orders (Dec)
-Actual ~57.9 vs Prior ~52.9
-HF take: Forward-looking strength matters; supports resilience into the new year.
-
-ISM Services Employment (Dec)
-Actual ~52.0 vs Prior ~48.9
-HF take: Employment back in expansion aligns with resilience; argues against an imminent labor shock.
+HF take: Directionally constructive for disinflation, but the level remains consistent with elevated supercore PCE. Inflation pressure is easing at the margin, not normalized. This supports “hold longer” rather than early cuts.
 
 JOLTS Job Openings (Nov)
-Actual 7.146M vs Cons 7.600M vs Prior 7.670M
-HF take: Continued cooling in labor demand; secondary versus strong services activity. Caps hawkish wage fears but doesn’t deliver a dovish pivot alone.
+Actual 7.15m vs Prior 7.67m
 
-EIA Weekly Crude Stocks (w/e 2 Jan)
-Actual -3.832M vs Cons +0.447M vs Prior -1.934M
-HF take: Large draw supports crude near term; macro relevance second-order unless sustained into prices.
+HF take: Continued cooling in labor demand supports a rebalancing narrative, but remains secondary relative to strong services activity and low claims.
 
-EIA Distillate Stocks (w/e 2 Jan)
-Actual +5.594M vs Cons +2.109M
-HF take: Mixed demand/inventory dynamics; macro impulse limited.
+EIA Weekly Energy Data
+HF take: Large crude draw but offset by gasoline and distillate builds. Commodity-micro, not a macro impulse.
 
-EIA Gasoline Stocks (w/e 2 Jan)
-Actual +7.702M vs Cons +3.186M
-HF take: Softer end-demand / seasonal effects; offsets crude tightness.
+THURSDAY 08 — RELEASED
 
-EIA Refinery Utilization (w/e 2 Jan)
-Actual 0.0% vs Cons +0.1%
-HF take: Neutral.
+Q3 Productivity (prelim)
+Actual +4.9% annualized vs Cons +3.0% vs Prior +4.1%
 
-THURSDAY 08 — PREVIEW
+HF take (critical macro offset): Productivity growth surprised sharply to the upside, lifting the 12-month pace to ~1.9% — well above the pre-COVID norm. Non-financial corporate productivity also strengthened.
 
-Challenger Layoffs (Dec)
-Sensitivity: Only market-relevant if cuts re-accelerate beyond year-end noise and confirm labor cooling.
+This matters because:
+• Unit labor costs fell 1.9%, a powerful disinflationary signal for supercore services.
+• Productivity gains allow services growth without commensurate wage inflation, materially capping the hawkish tail.
+• Professional macro interpretation increasingly views this as structural efficiency gains, plausibly linked to technology/AI adoption rather than cyclical noise.
 
-International Trade (Oct)
-Sensitivity: Imports vs exports for domestic demand/inventory signal, not the deficit.
+Policy implication: This print offsets strong ISM services and is the key reason the Fed can remain patient without re-tightening bias.
 
-Initial Jobless Claims (w/e 3 Jan)
-Sensitivity: Cleanest real-time labor barometer; sustained rise would validate cooling and skew rates dovish.
+US International Trade (Oct)
+Actual -$29.4bn vs Prior -$48.1bn
 
-Continuing Claims (w/e 27 Dec)
-Sensitivity: Persistence > one-off move.
+HF take: Headline improvement is distorted by volatile categories. Exports were boosted by non-monetary gold (excluded from GDP), while imports fell sharply due to a temporary collapse in pharmaceutical shipments linked to tariff announcements.
 
-Productivity / Unit Labor Costs (Q3 prelim)
-Sensitivity: Wage-inflation transmission; lower ULC helps disinflation, higher ULC keeps services tail alive.
+Ex-distortions:
+• Net trade likely provides a mechanical boost to Q4 GDP, but
+• Imports (notably tech-related) appear to be re-accelerating into year-end, consistent with ongoing AI-related investment.
 
-Wholesale Inventories / Sales (Oct)
-Sensitivity: GDP tracking; second-order unless sharp demand downshift.
+Policy relevance is limited; this is a GDP-tracking input, not a regime signal.
 
-EIA Natural Gas Change (w/e 2 Jan)
-Commodity-micro unless price sensitivity broadens.
+Initial Jobless Claims (w/e 29 Dec)
+Actual 208k vs Cons 210k
 
-4W Bill Auction (Jan 8)
-Funding micro.
+HF take: Claims remain firmly anchored. This is the cleanest real-time labor signal and directly contradicts recessionary narratives.
+
+Continuing Claims
+Actual 1.91m
+
+HF take: Gradual drift higher, consistent with rebalancing rather than stress.
 
 Consumer Credit (Nov)
-Sensitivity: Revolving vs non-revolving split—financed consumption risk check.
+Actual $4.2bn vs Cons $10.0bn
 
-FRIDAY 09 — PREVIEW
+HF take: Sharp downside surprise suggests less reliance on credit-financed consumption. Late-cycle cooling signal, but not contractionary on its own.
 
-Non-Farm Payrolls (Dec), Unemployment Rate, Average Earnings
-Anchor: Decides whether services strength (hawkish) or labor cooling (dovish) dominates the week.
+FRIDAY 09 — RELEASED
 
-Housing Starts / Building Permits (Oct)
-Sensitivity: Permits lead; starts confirm housing cadence and shelter-inflation lag.
+Non-Farm Payrolls (Dec)
+Actual +50k vs Cons +70k (revised)
 
-U. Michigan Sentiment (Jan prelim) + Inflation Expectations
-Sensitivity: Expectations only matter if they move sharply.
+HF take: Payroll growth slowed materially, and prior months were revised down. On a headline basis this is soft, but not recessionary.
+
+Composition matters:
+• Services job gains concentrated in leisure/hospitality and healthcare;
+• Goods, retail, construction, and professional services contracted;
+• Diffusion indices remain just above 50, signaling narrow, uneven hiring.
+
+Unemployment Rate (Dec)
+Actual 4.38% vs Prior 4.54%
+
+HF take: The decline reflects higher household employment and partial reversal of shutdown-related distortions. This invalidates a hard-landing labor narrative, even as payroll growth slows.
+
+Underlying job growth estimates suggest hiring near or slightly below breakeven, implying cooling without collapse.
+
+Wages and Hours
+AHE +0.33% m/m; 3.76% y/y
+Average workweek 34.2
+
+HF take: Wage growth remains resilient, but productivity gains materially offset inflation risk. The Fed will place greater weight on ECI and unit labor costs, which now point to easing pressure by mid-year.
+
+Housing Starts / Permits (Oct)
+
+HF take: Starts weakened, particularly multifamily; permits held up, suggesting flooring rather than renewed downside. Housing remains rate-constrained, with limited macro spillover.
+
+University of Michigan (Jan prelim)
+
+HF take: Sentiment improved modestly; inflation expectations remain contained. No de-anchoring signal.
 
 BOTTOM LINE — WEEK SYNTHESIS
-Not triggered yet (claims + NFP are decisive).
+
+The week tightens the soft-landing narrative rather than breaks it.
+
+• Services activity is firm and forward-looking indicators improved.
+• Labor markets are cooling but not deteriorating; unemployment fell and claims remain low.
+• The decisive offset is productivity: strong efficiency gains and falling unit labor costs materially reduce inflation risk even with solid services demand.
+
+Reaction-function implication:
+The Fed is validated in patience. Near-term aggressive easing is harder to justify, but productivity-led disinflation caps the hawkish tail. The policy distribution compresses around “hold longer, cut later”, with March easing possible but no longer assured.
 
 <<LIVE_USD_MACRO_END>>
-
 <<<USD_MACRO_NOTE_BEGIN>>>
 Date: 2 Jan 2026 (Paris)
 Window: last 4 weeks into year-end 2025 (with regime anchors explicitly labelled)
@@ -316,6 +311,7 @@ USD: supported by growth floor and pause optionality; downside if labour drift f
 
 
 <<<USD_MACRO_NOTE_END>>>
+
 
 
 
