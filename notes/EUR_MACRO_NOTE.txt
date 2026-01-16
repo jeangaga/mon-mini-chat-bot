@@ -1,4 +1,211 @@
+<<LIVE_EUR_MACRO_BEGIN>>
 
+EURO AREA MACRO — LIVE WEEK VIEW (JAN 12–16, 2026)
+
+STATUS: Live as of Friday close
+
+====================================================
+
+MONDAY 12 JAN — RELEASED
+
+EURO AREA SENTIX INDEX (JAN)
+
+Sentix: -1.8 (consensus -4.9; prior -6.2)
+
+COMMENT (HF sensitivity)
+Dominant signal: sentiment is still negative but the improvement is material — the “recession mood” is fading at the margin.
+Secondary: Sentix tends to lead risk tone more than hard activity; the market treats it as confirmation of “soft landing / shallow cycle,” not a growth trigger.
+Noise: survey volatility is high; a single print rarely reprices ECB.
+Reaction-function impact (ECB): neutral-to-mildly hawkish at the margin on growth tails (less downside), but not inflation-relevant.
+Transmission: small risk-supportive impulse (equities/credit) if corroborated by hard data; limited rates impact.
+
+====================================================
+
+TUESDAY 13 JAN — RELEASED
+
+FRANCE BUDGET BALANCE (NOV)
+
+Budget balance: -155.41B (prior -136.17B)
+
+COMMENT (HF sensitivity)
+Dominant signal: deterioration vs prior month level; more about seasonality/execution than regime shift.
+Secondary: fiscal impulse relevance is 2026 stance (spending pickup / restraint) — this monthly line does not settle it.
+Noise: high seasonality/accounting effects; market impact typically minimal.
+Reaction-function impact (ECB): none near-term.
+Transmission: negligible; only matters if it feeds a broader fiscal narrative later.
+
+====================================================
+
+THURSDAY 15 JAN — RELEASED
+
+FRANCE CPI (EU NORM / HICP) FINAL (DEC)
+
+HICP m/m: 0.1% (consensus 0.1; prior 0.1)
+HICP y/y: 0.7% (consensus 0.7; prior 0.7)
+
+France CPI y/y (NSA): 0.8% (consensus 0.8; prior 0.8)
+France CPI m/m (NSA): 0.1% (consensus 0.1; prior 0.1)
+
+COMMENT (HF sensitivity)
+Dominant signal: final confirms the flash — no revision risk, no inflation surprise.
+Secondary: keeps France as a low-inflation anchor; not the ECB constraint.
+Noise: none (all in line).
+Reaction-function impact (ECB): none incremental.
+Transmission: none.
+
+INTEGRATION — USER NOTE (France inflation framing)
+French headline disinflation continues; services broadly sideways; core ~stable. (Confirmation only; no change to market signal.)
+
+SPAIN CPI / HICP FINAL (DEC)
+
+CPI m/m (NSA): 0.3% (consensus 0.3; prior 0.3)
+CPI y/y (NSA): 2.9% (consensus 2.9; prior 2.9)
+HICP m/m: 0.3% (consensus 0.3; prior 0.3)
+HICP y/y: 3.0% (consensus 3.0; prior 3.0)
+
+COMMENT (HF sensitivity)
+Dominant signal: Spain remains the inflation outlier inside EA, but finals are non-events (no revision).
+Secondary: reinforces dispersion: Spain inflation > EA core trend, but policy set by EA aggregate.
+Noise: none.
+Reaction-function impact (ECB): none incremental.
+Transmission: none.
+
+GERMANY WHOLESALE PRICE INDEX (DEC)
+
+WPI m/m: 0.3% (consensus -0.2)
+WPI y/y: 1.5% (consensus 1.2)
+
+COMMENT (HF sensitivity)
+Dominant signal: pipeline inflation firmer than expected at wholesale level — but pass-through to CPI is unstable.
+Secondary: becomes relevant only if echoed in PPI/import prices and if goods disinflation stalls.
+Noise: commodity/base effects can dominate.
+Reaction-function impact (ECB): minimal unless it changes the goods disinflation path.
+Transmission: marginal upward pressure on goods-inflation tails; limited market impact by itself.
+
+GERMANY FULL YEAR GDP (2025)
+
+GDP: 0.2% (consensus 0.2; prior -0.2)
+
+COMMENT (HF sensitivity)
+Dominant signal: stabilisation, not recovery — confirms Germany is weakly positive vs last year’s contraction, but still low trend.
+Secondary: composition matters (consumption vs investment/exports) for 2026 momentum and for the “Germany engine restarts” narrative.
+Noise: annual print; markets trade Q4/Q1 run-rate and fiscal follow-through more than full-year GDP.
+Reaction-function impact (ECB): slightly reduces hard-landing tail; does not shift inflation constraint.
+Transmission: modestly supportive for EUR growth narrative only if matched by near-term acceleration.
+
+INTEGRATION — USER NOTE (Germany GDP details)
+Real GDP: +0.3% y/y (calendar-adjusted) in 2025; +0.2% y/y (non-calendar-adjusted). Better than 2023 (-0.7%) and 2024 (-0.5%). Household consumption: +1.4% y/y. Exports and investment contracted; manufacturing GVA: -1.3% y/y (autos, machinery, energy-intensive led). Fiscal stance: no stimulus in 2025; deficit narrowed from 2.7% of GDP (2024) to 2.4% (2025). Interpretation: fiscal support did not materialize in 2025; 2026 spending likely slower than consensus; industrial headwinds cap recovery.
+
+ITALY INDUSTRIAL OUTPUT (NOV)
+
+m/m SA: 1.5% (consensus 0.5; prior -1.0)
+y/y WDA: 1.4% (consensus -0.6; prior -0.3)
+
+COMMENT (HF sensitivity)
+Dominant signal: very strong upside surprise — hard data outperforms surveys again.
+Secondary: breadth matters; if broad-based it supports Q4 carry-over and reduces recession tail.
+Noise: high monthly volatility; one print doesn’t erase the weak trend.
+Reaction-function impact (ECB): supportive on growth tails, but subordinate to inflation path.
+Transmission: supports risk and BTP beta at the margin; limited EUR rates impact unless replicated across EA.
+
+INTEGRATION — USER NOTE (Italy IP detail)
+Sector: energy +3.9%; capital goods +2.1%; consumer goods +1.1%; intermediate +0.1%. Carry-over: ~+1.0% q/q for Q4 if Dec flat. Surveys weakened in Dec; realised output has outperformed survey signals. Interpretation: positive Q4 GDP contribution; surveys flag downside but lag hard data.
+
+EURO AREA INDUSTRIAL PRODUCTION (NOV)
+
+m/m: 0.7% (consensus 0.5; prior 0.8)
+y/y: 2.5% (consensus 2.0; prior 2.0)
+
+COMMENT (HF sensitivity)
+Dominant signal: manufacturing momentum into mid-Q4 firmer than expected — upside vs consensus.
+Secondary: sector mix is the key (capital goods strength vs durables weakness).
+Noise: IP is volatile; the market will fade it if PMIs soften further.
+Reaction-function impact (ECB): mildly reduces downside growth tail; not inflation-relevant.
+Transmission: supports cyclical risk tone; modest support for EUR growth narrative if sustained.
+
+INTEGRATION — USER NOTE (EZ IP & sector mix)
+Country mix: strength in Germany/Spain/Italy; small decline in France. Sector: capital goods +3.6% m/m; intermediate +1.1%; durable -2.1%; non-durables +3.4%; energy +0.5%. Carry-over: ~+1.0% for Q4 assuming flat Dec. Interpretation: supports Q4 GDP upside; surveys suggest December dip risk.
+
+EURO AREA TRADE BALANCE (NOV)
+
+Trade balance SA: 10.70B (prior 14.00B; prior revised 13.70B)
+Eurostat trade NSA: 9.9B (prior 18.4B; prior revised 17.9B)
+
+COMMENT (HF sensitivity)
+Dominant signal: surplus narrower — external contribution less supportive than prior month.
+Secondary: whether import strength is demand-led (good) vs price-led (less informative) is the key read-through.
+Noise: NSA vs SA differences + revisions can be material.
+Reaction-function impact (ECB): none direct; only matters via GDP tracking.
+Transmission: marginally softens EUR external-support narrative.
+
+INTEGRATION — USER NOTE (external accounts framing)
+Imports +2.5% m/m; exports +1.1% m/m in Nov (user note). Net trade likely marginal positive for Q4 goods after flat Q3 and sharp drag in Q2 (user note framing).
+
+ITALY TRADE (NOV)
+
+Trade balance EU: -1.959B (prior -1.310B; prior revised -1.283B)
+Global trade balance: 5.078B (prior 4.156B; prior revised 4.183B)
+
+COMMENT (HF sensitivity)
+Dominant signal: EU balance weaker; global balance still solid — partner-mix effects dominate.
+Secondary: relevance is low unless it links to growth or spreads.
+Noise: month-to-month partner volatility.
+Reaction-function impact (ECB): none.
+Transmission: negligible.
+
+LSEG IPSOS PCSI (JAN)
+
+Germany: 46.35 (prior 46.44)
+France: 39.77 (prior 40.46)
+Italy: 47.69 (prior 45.86)
+Spain: 49.23 (prior 49.54)
+
+COMMENT (HF sensitivity)
+Dominant signal: levels remain subdued; France notably weak; Italy improved.
+Secondary: useful cross-check for “two-speed EA” and consumer caution.
+Noise: small moves; low market salience.
+Reaction-function impact (ECB): none near-term.
+Transmission: none.
+
+INTEGRATION — USER NOTE (households / saving constraint)
+Eurozone household saving rate remains elevated (15.1% in Q3 vs 15.4% Q2; well above 2010s average ~12.5%), reflecting precautionary saving and uncertainty — implies consumption normalises slowly and caps upside growth. (Structural context; not a weekly catalyst.)
+
+====================================================
+
+FRIDAY 16 JAN — RELEASED
+
+GERMANY CPI / HICP FINAL (DEC)
+
+CPI m/m: 0.0% (consensus 0.0; prior 0.0)
+CPI y/y: 1.8% (consensus 1.8; prior 1.8)
+HICP m/m: 0.2% (consensus 0.2; prior 0.2)
+HICP y/y: 2.0% (consensus 2.0; prior 2.0)
+
+COMMENT (HF sensitivity)
+Dominant signal: confirmation of the earlier dovish inflation impulse — no revision, no reversal.
+Secondary: keeps the “Germany inflation downshift” intact; market focus shifts to January dynamics (energy/core/services).
+Noise: none.
+Reaction-function impact (ECB): none incremental today, but confirms easing optionality story (services remains the holdout).
+Transmission: none.
+
+INTEGRATION — USER NOTE (Germany CPI/HICP granular)
+Headline CPI 1.8% y/y; HICP 2.0% y/y. Core (national CPI) 2.4% y/y; core (HICP) 2.5% y/y. Goods inflation 0.4% y/y (from 1.1%); services steady at 3.5% (services ex-rents eased to 4.0%). Energy -1.3%; food 0.8%. Drivers: abolition of gas storage levy and grid-fee subsidies reduced household energy/electricity prices. Interpretation: near-term risk skews dovish if January confirms broad disinflation; services is the holdout.
+
+ITALY CPI / HICP FINAL (DEC)
+
+CPI m/m: 0.2% (consensus 0.2; prior 0.2)
+CPI y/y: 1.2% (consensus 1.2; prior 1.2)
+HICP m/m: 0.2% (consensus 0.2; prior 0.2)
+HICP y/y: 1.2% (consensus 1.2; prior 1.2)
+
+COMMENT (HF sensitivity)
+Dominant signal: low inflation confirmed; no revision.
+Secondary: reinforces periphery disinflation; lowers “Italy inflation risk” tail.
+Noise: none.
+Reaction-function impact (ECB): marginally dovish in aggregate but not a driver.
+Transmission: none.
+
+<<LIVE_EUR_MACRO_END>>
 
 <<LIVE_EUR_MACRO_BEGIN>>
 
@@ -808,6 +1015,7 @@ Rates: upside risk to yields at the front end; long-end still trades global-beta
 From a hedge-fund macro perspective, EA data no longer justify a pure “dovish ECB / long duration” theme. The more interesting angle is relative policy divergence (ECB vs Fed/BoE) and intra-EA growth dispersion (Spain/Italy vs Germany) rather than outright EA collapse or reflation.
 
 <<<EUR_MACRO_NOTE_END>>>
+
 
 
 
