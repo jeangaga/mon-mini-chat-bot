@@ -22,12 +22,12 @@ It enforces HOW analysis is written and validated.
 HIERARCHY & PRECEDENCE
 ====================================================
 
-This file applies ON TOP OF MA.txt.
+This file applies ON TOP OF MACRO AGENT MASTER TEMPLATE – MA.txt
 
 Order of precedence:
 1) EXECUTION_OVERLAY_MASTER
 2) MA_STRICT_DEFAULT
-3) MA.txt
+3) MACRO AGENT MASTER TEMPLATE – MA.txt
 
 In case of conflict:
 EXECUTION_OVERLAY_MASTER prevails.
@@ -230,3 +230,4 @@ is via explicit user instruction.
 ====================================================
 END OF FILE
 ====================================================
+
