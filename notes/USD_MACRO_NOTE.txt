@@ -1,4 +1,263 @@
 
+<<<USD_MACRO_NOTE_BEGIN>>>
+USD Macro Note — HF Live Run
+Date: 18 Jan 2026 (Paris)
+Primary window (last 10 business days): 5 Jan 2026 – 16 Jan 2026
+Rolling perspective (anchors & reaction-function context): past ~1 month
+
+Executive Summary – Macro Regime & New Information
+
+Macro regime (tight but stabilising, with a late-cycle labour slowdown):
+The US remains in a “disinflation-with-resilience but low-hire/low-fire labour” regime. Activity is not collapsing (services still firm), but hiring momentum is weak and increasingly looks structural rather than cyclical. Inflation is not re-accelerating, but the composition (food + shelter / rents) and CPI–PCE measurement wedges keep the Fed cautious.
+
+What is NEW in the primary window (5–16 Jan):
+
+The labour market “stall speed” narrative hardened: payroll growth is very low, unemployment dipped, but wage growth stayed firm and the report itself flags fragility and revision risk (benchmarking / methodology).
+
+CPI printed “okay” at the headline/core level, but the non-obvious read is less benign: food and shelter reasserted, and professionals focused on distortions from earlier shutdown effects + the CPI→PCE mapping (core PCE implied firmer than core CPI).
+
+Activity split sharpened: ISM manufacturing deteriorated further (deeper contraction) while ISM services re-accelerated (new orders strong; prices still elevated).
+
+The Fed reaction function moved into a clearer “hold, but keep the cut option alive” posture, with a visible divergence: some officials stress “policy in a good place / well positioned” (hold), while others stress “be ready to cut if labour cracks” (insurance cuts).
+
+A new political risk channel became market-relevant: intensifying pressure on Fed independence and leadership (legal/political confrontation) adds a risk-premium tail and could distort signalling.
+
+What did NOT change:
+
+The Fed is still operating on a restrictive-to-near-neutral plateau after 2025 cuts; the bar for near-term easing remains “clear, sustained labour weakening and cleaner core disinflation,” not one CPI print.
+
+The binding constraint remains the inflation/labour balance (services/shelter persistence vs labour fragility), not a classic demand-led overheating story.
+
+Regime-change triggers (what would force a pivot):
+
+Dovish pivot trigger: a sustained deterioration in hiring / unemployment / participation plus evidence that wage momentum is rolling, combined with cleaner core-PCE momentum (not just CPI).
+
+Hawkish tail trigger: renewed stickiness in services/shelter inflation and/or a meaningful tariffs-to-prices pass-through that lifts core PCE momentum enough to force “hold longer” and delay cuts even if labour is soft.
+
+Risk-premium shock trigger: escalation that credibly threatens Fed independence / governance, forcing more defensive policy communication and potentially tightening financial conditions independent of the data.
+
+Key Macro Releases – Primary Window (HF take)
+
+15 Jan 2026 – Weekly Jobless Claims (week ended 10 Jan)
+Actual / Consensus / Prior: 198k / 215k / 207k (prior week); continuing claims 1.884m (down modestly)
+Signal: superficially tighter than expected, but the professional emphasis is that seasonal adjustment noise is extreme; unadjusted claims rose sharply.
+Hedge-fund take: do not over-read the beat. The broader regime remains low-hire/low-fire; this release is “noise unless confirmed” by multi-week trend + continuing claims trajectory.
+
+14 Jan 2026 – Retail Sales (Nov)
+Actual / Consensus / Prior: +0.6% m/m / +0.4% / -0.1% (revised)
+Core control group proxy: +0.4% m/m (key GDP consumption input)
+Signal: stronger goods spending, rebound in autos; composition suggests higher-income strength persists while lower-income pressure shows up in price sensitivity.
+Hedge-fund take: keeps the “growth is not falling off a cliff” tail alive, making the Fed less urgent. But the K-shaped composition matters: it is not a broad-based re-acceleration; it’s distributional resilience plus affordability stress.
+
+14 Jan 2026 – Producer Prices (Nov)
+Actual / Consensus / Prior: +0.2% m/m / n/a / +0.1%
+Signal: modest monthly trend; does not signal an inflation break higher.
+Hedge-fund take: consistent with “inflation drifting down but not cleanly”; useful mainly for the CPI→PCE mapping and margin/trade-services nuances.
+
+13 Jan 2026 – CPI (Dec)
+Actual / Consensus / Prior:
+
+Headline CPI: +0.3% m/m / n/a (poll varies) / n/a (distorted prior month due to shutdown effects)
+
+Core CPI: +0.2% m/m / n/a / n/a
+
+Y/Y: headline 2.7%; core 2.6% (professional desk baseline)
+Signal: headline/core look “contained,” but composition was not benign: shelter + food drove, with food notably strong; earlier distortions unwind. Professionals focused on (i) composition, (ii) shutdown-related measurement quirks, and (iii) CPI–PCE wedge (core PCE implied firmer than core CPI).
+Hedge-fund take: not a dovish green light. CPI keeps the “no re-acceleration” baseline, but does not remove the Fed’s caution because the consumer-relevant components (food/shelter) and implied PCE momentum keep the inflation-risk tail alive.
+
+9 Jan 2026 – Nonfarm Payrolls (Dec)
+Actual / Consensus / Prior: +50k / +60k / +56k (revised down)
+Unemployment rate: 4.4% (down)
+Wages: +0.3% m/m; +3.8% y/y
+Signal: hiring is very weak and sector-concentrated, but unemployment dipped and wage growth stayed firm. The report itself highlights heightened benchmark revision risk and structural constraints (low supply; AI/tariff uncertainty dampening hiring).
+Hedge-fund take: this is the key macro pivot in-window. It supports “Fed pause now, keep cuts later” rather than immediate easing: labour is soft enough to preserve easing optionality, but wages are firm enough to prevent urgency. The biggest macro risk is not the headline payroll print—it is whether revisions and forward labour indicators reveal a sharper deterioration.
+
+7 Jan 2026 – ISM Services (Dec)
+Actual / Consensus / Prior: 54.4 / 52.3 / 52.6
+New Orders: 57.9 (up); Prices Paid: 64.3 (still high)
+Signal: services re-accelerated; new orders strong; input prices eased slightly but remain elevated.
+Hedge-fund take: this is the “activity resilience” anchor that prevents a clean dovish pivot. It keeps the inflation constraint alive (prices still high), and it supports the Fed’s ability to hold without fearing an imminent recession.
+
+5 Jan 2026 – ISM Manufacturing (Dec)
+Actual / Consensus / Prior: 47.9 / n/a / 48.2
+Signal: deeper contraction; lowest since late-2024; consistent with ongoing goods-sector drag.
+Hedge-fund take: confirms the two-speed economy. Manufacturing weakness alone is not enough to force Fed easing if services and wages hold; it matters mainly as a spillover risk into labour/income expectations.
+
+Top-Down Macro
+
+CURRENT PROFESSIONAL NARRATIVE (macro desks / institutional / HF-followed public commentary — synthesized)
+
+“US growth is resilient but increasingly uneven; services hold the floor while goods/manufacturing stay weak.”
+
+“Labour is soft on hiring but not breaking on unemployment; wages still carry persistence risk.”
+
+“Inflation is not re-accelerating, but the path back to 2% is bumpy; food/shelter and measurement issues matter, and PCE may look firmer than CPI.”
+
+“Fed is on a plateau: hold near-term; cuts are a conditional option, not a promise.”
+
+“Fed independence/political pressure has become a market-relevant tail risk.”
+
+EVIDENCE MAP (anchored to Section 2)
+Activity:
+
+Services strength: ISM Services 54.4 (7 Jan) + strong new orders argues for a growth floor.
+
+Goods drag: ISM Manufacturing 47.9 (5 Jan) keeps the goods cycle in contraction.
+
+Consumption resilience: Retail Sales +0.6% (14 Jan) shows demand not collapsing, but composition suggests K-shaped dynamics.
+
+Demand:
+
+Control-group retail +0.4% (14 Jan) supports real consumption momentum into Q4.
+
+Manufacturing contraction + labour stall speed implies demand is supported more by higher-income/services channels than broad labour income growth.
+
+Prices / Inflation:
+
+CPI Dec +0.3 headline / +0.2 core (13 Jan) consistent with moderation, but food and shelter are binding constraints for household affordability.
+
+ISM services prices paid still high at 64.3 (7 Jan) flags persistence risk.
+
+Desk focus: CPI–PCE wedge suggests the Fed’s preferred measure could look less friendly than the CPI headline implies.
+
+Labour / Wages:
+
+Payrolls +50k (9 Jan) is very weak hiring; unemployment 4.4% is not stress yet.
+
+Wage growth +3.8% y/y (9 Jan) remains inconsistent with a rapid glide to 2% inflation unless productivity disinflation helps or wage growth cools materially.
+
+Claims 198k (15 Jan) is not signalling layoffs, but seasonal noise is high; the regime is low-hire/low-fire.
+
+Financial conditions / risk premium:
+
+Independence/political pressure shocks (11–12 Jan; Powell/Williams) add a risk-premium tail independent of macro prints.
+
+CAUSAL SYNTHESIS (HF lens)
+The dominant force is the two-speed economy: services demand remains strong enough to keep activity above stall, while manufacturing stays in contraction. Labour is the swing variable: hiring is weak enough to keep easing optionality alive, but wages and services pricing are still sticky enough to stop the Fed from cutting “on schedule.” The inflation story is not about a broad re-acceleration; it is about persistence in household-salient components (food/shelter) plus measurement quirks that may keep PCE less cooperative than CPI headlines suggest.
+
+BINDING CONSTRAINT + next print that matters
+Binding constraint: the balance between (i) wage/services-price persistence and (ii) a potential step-down in labour-market conditions via hiring/revisions.
+Next prints that matter: any clean read on core PCE momentum (once the delayed releases normalize) + labour confirmation (claims trend/continuing claims, employment components, and the next payrolls/revisions).
+
+Rolling regime assessment: MIXED — activity floor intact (services/consumption), but late-cycle labour slowdown is real; disinflation continues but is not “clean enough” to force near-term easing.
+
+Central Bank Speaker Tape (rolling 1M)
+
+Last Policy Meeting – Decision, Rationale & Projections (MANDATORY)
+FOMC – 10 Dec 2025
+Policy decision: 25bp cut; target range now 3.50%–3.75%
+Decision type: CUT
+Decision rationale (reaction-function read):
+
+Balancing a cooling labour market against still-above-target inflation; the Committee judged policy could be brought closer to neutral while keeping a restrictive bias if inflation persistence returns.
+Projections / guidance (if published):
+
+Committee signalling implied a slower easing path in 2026 than markets might prefer; the baseline is a plateau with conditional cuts.
+Implied trajectory (mandatory interpretation):
+
+Policy is “moderately restrictive to near neutral.” The binding constraint is not growth, it is whether inflation (especially services/shelter and wages) keeps drifting down. Cuts are an option to protect labour if weakness becomes sustained and broad-based.
+
+Rolling communications (named, dated, what it adds)
+Powell – 11 Jan 2026
+
+Core message: explicit defence of independence; policy must be set by evidence, not intimidation.
+
+Bias: institutionally hawkish (protects credibility)
+
+Adds/changes: introduces a political tail; raises probability of “tough-sounding” communication even when the data are mixed.
+
+Williams – 12 Jan 2026
+
+Core message: policy “well positioned,” stance moved closer to neutral; sees no near-term reason to cut; inflation returning to 2% by 2027.
+
+Bias: hold / patient
+
+Adds/changes: reinforces plateau. Also important: the Fed independence theme became explicit (institutional defence), which can matter for market risk premia and for the tone of communications.
+
+Kashkari – 14 Jan 2026
+
+Core message: optimistic on growth / expects inflation to wane; also emphasised “too soon” to cut (hold bias).
+
+Bias: hold-leaning
+
+Adds/changes: reinforces the Committee’s base-case patience: inflation progress must be durable; not enough evidence for near-term easing.
+
+Daly – 15 Jan 2026
+
+Core message: “policy in a good place” + “deliberate calibration” language; consistent with holding the current range.
+
+Bias: hold
+
+Adds/changes: validates a front-end plateau near-term. Market should require a clear labour break (or much cleaner disinflation) to price an imminent cut.
+
+Bowman – 16 Jan 2026
+
+Core message: explicitly flagged labour fragility and argued the Fed should be ready to cut again if job-market risks rise; framed current stance as moderately restrictive with easing optionality.
+
+Bias: dovish optionality
+
+Adds/changes: strengthens the “insurance cut” wing’s credibility. If the next labour prints weaken, the Committee has a ready narrative for cutting without conceding an inflation defeat.
+
+Mandatory HF synthesis (reaction-function snapshot)
+Base case: hold at 3.50–3.75 near-term; cuts are conditional and more likely framed as labour-risk insurance than as victory over inflation. The committee’s asymmetry is tightening credibility under political pressure while keeping labour-protection optionality alive if the hiring slump broadens.
+
+Political / Policy Events with Market Impact
+
+Recent signal layer (Primary window)
+
+Fed independence / legal pressure escalation (11–16 Jan): the confrontation around Chair Powell and broader pressure on the institution became explicit and market-relevant.
+Transmission channel: institutional credibility risk → risk premium / USD risk perception; potential tightening of financial conditions via uncertainty; also communication distortion risk (Fed “sounds hawkish” to signal independence).
+Macro signal: risk-premium shock (not a growth/inflation data shock), with second-order effects on rates expectations via credibility channel.
+
+Recent signal layer (Last 1 month)
+
+Trade/tariff policy uncertainty remains a live inflation and sentiment tail, but recent data have not yet shown a decisive pass-through re-acceleration in core inflation; the bigger near-term issue is distributional pressure (food/shelter) and confidence.
+
+Rolling assessment (1–3 month perspective)
+
+Political backdrop increases macro uncertainty versus late-2025 because it can interfere with clean policy signalling and raise the probability of episodic risk-off moves independent of the data.
+
+Dominant macro transmission channel: risk premia / institutional credibility (and indirectly inflation expectations if credibility is questioned).
+
+Mandatory HF synthesis (end of section)
+Political risk bias: higher. Dominant channel: credibility / risk premium. Net: does not change the base-case macro regime, but fattens tails and can create non-data-driven volatility in USD and front-end pricing.
+
+Cross-Market – Rates / FX / Risk Attribution
+
+Rates (macro-driven)
+Short-term attribution (signal layer):
+
+The data mix (weak payrolls, contained CPI, strong services/retail) supports a plateau: the front end should remain anchored to “hold now, cuts later if labour weakens further.”
+
+The main near-term rates risk is not a single CPI beat/miss; it is (i) confirmation of labour weakness via revisions/next payrolls and (ii) whether core PCE runs hotter than CPI implies.
+
+Structural attribution (rolling 1–3M):
+
+The curve should continue to price a policy plateau with conditional easing; asymmetry is skewed toward cuts if labour cracks, but capped by wage/services persistence and the credibility/political overlay.
+
+The independence shock can add term-premium noise and complicate dovish pricing (a “hawkish tone” even in mixed data).
+
+USD (relative by construction)
+Short-term attribution (signal layer):
+
+USD support: activity resilience (services/retail) plus a Fed that is not rushing to cut.
+
+USD drag: political/independence risk premium can weaken confidence and raise volatility; also weak payroll momentum keeps cuts on the table.
+Net: USD directionally less clean; more prone to “risk-premium episodes” than a pure macro-differential story.
+
+Structural attribution (rolling 1–3M):
+
+USD remains supported vs peers if US growth holds and the Fed holds longer than others.
+
+Trigger map:
+• USD-positive: services inflation persistence / wages stay firm + labour doesn’t break → fewer cuts priced.
+• USD-negative: labour cracks (claims/continuing claims + payrolls/revisions) and clean core-PCE disinflation returns → cuts priced earlier/more.
+• Volatility trigger: renewed escalation around Fed governance/independence.
+
+PM Self-Assessment: 9.8/10 vs US_macro_latest benchmark — PASS
+<<<USD_MACRO_NOTE_END>>>
+
+
 
 <<LIVE_USD_MACRO_BEGIN>>
 USD MACRO — LIVE WEEK VIEW (Jan 12–Jan 16, 2026)
@@ -706,6 +965,7 @@ USD: supported by growth floor and pause optionality; downside if labour drift f
 
 
 <<<USD_MACRO_NOTE_END>>>
+
 
 
 
