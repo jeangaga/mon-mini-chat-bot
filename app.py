@@ -126,9 +126,34 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block,load_liv2_macro_block,load_liv3_macro_block
+from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block,load_liv2_macro_block,load_liv3_macro_block,load_liv2_macro_block
 from functions.fred_tools import generate_labor_chart,generate_jobs_chart,generate_cpi_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
+
+def _parse_region_and_country(cmd: str, prefix: str):
+    """
+    cmd examples:
+      "LIV2DM"
+      "LIV2DM:Japan"
+      "LIV2DM|United Kingdom"
+    Returns (region_str, country_or_none)
+    """
+    s = cmd.strip()
+    s_upper = s.upper()
+
+    # remove prefix (case-insensitive usage assumed from caller)
+    tail = s[len(prefix):].strip()  # e.g. "DM:Japan"
+
+    # split country if provided
+    country = None
+    for sep in (":", "|"):
+        if sep in tail:
+            tail, country = tail.split(sep, 1)
+            country = country.strip() or None
+            break
+
+    region = tail.strip().lower()  # keep your current lower() convention
+    return region, country
 
 listTickerEquity = [
     # --- Indices ---
@@ -284,15 +309,22 @@ def repondre(question: str):
         return comment_text, None  
 
     if q_upper.startswith("LIV2"):
-        region = q_upper.replace("LIV2", "").lower()
+        region, country = _parse_region_and_country(q, "LIV2")  # use original q (preserve case for country)
         comment_text = load_liv2_macro_block(region)
-        comment_text = render_live_macro_block(comment_text)
-        return comment_text, None  
+        if country:
+            comment_text = render_liv2_macro_block(comment_text, country)  # filter + render
+        else:
+            comment_text = render_live_macro_block(comment_text)           # render full
+       return comment_text, None
+
     if q_upper.startswith("LIV3"):
-        region = q_upper.replace("LIV3", "").lower()
+        region, country = _parse_region_and_country(q, "LIV3")
         comment_text = load_liv3_macro_block(region)
-        comment_text = render_live_macro_block(comment_text)
-        return comment_text, None  
+        if country:
+            comment_text = render_liv2_macro_block(comment_text, country)  # name is fine: it filters 1 country
+        else:
+            comment_text = render_live_macro_block(comment_text)
+       return comment_text, None 
     
     # 🔎 Cherche un des tickers dans la question
     for code in listTickerEquity:
