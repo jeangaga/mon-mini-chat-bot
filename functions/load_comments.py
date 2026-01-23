@@ -531,72 +531,72 @@ def load_liv3_macro_block(region: str) -> str:
 
 def render_liv2_macro_block(text: str, country: str) -> str:
     """
-    Select ONLY the releases for a given country from a LIVE macro block,
-    then render using render_live_macro_block().
+    Filter an already-extracted LIVE macro text to keep only the sections
+    for `country`, then render via render_live_macro_block().
 
-    - Does NOT touch extraction
-    - Does NOT change formatting logic
-    - Country match is strict: '<Country> —'
+    Matches country section headers like:
+      "<Country> — <Release title>"
+    accepting dash variants: -, – , —
     """
+    import re
+
     if not text:
         return "❌ Empty LIVE macro block."
-    if text.strip().startswith("❌"):
+    if str(text).strip().startswith("❌"):
         return text
     if not country:
         return "❌ Country not specified."
 
     country = country.strip()
-    lines = text.splitlines()
+    lines = str(text).splitlines()
 
     kept = []
-    i = 0
     keep_mode = False
 
-    # Regexes
-    country_start = re.compile(rf"^{re.escape(country)}\s+—")
-    any_country_start = re.compile(r"^[A-Za-z .()]+?\s+—")
-    day_header = re.compile(r"^[A-Z ]+(RELEASED|LIVE|PREVIEW)$")
+    # Accept hyphen/en-dash/em-dash after country
+    DASH = r"[-–—]"
 
-    while i < len(lines):
-        ln = lines[i]
+    # Country start: "Japan — ..."
+    country_start = re.compile(rf"^{re.escape(country)}\s*{DASH}\s+")
+
+    # Any country start: "United Kingdom — ..."
+    any_country_start = re.compile(rf"^[A-Za-z][A-Za-z .()&/]*\s*{DASH}\s+")
+
+    # Day header: "MONDAY 19 — RELEASED"
+    day_header = re.compile(rf"^[A-Z]+(?:\s+\d{{1,2}})?\s*{DASH}\s+(RELEASED|LIVE|PREVIEW)$")
+
+    for ln in lines:
         s = ln.strip()
 
-        # Always keep global structure
+        # Always keep global structure / wrappers
         if (
-            s.startswith("<<LIVE_")
-            or "LIVE WEEK VIEW" in s.upper()
+            (s.startswith("<<LIVE_") and s.endswith(">>"))
+            or ("LIVE WEEK VIEW" in s.upper())
             or s.upper().startswith("STATUS:")
             or day_header.match(s)
             or s == ""
         ):
             kept.append(ln)
             keep_mode = False
-            i += 1
             continue
 
         # Start of target country section
         if country_start.match(s):
             kept.append(ln)
             keep_mode = True
-            i += 1
             continue
 
-        # Start of another country → stop keeping
+        # Start of another country section -> stop keeping
         if any_country_start.match(s):
             keep_mode = False
-            i += 1
             continue
 
         # Inside target section
         if keep_mode:
             kept.append(ln)
 
-        i += 1
-
     filtered_text = "\n".join(kept).strip()
-
     if not filtered_text:
-        return f"⚠️ No releases found for {country}."
+        return f"⚠️ No releases found for {country} (check spelling vs headers)."
 
-    # Reuse your existing formatter exactly as-is
     return render_live_macro_block(filtered_text)
