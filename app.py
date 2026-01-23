@@ -126,7 +126,7 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block
+from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block,load_liv2_macro_block,load_liv3_macro_block
 from functions.fred_tools import generate_labor_chart,generate_jobs_chart,generate_cpi_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
@@ -280,6 +280,17 @@ def repondre(question: str):
     if q_upper.startswith("LIVE"):
         region = q_upper.replace("LIVE", "").lower()
         comment_text = load_live_macro_block(region)
+        comment_text = render_live_macro_block(comment_text)
+        return comment_text, None  
+
+    if q_upper.startswith("LIV2"):
+        region = q_upper.replace("LIV2", "").lower()
+        comment_text = load_liv2_macro_block(region)
+        comment_text = render_live_macro_block(comment_text)
+        return comment_text, None  
+    if q_upper.startswith("LIV3"):
+        region = q_upper.replace("LIV3", "").lower()
+        comment_text = load_liv3_macro_block(region)
         comment_text = render_live_macro_block(comment_text)
         return comment_text, None  
     
