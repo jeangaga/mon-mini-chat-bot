@@ -529,7 +529,7 @@ def load_liv3_macro_block(region: str) -> str:
     return "\n\n".join(blocks)
 
 
-def render_liv2_macro_block(text: str, country: str) -> str:
+def render_liv22_macro_block(text: str, country: str) -> str:
     """
     Filter an already-extracted LIVE macro text to keep only the sections
     for `country`, then render via render_live_macro_block().
@@ -600,3 +600,60 @@ def render_liv2_macro_block(text: str, country: str) -> str:
         return f"⚠️ No releases found for {country} (check spelling vs headers)."
 
     return render_live_macro_block(filtered_text)
+
+
+
+def render_liv2_macro_block(text: str, country: str) -> str:
+    import re
+
+    # ======================
+    # TEMP DEBUG (RETURN EARLY)
+    # ======================
+    lines = str(text).splitlines()
+    country_in = country
+
+    DASH = r"[-–—]"
+    country_start = re.compile(
+        rf"^{re.escape(country.strip())}\s*{DASH}\s+",
+        flags=re.IGNORECASE
+    )
+    any_country_start = re.compile(
+        rf"^[A-Za-z][A-Za-z .()&/]*\s*{DASH}\s+"
+    )
+
+    debug = []
+    debug.append("DEBUG render_liv2_macro_block")
+    debug.append(f"country (raw) = {repr(country_in)}")
+    debug.append(f"country (stripped) = {repr(country.strip())}")
+    debug.append(f"country_start regex = {country_start.pattern}")
+    debug.append(f"total lines = {len(lines)}")
+
+    any_hits = []
+    target_hits = []
+
+    for i, ln in enumerate(lines):
+        s = ln.strip()
+        if any_country_start.match(s):
+            any_hits.append((i, s))
+        if country_start.match(s):
+            target_hits.append((i, s))
+
+    debug.append(f"any_country_start hits = {len(any_hits)}")
+    for i, s in any_hits[:5]:
+        debug.append(f"  ANY {i}: {s}")
+
+    debug.append(f"country_start hits = {len(target_hits)}")
+    for i, s in target_hits[:5]:
+        debug.append(f"  TARGET {i}: {s}")
+
+    # show first 25 lines verbatim (to spot hidden chars)
+    debug.append("\nFIRST 25 LINES (RAW):")
+    for i in range(min(25, len(lines))):
+        debug.append(f"{i:03d}: {lines[i]}")
+
+    return "\n".join(debug)
+
+    # ======================
+    # NORMAL LOGIC BELOW (UNCHANGED, TEMP DISABLED)
+    # ======================
+
