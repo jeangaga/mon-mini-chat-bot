@@ -604,6 +604,16 @@ def render_liv22_macro_block(text: str, country: str) -> str:
 
 
 def render_liv2_macro_block(text: str, country: str) -> str:
+    """
+    Filter an already-extracted LIVE macro text to keep only the sections
+    for `country`, then render via render_live_macro_block().
+
+    - Does NOT touch extraction
+    - Uses lexical country section headers like:
+        "<Country> — <Release title>"
+      accepting dash variants: -, – , —
+    - Prunes empty day headers (days with no kept releases)
+    """
     import re
 
     if not text:
@@ -619,11 +629,15 @@ def render_liv2_macro_block(text: str, country: str) -> str:
     kept = []
     keep_mode = False
 
-    DASH = r"[-–—]"
+    DASH = r"[-–—]"  # hyphen / en dash / em dash
 
+    # Country start: "Japan — ..."
     country_start = re.compile(rf"^{re.escape(country)}\s*{DASH}\s+", flags=re.IGNORECASE)
+
+    # Any country start: "United Kingdom — ..."
     any_country_start = re.compile(rf"^[A-Za-z][A-Za-z .()&/]*\s*{DASH}\s+")
-    # ✅ STRICT day header (only weekday + day number + dash + status)
+
+    # STRICT day header: "MONDAY 19 — RELEASED"
     day_header = re.compile(
         rf"^(MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY)\s+\d{{1,2}}\s*{DASH}\s+(RELEASED|LIVE|PREVIEW)$"
     )
@@ -658,15 +672,43 @@ def render_liv2_macro_block(text: str, country: str) -> str:
         if keep_mode:
             kept.append(ln)
 
-    filtered_text = "\n".join(kept).strip()
-
     # If we never matched a country header, say so
     if not any(country_start.match(ln.strip()) for ln in lines):
         return f"⚠️ No releases found for '{country}' (country header not matched)."
 
+    # ------------------------------
+    # Prune empty day headers
+    # ------------------------------
+    pruned = []
+    i = 0
+    while i < len(kept):
+        s = kept[i].strip()
+
+        if day_header.match(s):
+            # Look ahead: keep this day only if a country section appears before the next day header
+            j = i + 1
+            has_release = False
+            while j < len(kept):
+                sj = kept[j].strip()
+                if day_header.match(sj):
+                    break
+                if any_country_start.match(sj):
+                    has_release = True
+                    break
+                j += 1
+
+            if has_release:
+                pruned.append(kept[i])
+            # else: silently drop empty day
+            i += 1
+            continue
+
+        pruned.append(kept[i])
+        i += 1
+
+    filtered_text = "\n".join(pruned).strip()
+
+    if not filtered_text:
+        return f"⚠️ No releases found for '{country}'."
+
     return render_live_macro_block(filtered_text)
-
-    # ======================
-    # NORMAL LOGIC BELOW (UNCHANGED, TEMP DISABLED)
-    # ======================
-
