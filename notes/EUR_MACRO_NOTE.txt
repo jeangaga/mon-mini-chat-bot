@@ -1,3 +1,148 @@
+<<LIVE_EUR_MACRO_BEGIN>>
+
+EURO AREA MACRO — LIVE WEEK VIEW (JAN 19–23, 2026)
+STATUS: Live as of Friday close
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+MONDAY 19 JAN — RELEASED
+
+EURO AREA HICP FINAL (DEC)
+• HICP m/m: 0.2% (consensus 0.2; prior -0.3)
+• HICP y/y: 1.9% (consensus 2.0; prior 2.0) — downside surprise
+• Core HICP (ex F,E,A&T) y/y: 2.3% (consensus 2.3; prior 2.3)
+
+COMMENT (HF sensitivity)
+Dominant signal: headline inflation confirms a clean move below target into year-end — disinflation is intact and now fully embedded in the macro narrative.
+Secondary: core stability matters more than the headline miss; services inflation remains the constraint, but is not re-accelerating.
+Noise: final revisions are low-signal; the level (<2%) is what matters.
+Reaction function (ECB): reinforces “comfortable hold”; further trims residual late-2026 hike tails.
+Transmission: mild front-end bull bias; EUR reaction muted given stable core.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TUESDAY 20 JAN — RELEASED
+
+GERMANY PRODUCER PRICES (DEC)
+• PPI m/m: -0.2% (consensus -0.1; prior 0.0)
+• PPI y/y: -2.5% (consensus -2.4; prior -2.3)
+
+COMMENT (HF sensitivity)
+Dominant signal: goods pipeline disinflation persists — factory-gate prices remain deeply negative y/y.
+Secondary: undercuts any concern that recent PMI price components reflect goods-led inflation pressure.
+Noise: energy/base effects still distort y/y, but m/m confirms direction.
+Reaction function (ECB): dovish skew on goods; focus remains services/wages.
+Transmission: supportive for duration; negligible FX impact.
+
+— — —
+
+EURO AREA CURRENT ACCOUNT (NOV)
+• SA balance: €8.6bn (prior €26.7bn)
+• NSA balance: €12.6bn (prior €33.0bn)
+
+COMMENT (HF sensitivity)
+Dominant signal: sharp narrowing of the surplus — external support weaker on the margin.
+Secondary: import normalization vs export softness will matter for Q4 GDP arithmetic.
+Noise: volatile monthly series.
+Reaction function (ECB): none direct.
+Transmission: slightly softer EUR external-support narrative.
+
+— — —
+
+GERMANY ZEW (JAN)
+• Expectations: 59.6 (consensus 50.0; prior 45.8) — major upside
+• Current conditions: -72.7 (consensus -76.0; prior -81.0)
+
+COMMENT (HF sensitivity)
+Dominant signal: forward-looking sentiment prices a cyclical improvement ahead.
+Secondary: current conditions remain deeply weak — “better ahead” vs “weak now”.
+Noise: ZEW is market-sensitive and can overshoot.
+Reaction function (ECB): reduces hard-landing tail; not inflation-relevant.
+Transmission: supports cyclicals; limited rates impact absent hard-data confirmation.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THURSDAY 22 JAN — RELEASED
+
+EURO AREA CONSUMER CONFIDENCE (FLASH, JAN)
+• -12.4 (consensus -12.9; prior -13.1)
+
+COMMENT (HF sensitivity)
+Dominant signal: incremental improvement, but confidence remains depressed.
+Secondary: consistent with elevated saving and cautious consumption.
+Reaction function (ECB): neutral.
+Transmission: negligible.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FRIDAY 23 JAN — RELEASED
+
+FRANCE BUSINESS CLIMATE (JAN)
+• Manufacturing: 105 (consensus 101; prior 102)
+• Overall: 99 (prior 99)
+
+COMMENT (HF sensitivity)
+Dominant signal: manufacturing sentiment improves, but clashes with services weakness.
+Secondary: stabilisation, not acceleration.
+Transmission: limited.
+
+— — —
+
+PMI FLASHES (JAN)
+
+France
+• Mfg: 51.0 | Services: 47.9 | Composite: 48.6
+
+Germany
+• Mfg: 48.7 | Services: 53.3 | Composite: 52.5
+
+Euro Area
+• Mfg: 49.4 | Services: 51.9 | Composite: 51.5
+
+COMMENT (HF sensitivity)
+Dominant signal: widening dispersion and services slowdown — EA remains in expansion, but growth momentum is less clean.
+Secondary: France emerges as the weak link; Germany holds via services.
+Key nuance: PMI price components firm, keeping services-inflation risk alive despite benign headline CPI.
+Reaction function (ECB): reinforces wait-and-see; inflation near target but not “won”.
+Transmission: mixed risk; rates anchored, equities trade dispersion.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WEEK SYNTHESIS — WHAT’S NEW / NARRATIVE
+
+What changed this week
+• Headline inflation decisively below target (1.9%) — strongest anchor for the ECB hold narrative.
+• Goods disinflation reconfirmed via German PPI.
+• Growth remains positive but uneven; PMI services lose momentum.
+• Germany sentiment improves sharply, strengthening the “improvement ahead” story.
+
+HF framing
+The market narrative is now a three-way tension:
+
+Inflation behaving (headline <2, core stable)
+
+Growth positive but fragile and dispersed
+
+Services price pressure preventing a full dovish pivot
+
+What would flip the story
+• Actual services inflation re-accelerating → hawkish tails reopen
+• France weakness spreading to orders/employment → growth downside rises
+• Persistent CA compression → marginal EUR headwind
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOURCES / TAPE (IMPLICIT)
+
+Reuters macro calendar & flashes
+Reuters PMI tape (HCOB)
+Reuters Eurostat CPI / HICP releases
+Reuters ZEW coverage
+Bloomberg Euro Area inflation & ECB reaction-function commentary
+Public HF macro blogs (EA inflation / services price pressure focus)
+
+<<LIVE_EUR_MACRO_END>>
+
 
 <<<EUR_MACRO_NOTE_BEGIN>>>
 EUR Macro Note — HF Live Run
@@ -1195,6 +1340,7 @@ Rates: upside risk to yields at the front end; long-end still trades global-beta
 From a hedge-fund macro perspective, EA data no longer justify a pure “dovish ECB / long duration” theme. The more interesting angle is relative policy divergence (ECB vs Fed/BoE) and intra-EA growth dispersion (Spain/Italy vs Germany) rather than outright EA collapse or reflation.
 
 <<<EUR_MACRO_NOTE_END>>>
+
 
 
 
