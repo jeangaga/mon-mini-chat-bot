@@ -527,3 +527,76 @@ def load_liv3_macro_block(region: str) -> str:
         blocks.append("⚠️ Only " + str(len(blocks)) + " LIVE block(s) found.")
 
     return "\n\n".join(blocks)
+
+
+def render_liv2_macro_block(text: str, country: str) -> str:
+    """
+    Select ONLY the releases for a given country from a LIVE macro block,
+    then render using render_live_macro_block().
+
+    - Does NOT touch extraction
+    - Does NOT change formatting logic
+    - Country match is strict: '<Country> —'
+    """
+    if not text:
+        return "❌ Empty LIVE macro block."
+    if text.strip().startswith("❌"):
+        return text
+    if not country:
+        return "❌ Country not specified."
+
+    country = country.strip()
+    lines = text.splitlines()
+
+    kept = []
+    i = 0
+    keep_mode = False
+
+    # Regexes
+    country_start = re.compile(rf"^{re.escape(country)}\s+—")
+    any_country_start = re.compile(r"^[A-Za-z .()]+?\s+—")
+    day_header = re.compile(r"^[A-Z ]+(RELEASED|LIVE|PREVIEW)$")
+
+    while i < len(lines):
+        ln = lines[i]
+        s = ln.strip()
+
+        # Always keep global structure
+        if (
+            s.startswith("<<LIVE_")
+            or "LIVE WEEK VIEW" in s.upper()
+            or s.upper().startswith("STATUS:")
+            or day_header.match(s)
+            or s == ""
+        ):
+            kept.append(ln)
+            keep_mode = False
+            i += 1
+            continue
+
+        # Start of target country section
+        if country_start.match(s):
+            kept.append(ln)
+            keep_mode = True
+            i += 1
+            continue
+
+        # Start of another country → stop keeping
+        if any_country_start.match(s):
+            keep_mode = False
+            i += 1
+            continue
+
+        # Inside target section
+        if keep_mode:
+            kept.append(ln)
+
+        i += 1
+
+    filtered_text = "\n".join(kept).strip()
+
+    if not filtered_text:
+        return f"⚠️ No releases found for {country}."
+
+    # Reuse your existing formatter exactly as-is
+    return render_live_macro_block(filtered_text)
