@@ -438,3 +438,92 @@ def render_live_macro_block(text: str) -> str:
         out.pop()
 
     return "\n".join(out)
+
+
+def load_liv2_macro_block(region: str) -> str:
+    """
+    Load the FIRST TWO LIVE macro blocks for a given region from GitHub
+    and output them concatenated (separated by blank lines).
+
+    File convention (same as your existing function):
+      notes/<REGION>_MACRO_NOTE.txt   (e.g., USD_MACRO_NOTE.txt)
+
+    Block markers (same as your existing function):
+      <<LIVE_<REGION>_MACRO_BEGIN>> ... <<LIVE_<REGION>_MACRO_END>>
+    """
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"{reg}_MACRO_NOTE.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
+    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No LIVE macro file for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading LIVE macro for {reg}: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return f"❌ LIVE markers not found in {filename}: {begin_tag} ... {end_tag}"
+
+    # Take first two blocks if available
+    first = matches[0].strip()
+    if len(matches) >= 2:
+        second = matches[1].strip()
+        return first + "\n\n" + second
+
+    # If only one block exists, return it with an explicit note
+    return first + "\n\n" + "⚠️ Only one LIVE block found (no second block present)."
+
+def load_liv3_macro_block(region: str) -> str:
+    """
+    Load the FIRST THREE LIVE macro blocks for a given region from GitHub
+    and output them concatenated (separated by blank lines).
+
+    File convention (same as existing functions):
+      notes/<REGION>_MACRO_NOTE.txt   (e.g., USD_MACRO_NOTE.txt)
+
+    Block markers:
+      <<LIVE_<REGION>_MACRO_BEGIN>> ... <<LIVE_<REGION>_MACRO_END>>
+    """
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"{reg}_MACRO_NOTE.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
+    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No LIVE macro file for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading LIVE macro for {reg}: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return f"❌ LIVE markers not found in {filename}: {begin_tag} ... {end_tag}"
+
+    blocks = [m.strip() for m in matches[:3]]
+
+    if len(blocks) < 3:
+        blocks.append("⚠️ Only " + str(len(blocks)) + " LIVE block(s) found.")
+
+    return "\n\n".join(blocks)
