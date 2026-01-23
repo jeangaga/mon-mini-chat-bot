@@ -315,7 +315,7 @@ def repondre(question: str):
             comment_text = render_liv2_macro_block(comment_text, country)  # filter + render
         else:
             comment_text = render_live_macro_block(comment_text)           # render full
-       return comment_text, None
+        return comment_text, None
 
     if q_upper.startswith("LIV3"):
         region, country = _parse_region_and_country(q, "LIV3")
@@ -324,7 +324,7 @@ def repondre(question: str):
             comment_text = render_liv2_macro_block(comment_text, country)  # name is fine: it filters 1 country
         else:
             comment_text = render_live_macro_block(comment_text)
-       return comment_text, None 
+        return comment_text, None 
     
     # 🔎 Cherche un des tickers dans la question
     for code in listTickerEquity:
