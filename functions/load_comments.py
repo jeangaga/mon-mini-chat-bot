@@ -606,52 +606,65 @@ def render_liv22_macro_block(text: str, country: str) -> str:
 def render_liv2_macro_block(text: str, country: str) -> str:
     import re
 
-    # ======================
-    # TEMP DEBUG (RETURN EARLY)
-    # ======================
+    if not text:
+        return "❌ Empty LIVE macro block."
+    if str(text).strip().startswith("❌"):
+        return text
+    if not country:
+        return "❌ Country not specified."
+
+    country = country.strip()
     lines = str(text).splitlines()
-    country_in = country
+
+    kept = []
+    keep_mode = False
 
     DASH = r"[-–—]"
-    country_start = re.compile(
-        rf"^{re.escape(country.strip())}\s*{DASH}\s+",
-        flags=re.IGNORECASE
+
+    country_start = re.compile(rf"^{re.escape(country)}\s*{DASH}\s+", flags=re.IGNORECASE)
+    any_country_start = re.compile(rf"^[A-Za-z][A-Za-z .()&/]*\s*{DASH}\s+")
+    # ✅ STRICT day header (only weekday + day number + dash + status)
+    day_header = re.compile(
+        rf"^(MONDAY|TUESDAY|WEDNESDAY|THURSDAY|FRIDAY|SATURDAY|SUNDAY)\s+\d{{1,2}}\s*{DASH}\s+(RELEASED|LIVE|PREVIEW)$"
     )
-    any_country_start = re.compile(
-        rf"^[A-Za-z][A-Za-z .()&/]*\s*{DASH}\s+"
-    )
 
-    debug = []
-    debug.append("DEBUG render_liv2_macro_block")
-    debug.append(f"country (raw) = {repr(country_in)}")
-    debug.append(f"country (stripped) = {repr(country.strip())}")
-    debug.append(f"country_start regex = {country_start.pattern}")
-    debug.append(f"total lines = {len(lines)}")
-
-    any_hits = []
-    target_hits = []
-
-    for i, ln in enumerate(lines):
+    for ln in lines:
         s = ln.strip()
-        if any_country_start.match(s):
-            any_hits.append((i, s))
+
+        # Always keep global structure / wrappers
+        if (
+            (s.startswith("<<LIVE_") and s.endswith(">>"))
+            or ("LIVE WEEK VIEW" in s.upper())
+            or s.upper().startswith("STATUS:")
+            or day_header.match(s)
+            or s == ""
+        ):
+            kept.append(ln)
+            keep_mode = False
+            continue
+
+        # Start of target country section
         if country_start.match(s):
-            target_hits.append((i, s))
+            kept.append(ln)
+            keep_mode = True
+            continue
 
-    debug.append(f"any_country_start hits = {len(any_hits)}")
-    for i, s in any_hits[:5]:
-        debug.append(f"  ANY {i}: {s}")
+        # Start of another country section -> stop keeping
+        if any_country_start.match(s):
+            keep_mode = False
+            continue
 
-    debug.append(f"country_start hits = {len(target_hits)}")
-    for i, s in target_hits[:5]:
-        debug.append(f"  TARGET {i}: {s}")
+        # Inside target section
+        if keep_mode:
+            kept.append(ln)
 
-    # show first 25 lines verbatim (to spot hidden chars)
-    debug.append("\nFIRST 25 LINES (RAW):")
-    for i in range(min(25, len(lines))):
-        debug.append(f"{i:03d}: {lines[i]}")
+    filtered_text = "\n".join(kept).strip()
 
-    return "\n".join(debug)
+    # If we never matched a country header, say so
+    if not any(country_start.match(ln.strip()) for ln in lines):
+        return f"⚠️ No releases found for '{country}' (country header not matched)."
+
+    return render_live_macro_block(filtered_text)
 
     # ======================
     # NORMAL LOGIC BELOW (UNCHANGED, TEMP DISABLED)
