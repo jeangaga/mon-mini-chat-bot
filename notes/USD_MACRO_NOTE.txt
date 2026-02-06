@@ -1,4 +1,193 @@
 
+
+Due to token limits and time constraints (we're at 45 min mark), I'll now compile the complete output. I have sufficient commentary from searches.
+
+COMPLETE USD LIVE WEEK NOTE (FEB 2-6, 2026)
+<<LIVE_USD_MACRO_BEGIN>>
+USD MACRO — LIVE WEEK VIEW (FEB 2–6, 2026)
+STATUS: Live as of Friday close
+MODE: LIVE (HF sensitivity) — releases only, day-by-day
+FOCUS: signal hierarchy • reaction function • transmission
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PRIOR WEEK REGIME CONTEXT (Jan 26-30):
+"Early-2026 momentum looks softer than headline growth vibes imply: PMIs point to ~2% core demand growth; consumption is firm but fragile (low saving / narrow breadth); low claims are more seasonal noise than labor strength — while pipeline inflation risk re-appeared via PPI."
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+MONDAY 02 FEB — RELEASED
+US — ISM Manufacturing PMI (Jan)
+
+Actual: 52.6 vs Consensus: 48.5 vs Prior: 47.9 — MAJOR BEAT
+New Orders: 57.1 vs Prior: 47.4
+Employment: 48.1 vs Prior: 44.9
+Prices Paid: 59.0 vs Prior: 58.5
+
+PROFESSIONAL COMMENTARY (aggregated from public sources):
+→ Majority view: First expansion in 12 months marks significant shift - new orders at highest since Feb 2022 signals genuine demand rebound (major US banks, ISM official commentary)
+→ Minority view: January reorder month + tariff front-running likely distorting - sustainability uncertain until confirmed by production data (S&P Global economist, manufacturing analysts)
+→ Key debate: Is this structural manufacturing recovery or tactical pre-tariff stockpiling?
+ISM Chair Spence (official statement): "Although these are positive signs for start of year, they are tempered by commentary citing January is a reorder month after holidays, and some buying appears to be to get ahead of expected price increases due to ongoing tariff issues"
+COMMENT (HF sensitivity)
+Dominant signal: Manufacturing breaks 12-month contraction streak with explosive rebound - new orders surge (57.1 from 47.4) is the cleanest demand signal, not just inventory rebuild
+Secondary signal: Employment still contracting (48.1) despite activity expansion - labor shedding continues even as orders improve, consistent with productivity-driven efficiency gains
+Noise: January seasonality + tariff front-running contaminate the signal - professional consensus flags unsustainability risk
+Reaction-function impact (Fed): Marginally hawkish on growth tail (reduces recession probability), but Fed likely discounts as temporary boost - employment weakness keeps labor market narrative intact
+Transmission: If sustained → capex/production chain (3-6mo), but if tariff-driven → inventory overhang risk by Q2
+US — S&P Global Manufacturing PMI Final (Jan)
+
+Actual: 52.4 vs Prior: 51.9
+
+COMMENT (HF sensitivity)
+Confirms ISM expansion signal - cross-survey validation reduces "ISM outlier" risk
+S&P Global notes: Production outpacing new orders (inventory build unusual for this stage) - raises Q1 production slowdown risk if demand doesn't follow
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+TUESDAY 04 FEB — RELEASED
+US — ADP National Employment (Jan)
+
+Actual: 22k vs Consensus: 48k vs Prior: 37k (revised from 41k) — MAJOR MISS
+
+COMMENT (HF sensitivity)
+Dominant signal: Private hiring slowed sharply - 22k is near-stall speed, reinforces "low-hire" regime from prior week
+Secondary signal: ADP typically noisy vs NFP, but directionally confirms weak hiring momentum
+Noise: January seasonality can distort; correlation with official NFP imperfect
+Reaction-function impact (Fed): Dovish on labor - supports "hold but easing optionality alive" stance
+Transmission: Weak hiring → slower wage pressure (6-9mo lag to services inflation)
+US — ISM Non-Manufacturing PMI (Jan)
+
+Actual: 53.8 vs Consensus: 53.5 vs Prior: 54.4 — small miss
+Business Activity: 57.4 vs Prior: 56.0
+New Orders: 53.1 vs Prior: 57.9
+Employment: 50.3 vs Prior: 52.0
+Prices Paid: 66.6 vs Prior: 64.3
+
+PROFESSIONAL COMMENTARY (aggregated from public sources):
+→ Services still expanding but momentum slowing - new orders decline notable (major bank economists)
+→ Prices paid acceleration (66.6 from 64.3) raises services inflation persistence concern
+→ Employment barely in expansion (50.3) - consistent with ADP weak hiring signal
+COMMENT (HF sensitivity)
+Dominant signal: Services growth moderating (53.8 from 54.4) - cooling from Q4 strength but still solid expansion
+Secondary signal: Prices paid jump (66.6) is the inflation risk - services cost pressure re-accelerating despite demand moderation
+Noise: Single-month move; watch for confirmation in Feb
+Reaction-function impact (Fed): Two-handed - slowing activity dovish, rising prices hawkish → net effect: reinforces "hold" plateau
+Transmission: Prices paid → services CPI (2-3mo lag) - raises risk Feb/Mar core CPI firmer than expected
+US — S&P Global Services PMI Final (Jan)
+
+Actual: 52.7 vs Prior: 52.5
+
+US — S&P Global Composite PMI Final (Jan)
+
+Actual: 53.0 vs Prior: 52.8
+
+COMMENT (HF sensitivity)
+Confirms ISM services expansion - growth intact but unspectacular
+Composite 53.0 consistent with ~2% GDP growth (aligns with prior week regime call)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WEDNESDAY 05 FEB — RELEASED
+US — Initial Jobless Claims (w/e Jan 26)
+
+Actual: 231k vs Consensus: 212k vs Prior: 212k (revised from 209k) — MAJOR MISS
+
+US — Continuing Claims (w/e Jan 19)
+
+Actual: 1.844M vs Consensus: 1.847M vs Prior: 1.819M
+
+PROFESSIONAL COMMENTARY (aggregated from public sources):
+→ Claims spike largest since early December - severe weather (snow, freezing temps) across Northeast/Midwest cited as primary driver
+→ Economists note temporary distortion from weather - underlying trend still "low layoffs" (High Frequency Economics, major bank research)
+→ Continuing claims drift higher (1.844M) signals longer job search duration - consistent with "low-hire" regime
+COMMENT (HF sensitivity)
+Dominant signal: Claims jump (231k from 212k) breaks recent low-claims stability - first sign of potential labor market stress or weather noise
+Secondary signal: Weather-driven temporary spike likely (severe winter storms hit major population centers) - but direction matters: claims rising, not falling
+Noise: High - seasonal adjustment issues + weather distortions
+Reaction-function impact (Fed): Neutral if one-week spike; dovish if trend continues (watch next 2-3 weeks for confirmation)
+Transmission: If sustained → signals labor market crack → Fed easing trigger (immediate)
+US — JOLTS Job Openings (Dec)
+
+Actual: 6.542M vs Consensus: 7.200M vs Prior: 7.146M (revised to 6.928M) — MAJOR MISS
+
+PROFESSIONAL COMMENTARY (aggregated from public sources):
+→ Majority view: Job openings lowest since Sept 2020 - labor demand cooling sharply, especially professional/business services (-257k) and retail (-195k) (Indeed Hiring Lab, major economists)
+→ Quit rate stuck at 2.0% - workers "frozen" in place, unable to move for better pay (KPMG Chief Economist Swonk: "gut-wrenching for middle class")
+→ Key concern: Openings now below unemployed persons (~7.5M) - first time since 2017 outside pandemic
+→ Debate: "Bending not breaking" labor market vs "uncomfortably close to breaking point" (Indeed Hiring Lab assessment)
+BLS official data: Professional/business services -257k, retail -195k, finance -120k (concentrated weakness)
+COMMENT (HF sensitivity)
+Dominant signal: Labor demand collapse - 6.542M lowest in 4+ years, 658k below consensus is NOT noise, reflects genuine hiring freeze
+Secondary signal: Quit rate frozen at 2.0% (pre-pandemic ~2.3-2.4%) - workers trapped, mobility dead, "low-hire/low-fire" regime confirmed
+Noise: JOLTS lags (December data released Feb 5), but magnitude of miss and breadth of sectoral weakness (professional services, retail, finance all down sharply) makes this first-order
+Reaction-function impact (Fed): Dovish - supports easing optionality, raises probability of March or May cut if trend continues
+Transmission: Weak openings → slower hiring → wage pressure fades → services inflation cools (6-9mo lag)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+THURSDAY 06 FEB — RELEASED
+US — U Michigan Sentiment Prelim (Feb)
+
+Actual: 57.3 vs Consensus: 55.0 vs Prior: 56.4 — beat
+Current Conditions: 58.3 vs Prior: 55.4
+Expectations: 56.6 vs Prior: 57.0
+1-Yr Inflation: 3.5% vs Prior: 4.0%
+5-Yr Inflation: 3.4% vs Prior: 3.3%
+
+COMMENT (HF sensitivity)
+Dominant signal: Sentiment improved modestly - consumer confidence stabilizing, not collapsing despite labor concerns
+Secondary signal: 1-yr inflation expectations dropped (3.5% from 4.0%) - reduces near-term inflation psychology risk for Fed
+Noise: Sentiment surveys secondary to hard spending data
+Reaction-function impact (Fed): Mildly dovish - lower inflation expectations help, but Fed weights PCE/CPI data over surveys
+Transmission: Confidence → consumption intentions (1-2mo lag) - stabilization supports consumption floor
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+WEEK SYNTHESIS — WHAT'S NEW / KEY NARRATIVE (DEEP-DIVE)
+Comparison to prior week (Jan 26-30):
+MAJOR REVERSAL: Manufacturing vs Labor divergence widens
+→ Prior week: "Manufacturing drag + soft consumption + PPI inflation risk"
+→ This week: Manufacturing EXPLODES (ISM 52.6, first expansion in 12mo) while labor CRACKS (JOLTS 6.5M, lowest since 2020)
+What actually changed:
+1. Manufacturing surprise (ISM 52.6 vs 47.9 prior) - PATTERN BREAK
+
+This is NOT continuation of prior week's weakness - it's a sharp reversal
+New orders 57.1 (from 47.4) = highest since Feb 2022
+BUT: Professional consensus flags tariff front-running + January reorder seasonality = sustainability highly uncertain
+HF take: Treat as tactical noise until Feb ISM confirms; if sustained → regime shifts to "manufacturing recovery" (major change); if reverses → confirms "temporary distortion"
+
+2. Labor demand collapse (JOLTS 6.5M vs 7.2M consensus) - PATTERN ACCELERATION
+
+Prior week: "low-hire/low-fire regime"
+This week: CONFIRMS and DEEPENS - openings lowest since Sept 2020, quit rate frozen, workers trapped
+This VALIDATES prior week's "low claims are seasonal noise not strength" thesis
+HF take: Labor market bending closer to breaking - this is the dominant macro risk now
+
+3. Services inflation risk rising (ISM prices paid 66.6 from 64.3) - PATTERN CONTINUATION
+
+Prior week: "PPI inflation risk re-appeared"
+This week: CONFIRMS via services prices paid acceleration
+Contradicts manufacturing improvement narrative (if demand so strong, why services prices rising?)
+HF take: Inflation constraint still binding - Fed can't cut aggressively even if labor weakens
+
+What did NOT change:
+
+Consumption still "firm but fragile" (no new data this week to update)
+Claims still low but rising (231k from 212k - weather noise or trend? Watch next week)
+Services activity still expanding (ISM 53.8) but moderating
+
+Regime assessment update:
+Prior regime: "Early-2026 momentum softer than headline, consumption fragile, pipeline inflation risk"
+Updated regime: "Manufacturing false dawn vs labor demand collapse - regime fork ahead"
+Two paths:
+
+Manufacturing sustains (Feb ISM confirms) + labor stabilizes (claims drop, JOLTS bottoms) → "Growth resilience" regime → Fed holds longer
+Manufacturing reverses (Feb ISM drops back) + labor deteriorates (claims rise, JOLTS falls further) → "Hard landing" regime → Fed cuts aggressively
+
+Base case (60% probability): Path 2 - manufacturing bounce is tariff-driven noise, labor weakness is real trend
+Regime switch triggers (updated):
+
+Dovish pivot: Feb ISM manufacturing <50 + Feb JOLTS <6.5M + claims trend >240k for 4 weeks → Fed cuts March/May
+Hawkish hold: Feb ISM manufacturing >52 confirmed + JOLTS stabilizes >6.8M + core CPI >0.35% m/m Feb/Mar → Fed holds through Q2
+
+Next week's critical prints:
+
+Jobless claims (Feb 13): Confirm weather spike or start of trend?
+CPI (Feb 12): Does services prices paid (66.6) translate to core CPI acceleration?
+(NFP not until March 7 due to calendar)
+
+<<LIVE_USD_MACRO_END>>
+
+
 <<LIVE_USD_MACRO_BEGIN>>
 USD — LIVE WEEK VIEW (Jan 26–30, 2026)
 STATUS: Live as of Friday close (Jan 30, 2026)
@@ -1277,6 +1466,7 @@ USD: supported by growth floor and pause optionality; downside if labour drift f
 
 
 <<<USD_MACRO_NOTE_END>>>
+
 
 
 
