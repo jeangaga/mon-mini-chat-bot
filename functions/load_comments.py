@@ -226,6 +226,38 @@ def load_eur_macro_comment() -> str:
     first_block = matches[0].strip()
     return first_block
 
+
+def load_live_week() -> str:
+    """
+    Charge la note EUR macro depuis GitHub (EUR_MACRO_NOTE.txt)
+    et renvoie le PREMIER bloc entre
+    <<<EUR_MACRO_NOTE_BEGIN>>> et <<<EUR_MACRO_NOTE_END>>>.
+    """
+    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/WEEK.txt"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ Aucun commentaire EUR macro trouvé (HTTP {r.status_code})."
+    except Exception as e:
+        return f"Erreur lors du chargement du commentaire EUR macro : {e}"
+
+    text = r.text
+
+    pattern = r"<<WEEK_BEGIN>>(.*?)<<WEEK_END>>"
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return (
+            "❌ Aucune balise <<<EUR_MACRO_NOTE_BEGIN>>> ... "
+            "<<<EUR_MACRO_NOTE_END>>> trouvée dans le fichier EUR macro."
+        )
+
+    first_block = matches[0].strip()
+    return first_block
+
+
+
 import re
 import requests
 SEP_EQ_RE = re.compile(r"^={3,}$")
