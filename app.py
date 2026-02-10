@@ -126,7 +126,7 @@ import re
 import json
 from datetime import date, timedelta
 import html
-from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block,load_liv2_macro_block,load_liv3_macro_block,render_liv2_macro_block
+from functions.load_comments import load_stock_comment, load_index_comment, load_macro_note, load_eur_macro_comment,load_live_macro_block,render_live_macro_block,load_liv2_macro_block,load_liv3_macro_block,render_liv2_macro_block,load_live_week
 from functions.fred_tools import generate_labor_chart,generate_jobs_chart,generate_cpi_chart
 from functions.yahoo_tools import load_indices_ohlc, generate_ohlc
 
@@ -299,7 +299,11 @@ def repondre(question: str):
         region = q_upper.replace("MACRO", "").lower()
         comment_text = load_macro_note(region)
         return comment_text, None  
-
+    
+    if q_upper.startswith("WEEK"):
+        comment_text = load_live_week()
+        comment_text = render_live_macro_block(comment_text)
+        return comment_text, None  
 
 
     if q_upper.startswith("LIVE"):
