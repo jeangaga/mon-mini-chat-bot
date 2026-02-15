@@ -1,8 +1,125 @@
 
+<<LIVE_USD_MACRO_BEGIN>>
+USA DATA ONLY - Week of February 9–13, 2026
 
-Due to token limits and time constraints (we're at 45 min mark), I'll now compile the complete output. I have sufficient commentary from searches.
+TUESDAY, FEBRUARY 10
+United States — Import Prices (Dec) — 14:30 EST
+1️⃣ Reuters Data (mechanical)
+MoM: +0.1% | Prior: +0.4% | Poll: +0.1% | Surprise: 0bp
+YoY: 0.0% | Prior: -0.1% (rev)
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Minimal incremental desk color beyond "external inflation channel muted."
+3️⃣ Comment — Economist layer (JGM embedded)
+Reinforces that CPI's core risk is domestic services/wages, not imported goods.
+JGM lens: keeps focus on wage-sensitive categories and shelter/services decomposition.
+4️⃣ HF Take — Strategist layer
+Supports "Fed can wait": no external inflation forcing hand.
+United States — Retail Sales (Dec) — 14:30 EST ✅ (correct placement)
+1️⃣ Reuters Data (mechanical)
+Headline MoM: 0.0% | Prior: +0.6% | Poll: +0.4% | Surprise: -40bp
+Ex-Autos MoM: 0.0% | Prior: +0.4% (rev) | Poll: +0.3% | Surprise: -30bp
+Retail Control: -0.1% | Prior: +0.2% (rev) | Poll: +0.4% | Surprise: -50bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desk focus: the control miss = "stalling momentum / growth scare."
+Composition: discretionary weakness (furniture/electronics/general merchandise) emphasized; gasoline/nonstore treated as non-signal.
+Immediate reaction (as captured): yields fell, USD struggled; "no-growth landing" language appeared in some wraps.
+3️⃣ Comment — Economist layer (JGM embedded)
+Control matters because it feeds real consumption/GDP tracking.
+A plausible mechanical story is holiday pull-forward (Nov strength → Dec payback), but composition suggests discretionary constraint rather than a single-category accident.
+JGM lens: the key is whether weakness is volume/real (units) vs nominal supported by price—if it's real/volume weakness, it's more durable as a demand signal.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Raises probability weight on "demand bending," which makes markets more sensitive to any CPI disinflation confirmation.
+But it doesn't force cuts: with labor still stable, Fed can treat it as restrictive policy "working" rather than a trigger.
+Gating: next retail print + CPI composition determine whether this is a trend or a pull-forward payback.
+United States — Employment Cost Index (Q4) — 14:30 EST
+1️⃣ Reuters Data (mechanical)
+QoQ: +0.7% | Prior: +0.8% | Poll: +0.8% | Surprise: -10bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desks highlighted: ECI (Fed-preferred) showing more cooling than AHE; "Fed comfort" signal in wage dynamics.
+3️⃣ Comment — Economist layer (JGM embedded)
+Confirms wage-pressure downshift in a cleaner gauge than AHE.
+JGM lens: this is a key reconciliation variable versus NFP wage noise—ECI keeps the "cooling wages" channel credible.
+4️⃣ HF Take — Strategist layer
+Helps keep the "cuts later in year" scenario alive, but CPI services is still the gate.
 
-COMPLETE USD LIVE WEEK NOTE (FEB 2-6, 2026)
+WEDNESDAY, FEBRUARY 11
+United States — Employment Report (NFP, Jan) — 14:30 EST
+1️⃣ Reuters Data (mechanical)
+NFP: +130k | Prior: +50k (rev +48k) | Poll: +70k | Surprise: +60k
+Private: +172k | Prior: +37k (rev +64k) | Poll: +70k | Surprise: +102k
+Unemployment: 4.3% | Prior: 4.4% | Poll: 4.4% | Surprise: -10bp
+AHE MoM: +0.4% | Prior: +0.3% | Poll: +0.3% | Surprise: +10bp
+Workweek: 34.3 | Prior: 34.2 | Poll: 34.2
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desk split: headline beat acknowledged, but composition quality debated (healthcare/social assistance heavy).
+Wage print described as the hawkish fly.
+Market reaction described as pushing March cut odds toward near-zero; timing pushed later in the year; yields up initially.
+3️⃣ Comment — Economist layer (JGM embedded)
+The "signal" is not overheating; it's stabilization. But composition matters for persistence.
+JGM lens (critical):
+Healthcare hiring spike is suspicious / not sustainable given sector openings down.
+Household survey strength + participation rebound + unemployment down = "labor may be tightening" at the margin, but weather likely helped (construction).
+Benchmark revision nuance: not catastrophic, but it slightly downgrades H2 momentum (your read: recent payroll growth a touch weaker).
+Birth-death less negative than last year = some seasonal/model support.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Reaction function: March hold reinforced (your conclusion aligns with desk read).
+The key distribution shift is: cuts need inflation confirmation; labor isn't providing urgency.
+Your pricing snapshot (2 cuts Jun/Jul + Dec) becomes the anchor: this print mainly defends that kind of path (later cuts), unless CPI breaks meaningfully softer.
+Trading desk logic: initial yields/USD strength can fade if subsequent CPI supports "disinflation continues" (which happened only partially—core still 0.3).
+
+THURSDAY, FEBRUARY 12
+United States — Initial Jobless Claims (wk Feb 7) — 14:30 EST
+1️⃣ Reuters Data (mechanical)
+Initial: 227k | Prior: 231k | Poll: 222k | Surprise: +5k
+Continuing: 1.862M | Prior: 1.844M (rev 1.841M) | Poll: 1.850M | Surprise: +12k
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+No meaningful professional desk commentary found at time of retrieval.
+3️⃣ Comment — Economist layer (JGM embedded)
+Still consistent with a subdued-but-stable labor market; continuing claims drift can be weather/duration.
+JGM lens: layoffs/WARN are mid-range (no stress), but hiring remains low—the risk is labor-force absorption (unemployment drifting up over time if participation rises).
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Does not create urgency for cuts; matters only if it trends.
+The actionable macro tail is "slow deterioration via hiring shortfall," not a layoff shock.
+United States — Existing Home Sales (Jan) — 16:00 EST
+1️⃣ Reuters Data (mechanical)
+Level: 3.91M | Prior: 4.35M (rev 4.27M) | Poll: 4.18M | Surprise: -270k (-6.5%)
+MoM: -8.4% | Prior: +5.1% (rev +4.4%)
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Weather distortion cited (storm-disrupted closings), but desks still noted: lowest since late-2024, high financing costs biting.
+Lock-in effect continues suppressing listings; affordability remains binding.
+3️⃣ Comment — Economist layer (JGM embedded)
+Structural: high rates + lock-in constrain turnover; weather amplifies timing noise.
+JGM lens: this supports your broader "major purchases constrained" theme—housing is a high-quality confirmation of restrictive financial conditions.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Strengthens the "demand is bending" channel, which increases sensitivity to CPI shelter/services trajectory.
+But shelter inflation is lagged—don't force one-month mapping from sales to CPI.
+
+FRIDAY, FEBRUARY 13
+United States — CPI (Jan) — 14:30 EST
+1️⃣ Reuters Data (mechanical)
+Core MoM: +0.3% | Prior: +0.2% | Poll: +0.3% | Surprise: 0bp
+Core YoY: +2.5% | Prior: +2.6% | Poll: +2.5% | Surprise: 0bp
+Headline MoM: +0.2% | Prior: +0.3% | Poll: +0.3% | Surprise: -10bp
+Headline YoY: +2.4% | Prior: +2.7% | Poll: +2.5% | Surprise: -10bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Dominant framing: core at 0.3 = "sticky floor"; not a dovish smoking gun.
+Shelter described as decelerating; some "reassuring" takes on YoY progress, but consensus remained: March cut not the base.
+Cross-asset tape: yields drifted lower after initial NFP spike; USD supported but not a breakout.
+3️⃣ Comment — Economist layer (JGM embedded)
+Core at 0.3 keeps "sticky" concerns alive even if YoY improves; headline softness is energy-driven.
+JGM lens: this print must be read jointly with (a) wage +0.4 in NFP and (b) weak demand evidence (retail + housing). That mix says: policy is restrictive enough to bend demand, but services inflation progress isn't yet clean.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Reaction function: March hold reinforced (aligned with your "Fed on hold March").
+Market distribution: not hot enough to hike, too sticky to cut immediately; cuts remain a mid/late-year conditional on a run of softer core/services prints.
+Your pricing anchor (2 cuts Jun/Jul + Dec) remains plausible: CPI didn't invalidate it, but also didn't pull it materially earlier.
+
+USA WEEK SYNTHESIS — Theme A
+US: Demand bending, labor stabilizing, inflation progress incomplete
+Retail control miss + housing slump = major-purchase constraint and a growth-scare impulse.
+NFP headline beat is composition-tainted, but wages + household survey strength prevent "labor break" narratives.
+CPI core at 0.3 keeps a sticky floor framing: disinflation continues, but not clean enough to force near-term easing.
+Net: The distribution shifts toward "cuts later, conditional," not "urgent cuts" and not "no cuts."
+<<LIVE_USD_MACRO_END>>
 <<LIVE_USD_MACRO_BEGIN>>
 USD MACRO — LIVE WEEK VIEW (FEB 2–6, 2026)
 STATUS: Live as of Friday close
@@ -1466,6 +1583,7 @@ USD: supported by growth floor and pause optionality; downside if labour drift f
 
 
 <<<USD_MACRO_NOTE_END>>>
+
 
 
 
