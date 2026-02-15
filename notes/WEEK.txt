@@ -1,324 +1,560 @@
 <<WEEK_BEGIN>>
 
-Week: February 9–12, 2026
-Last Update: February 11, 2026 — 16:00 EST (updated with Tuesday releases + JGM takes integrated)
+Week: February 9–13, 2026
+Last Update: February 13, 2026 – 19:00 EST
 
-MACRO MONITOR: Week of Feb 9–12, 2026
+MACRO MONITOR — Week of Feb 9–13, 2026
+
+Inputs used (as instructed):
+
+Reuters mechanics = Claude (no re-verification of prints)
+
+Professional desk color = your Gemini + Mistral scouts
+
+JGM = embedded into sections 3️⃣/4️⃣ (no verbatim appendix)
+
 KEY RELEASES OF THE WEEK
 
-Monday Feb 10:
+Monday Feb 9
 
-Norway CPI (material upside: 3.6% vs 3.1% poll) ⚠️
+Japan Current Account: big miss vs poll (lumpy income flows)
 
-US Retail Sales (control group miss: -0.1% vs +0.4% poll) ⚠️
+Norway GDP (Mainland): +0.4% QoQ (resilient, policy-relevant)
 
-Mexico Inflation (headline benign, but core momentum re-accelerates)
+EZ Sentix: sharp jump into positive territory (survey-led risk-on)
 
-Tuesday Feb 11:
+Mexico CPI: core 0.60% MoM (sticky / hawkish skew)
 
-China CPI (miss: 0.2% vs 0.4% poll — demand/disinflation tail back in play) ⚠️
+Tuesday Feb 10
 
-US NFP (beat: +130k vs +70k poll; unemployment 4.3%; earnings +0.4% m/m) ⚠️
+Norway CPI: +50bp headline / +40bp core upside (easing repriced later)
 
-Wednesday Feb 12:
+Brazil IPCA: 4.44% YoY (near upper band constraint)
 
-US Jobless Claims (14:30)
+US Retail Sales: control -0.1% vs +0.4% (growth scare impulse)
 
-US Existing Home Sales (16:00)
+US ECI: 0.7% QoQ (Fed-comfort wage cooling)
 
-Thursday Feb 13:
+Wednesday Feb 11
 
-Eurozone GDP Flash (11:00) — Q4 growth confirmation 🔴
+China CPI: 0.2% vs 0.4% (base-distorted but still low demand-pull)
 
-US CPI (14:30) — WEEK’S MAIN EVENT 🔴🔴
+US NFP: 130k vs 70k; wages +0.4% (headline beat, composition debated)
 
-DATA RELEASES BY DAY
-SUNDAY, FEBRUARY 9
+Thursday Feb 12
+
+US Claims: 227k (range-bound; hiring/absorption the issue)
+
+US Existing Home Sales: 3.91M (-8.4% MoM; weather + affordability)
+
+Friday Feb 13
+
+China M2: 9.0% (liquidity up, transmission still questioned)
+
+Turkey CA: -$7.25B (external vulnerability rises)
+
+EZ GDP: +0.3% QoQ (stabilization confirmed)
+
+Brazil Retail: -0.4% MoM (credit-sensitive demand weak)
+
+US CPI: core +0.3% (sticky floor framing; March hold reinforced)
+
+DATA RELEASES BY DAY (CLAUDE ORDER PRESERVED)
+MONDAY, FEBRUARY 9
 Japan — Current Account (Dec) — 00:50 JST
 
-NSA: ¥728.8B vs ¥1,060.4B poll | Prior: ¥3,674.1B
+1️⃣ Reuters Data (mechanical)
+NSA: ¥728.8B | Prior: ¥3,674.1B | Poll: ¥1,060.4B | Surprise: -31%
 SA: ¥2,697.1B | Prior: ¥3,137.8B
 Trade Balance SA: ¥56.2B | Prior: ¥450.7B
 
-Commentary: Current account declined sharply with NSA at ¥728.8B (vs ¥1,060B poll, -31% miss) and SA balance fell to ¥2,697B from ¥3,138B (-¥440B). However, trade balance on customs basis improved to ¥56B from ¥451B. Full year 2025: record current account surplus driven by primary income at an all-time high of ¥41.59T from overseas investments; dividends from foreign subsidiaries up 4.7%. Exports +2.5% to ¥107.76T led by semiconductors/electronic components; US exports fell for first time in 5 years (-4.1% to ¥20.4T) with autos (-11.4%) and auto parts (-10.7%), consistent with tariff drag, offset by Asia/Europe strength.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take: December miss looks flow/timing-heavy rather than competitiveness-driven. Trade improving while the overall CA softens points to primary/secondary income volatility more than goods deterioration. Japan’s external position remains fundamentally solid and increasingly income-led (decades of overseas asset accumulation) rather than trade-led. Bilateral US tariff pressure is visible in autos/parts, but diversification is doing its job. Policy relevance for BoJ remains limited: external accounts are not the constraint; domestic wages/inflation are.
+Desks framed the miss as “uneven external balance”: recovery remains income-flow dependent (investment income) rather than a clean trade-volume story.
 
-New Zealand — Reserve Assets (Jan) — 03:00 NZDT
+Composition read: goods balance improved but didn’t offset income volatility; focus was on the sharp contraction vs consensus as “signal,” even if noisy.
 
-Total: $51,186M | Prior: $48,654M
+3️⃣ Comment — Economist layer (data-focused; JGM embedded)
 
-Commentary: Reserve assets rose ~$2.5B to $51.2B from $48.7B.
+CA prints are timing-sensitive (dividends/transfers). Signal is not “Japan suddenly weak,” but that the external surplus engine is structurally income-led.
 
-HF Take: Likely reflects either smoothing FX volatility or routine balance-of-payments accumulation. Not a policy signal by itself, but confirms adequate intervention capacity if NZD volatility rises.
+JGM lens: treat as second-order for BoJ: it matters mainly through FX stability constraints; the policy core remains wages/services inflation.
+
+4️⃣ HF Take — Strategist / desk layer (reaction-function disciplined; JGM embedded)
+
+This does not shift BoJ policy probabilities on its own.
+
+Practical mapping: it reinforces a tail where JPY can be more sensitive to global risk/income-flow seasonality, but absent FX stress it’s not a trade-defining macro impulse.
 
 Norway — GDP (Q4) — 08:00 CET
 
+1️⃣ Reuters Data (mechanical)
 Headline QoQ: -0.3% | Prior: +1.1% (rev +1.3%)
-Mainland QoQ: +0.4% vs +0.4% poll | Prior: +0.1%
+Mainland QoQ: +0.4% | Prior: +0.1% | Poll: +0.4% | Surprise: 0bp
 Mainland MoM (Dec): 0.0% | Prior: -0.4%
 
-Commentary: Headline contraction (-0.3%) is oil/gas-sector dominated; mainland GDP (domestic demand proxy) held at +0.4% QoQ (as expected), while December momentum was flat (0.0% m/m). Divergence is consistent with North Sea production/maintenance volatility rather than broad domestic weakness.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take (incl. JGM Take): Policy mapping hinges on mainland not headline. +0.4% QoQ keeps the domestic activity picture intact but is not an overheating signal; the 0.0% m/m into year-end matters because it argues against a demand-led inflation story. JGM Take (flag): base case is cuts delayed / fewer cuts, not hikes — unless inflation persistence is confirmed by follow-through (see CPI). The reaction function is gated by whether inflation strength is “services/wage persistence” rather than growth acceleration.
+Mainland +0.4% seen as consistent with Norges Bank “cooling but not weak”; capacity utilization close to normal.
+
+Desk linkage was explicit: resilient mainland activity reduces urgency to cut, especially with inflation still above target.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+Headline is oil/gas noise; Mainland is the signal and it reads “steady.”
+
+December flat MoM is a momentum check, not a regime break.
+
+JGM lens: the relevance is conditional on CPI: GDP resilience + CPI upside later in week is what tightens the easing constraint.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+GDP alone is neutral; GDP + CPI surprise shifts the distribution toward later/fewer cuts.
+
+NOK sensitivity rises when the market is anchored to a “June cut” narrative—this GDP print provides permission to push back.
 
 Eurozone — Sentix Investor Confidence (Feb) — 10:30 CET
 
-Index: +4.2 vs 0.0 poll | Prior: -1.8
+1️⃣ Reuters Data (mechanical)
+Actual: +4.2 | Prior: -1.8 | Poll: 0.0 | Surprise: +4.2pp
 
-Commentary: A sharp rebound (+6 points) into positive territory. Early-month timing often captures positioning/expectations shifts quickly, but needs hard-data validation.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take: Treat as “signal, not evidence.” It can be consistent with hopes around German fiscal posture and/or global stabilization narratives, but Thursday GDP flash is the real test. If GDP prints ≥ +0.3% QoQ, sentiment looks prescient; if not, this is fragile optimism. EUR implications remain conditional on GDP.
+Desk narrative: “end of recessionary phase” language showed up quickly (survey-led).
 
-Mexico — Inflation (Jan) — 13:00 CST
+Market color (as captured): EUR bid and risk-on tone around Euro Stoxx optionality, though still acknowledged as soft data.
 
-Headline MoM: +0.38% vs +0.41% poll | Prior: +0.28%
-Core MoM: +0.60% vs +0.59% poll | Prior: +0.41%
-YoY: +3.79% vs +3.82% poll | Prior: +3.69%
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Commentary: Headline 3.79% YoY slightly below consensus and still inside Banxico’s 2–4% tolerance band, but core momentum re-accelerated materially (0.60% m/m vs 0.41% prior). Sector detail: services inflation remains the pressure point (7.68% y/y) with broad stickiness (street food/restaurants, mobile services, car maintenance, medical consults, tourism). Other elevated categories include healthcare/personal care (5.37%) and food/bev/tobacco (4.43%). Banxico backdrop: recent vote split (4–1 with Heath dissent) underscores internal debate on persistence vs easing.
+Sentix is confidence, not activity—best treated as a confirming indicator after GDP/PMIs validate.
 
-HF Take (incl. JGM Take): Headline being “fine” is not the constraint — core momentum is. One more 0.6% print makes a “mechanical cut path” hard to defend; reversion back toward 0.3–0.4% m/m restores the May-cut baseline. The market’s easing path is now explicitly conditional on services cooling — not on headline being in range.
+JGM lens: don’t let surveys front-run policy views; ECB reaction function remains inflation/services/wages-led.
 
-Mexico — PPI (Jan) — 13:00 CST
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-MoM: +0.2% | Prior: +0.5%
-YoY: +1.5% | Prior: +2.1%
+This supports a “soft landing” narrative only if hard data confirm (which GDP later did).
 
-Commentary: Pipeline pressures eased on the producer side.
+It doesn’t change ECB probabilities by itself; it changes how fast markets may lean into the growth narrative.
 
-HF Take: This reinforces the services-vs-goods split: PPI is not the driver of the current core problem. Goods pipeline disinflation doesn’t solve sticky service pricing power.
+Mexico — CPI (Jan) — 13:00 CST
 
-MONDAY, FEBRUARY 10
-Japan — Money Supply (00:50 JST)
+1️⃣ Reuters Data (mechanical)
+Headline MoM: +0.38% | Prior: +0.28% | Poll: +0.41% | Surprise: -3bp
+Core MoM: +0.60% | Prior: +0.41% | Poll: +0.59% | Surprise: +1bp
+YoY: +3.79% | Prior: +3.69% | Poll: +3.82% | Surprise: -3bp
 
-M2: ¥1,282.1T | Prior: ¥1,281.7T (rev)
-Broad Money: ¥2,244.9T | Prior: ¥2,244.7T (rev)
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-Commentary: Marginal increase.
+Desk focus was core persistence; headline within band was largely ignored.
 
-HF Take: No signal beyond “steady/low-vol” money dynamics. Limited credit impulse; BoJ stance unchanged.
+Swaps repricing (as captured): reduced odds of pre-June cuts, framing as a hawkish wake-up call.
 
-Sweden — Industrial Production (Dec) — 08:00 CET
+Mexico carry appeal seen as intact unless growth deterioration dominates.
 
-Private Production YoY: +4.2% | Prior: +3.2% (rev)
-Private Production MoM: +1.6% | Prior: +0.2% (rev)
-Industrial Production YoY: +4.2% | Prior: +3.1% (rev)
-Industrial Production MoM: +5.1% | Prior: -0.3% (rev)
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Commentary: Very strong sequential rebound; YoY also improved.
+The print is about core acceleration; the persistence question is whether it’s tax/min wage/excise and goods vs a broad services reheat.
 
-HF Take: +5.1% m/m is likely noisy (seasonal/one-offs/restocking) but the YoY firming argues there is at least some underlying resilience. Watch Q1 prints for confirmation; if persistent, Sweden diverges modestly from the eurozone industrial malaise and can reduce the urgency of additional easing.
+JGM lens: your attribution matters: higher excise/tobacco + min wage effects + processed food (core goods) = hawkish at the margin but different persistence than services.
 
-Norway — CPI (Jan) — 08:00 CET ⚠️
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-Headline YoY: +3.6% vs +3.1% poll | Prior: +3.2%
+Banxico distribution shifts to pause / slower easing: policy asymmetry rises (cuts delayed faster than hikes appear).
+
+MXN remains supported by carry in the baseline, but the tail is a policy-delay + growth softness mix.
+
+TUESDAY, FEBRUARY 10
+Norway — CPI (Jan) — 08:00 CET
+
+1️⃣ Reuters Data (mechanical)
+Headline YoY: +3.6% | Prior: +3.2% | Poll: +3.1% | Surprise: +50bp
 Headline MoM: +0.6% | Prior: +0.1%
-Core YoY: +3.4% vs +3.0% poll | Prior: +3.1%
-Core MoM: +0.3% vs -0.1% poll | Prior: +0.1%
+Core YoY: +3.4% | Prior: +3.1% | Poll: +3.0% | Surprise: +40bp
+Core MoM: +0.3% | Prior: +0.1% | Poll: -0.1% | Surprise: +40bp
 
-Commentary: Upside shock across the board: headline +50bp vs poll, core +40bp vs poll, and core m/m +0.3% vs -0.1% expected (the most policy-relevant element). Category color in the baseline: housing/utilities 4.3% (from 3.9%), transport 4.4% (from 2.7%), restaurants/accommodation 5.8% (from 5.1%), food cooled to 4.2% (from 5.3%). Labor market cooling signal exists (vacancies down 5.1% QoQ to 85k in Q4). Norges Bank messaging pre-print: core inflation around 3% since autumn 2024 “for a fairly long period.” Post-print: several banks moved toward fewer/delayed cuts; Nomura notably shifted to one cut late-2026.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take (incl. JGM Take): This is cuts repricing, not a hiking pivot. The core m/m miss (+0.3 vs -0.1) is the key: it argues breadth/persistence risk, not just a headline wobble. JGM Take (flag): January composition likely amplified by rent dynamics (large effective contribution inside the core basket), and seasonal discounting in clothing/furniture being less aggressive than typical — making this a policy-relevant persistence test ahead of wage negotiations. If February doesn’t mean-revert, a June cut becomes difficult to justify; base case becomes “cuts delayed / fewer cuts.” NOK support is via front-end repricing and DM divergence vs EUR.
+Subcomponent emphasis: housing/utilities and transport were singled out; restaurants/accommodation sticky.
 
-Brazil — IPCA (Jan) — 13:00 BRT
+Desks: “materially reduces near-term easing probability,” pushing back against dovish narratives.
 
-MoM: +0.33% vs +0.32% poll | Prior: +0.33%
-YoY: +4.44% vs +4.43% poll | Prior: +4.26%
+Pricing: money markets pushed earliest cut later; NOK strengthened on the print.
 
-Commentary: YoY drifted up near the upper tolerance boundary.
+3️⃣ Comment — Economist layer (JGM embedded)
 
-HF Take: At 4.44%, Brazil is ~6bp from the top of the tolerance band (4.5%). The “optional” easing narrative is fragile: staying below 4.5 preserves flexibility; a breach forces a harder stance. (This is the gating logic, not tomorrow’s decision.)
+Key issue is where the upside comes from. If it’s rents/services (persistence), it’s not “noise.”
+
+JGM lens: rent weight mechanics + less discounting (air tickets/clothes/furniture) matter for interpreting persistence. Also: headline annualized above Norges Bank path becomes relevant for wage negotiations, increasing second-round risk.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Reaction function shift is first-order: distribution skews to fewer/later cuts unless February reverses meaningfully.
+
+Market read: NOK strength is consistent with timing repricing—not a new hiking regime, but “high-for-longer bias.”
+
+Gating: Feb CPI is the confirm/deny print.
+
+Brazil — IPCA Inflation (Jan) — 13:00 BRT
+
+1️⃣ Reuters Data (mechanical)
+MoM: +0.33% | Prior: +0.33% | Poll: +0.32% | Surprise: +1bp
+YoY: +4.44% | Prior: +4.26% | Poll: +4.43% | Surprise: +1bp
+
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Dominant framing: upper-band proximity constraint (4.44 vs 4.5) keeps “high-for-longer” alive even if growth softens.
+
+Focus survey context: inflation expectations slightly lower for 2026 in some commentary, but not enough to relax policy.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+The macro point is policy convexity near the band: tolerance narrows even if activity weakens.
+
+JGM lens: Brazil is a clean example of “growth weakness ≠ easing freedom” when credibility constraints bind.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Tail risk: any breach risk forces a hawkish reaction; baseline is limited easing optionality.
+
+Next CPI matters more than growth prints for front-end direction.
 
 United States — Import Prices (Dec) — 14:30 EST
 
+1️⃣ Reuters Data (mechanical)
+MoM: +0.1% | Prior: +0.4% | Poll: +0.1% | Surprise: 0bp
 YoY: 0.0% | Prior: -0.1% (rev)
-MoM: +0.1% vs +0.1% poll | Prior: +0.4%
 
-Commentary: External price impulse remains benign.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take: Supports the “goods disinflation still present” narrative into CPI. With imports flat YoY, inflation risk concentrates in domestic services/wages and shelter.
+Minimal incremental desk color beyond “external inflation channel muted.”
 
-United States — Retail Sales (Dec) — 14:30 EST ⚠️
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Headline MoM: 0.0% vs +0.4% poll | Prior: +0.6%
-Ex-Autos MoM: 0.0% vs +0.3% poll | Prior: +0.4% (rev)
-Retail Control: -0.1% vs +0.4% poll | Prior: +0.2% (rev)
+Reinforces that CPI’s core risk is domestic services/wages, not imported goods.
 
-Commentary: Consumer spending decelerated into year-end: headline flat vs +0.4% expected; control group contracted -0.1% vs +0.4% expected (large miss for a typically stable GDP-relevant series). Revisions worsened the run-rate. Micro read-through (as provided in the baseline): five-week window ending Jan 3 showed revenue flat, unit demand -1%; discretionary merchandise dollars -2% with units -5%; food/beverage +2% dollars with units flat. Behavioral indicators: impulse buying <20% across most categories (record low), and new-product penetration ~2% vs ~5% historical norm.
+JGM lens: keeps focus on wage-sensitive categories and shelter/services decomposition.
 
-HF Take (incl. JGM Take): This is demand-quality erosion, not just a weather/one-off print. The control group miss (-0.1 vs +0.4) directly drags Q1 consumption tracking and reinforces that the “average” is deteriorating (not a single-category story).
-JGM Take (flag — keep explicit arithmetic): the key macro signal is the constraint. Control group running ~+1.9% y/y in real terms (cyclical low), implying the consumption engine has already downshifted. Q4 real consumption likely around ~2.5% vs 3%+ in prior pace. That resilience was financed by buffer drawdown: personal saving rate pushed down to ~3.5% (Nov) — roughly a ~19-year low — which is hard to repeat if confidence is softening and the labor market cools at the margin. Mechanically, consumption growth must converge toward real income growth, i.e., roughly ~1.5% real in baseline conditions (even if refunds smooth near-term optics).
-Policy mapping: this materially increases Fed optionality, but CPI composition still gates timing.
+4️⃣ HF Take — Strategist layer
+
+Supports “Fed can wait”: no external inflation forcing hand.
+
+United States — Retail Sales (Dec) — 14:30 EST ✅ (correct placement)
+
+1️⃣ Reuters Data (mechanical)
+Headline MoM: 0.0% | Prior: +0.6% | Poll: +0.4% | Surprise: -40bp
+Ex-Autos MoM: 0.0% | Prior: +0.4% (rev) | Poll: +0.3% | Surprise: -30bp
+Retail Control: -0.1% | Prior: +0.2% (rev) | Poll: +0.4% | Surprise: -50bp
+
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Desk focus: the control miss = “stalling momentum / growth scare.”
+
+Composition: discretionary weakness (furniture/electronics/general merchandise) emphasized; gasoline/nonstore treated as non-signal.
+
+Immediate reaction (as captured): yields fell, USD struggled; “no-growth landing” language appeared in some wraps.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+Control matters because it feeds real consumption/GDP tracking.
+
+A plausible mechanical story is holiday pull-forward (Nov strength → Dec payback), but composition suggests discretionary constraint rather than a single-category accident.
+
+JGM lens: the key is whether weakness is volume/real (units) vs nominal supported by price—if it’s real/volume weakness, it’s more durable as a demand signal.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Raises probability weight on “demand bending,” which makes markets more sensitive to any CPI disinflation confirmation.
+
+But it doesn’t force cuts: with labor still stable, Fed can treat it as restrictive policy “working” rather than a trigger.
+
+Gating: next retail print + CPI composition determine whether this is a trend or a pull-forward payback.
 
 United States — Employment Cost Index (Q4) — 14:30 EST
 
-QoQ: +0.7% vs +0.8% poll | Prior: +0.8%
+1️⃣ Reuters Data (mechanical)
+QoQ: +0.7% | Prior: +0.8% | Poll: +0.8% | Surprise: -10bp
 
-Commentary: Broad compensation growth cooled further; private compensation running ~3.4% y/y in the baseline narrative.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take (incl. JGM Take): Directionally consistent with gradual cooling in wage pressure and reduced wage-price spiral risk. JGM Take (flag): level matters — ~3.4% y/y sits nearer the “tolerable” zone for the Fed; even allowing for residual seasonality, the direction argues against re-acceleration. The joint signal with retail (control weak + ECI cooling) supports “how soon can we ease” becoming the debate — but CPI remains the gating print.
+Desks highlighted: ECI (Fed-preferred) showing more cooling than AHE; “Fed comfort” signal in wage dynamics.
 
-United States — Business Inventories (Nov) — 16:00 EST
+3️⃣ Comment — Economist layer (JGM embedded)
 
-MoM: +0.1% vs +0.2% poll | Prior: +0.2% (rev)
+Confirms wage-pressure downshift in a cleaner gauge than AHE.
 
-Commentary: Slower accumulation.
+JGM lens: this is a key reconciliation variable versus NFP wage noise—ECI keeps the “cooling wages” channel credible.
 
-HF Take: Neutral-to-slightly supportive for near-term growth stability; not the swing factor this week.
+4️⃣ HF Take — Strategist layer
 
-TUESDAY, FEBRUARY 11
+Helps keep the “cuts later in year” scenario alive, but CPI services is still the gate.
+
+WEDNESDAY, FEBRUARY 11
 China — CPI/PPI (Jan) — 02:30 Beijing
 
-CPI YoY: +0.2% vs +0.4% poll | Prior: +0.8%
-CPI MoM: +0.2% vs +0.3% poll | Prior: +0.2%
-PPI YoY: -1.4% vs -1.5% poll | Prior: -1.9%
+1️⃣ Reuters Data (mechanical)
+CPI YoY: +0.2% | Prior: +0.8% | Poll: +0.4% | Surprise: -20bp
+CPI MoM: +0.2% | Prior: +0.2% | Poll: +0.3% | Surprise: -10bp
+PPI YoY: -1.4% | Prior: -1.9% | Poll: -1.5% | Surprise: +10bp
 
-Commentary: CPI undershot by 20bp (0.2 vs 0.4) with a small MoM miss; PPI improved (less negative) to -1.4% vs -1.9% prior.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take (incl. JGM Take): Keep layers separate: base effects matter, but the MoM miss is the key “momentum” tell. JGM Take (flag): this is stabilization at low levels, not reflation. Lunar New Year timing can distort YoY, but sequential softness keeps the “demand still soft” narrative alive (housing subdued, job creation/wage growth contained). PPI narrowing is industrial stabilization (raw materials / non-ferrous sensitivity), not a domestic demand revival. Market implication: disinflation impulse remains; risk-off only if subsequent activity confirms deeper weakness or policy credibility slips. Immediate gating: whether policy response (PBOC + fiscal coordination) follows through in coming weeks.
+Strong emphasis on Lunar New Year base distortion; headline discounted.
 
-Italy — Industrial Output (Dec) — 10:00 CET
+But core narrative split: some desk takes leaned “still recovery,” while others stressed demand-pull still weak.
 
-MoM SA: -0.4% vs -0.5% poll | Prior: +1.5%
-YoY WDA: +3.2% | Prior: +1.4%
+PPI narrowing linked to industrial input stabilization (non-ferrous mentioned).
 
-Commentary: Sequential payback after a strong prior month, but less negative than feared; YoY improved.
+3️⃣ Comment — Economist layer (JGM embedded)
 
-HF Take: MoM is consistent with volatility/normalization after +1.5% prior; YoY strength likely helped by base effects. Not a March-ECB mover by itself, but useful context into Thursday GDP: if GDP surprises firmer, this fits the “stabilization” mosaic; if GDP disappoints, this reads as local noise.
+Base effects matter, but the durable issue is still: pricing power remains weak (CPI low, PPI negative).
 
-Mexico — Industrial Production (Dec) — 13:00 CST
+JGM lens: you explicitly flag demand-pull not improved materially (housing weak; jobs/wages subdued). That keeps the interpretation anchored: even if MoM/core has small “tentative” signs, the path remains challenging.
 
-MoM: +0.2% vs -0.2% poll | Prior: +0.6%
-YoY: +2.4% vs +1.3% poll | Prior: -0.8% (rev -0.7%)
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-Commentary: Solid upside surprise on both MoM and YoY; YoY swing large vs prior.
+Reaction function: increases probability weight on continued policy support (RRR/targeted easing), but the key constraint is transmission (credit ≠ consumption).
 
-HF Take: This is an important “activity vs inflation” split: production is improving while core services inflation remains sticky. It supports the view that export/nearshoring-linked activity can coexist with constrained domestic demand. For Banxico, this doesn’t loosen the constraint — inflation momentum does.
+Market read: a “liquidity up” signal can support tactical risk, but without demand recovery it also sustains the tail of policy-driven, not organic growth.
 
-United States — Employment Report (Jan) — 14:30 EST ⚠️
+United States — Employment Report (NFP, Jan) — 14:30 EST
 
-Non-Farm Payrolls: +130k vs +70k poll | Prior: +50k (rev +48k)
-Private Payrolls: +172k vs +70k poll | Prior: +37k (rev +64k)
-Unemployment Rate: 4.3% vs 4.4% poll | Prior: 4.4%
-Avg Earnings MoM: +0.4% vs +0.3% poll | Prior: +0.3%
-Avg Earnings YoY: +3.7% vs +3.6% poll | Prior: +3.8% (rev +3.7%)
-Avg Workweek: 34.3 vs 34.2 poll | Prior: 34.2
-Official release confirms the headline set.
+1️⃣ Reuters Data (mechanical)
+NFP: +130k | Prior: +50k (rev +48k) | Poll: +70k | Surprise: +60k
+Private: +172k | Prior: +37k (rev +64k) | Poll: +70k | Surprise: +102k
+Unemployment: 4.3% | Prior: 4.4% | Poll: 4.4% | Surprise: -10bp
+AHE MoM: +0.4% | Prior: +0.3% | Poll: +0.3% | Surprise: +10bp
+Workweek: 34.3 | Prior: 34.2 | Poll: 34.2
 
-Commentary: Headline payrolls beat; private payrolls beat by more; unemployment ticked down; wage growth was firmer on the month; hours worked edged up.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-HF Take (incl. JGM-style framing): This shifts the US from “clean dovish” to mixed: consumption prints weak, but labor is not rolling over. The quality signal is the private payroll beat (+172k) plus upward revision in prior private (37 → 64k). Wages at +0.4% m/m keeps the inflation gating logic alive.
-Reaction-function mapping: this reduces urgency for an immediate cut unless CPI prints soft. In other words: Thursday CPI is now even more binary — (soft CPI → cuts still live despite strong labor; firm CPI → hold becomes dominant). Market narrative will likely pivot to “no landing vs soft landing” depending on CPI composition (shelter and core services ex-shelter).
+Desk split: headline beat acknowledged, but composition quality debated (healthcare/social assistance heavy).
 
-Canada — Building Permits (Dec) — 14:30 EST
+Wage print described as the hawkish fly.
 
-MoM: +6.8% vs +5.0% poll | Prior: -13.1% (rev -13.2%)
+Market reaction described as pushing March cut odds toward near-zero; timing pushed later in the year; yields up initially.
 
-Commentary: Rebound after a sharp prior drop; still volatile series.
+3️⃣ Comment — Economist layer (JGM embedded)
 
-HF Take: Partial normalization after an extreme prior decline; not a BoC driver in isolation. Use as color into broader housing sensitivity rather than a trend signal.
+The “signal” is not overheating; it’s stabilization. But composition matters for persistence.
 
-WEDNESDAY, FEBRUARY 12 [UPCOMING]
-Japan — Corp Goods Prices (00:50 JST)
+JGM lens (critical):
 
-Poll: +0.2% MoM, +2.3% YoY (Prior: +0.1%, +2.4%)
+Healthcare hiring spike is suspicious / not sustainable given sector openings down.
 
-Context: Producer-price trajectory; watch whether pass-through is fading.
+Household survey strength + participation rebound + unemployment down = “labor may be tightening” at the margin, but weather likely helped (construction).
 
-South Africa — Mining Production (10:30 SAST)
+Benchmark revision nuance: not catastrophic, but it slightly downgrades H2 momentum (your read: recent payroll growth a touch weaker).
 
-Prior: -2.7% YoY
+Birth-death less negative than last year = some seasonal/model support.
 
-Context: Commodity/EM activity pulse.
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-South Africa — Manufacturing Production (12:00 SAST)
+Reaction function: March hold reinforced (your conclusion aligns with desk read).
 
-Prior: -1.1% MoM
+The key distribution shift is: cuts need inflation confirmation; labor isn’t providing urgency.
 
-Context: EM production trend confirmation.
+Your pricing snapshot (2 cuts Jun/Jul + Dec) becomes the anchor: this print mainly defends that kind of path (later cuts), unless CPI breaks meaningfully softer.
 
-Brazil — Service Sector Growth (13:00 BRT)
+Trading desk logic: initial yields/USD strength can fade if subsequent CPI supports “disinflation continues” (which happened only partially—core still 0.3).
 
-Prior: -0.1% MoM
+THURSDAY, FEBRUARY 12
+United States — Initial Jobless Claims (wk Feb 7) — 14:30 EST
 
-Context: Services momentum vs inflation constraint.
+1️⃣ Reuters Data (mechanical)
+Initial: 227k | Prior: 231k | Poll: 222k | Surprise: +5k
+Continuing: 1.862M | Prior: 1.844M (rev 1.841M) | Poll: 1.850M | Surprise: +12k
 
-United States — Initial Jobless Claims (14:30 EST)
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+No meaningful professional desk commentary found at time of retrieval.
 
-Poll: 222k (Prior: 231k)
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Key Watch: Any break above ~250k would matter; otherwise “steady labor” narrative persists.
+Still consistent with a subdued-but-stable labor market; continuing claims drift can be weather/duration.
 
-United States — Existing Home Sales (16:00 EST)
+JGM lens: layoffs/WARN are mid-range (no stress), but hiring remains low—the risk is labor-force absorption (unemployment drifting up over time if participation rises).
 
-Poll: 4.35M (Prior: 4.18M)
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-Key Watch: Confirmation of stabilization vs still-rate-capped demand.
+Does not create urgency for cuts; matters only if it trends.
 
-THURSDAY, FEBRUARY 13 [UPCOMING] — MAJOR EVENT DAY
-Eurozone — GDP Flash (11:00 CET) 🔴
+The actionable macro tail is “slow deterioration via hiring shortfall,” not a layoff shock.
 
-Poll: +0.3% QoQ, +1.3% YoY
+United States — Existing Home Sales (Jan) — 16:00 EST
 
-Key Watch: Confirms/refutes Sentix rebound; shapes the slope of ECB cuts beyond March.
+1️⃣ Reuters Data (mechanical)
+Level: 3.91M | Prior: 4.35M (rev 4.27M) | Poll: 4.18M | Surprise: -270k (-6.5%)
+MoM: -8.4% | Prior: +5.1% (rev +4.4%)
 
-United States — CPI (14:30 EST) 🔴🔴 WEEK’S MAIN EVENT
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-Poll: Core +0.3% MoM / +2.5% YoY; Headline +0.3% MoM / +2.5% YoY
+Weather distortion cited (storm-disrupted closings), but desks still noted: lowest since late-2024, high financing costs biting.
 
-Scenarios (keep it trading-floor tight, but explicit):
+Lock-in effect continues suppressing listings; affordability remains binding.
 
-Core ≤0.2% m/m: disinflation re-asserts; despite strong NFP, cuts re-enter front-end pricing materially.
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Core ~0.25–0.35%: “mixed” holds; Fed stays patient, timing pushed later unless subsequent activity deteriorates.
+Structural: high rates + lock-in constrain turnover; weather amplifies timing noise.
 
-Core ≥0.4%: strong NFP + firm CPI = higher-for-longer reinforced; USD bid, front-end sells off.
+JGM lens: this supports your broader “major purchases constrained” theme—housing is a high-quality confirmation of restrictive financial conditions.
 
-Key components to watch: shelter (rate-of-change), core services ex-shelter (wage-to-price transmission), used cars (noise but can swing), breadth (how many categories running hot).
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-CROSS-ASSET THEMES & POSITIONING
-Theme 1: US = Mixed Macro (Consumption Weak, Labor Firm)
+Strengthens the “demand is bending” channel, which increases sensitivity to CPI shelter/services trajectory.
 
-Evidence: Retail control -0.1% (big GDP-relevant miss) + ECI cooling vs NFP beat (+130k) and earnings +0.4% m/m.
-JGM Take (flag): the consumption arithmetic constraint is binding: real control ~+1.9% y/y, saving rate ~3.5% (~19y low), forcing convergence of consumption growth toward ~1.5% real income growth.
-Catalyst: Thursday CPI decides whether the market trades “soft landing with cuts” or “no landing / higher for longer.”
-Positioning: reduce binary exposure into CPI; express views through convexity (rates/FX). Front-end longs only if CPI confirms; USD shorts conditional.
+But shelter inflation is lagged—don’t force one-month mapping from sales to CPI.
 
-Theme 2: Norway = DM Divergence via Cuts Repricing
+FRIDAY, FEBRUARY 13
+China — M2 Money Supply (Jan)
 
-Evidence: CPI 3.6 vs 3.1; core 3.4 vs 3.0; core m/m +0.3 vs -0.1.
-JGM Take (flag): rent/seasonal discount dynamics likely amplified Jan, but persistence test is real; if Feb doesn’t reverse, June easing gets hard to defend.
-Positioning: NOK supported vs EUR on relative path; front-end NOK supported by delayed cuts.
+1️⃣ Reuters Data (mechanical)
+YoY: +9.0% | Prior: +8.5% | Poll: +8.4% | Surprise: +60bp
 
-Theme 3: China = Low-Level Stabilization, Not Reflation
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
 
-Evidence: CPI 0.2 vs 0.4; PPI less negative (-1.4).
-JGM Take (flag): base effects matter but sequential weakness keeps demand concerns alive; PPI narrowing = industrial stabilization not domestic revival.
-Positioning: stay defensive unless stimulus is delivered (not just signaled); watch EM Asia spillovers.
+Framed as liquidity surge / easing impulse; some tactical “risk supportive” takes appeared.
 
-Theme 4: EM CB Constraints (Mexico & Brazil)
+Also raised the standard desk question: money growth vs weak CPI = transmission failure.
 
-Evidence: Mexico core momentum 0.60% m/m with sticky services; Brazil 4.44% near 4.5% ceiling.
-Positioning: MXN supported by carry but vulnerable if pause extends; BRL tail risk if ceiling breached.
+3️⃣ Comment — Economist layer (JGM embedded)
 
-Theme 5: Eurozone = Validation Day (GDP Flash)
+Money growth rising with CPI still low supports “liquidity available” but demand-pull weak.
 
-Evidence: Sentix bounce vs need for hard-data confirmation.
-Positioning: EUR constructive only if GDP validates; otherwise fade optimism.
+JGM lens: consistent with your China interpretation: core inflation path still challenging; housing/jobs constrain consumption demand.
 
-UPDATED WEEK OUTLOOK
+4️⃣ HF Take — Strategist layer (JGM embedded)
 
-Narrative evolution:
+Reinforces easing bias, but increases the tail risk of currency-management sensitivity if liquidity keeps rising without growth traction.
 
-Pre-Tue: retail + ECI skewed dovish.
+Tactical risk can respond; structural macro doesn’t improve without demand transmission.
 
-Post-Tue: NFP strength re-injects “Fed patience” unless CPI prints convincingly soft.
+Turkey — Current Account (Dec)
 
-Key remaining gating events: EZ GDP + US CPI (Thursday).
+1️⃣ Reuters Data (mechanical)
+Balance: -$7.253B | Prior: -$3.996B | Poll: -$5.200B | Surprise: -$2.053B
 
-Working base case (until CPI): mixed growth/inflation signals → reduce conviction trades; keep scenario map tight; let CPI decide.
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Miss driven by goods (incl. gold) and softer services revenues; annual deterioration flagged as a TRY fragility input.
+
+3️⃣ Comment — Economist layer
+
+External balance deterioration raises financing needs; in Turkey this is a primary macro constraint (more than “growth vs inflation” frameworks).
+
+4️⃣ HF Take — Strategist layer
+
+Carry narratives become more fragile when CA widens alongside reserve draw concerns—tail risk rises even if spot is calm.
+
+Eurozone — GDP Flash & Employment (Q4)
+
+1️⃣ Reuters Data (mechanical)
+GDP QoQ: +0.3% | Prior: +0.3% | Poll: +0.3% | Surprise: 0bp
+GDP YoY: +1.3% | Prior: +1.3% | Poll: +1.3% | Surprise: 0bp
+Employment QoQ: +0.2% | Prior: +0.2% | Poll: +0.2% | Surprise: 0bp
+Employment YoY: +0.6% | Prior: +0.6% | Poll: +0.6% | Surprise: 0bp
+
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Read as “stabilization validated,” ruling out near-term recession scare.
+
+Divergence emphasized: Spain outperforms; core economies lag; supports steady easing, not emergency policy.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+Growth is stable but not strong; employment consistent with soft landing dynamics.
+
+JGM lens: this confirms “stabilization,” but does not remove inflation/services as the ECB gate.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Reinforces a gradual easing path; GDP does not force ECB timing changes on its own.
+
+Market narrative becomes less fragile versus negative-growth tails.
+
+Brazil — Retail Sales (Dec)
+
+1️⃣ Reuters Data (mechanical)
+MoM: -0.4% | Prior: +1.0% | Poll: -0.2% | Surprise: -20bp
+YoY: +2.30% | Prior: +1.30% (rev +1.50%) | Poll: +2.50% | Surprise: -20bp
+
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Broad weakness: multiple sectors down; extended retail weak in vehicles/materials → high rates crushing credit-sensitive demand.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+Confirms demand softness; breadth argues it’s not a one-off.
+
+JGM lens: pairs with IPCA near band to form a “policy bind” (stagflation flavor).
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Growth weakness doesn’t automatically bring cuts because inflation constraint binds—front-end remains CPI-led.
+
+United States — CPI (Jan) — 14:30 EST
+
+1️⃣ Reuters Data (mechanical)
+Core MoM: +0.3% | Prior: +0.2% | Poll: +0.3% | Surprise: 0bp
+Core YoY: +2.5% | Prior: +2.6% | Poll: +2.5% | Surprise: 0bp
+Headline MoM: +0.2% | Prior: +0.3% | Poll: +0.3% | Surprise: -10bp
+Headline YoY: +2.4% | Prior: +2.7% | Poll: +2.5% | Surprise: -10bp
+
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+
+Dominant framing: core at 0.3 = “sticky floor”; not a dovish smoking gun.
+
+Shelter described as decelerating; some “reassuring” takes on YoY progress, but consensus remained: March cut not the base.
+
+Cross-asset tape: yields drifted lower after initial NFP spike; USD supported but not a breakout.
+
+3️⃣ Comment — Economist layer (JGM embedded)
+
+Core at 0.3 keeps “sticky” concerns alive even if YoY improves; headline softness is energy-driven.
+
+JGM lens: this print must be read jointly with (a) wage +0.4 in NFP and (b) weak demand evidence (retail + housing). That mix says: policy is restrictive enough to bend demand, but services inflation progress isn’t yet clean.
+
+4️⃣ HF Take — Strategist layer (JGM embedded)
+
+Reaction function: March hold reinforced (aligned with your “Fed on hold March”).
+
+Market distribution: not hot enough to hike, too sticky to cut immediately; cuts remain a mid/late-year conditional on a run of softer core/services prints.
+
+Your pricing anchor (2 cuts Jun/Jul + Dec) remains plausible: CPI didn’t invalidate it, but also didn’t pull it materially earlier.
+
+WEEK SYNTHESIS — THE ACTUAL “MARKET READ” (MULTI-INPUT)
+
+Theme A — US: Demand bending, labor stabilizing, inflation progress incomplete
+
+Retail control miss + housing slump = major-purchase constraint and a growth-scare impulse.
+
+NFP headline beat is composition-tainted, but wages + household survey strength prevent “labor break” narratives.
+
+CPI core at 0.3 keeps a sticky floor framing: disinflation continues, but not clean enough to force near-term easing.
+Net: The distribution shifts toward “cuts later, conditional,” not “urgent cuts” and not “no cuts.”
+
+Theme B — Norway: Inflation surprise dominates policy pricing
+
+CPI upside (rent/discount mechanics + wage negotiation relevance) turns GDP resilience into a tightening constraint.
+Net: Easing pushed out unless Feb CPI reverses.
+
+Theme C — China: Liquidity up, demand-pull still weak
+
+CPI low with PPI negative → weak pricing power persists; M2 acceleration reinforces easing bias but highlights transmission failure.
+Net: Policy support more likely; growth quality remains the question.
+
+Theme D — Eurozone: Stabilization confirmed (not acceleration)
+
+GDP/ रोजगार steady reduces recession tail; supports gradual easing narrative.
+Net: ECB remains inflation-led; growth is no longer an immediate risk-off catalyst.
+
+Theme E — EM constraints differentiated
+
+Mexico: core stickiness → slower easing skew.
+
+Brazil: inflation ceiling constraint despite weak demand.
+
+Turkey: external financing vulnerability tail rises.
 
 ================================================================================
 <<WEEK_END>>
 JGM AUDIT SUMMARY
+
