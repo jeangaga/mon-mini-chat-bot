@@ -1,3 +1,67 @@
+
+I'll extract only the DM country data (excluding USA and Eurozone). Here is the clean copy-paste with no changes:
+
+<<LIVE_DM_MACRO_BEGIN>>
+DEVELOPED MARKETS DATA (ex-USD, ex-EUR) - Week of February 9–13, 2026
+
+MONDAY, FEBRUARY 9
+Japan — Current Account (Dec) — 00:50 JST
+1️⃣ Reuters Data (mechanical)
+NSA: ¥728.8B | Prior: ¥3,674.1B | Poll: ¥1,060.4B | Surprise: -31%
+SA: ¥2,697.1B | Prior: ¥3,137.8B
+Trade Balance SA: ¥56.2B | Prior: ¥450.7B
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desks framed the miss as "uneven external balance": recovery remains income-flow dependent (investment income) rather than a clean trade-volume story.
+Composition read: goods balance improved but didn't offset income volatility; focus was on the sharp contraction vs consensus as "signal," even if noisy.
+3️⃣ Comment — Economist layer (data-focused; JGM embedded)
+CA prints are timing-sensitive (dividends/transfers). Signal is not "Japan suddenly weak," but that the external surplus engine is structurally income-led.
+JGM lens: treat as second-order for BoJ: it matters mainly through FX stability constraints; the policy core remains wages/services inflation.
+4️⃣ HF Take — Strategist / desk layer (reaction-function disciplined; JGM embedded)
+This does not shift BoJ policy probabilities on its own.
+Practical mapping: it reinforces a tail where JPY can be more sensitive to global risk/income-flow seasonality, but absent FX stress it's not a trade-defining macro impulse.
+Norway — GDP (Q4) — 08:00 CET
+1️⃣ Reuters Data (mechanical)
+Headline QoQ: -0.3% | Prior: +1.1% (rev +1.3%)
+Mainland QoQ: +0.4% | Prior: +0.1% | Poll: +0.4% | Surprise: 0bp
+Mainland MoM (Dec): 0.0% | Prior: -0.4%
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Mainland +0.4% seen as consistent with Norges Bank "cooling but not weak"; capacity utilization close to normal.
+Desk linkage was explicit: resilient mainland activity reduces urgency to cut, especially with inflation still above target.
+3️⃣ Comment — Economist layer (JGM embedded)
+Headline is oil/gas noise; Mainland is the signal and it reads "steady."
+December flat MoM is a momentum check, not a regime break.
+JGM lens: the relevance is conditional on CPI: GDP resilience + CPI upside later in week is what tightens the easing constraint.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+GDP alone is neutral; GDP + CPI surprise shifts the distribution toward later/fewer cuts.
+NOK sensitivity rises when the market is anchored to a "June cut" narrative—this GDP print provides permission to push back.
+
+TUESDAY, FEBRUARY 10
+Norway — CPI (Jan) — 08:00 CET
+1️⃣ Reuters Data (mechanical)
+Headline YoY: +3.6% | Prior: +3.2% | Poll: +3.1% | Surprise: +50bp
+Headline MoM: +0.6% | Prior: +0.1%
+Core YoY: +3.4% | Prior: +3.1% | Poll: +3.0% | Surprise: +40bp
+Core MoM: +0.3% | Prior: +0.1% | Poll: -0.1% | Surprise: +40bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Subcomponent emphasis: housing/utilities and transport were singled out; restaurants/accommodation sticky.
+Desks: "materially reduces near-term easing probability," pushing back against dovish narratives.
+Pricing: money markets pushed earliest cut later; NOK strengthened on the print.
+3️⃣ Comment — Economist layer (JGM embedded)
+Key issue is where the upside comes from. If it's rents/services (persistence), it's not "noise."
+JGM lens: rent weight mechanics + less discounting (air tickets/clothes/furniture) matter for interpreting persistence. Also: headline annualized above Norges Bank path becomes relevant for wage negotiations, increasing second-round risk.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Reaction function shift is first-order: distribution skews to fewer/later cuts unless February reverses meaningfully.
+Market read: NOK strength is consistent with timing repricing—not a new hiking regime, but "high-for-longer bias."
+Gating: Feb CPI is the confirm/deny print.
+
+DM (ex-USD, ex-EUR) WEEK SYNTHESIS — Theme B
+Norway: Inflation surprise dominates policy pricing
+CPI upside (rent/discount mechanics + wage negotiation relevance) turns GDP resilience into a tightening constraint.
+Net: Easing pushed out unless Feb CPI reverses.
+<<LIVE_DM_MACRO_END>>
+
+
+
 <<LIVE_DM_MACRO_BEGIN>>
 
 ================================================================================
@@ -1233,6 +1297,7 @@ Reaction function: Norges easing optionality is pushed out; the bar for dovish s
 Transmission: NOK-supportive via front-end repricing / higher-for-longer bias.
 
 Norway — Core Inflation (Dec, m/m)
+
 
 
 
