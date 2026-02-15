@@ -1,3 +1,101 @@
+
+<<LIVE_EM_MACRO_BEGIN>>
+EMERGING MARKETS DATA - Week of February 9–13, 2026
+
+MONDAY, FEBRUARY 9
+Mexico — CPI (Jan) — 13:00 CST
+1️⃣ Reuters Data (mechanical)
+Headline MoM: +0.38% | Prior: +0.28% | Poll: +0.41% | Surprise: -3bp
+Core MoM: +0.60% | Prior: +0.41% | Poll: +0.59% | Surprise: +1bp
+YoY: +3.79% | Prior: +3.69% | Poll: +3.82% | Surprise: -3bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desk focus was core persistence; headline within band was largely ignored.
+Swaps repricing (as captured): reduced odds of pre-June cuts, framing as a hawkish wake-up call.
+Mexico carry appeal seen as intact unless growth deterioration dominates.
+3️⃣ Comment — Economist layer (JGM embedded)
+The print is about core acceleration; the persistence question is whether it's tax/min wage/excise and goods vs a broad services reheat.
+JGM lens: your attribution matters: higher excise/tobacco + min wage effects + processed food (core goods) = hawkish at the margin but different persistence than services.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Banxico distribution shifts to pause / slower easing: policy asymmetry rises (cuts delayed faster than hikes appear).
+MXN remains supported by carry in the baseline, but the tail is a policy-delay + growth softness mix.
+
+TUESDAY, FEBRUARY 10
+Brazil — IPCA Inflation (Jan) — 13:00 BRT
+1️⃣ Reuters Data (mechanical)
+MoM: +0.33% | Prior: +0.33% | Poll: +0.32% | Surprise: +1bp
+YoY: +4.44% | Prior: +4.26% | Poll: +4.43% | Surprise: +1bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Dominant framing: upper-band proximity constraint (4.44 vs 4.5) keeps "high-for-longer" alive even if growth softens.
+Focus survey context: inflation expectations slightly lower for 2026 in some commentary, but not enough to relax policy.
+3️⃣ Comment — Economist layer (JGM embedded)
+The macro point is policy convexity near the band: tolerance narrows even if activity weakens.
+JGM lens: Brazil is a clean example of "growth weakness ≠ easing freedom" when credibility constraints bind.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Tail risk: any breach risk forces a hawkish reaction; baseline is limited easing optionality.
+Next CPI matters more than growth prints for front-end direction.
+
+WEDNESDAY, FEBRUARY 11
+China — CPI/PPI (Jan) — 02:30 Beijing
+1️⃣ Reuters Data (mechanical)
+CPI YoY: +0.2% | Prior: +0.8% | Poll: +0.4% | Surprise: -20bp
+CPI MoM: +0.2% | Prior: +0.2% | Poll: +0.3% | Surprise: -10bp
+PPI YoY: -1.4% | Prior: -1.9% | Poll: -1.5% | Surprise: +10bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Strong emphasis on Lunar New Year base distortion; headline discounted.
+But core narrative split: some desk takes leaned "still recovery," while others stressed demand-pull still weak.
+PPI narrowing linked to industrial input stabilization (non-ferrous mentioned).
+3️⃣ Comment — Economist layer (JGM embedded)
+Base effects matter, but the durable issue is still: pricing power remains weak (CPI low, PPI negative).
+JGM lens: you explicitly flag demand-pull not improved materially (housing weak; jobs/wages subdued). That keeps the interpretation anchored: even if MoM/core has small "tentative" signs, the path remains challenging.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Reaction function: increases probability weight on continued policy support (RRR/targeted easing), but the key constraint is transmission (credit ≠ consumption).
+Market read: a "liquidity up" signal can support tactical risk, but without demand recovery it also sustains the tail of policy-driven, not organic growth.
+
+FRIDAY, FEBRUARY 13
+China — M2 Money Supply (Jan)
+1️⃣ Reuters Data (mechanical)
+YoY: +9.0% | Prior: +8.5% | Poll: +8.4% | Surprise: +60bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Framed as liquidity surge / easing impulse; some tactical "risk supportive" takes appeared.
+Also raised the standard desk question: money growth vs weak CPI = transmission failure.
+3️⃣ Comment — Economist layer (JGM embedded)
+Money growth rising with CPI still low supports "liquidity available" but demand-pull weak.
+JGM lens: consistent with your China interpretation: core inflation path still challenging; housing/jobs constrain consumption demand.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Reinforces easing bias, but increases the tail risk of currency-management sensitivity if liquidity keeps rising without growth traction.
+Tactical risk can respond; structural macro doesn't improve without demand transmission.
+Turkey — Current Account (Dec)
+1️⃣ Reuters Data (mechanical)
+Balance: -$7.253B | Prior: -$3.996B | Poll: -$5.200B | Surprise: -$2.053B
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Miss driven by goods (incl. gold) and softer services revenues; annual deterioration flagged as a TRY fragility input.
+3️⃣ Comment — Economist layer
+External balance deterioration raises financing needs; in Turkey this is a primary macro constraint (more than "growth vs inflation" frameworks).
+4️⃣ HF Take — Strategist layer
+Carry narratives become more fragile when CA widens alongside reserve draw concerns—tail risk rises even if spot is calm.
+Brazil — Retail Sales (Dec)
+1️⃣ Reuters Data (mechanical)
+MoM: -0.4% | Prior: +1.0% | Poll: -0.2% | Surprise: -20bp
+YoY: +2.30% | Prior: +1.30% (rev +1.50%) | Poll: +2.50% | Surprise: -20bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Broad weakness: multiple sectors down; extended retail weak in vehicles/materials → high rates crushing credit-sensitive demand.
+3️⃣ Comment — Economist layer (JGM embedded)
+Confirms demand softness; breadth argues it's not a one-off.
+JGM lens: pairs with IPCA near band to form a "policy bind" (stagflation flavor).
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Growth weakness doesn't automatically bring cuts because inflation constraint binds—front-end remains CPI-led.
+
+EM WEEK SYNTHESIS — Theme C & Theme E
+Theme C — China: Liquidity up, demand-pull still weak
+CPI low with PPI negative → weak pricing power persists; M2 acceleration reinforces easing bias but highlights transmission failure.
+Net: Policy support more likely; growth quality remains the question.
+Theme E — EM constraints differentiated
+Mexico: core stickiness → slower easing skew.
+Brazil: inflation ceiling constraint despite weak demand.
+Turkey: external financing vulnerability tail rises.
+<<LIVE_EM_MACRO_END>>
+
+
 <<LIVE_EM_MACRO_BEGIN>>
 
 ================================================================================
@@ -1302,6 +1400,7 @@ CBT: credibility/reserves dominate; easing talk remains constrained even with so
 
 China: policy retains room for support; no inflation penalty, but no clear demand re-acceleration either.
 <<LIVE_EM_MACRO_END>>
+
 
 
 
