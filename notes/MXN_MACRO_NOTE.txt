@@ -1,4 +1,230 @@
 <<<MXN_MACRO_NOTE_BEGIN>>>
+MXN — Rolling 4-Week Macro Note
+
+Date: 30 Jan 2026
+Window: Jan 2 – Jan 30, 2026
+Previous Note: 19 Jan 2026 (Foundation Regime Anchor)
+Sources: INEGI (Tier 1B), Reuters/Bloomberg (Tier 1A), Mistral scout tape
+
+DATE-CONSTRAINT CHECK: Only releases within Jan 2–30 window used.
+
+1️⃣ Executive Summary (Declarative)
+
+Regime Verdict:
+Mexico transitions from “inflation-constrained plateau” to “growth-shock with conditional easing optionality.”
+
+Delta vs Previous Note:
+The Foundation note emphasized sticky core inflation + trade-policy risk as binding constraints.
+The rolling tape introduces a material growth break (IGAE → GDP flash contraction) while headline disinflation resumes.
+
+Dominant Force:
+Sequential hard-activity contraction (Q4 GDP -0.3% q/q; -0.1% y/y).
+
+Binding Constraint:
+Core/services momentum + FX/differential stability.
+
+Central Bank Baseline:
+Plateau with rising easing probability, but sequencing remains core-dependent.
+
+Regime Status:
+Not a crisis regime.
+But distribution shifted left — MXN loses the “stable growth + carry” symmetry.
+
+2️⃣ Regime-Moving Data (Hierarchy Weighted)
+(Rank 1) GDP Flash — Q4 y/y
+
+INEGI (Tier 1B): -0.1% (vs +1.3% poll; +1.5% prior)
+First negative y/y since Q2 2021.
+Services -0.2%; Industry -0.3%.
+
+Structural Implication:
+Narrative reset from soft landing to stall-speed risk.
+
+Signal vs Noise: SIGNAL
+
+Market Reaction (Mistral scout):
+MXN -0.8% to 17.85; 2y TIIE repriced 25bp cuts by June (vs 10bp pre-release).
+
+JGMMACRO:
+This breaks the macro equilibrium anchor underpinning carry positioning.
+
+(Rank 2) GDP Flash — Q4 q/q
+
+INEGI: -0.3% (vs +0.6% poll; +0.9% prior)
+Second consecutive quarterly contraction.
+
+Structural Implication:
+Technical recession probability non-trivial (Bloomberg/JPMorgan: 35%).
+
+Signal vs Noise: SIGNAL
+
+JGMMACRO:
+Sequential contraction > y/y optics.
+
+(Rank 3) IGAE — Nov y/y
+
+INEGI: -0.1% (vs +1.0% poll; +1.7% prior)
+Manufacturing -0.5%; Construction -1.2%.
+
+Structural Implication:
+Early confirmation of GDP contraction.
+
+Signal vs Noise: SIGNAL
+
+JGMMACRO:
+Broad weakness, not sector idiosyncrasy.
+
+(Rank 4) CPI — Dec
+
+Headline +0.28% m/m (vs +0.40% poll; +0.66% prior)
+Headline y/y 4.62% (vs 4.81% prior)
+
+Structural Implication:
+Disinflation reasserted.
+
+Market Reaction:
+MXN +0.5%; 50bp cuts priced by mid-2026.
+
+JGMMACRO:
+Inflation constraint loosens precisely as growth weakens — regime interaction critical.
+
+(Rank 5) CPI — Jan 1H
+
+Headline +0.31% (vs +0.40% poll)
+y/y 4.45%
+
+Structural Implication:
+Sequential disinflation continues.
+
+Signal vs Noise: SIGNAL
+
+(Rank 6) Core CPI — Jan 1H
+
++0.43% (vs +0.44% poll)
+Services +0.51%
+
+Structural Implication:
+Core stable; services sticky.
+
+Signal vs Noise: CONSTRAINT CHECK
+
+JGMMACRO:
+This is the pacing governor.
+
+3️⃣ Top-Down Macro Synthesis (JGMMACRO Core Engine)
+A) Growth
+
+What is bending
+Hard activity momentum broke:
+IGAE negative → GDP contraction (q/q and y/y).
+This is a sequence, not volatility.
+
+Industry remains contractionary; services also contracting.
+
+What is holding
+No counterbalancing domestic impulse visible in provided tape.
+No labor or consumption stabilizer available in window.
+
+What is noise
+Industrial m/m bounce is noise without trend confirmation.
+PMI sub-50 remains contractionary — confirmation only.
+
+Composition logic
+Weakness appears across services + industry → consistent with restrictive real-rate bite and weaker external demand.
+This is cyclical deterioration, not statistical artifact.
+
+JGMMACRO dominant force:
+Growth differential deterioration now first-order FX driver.
+
+B) Labor
+
+No labor releases provided in tape.
+Cannot infer wage dynamics or slack without additional input.
+
+C) Inflation
+
+What is improving
+Headline disinflation resumed (Dec + Jan 1H undershoots).
+Sequential improvement credible.
+
+What remains constraint
+Core ~0.4% m/m; services 0.51%.
+Not accelerating, but not collapsing.
+
+Pipeline signals benign (no contradiction in provided tape).
+
+JGMMACRO synthesis:
+Inflation no longer mechanically binding.
+Core remains probabilistic constraint.
+
+D) Causal Synthesis
+
+Dominant force: Growth break (IGAE → GDP).
+Secondary force: Headline disinflation.
+Binding constraint: Core/services + FX/differential stability.
+
+Regime shift is not toward recession panic —
+It is toward easing probability repricing.
+
+4️⃣ Central Bank Reaction Function
+
+Last stance (Foundation note):
+Policy rate 7.00% after cumulative 300bp cuts in 2025.
+Bias: cautious, inflation vigilant.
+
+Distribution update:
+
+What keeps Banxico on hold:
+• Core services persistence
+• MXN disorderly weakness
+• US-MX differential pressure
+
+What shifts toward easing:
+• Continued weak activity sequence
+• Additional headline undershoots
+• FX stability
+
+What forces defensive posture:
+• Core re-acceleration
+• External risk-off shock
+
+JGMMACRO conclusion:
+Banxico moves from inflation-dominant stance to growth-sensitive sequencing regime.
+
+5️⃣ Political / Policy Transmission
+
+No new USMCA catalyst in this window.
+Structural trade-policy risk remains background, not trigger.
+
+6️⃣ Cross-Market Attribution
+
+Growth shock:
+→ Front-end rally
+→ Cuts repriced
+→ MXN loses clean carry symmetry
+
+Inflation undershoot:
+→ Real-rate credibility maintained
+→ Offsets but does not negate growth shock
+
+Net FX regime:
+Carry present, but conditional.
+Left-tail wider.
+
+Final JGMMACRO Classification
+
+MXN = Growth break + easing optionality regime.
+Not crisis.
+Not stable carry.
+Sequencing-sensitive macro.
+
+<<<MXN_MACRO_NOTE_END>>>
+
+
+
+
+
+<<<MXN_MACRO_NOTE_BEGIN>>>
 MXN Rolling Macro Note — Mexico
 Date: 30 Jan 2026 (Paris) | Status: built from live tape through Jan 30 close
 Primary window (rolling 4 weeks): Jan 2 – Jan 30, 2026
@@ -596,5 +822,6 @@ Trigger map:
 PM Self-Assessment (foundation quality): PASS as a regime anchor; subsequent live runs should focus on deltas vs this foundation.
 
 <<<MXN_MACRO_NOTE_END>>>
+
 
 
