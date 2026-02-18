@@ -1,5 +1,80 @@
 
+
 <<LIVE_MXN_MACRO_BEGIN>>
+
+MONDAY, FEBRUARY 9
+Mexico — CPI (Jan) — 13:00 CST
+1️⃣ Reuters Data (mechanical)
+Headline MoM: +0.38% | Prior: +0.28% | Poll: +0.41% | Surprise: -3bp
+Core MoM: +0.60% | Prior: +0.41% | Poll: +0.59% | Surprise: +1bp
+YoY: +3.79% | Prior: +3.69% | Poll: +3.82% | Surprise: -3bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Desk focus was core persistence; headline within band was largely ignored.
+Swaps repricing (as captured): reduced odds of pre-June cuts, framing as a hawkish wake-up call.
+Mexico carry appeal seen as intact unless growth deterioration dominates.
+3️⃣ Comment — Economist layer (JGM embedded)
+The print is about core acceleration; the persistence question is whether it's tax/min wage/excise and goods vs a broad services reheat.
+JGM lens: your attribution matters: higher excise/tobacco + min wage effects + processed food (core goods) = hawkish at the margin but different persistence than services.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Banxico distribution shifts to pause / slower easing: policy asymmetry rises (cuts delayed faster than hikes appear).
+MXN remains supported by carry in the baseline, but the tail is a policy-delay + growth softness mix.
+
+================================================================================
+LIVE EMERGING MARKETS MACRO NOTE — WEEK 2 (FEB 2-6, 2026)
+
+MEXICO — Banxico Interest Rate Decision (Feb 5)
+• Actual: 7.00% HOLD vs Consensus: 7.00%
+
+PROFESSIONAL COMMENTARY (aggregated from public sources):
+→ BBVA Research (Dec 2025): "Banxico cut to 7.00% and clearly signaled easing cycle now effectively on hold. Board noted uncertainty surrounding inflation shock from fiscal measures (excise taxes). Forward guidance changed to 'evaluate TIMING for additional rate adjustments' vs prior 'evaluate REDUCING the rate.' Room for near-term cuts exhausted."
+→ Bloomberg Survey: "All 27 economists forecast 7.00% hold. Pause reflects concern over persistent core inflation (4.47%), which remains above upper limit of target range."
+→ Trading Economics: "First pause since June 2024, after 12 consecutive cuts. Banxico now projects inflation convergence to 3% target in Q2 2027 (extended from Q3 2026 prior)."
+→ Capital Economics Liam Peach: "Pause doesn't indicate end of easing but suggests stop-start approach dependent on inflation improvements."
+→ Scotiabank Economics: "Decision reflects less dovish stance vs previous meetings given both pause and unanimous vote. Likelihood of continuing easing cycle in March has DECREASED. We believe terminal rate 6.50% by end-2026, provided Mexico-US rate spread doesn't fall below 325bp."
+
+COMMENT (HF sensitivity):
+Dominant signal: Banxico PAUSE after 12 consecutive cuts (11.00% → 7.00%) signals easing cycle EXHAUSTED near-term. The CRITICAL shift: inflation target convergence pushed from Q3 2026 → Q2 2027 = ADMISSION that inflation stickier than expected. Core 4.47% (above 4.0% target band upper limit) is the constraint — services inflation + peso weakness + wage pressures keeping core elevated.
+Secondary: UNANIMOUS vote (no dissent) vs prior 4-1 split votes = Board UNIFIED in pause decision, reducing odds of near-term cut
+Noise: Single hold vs hold not informative; need March meeting to confirm if pause = "skip" or "pivot"
+Reaction-function impact (Banxico): Forward guidance shift ("timing" vs "reducing") is HAWKISH. This signals: (a) March cut unlikely unless core cooperates (<4.3%), (b) Easing cycle resume May/June if: core inflation moderates, USDMXN stable, Fed holds/cuts. Terminal rate likely 6.50% (from Scotiabank forecast), but timing extended — reach 6.50% by Q3-Q4 2026 (not mid-year as prior expectations).
+Transmission: MXN SUPPORTED near-term by pause (carry 7.00% vs Fed 4.50% = 250bp differential maintained). However, MXN vulnerable to: (a) Mexico growth miss (IGAE -0.1% Week 1 data), (b) US tariff threats (Trump trade policy), (c) Banxico eventual resumption of cuts (May/June). MXN range: 17.20-17.80 vs USD near-term, but downside risk to 18.00-18.50 if growth deteriorates or US tariffs imposed.
+Regime shift: Banxico has moved from "AGGRESSIVE EASING" (50bp cuts in 2025) → "CAUTIOUS PAUSE" (data-dependent, core inflation watching) → likely "GRADUAL EASING" (25bp cuts Q2-Q3 2026 if conditions allow). This makes MXN less attractive carry trade (cuts coming eventually) but less vulnerable than TRY/BRL (which are in crisis/recession mode).
+
+================================================================================
+LIVE EMERGING MARKETS MACRO NOTE — WEEK 1 (JAN 23-30, 2026)
+
+MEXICO — IGAE Economic Activity (Nov)
+• Actual: -0.1% MM vs Consensus: 1.0% vs Prior: -0.6%
+
+COMMENT (HF sensitivity):
+Dominant signal: Major growth deceleration — consensus expected +1.0% rebound from -0.6% Oct, got -0.1% = soft domestic demand persisting
+Secondary: Mexico caught between US tariff threats (manufacturing export risk) and domestic consumption weakness
+Noise: Monthly activity data volatile; need Q4 GDP (late Jan) for clearer picture
+Reaction-function impact (Banxico): Adds to easing case BUT core CPI still sticky (~4% vs 3% target). Jan 28 Selic hold expected, but March cut probability rising.
+Transmission: MXN vulnerable if IGAE → GDP downgrade. Banxico easing path (7.00% → 6.00% by end-2026) already priced, but acceleration risk if growth collapses while core cooperates.
+
+<<LIVE_EM_MACRO_BEGIN>>
+EM MACRO — LIVE WEEK VIEW (JAN 19–JAN 23, 2026)
+
+STATUS: Live as of FRIDAY close (JAN 23)
+
+THURSDAY 22 — RELEASED
+
+MEXICO — CPI 1st half-month m/m (Jan)
+Actual 0.31% vs Cons 0.40% vs Prior 0.17%
+HF comment: Dominant signal: headline disinflation continues (big downside surprise). Secondary: half-month prints can be noisy, but the miss matters for near-term pricing. Reaction function: supports Banxico easing optionality, but core is the true constraint. Channel: rates rally, MXN carry supportive.
+
+MEXICO — Core CPI 1st half-month m/m (Jan)
+Actual 0.43% vs Cons 0.44% vs Prior 0.31%
+HF comment: Dominant signal: core is only marginally below expectation and higher than prior — this blocks a dovish stampede. Secondary: the mix (soft headline, sticky-ish core) argues for gradual easing, not acceleration. Channel: front-end less bullish than headline alone would imply; MXN stable.
+
+MEXICO — IGAE economic activity y/y (Nov)
+Actual -0.1% vs Cons 1.0% vs Prior 1.7% (revised 1.8%)
+HF comment: Dominant signal: sharp growth downside surprise (big miss and deceleration). Secondary: this is the kind of print that changes the Banxico debate: growth becomes a binding constraint if it persists. Reaction function: increases easing pressure — but sticky core inflation still sets the pace. Channel: rates rally; MXN can weaken if growth fear dominates, but carry can offset if easing is seen as orderly.
+<<LIVE_MXN_MACRO_END>>
+
+
+
 MEXICO (MXN) MACRO — LIVE MONTH VIEW (JANUARY 2026)
 
 STATUS: Live as of JAN 30 close
@@ -317,3 +392,4 @@ Trigger map:
 PM Self-Assessment (foundation quality): PASS as a regime anchor; subsequent live runs should focus on deltas vs this foundation.
 
 <<<MXN_MACRO_NOTE_END>>>
+
