@@ -1,4 +1,73 @@
 
+
+<<LIVE_BRL_MACRO_BEGIN>>
+TUESDAY, FEBRUARY 10
+Brazil — IPCA Inflation (Jan) — 13:00 BRT
+1️⃣ Reuters Data (mechanical)
+MoM: +0.33% | Prior: +0.33% | Poll: +0.32% | Surprise: +1bp
+YoY: +4.44% | Prior: +4.26% | Poll: +4.43% | Surprise: +1bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Dominant framing: upper-band proximity constraint (4.44 vs 4.5) keeps "high-for-longer" alive even if growth softens.
+Focus survey context: inflation expectations slightly lower for 2026 in some commentary, but not enough to relax policy.
+3️⃣ Comment — Economist layer (JGM embedded)
+The macro point is policy convexity near the band: tolerance narrows even if activity weakens.
+JGM lens: Brazil is a clean example of "growth weakness ≠ easing freedom" when credibility constraints bind.
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Tail risk: any breach risk forces a hawkish reaction; baseline is limited easing optionality.
+Next CPI matters more than growth prints for front-end direction.
+
+FRIDAY, FEBRUARY 13
+Brazil — Retail Sales (Dec)
+1️⃣ Reuters Data (mechanical)
+MoM: -0.4% | Prior: +1.0% | Poll: -0.2% | Surprise: -20bp
+YoY: +2.30% | Prior: +1.30% (rev +1.50%) | Poll: +2.50% | Surprise: -20bp
+2️⃣ Professional Market Commentary (Gemini/Mistral scout)
+Broad weakness: multiple sectors down; extended retail weak in vehicles/materials → high rates crushing credit-sensitive demand.
+3️⃣ Comment — Economist layer (JGM embedded)
+Confirms demand softness; breadth argues it's not a one-off.
+JGM lens: pairs with IPCA near band to form a "policy bind" (stagflation flavor).
+4️⃣ HF Take — Strategist layer (JGM embedded)
+Growth weakness doesn't automatically bring cuts because inflation constraint binds—front-end remains CPI-led.
+
+TUESDAY 04 FEB — RELEASED
+
+BRAZIL — Industrial Production (Dec)
+• Monthly: -1.2% MM vs Prior: -0.8% MM
+• Annual: -0.5% YY vs Prior: 0.8% YY
+
+COMMENT (HF sensitivity):
+Dominant signal: Brazil IP -1.2% MM = SECOND CONSECUTIVE MONTHLY CONTRACTION, confirming industrial recession. This supports BCB dovish pivot — growth collapsing, inflation cooperating (IPCA falling), easing imminent.
+Secondary: Annual -0.5% YY = first negative annual print in months, driven by weak domestic demand + high Selic 15.00% choking credit
+Noise: December seasonality (holidays), but -1.2% MM is worse than typical seasonal
+Reaction-function impact (BCB): IP contraction + IPCA inflation benign = MARCH CUT 50BP certain. Terminal rate path: 15.00% → 14.50% Mar → 14.00% May → … → 11.00-11.50% by end-2026. Easing cycle will be GRADUAL (50bp steps, not 100bp) to avoid BRL collapse.
+Transmission: BRL vulnerable when cuts begin. Carry 15.00% currently attractive, but once cuts start (March), BRL weakens 5-8% over next 6 months. Timing: BRL stable Jan-Feb (carry trade), weakens Mar onwards (easing cycle).
+
+---
+
+BRAZIL — Composite PMI (Jan)
+• Actual: 49.9 vs Prior: 51.2
+
+COMMENT (HF sensitivity):
+Dominant signal: Composite 49.9 = CONTRACTION (first sub-50 reading in months), confirming IP data above. Brazil economy is STALLING — Selic 15.00% restrictive policy + weak global demand + domestic consumption fragile.
+Secondary: Drop from 51.2 → 49.9 is sharp (1.3pp), not gradual
+Noise: Survey volatility
+Reaction-function impact (BCB): PMI contraction reinforces March cut certainty
+Transmission: Same as IP above
+
+BRAZIL — Selic Interest Rate Decision (Jan meeting)
+• Actual: 15.00% HOLD vs Consensus: 15.00%
+
+COMMENT (HF sensitivity):
+Dominant signal: Hold as expected, but CONTEXT matters — BCB holding at cycle peak (15.00%) while growth softening and inflation cooperating. Minutes/guidance will signal timing of dovish pivot.
+Secondary: Brazil entering dovish window — IP contracting, unemployment rising, IPCA inflation falling toward 4.5% target
+Noise: Single meeting hold vs hold is not informative; need statement language on "prolonged restrictiveness" vs "data-dependent"
+Reaction-function impact (BCB): First cut likely March or May (50bp); terminal rate 11.00-11.50% by end-2026. Easing cycle will be GRADUAL (50bp steps, not 100bp) given inflation still above target.
+Transmission: BRL supportive near-term (carry 15% is massive), but vulnerable when cuts begin. Rates 15.00% → 11.00% over 12 months = 400bp easing = BRL weakening pressure. Timing: BRL stable Jan-Feb, weakens Mar onwards.
+
+
+<<LIVE_BRL_MACRO_END>>
+
+
 <<LIVE_BRL_MACRO_BEGIN>>
 BRAZIL (BRL) MACRO — LIVE MONTH VIEW (JANUARY 2026)
 
@@ -468,3 +537,4 @@ Trigger map:
 PM Self-Assessment (foundation quality): PASS as a regime anchor; live runs will require ongoing realised data tape updates.
 
 <<<BRL_MACRO_NOTE_END>>>
+
