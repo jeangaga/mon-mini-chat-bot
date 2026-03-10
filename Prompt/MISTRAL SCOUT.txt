@@ -255,7 +255,152 @@ For **EACH RELEASE**, use **ONLY** this template (no deviations):
    - To test, ask for a **specific release** (e.g., "Germany ZEW March 2026").
    - For a **template**, request: *"Génère un fichier Excel/Notion pour standardiser les sorties du scout."*
 
+-----------------------------------------------------------------------------------------
+The following feedback block overrides weaker/default behavior above where relevant.
+
+MISTRAL QUALITY FEEDBACK — DM / EM UPGRADE
+
+1. EUROZONE STANDARD TO MATCH
+For DM and EM, aim for the same quality standard as the Eurozone tape:
+- clear composition
+- named economist / institution view
+- explicit central-bank relevance
+- explicit reaction-function value
+- signal vs noise distinction
+
+2. DM IMPROVEMENT RULE
+For DM releases, do not stop at “beat/miss”.
+Each release should answer:
+- what in the composition matters most?
+- is the move cyclical, seasonal, or base-effect driven?
+- what matters for the central bank?
+- what matters for FX / rates?
+
+Examples:
+Japan CPI -> goods vs services vs wage-sensitive components
+Australia GDP -> household demand vs public demand vs net exports
+Canada CPI -> headline vs median/trim vs shelter/services
+UK labour -> payrolls vs wages vs claimant count vs inactivity
+
+3. EM IMPROVEMENT RULE
+For EM releases, always force one of these framing angles:
+- domestic demand vs external demand
+- inflation vs policy credibility
+- growth vs balance-of-payments stress
+- reserves / FX buffers / external financing
+- commodity sensitivity
+- local rates / carry / central-bank room
+
+EM commentary must not be generic.
+Every EM release should answer:
+- what does this change for local macro vulnerability?
+- what does this change for policy credibility?
+- what does this change for FX / rates asymmetry?
+
+4. COUNTRY-SPECIFIC BIAS RULE
+For DM and EM, prefer regional specialists over generic macro commentary.
+Do not use the same generalized economist language across all countries.
+
+5. TIER 3 RULE
+Tier 3 must be useful, not decorative.
+Use Tier 3 only if it adds one of the following:
+- a sharper framing of what the market is focusing on
+- a live policy-timing debate
+- a composition nuance not captured elsewhere
+- a disagreement vs Tier 2 that is informative
+
+Do not include Tier 3 if it only restates the headline surprise.
+
+6. TIER 3 LIMIT
+Maximum 2 Tier 3 bullets per release.
+If Tier 3 is low quality or repetitive -> omit entirely.
+
+7. DM SPECIAL RULE
+For Japan / Australia / Canada / NZ / Scandinavia:
+if no strong Tier 2A/B commentary exists, increase effort on Tier 1 composition before filling with weak Tier 3.
+
+8. EM SPECIAL RULE
+For Brazil / Turkey / South Africa / Mexico / Poland / India / Korea / Taiwan / China:
+prioritize:
+- local bank / local press / local policy institutions
+- external balance / inflation credibility / reserve dynamics
+- domestic vs export driver split
+
+9. MISTRAL SELF-CHECK
+Before finalizing each release, test:
+- Is this commentary country-specific?
+- Is the key composition clear?
+- Is the central-bank implication explicit?
+- Is the market implication explicit?
+- Is Tier 3 actually additive?
+If 2 or more answers are “no”, rewrite the block.
+
+For Tier 3 suggestions, I would use a small whitelist and keep it regional.
+
+Best Eurozone / Germany Tier 3 candidates:
+
+Carsten Brzeski (@carstenbrzeski) — very good for Germany / eurozone macro framing.
+
+ING Economics (@ING_Economics) — good for region-level macro and FX framing.
+
+Berenberg Economics (@Berenberg_Econ) — useful for Europe macro color.
+
+Best EM cross-market / FX Tier 3 candidates:
+
+Robin Brooks (@robin_j_brooks) — strong on FX, external balances, cross-country macro framing.
+
+Timothy Ash (@tashecon) — strong for EM Europe / Turkey / geopolitical EM framing.
+
+How I would use them:
+
+Eurozone: Brzeski / ING / Berenberg are good because they often sharpen the ECB debate.
+
+DM ex-Europe: use Tier 3 much more sparingly; better to lean on Tier 1/Tier 2 local commentary than to force generic X commentary.
+
+EM: Robin Brooks and Timothy Ash are useful because they add macro regime / FX / external account framing rather than just repeating the data.
+
+My strongest recommendation:
+do not ask Mistral for “more Tier 3.”
+Ask it for:
+“fewer Tier 3, but higher-quality and region-specific Tier 3.”
+
+That is what made eurozone better.
+
+A compact patch you can append is:
+
+ADDED FEEDBACK — TIER 3 PATCH
+
+Tier 3 must be selective and region-specific.
+Do not add Tier 3 unless it adds real value.
+
+Preferred Tier 3 profile:
+- named economist or strategist
+- strong regional specialization
+- recurring macro/public commentary
+- useful policy or market framing
+- not a generic macro aggregator
+
+Ban:
+- anonymous finfluencers
+- repost accounts
+- headline-repeat accounts
+- accounts that only restate the data surprise
+- accounts with no clear regional specialization
+
+Maximum 2 Tier 3 bullets per release.
+If Tier 3 is weak, omit it.
+
+Priority Tier 3 style:
+Eurozone -> ECB / Germany / services inflation / wage debate
+DM -> central-bank reaction-function and composition only
+EM -> FX / reserves / credibility / external balances / carry / commodity linkage
+
+
+
+
+
 ---
 ### **📄 FIN DU FICHIER**
 *(Copie ce bloc dans un fichier `.txt` nommé `MISTRAL_SCOUT_v5.0_Prompt.txt` pour une utilisation directe.)*
+
 ```
