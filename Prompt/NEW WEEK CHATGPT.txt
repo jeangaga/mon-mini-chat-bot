@@ -418,3 +418,128 @@ The note must close with the matching regional marker:
 <<USD_WEEK_END>>
 
 (or EUR / DM / EM depending on the region)
+
+
+ADDED FEEDBACK — ENFORCEMENT PATCH
+
+WEEK NOTE OUTPUT ENFORCEMENT
+
+1. TOP OF DOCUMENT
+Each week note must begin exactly with:
+<<REGION_WEEK_BEGIN>>
+DATA WINDOW: [start date] to [end date]
+
+The correct regional marker must be used:
+<<USD_WEEK_BEGIN>>
+<<EUR_WEEK_BEGIN>>
+<<DM_WEEK_BEGIN>>
+<<EM_WEEK_BEGIN>>
+
+2. COUNTRY GROUPING RULE
+Inside the regional block, releases must be grouped by country using uppercase country headers.
+
+Example:
+GERMANY
+FRANCE
+ITALY
+EURO ZONE
+
+Do not merge multiple countries into one macro block.
+Do not create broad cross-country release bundles.
+
+3. RELEASE GRANULARITY RULE
+Within each country section, each release must remain its own release block.
+
+Correct:
+Germany — Retail Sales (Jan)
+Release Date: 2 Mar 2026 | Local Time: 08:00
+1. Reuters Data
+2. Professional Market Commentary
+3. Comment — Economist Layer
+4. HF Take — Strategist Layer
+
+Incorrect:
+Germany — Data Roundup
+Germany — Consumer / Industry / Labor
+Germany — Macro Cluster
+
+Only group lines inside the same release family when they belong to the same release timestamp.
+Example allowed:
+Germany — CPI Prelim / HICP Prelim (Feb)
+because same release, same date, same time.
+
+4. DATE RULE
+Every release block must include:
+Release Date: [date] | Local Time: [time]
+
+Never omit the release date.
+Use the Reuters local release date and local time when available.
+
+5. REUTERS INGEST RULE
+Section 1 must remain strictly mechanical.
+No interpretation.
+No recomputation.
+No rounding.
+No adjective.
+Only fields present in Reuters.
+
+6. MISTRAL INTEGRATION RULE
+When Mistral tape is provided:
+- section 2 must be updated using the tape
+- section 3 may be updated only if the tape adds composition, breadth, revisions, base effects, seasonal nuance, or a clearer data interpretation
+- section 4 may be updated only if the tape adds reaction-function value, policy timing relevance, or a better cross-asset / FX implication
+- section 1 must remain unchanged
+
+7. COUNTRY ORDER RULE
+Use the countries in the order they appear in the ingest unless explicitly instructed otherwise.
+
+8. KEY RELEASES SECTION (MANDATORY)
+At the end of the note, after SIGNAL TENSION CHECK and before the END marker, add:
+
+5 KEY RELEASES TO DIG INTO
+
+Rank exactly 5 releases.
+These must be the 5 most decision-relevant releases for the region during the note window.
+
+Selection criteria:
+- highest policy relevance
+- largest reaction-function impact
+- strongest contradiction vs the broader regional narrative
+- highest informational value from composition/subcomponents
+- not simply the biggest surprise
+
+For each of the 5 releases, use this format:
+
+1. [Release Name] ([Date])
+Why it matters:
+[2-4 lines explaining why this is one of the key releases for the week note]
+
+The explanation must focus on:
+- why this release matters for the regional macro regime
+- why it matters for central-bank interpretation
+- why it matters for growth / inflation / labor / financial conditions mapping
+- why it matters more than other releases
+
+9. COUNTRY-LEVEL CLARITY RULE
+When the region contains many countries, preserve country headers even if there is only one release for that country.
+This is mandatory for readability.
+
+10. NO OVER-GROUPING RULE
+Do not compress a country into one giant block unless explicitly instructed.
+Default = country header + one block per release.
+
+11. OUTPUT STYLE RULE
+Dense desk format.
+Minimal spacing.
+No decorative separators.
+No prose summary outside the locked structure.
+
+12. FINAL BLOCK ORDER
+The final order must be:
+- releases grouped by country
+- MACRO SIGNAL SCOREBOARD
+- DATA QUALITY FLAG
+- SIGNAL TENSION CHECK
+- 5 KEY RELEASES TO DIG INTO
+- matching END marker
+
