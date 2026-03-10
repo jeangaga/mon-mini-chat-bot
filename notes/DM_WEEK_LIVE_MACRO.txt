@@ -1,7 +1,1101 @@
 
-I'll extract only the DM country data (excluding USA and Eurozone). Here is the clean copy-paste with no changes:
+<<DM_WEEK_BEGIN>>
+DATA WINDOW: 15 Feb 2026 to 6 Mar 2026
 
-<<LIVE_DM_MACRO_BEGIN>>
+JAPAN
+
+Japan — GDP (Q4)
+Release Date: 16 Feb 2026
+1. Reuters Data
+GDP QQ: 0.1% | Prior: -0.6% | Revised: -0.7% | Poll: 0.4% | Surprise: -0.30%
+GDP QQ Annualised: 0.2% | Prior: -2.3% | Revised: -2.6% | Poll: 1.6% | Surprise: -1.40%
+GDP QQ Pvt Consmp Prelim: 0.1% | Prior: 0.2% | Revised: 0.5% | Poll: 0.1% | Surprise: 0.00%
+GDP QQ Capital Expend.: 0.2% | Prior: -0.2% | Revised: 0.0% | Poll: 0.8% | Surprise: -0.60%
+GDP QQ External Demand: 0.0% | Prior: -0.2% | Revised: -0.3% | Poll: 0.1% | Surprise: -0.10%
+2. Professional Market Commentary
+Cabinet Office detail showed weak private consumption, only a small capex rebound, and flat external demand. Reuters cited SMBC Nikko saying the recovery remains fragile, while Bloomberg cited Totan Research arguing the BoJ is likely to stay dovish given the lack of wage-led consumption momentum. Tier 3 social-media commentary echoed the miss versus expectations but does not add decision weight.
+3. Comment — Economist Layer
+Headline growth missed and the composition stayed soft: consumption was weak, capex improved only marginally, and external demand was flat.
+4. HF Take — Strategist Layer
+This is softer than a clean BoJ-normalization growth backdrop and argues for a slower hawkish repricing unless later domestic-demand data improve.
+
+Japan — Tertiary Ind Act NSA (Dec)
+Release Date: 17 Feb 2026
+1. Reuters Data
+Tertiary Ind Act NSA: 8.4% | Prior: -2.5%
+2. Professional Market Commentary
+METI tertiary activity data were described by Reuters/Mizuho as a sharp rebound in services.
+3. Comment — Economist Layer
+Services activity rebounded sharply after a weak prior month.
+4. HF Take — Strategist Layer
+Helpful for the near-term Japan activity pulse, though not enough alone to override the weak GDP backdrop.
+
+Japan — Reuters Tankan N-Man Idx (Feb)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Reuters Tankan N-Man Idx: 25 | Prior: 32
+2. Professional Market Commentary
+Reuters commentary pointed to softer non-manufacturing sentiment as subdued consumer spending weighs on service-sector confidence.
+3. Comment — Economist Layer
+Sentiment softened despite better hard activity data elsewhere.
+4. HF Take — Strategist Layer
+Keeps the Japan domestic-demand story uneven and argues against aggressive hawkish extrapolation.
+
+Japan — Exports / Imports / Trade Balance (Jan)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Exports YY: 16.8% | Prior: 5.1% | Poll: 12.0% | Surprise: 4.80%
+Imports YY: -2.4% | Prior: 5.2% | Poll: 3.0% | Surprise: -5.40%
+Trade Balance Total Yen: -1,163.5B | Prior: 113.5B | Poll: -2,142.1B | Surprise: 978.60B
+2. Professional Market Commentary
+Reuters/SMBC described the export rebound as encouraging but noted the trade deficit persists, while FXStreet relayed Daiwa’s view that yen weakness is helping exports but worsening import-cost pressure.
+3. Comment — Economist Layer
+Exports were strong, imports weak, and the trade deficit narrower than feared; the mix still reflects yen-sensitive import-cost dynamics.
+4. HF Take — Strategist Layer
+Supportive for activity at the margin, but not a clean terms-of-trade or domestic-strength signal.
+
+Japan — Machinery Orders (Dec)
+Release Date: 19 Feb 2026
+1. Reuters Data
+Machinery Orders MM: 19.1% | Prior: -11.0% | Poll: 4.5% | Surprise: 14.60%
+Machinery Orders YY: 16.8% | Prior: -6.4% | Poll: 3.9% | Surprise: 12.90%
+2. Professional Market Commentary
+Reuters/Mizuho framed the machinery-orders surge as a constructive capex signal, though sustainability remains tied to global demand.
+3. Comment — Economist Layer
+A strong rebound in core capex orders suggests better investment momentum after a very weak prior base.
+4. HF Take — Strategist Layer
+Constructive for the medium-term Japan capex story, but sustainability matters more than one strong print.
+
+Japan — CPI, Core Nationwide / Overall Nationwide (Jan)
+Release Date: 20 Feb 2026
+1. Reuters Data
+CPI, Core Nationwide YY: 2.0% | Prior: 2.4% | Poll: 2.0% | Surprise: 0.00%
+CPI, Overall Nationwide: 1.5% | Prior: 2.1%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Nationwide inflation cooled materially from the prior month.
+4. HF Take — Strategist Layer
+Cooling headline inflation reduces pressure for a faster BoJ tightening path.
+
+Japan — S&P Global Flash PMIs (Feb)
+Release Date: 20 Feb 2026
+1. Reuters Data
+S&P Global Mfg PMI Flash SA: 52.8 | Prior: 51.5
+S&P Global Comp Op Flash SA: 53.8 | Prior: 53.1
+S&P Global SVC PMI Flash SA: 53.8 | Prior: 53.7
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+PMIs remained in expansion and improved modestly, especially in manufacturing.
+4. HF Take — Strategist Layer
+Supports the idea that Japan’s growth backdrop is soft but not stalling.
+
+Japan — Service PPI (Jan)
+Release Date: 25 Feb 2026
+1. Reuters Data
+Service PPI: 2.60% | Prior: 2.60%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Service-sector producer inflation stayed steady.
+4. HF Take — Strategist Layer
+Keeps the services-price backdrop firm enough to preserve medium-term BoJ normalization optionality.
+
+Japan — Chain Store Sales (Jan)
+Release Date: 25 Feb 2026
+1. Reuters Data
+Chain Store Sales YY: 2.7% | Prior: 0.0%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Retail-related sales improved materially from the prior month.
+4. HF Take — Strategist Layer
+Adds to evidence that consumption is weak but not collapsing.
+
+Japan — Leading Indicator Revised (Dec)
+Release Date: 26 Feb 2026
+1. Reuters Data
+Leading Indicator Revised: 1.1 | Prior: 0.3
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+The revised leading signal improved versus prior.
+4. HF Take — Strategist Layer
+Incrementally supportive for activity expectations, though still secondary to hard demand and inflation data.
+
+Japan — CPI Tokyo Ex fresh food / Overall Tokyo (Feb)
+Release Date: 27 Feb 2026
+1. Reuters Data
+CPI Tokyo Ex fresh food YY: 1.8% | Prior: 2.0% | Poll: 1.7% | Surprise: 0.10%
+CPI, Overall Tokyo: 1.6% | Prior: 1.5%
+2. Professional Market Commentary
+Reuters/Nomura emphasized slowing inflation and reduced immediate pressure on the BoJ to tighten. Tier 1 Tokyo detail pointed to falling energy prices offset partly by still-rising food prices.
+3. Comment — Economist Layer
+Tokyo CPI slowed, with lower energy acting as the main disinflation channel.
+4. HF Take — Strategist Layer
+This reduces the urgency of near-term BoJ tightening while leaving the medium-term normalization case intact.
+
+Japan — Industrial O/P Prelim (Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+Industrial O/P Prelim MM SA: 2.2% | Prior: -0.1% | Poll: 5.3% | Surprise: -3.10%
+2. Professional Market Commentary
+Reuters/SMBC described the rebound as real but weaker than expected because of soft auto production.
+3. Comment — Economist Layer
+Output rebounded, but the miss versus consensus shows manufacturing momentum was not as strong as expected.
+4. HF Take — Strategist Layer
+Helpful on direction, but not strong enough to drive a hawkish growth reprice.
+
+Japan — Retail Sales / Large Scale Retail Sales (Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+Retail Sales YY: 1.8% | Prior: -0.9% | Poll: -0.4% | Surprise: 2.20%
+Large Scale Retail Sales YY: 3% | Prior: 1%
+2. Professional Market Commentary
+Mizuho’s retail-sales comment highlighted that the sales beat is helpful, but durable recovery still depends on wage growth.
+3. Comment — Economist Layer
+Retail improved clearly, but the composition still does not prove a durable wage-led consumption cycle.
+4. HF Take — Strategist Layer
+Constructive for domestic demand, but not enough to overturn the still-cautious consumption narrative.
+
+Japan — Housing Starts (Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+Housing Starts YY: -0.4% | Prior: -1.3% | Poll: -1.6% | Surprise: 1.20%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Housing remained negative y/y but improved versus both prior and consensus.
+4. HF Take — Strategist Layer
+Mildly better for housing-sensitive demand, though still not a major macro driver.
+
+Japan — Jobs/Applicants Ratio / Unemployment Rate (Jan)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Jobs/Applicants Ratio: 1.18 | Prior: 1.20 | Poll: 1.19 | Surprise: -0.010
+Unemployment Rate: 2.7% | Prior: 2.6% | Poll: 2.6% | Surprise: 0.10%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Labour indicators softened modestly at the margin.
+4. HF Take — Strategist Layer
+A slight labour softening reduces the urgency of more aggressive BoJ repricing.
+
+Japan — Business Capex (MOF) / Monetary Base (Q4-Feb)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Business Capex (MOF) YY: 6.5% | Prior: 2.9%
+Monetary Base YY: -10.58% | Prior: -9.28%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Corporate investment improved while the monetary base kept contracting.
+4. HF Take — Strategist Layer
+Capex is supportive, but liquidity conditions remain tighter than in prior easy-money phases.
+
+Japan — S&P Global Manufacturing PMI Final (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+S&P Global Mfg PMI Final SA: 53.0 | Prior: 52.8
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Final manufacturing PMI improved modestly from the flash estimate.
+4. HF Take — Strategist Layer
+Reinforces the view that manufacturing is expanding, not weakening.
+
+Japan — S&P Global Services / Composite PMI Final (Feb)
+Release Date: 4 Mar 2026
+1. Reuters Data
+S&P Global Comp Op Final SA: 53.9 | Prior: 53.8
+S&P Global SVC PMI Final SA: 53.8 | Prior: 53.8
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Services and composite activity remained firmly in expansion.
+4. HF Take — Strategist Layer
+Keeps Japan in an uneven but still-positive activity regime.
+
+NEW ZEALAND
+
+New Zealand — Business PSI (Jan)
+Release Date: 15 Feb 2026
+1. Reuters Data
+Business PSI: 50.6 | Prior: 51.9
+2. Professional Market Commentary
+BusinessNZ data kept PSI marginally in expansion territory, but Reuters/ANZ said momentum is slowing.
+3. Comment — Economist Layer
+Services stayed just above the expansion threshold but lost momentum.
+4. HF Take — Strategist Layer
+Suggests softer NZ demand momentum rather than outright contraction.
+
+New Zealand — Elec Card Retail Sale (Jan)
+Release Date: 15 Feb 2026
+1. Reuters Data
+Elec Card Retail Sale MM: -1.1% | Prior: -0.3%
+Elec Card Retail Sale YY: 0.4% | Prior: -0.5%
+2. Professional Market Commentary
+Reuters/ASB described electronic-card spending as weak, with cost-of-living pressure still constraining household demand.
+3. Comment — Economist Layer
+Household spending softened sharply m/m despite a slightly better y/y comparison.
+4. HF Take — Strategist Layer
+Supports a cautious view on NZ household demand and near-term growth.
+
+New Zealand — Cash Rate (18 Feb)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Cash Rate: 2.25% | Prior: 2.25% | Poll: 2.25% | Surprise: 0.000%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Policy was left unchanged.
+4. HF Take — Strategist Layer
+Neutral on its own; the broader demand mix remains more important for RBNZ interpretation.
+
+New Zealand — Milk Auctions (16 Feb, w/e)
+Release Date: 17 Feb 2026
+1. Reuters Data
+Milk Auctions: 4,028 | Prior: 3,830
+2. Professional Market Commentary
+Global Dairy Trade showed firmer auction pricing, and Reuters/Westpac framed that as supportive for farm incomes.
+3. Comment — Economist Layer
+Dairy pricing improved from the prior auction.
+4. HF Take — Strategist Layer
+Constructive for rural income support.
+
+New Zealand — Trade Balance / Annual Trade Balance / Imports / Exports (Jan)
+Release Date: 19 Feb 2026
+1. Reuters Data
+Imports: 6.73B | Prior: 7.60B
+Trade Balance: -519.0M | Prior: -88.0M
+Annual Trade Balance: -2.31B | Prior: -2.34B
+Exports: 6.21B | Prior: 7.51B
+2. Professional Market Commentary
+Stats NZ detail highlighted lower imports alongside a wider January trade deficit. Reuters/ANZ attributed the wider deficit primarily to softer dairy export volumes.
+3. Comment — Economist Layer
+The external balance worsened m/m, with both imports and exports down and exports particularly soft.
+4. HF Take — Strategist Layer
+A softer external-demand signal offsets some of the income support from stronger dairy pricing.
+
+New Zealand — Milk Auctions (3 Mar, w/e)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Milk Auctions: 4,301 | Prior: 4,028
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Dairy prices improved further in the subsequent auction.
+4. HF Take — Strategist Layer
+Adds to the positive farm-income impulse.
+
+New Zealand — Retail Sales Volumes / Retail Qrtly Vs Yr Ago (Q4)
+Release Date: 22 Feb 2026
+1. Reuters Data
+Retail Sales Volumes QQ: 0.9% | Prior: 1.9%
+Retail Qrtly Vs Yr Ago: 4.4% | Prior: 4.5%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Retail volumes still grew, but the pace slowed from the prior quarter.
+4. HF Take — Strategist Layer
+Confirms softer, not collapsing, household demand.
+
+New Zealand — Terms of Trade / Export Volumes / Import Prices / Export Prices (Q4)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Terms of Trade QQ: 3.7% | Prior: -2.1% | Poll: -0.7% | Surprise: 4.40%
+Export Volumes SA: -3.2% | Prior: 3.4%
+Import Prices SA: 1.5% | Prior: 0.5% | Poll: 0.8% | Surprise: 0.70%
+Export Prices SA: 5.3% | Prior: -1.6% | Poll: 0.5% | Surprise: 4.80%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Terms of trade improved sharply on pricing, even as export volumes weakened.
+4. HF Take — Strategist Layer
+Better price dynamics offset some softer demand signals and argue for a more balanced NZ read.
+
+New Zealand — Reserve Assets Total (Feb)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Reserve Assets Total: 48,835M | Prior: 51,186M
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Reserve assets declined from the prior month.
+4. HF Take — Strategist Layer
+Limited standalone macro signal.
+
+UNITED KINGDOM
+
+United Kingdom — House Price Rightmove (Feb)
+Release Date: 16 Feb 2026
+1. Reuters Data
+House Price Rightmove MM: 0.0% | Prior: 2.8%
+House Price Rightmove YY: 0.0% | Prior: 0.5%
+2. Professional Market Commentary
+Rightmove signaled a flat monthly and annual print, and Reuters cited Nationwide’s view that the housing market remains subdued under still-high mortgage rates.
+3. Comment — Economist Layer
+Early-month asking-price momentum stalled after a strong prior print.
+4. HF Take — Strategist Layer
+Consistent with a still-restrictive mortgage backdrop.
+
+United Kingdom — Labour Market / HMRC Payrolls (Dec-Jan)
+Release Date: 17 Feb 2026
+1. Reuters Data
+Claimant Count Unem Chng: 28.6k | Prior: 2.7k
+ILO Unemployment Rate: 5.2% | Prior: 5.1% | Poll: 5.2% | Surprise: 0.00%
+Employment Change: 52k | Prior: 82k | Poll: 94k | Surprise: -42.0k
+Avg Wk Earnings 3M YY: 4.2% | Prior: 4.6% | Poll: 4.6% | Surprise: -0.40%
+Avg Earnings (Ex-Bonus): 4.2% | Prior: 4.4% | Poll: 4.2% | Surprise: 0.00%
+HMRC Payrolls Change: -11k | Prior: -6k
+2. Professional Market Commentary
+ONS/HMRC labour releases were interpreted by Reuters/HSBC as evidence that the labour market is weakening as growth stalls. Bloomberg cited Goldman Sachs saying the negative HMRC payroll print reinforces a cooling labour-market signal. TradingEconomics relayed Barclays arguing that rising unemployment increases pressure on the BoE to cut, but that remains secondary to the Reuters/Bloomberg layer.
+3. Comment — Economist Layer
+The labour signal softened across payrolls, claimant count, unemployment, and wage growth.
+4. HF Take — Strategist Layer
+Incrementally dovish for the BoE path, though not enough alone to force a fast-cut conclusion.
+
+United Kingdom — CPI / Core CPI / Services CPI / RPI / PPI (Jan)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Core CPI YY: 3.1% | Prior: 3.2% | Poll: 3.0% | Surprise: 0.10%
+CPI MM: -0.5% | Prior: 0.4% | Poll: -0.5% | Surprise: 0.00%
+CPI YY: 3.0% | Prior: 3.4% | Poll: 3.0% | Surprise: 0.00%
+RPI MM: -0.5% | Prior: 0.7% | Poll: -0.4% | Surprise: -0.10%
+RPI YY: 3.8% | Prior: 4.2% | Poll: 3.8% | Surprise: 0.00%
+RPIX YY: 3.7% | Prior: 4.1%
+CPI Services MM: -0.3% | Prior: 0.4%
+CPI Services YY: 4.4% | Prior: 4.5% | Poll: 4.3% | Surprise: 0.10%
+PPI Input Prices MM NSA: 0.4% | Prior: -0.5% | Poll: 0.3% | Surprise: 0.10%
+PPI Input Prices YY NSA: -0.2% | Prior: 0.5% | Poll: 0.3% | Surprise: -0.50%
+PPI Output Prices MM NSA: 0.0% | Prior: -0.1% | Poll: 0.2% | Surprise: -0.20%
+PPI Output Prices YY NSA: 2.5% | Prior: 3.1% | Poll: 2.9% | Surprise: -0.40%
+PPI Core Output MM NSA: 0.2% | Prior: -0.2%
+PPI Core Output YY NSA: 2.9% | Prior: 3.1%
+2. Professional Market Commentary
+ONS inflation data showed headline cooling, but FT/Goldman Sachs stressed that services inflation at 4.4% remains sticky. FXStreet relayed Barclays arguing the BoE would likely need services inflation below 4% before cutting. Tier 3 social commentary highlighted the same stickiness point but does not alter the institutional read.
+3. Comment — Economist Layer
+Headline disinflation progressed, but services and core remain firmer than a clean easing signal would require.
+4. HF Take — Strategist Layer
+Keeps the BoE in a mixed zone: falling headline inflation helps, but sticky services caps aggressive dovish repricing.
+
+United Kingdom — Retail Sales (Jan)
+Release Date: 20 Feb 2026
+1. Reuters Data
+Retail Sales MM: 1.8% | Prior: 0.4% | Poll: 0.2% | Surprise: 1.60%
+Retail Sales Ex-Fuel MM: 2.0% | Prior: 0.3% | Poll: 0.2% | Surprise: 1.80%
+Retail Sales YY: 4.5% | Prior: 1.9% | Poll: 2.8% | Surprise: 1.70%
+Retail Sales Ex-Fuel YY: 5.5% | Prior: 2.5% | Poll: 3.6% | Surprise: 1.90%
+2. Professional Market Commentary
+ONS detail showed the retail-sales jump was helped by a strong rebound in online sales and a moderate rise in food-store sales. Reuters/Barclays said the January retail surge is encouraging but household confidence remains fragile.
+3. Comment — Economist Layer
+Hard consumption data beat clearly, with identifiable support from online and food spending.
+4. HF Take — Strategist Layer
+Reduces the probability of a clean UK growth scare and offsets part of the softer labour signal.
+
+United Kingdom — Flash PMI (Feb)
+Release Date: 20 Feb 2026
+1. Reuters Data
+Flash Composite PMI: 53.9 | Prior: 53.7 | Poll: 53.3 | Surprise: 0.60
+Flash Manufacturing PMI: 52.0 | Prior: 51.8 | Poll: 51.5 | Surprise: 0.50
+Flash Services PMI: 53.9 | Prior: 54.0 | Poll: 53.5 | Surprise: 0.40
+2. Professional Market Commentary
+S&P Global PMI detail showed new orders still expanding and employment stable, while FT/Goldman Sachs interpreted the PMI mix as evidence the UK is avoiding recession.
+3. Comment — Economist Layer
+PMIs stayed in expansion, with the composite and manufacturing readings slightly better than expected.
+4. HF Take — Strategist Layer
+Growth looks firmer than the labour data alone would imply.
+
+United Kingdom — GfK Consumer Confidence (Feb)
+Release Date: 27 Feb 2026
+1. Reuters Data
+GfK Consumer Confidence: -19 | Prior: -16 | Poll: -15 | Surprise: -4.0
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Consumer confidence deteriorated materially.
+4. HF Take — Strategist Layer
+Warns against over-extrapolating the strong retail-sales print.
+
+United Kingdom — CBI Trends - Orders / CBI Distributive Trades (Feb)
+Release Date: 19 Feb 2026 / 24 Feb 2026
+1. Reuters Data
+CBI Trends - Orders: -28 | Prior: -30
+CBI Distributive Trades: -43 | Prior: -17
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Order books improved slightly, but distributive-trade sentiment weakened sharply.
+4. HF Take — Strategist Layer
+Survey demand signals stayed mixed rather than decisively strong.
+
+United Kingdom — Nationwide House Prices (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+Nationwide house price mm: 0.3% | Prior: 0.3% | Poll: 0.2% | Surprise: 0.10%
+Nationwide house price yy: 1.0% | Prior: 1.0% | Poll: 0.7% | Surprise: 0.30%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Nationwide pointed to modest continued housing resilience.
+4. HF Take — Strategist Layer
+Suggests the housing market is subdued, not collapsing.
+
+United Kingdom — BOE Consumer Credit / Mortgage Lending / Mortgage Approvals (Jan)
+Release Date: 2 Mar 2026
+1. Reuters Data
+BOE Consumer Credit: 1.812B | Prior: 1.652B | Poll: 1.700B | Surprise: 0.1120B
+Mortgage Lending: 4.076B | Prior: 4.492B
+Mortgage Approvals: 59.999k | Prior: 61.007k | Poll: 62.000k | Surprise: -2.0010k
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Consumer credit held up, while mortgage approvals softened.
+4. HF Take — Strategist Layer
+Points to selective household resilience but still-muted housing-finance demand.
+
+United Kingdom — S&P Global Manufacturing PMI (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+S&P GLOBAL MANUFACTURING PMI: 51.7 | Prior: 52.0 | Poll: 52.0 | Surprise: -0.30
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing stayed in expansion but softened slightly from flash/prior levels.
+4. HF Take — Strategist Layer
+Still compatible with a stable, not booming, growth backdrop.
+
+United Kingdom — S&P Global Service PMI / Composite PMI (Feb)
+Release Date: 4 Mar 2026
+1. Reuters Data
+S&P GLOBAL SERVICE PMI: 53.9 | Prior: 53.9 | Poll: 53.9 | Surprise: 0.00
+S&P GLOBAL PMI: COMPOSITE - OUTPUT: 53.7 | Prior: 53.9 | Poll: 53.9 | Surprise: -0.20
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Services stayed firm, though the composite edged down slightly.
+4. HF Take — Strategist Layer
+Still argues against a near-term recession narrative.
+
+United Kingdom — Reserve Assets Total (Feb)
+Release Date: 4 Mar 2026
+1. Reuters Data
+Reserve Assets Total: 236,665.93M | Prior: 232,266.45M
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Reserve assets increased from the prior month.
+4. HF Take — Strategist Layer
+Limited standalone macro signal.
+
+United Kingdom — S&P Global Construction PMI (Feb)
+Release Date: 5 Mar 2026
+1. Reuters Data
+S&P Global CONSTRUCTON PMI: 44.5 | Prior: 46.4 | Poll: 47.0 | Surprise: -2.50
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Construction activity deteriorated further and remained firmly contractionary.
+4. HF Take — Strategist Layer
+Shows persistent weakness in the most rate-sensitive parts of domestic activity.
+
+United Kingdom — Halifax House Prices (Feb)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Halifax House Prices MM: 0.3% | Prior: 0.7% | Revised: 0.8% | Poll: 0.3% | Surprise: 0.00%
+Halifax House Prices YY: 1.3% | Prior: 1.0% | Revised: 1.1% | Poll: 0.9% | Surprise: 0.40%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Halifax showed modest monthly growth and firmer annual house-price momentum.
+4. HF Take — Strategist Layer
+Housing signals remain mixed rather than uniformly weak.
+
+SWEDEN
+
+Sweden — Unemployment Rate (Jan)
+Release Date: 16 Feb 2026
+1. Reuters Data
+Unemployment Rate: 8.6% | Prior: 8.3%
+2. Professional Market Commentary
+Statistics Sweden labour data were read by Reuters/SEB as showing a softer labour market as activity slows.
+3. Comment — Economist Layer
+Labour-market slack increased.
+4. HF Take — Strategist Layer
+Dovish for Sweden at the margin.
+
+Sweden — Money Mkt CPIF Infl 5 Yrs (Feb)
+Release Date: 16 Feb 2026
+1. Reuters Data
+Money Mkt CPIF Infl 5 Yrs: 2.1% | Prior: 2.1%
+2. Professional Market Commentary
+Riksbank-linked inflation-expectations data were described by Reuters/Swedbank as still anchored at target.
+3. Comment — Economist Layer
+Longer-term inflation expectations remained anchored.
+4. HF Take — Strategist Layer
+Limits concern about de-anchoring and supports a softer policy bias.
+
+Sweden — CPI / CPIF / CPIF Ex Energy (Jan)
+Release Date: 20 Feb 2026
+1. Reuters Data
+CPI MM: 0.1% | Prior: 0.1% | Poll: 0.1% | Surprise: 0.00%
+CPI YY: 0.5% | Prior: 0.4% | Poll: 0.4% | Surprise: 0.10%
+CPIF MM: 0.3% | Prior: 0.2% | Poll: 0.2% | Surprise: 0.10%
+CPIF YY: 2.0% | Prior: 2.0% | Poll: 2.0% | Surprise: 0.00%
+CPIF Ex Energy MM: -0.4% | Prior: -0.5% | Poll: -0.5% | Surprise: 0.10%
+CPIF Ex Energy YY: 1.7% | Prior: 1.7% | Poll: 1.7% | Surprise: 0.00%
+2. Professional Market Commentary
+Statistics Sweden inflation data kept CPIF at target, and Reuters/SEB said the Riksbank is likely to wait for wage data before moving to cuts.
+3. Comment — Economist Layer
+Inflation stayed contained, with core ex-energy unchanged y/y and CPIF at target.
+4. HF Take — Strategist Layer
+Benign inflation backdrop, though wage confirmation still matters for cuts.
+
+Sweden — Overall Sentiment / Consumer Confidence SA (Feb)
+Release Date: 26 Feb 2026
+1. Reuters Data
+Overall Sentiment: 100.1 | Prior: 102.8
+Consumer Confidence SA: 96.3 | Prior: 95.0
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Broad sentiment softened, while consumer confidence improved slightly.
+4. HF Take — Strategist Layer
+Still a mixed, not directional, demand signal.
+
+Sweden — GDP Final / Retail Sales (Q4-Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+GDP Final YY: 2.1% | Prior: 1.8% | Poll: 2.2% | Surprise: -0.10%
+GDP Final QQ: 0.5% | Prior: 0.2% | Poll: 0.4% | Surprise: 0.10%
+Retail Sales MM: 0.1% | Prior: -0.6%
+Retail Sales YY: 4.1% | Prior: 2.3%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Growth and retail activity improved, even though the annual GDP print was slightly below consensus.
+4. HF Take — Strategist Layer
+Suggests Sweden is disinflating without an outright activity collapse.
+
+Sweden — SEB Housing Price / Housing Price Inc / Housing Price Dec (Mar)
+Release Date: 2 Mar 2026
+1. Reuters Data
+SEB Housing Price: 47.0% | Prior: 44.0%
+SEB Housing Price Inc: 55.0% | Prior: 53.0%
+SEB Housing Price Dec: 8.0% | Prior: 9.0%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Housing-price expectations improved modestly.
+4. HF Take — Strategist Layer
+Supportive for the housing outlook at the margin.
+
+Sweden — PMI Manufacturing Sect (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+PMI Manufacturing Sect: 56.1 | Prior: 56.0 | Revised: 55.9
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing PMI remained firmly expansionary.
+4. HF Take — Strategist Layer
+Adds to the case that activity is holding up better than the labour data alone suggest.
+
+Sweden — CPI / CPIF / CPIF Ex Energy Flash (Feb)
+Release Date: 5 Mar 2026
+1. Reuters Data
+CPI MM Flash: 0.6% | Prior: 0.1% | Poll: 0.8% | Surprise: -0.20%
+CPI YY Flash: 0.5% | Prior: 0.5% | Poll: 0.6% | Surprise: -0.10%
+CPIF Flash MM: 0.6% | Prior: 0.3% | Poll: 0.8% | Surprise: -0.20%
+CPIF Flash YY: 1.7% | Prior: 2.0% | Poll: 1.8% | Surprise: -0.10%
+CPIF Ex Energy Flash MM: 0.6% | Prior: -0.4% | Poll: 0.7% | Surprise: -0.10%
+CPIF Ex Energy FlashYY: 1.4% | Prior: 1.7% | Poll: 1.5% | Surprise: -0.10%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Flash inflation data softened further on the y/y measures.
+4. HF Take — Strategist Layer
+Keeps the Sweden disinflation story intact and supports a medium-term dovish bias.
+
+CANADA
+
+Canada — House Starts, Annualized (Jan)
+Release Date: 16 Feb 2026
+1. Reuters Data
+House Starts, Annualized: 238.0k | Prior: 280.7k | Poll: 255.0k | Surprise: -17.00k
+2. Professional Market Commentary
+CMHC housing-starts data were read by Reuters/RBC as reflecting the drag from high mortgage rates and weaker demand.
+3. Comment — Economist Layer
+Housing starts disappointed versus both prior and consensus.
+4. HF Take — Strategist Layer
+Adds to the view that restrictive rates are still biting in housing.
+
+Canada — Manufacturing Sales (Dec)
+Release Date: 16 Feb 2026
+1. Reuters Data
+Manufacturing Sales MM: 0.6% | Prior: -1.3% | Poll: 0.5% | Surprise: 0.10%
+2. Professional Market Commentary
+Bloomberg cited TD Securities saying manufacturing sales rebounded, but the forward outlook remains uncertain.
+3. Comment — Economist Layer
+Manufacturing rebounded after a weak prior month.
+4. HF Take — Strategist Layer
+A mild offset to the softer housing signal.
+
+Canada — CPI / BoC Core / CPI Median / CPI Trim / Wholesale Trade (Jan-Dec)
+Release Date: 17 Feb 2026
+1. Reuters Data
+CPI Inflation MM: 0.0% | Prior: -0.2% | Poll: 0.2% | Surprise: -0.20%
+CPI Inflation YY: 2.3% | Prior: 2.4% | Poll: 2.4% | Surprise: -0.10%
+CPI BoC Core YY: 2.6% | Prior: 2.8%
+CPI BoC Core MM: 0.2% | Prior: -0.4%
+CPI Median: 2.5% | Prior: 2.6% | Poll: 2.5% | Surprise: 0.00%
+CPI Trim: 2.4% | Prior: 2.7% | Poll: 2.6% | Surprise: -0.20%
+Wholesale Trade MM: 2.0% | Prior: -1.8% | Poll: 2.1% | Surprise: -0.10%
+2. Professional Market Commentary
+StatCan inflation data were described by Reuters/RBC Economics as unexpectedly soft, reducing urgency for the BoC to hike. TradingEconomics relayed Scotiabank’s caution that one soft month does not establish a trend. Reuters/BMO on wholesale trade highlighted a rebound in activity but noted inventories remain elevated.
+3. Comment — Economist Layer
+Inflation softened across headline and core measures, while wholesale activity rebounded.
+4. HF Take — Strategist Layer
+Modestly dovish for the BoC path, though one month is not enough for a strong trend conclusion.
+
+Canada — Trade Balance C$ (Dec)
+Release Date: 19 Feb 2026
+1. Reuters Data
+Trade Balance C$: -1.31B | Prior: -2.59B
+2. Professional Market Commentary
+StatCan trade data were interpreted by Reuters/TD Securities as a narrower deficit, though export growth remains weak.
+3. Comment — Economist Layer
+The trade deficit narrowed, but the tape still flagged weak export growth.
+4. HF Take — Strategist Layer
+Slightly better external balance, but not a decisive growth-positive signal.
+
+Canada — Producer Prices / Retail Sales / Retail Sales Ex-Autos (Jan-Dec)
+Release Date: 20 Feb 2026
+1. Reuters Data
+Producer Prices MM: 2.7% | Prior: -0.9%
+Retail Sales MM: -0.4% | Prior: 1.2% | Poll: -0.5% | Surprise: 0.10%
+Retail Sales Ex-Autos MM: 0.1% | Prior: 1.6% | Poll: -0.3% | Surprise: 0.40%
+2. Professional Market Commentary
+Reuters/RBC said retail-sales softness still reflects the impact of high interest rates, even if ex-autos held up better than feared.
+3. Comment — Economist Layer
+Retail softened, but less than feared ex-autos; producer prices rebounded sharply.
+4. HF Take — Strategist Layer
+Demand cooled, but not in a disorderly way; policy signal still leans slightly dovish via growth.
+
+Canada — Business Barometer (Feb)
+Release Date: 26 Feb 2026
+1. Reuters Data
+Business Barometer: 64.80 | Prior: 59.30
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Business sentiment improved.
+4. HF Take — Strategist Layer
+Offsets part of the softer household/growth picture.
+
+Canada — Current Account C$ (Q4)
+Release Date: 26 Feb 2026
+1. Reuters Data
+Current Account C$: -0.71B | Prior: -9.68B | Revised: -5.27B | Poll: -7.71B | Surprise: 7.000B
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+The current-account deficit improved sharply relative to prior and consensus.
+4. HF Take — Strategist Layer
+Supportive for the external backdrop, though growth remains the more important macro issue.
+
+Canada — GDP QQ Annualized / GDP MM (Q4-Dec)
+Release Date: 27 Feb 2026
+1. Reuters Data
+GDP QQ Annualized: -0.6% | Prior: 2.6% | Revised: 2.4% | Poll: 0.0% | Surprise: -0.60%
+GDP MM: 0.2% | Prior: 0.0% | Poll: 0.1% | Surprise: 0.10%
+2. Professional Market Commentary
+StatCan GDP data were framed by Reuters/CIBC as increasing the odds of BoC rate cuts in 2026 after the Q4 contraction. TradingEconomics relayed Desjardins’ view that Canada entered 2026 on a weak footing. Tier 3 commentary highlighted the growth-inflation dilemma, but the core institutional message is that weaker growth raises easing pressure.
+3. Comment — Economist Layer
+The monthly December print was better, but the Q4 annualized GDP contraction dominates the macro message.
+4. HF Take — Strategist Layer
+This shifts Canada more clearly toward a BoC-easing bias.
+
+Canada — S&P Global Mfg PMI SA (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+S&P Global Mfg PMI SA: 51.0 | Prior: 50.4
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing moved further into expansion territory.
+4. HF Take — Strategist Layer
+Helpful short-cycle signal, though still secondary to the weak GDP print.
+
+Canada — Leading Index MM (Feb)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Leading Index MM: 0.25% | Prior: 0.28% | Revised: 0.26%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+The leading index remained positive but slowed slightly.
+4. HF Take — Strategist Layer
+Suggests modest forward momentum, not strong acceleration.
+
+Canada — Ivey PMI / Ivey PMI SA (Feb)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Ivey PMI: 56.3 | Prior: 47.0
+Ivey PMI SA: 56.6 | Prior: 50.9
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Business activity improved sharply in the Ivey survey.
+4. HF Take — Strategist Layer
+Adds a better high-frequency signal, though it does not erase the Q4 GDP weakness.
+
+AUSTRALIA
+
+Australia — Composite Leading Idx MM (Jan)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Composite Leading Idx MM: -0.04% | Prior: 0.09%
+2. Professional Market Commentary
+Westpac’s leading index was read by Reuters/Westpac as pointing to slower economic momentum.
+3. Comment — Economist Layer
+Leading momentum turned slightly negative.
+4. HF Take — Strategist Layer
+Suggests softer forward activity without implying a hard landing.
+
+Australia — Wage Price Index (Q4)
+Release Date: 18 Feb 2026
+1. Reuters Data
+Wage Price Index QQ: 0.8% | Prior: 0.8% | Poll: 0.8% | Surprise: 0.00%
+Wage Price Index YY: 3.4% | Prior: 3.4% | Revised: 3.3% | Poll: 3.4% | Surprise: 0.00%
+2. Professional Market Commentary
+ABS wage data were described by Bloomberg/CBA as broadly in line with the RBA forecast, reducing near-term hike risk.
+3. Comment — Economist Layer
+Wage growth stayed steady and broadly consistent with the RBA’s prior path.
+4. HF Take — Strategist Layer
+Neutral-to-slightly dovish for the RBA reaction function.
+
+Australia — Employment / Participation Rate / Unemployment Rate (Jan)
+Release Date: 19 Feb 2026
+1. Reuters Data
+Employment: 17.8k | Prior: 68.5k | Poll: 20.0k | Surprise: -2.20k
+Participation Rate: 66.7% | Prior: 66.7% | Poll: 66.8% | Surprise: -0.10%
+Unemployment Rate: 4.1% | Prior: 4.1% | Poll: 4.2% | Surprise: -0.10%
+2. Professional Market Commentary
+Reuters/ANZ said the labour-market mix supports a wait-and-see RBA stance rather than an urgent policy shift.
+3. Comment — Economist Layer
+Job growth slowed, but the unemployment rate remained stable and slightly better than expected.
+4. HF Take — Strategist Layer
+Labour stayed resilient enough to prevent an aggressive easing narrative.
+
+Australia — S&P Global Flash PMIs (Feb)
+Release Date: 19 Feb 2026
+1. Reuters Data
+S&P Global Mfg PMI Flash: 51.5 | Prior: 52.3
+S&P Global Svs PMI Flash: 52.2 | Prior: 56.3
+S&P Global Comp PMI Flash: 52.0 | Prior: 55.7
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+PMIs stayed in expansion, but the pace slowed sharply, especially in services.
+4. HF Take — Strategist Layer
+Still-expansionary, but not supportive of a stronger RBA hawkish narrative.
+
+Australia — Construction Work Done (Q4)
+Release Date: 25 Feb 2026
+1. Reuters Data
+Construction Work Done: -0.1% | Prior: -0.7% | Revised: 0.1% | Poll: 0.9% | Surprise: -1.00%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Construction disappointed materially versus consensus.
+4. HF Take — Strategist Layer
+Shows ongoing weakness in the construction/housing-linked part of the economy.
+
+Australia — CPI / Weighted Median CPI / Trimmed Mean CPI (Jan)
+Release Date: 25 Feb 2026
+1. Reuters Data
+CPI MM: 0.40% | Prior: 1.00% | Poll: 0.26% | Surprise: 0.140%
+CPI YY: 3.80% | Prior: 3.80% | Poll: 3.70% | Surprise: 0.100%
+Weighted Median CPI MM SA: 0.30% | Prior: 0.20%
+Weighted Median CPI YY SA: 3.60% | Prior: 3.60%
+Trimmed Mean CPI MM SA: 0.30% | Prior: 0.20% | Poll: 0.30% | Surprise: 0.000%
+Trimmed Mean CPI YY SA: 3.4% | Prior: 3.3% | Poll: 3.3% | Surprise: 0.10%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Headline held steady y/y and core measures remained sticky rather than softening further.
+4. HF Take — Strategist Layer
+Keeps the RBA cautious and prevents a clean dovish read.
+
+Australia — Capital Expenditure / Building Capex / Plant-Machinery Capex (Q4)
+Release Date: 26 Feb 2026
+1. Reuters Data
+Capital Expenditure: 0.4% | Prior: 6.4% | Poll: 0.0% | Surprise: 0.40%
+Building Capex: 2.3% | Prior: 2.1%
+Plant/Machinery Capex: -1.7% | Prior: 11.5%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Aggregate capex rose modestly, but the composition was weaker in plant/machinery.
+4. HF Take — Strategist Layer
+Suggests investment is slowing from prior strength rather than collapsing.
+
+Australia — S&P Global Manufacturing PMI Final (Feb)
+Release Date: 1 Mar 2026
+1. Reuters Data
+S&P Global Mfg PMI Final: 51.0 | Prior: 51.5
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing stayed in expansion, though below the flash reading.
+4. HF Take — Strategist Layer
+Stable but not strong.
+
+Australia — Business Inventories (Q4)
+Release Date: 2 Mar 2026
+1. Reuters Data
+Business Inventories: -0.1% | Prior: -0.9% | Revised: -0.8% | Poll: -0.3% | Surprise: 0.20%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Inventories fell less than expected.
+4. HF Take — Strategist Layer
+Neutral to mildly supportive for the Q4 activity profile.
+
+Australia — Building Approvals / Building Approval Total YY (Jan)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Building Approvals: -7.2% | Prior: -14.9% | Poll: 5.0% | Surprise: -12.20%
+Building Approval Total YY: 8.1% | Prior: 13.3% | Revised: 16.4%
+2. Professional Market Commentary
+Bloomberg/Westpac described the building-approvals slump as evidence of housing-sector weakness.
+3. Comment — Economist Layer
+Approvals missed badly and confirmed a weak near-term construction pipeline.
+4. HF Take — Strategist Layer
+A clear drag from housing-sensitive activity.
+
+Australia — Current Account Balance / Net Exports Contribution (Q4)
+Release Date: 3 Mar 2026
+1. Reuters Data
+Current Account Balance SA: -21.1B | Prior: -16.6B | Poll: -16.5B | Surprise: -4.60B
+Net Exports Contribution: -0.1% | Prior: -0.1% | Revised: -0.2% | Poll: -0.3% | Surprise: 0.20%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+The current-account deficit widened materially, though the net-exports contribution was a bit less negative than expected.
+4. HF Take — Strategist Layer
+External-sector dynamics remain a headwind.
+
+Australia — S&P Global Services PMI Final / Composite PMI Final (Feb)
+Release Date: 3 Mar 2026
+1. Reuters Data
+S&P Global Svs PMI Final: 52.8 | Prior: 52.2
+S&P Global Comp PMI Final: 52.4 | Prior: 52.0
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Final PMIs improved modestly from the flash estimates and stayed in expansion.
+4. HF Take — Strategist Layer
+Confirms growth is cooling, not breaking.
+
+Australia — Real GDP (Q4)
+Release Date: 4 Mar 2026
+1. Reuters Data
+Real GDP QQ SA: 0.8% | Prior: 0.4% | Revised: 0.5% | Poll: 0.6% | Surprise: 0.20%
+Real GDP YY SA: 2.6% | Prior: 2.1% | Poll: 2.2% | Surprise: 0.40%
+2. Professional Market Commentary
+ABS detail showed household consumption grew moderately and public investment contributed strongly. FT/ANZ interpreted the GDP beat as evidence of firmer growth, though not enough to dislodge RBA caution given the inflation backdrop.
+3. Comment — Economist Layer
+GDP beat, with the tape highlighting public investment and moderate household consumption as key supports.
+4. HF Take — Strategist Layer
+Restrains aggressive easing expectations, but does not reopen a hike narrative because inflation and housing remain mixed.
+
+Australia — Balance on Goods / Goods-Services Imports / Goods-Services Exports (Jan)
+Release Date: 5 Mar 2026
+1. Reuters Data
+Balance on Goods: 2,631M | Prior: 3,373M | Poll: 3,900M | Surprise: -1,269.0M
+Goods/Services Imports: 0.8% | Prior: -0.8% | Revised: -1.8%
+Goods/Services Exports: -0.9% | Prior: 1.0% | Revised: 0.9%
+2. Professional Market Commentary
+ABS trade data were interpreted by Reuters/CBA as a narrower surplus driven by lower commodity prices.
+3. Comment — Economist Layer
+Trade disappointed as exports fell and the surplus narrowed materially.
+4. HF Take — Strategist Layer
+The external sector is a growth headwind at the margin.
+
+Australia — Private Sector Credit / Housing Credit (Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+Private Sector Credit: 0.5% | Prior: 0.8%
+Housing Credit: 0.6% | Prior: 0.7%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Credit growth slowed modestly.
+4. HF Take — Strategist Layer
+Consistent with restrictive financial conditions still transmitting.
+
+NORWAY
+
+Norway — Credit Indicator YY (Jan)
+Release Date: 24 Feb 2026
+1. Reuters Data
+Credit Indicator YY: 4.4% | Prior: 4.5%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Credit growth eased slightly.
+4. HF Take — Strategist Layer
+Suggests slightly softer credit impulse.
+
+Norway — Labour Force Survey SA (Jan)
+Release Date: 25 Feb 2026
+1. Reuters Data
+Labour Force Survey SA: 4.6% | Prior: 4.3%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Labour-force unemployment increased.
+4. HF Take — Strategist Layer
+A mild softening in labour conditions.
+
+Norway — Retail Sales Ex. Auto / Reg'd Unemployment NSA (Jan-Feb)
+Release Date: 27 Feb 2026
+1. Reuters Data
+Retail Sales Ex. Auto: 1.1% | Prior: -0.6%
+Reg'd Unemployment NSA: 2.2% | Prior: 2.3% | Poll: 2.2% | Surprise: 0.00%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Retail rebounded while registered unemployment was stable to slightly better.
+4. HF Take — Strategist Layer
+Mixed rather than directional; consumer activity improved but broader labour softness remains elsewhere.
+
+Norway — Housing Prices YY (Feb)
+Release Date: 4 Mar 2026
+1. Reuters Data
+Housing Prices YY: 3.0% | Prior: 4.2%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+House-price momentum slowed.
+4. HF Take — Strategist Layer
+Suggests a softer housing backdrop.
+
+Norway — Manufacturing Output MM (Jan)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Manufacturing Output MM: -0.3% | Prior: -0.1% | Revised: -0.2%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing output weakened again.
+4. HF Take — Strategist Layer
+Adds to the patchy-growth picture.
+
+SWITZERLAND
+
+Switzerland — GDP / GDP YY / KOF Indicator / Official Reserves Assets CHF (Q4-Feb-Jan)
+Release Date: 27 Feb 2026
+1. Reuters Data
+GDP QQ: 0.1% | Prior: -0.5% | Revised: -0.4% | Poll: 0.2% | Surprise: -0.10%
+GDP YY: 0.7% | Prior: 0.5% | Revised: 0.6%
+KOF Indicator: 104.2 | Prior: 103.3 | Poll: 103.0 | Surprise: 1.20
+Official Reserves Assets CHF: 853,081.11M | Prior: 852,606.51M
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+GDP remained soft, but the KOF leading signal improved.
+4. HF Take — Strategist Layer
+Soft current activity with a somewhat better forward signal.
+
+Switzerland — Retail Sales YY (Jan)
+Release Date: 2 Mar 2026
+1. Reuters Data
+Retail Sales YY: -1.1% | Prior: 2.8%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Retail sales weakened sharply from the prior month.
+4. HF Take — Strategist Layer
+Points to softer domestic demand.
+
+Switzerland — Manufacturing PMI (Feb)
+Release Date: 2 Mar 2026
+1. Reuters Data
+Manufacturing PMI: 47.4 | Prior: 48.8 | Poll: 50.0 | Surprise: -2.60
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Manufacturing stayed in contraction and missed expectations.
+4. HF Take — Strategist Layer
+A clear soft-activity signal.
+
+Switzerland — CPI (Feb)
+Release Date: 4 Mar 2026
+1. Reuters Data
+CPI MM: 0.6% | Prior: -0.1% | Poll: 0.5% | Surprise: 0.10%
+CPI YY: 0.1% | Prior: 0.1% | Poll: -0.1% | Surprise: 0.20%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Monthly inflation rebounded, but annual inflation remained extremely low.
+4. HF Take — Strategist Layer
+Still consistent with a low-inflation SNB environment.
+
+Switzerland — Unemployment Rate Adj (Feb)
+Release Date: 5 Mar 2026
+1. Reuters Data
+Unemployment Rate Adj: 3.0% | Prior: 2.9% | Poll: 2.9% | Surprise: 0.10%
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+Unemployment edged up slightly.
+4. HF Take — Strategist Layer
+Supports the soft-activity narrative.
+
+Switzerland — Forex Reserves CHF (Feb)
+Release Date: 6 Mar 2026
+1. Reuters Data
+Forex Reserves CHF: 710,029.00M | Prior: 711,981.00M | Revised: 712,040.00M
+2. Professional Market Commentary
+No Tier 1 institutional debate detected.
+3. Comment — Economist Layer
+FX reserves declined modestly.
+4. HF Take — Strategist Layer
+Limited standalone policy signal.
+
+MACRO SIGNAL SCOREBOARD
+Demand: ~ Mixed
+Supporting releases: UK retail strong; Australia GDP beat; Sweden GDP/retail improved; Canada Q4 GDP contracted; NZ card spending weak; Japan GDP soft.
+Interpretation: DM demand held up in pockets, but the pattern was uneven across countries and sectors.
+
+Labor: ~ Mixed / Softening
+Supporting releases: UK labour softened; Sweden unemployment rose; Australia unemployment held at 4.1%; Japan unemployment edged up; Norway labour-force unemployment rose.
+Interpretation: Labour is no longer uniformly tight across DM, but there is still no generalized break.
+
+Inflation: ↓ Disinflation with sticky pockets
+Supporting releases: UK headline CPI cooled but services stayed 4.4%; Canada CPI/core softened; Sweden CPIF stayed at target then softened on flash; Japan Tokyo/Nationwide CPI cooled; Australia core stayed sticky.
+Interpretation: Disinflation continued, but UK services and Australian core measures still complicate clean-cut narratives.
+
+Financial Conditions: ~ Restrictive
+Supporting releases: UK housing subdued; Canada housing starts weak; Australia building approvals slumped; Norway credit eased.
+Interpretation: Rate-sensitive sectors still show restrictive-policy transmission.
+
+DATA QUALITY FLAG
+Seasonal distortion risk: Medium
+Revision sensitivity: Medium
+Signal confidence: Moderate
+
+SIGNAL TENSION CHECK
+Demand improved in some hard-data releases while labour softened and inflation stayed sticky in key services/core pockets.
+Implication:
+DM is not in a clean recession regime, but neither is it in a clean re-acceleration regime. The main policy risk is softer labour/growth appearing before sticky services/core inflation is fully resolved.
+
+<<DM_WEEK_END>>
+<<DM_WEEK_BEGIN>>
 DEVELOPED MARKETS DATA (ex-USD, ex-EUR) - Week of February 9–13, 2026
 
 MONDAY, FEBRUARY 9
@@ -296,9 +1390,9 @@ Week 2 confirms Australia is in a LEAGUE OF ITS OWN among DM central banks:
 END WEEK 2 (FEB 2-6, 2026)
 --------------------------------------------------------------------------------
 
-<<LIVE_DM_MACRO_END>>
+<<DM_WEEK_END>>
 
-<<LIVE_DM_MACRO_BEGIN>>
+<<DM_WEEK_BEGIN>>
 
 ================================================================================
 LIVE DEVELOPED MARKETS (ex-USD/EUR) MACRO NOTE — WEEK 1 (JAN 26-30, 2026)
@@ -553,9 +1647,9 @@ Australia is the ONLY major DM central bank HIKING in early 2026. This is unprec
 END WEEK 1 (JAN 26-30, 2026)
 --------------------------------------------------------------------------------
 
-<<LIVE_DM_MACRO_END>>
+<<DM_WEEK_END>>
 
-<<LIVE_DM_MACRO_BEGIN>>
+<<DM_WEEK_BEGIN>>
 DM MACRO — LIVE WEEK VIEW (Jan 19–23, 2026)
 
 STATUS: Live as of Friday close
@@ -922,9 +2016,9 @@ Secondary: contrasts with weak permits — volatility rather than trend shift.
 Reaction function: neutral; labour/inflation dominate.
 Transmission: CAD impact limited.
 
-<<LIVE_DM_MACRO_END>>
+<<DM_WEEK_END>>
 
-<<LIVE_DM_MACRO_BEGIN>>
+<<DM_WEEK_BEGIN>>
 DM MACRO — LIVE WEEK VIEW (Jan 5–9, 2026)
 
 STATUS: Live as of Friday close
@@ -1296,7 +2390,8 @@ Noise: monthly base effects, but direction matters for policy debate.
 Reaction function: Norges easing optionality is pushed out; the bar for dovish signalling rises materially when inflation surprises up alongside strong housing and output.
 Transmission: NOK-supportive via front-end repricing / higher-for-longer bias.
 
-Norway — Core Inflation (Dec, m/m)
+<<DM_WEEK_END>>
+
 
 
 
