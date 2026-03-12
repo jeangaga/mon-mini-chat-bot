@@ -170,46 +170,131 @@ Labor-market assessment relies primarily on ADP and NFP signals for the week.
 
 United States — Non-Farm Payrolls (Feb 2026)
 
+Release Date: 6 Mar 2026 | Local Time: 13:30
+
 1. Reuters Data
-Payrolls: -92K | Poll: +59K | Surprise: -151K  
+
+Payrolls: -92K | Poll: +59K | Surprise: -151K
 Unemployment Rate: 4.4%
 
+Prior revisions: -69K (two months)
+
 2. Professional Market Commentary
-TIER 1 — Institutional / Official
-BLS | 2026-03-06  
-Payrolls declined 92K. Health care strike removed 28K jobs. Revisions lowered prior months by 69K.
 
-TIER 1 — Wire
-Reuters | 2026-03-06  
-Payrolls unexpectedly fell, marking the largest downside miss in four months.
+Institutional commentary interpreted the report as a clear downside labor surprise with several temporary distortions.
 
-TIER 2 — Professional recap
-Bloomberg | 2026-03-06  
-Labor-market inflection signs emerging; markets increased probability of a July Fed rate cut.
+Key elements emphasized across the tape:
 
-TIER 3 — Desk commentary (Low Confidence)
-Pantheon | 2026-03-06  
-Labor market may be cracking.
+• Strike distortion: healthcare strike removed roughly 30K jobs, reducing signal purity.
+• Negative revisions: prior months revised lower by ~69K, weakening the recent hiring trend.
+• Unemployment rate increase: move to 4.4% interpreted as early evidence of labor-market loosening.
 
-ING | 2026-03-06  
-Report supports a July easing scenario.
+Beyond the strike effect, commentary broadly pointed to signs of broader hiring weakness across several sectors.
 
-Robin Brooks | 2026-03-06  
-Fed tightening cycle likely finished.
+Weather effects likely distorted the household survey, but the establishment survey still indicated weaker hiring momentum.
 
-Frederik Ducrozet | 2026-03-06  
-Cooling labor market but inflation confirmation still required.
+Rate markets reacted by raising the probability of policy easing later in the year, though most commentary emphasized that inflation confirmation is still required before a clear policy shift.
+
+JGM note:
+January payroll strength may have overstated underlying labor momentum, with February representing partial normalization.
 
 3. Comment — Economist Layer
-Headline payroll decline is significant relative to expectations, though **temporary factors (health-care strike)** distort the signal.  
-Upward move in unemployment to **4.4% indicates labor-market loosening**, but revisions and sector details matter for trend assessment.  
-Combined with ADP moderation, evidence suggests **labor demand gradually cooling rather than collapsing**.
+
+The headline payroll decline is too weak to ignore, even after adjusting for strike effects.
+
+Key elements:
+
+• Strike distortion: roughly 28–31K healthcare jobs temporarily removed.
+• Downward revisions: -69K across prior two months.
+• Unemployment rate: increased to 4.4%, confirming gradual labor loosening.
+
+However the deterioration appears broader than the strike alone.
+
+JGM notes highlight sectoral weakness:
+
+Housing & Social Services: -18.6K
+Construction: -14K
+Transport: -11K
+Leisure & Hospitality: -27K
+
+This breadth argues that labor demand is softening across several cyclically sensitive sectors.
+
+Weather effects may have distorted the household survey, but payroll weakness is still visible in the establishment data.
+
+Participation dynamics also matter:
+
+• participation rate declined
+• population growth remained strong
+• household employment fell ~185K
+
+These elements reinforce the signal of labor-market fragility rather than a purely statistical miss.
+
+Wage dynamics complicate the picture.
+
+Average Hourly Earnings increased roughly 0.4% m/m (~3.7–3.8% YoY), leaving the economy in a partial stagflation configuration:
+
+softening employment momentum but still-firm wage growth.
+
+JGM note:
+
+January payroll strength may have overstated the true state of the labor market, with February representing partial payback.
+
+Birth-death model effects also appear relevant:
+
+• positive contribution in January
+• reversal in February
+
+Participation changes across age groups remain important.
+
+Prime-age participation remains historically high, but demographic shifts in older cohorts continue to influence the aggregate labor supply.
+
+GitHub Rolling Context Check
+
+(USD_WEEK_LIVE_MACRO.txt — labor sequence)
+
+Prior labor releases had already shifted the narrative from:
+
+“low-fire / low-hire stability” → “gradual labor softening.”
+
+Recent indicators included:
+
+• weaker ADP trend
+• softer hiring breadth
+• moderation in aggregate hours
+
+The February payroll decline therefore extends an existing labor-softening sequence rather than creating a new labor shock.
+
+This print likely represents the first clearly negative payroll confirmation inside that sequence.
 
 4. HF Take — Strategist Layer
-Negative payroll surprise likely **shifts Fed reaction-function expectations toward easing later in the year**.  
-Front-end yields responding sharply indicates **policy sensitivity to labor data**.  
-However strike distortions reduce signal reliability; confirmation from future prints required.
 
+This report meaningfully weakens the labor side of the Fed reaction function, but it does not yet deliver a decisive easing signal.
+
+Interpretation:
+
+• payroll shock large relative to expectations
+• revisions negative
+• sector breadth suggests genuine cooling
+
+However signal quality remains partially diluted by:
+
+• strike distortion
+• weather effects
+• birth-death model volatility
+
+The correct state transition is therefore:
+
+“labor stable but cooling” → “labor deterioration becoming visible.”
+
+That shift reopens easing optionality later in the year, but the inflation gate remains binding.
+
+JGM note:
+
+The macro configuration now resembles:
+
+labor softening + inflation plateau
+
+This keeps the Fed reaction function data-dependent rather than clearly easing-biased, with CPI and PCE confirmation still required.
 ---
 
 MACRO SIGNAL SCOREBOARD
@@ -1579,6 +1664,7 @@ Reaction-function implication:
 The Fed is validated in patience. Near-term aggressive easing is harder to justify, but productivity-led disinflation caps the hawkish tail. The policy distribution compresses around “hold longer, cut later”, with March easing possible but no longer assured.
 
 <<USD_WEEK_END>>
+
 
 
 
