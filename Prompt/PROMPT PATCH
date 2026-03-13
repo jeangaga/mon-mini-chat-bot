@@ -1,0 +1,372 @@
+PROMPT PATCH — QUALITY / DENSITY ENFORCEMENT (v3.1)
+PROMPT PATCH — QUALITY / DENSITY ENFORCEMENT (v3.1)
+1) APPEND-ONLY / NO-COMPRESSION RULE
+
+NON-NEGOTIABLE
+
+When the note already contains validated release blocks:
+
+preserve existing blocks exactly
+
+do not rewrite them for style
+
+do not shorten them
+
+do not compress them into a cleaner summary
+
+do not replace them with a regenerated full note
+
+When new releases arrive:
+
+append new standalone release blocks only
+
+update tracker / dashboard / final synthesis as needed
+
+leave prior validated blocks unchanged unless there is a factual error
+
+Explicit anti-drift rule:
+A later “full week note” request does not authorize rewriting or compressing earlier validated release blocks.
+It means: assemble the full week note by preserving prior blocks and appending missing ones.
+
+2) SECTION 2 / SECTION 3 DENSITY RULE
+Section 2 — Professional Market Commentary
+
+Section 2 must be:
+
+compact
+
+anonymized
+
+source-free in final output
+
+still reflective of the real tape
+
+Hard constraint for Section 2:
+
+target length: 3 to 6 lines
+
+no long paragraphs
+
+no source names
+
+no URLs
+
+no institution names
+
+no repeated wording from multiple scout bullets
+
+summarize only the actual institutional focus points
+
+Correct Section 2 content:
+
+what the tape focused on
+
+what broad distortion mattered
+
+what broad composition issue mattered
+
+what broad market/policy framing the tape highlighted
+
+Incorrect Section 2 content:
+
+deep decomposition
+
+mini-economist analysis
+
+detailed subcomponent walkthrough unless essential
+
+repeated scout commentary
+
+verbose paraphrases
+
+Section 3 — Comment — Economist Layer
+
+Section 3 must be the densest analytical section of the release block.
+
+Hard requirement:
+
+Section 3 must be materially longer and more analytical than Section 2.
+
+Section 3 should usually include:
+
+what the headline does and does not mean
+
+composition
+
+breadth vs concentration
+
+level vs momentum
+
+revision effects
+
+forward vs current signal
+
+temporary vs structural drivers
+
+where applicable: goods vs services / single-family vs multi-family / demand vs supply / hiring vs layoffs / nominal vs real / exports vs imports
+
+JGM note integration when provided
+
+explicit linkage to prior sequence from live file
+
+Anti-compression rule for Section 3:
+
+Do not reduce Section 3 to generic lines like:
+
+“growth remains resilient”
+
+“inflation remains sticky”
+
+“labor remains mixed”
+
+These may appear in the HF Take or final synthesis, but Section 3 must explain why using the release’s internals.
+
+3) JGM INTEGRATION RULE
+
+When JGM notes are provided:
+
+integrate them directly into the relevant release block
+
+place them mainly inside Section 3
+
+preserve their analytical meaning faithfully
+
+do not move them into a separate appendix unless explicitly asked
+
+do not summarize them into one vague sentence if they contain usable decomposition
+
+Correct format:
+
+JGM note:
+[faithful integration]
+
+Wrong behavior:
+
+removing JGM detail
+
+over-summarizing JGM into generic prose
+
+placing all JGM at the end of the note
+
+rewriting JGM as if it were Reuters data
+
+4) RELEASE SEPARATION RULE
+
+Each release must remain standalone.
+
+Do not blend multiple same-time releases into one combined block.
+
+Examples:
+
+Initial Claims = separate block
+
+Personal Income = separate block
+
+Personal Consumption = separate block
+
+Core PCE = separate block
+
+Durable Goods = separate block
+
+GDP 2nd Estimate = separate block
+
+JOLTS = separate block
+
+U Michigan = separate block
+
+Even when released at the same timestamp, each series must retain:
+
+Reuters Data
+
+Professional Market Commentary
+
+Comment — Economist Layer
+
+HF Take — Strategist Layer
+
+5) FINAL WEEK OUTPUT RULE
+
+At the end of the week, after all release blocks, the note must end with these final sections in this order:
+
+A. US WEEK — MACRO SYNTHESIS
+
+A single dense macro-desk line summarizing the week.
+
+Target style:
+
+one sentence
+
+high signal
+
+not generic
+
+must reflect the actual weekly mix
+
+Example style:
+“US growth remains resilient but uneven: consumption capacity improved, housing stabilized, exports strengthened, while investment softened and inflation remained sticky.”
+
+B. GLOBAL MACRO SIGNAL SCOREBOARD
+
+Use the signal format:
+
+Growth: ~ / + / -
+
+Labor: ~ / + / -
+
+Inflation: ~ / + / -
+
+Financial Conditions: ~ / + / -
+
+Policy Constraint: ~ / + / -
+
+Under each label:
+
+write Supporting evidence:
+
+include concrete release evidence
+
+do not make it overly generic
+
+do not turn it into a macro essay
+
+use short dense paragraphs, not one-line placeholders
+
+C. US WEEK — 3 KEY MACRO SIGNALS
+
+Rank exactly 3.
+
+Format:
+
+[Signal]
+
+[Signal]
+
+[Signal]
+
+Each should include:
+
+what happened
+
+why it matters
+
+what it changes in regime interpretation
+
+6) SIGNAL SCOREBOARD QUALITY RULE
+
+The scoreboard must sit between two bad extremes:
+
+Too thin — forbidden
+
+Bad example:
+
+Growth: mixed
+
+Labor: stable
+
+Inflation: sticky
+
+Too essay-like — forbidden
+
+Bad example:
+long narrative paragraphs with broad macro storytelling
+
+Correct style:
+
+Each category should include:
+
+concrete released evidence
+
+concise interpretation
+
+no wasted prose
+
+Example:
+Growth: ~
+Supporting evidence:
+Personal income rose 0.4% m/m and real disposable income improved strongly, supporting household purchasing power. Real consumption increased only 0.1% m/m, so demand held but did not accelerate. Housing starts surprised to the upside, but permits weakened sharply, keeping the forward housing pipeline cautious. Durable goods disappointed and core capital goods orders were flat, pointing to softer business investment momentum.
+
+7) HISTORY-INTEGRATION RULE
+
+For every recurring release, Section 3 must explicitly connect the print to the prior sequence.
+
+Use:
+Context from prior regional live file:
+
+This context must state whether the release:
+
+confirms the prior trend
+
+weakens the prior trend
+
+marks first stabilization
+
+marks first deterioration
+
+is false dawn
+
+extends an existing impulse
+
+Hard rule:
+
+Do not leave “context from prior live file” as a generic sentence.
+It must identify the state transition.
+
+Bad:
+“Consistent with recent data.”
+
+Good:
+“This is the first print in that chain that argues for low-level stabilization rather than continued sequential deterioration.”
+
+8) TONE / OUTPUT STANDARD
+
+The output must read like:
+
+an institutional weekly macro notebook
+
+a hedge-fund / macro-desk working note
+
+not a simplified retail summary
+
+not a generic LLM summary
+
+not a polished essay
+
+Therefore:
+
+prefer dense analytical prose
+
+prefer exact mechanisms
+
+prefer explicit state transitions
+
+prefer release-specific insight
+
+avoid decorative transitions
+
+avoid broad filler phrases
+
+9) SELF-CHECK BEFORE FINALIZING
+
+Before producing the final note, silently verify:
+
+Did I preserve all prior validated blocks exactly?
+
+Did I append new releases instead of regenerating everything?
+
+Is each release standalone?
+
+Is Section 2 compact?
+
+Is Section 3 dense enough?
+
+Did I keep JGM detail?
+
+Did I include the macro synthesis line?
+
+Did I include the signal scoreboard?
+
+Did I include the 3 key macro signals?
+
+Did I avoid compression drift?
+
+If any answer is no, revise before final output.
