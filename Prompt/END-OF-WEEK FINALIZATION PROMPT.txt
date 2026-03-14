@@ -1,21 +1,40 @@
-END-OF-WEEK FINALIZATION PROMPT
-(v1.4 — Regional Freeze Mode + Self-Contained Context + Live-Prompt Logic Reused)
 
-You are producing the final saved WEEK note for one region.
+"END-OF-WEEK FINALIZATION PROMPT (v1.6 — Regional Freeze Mode + Self-Contained Input + Archive Lock + Lean Final Structure)","You are producing the final saved WEEK note for one region.
 
-This prompt may be used in a new chat.
-Therefore, do not assume any prior conversational memory.
+This prompt is designed to work in a new chat.
+Do not assume any prior conversational memory.
+Do not assume access to prior chats.
+Do not assume access to GitHub unless the user explicitly asks for verification.
 
-You will receive the final validated regional WEEK_LIVE_MACRO file.
-That file is the full source of truth for the week.
+You will receive one final validated regional WEEK_LIVE_MACRO file.
+That file is the full and only source of truth for this task.
+
+INPUT CONTRACT
+
+The user will provide:
+1. One final validated regional live file
+2. The region it belongs to:
+   - USD_WEEK_LIVE_MACRO
+   - EUR_WEEK_LIVE_MACRO
+   - DM_WEEK_LIVE_MACRO
+   - EM_WEEK_LIVE_MACRO
+
+You must use only that supplied live file to produce the final frozen weekly note.
+
+Do not:
+- fetch missing context from memory
+- infer unseen releases
+- rebuild the week from scratch
+- add fresh external narrative
+- browse the web unless the user explicitly asks for verification
 
 SYSTEM DESCRIPTION
 
-You are running the final step of a LIVE WEEK MACRO MONITORING PROCESS.
+You are executing the final step of a LIVE WEEK MACRO MONITORING PROCESS.
 
 During the week, the regional live file functioned as a live macro release monitoring tape for one region only.
 
-Valid regional files include:
+Valid regional files:
 - USD_WEEK_LIVE_MACRO
 - EUR_WEEK_LIVE_MACRO
 - DM_WEEK_LIVE_MACRO
@@ -45,11 +64,11 @@ It is:
 
 It is a regional live macro tape.
 
-PRIORITY OF THE LIVE FILE
+LIVE-FILE ANALYTICAL PRIORITY
 
-During the live weekly process, priority was always:
+During the live weekly process, the priority was:
 1. analyze each release individually
-2. compare it to prior history
+2. compare it to prior history when relevant
 3. extract the signal
 4. map policy / market relevance
 
@@ -61,7 +80,7 @@ For every release, the analytical order in the live file was:
    Mechanical anchor
 
 2. Professional Market Commentary
-   Derived from scout tape (Mistral primary) or from web-built mini tape if no scout was provided
+   Derived from scout tape (Mistral primary) or from a web-built mini tape if no scout was provided during the live process
 
 3. Comment — Economist Layer
    Pure data logic
@@ -74,8 +93,7 @@ It did not invent information.
 
 DATA INPUT FLOW USED DURING THE WEEK
 
-Typical workflow in the live file was:
-
+Typical live-file workflow:
 Reuters mechanical data
 ↓
 Mistral scout tape if provided
@@ -84,14 +102,14 @@ Optional additional scouts
 ↓
 Optional JGM notes
 ↓
-If professional tape was missing or incomplete: web search to build mini tape
+If professional tape was missing or incomplete during the live process: web-built mini tape
 ↓
 Structured release analysis
 
 Rules used in the live file:
 - Reuters = mechanical anchor
 - Mistral = institutional tape
-- web search = anchoring layer
+- web search = anchoring layer only when needed during live work
 - other scouts = complementary only
 - JGM = constraint intelligence
 - no external narrative injection without anchoring
@@ -117,13 +135,7 @@ If JGM notes appear in the source file, they are already validated and must be p
 
 DEFINITION OF GITHUB HISTORICAL CONTEXT
 
-GitHub historical context refers to the prior regional weekly live files stored in GitHub and used during the live weekly process.
-
-Examples:
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/USD_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/EUR_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/EM_WEEK_LIVE_MACRO.txt
+GitHub historical context refers to prior regional weekly live files that may have been used during the live weekly process to compare prior occurrences of the same series.
 
 Its purpose during the live process was to:
 - identify prior occurrences of the same series
@@ -136,15 +148,23 @@ Its purpose during the live process was to:
   - was a false dawn
   - was no material change
 
-If GitHub context lines appear in the source file, they are already validated and must be preserved exactly in the archive section.
+If GitHub context lines appear inside the supplied live file, they are already validated and must be preserved exactly in the archive section.
+
+Important:
+For this finalization task, do not independently fetch GitHub context.
+Use only what is already present inside the supplied live file.
 
 WHAT YOU MUST DO NOW
 
-Your task is now to transform the final validated live tape into the final saved WEEK note.
+Your task is to transform the final validated live tape into the final saved WEEK note.
 
-This is not a live update step.
-This is not a fresh re-analysis of the week.
-This is a finalization / freeze step based on the validated live file.
+This is:
+- not a live update step
+- not a fresh week rebuild
+- not a fresh research step
+- not a cross-checking step unless the user explicitly requests one
+
+This is a finalization / freeze step based on the validated live file only.
 
 OBJECTIVE
 
@@ -156,24 +176,27 @@ The final WEEK note must:
 - preserve the sequence logic accumulated during the week
 - compress the weekly macro message only in the top synthesis sections
 - keep the full weekly release archive below with 100% fidelity
+- preserve the validated end-of-file decision sections that remain useful for archive retrieval
 - produce a final note ready to save
 
 CORE PRINCIPLE
 
 The live tape is the source of truth.
 
-The final week note is:
+The final WEEK note is:
 - a freeze
 - a synthesis layer on top
 - not a rewrite of the archive
 
 Therefore:
-- Section A = fresh synthesis
-- Section B = fresh scoreboard
-- Section C = exact archive from the live note
+- Section A = new synthesis
+- Section B = new scoreboard
+- Section C = exact archive copied from the live file
+- SIGNAL TENSION CHECK = preserve from live file exactly if present
+- 3 KEY RELEASES TO DIG INTO = preserve from live file exactly if present
 
 Only Sections A and B are newly written.
-Section C must be copied exactly from the live note.
+Section C and the preserved closing blocks must be copied exactly from the live file.
 
 TIME / EFFORT RULE
 
@@ -190,7 +213,7 @@ Do not optimize for speed if that weakens the final note.
 
 CRITICAL ARCHIVE RULE
 
-Section C must be copied from the live weekly note with 100% fidelity.
+The full release archive must be copied from the supplied live weekly file with 100% fidelity.
 
 This means:
 - all release blocks must be reproduced
@@ -208,9 +231,17 @@ This means:
 - no deletion of GitHub context lines
 - no deletion of day headers
 
-Section C is the frozen weekly archive.
+ABSOLUTE NO-DRIFT RULE
 
-FINAL OUTPUT STRUCTURE (LOCKED)
+Do not let the newly written synthesis contaminate the archive.
+Do not “improve” wording in the copied sections.
+Do not harmonize release blocks.
+Do not normalize language across days.
+Do not rewrite older blocks for consistency.
+
+If something appears awkward but is already validated in the live file, keep it exactly as is in the copied sections.
+
+LEAN FINAL STRUCTURE (LOCKED)
 
 The final note must follow exactly this structure:
 
@@ -221,13 +252,23 @@ A. [REGION] WEEK — MACRO SYNTHESIS
 
 B. [REGION] MACRO SIGNAL SCOREBOARD
 
-C. FULL RELEASE BLOCK OF THE WEEK
+C. FULL RELEASE ARCHIVE
+
+SIGNAL TENSION CHECK
+
+3 KEY RELEASES TO DIG INTO
 
 [REGION_MARKER_END]
 
 Do not add extra major sections.
 Do not reorder sections.
 Do not rename sections.
+
+Specifically delete / exclude from the final frozen note:
+- WEEKLY RELEASE TRACKER
+- REGIONAL MACRO DASHBOARD
+- PENDING HIGH-IMPORTANCE RELEASES
+- DATA QUALITY FLAG
 
 REGION PLACEHOLDERS
 
@@ -236,9 +277,13 @@ Use:
 - [REGION_MARKER_BEGIN] = <<USD_WEEK_BEGIN>> / <<EUR_WEEK_BEGIN>> / <<DM_WEEK_BEGIN>> / <<EM_WEEK_BEGIN>>
 - [REGION_MARKER_END] = <<USD_WEEK_END>> / <<EUR_WEEK_END>> / <<DM_WEEK_END>> / <<EM_WEEK_END>>
 
-SECTION A — [REGION] WEEK — MACRO SYNTHESIS
+Region mapping:
+- USD_WEEK_LIVE_MACRO → REGION = US → <<USD_WEEK_BEGIN>> ... <<USD_WEEK_END>>
+- EUR_WEEK_LIVE_MACRO → REGION = EUR → <<EUR_WEEK_BEGIN>> ... <<EUR_WEEK_END>>
+- DM_WEEK_LIVE_MACRO → REGION = DM → <<DM_WEEK_BEGIN>> ... <<DM_WEEK_END>>
+- EM_WEEK_LIVE_MACRO → REGION = EM → <<EM_WEEK_BEGIN>> ... <<EM_WEEK_END>>
 
-This section must be short, dense, and high-signal.
+SECTION A — [REGION] WEEK — MACRO SYNTHESIS
 
 Purpose:
 - summarize the true weekly macro regime
@@ -247,14 +292,16 @@ Purpose:
 - sound like a macro-desk synthesis, not an essay
 
 Rules:
-- one short paragraph or two compact paragraphs maximum
+- one short paragraph, or two compact paragraphs maximum
 - no generic phrasing
-- no storytelling for its own sake
 - no decorative prose
+- no storytelling for its own sake
+- no fresh external narrative
 - must reflect the actual weekly mix of growth, labor, inflation, and policy tension
 - must remain faithful to the validated live tape
+- must be written from the whole supplied live file, not from the final day only
 
-What this section should answer:
+This section should answer:
 - what was the true weekly growth signal?
 - what was the true weekly labor signal?
 - what was the true weekly inflation signal?
@@ -267,14 +314,14 @@ Target style:
 - explicit strengths vs weaknesses
 - same institutional tone as the live tape
 
-Good style example:
+Illustrative style:
 “US growth remained resilient but uneven: household income and exports improved, housing stabilized from weak levels, and layoffs stayed contained, while business investment softened and inflation remained stuck on a plateau.”
 
 SECTION B — [REGION] MACRO SIGNAL SCOREBOARD
 
 This section must summarize the final weekly regime in compact scorecard form.
 
-Format:
+Required format:
 
 Growth: ~ / + / -
 Supporting evidence:
@@ -296,54 +343,54 @@ Policy Constraint: ~ / + / -
 Supporting evidence:
 [short dense paragraph]
 
-Key releases highlighted:
-1. [Release]
-2. [Release]
-3. [Release]
-
 Rules:
-- use only the releases from the weekly live file
-- each category must cite concrete release evidence
+- use only releases that exist in the supplied live file
+- each category must cite concrete release evidence from that file
 - keep the prose dense and short
 - do not turn this into a macro essay
 - do not use generic placeholders
-- the 3 highlighted releases must be the 3 most decision-relevant releases of the week for the region
-- those 3 releases must come from the actual release blocks already validated in the live file
+- do not include a “Key releases highlighted” subsection inside Section B
+- the scoreboard must remain a compact decision layer, not a second synthesis essay
 
 SCOREBOARD QUALITY RULE
 
-The scoreboard must sit between two bad extremes.
+The scoreboard must avoid two bad extremes.
 
-Too thin — forbidden
-
-Bad example:
+Too thin — forbidden:
 Growth: mixed
 Labor: stable
 Inflation: sticky
 
-Too essay-like — forbidden
-
-Bad example:
-Long narrative paragraphs with broad macro storytelling and little release evidence.
+Too essay-like — forbidden:
+Long narrative paragraphs with broad macro storytelling and little release evidence
 
 Correct style:
 Each category must include:
 - concrete released evidence
 - concise interpretation
 - no wasted prose
-- same dense style as the live tape
+- the same dense style as the live tape
 
-Example:
+Illustrative example:
 Growth: ~
 Supporting evidence:
 Personal income rose 0.4% m/m and real disposable income improved strongly, supporting household purchasing power. Real consumption increased only 0.1% m/m, so demand held but did not accelerate. Housing starts surprised to the upside, but permits weakened sharply, keeping the forward housing pipeline cautious. Durable goods disappointed and core capital goods orders were flat, pointing to softer business investment momentum.
 
-SECTION C — FULL RELEASE BLOCK OF THE WEEK
+Signal assignment rule:
+- “+” = weekly signal clearly supportive / easing the relevant macro concern
+- “-” = weekly signal clearly deteriorating / tightening the relevant macro concern
+- “~” = mixed, stabilizing, or unresolved
+
+If the live file does not provide decisive evidence for a bucket, use “~” and state that the week did not resolve the signal cleanly.
+
+SECTION C — FULL RELEASE ARCHIVE
 
 This section must contain the full validated release archive for the week.
 
 Rules:
-- copy the full release blocks from the live note
+- copy the full release blocks from the supplied live file
+- start directly at the release archive / day-header / release-block level
+- do not reproduce the WEEKLY RELEASE TRACKER section
 - preserve wording exactly
 - preserve ordering exactly
 - preserve day headers exactly
@@ -351,7 +398,7 @@ Rules:
 - preserve all JGM notes exactly as validated
 - preserve all GitHub context lines exactly as validated
 - preserve all section labels exactly
-- preserve all spacing structure if reasonable
+- preserve spacing structure where reasonably possible
 - do not re-summarize
 - do not shorten
 - do not re-rank
@@ -363,10 +410,9 @@ This section is the frozen weekly archive.
 
 DAY HEADER RULE
 
-If the live note is grouped by day, preserve that exact day structure in Section C.
+If the live file is grouped by day, preserve that exact day structure in Section C.
 
 Example:
-
 MONDAY 9 MAR 2026
 [release blocks]
 
@@ -376,7 +422,22 @@ TUESDAY 10 MAR 2026
 WEDNESDAY 11 MAR 2026
 [release blocks]
 
-and so on.
+PRESERVED CLOSING BLOCKS RULE
+
+After Section C, preserve these blocks exactly as they appear in the supplied live file, if they are present:
+- SIGNAL TENSION CHECK
+- 3 KEY RELEASES TO DIG INTO
+
+Rules:
+- copy them exactly
+- do not rewrite
+- do not compress
+- do not rename
+- do not merge them into Section A or Section B
+- do not add new key releases not already present in the live file
+- keep exactly 3 key releases if that block exists in the live file
+
+If one of these blocks is absent from the live file, omit it rather than inventing it.
 
 STYLE PRESERVATION RULE
 
@@ -395,48 +456,55 @@ The finalization step must preserve the quality logic of the live weekly process
 - institutional commentary remains tape-like in the archived blocks
 - economist interpretation remains analytical in the archived blocks
 - HF Take remains reaction-function focused in the archived blocks
-- GitHub historical framing remains preserved in Section C exactly as validated
+- GitHub historical framing remains preserved in the copied sections exactly as validated
 
-NO DRIFT RULE
+NO NEW RESEARCH RULE
 
-The finalization step must not change the meaning of the validated archive.
+For this finalization task:
+- do not browse
+- do not fetch GitHub
+- do not add new releases
+- do not verify outside the supplied file
+- do not repair perceived gaps with inference
 
-The live note is the source of truth.
-The final note is a freeze + synthesis layer.
-
-Do not let Section A or Section B contaminate or modify Section C.
+If the supplied live file lacks something, finalize from that file as provided.
+Do not invent what might be missing.
 
 OUTPUT RULE
 
-Return the full final week note in one piece.
+Return the full final WEEK note in one piece.
 
 Do not return:
 - instructions
-- a patch
 - comments about the process
+- a patch
 - partial sections
 - a summary without the archive
+- an explanation of what you changed
 
-Return only the final frozen week note.
+Return only the final frozen WEEK note.
 
 INTERNAL CONSISTENCY CHECKS (MANDATORY)
 
-Before finalizing the note, verify:
+Before finalizing, verify:
 1. The opening and closing region markers are correct.
-2. The DATA WINDOW matches the live file.
-3. Section A reflects the actual weekly mix and not only the last release.
-4. Section B uses only evidence from the validated live file.
-5. Section B highlights exactly 3 key releases.
-6. Section C reproduces the live release archive with 100% fidelity.
+2. The DATA WINDOW matches the supplied live file.
+3. Section A reflects the whole week, not only the final release.
+4. Section B uses only evidence from the supplied live file.
+5. Section C starts at the release archive level and does not include WEEKLY RELEASE TRACKER.
+6. Section C reproduces the supplied live release archive with 100% fidelity.
 7. Day headers are preserved if they exist in the live file.
 8. No release block has been omitted.
-9. No wording in Section C has been rewritten.
-10. The final note preserves density, structure, and institutional tone.
+9. No wording in the copied sections has been rewritten.
+10. REGIONAL MACRO DASHBOARD, PENDING HIGH-IMPORTANCE RELEASES, and DATA QUALITY FLAG do not appear in the final output.
+11. SIGNAL TENSION CHECK and 3 KEY RELEASES TO DIG INTO are preserved exactly if present in the live file.
+12. The final note preserves density, structure, and institutional tone.
 
 FINAL RESULT
 
 The final output must be a saved weekly note that:
 - opens with a dense regional macro synthesis
 - provides a compact final scoreboard
-- preserves the full weekly validated archive below
-- is ready to store as the final [REGION]_WEEK note
+- preserves the full weekly validated release archive below
+- retains the validated closing decision blocks that matter for archive retrieval
+- is ready to store as the final [REGION]_WEEK note"
