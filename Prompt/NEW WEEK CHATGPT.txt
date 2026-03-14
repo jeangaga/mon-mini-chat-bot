@@ -344,12 +344,23 @@ Format:
 
 WEEKLY RELEASE TRACKER
 
+Group releases by day, then by country.
+
+Format:
+
+MONDAY 9 MAR 2026
 [Country]
-- [Date] [Release] — RELEASED
-- [Date] [Release] — PENDING
+- [Release] — RELEASED
+- [Release] — PENDING
+
+TUESDAY 10 MAR 2026
+[Country]
+- [Release] — RELEASED
 
 Rules:
-- preserve country grouping
+- preserve chronological day order
+- use uppercase day headers
+- preserve country grouping inside each day
 - include all relevant releases for the region
 - update status during the week
 - never invent outcomes before release
