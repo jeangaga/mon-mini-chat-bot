@@ -340,10 +340,6 @@ WEEKLY RELEASE TRACKER
 
 This section is the live release map for the region.
 
-Format:
-
-WEEKLY RELEASE TRACKER
-
 Group releases by day, then by country.
 
 Format:
@@ -373,9 +369,17 @@ No release should appear as RELEASED in the tracker without a corresponding rele
 
 If a release is less important, the block may be shorter, but it must still exist.
 
-REQUIRED STRUCTURE FOR EACH RELEASE
+RELEASE BLOCKS
 
-Each release block must follow this exact order:
+Release blocks must be grouped by day using uppercase day headers.
+
+The day headers used in RELEASE BLOCKS must match the day headers used in WEEKLY RELEASE TRACKER.
+
+Within each day header, release blocks must appear in the same order as the releases listed in WEEKLY RELEASE TRACKER.
+
+Format:
+
+MONDAY 9 MAR 2026
 
 [Country] — [Indicator] ([Period])
 Release Date: [date] | Local Time: [time]
@@ -386,6 +390,49 @@ Release Date: [date] | Local Time: [time]
 Context from prior regional live file
 4. HF Take — Strategist Layer
 
+[Country] — [Indicator] ([Period])
+Release Date: [date] | Local Time: [time]
+
+1. Reuters Data
+2. Professional Market Commentary
+3. Comment — Economist Layer
+Context from prior regional live file
+4. HF Take — Strategist Layer
+
+TUESDAY 10 MAR 2026
+
+[Country] — [Indicator] ([Period])
+Release Date: [date] | Local Time: [time]
+
+1. Reuters Data
+2. Professional Market Commentary
+3. Comment — Economist Layer
+Context from prior regional live file
+4. HF Take — Strategist Layer
+
+DAY HEADER RULE FOR RELEASE BLOCKS
+
+Inside RELEASE BLOCKS, all release analyses must be grouped under uppercase day headers.
+
+Rules:
+- use the same chronological day order as in WEEKLY RELEASE TRACKER
+- use one day header only once
+- place all releases for that day directly underneath it
+- do not repeat the day header before every single release
+- do not leave RELEASE BLOCKS as one continuous undifferentiated sequence
+
+
+RELEASE BLOCK SECTION DESCRIPTION
+
+Each release block contains exactly 4 sections in this order:
+
+1. Reuters Data
+2. Professional Market Commentary
+3. Comment — Economist Layer
+Context from prior regional live file
+4. HF Take — Strategist Layer
+
+ 
 SECTION 1 — REUTERS DATA
 
 Mechanical only.
