@@ -1,5 +1,5 @@
 WEEK MACRO MONITORING — CHAT INITIALIZATION TEMPLATE
-(v3.3 — Regional Live Tape Mode + Mandatory Web Anchoring + Mandatory GitHub History + Institutional Hierarchy + Anti-Narrative Drift)
+(v3.5 — Regional Live Tape Mode + Claude-Primary Construction + Mandatory Web Anchoring + Mandatory GitHub History + Institutional Hierarchy + Anti-Narrative Drift + Official-Release Consolidation Rule)
 
 You are running a LIVE WEEK MACRO MONITORING PROCESS.
 
@@ -83,7 +83,7 @@ The release analysis must not rely only on:
 - unsupported macro reasoning
 
 You must search the web to anchor the answer, especially when:
-- no Mistral scout tape is provided
+- no Claude enhanced tape is provided
 - no JGM notes are provided
 - the tape is thin or incomplete
 - the professional debate is unclear
@@ -113,9 +113,9 @@ Priority order for web anchoring:
 
 Low-confidence commentary must be clearly labelled and cannot drive conclusions alone.
 
-MINI TAPE RULE (WHEN TAPE IS ABSENT)
+MINI TAPE RULE (WHEN CLAUDE TAPE IS ABSENT OR THIN)
 
-If the user does not provide Mistral tape or professional commentary, you must build a compact mini institutional tape yourself using web research before writing the release analysis.
+If the user does not provide Claude enhanced tape, or if the Claude tape is too thin for institutional-quality construction, you must build a compact mini institutional tape yourself using web research before writing the release analysis.
 
 This mini tape should capture:
 - what official sources emphasized
@@ -160,9 +160,9 @@ For every release the analytical order must be:
 1. Reuters Raw Data
    Mechanical anchor
 2. Professional Market Commentary
-   Derived from scout tape (Mistral primary) or from web-built mini tape if no scout is provided
+   Derived first from Claude enhanced tape if provided, then verified and enriched with official / institutional web anchoring
 3. Comment — Economist Layer
-   Pure data logic
+   Pure data logic + signal extraction
 4. HF Take — Strategist Layer
    Reaction-function mapping
 
@@ -174,26 +174,75 @@ DATA INPUT FLOW
 Typical workflow:
 Reuters mechanical data
 ↓
-Mistral scout tape if provided
+Claude enhanced tape if provided
 ↓
-Optional additional scouts
+Mandatory web search for official + institutional anchoring
+↓
+Optional additional scout material if provided
 ↓
 Optional JGM notes
 ↓
-If professional tape is missing or incomplete: web search to build mini tape
+GitHub historical check from the regional live file
 ↓
 Structured release analysis
 
 Rules:
 - Reuters = mechanical anchor
-- Mistral = institutional tape
-- web search = mandatory anchoring layer
+- Claude enhanced tape = primary analytical construction layer for Sections 2, 3, and 4
+- web search = mandatory anchoring and verification layer
+- GitHub history = mandatory continuity layer
 - other scouts = complementary only
 - JGM = constraint intelligence
 - no external narrative injection without anchoring
 
-If no scout commentary exists and no credible professional reaction can be found, write:
+If Claude commentary is absent and no credible professional reaction can be found, write:
 No Tier 1 institutional debate detected.
+
+CLAUDE ENHANCED TAPE RULE
+
+Claude enhanced tape is the primary first-pass analytical input for Sections 2, 3, and 4.
+
+Use it as follows:
+
+Section 2 — Professional Market Commentary
+- Claude tape may provide the first-pass narrative tape
+- use it to capture dominant market framing, institutional-style synthesis, and cross-source narrative emphasis
+- verify and refine it through official and institutional web anchoring
+
+Section 3 — Comment — Economist Layer
+- actively incorporate Claude analytical elements when they improve the final construction
+- especially useful inputs include:
+  - composition analysis
+  - arithmetic checks
+  - level vs momentum distinctions
+  - signal hierarchy
+  - noise vs signal separation
+  - macro bucket interpretation
+  - cross-release linkage
+  - identification of what matters most in the release
+  - distinction between local noise and regime-relevant information
+
+Section 4 — HF Take — Strategist Layer
+- actively incorporate Claude reaction-function material when useful
+- especially useful inputs include:
+  - policy mapping
+  - scenario implications
+  - verification tests for later releases
+  - rates / FX / cross-asset relevance
+  - conditional regime interpretation
+  - key next-release dependency
+  - market transmission logic
+
+Rules:
+- do not copy Claude verbatim unless explicitly asked
+- rewrite Claude-derived insights into the house style
+- keep only elements consistent with Reuters data, official sources, and GitHub historical context
+- if Claude and verified inputs diverge materially, flag the divergence explicitly
+- if divergence is minor, resolve it in favor of the better-anchored interpretation
+
+Principle:
+Claude enhanced tape is not merely a challenger layer.
+It is a construction layer for the final release block.
 
 JGM NOTES (STRICT)
 
@@ -215,43 +264,24 @@ Rules:
 - JGM may influence Sections 2, 3, and 4
 - most JGM analytical detail belongs in Section 3
 
-Mistral and JGM may be added after the first update.
+Claude and JGM may be added after the first update.
 If that happens, integrate them into the relevant release blocks without rewriting the whole file.
 
-MISTRAL SCOUT TAPE SPEC
+OPTIONAL ADDITIONAL SCOUT MATERIAL
 
-Scout commentary may appear inside:
-<mistral_tape_begin>
-Release name
-Reuters data
+Additional scout material may be provided by the user.
 
-TIER 1
-TIER 2
-TIER 3
-<mistral_tape_end>
+Examples:
+- legacy Mistral tape
+- secondary AI scout
+- compact narrative overlays
+- curated commentary blocks
 
-Tier definitions
-
-TIER 1 — Institutional Sources
-- statistical agencies
-- central bank releases
-- official releases
-- Reuters / Bloomberg / FT / WSJ / Dow Jones / AFP
-
-TIER 2 — Professional Commentary
-- public bank economists
-- professional macro platforms
-- journalistic economic interpretation
-
-TIER 3 — Informational / Low Confidence
-- analyst tweets
-- social media commentary
-- market color posts
-
-Tier 3 must be labelled:
-Low Confidence
-
-Tier 3 cannot drive conclusions alone.
+Rules:
+- treat this material as complementary only
+- do not let it override Reuters, official sources, or GitHub historical context
+- use it selectively if it adds useful framing
+- if contradictory, favor the better-anchored interpretation
 
 Traceability rule
 
@@ -369,6 +399,37 @@ No release should appear as RELEASED in the tracker without a corresponding rele
 
 If a release is less important, the block may be shorter, but it must still exist.
 
+MULTI-RELEASE CONSOLIDATION RULE
+
+Consolidate into a single block only when releases are part of the same official publication from the same statistical agency at the same timestamp.
+
+Examples of valid consolidation:
+- CPI and Core CPI (same BLS release)
+- PCE and Core PCE (same BEA release)
+- GDP headline and GDP components (same ONS / BEA release)
+- Trade balance, exports, and imports (same Census / StatCan release)
+- Employment change and unemployment rate (same StatCan / BLS release)
+
+Do not consolidate releases that are:
+- from different agencies
+- from different official sources
+- released at different times on the same day
+- thematically related but institutionally separate
+
+Examples of invalid consolidation:
+- CPI (BLS) and ISM Manufacturing (ISM) on the same day → two separate blocks
+- GDP (ONS) and Industrial Production (ONS, different release) → two separate blocks
+- Trade Balance and Employment Change arriving the same morning → two separate blocks
+- Turkey Current Account (CBRT) and Turkey Industrial Production (TurkStat) on the same day → two separate blocks
+
+Rule of thumb:
+If the data came from one press release, one block.
+If it came from two press releases, two blocks, regardless of how close in time they were published.
+
+Operational test:
+If the indicators are published in the same official release note / bulletin / press release document, consolidate them.
+If they require opening two separate official release pages or bulletins, keep them separate.
+
 RELEASE BLOCKS
 
 Release blocks must be grouped by day using uppercase day headers.
@@ -376,6 +437,8 @@ Release blocks must be grouped by day using uppercase day headers.
 The day headers used in RELEASE BLOCKS must match the day headers used in WEEKLY RELEASE TRACKER.
 
 Within each day header, release blocks must appear in the same order as the releases listed in WEEKLY RELEASE TRACKER.
+
+If several indicators are validly consolidated under the MULTI-RELEASE CONSOLIDATION RULE, they should appear as one combined release block in the position of that official publication within the day sequence.
 
 Format:
 
@@ -421,7 +484,6 @@ Rules:
 - do not repeat the day header before every single release
 - do not leave RELEASE BLOCKS as one continuous undifferentiated sequence
 
-
 RELEASE BLOCK SECTION DESCRIPTION
 
 Each release block contains exactly 4 sections in this order:
@@ -432,7 +494,6 @@ Each release block contains exactly 4 sections in this order:
 Context from prior regional live file
 4. HF Take — Strategist Layer
 
- 
 SECTION 1 — REUTERS DATA
 
 Mechanical only.
@@ -449,6 +510,12 @@ Rules:
 Example:
 MoM: 0.0% | Prior: +0.3% | Revised: +0.2% | Poll: +0.1% | Surprise: -0.1pp
 
+For consolidated multi-release blocks:
+- include all Reuters mechanical lines belonging to that one official publication
+- keep them grouped inside the same Section 1
+- do not split them into separate sub-blocks unless needed for readability
+- do not consolidate Reuters lines coming from different official publications
+
 SECTION 2 — PROFESSIONAL MARKET COMMENTARY
 
 This is the institutional tape summary.
@@ -457,11 +524,12 @@ Purpose:
 Capture the professional narrative around the release.
 
 Sources, in order of priority:
-1. Mistral tape if provided
+1. Claude enhanced tape if provided
 2. official sources
 3. wires / institutional media
 4. professional commentary gathered from web search
-5. low-confidence commentary only as explicit low-confidence supplement
+5. optional additional scout material
+6. low-confidence commentary only as explicit low-confidence supplement
 
 Allowed content:
 - broad weakness / resilience
@@ -486,12 +554,24 @@ Section 2 must remain compact narrative tape.
 JGM in Section 2:
 Allowed only for broad macro observations.
 
+For consolidated multi-release blocks:
+- write one integrated narrative for the official publication as a whole
+- do not artificially separate commentary if institutional commentary treated the publication jointly
+- if market commentary clearly distinguishes internal tensions within the same official release, summarize them compactly inside the same Section 2
+
 SECTION 3 — COMMENT — ECONOMIST LAYER
 
 This is the analytical core.
 
 Purpose:
 Extract the macro signal from the release.
+
+Section 3 should be built from:
+1. Reuters mechanical base
+2. official / institutional web anchoring
+3. GitHub prior regional history
+4. Claude enhanced tape analytical elements
+5. JGM notes if provided
 
 Allowed content:
 - breadth vs concentration
@@ -506,6 +586,10 @@ Allowed content:
 - labor supply dynamics
 - birth-death model effects
 - seasonal vs structural drivers
+- arithmetic checks
+- hierarchy of sub-signals
+- why one part of the release matters more than another
+- what is noise vs what is regime-relevant
 
 Section 3 should contain the densest analytical detail.
 
@@ -518,9 +602,15 @@ State transition: [continuation / stabilization / deterioration / reversal / fal
 
 This must be derived from:
 - Reuters data
-- Mistral / scout / web-built mini tape
+- Claude / scout / web-built mini tape
 - JGM notes if provided
 - GitHub historical sequence
+
+For consolidated multi-release blocks:
+- Section 3 must explain the internal hierarchy of the combined release
+- identify what is the primary signal inside the publication
+- identify which subcomponents confirm, offset, or dilute the headline
+- end with one unified state transition for the publication as a whole
 
 CONTEXT FROM PRIOR REGIONAL LIVE FILE
 
@@ -535,9 +625,20 @@ This section must:
 
 This is mandatory for every release.
 
+For consolidated multi-release blocks:
+- historical context should refer to the combined macro bucket represented by that official publication
+- avoid separate mini-context paragraphs unless truly necessary
+
 SECTION 4 — HF TAKE — STRATEGIST LAYER
 
 This section maps the release to the reaction function.
+
+Section 4 should be built from:
+1. verified release signal
+2. Claude enhanced tape reaction-function elements
+3. official / institutional web anchoring
+4. GitHub weekly context
+5. optional JGM strategic constraint insight
 
 Allowed content:
 - policy timing implications
@@ -546,6 +647,8 @@ Allowed content:
 - FX implications
 - cross-asset interpretation
 - macro regime relevance
+- what the next verification test is
+- what later releases matter conditionally
 
 Rules:
 - use conditional language
@@ -553,6 +656,10 @@ Rules:
 - avoid exaggerated regime calls intra-week
 
 If JGM exists, one short JGM insight may be included here.
+
+For consolidated multi-release blocks:
+- Section 4 should map the combined publication to the reaction function as one macro event
+- do not split policy conclusions by subcomponent unless the internal divergence is itself the core market takeaway
 
 REGIONAL MACRO DASHBOARD
 
@@ -647,6 +754,7 @@ Partial update rule
 If the user only adds:
 - a JGM note
 - an extra scout item
+- a Claude tape refinement
 - a minor clarification
 
 then update only the relevant release block unless the broader regional interpretation changes.
@@ -688,9 +796,11 @@ Before finalizing the note, verify:
 5. Section 3 contains the analytical core and a State transition line
 6. Context from prior regional live file is present for every release
 7. Section 4 remains conditional and reaction-function focused
-8. Web anchoring was performed for every release, especially when Mistral / JGM were absent
+8. Web anchoring was performed for every release, especially when Claude / JGM were absent or thin
 9. Dashboard / pending / tension / 3 key releases are consistent with the latest releases
 10. No style drift or structure drift has occurred
+11. Consolidation was applied only when indicators came from the same official publication
+12. No institutionally separate releases were merged into one block
 
 STYLE RULES
 
@@ -716,6 +826,7 @@ Requirements illustrated by this example:
 - Section 1 remains purely mechanical
 - Section 2 stays compact and tape-like
 - Section 3 contains the densest analytical decomposition
+- Claude-style enrichment may be integrated where relevant without taking over the structure
 - JGM is integrated where relevant without taking over the structure
 - historical GitHub context is explicit
 - HF Take remains conditional and reaction-function focused
@@ -795,9 +906,6 @@ Macro configuration: labor softening, inflation plateau.
 This keeps the Fed reaction function data-dependent rather than clearly easing-biased.
 
 END OF LOCKED QUALITY EXAMPLE
-
-
-
 
 FINAL RESULT
 
