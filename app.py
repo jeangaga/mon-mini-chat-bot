@@ -301,7 +301,8 @@ def repondre(question: str):
         return comment_text, None  
     
     if q_upper.startswith("WEEK"):
-        comment_text = load_live_week()
+        region = q_upper.replace("WEEK", "").lower()
+        comment_text = load_live_week(region)
         comment_text = render_live_macro_block(comment_text)
         return comment_text, None  
 
