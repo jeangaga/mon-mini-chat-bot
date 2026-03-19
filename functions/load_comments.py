@@ -227,34 +227,37 @@ def load_eur_macro_comment() -> str:
     return first_block
 
 
-def load_live_week() -> str:
+def load_live_week(region: str) -> str:
     """
-    Charge la note EUR macro depuis GitHub (EUR_MACRO_NOTE.txt)
-    et renvoie le PREMIER bloc entre
-    <<<EUR_MACRO_NOTE_BEGIN>>> et <<<EUR_MACRO_NOTE_END>>>.
+    Load the FIRST week macro block for a given region from GitHub.
+
     """
-    url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes/WEEK.txt"
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = f"{reg}_WEEK.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<{reg}_WEEK_BEGIN>>"
+    end_tag = f"<<{reg}_WEEK_END>>"
 
     try:
         r = requests.get(url, timeout=5)
         if r.status_code != 200:
-            return f"❌ Aucun commentaire EUR macro trouvé (HTTP {r.status_code})."
+            return f"❌ No LIVE macro file for {reg} (HTTP {r.status_code}): {filename}"
     except Exception as e:
-        return f"Erreur lors du chargement du commentaire EUR macro : {e}"
+        return f"❌ Error loading LIVE macro for {reg}: {e}"
 
     text = r.text
-
-    pattern = r"<<WEEK_BEGIN>>(.*?)<<WEEK_END>>"
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
     matches = re.findall(pattern, text, flags=re.S)
 
     if not matches:
-        return (
-            "❌ Aucune balise <<<EUR_MACRO_NOTE_BEGIN>>> ... "
-            "<<<EUR_MACRO_NOTE_END>>> trouvée dans le fichier EUR macro."
-        )
+        return f"❌ LIVE markers not found in {filename}: {begin_tag} ... {end_tag}"
 
-    first_block = matches[0].strip()
-    return first_block
+    return matches[0].strip()
 
 
 
