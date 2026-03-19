@@ -324,8 +324,8 @@ def load_live_macro_block(region: str) -> str:
     filename = f"{reg}_WEEK_LIVE_MACRO.txt"
     url = f"{base_url}/{filename}"
 
-    begin_tag = f"<<LIVE_{reg}_WEEK_BEGIN>>"
-    end_tag = f"<<LIVE_{reg}_WEEK_END>>"
+    begin_tag = f"<<{reg}_WEEK_BEGIN>>"
+    end_tag = f"<<{reg}_WEEK_END>>"
 
     try:
         r = requests.get(url, timeout=5)
