@@ -321,11 +321,11 @@ def load_live_macro_block(region: str) -> str:
         return "❌ Invalid region (empty)."
 
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
-    filename = f"{reg}_MACRO_NOTE.txt"
+    filename = f"{reg}_WEEK_LIVE_MACRO.txt"
     url = f"{base_url}/{filename}"
 
-    begin_tag = f"<<LIVE_{reg}_MACRO_BEGIN>>"
-    end_tag = f"<<LIVE_{reg}_MACRO_END>>"
+    begin_tag = f"<<LIVE_{reg}_WEEK_BEGIN>>"
+    end_tag = f"<<LIVE_{reg}_WEEK_END>>"
 
     try:
         r = requests.get(url, timeout=5)
