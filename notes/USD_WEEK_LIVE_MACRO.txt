@@ -120,6 +120,7 @@ HF Take — Strategist Layer
 
 For policy, this is only marginally dovish. A weaker regional survey is too small on its own to move the Fed, but softer input-price optics slightly reduce the risk that manufacturing becomes a new inflation problem. For markets, the right read was verification mode rather than extrapolation mode, with Philly Fed later in the week the cleaner test of whether Empire was early warning or just another noisy regional survey.
 
+
 UNITED STATES — Industrial Production / Capacity Utilization / Manuf Output (Feb)
 Release Date: 16 Mar 2026 | Local Time: 14:15
 
@@ -135,17 +136,28 @@ The hard-data read was modestly constructive. Officially, industrial production 
 
 Comment — Economist Layer
 
-This was a better hard-data signal than the same-day Empire survey. The important sequence is: total IP beat, manufacturing output beat, and prior manufacturing output was revised up. That keeps the February industrial floor intact. Compositionally, motor vehicles led durable strength, machinery lagged, nondurables were mixed but still positive overall, and slack remained material: capacity utilization at 76.3% was still 3.1 percentage points below its long-run average. So the report supported activity, but not overheating.
+JGM’s note strengthens the original hard-data interpretation: this was not a boom print, but it was another resilience print. The headline beat was small, yet directionally important because February added 0.2% m/m on top of a strong January base rather than fading after the prior gain. That argues for steady output expansion, not acceleration, but it also rejects a near-term production rollover.
 
-State transition: improvement in hard industrial activity, with slack still significant.
+The composition matters. Mining boosted the headline while utilities dragged, which means the top-line IP figure was partly distorted by sectors with more energy and weather sensitivity. The cleaner cyclical information sits inside manufacturing. Manufacturing output rose 0.2% m/m for a second consecutive monthly gain, which is the key signal: the factory side is still expanding despite weak survey rhetoric. JGM’s emphasis on the durable-goods strength is useful here as well. Autos likely did part of the lifting, but the more important corrected segment is that non-auto manufacturing still rose 0.1% m/m and has been improving over the past year. That is a cleaner underlying signal than aggregate IP because it strips out one of the more volatile industry clusters.
+
+This is where the note materially upgrades the block: the divergence between surveys and hard data is now clearer. ISM-type survey measures remained below 50 and pointed toward contractionary sentiment, yet industrial production, manufacturing output, and non-auto manufacturing all continued to advance. JGM is right that the cycle assessment depends on which dataset is assigned more weight. On current evidence, hard activity still deserves priority over soft survey weakness. The resulting macro message is that production-side growth has not broken.
+
+The capex read also improves. JGM’s point that non-auto heavy manufacturing / capex categories were firmer despite soft surveys matters because it broadens the resilience story beyond AI or data-center spending. The best summary is: domestic demand still looks strong enough to support broad manufacturing activity, and investment is holding up outside the most obvious tech-exuberance buckets. Capacity utilization at 76.3% still says there is meaningful slack, so this is not an overheating report. But it is more than just “okay” activity; it is evidence of a slow grind higher in core manufacturing momentum.
+
+JGM note: Underlying manufacturing outside autos is still expanding and has improved over the past year. That makes the hard-data signal more durable than the headline alone suggests and reinforces the broader week-level constraint: growth remains firm enough that inflation has to do more of the easing work.
+
+State transition: improvement in hard industrial activity, with underlying non-auto manufacturing still grinding higher and slack still significant.
 
 Context from prior regional live file:
 
-The prior live file already had January industrial production as a constructive manufacturing signal, but that sequence was partially weakened by the subsequent January durables/core-capex release, which showed softer business-investment momentum. February G.17 partly repaired that damage: actual production kept rising and the capex-adjacent market-group signal remained supportive, but the broader investment story still needed confirmation from orders and shipments.
+The prior live file already had January industrial production as a constructive manufacturing signal, but that sequence was partially weakened by the subsequent January durables/core-capex release, which showed softer business-investment momentum. February G.17 partly repaired that damage. With JGM’s corrected non-auto manufacturing read, the repair looks a bit stronger: actual production kept rising, the business-equipment / capex-adjacent signal remained supportive, and the hard-data side of the manufacturing story is now firmer than the survey side.
 
 HF Take — Strategist Layer
 
-This was modestly growth-supportive and only weakly hawkish. For the Fed reaction function, stronger output mattered less than the fact that spare industrial capacity remained meaningful. Combined with the softer Empire price signal, Monday’s industrial mix still looked like activity holding up without a parallel re-heating in supply-side inflation pressure.
+This was modestly growth-supportive and only weakly hawkish on its own, but JGM’s addition raises its strategic importance inside the week. The Fed relevance is not that production is booming; it is that production is not weak enough to offset inflation pressure elsewhere. Combined with the hotter PPI block, the message is more uncomfortable: growth resilience is broad enough to keep the Fed in restrictive hold mode, while spare industrial capacity still prevents a clean overheating call. Cross-asset, this supports the idea of a growth floor without giving risk assets a clean easing signal.
+
+The broader week-level dashboard does not need to be rewritten from this patch, but this update does strengthen the existing view that hard activity remained firmer than the soft-survey tone implied.
+
 
 UNITED STATES — NAHB Housing Market Indx (Mar)
 Release Date: 16 Mar 2026 | Local Time: 15:00
@@ -246,17 +258,27 @@ Claude’s first pass was strong and survives verification: this was a hawkish i
 
 Comment — Economist Layer
 
-The core signal is tighter than the headline alone. First, the sequential pattern matters: headline PPI accelerated again, extending the three-month re-heating sequence. Second, the composition is double-sided in a bad way for the Fed: goods were boosted by food and energy, which can be partially dismissed as exogenous or volatile, but services also rose 0.5%, and the core ex-food/energy/trade measure advanced 0.5% for a tenth straight monthly increase. Third, Claude is right to distinguish volatile from sticky service components: traveler accommodation is noisy, but financial and other core service inputs are more relevant to the PCE pass-through. So the economist-layer conclusion is not merely “hot print,” but “pipeline pressure plus sticky services means the disinflation stall is broadening.”
+The core signal is tighter than the headline alone, and JGM’s note improves the mapping materially. First, inflation pressure was already uncomfortably firm before the later oil/geopolitical shock. That matters because Iran/oil now looks like an amplifier, not the origin of the inflation problem. Second, the cleanest underlying signal remains the ex-food/energy/trade measure: +0.5% m/m and 3.5% y/y, which says core pipeline inflation was not improving even before the energy overlay.
 
-State transition: deterioration / reversal.
+Third, the composition is double-sided in a bad way for the Fed, but not in a uniform way. Core goods were firmer but more modest at roughly +0.3% m/m in JGM’s read, with electronics and tariff-sensitive categories doing a meaningful part of the work. That argues for some goods inflation being policy-induced rather than demand-led, but it does not make it benign: goods are no longer providing the disinflationary cushion they had earlier in the cycle. JGM’s point that the CPI–PCE core-goods gap may revert is important here: some of the prior CPI goods softness may not persist, which raises the risk that future CPI prints also disappoint.
+
+Fourth, services remain the binding constraint, but the decomposition matters. JGM’s breakdown is the right one: brokerage and financial services matter because they can feed into PCE financial services; software publishing and subscription-type categories look sticky and recurring; travel accommodation looks more volatile and less reliable as a regime signal. So the correct reading is not that every part of the +0.6% core-services move should be treated equally, but that enough of the sticky service complex remains firm to keep the inflation floor elevated.
+
+Fifth, the PPI-to-PCE mapping is uncomfortable even after allowing for offsets. JGM rightly notes that some PPI components relevant for PCE were softer, notably passenger airlines and healthcare, and retail/wholesale margins around 0.4% do not indicate an outright transmission blowout. That prevents a full runaway-inflation reading. But the balance still points to core PCE around +0.4% m/m, with 1y core PCE still near 3.0%/3.1% while the 3m annualized run rate is closer to the mid-4s. That is the real policy problem: the y/y profile looks plateau-like, but short-term momentum is re-accelerating.
+
+JGM note: The key shift is that inflation now looks dual rather than singular. Core services are still running too hot on a short-run basis, and core goods are no longer reliably disinflationary. Supply-chain pressure also appears to be rebuilding before the oil shock fully feeds through, which weakens any argument that February can be dismissed as pure energy noise.
+
+State transition: deterioration / reversal into a mild re-acceleration regime.
 
 Context from prior regional live file:
 
-The prior USD inflation regime was “plateau with softer composition”: February CPI had avoided re-acceleration but had not solved the inflation problem, and January core PCE at 3.1% had kept the sticky floor intact. Wednesday’s PPI weakens that prior equilibrium materially. Instead of softening pipeline pressure, it suggests inflation re-acceleration risk was building before the Fed even spoke.
+The prior USD inflation regime was “plateau with softer composition”: February CPI had avoided re-acceleration but had not solved the inflation problem, and January core PCE at 3.1% had kept the sticky floor intact. Wednesday’s PPI weakens that prior equilibrium materially. Instead of softening pipeline pressure, it suggests inflation re-acceleration risk was already building before the Fed even spoke, and before the oil shock became the dominant narrative.
 
 HF Take — Strategist Layer
 
-This is the week’s decisive inflation gate. It does not mechanically force a hike, but it materially narrows the Fed’s easing optionality and shifts the burden of proof back onto future CPI/PCE disinflation. Cross-asset, it is front-end bearish, USD-supportive on rates differentials, and negative for the housing/rate-sensitive growth complex. The Claude tape’s “services stickiness is the binding constraint” framing is the right one for Section 4.
+This is the week’s decisive inflation gate. It does not mechanically force a hike, but it materially narrows the Fed’s easing optionality and shifts the burden of proof back onto future CPI/PCE disinflation. Cross-asset, it is front-end bearish, USD-supportive on rates differentials, and negative for the housing/rate-sensitive growth complex. The Claude tape’s “services stickiness is the binding constraint” framing remains the right anchor, and JGM’s addition sharpens the policy conclusion: there is nothing in this price mix that credibly reopens near-term cuts, especially once the oil shock is layered on top. The strategic linkage to the rest of the week is also clearer now: hotter pipeline inflation feeds into higher term yields, tighter mortgage conditions, and greater fragility in the housing channel.
+
+The broader week-level dashboard does not need a forced rewrite from this patch; it reinforces the existing inflation-up / policy-constraint-up read rather than changing it.
 
 UNITED STATES — Factory Orders / Durables Revised (Jan)
 Release Date: 18 Mar 2026 | Local Time: 15:00
