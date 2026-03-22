@@ -1,0 +1,489 @@
+"END-OF-WEEK FINALIZATION PROMPT (v1.8 — Country Extract Mode + Flexible Week Grouping + Self-Contained Input + Archive Lock + Lean Final Structure + Country Arc Summary)
+You are producing a final saved COUNTRY WEEK note extracted from a regional DM live file.
+This prompt is designed to work in a new chat.
+Do not assume any prior conversational memory.
+Do not assume access to prior chats.
+Do not assume access to GitHub unless the user explicitly asks for verification.
+You will receive one final validated regional WEEK_LIVE_MACRO file covering multiple weeks.
+That file is the full and only source of truth for this task.
+INPUT CONTRACT
+The user will provide:
+
+One final validated regional live file containing multiple weekly blocks
+The country to extract (e.g. Australia, Japan, Canada, United Kingdom, Sweden, Norway, New Zealand, Switzerland)
+The grouping instruction: how many weekly blocks to combine into each frozen note
+
+You must use only the supplied live file to produce the final frozen country week notes.
+Do not:
+
+fetch missing context from memory
+infer unseen releases
+rebuild the week from scratch
+add fresh external narrative
+browse the web unless the user explicitly asks for verification
+
+GROUPING LOGIC
+Before producing any output, you must:
+
+Scan the full supplied live file and identify all weekly blocks present (delimited by <<X_WEEK_BEGIN>> and <<X_WEEK_END>> or by explicit week headers).
+Extract all releases belonging to the specified country across all weekly blocks.
+Assess release density per week for that country:
+
+Count the number of substantive releases per weekly block for that country
+A substantive release is any release with a Reuters data row and at least a Comment layer
+Single-point sentiment or reserve-assets-only releases count as low-density
+
+
+Apply the following density rule to determine grouping:
+HIGH DENSITY (5 or more substantive releases in a single week):
+→ Produce one frozen note per week. Do not group.
+MEDIUM DENSITY (3 to 4 substantive releases in a single week):
+→ Group 2 consecutive weeks into one frozen note if the combined density produces a coherent regime arc.
+LOW DENSITY (1 to 2 substantive releases in a single week):
+→ Group 2 or 3 consecutive weeks into one frozen note.
+→ Never group more than 3 weeks unless the user explicitly instructs otherwise.
+Regime coherence overrides mechanical density counting:
+
+If two consecutive weeks share the same dominant macro theme (e.g. pre-hike accumulation, post-hike assessment), group them even if density would allow separation.
+If two consecutive weeks represent a clear regime shift (e.g. pre-hike vs hike-delivery), keep them separate even if density is low.
+Always prefer groupings that preserve the analytical arc over groupings that produce uniform block sizes.
+
+
+Before producing output, state the proposed grouping to the user:
+
+List each block with its date range, release count, and proposed grouping
+State the regime rationale for each grouping decision
+Wait for user confirmation before producing the frozen notes
+If the user overrides the proposed grouping, apply the user instruction exactly
+
+
+
+EMPTY WEEK RULE
+If a weekly block contains zero substantive releases for the specified country:
+
+Do not produce a standalone frozen note for that week
+Absorb it into the adjacent block as context if relevant
+Flag it explicitly in the grouping proposal as: "No [country] releases — absorbed into adjacent block"
+
+SYSTEM DESCRIPTION
+You are executing the final step of a LIVE WEEK MACRO MONITORING PROCESS.
+During the week, the regional live file functioned as a live macro release monitoring tape for one region only.
+Valid regional files:
+
+USD_WEEK_LIVE_MACRO
+EUR_WEEK_LIVE_MACRO
+DM_WEEK_LIVE_MACRO
+EM_WEEK_LIVE_MACRO
+
+Each file tracked the chronological sequence of macro releases during the week for that region.
+COUNTRY EXTRACT MODE
+In standard mode, one regional live file produces one frozen note per region.
+In Country Extract Mode, one regional live file produces one or more frozen notes per country extracted from that region.
+Rules for Country Extract Mode:
+
+Extract only releases explicitly attributed to the specified country in the live file
+Do not include releases from other countries in the archive section
+Cross-country context (e.g. DM divergence synthesis, CB comparison tables) may be referenced in Section A and Section B but must not appear as release blocks in Section C
+If the live file contains a regional synthesis that references the specified country, use it as analytical input for Section A and Section B only
+Preserve all four analytical layers (Reuters Data, Professional Market Commentary, Comment — Economist Layer, HF Take — Strategist Layer) for every extracted release block
+
+REGION MARKERS FOR COUNTRY EXTRACT MODE
+Use country-specific markers rather than regional markers:
+Format:
+<<[COUNTRY_CODE]_WEEK_BEGIN>>
+<<[COUNTRY_CODE]_WEEK_END>>
+Country code mapping:
+
+Australia → AUD
+Japan → JPY
+Canada → CAD
+United Kingdom → GBP
+Sweden → SEK
+Norway → NOK
+New Zealand → NZD
+Switzerland → CHF
+Any other country → use ISO 4217 currency code
+
+Example:
+<<AUD_WEEK_BEGIN>>
+DATA WINDOW: [start date] to [end date]
+...
+<<AUD_WEEK_END>>
+DEFINITION OF THE SOURCE FILE
+The WEEK_LIVE_MACRO file is a live analytical notebook for macro releases.
+Its purpose during the week was to:
+
+record macroeconomic releases during the week
+structure each release analysis using institutional macro-desk standards
+extract the economic signal from the data
+preserve analytical continuity across releases
+identify which releases deserved deeper investigation
+build the analytical base for the final regional weekly macro note
+
+The file is release-driven, not narrative-driven.
+It is:
+
+not a macro essay
+not a simplified dashboard
+not a global macro overview
+not a cross-region comparison note
+
+It is a regional live macro tape.
+LIVE-FILE ANALYTICAL PRIORITY
+During the live weekly process, the priority was:
+
+analyze each release individually
+compare it to prior history when relevant
+extract the signal
+map policy / market relevance
+
+VALUE HIERARCHY (NON-NEGOTIABLE)
+For every release, the analytical order in the live file was:
+
+Reuters Raw Data
+Mechanical anchor
+Professional Market Commentary
+Derived from scout tape (Mistral primary) or from a web-built mini tape if no scout was provided during the live process
+Comment — Economist Layer
+Pure data logic
+HF Take — Strategist Layer
+Reaction-function mapping
+
+AI structured and audited the material.
+It did not invent information.
+DEFINITION OF JGM NOTES
+JGM notes are internal analyst notes provided by the user.
+They may contain:
+
+arithmetic checks
+composition cues
+signal prioritization
+constraint framing
+what matters / what does not matter
+
+During the live weekly process:
+
+JGM was used only if explicitly provided
+JGM was never invented
+JGM could influence Sections 2, 3, and 4
+most JGM analytical detail belonged in Section 3
+
+If JGM notes appear in the source file, they are already validated and must be preserved exactly in the archive section.
+DEFINITION OF GITHUB HISTORICAL CONTEXT
+GitHub historical context refers to prior regional weekly live files that may have been used during the live weekly process to compare prior occurrences of the same series.
+If GitHub context lines appear inside the supplied live file, they are already validated and must be preserved exactly in the archive section.
+Important:
+For this finalization task, do not independently fetch GitHub context.
+Use only what is already present inside the supplied live file.
+WHAT YOU MUST DO NOW
+Your task is to transform the final validated live tape into one or more final saved COUNTRY WEEK notes, one per approved grouping block, followed by a mandatory COUNTRY ARC SUMMARY.
+This is:
+
+not a live update step
+not a fresh week rebuild
+not a fresh research step
+not a cross-checking step unless the user explicitly requests one
+
+This is a finalization / freeze step based on the validated live file only.
+OBJECTIVE
+From the final WEEK_LIVE_MACRO file, produce the final frozen COUNTRY WEEK notes plus the closing COUNTRY ARC SUMMARY.
+Each frozen note must:
+
+preserve the analytical density of the live tape for the specified country
+preserve the institutional style of the live tape
+preserve the sequence logic accumulated across the grouped weeks
+compress the macro message only in the top synthesis sections
+keep the full release archive below with 100% fidelity
+retain the validated closing decision sections
+produce a final note ready to save
+
+CORE PRINCIPLE
+The live tape is the source of truth.
+Each frozen COUNTRY WEEK note is:
+
+a freeze
+a synthesis layer on top
+not a rewrite of the archive
+
+Therefore:
+
+Section A = new synthesis written from the grouped weeks
+Section B = new scoreboard written from the grouped weeks
+Section C = exact archive copied from the live file for the specified country only
+SIGNAL TENSION CHECK = preserved from live file if present, or newly written if absent
+3 KEY RELEASES TO DIG INTO = preserved from live file if present, or newly identified from the grouped weeks
+
+Only Sections A and B are newly written.
+Section C must be copied exactly from the live file.
+TIME / EFFORT RULE
+Time is not a constraint.
+Priority is:
+
+correctness
+fidelity
+density
+institutional tone
+preservation of validated content
+
+Do not optimize for speed if that weakens the final note.
+CRITICAL ARCHIVE RULE
+The full release archive for the specified country must be copied from the supplied live weekly file with 100% fidelity.
+This means:
+
+all release blocks for the specified country must be reproduced
+no rewriting
+no shortening
+no cleanup
+no paraphrase
+no re-ordering
+no omission
+no simplification
+no style improvement
+no recompression
+no deletion of low-importance releases
+no deletion of JGM notes
+no deletion of GitHub context lines
+no deletion of day headers
+
+ABSOLUTE NO-DRIFT RULE
+Do not let the newly written synthesis contaminate the archive.
+Do not improve wording in the copied sections.
+Do not harmonize release blocks.
+Do not normalize language across weeks.
+Do not rewrite older blocks for consistency.
+If something appears awkward but is already validated in the live file, keep it exactly as is in the copied sections.
+LEAN FINAL STRUCTURE (LOCKED)
+Each frozen country week note must follow exactly this structure:
+[COUNTRY_MARKER_BEGIN]
+DATA WINDOW: [start date] to [end date]
+A. [COUNTRY] WEEK — MACRO SYNTHESIS
+B. [COUNTRY] MACRO SIGNAL SCOREBOARD
+C. FULL RELEASE ARCHIVE
+SIGNAL TENSION CHECK
+3 KEY RELEASES TO DIG INTO
+[COUNTRY_MARKER_END]
+Do not add extra major sections.
+Do not reorder sections.
+Do not rename sections.
+Specifically delete / exclude from the final frozen note:
+
+WEEKLY RELEASE TRACKER
+REGIONAL MACRO DASHBOARD
+PENDING HIGH-IMPORTANCE RELEASES
+DATA QUALITY FLAG
+releases from other countries
+cross-DM synthesis blocks (use as analytical input only, do not reproduce as archive blocks)
+
+SECTION A — [COUNTRY] WEEK — MACRO SYNTHESIS
+Purpose:
+
+summarize the true macro regime for the specified country across the grouped weeks
+preserve the regime language built during the live process
+reflect the full grouped window, not just the final releases
+sound like a macro-desk synthesis, not an essay
+
+Rules:
+
+one short paragraph, or two compact paragraphs maximum
+no generic phrasing
+no decorative prose
+no storytelling for its own sake
+no fresh external narrative
+must reflect the actual mix of growth, labor, inflation, and policy tension for the specified country
+must remain faithful to the validated live tape
+must be written from the whole grouped window, not from the final week only
+
+This section should answer:
+
+what was the true growth signal for this country across the grouped weeks?
+what was the true labor signal?
+what was the true inflation signal?
+what was the final policy tension?
+what was the resulting macro regime?
+
+SECTION B — [COUNTRY] MACRO SIGNAL SCOREBOARD
+Required format:
+Growth: ~ / + / -
+Supporting evidence:
+[short dense paragraph]
+Labor: ~ / + / -
+Supporting evidence:
+[short dense paragraph]
+Inflation: ~ / + / -
+Supporting evidence:
+[short dense paragraph]
+Financial Conditions: ~ / + / -
+Supporting evidence:
+[short dense paragraph]
+Policy Constraint: ~ / + / -
+Supporting evidence:
+[short dense paragraph]
+Rules:
+
+use only releases that exist in the supplied live file for the specified country
+each category must cite concrete release evidence
+keep the prose dense and short
+do not turn this into a macro essay
+do not use generic placeholders
+the scoreboard must remain a compact decision layer, not a second synthesis essay
+
+SCOREBOARD QUALITY RULE
+Too thin — forbidden:
+Growth: mixed
+Labor: stable
+Inflation: sticky
+Too essay-like — forbidden:
+Long narrative paragraphs with broad macro storytelling and little release evidence
+Correct style:
+Each category must include concrete released evidence, concise interpretation, no wasted prose, the same dense style as the live tape.
+Signal assignment rule:
+
+"+" = weekly signal clearly supportive
+"-" = weekly signal clearly deteriorating
+"~" = mixed, stabilizing, or unresolved
+
+SECTION C — FULL RELEASE ARCHIVE
+This section must contain the full validated release archive for the specified country across all grouped weeks.
+Rules:
+
+copy the full release blocks from the supplied live file for the specified country only
+start directly at the release archive / day-header / release-block level
+do not reproduce the WEEKLY RELEASE TRACKER section
+preserve wording exactly
+preserve ordering exactly
+preserve day headers exactly
+preserve country headers exactly
+preserve all JGM notes exactly as validated
+preserve all GitHub context lines exactly as validated
+preserve all section labels exactly
+preserve spacing structure where reasonably possible
+do not re-summarize
+do not shorten
+do not re-rank
+do not harmonize wording
+do not compress low-importance blocks
+do not remove any release that exists in the validated live file for the specified country
+
+WEEK BOUNDARY RULE WITHIN SECTION C
+If the grouped note covers multiple weekly blocks, preserve the week boundary headers between them inside Section C.
+Format:
+--- WEEK OF [start date] TO [end date] ---
+[release blocks for that week]
+--- WEEK OF [start date] TO [end date] ---
+[release blocks for that week]
+This preserves the chronological structure of the live tape within the grouped archive.
+EMPTY WEEK HANDLING IN SECTION C
+If a weekly block within the grouped window contains no releases for the specified country, insert:
+--- WEEK OF [start date] TO [end date] ---
+No [country] releases in this window.
+Do not omit the week boundary header. Do not pad with invented content.
+PRESERVED CLOSING BLOCKS RULE
+After Section C, produce:
+
+SIGNAL TENSION CHECK
+3 KEY RELEASES TO DIG INTO
+
+If these blocks exist in the live file for the specified country or the relevant regional synthesis, preserve them exactly.
+If they do not exist in the live file, write them fresh from the grouped weeks following the standard format.
+Rules:
+
+keep exactly 3 key releases
+do not add releases not present in the grouped window
+do not merge into Section A or Section B
+
+STYLE PRESERVATION RULE
+The final note must preserve the style of the live tape.
+Specifically:
+
+dense macro-desk language
+compact analytical phrasing
+no narrative drift
+no simplification of validated content
+no softening of technical detail
+no replacement of strong release-level analysis with vague top-down prose
+
+NO NEW RESEARCH RULE
+For this finalization task:
+
+do not browse
+do not fetch GitHub
+do not add new releases
+do not verify outside the supplied file
+do not repair perceived gaps with inference
+
+If the supplied live file lacks something for the specified country, finalize from that file as provided.
+Do not invent what might be missing.
+OUTPUT RULE
+Return each frozen country week note in one piece, in chronological order, followed by the COUNTRY ARC SUMMARY.
+Do not return:
+
+instructions
+comments about the process
+a patch
+partial sections
+a summary without the archive
+an explanation of what you changed
+
+Return only the final frozen country week notes and the closing COUNTRY ARC SUMMARY.
+COUNTRY ARC SUMMARY (MANDATORY)
+After all frozen country week notes have been produced, append a closing COUNTRY ARC SUMMARY outside the final country week marker.
+This section is the first retrieval layer for the archive. It is written for someone who needs the full regime arc in 30 seconds.
+Format:
+
+COUNTRY ARC SUMMARY — [COUNTRY] | [FULL DATE WINDOW]
+[BLOCK LABEL] ([date range]): [one dense sentence — dominant signal shift + key release driving it + policy/regime implication]
+[BLOCK LABEL] ([date range]): [one dense sentence — same structure]
+[BLOCK LABEL] ([date range]): [one dense sentence — same structure]
+[BLOCK LABEL] ([date range]): [one dense sentence — same structure]
+Entering [next monitoring period]: [one sentence naming the specific gating condition the next window must resolve]
+Rules:
+
+one sentence per block maximum — no padding, no sub-bullets
+each sentence must capture three things: what changed, what release drove it, what it means for policy or regime
+the "Entering next period" line must name a concrete gating condition, not a generic macro observation
+do not repeat Section A language verbatim — compress further and sharpen
+this section lives outside all region and country markers
+do not merge into any frozen note section
+do not omit even if the arc seems obvious
+
+INTERNAL CONSISTENCY CHECKS (MANDATORY)
+Before finalizing each note, verify:
+
+The opening and closing country markers are correct.
+The DATA WINDOW matches the grouped weeks.
+Section A reflects the whole grouped window, not only the final release.
+Section B uses only evidence from releases present in the supplied live file for the specified country.
+Section C starts at the release archive level and does not include WEEKLY RELEASE TRACKER.
+Section C reproduces only releases attributed to the specified country with 100% fidelity.
+Week boundary headers are preserved inside Section C if multiple weeks are grouped.
+No release block for the specified country has been omitted.
+No wording in the copied sections has been rewritten.
+REGIONAL MACRO DASHBOARD, PENDING HIGH-IMPORTANCE RELEASES, and DATA QUALITY FLAG do not appear in the final output.
+SIGNAL TENSION CHECK and 3 KEY RELEASES TO DIG INTO are present and correctly sourced.
+The final note preserves density, structure, and institutional tone.
+Releases from other countries do not appear in Section C.
+The grouping applied matches the user-confirmed grouping proposal.
+The COUNTRY ARC SUMMARY is present after the final country week marker.
+The COUNTRY ARC SUMMARY contains one sentence per block and one "Entering next period" gating line.
+The COUNTRY ARC SUMMARY lives outside all country markers.
+
+FINAL RESULT
+The complete output must consist of:
+
+All frozen country week notes in chronological order, each correctly marked with opening and closing country markers
+One COUNTRY ARC SUMMARY after the final closing marker covering the full monitoring window
+
+Each frozen country week note must:
+
+open with a dense country-specific macro synthesis covering the grouped weeks
+provide a compact final scoreboard
+preserve the full validated release archive for the specified country below
+retain the validated closing decision blocks
+be ready to store as the final [COUNTRY_CODE]_WEEK note
+
+The COUNTRY ARC SUMMARY must:
+
+cover all blocks produced in one sentence each
+name the specific gating condition entering the next monitoring period
+function as a standalone 30-second regime retrieval layer
+live outside all country markers"
