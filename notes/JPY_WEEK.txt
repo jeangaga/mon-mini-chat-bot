@@ -1,5 +1,125 @@
 
+<<JPY_WEEK_BEGIN>>
+DATA WINDOW: 14 Mar 2026 to 20 Mar 2026
 
+A. JAPAN WEEK — MACRO SYNTHESIS
+Japan's macro sequence across this window resolved into a hawkish hold with escalating normalization pressure — the most important single policy signal in the DM file for medium-term rate direction. The data build preceding the 19 March BoJ decision was mixed but not damaging: Reuters Tankan non-manufacturing stabilised at 25 after February's deterioration, preventing a further confidence slide; trade delivered a headline surplus that beat consensus sharply but concealed a material deceleration in export momentum and bilateral weakness toward China and the US; and machinery orders confirmed that the December capex spike had partially normalized in January without breaking the underlying positive trend. None of those releases forced a dovish reassessment of the BoJ's framework.
+The decision itself was the dominant signal. The Policy Board held the overnight call rate at 0.75% by an 8–1 vote, retained the explicit medium-term underlying-inflation normalization bias, and recorded Hajime Takata's proposal to raise the rate to 1.0% — defeated by majority but formally on the record. That vote structure is the critical piece of information: an 8–1 hold with a live 1.0% dissent is not a pause in the normalization story, it is a tactical delay inside a still-active tightening sequence. The official statement preserved the "economy has recovered moderately" assessment and kept the projection that underlying CPI inflation would rise gradually and be generally consistent with target. No language was introduced that would signal a strategic retreat from normalization. The operative framing for the full window is therefore: services stable, capex durable, trade mixed, and the BoJ waiting through an oil-shock overlay without abandoning the direction of travel.
+
+B. JAPAN MACRO SIGNAL SCOREBOARD
+Growth: ~
+Supporting evidence:
+The Reuters Tankan non-manufacturing index held flat at 25 in March, stabilising after February's deterioration from 32, and preventing further confidence erosion in services. Machinery orders delivered a -5.5% m/m January payback from December's exceptional spike, but the y/y pace remained firm at 13.7% and the Cabinet Office retained its "signs of picking up" assessment. Trade produced a JPY 57.3bn surplus that beat consensus by JPY 540bn, but the composition was weak: exports decelerated from 16.8% to 4.2% y/y, and bilateral weakness toward China and the US undermined the aggregate headline. The net growth signal is mixed rather than deteriorating — capex durable, services stable, external demand losing momentum.
+Labor: ~
+Supporting evidence:
+No Japanese labour release fell within this window. The bucket is held at neutral by absence. The BoJ's retained assessment that the economy has recovered moderately and that underlying inflation is on a gradual upward path implicitly reflects a labour market still assessed as sufficiently tight to support the normalization framework, but no direct labour data was available to score within the window.
+Inflation: ~
+Supporting evidence:
+No Japanese CPI release fell within this window. The inflation signal is proxied through the BoJ's own communication and the machinery orders / trade context. The official statement retained the projection that underlying CPI inflation would rise gradually and be generally consistent with target later in the projection window. Import prices remain a live upside risk given yen sensitivity and oil-shock pass-through, but no new domestic price data arrived to either validate or challenge the normalization baseline. The Tertiary Industry Activity NSA print (-9.2%) was flagged as analytically unreliable against the official METI headline series and was down-weighted accordingly.
+Financial Conditions: ~
+Supporting evidence:
+The BoJ held at 0.75% with no change in the rate instrument. Financial conditions in Japan therefore did not tighten through the policy channel this week. The yen's sensitivity to the rate differential with other DM peers remains the primary financial-conditions transmission risk, but no FX or financial-market data release fell within the window. The oil-shock overlay adds an imported-inflation dimension to financial conditions without altering the domestic rate setting.
+Policy Constraint: -
+Supporting evidence:
+The 8–1 hold with an explicit 1.0% dissent from Hajime Takata is the dominant policy signal of the window. The BoJ is not pausing normalization; it is managing the timing of the next step through an oil-shock uncertainty overlay. The official statement made no retreat from the underlying-inflation normalization bias, kept the medium-term projection intact, and allowed a formal dissent in the hawkish direction to stand on the record. That combination — tactical hold, retained direction, live internal dissent — scores as an escalating policy constraint rather than a neutral pause, because it makes April a credible live meeting if wages, FX, and inflation signals remain firm.
+
+C. FULL RELEASE ARCHIVE
+--- WEEK OF 14 MAR 2026 TO 16 MAR 2026 ---
+No in-scope Japanese releases in this window.
+--- WEEK OF 17 MAR 2026 TO 20 MAR 2026 ---
+Japan — Tertiary Ind Act NSA (Jan)
+Release Date: 17 Mar 2026 | Local Time: 05:30
+Reuters Data
+Tertiary Ind Act NSA: -9.2% | Prior: 8.4% | Revised: 8.0%
+Professional Market Commentary
+This release is weak analytically because the Reuters line in the feed does not map cleanly onto the main official METI headline. METI's January 2026 release shows the seasonally adjusted tertiary activity index rising on the official headline measure, which means the Reuters "NSA" series is not directly comparable to the series most desks would normally use. There was no meaningful institutional debate around the Reuters print itself.
+Comment — Economist Layer
+Given that discrepancy, the right read is caution, not signal extraction. I would not treat the -9.2 figure as evidence of a true services collapse. The official METI release points the other way on the headline series, and the safest interpretation is that the Reuters field is capturing a different non-seasonally-adjusted transformation that is heavily distorted by January seasonality.
+State transition: no material change.
+Context from prior regional live file:
+The prior DM live file had December tertiary activity as a sharp rebound and used it as a modest positive counterweight to weak Q4 GDP. January does not cleanly invalidate that because the official METI release still shows services activity improving on the main headline measure. In sequence terms, this is not enough to rewrite the Japan domestic-demand story.
+HF Take — Strategist Layer
+Minimal direct market value. For BoJ mapping, this print should be down-weighted until it is reconciled with the official METI series or cross-checked against broader services indicators. It does not justify a meaningful downgrade of the BoJ's "resilient services/private consumption" baseline on its own.
+
+Japan — Reuters Tankan N-Man Idx (Mar)
+Release Date: 18 Mar 2026 | Local Time: 00:00
+Reuters Data
+Reuters Tankan N-Man Idx: 25 | Prior: 25
+Professional Market Commentary
+Reuters' March Tankan poll showed non-manufacturing sentiment unchanged at +25, while manufacturers improved sharply. Coverage around the release emphasised the manufacturing strength and Middle East risk to the outlook, with little separate debate around the flat non-manufacturing print.
+Comment — Economist Layer
+Flat at 25 is a useful stabilisation signal after the February softening seen in the prior live file. It also argues against over-reading the noisy Reuters tertiary-activity line from the prior day. Sentiment in services looks steady, not collapsing, even if hard activity remains uneven.
+State transition: stabilisation.
+Context from prior regional live file:
+The prior DM live file recorded Reuters Tankan non-manufacturing at 25 in February, down from 32, and read that as softer service-sector confidence. March holding at 25 means that deterioration did not deepen. The bucket has moved from decline to flat.
+HF Take — Strategist Layer
+Modestly supportive of the BoJ's resilient-services baseline, but still secondary to wages, CPI, and the official BoJ Tankan. This is a "no further deterioration" signal, not a hawkish game-changer.
+
+Japan — Exports / Imports / Trade Balance (Feb)
+Release Date: 18 Mar 2026 | Local Time: 00:50
+Reuters Data
+Exports YY: 4.2% | Prior: 16.8% | Poll: 1.6% | Surprise: 2.60%
+Imports YY: 10.2% | Prior: -2.5% | Revised: -2.6% | Poll: 11.5% | Surprise: -1.30%
+Trade Balance Total Yen: 57.3B | Prior: -1,152.7B | Revised: -1,163.5B | Poll: -483.2B | Surprise: 540.50B
+Professional Market Commentary
+Official MoF data confirm the headline surprise: exports rose 4.2% y/y, imports rose 10.2%, and the balance swung to a JPY 57.3bn surplus. But the composition is much less clean than the surplus headline suggests. MoF data and Reuters coverage both indicate that exports to China and the US weakened materially even as the aggregate balance printed much better than expected.
+Comment — Economist Layer
+The real signal is export deceleration, not the trade-balance beat. Exports slowed from 16.8% to 4.2%; that still beat a low consensus, but it is a material loss of momentum. At the same time, the bilateral mix worsened in Japan's two critical markets, China and the US. Imports rebounding 10.2% is the constructive domestic-demand side of the report, but it also means the surplus is not telling you that external demand suddenly re-accelerated.
+State transition: false dawn.
+Context from prior regional live file:
+The prior DM live file had January trade as export-strong and import-weak, with the deficit narrower than feared. February reverses that mix: export momentum cooled sharply, imports rebounded strongly, and the balance improved mostly because the prior deficit was extremely large. In sequence terms, the external sector has become less clean, not more.
+HF Take — Strategist Layer
+For BoJ mapping, this is mixed rather than decisively positive. Stronger imports help the domestic-demand story, but weaker exports to China and the US increase uncertainty around the external pillar of growth. The headline surplus should not be read as a reason to accelerate hawkish BoJ repricing.
+
+Japan — JP BOJ Rate Decision (Mar)
+Release Date: 19 Mar 2026 | Local Time: JST morning
+Reuters Data
+JP BOJ Rate Decision: 0.75% | Prior: 0.75% | Poll: 0.75% | Surprise: 0.000%
+Professional Market Commentary
+The official BoJ statement delivered a clear hawkish hold rather than a dovish pause. The Policy Board kept the overnight call-rate target at around 0.75% by an 8–1 vote, stated that Japan's economy "has recovered moderately, although some weakness has been seen in part," and left the medium-term underlying-inflation view intact. Crucially, the statement also recorded Hajime Takata's proposal to raise the rate to around 1.0%, which was defeated by majority vote.
+Comment — Economist Layer
+The hold was tactical, not strategic. The key information was the vote structure and the retained normalization bias. An 8–1 hold with an explicit 1.0% dissenter means the center of gravity on the Board is still moving in a hawkish direction even if the Bank chose to wait through a new oil-risk shock. The official text also still projects underlying CPI inflation to rise gradually and be generally consistent with target later in the January projection window. That is not a pivot away from hikes.
+State transition: no material change in action / escalating normalization pressure in forward guidance.
+Context from prior regional live file:
+The prior DM live file had already built a medium-term BoJ normalization story around firm services prices, solid capex, and uneven but positive activity. March's decision preserves that structure. What changed is the tactical overlay: the Bank paused at 0.75%, but the emergence of an explicit 1.0% proposal inside the Board makes the next-step debate more live than before.
+HF Take — Strategist Layer
+This is a hawkish hold for JPY medium-term mapping, even if the immediate market read can still be JPY-soft because no hike was delivered. The binding issue is timing, not direction. April is now a credible live meeting if wage, FX, and inflation signals remain firm.
+
+Japan — Machinery Orders MM / YY (Jan)
+Release Date: 19 Mar 2026 | Local Time: 00:50 JST
+Reuters Data
+Machinery Orders MM: -5.5% | Prior: 19.1% | Revised: 16.1% | Poll: -9.6% | Surprise: 4.10%
+Machinery Orders YY: 13.7% | Prior: 16.8% | Poll: 10.5% | Surprise: 3.20%
+Professional Market Commentary
+Official and readable commentary treated January as a payback from December's very strong spike rather than a capex breakdown. The Cabinet Office kept its basic assessment that machinery orders are showing "signs of picking up," while Japan Times reporting noted that manufacturers' orders were dragged lower by the unwind of large one-off orders in December.
+Comment — Economist Layer
+The m/m fall is less important than the y/y signal and the context. December had been exceptionally strong and was revised down only modestly; January's -5.5% therefore looks like a partial normalization, not a collapse. The y/y pace at 13.7% and the retained official assessment both support the idea that capex momentum is still positive. The Iran shock now matters more as a forward risk to boardroom confidence than the backward-looking January decline itself.
+State transition: improvement versus forecast / continuation in the underlying capex trend.
+Context from prior regional live file:
+The prior DM live file had December machinery orders at +19.1% m/m and +16.8% y/y and already treated that as a constructive capex signal. January cools the monthly pace but preserves the broader message: business investment has not rolled over.
+HF Take — Strategist Layer
+This is additive to the BoJ's medium-term normalization story because it supports the business-investment side of the cycle. It does not force a near-term hike, but it makes it easier for the BoJ to keep a tightening bias while waiting for more clarity on the external shock.
+
+SIGNAL TENSION CHECK
+Main contradiction: The BoJ delivered a hawkish hold with an explicit 1.0% dissent and retained normalization bias, but the external sector showed material export deceleration toward Japan's two most critical bilateral partners — China and the US — precisely as the oil shock adds a new layer of uncertainty to the growth and inflation outlook simultaneously.
+Why it matters: The BoJ's normalization path rests on three pillars — resilient domestic demand, durable capex, and underlying inflation on a gradual upward path. Capex remains supported, services sentiment stabilised, but external demand is becoming less clean at the margin. If trade weakness deepens and oil-shock pass-through lifts import costs faster than domestic wages adjust, the Board's 8–1 majority faces a more complicated data environment than the current hawkish hold implies.
+Implication: Direction remains hawkish — the 1.0% dissent makes that unambiguous — but timing uncertainty has increased. April is live if wages and CPI hold firm; it becomes less live if export weakness broadens or the oil shock generates a terms-of-trade deterioration that weakens corporate margins before wages can adjust further.
+
+3 KEY RELEASES TO DIG INTO
+
+Japan — JP BOJ Rate Decision (19 Mar 2026)
+Why it matters: The 8–1 hold with Hajime Takata's explicit 1.0% proposal on the record is the most important single JPY policy signal in the window. The action was unchanged but the structure was unambiguously hawkish: normalization bias retained, no dovish language introduced, and a formal internal dissent in the tightening direction now publicly recorded. This is a tactical pause, not a strategic retreat, and April is a credible live meeting.
+Japan — Exports / Imports / Trade Balance (18 Mar 2026)
+Why it matters: The JPY 57.3bn surplus headline beat masked the real signal — export momentum decelerated sharply from 16.8% to 4.2% y/y, with bilateral weakness toward China and the US. That is the primary external risk to the BoJ normalization story: not the aggregate balance, but the quality of the export engine in Japan's two critical demand markets at the moment the oil shock is adding a new uncertainty layer.
+Japan — Machinery Orders MM / YY (19 Mar 2026)
+Why it matters: The -5.5% m/m January payback from December's spike beat a -9.6% consensus and left the y/y pace at 13.7% with the Cabinet Office retaining its positive assessment. This is the release that keeps the capex pillar of the BoJ normalization story intact through the oil-shock overlay. Without this, the external weakness in trade would carry more weight against the hawkish hold.
+
+<<JPY_WEEK_END>>
+
+COUNTRY ARC SUMMARY — JAPAN | 14 MAR 2026 TO 20 MAR 2026
+BLOCK 1 (14–16 Mar 2026): No in-scope Japanese releases; window absorbed as context — the DM-wide energy-shock overlay and softening external demand building across this period established the uncertainty environment the BoJ would explicitly reference as justification for its tactical hold the following week.
+BLOCK 2 (17–20 Mar 2026): A five-release sequence built toward and confirmed a hawkish hold — services sentiment stabilised at 25, trade produced a false-dawn surplus concealing sharp export deceleration toward China and the US, machinery orders confirmed capex durability through the December payback, and the BoJ held at 0.75% by an 8–1 vote with Hajime Takata's explicit 1.0% proposal on the record, retaining the full normalization bias and making April a credible live meeting.
+Entering April monitoring: The gating condition is the combined signal from the next wage settlement round, March CPI, and whether export weakness toward China and the US deepens — because those three inputs collectively determine whether the 8–1 Board majority can hold a hawkish tightening bias through the oil-shock overlay or whether external deterioration forces a more defensive tactical posture before the next rate step.
 
 <<JPY_WEEK_BEGIN>>
 DATA WINDOW: 9 Mar 2026 to 13 Mar 2026
