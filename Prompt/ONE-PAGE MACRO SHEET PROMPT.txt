@@ -1,0 +1,197 @@
+ONE-PAGE MACRO SHEET PROMPT
+
+You are producing a ONE-PAGE MACRO SHEET for a single macro unit
+(country, region, or aggregate block such as US, Eurozone, Germany, Japan, China, Canada, Brazil, Poland, etc.).
+
+The output must combine two time horizons:
+
+Rolling Macro Dashboard covering the last 2–3 weeks
+YTD Frozen Arc covering the year-to-date period
+
+The goal is to create a page that is both:
+
+decision-useful now
+easy to memorize over time
+
+Do not rewrite the full archive.
+Do not produce a long macro note.
+Compress the material into a stable one-page object.
+
+This prompt must aim for the same level of compression, clarity, and structure as the EUR one-page sheet quality example, which is the benchmark format.
+
+INPUT
+
+You may receive:
+
+weekly monitoring files
+live macro files
+release blocks
+prior dashboard summary
+prior frozen arc summary
+weekly delta updates
+
+Use only the material provided unless I explicitly ask for web verification.
+
+CORE OBJECTIVE
+
+Produce a one-page sheet that answers:
+
+What is the current regime?
+What changed over the last 2–3 weeks?
+What is the key contradiction in the current macro mix?
+What are the 3 most important recent releases?
+What is the next gating condition?
+What is the YTD macro arc in a few regime phases?
+HARD RULES
+no invented facts
+no long essay
+compress aggressively
+respect chronology strictly
+do not overstate regime shifts
+if evidence is mixed, say mixed
+if nothing changed materially, say so explicitly
+dashboard must reflect the last 2–3 weeks
+frozen arc must reflect YTD
+frozen arc must use dated regime paragraphs, not weekly notes
+do not use table format for the YTD Frozen Arc
+do not use “Frozen Block” labels
+do not include release counts
+create a new YTD arc paragraph only when there is a genuine regime change
+if the current regime is a continuation, extend the prior arc paragraph rather than inventing a new one
+keep the whole output one-page / one-screen in spirit
+OUTPUT FORMAT
+
+Use uppercase wrapper markers:
+
+<<SHEET[UNIT]_BEGIN>>
+...sheet content...
+<<SHEET[UNIT]_END>>
+
+Example:
+
+<<SHEETEUR_BEGIN>>
+<<SHEETEUR_END>>
+<<SHEETCAD_BEGIN>>
+<<SHEETCAD_END>>
+
+Inside the markers, use exactly this structure:
+
+[UNIT NAME] — ONE-PAGE MACRO SHEET
+
+Rolling dashboard window: [start date] to [end date]
+YTD arc window: [start date] to [end date]
+Last updated: [date]
+Current regime label: [short label]
+
+ROLLING MACRO DASHBOARD
+Growth: [1 short line]
+Labor: [1 short line]
+Inflation: [1 short line]
+Financial Conditions: [1 short line]
+Policy Constraint: [1 short line]
+SIGNAL TENSION CHECK
+Main contradiction: [1 short line]
+Why it matters: [1 short line]
+Implication: [1 short line]
+3 KEY RELEASES TO DIG INTO
+[Release name + date]: [why it matters in 1 short line]
+[Release name + date]: [why it matters in 1 short line]
+[Release name + date]: [why it matters in 1 short line]
+NEXT GATING CONDITION
+
+[1–2 short lines]
+
+YTD FROZEN ARC
+
+Data window: [dates]
+[short regime paragraph]
+
+Data window: [dates]
+[short regime paragraph]
+
+Data window: [dates]
+[short regime paragraph]
+
+Data window: [dates]
+[short regime paragraph]
+
+ENTERING NEXT MONITORING PERIOD
+
+[one short line describing the key verification test]
+
+STYLE RULES
+write like a global macro hedge fund analyst
+concise, structured, and decision-oriented
+emphasize state, transition, contradiction, trigger
+use strong regime labels inside the prose where useful, such as:
+disinflation confidence improves
+inflation victory meets growth fragility
+stabilization rebuilt, but fast-cut hopes capped
+industrial hard-data reversal
+growth shock intensifies
+policy pivot confirmed
+demand deterioration accelerating
+better optics, same transmission failure
+avoid filler and repetition
+prioritize clarity over elegance
+YTD ARC CONSTRUCTION RULE
+
+The YTD FROZEN ARC is not a chronology of every week.
+It is a compressed sequence of regime phases.
+
+Each paragraph must contain:
+
+the data window
+the dominant regime description
+what changed materially in that phase
+
+Do not create a new paragraph unless one of these changed materially:
+
+growth regime
+inflation regime
+policy regime
+labor regime
+market/pricing interpretation regime
+
+If the period is a continuation, extend the prior phase rather than creating an artificial new one.
+
+QUALITY BENCHMARK
+
+The target standard is the saved EUR one-page macro sheet quality example with:
+
+uppercase markers
+strong rolling dashboard compression
+a useful SIGNAL TENSION CHECK
+concise 3 KEY RELEASES TO DIG INTO
+a clean NEXT GATING CONDITION
+a YTD FROZEN ARC in prose format
+no table in the frozen arc
+no “Frozen Block” labels
+no release counts
+FINAL QUALITY CHECK
+
+Before finalizing, make sure:
+
+the dashboard clearly captures the last 2–3 weeks
+the frozen arc clearly captures YTD
+the signal tension check identifies the real contradiction
+the YTD arc is grouped by regime, not by calendar week
+the frozen arc is written in dated prose blocks, not columns
+the output is readable in one pass
+nothing is invented
+SHORT OPERATIONAL VERSION
+
+Using the supplied material, build a ONE-PAGE MACRO SHEET for [UNIT].
+
+Rules:
+
+use uppercase markers: <<SHEET[UNIT]_BEGIN>> ... <<SHEET[UNIT]_END>>
+rolling dashboard = last 2–3 weeks
+YTD frozen arc = prose paragraphs by dated regime phase
+no table in frozen arc
+no “Frozen Block” labels
+no release counts
+no invented facts
+no long essay
+compress aggressively
+keep the EUR one-page sheet as the formatting and quality benchmark
