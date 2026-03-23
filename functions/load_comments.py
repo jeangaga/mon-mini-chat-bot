@@ -272,8 +272,8 @@ def load_live_sheet(region: str) -> str:
     filename = "SHEET.txt"
     url = f"{base_url}/{filename}"
 
-    begin_tag = f"<<{reg}SHEET_BEGIN>>"
-    end_tag = f"<<{reg}SHEET_END>>"
+    begin_tag = f"<<SHEET{reg}_BEGIN>>"
+    end_tag = f"<<SHEET{reg}_END>>"
 
     try:
         r = requests.get(url, timeout=5)
