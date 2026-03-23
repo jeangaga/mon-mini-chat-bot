@@ -1,0 +1,86 @@
+MACRO MONITORING SYSTEM — PDF GENERATION PROMPT
+You are generating two PDF files using Python + ReportLab for an institutional macro monitoring system. The input is a document containing regional macro sheets delimited by <<SHEETXXX_BEGIN>> / <<SHEETXXX_END>> tags.
+
+TASK 1 — REGIONAL MACRO SHEETS PDF (one page per region)
+Generate a multi-page PDF in portrait A4. Each region gets exactly one page. Rules:
+
+Dark navy header band: region name + "ONE-PAGE MACRO SHEET" in large bold, metadata line (rolling window / YTD window / last updated / regime label) in small grey text below
+Thick accent rule below header
+Sections in this fixed order: ROLLING MACRO DASHBOARD · SIGNAL TENSION CHECK · 3 KEY RELEASES TO DIG INTO · NEXT GATING CONDITION · YTD FROZEN ARC · ENTERING NEXT MONITORING PERIOD
+Each section has a bold small-caps label, thin rule above it, and bullet items formatted as Bold label: body text
+YTD FROZEN ARC bullets are date-range prefixed: 5 Jan – 16 Jan: body
+Critical: auto-scale font size and leading so all content fits on exactly one page. Start at font size 8/leading 11. If content overflows, reduce to 7.5/10.5, then 7/10, then 6.5/9.5. Never spill onto a second page.
+Light theme: white background, dark ink (#0D0D0D), accent color #2C3E6B
+Confidential footer + page number
+
+
+TASK 2 — GLOBAL REGIME SCORECARD PDF (single landscape A4 page)
+Generate a single-page landscape A4 PDF. All 9 jurisdictions on one sheet. Rules:
+Layout — fixed column widths (total must sum to page width minus 24pt margins):
+
+CCY: 28pt
+Country: 62pt
+Regime: 90pt
+GROWTH / LABOR / INFLATION / POLICY: 96pt each (384pt total)
+DIR: 14pt
+Next Move: 80pt
+Key Risk: remaining width (~120pt)
+
+Traffic light cells (GROWTH / LABOR / INFLATION / POLICY):
+
+Green signal: bg #D6F5E3, text #0A6636, border #34A85A
+Amber signal: bg #FFF3CD, text #7A4F00, border #D4920A
+Red signal: bg #FFE0E0, text #8B1A1A, border #D93025
+Each cell contains: colored dot + bold label (line 1), note text across exactly 2 pre-split lines (lines 2–3)
+Pre-split all note strings at \n so each line is max 20 chars — never let text overflow the cell horizontally or vertically
+Cell padding: 4pt top/bottom
+
+Key Risk column:
+
+Text color: #8B1A1A (red)
+Pre-split all key risk strings at \n so each line is max 18 chars — up to 3 lines allowed
+Render lines vertically centred in the row
+
+Direction column:
+
+↑ hawk = #C0392B, → neutral = #4A5568, ↓ dove = #1A7A40
+Font size 14pt bold
+
+Row layout:
+
+9 data rows + 1 header row, all fitting within the page
+Row height = (usable height after header band and legend strip) / 9
+Alternate row background: white / #F2F4F8
+All text anchored top-down from CELL_TOP, never using MID_Y ± offset (which causes overflow)
+LINE1_Y = CELL_Y + CELL_H - 9 (label)
+LINE2_Y = CELL_Y + CELL_H - 18 (subtext line 1)
+LINE3_Y = CELL_Y + CELL_H - 27 (subtext line 2, if needed)
+
+Header band:
+
+Dark navy #1A2744, white text
+Signal count summary pills (Green / Amber / Red counts across all 36 signals) top-right
+
+Legend strip:
+
+Below header, light grey background
+Traffic light dot legend + direction arrow legend on one line
+
+General rules:
+
+Light theme throughout: white/off-white background, dark text
+No text truncation anywhere — if a string risks overflow, it must be pre-split with \n in the data definition
+Never use Unicode subscripts/superscripts
+Confidential footer centred at bottom
+Output path: /mnt/user-data/outputs/macro_sheets.pdf and /mnt/user-data/outputs/global_scorecard.pdf
+After building both, call present_files on each
+
+
+ANTI-FAILURE CHECKLIST before generating code:
+
+Every note string in the 4 signal columns: split at \n, each segment ≤ 20 chars
+Every key risk string: split at \n, each segment ≤ 18 chars
+Every regime/next-move string: split on " — " or wrapped at ≤ 22 chars
+Row height verified to fit 3 content lines + label + padding at chosen font size
+Column widths sum checked against TW before rendering
+YTD ARC section: verify all date-window paragraphs fit on the page at chosen font size before committing
