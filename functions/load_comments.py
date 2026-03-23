@@ -259,7 +259,37 @@ def load_live_week(region: str) -> str:
 
     return matches[0].strip()
 
+def load_live_sheet(region: str) -> str:
+    """
+    Load the FIRST week macro block for a given region from GitHub.
 
+    """
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = "SHEET.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<{reg}SHEET_BEGIN>>"
+    end_tag = f"<<{reg}SHEET_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No LIVE macro file for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading LIVE macro for {reg}: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return f"❌ LIVE markers not found in {filename}: {begin_tag} ... {end_tag}"
+
+    return matches[0].strip()
 
 import re
 import requests
