@@ -1,193 +1,237 @@
-
 <<EUR_WEEK_BEGIN>>
-DATA WINDOW: 17 Mar 2026 to 20 Mar 2026
+DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
 WEEKLY RELEASE TRACKER
 
-TUESDAY 17 MAR 2026
+MONDAY 23 MAR 2026
+Spain
+
+Overnight Stays (Feb) — RELEASED
+
+Euro Zone
+
+Consumer Confidence Flash (Mar) — RELEASED
+
+TUESDAY 24 MAR 2026
+France
+
+HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar) — RELEASED
+
+Germany
+
+HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar) — RELEASED
+
+Euro Zone
+
+HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar) — RELEASED
+
+WEDNESDAY 25 MAR 2026
+Germany
+
+Ifo Business Climate New / Current Conditions New / Expectations New (Mar) — PENDING
+
+THURSDAY 26 MAR 2026
+Germany
+
+GfK Consumer Sentiment (Apr) — PENDING
+
+France
+
+Business Climate Mfg / Business Climate Overall / Consumer Confidence (Mar) — PENDING
+
+Spain
+
+GDP Final QQ / GDP YY (Q4) — PENDING
+
+Euro Zone
+
+Money-M3 Annual Growth (Feb) — PENDING
+
 Italy
 
-Consumer Prices Final / HICP Final (Feb) — RELEASED
+Consumer Confidence (Mar) — PENDING
 
-Germany
+FRIDAY 27 MAR 2026
+Spain
 
-ZEW Economic Sentiment / Current Conditions (Mar) — RELEASED
+HICP Flash YY / CPI YY Flash NSA / HICP Flash MM / CPI MM Flash NSA (Mar) — PENDING
 
-WEDNESDAY 18 MAR 2026
-Euro Zone
+France
 
-HICP Final / HICP-X F,E,A&T Final (Feb) — RELEASED
-
-THURSDAY 19 MAR 2026
-Euro Zone
-
-ECB Refinancing Rate / Deposit Rate (Mar) — RELEASED
-
-FRIDAY 20 MAR 2026
-Germany
-
-Producer Prices (Feb) — PENDING
-
-Euro Zone
-
-Total Trade Balance SA (Jan) — PENDING
+Unemp Class-A SA (Feb) — PENDING
 
 RELEASE BLOCKS
 
-TUESDAY 17 MAR 2026
+MONDAY 23 MAR 2026
 
-Italy — Consumer Prices Final / HICP Final (Feb)
-Release Date: 17 Mar 2026 | Local Time: 10:00
-
-Reuters Data
-
-Consumer Prices Final MM: 0.7% | Prior: 0.8% | Poll: 0.8% | Surprise: -0.10%
-Consumer Prices Final YY: 1.5% | Prior: 1.6% | Poll: 1.6% | Surprise: -0.10%
-CPI (EU Norm) Final MM: 0.5% | Prior: 0.6% | Poll: 0.6% | Surprise: -0.10%
-CPI (EU Norm) Final YY: 1.5% | Prior: 1.6% | Poll: 1.6% | Surprise: -0.10%
-
-Professional Market Commentary
-
-Official ISTAT final data revised both NIC and HICP inflation slightly below the flash, with annual inflation at 1.5% and the main acceleration still coming from transport services, recreation/personal care services, and unprocessed food, while regulated and non-regulated energy remained deflationary. The scout’s construction layer is directionally consistent with the official release: the headline revision is modest, but the mix is less benign than the 1.5% headline alone suggests.
-
-Comment — Economist Layer
-
-The policy-relevant signal is not the 0.1pp downward revision to the final headline. It is the internal re-acceleration of domestic inflation: core inflation excluding energy and unprocessed food jumped to 2.4% from 1.7%, inflation excluding energy rose to 2.5% from 1.9%, services accelerated to 3.6% from 2.5%, while goods stayed at -0.2%. That widens the services-goods gap to 3.8pp and materially weakens the “Italy as clean periphery disinflation” story. Headline HICP is still below the euro area aggregate, but the composition has clearly firmed.
-
-State transition: reversal
-
-Context from prior regional live file:
-
-The prior EUR live file still framed Italy’s inflation backdrop as low and broadly non-threatening for the ECB, with the earlier Italy CPI/HICP final block sitting at 1.2% y/y and described as only marginally dovish in aggregate. February’s 1.5% final, combined with the jump in core and services, marks a meaningful move away from that earlier benign profile.
-
-HF Take — Strategist Layer
-
-For the ECB, Italy is no longer reinforcing the easy “periphery disinflation keeps aggregate inflation tame” narrative. This is still not a standalone hawkish trigger, but it does raise the floor under regional core/services persistence. In cross-release terms, it fits better with euro area services stickiness than with a renewed disinflation break.
-
-Germany — ZEW Economic Sentiment / Current Conditions (Mar)
-Release Date: 17 Mar 2026 | Local Time: 11:00
+Spain — Overnight Stays (Feb)
+Release Date: 23 Mar 2026 | Local Time: 09:00
 
 Reuters Data
 
-ZEW Economic Sentiment: -0.5 | Prior: 58.3 | Poll: 39.0 | Surprise: -39.50
-ZEW Current Conditions: -62.9 | Prior: -65.9 | Poll: -67.3 | Surprise: 4.40
+Overnight Stays: 18,564,904 | Prior: 17,395,903
 
 Professional Market Commentary
 
-The official ZEW framing is explicit: expectations collapsed as the Middle East conflict pushed up energy prices and inflation pressure. ZEW President Achim Wambach said the shock raises the risk that Germany’s emerging recovery slows, and the official release also stressed that the panel does not expect a quick resolution. The scout tape’s geopolitical-shock interpretation is therefore strongly anchored by the official source rather than being an AI-added narrative.
+Official Spanish statistics showed hotel overnight stays rising 1.0% y/y in February, with hotel prices up 3.9% y/y and average occupied-room revenue up 2.9% y/y. This remains a tourism-services resilience print rather than a market-moving macro event, and no meaningful Tier 1 institutional debate formed around the release itself.
 
 Comment — Economist Layer
 
-This is a severe forward-looking growth shock, not a broad confirmation that current activity has already rolled over. Expectations fell 58.8 points to -0.5, while current conditions improved 3.0 points to -62.9. The split matters: backward-looking conditions were still stabilising, but forward expectations broke sharply. The official release also identifies the vulnerable core: chemicals/pharma, autos, mechanical engineering, steel/metals, and construction. Most importantly for policy, about 80% of respondents now expect inflationary pressures to build in both Germany and the eurozone, while eurozone expectations themselves fell to -8.5 and the eurozone current-situation measure dropped to -29.9. That is a classic stagflationary survey mix: weaker growth expectations plus higher inflation expectations.
-
-State transition: deterioration
+The right reading is continuation, not acceleration. February is seasonally soft for Spain, so the main signal is that tourism volume and pricing remain intact despite a broader euro-area demand scare. That matters locally for Spanish services income, but it is still too sector-specific to overturn the wider regional deterioration signalled by euro-area confidence and PMIs. State transition: continuation.
 
 Context from prior regional live file:
 
-The prior EUR live file had February ZEW as fragile stabilisation: expectations were still positive at 58.3 and current conditions were improving from very weak levels. March effectively erases that interpretation. The earlier “cautious recovery” reading no longer survives contact with the new expectations collapse.
+The prior EUR live file had already shifted toward a weaker forward growth / tighter policy-constraint mix after the German ZEW collapse, sticky euro-area inflation, and an unchanged ECB. Spain overnight stays do not challenge that regional baseline; they simply show that one services-heavy pocket of the bloc remains resilient.
 
 HF Take — Strategist Layer
 
-This is the most important growth signal of the week so far. It does not force immediate ECB action by itself, but it sharply worsens the forward activity backdrop while simultaneously hardening the inflation-expectations problem. For rates and FX, the message is not “ECB cut soon”; it is “policy optionality narrows because the shock is stagflationary rather than purely growth-negative.”
+For rates and FX, this is background color rather than a reaction-function input. It is mildly supportive for the “Spain services still holding up” story, but it only becomes regionally relevant if later Spain GDP and inflation also validate that resilience.
 
-WEDNESDAY 18 MAR 2026
-
-Euro Zone — HICP Final / HICP-X F,E,A&T Final (Feb)
-Release Date: 18 Mar 2026 | Local Time: 11:00
+Euro Zone — Consumer Confidence Flash (Mar)
+Release Date: 23 Mar 2026 | Local Time: 16:00
 
 Reuters Data
 
-HICP Final MM: 0.6% | Prior: -0.6% | Poll: 0.7% | Surprise: -0.10%
-HICP Final YY: 1.9% | Prior: 1.9% | Poll: 1.9% | Surprise: 0.00%
-HICP-X F,E,A&T Final MM: 0.8% | Prior: 0.8% | Poll: 0.8% | Surprise: 0.00%
-HICP-X F,E,A&T Final YY: 2.4% | Prior: 2.4% | Poll: 2.4% | Surprise: 0.00%
+Consumer Confidence Flash: -16.3 | Prior: -12.2 | Revised: -12.3 | Poll: -14.4 | Surprise: -1.90
 
 Professional Market Commentary
 
-Officially, the final release confirms the flash rather than changing it. Eurostat kept headline inflation at 1.9% and core at 2.4%. The official composition remains the same as in the flash narrative: services made the largest positive contribution to annual inflation, while energy stayed negative. The scout’s construction layer is therefore correctly centred on services persistence rather than on any final-release revision story.
+Institutional commentary treated this as a genuine shock print, not routine noise. Reuters highlighted the four-point monthly fall as one of the sharpest outside the pandemic and Ukraine-shock episodes, with economists tying it to the energy and real-income hit now reaching households.
 
 Comment — Economist Layer
 
-The incremental information content of the final is low, but the macro message remains important. January’s 1.7% headline trough is now followed by a confirmed February rebound to 1.9%, while core stays at 2.4%. Under the surface, services re-accelerated to 3.4% from 3.2%, non-energy industrial goods rose to 0.7% from 0.4%, and energy remained negative at -3.1%, contributing -0.30pp to the annual rate. So the euro area is still benefiting from energy disinflation, but the non-energy core mix is not easing cleanly. This is why the final is not “dovish confirmation” even though the headline is still below 2%.
-
-State transition: no material change
+This is the first strong household-side confirmation that the regional shock has moved beyond expert surveys and market pricing. The magnitude matters more than the level alone: February had marked a relatively firmer point in the confidence sequence, so March is a sharp reversal rather than a continuation of already weak sentiment. In macro-bucket terms, this deepens the growth drag without easing the inflation constraint, which is the core regional problem. State transition: deterioration.
 
 Context from prior regional live file:
 
-The prior EUR live file had already treated the February HICP flash as the strongest anti-fast-cut signal in the EUR block, with 1.9% headline and 2.4% core pushing against aggressive easing assumptions. The final does not alter that interpretation; it hard-confirms it.
+The prior EUR live file had already turned toward a stagflationary mix after the German ZEW collapse and the confirmation of sticky euro-area February inflation. This consumer-confidence plunge extends that deterioration from expert expectations into household psychology, making the growth risk broader and more macro-relevant.
 
 HF Take — Strategist Layer
 
-This keeps the ECB trapped in patience rather than reopening a dovish window. The important point is not that the final surprised; it did not. The important point is that the euro area entered the current shock with services still sticky and with goods disinflation already fading at the margin. That makes any future energy-led inflation re-acceleration harder to ignore.
+This is EUR-growth negative, but not cleanly dovish for the ECB. If household demand weakens while energy and inflation risks remain elevated, the policy mix gets harder rather than easier. The next check is whether business surveys and country confidence gauges validate the same demand destruction.
 
-THURSDAY 19 MAR 2026
+TUESDAY 24 MAR 2026
 
-Euro Zone — ECB Refinancing Rate / Deposit Rate (Mar)
-Release Date: 19 Mar 2026 | Local Time: 14:15
+France — HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar)
+Release Date: 24 Mar 2026 | Local Time: 09:15
 
 Reuters Data
 
-ECB Refinancing Rate: 2.15% | Prior: 2.15% | Poll: 2.15%
-ECB Deposit Rate: 2.00% | Prior: 2.00% | Poll: 2.00%
+HCOB Mfg Flash PMI: 50.2 | Prior: 50.1 | Poll: 49.5 | Surprise: 0.70
+HCOB Services Flash PMI: 48.3 | Prior: 49.6 | Poll: 49.0 | Surprise: -0.70
+HCOB Composite Flash PMI: 48.3 | Prior: 49.9 | Poll: 49.3 | Surprise: -1.00
 
 Professional Market Commentary
 
-The official ECB schedule confirms 19 March as a projection meeting, with the rate decision at 14:15 CET and staff projections at 15:45 CET. The ECB’s key-rate pages continue to show the unchanged structure of 2.00% on the deposit facility, 2.15% on main refinancing operations, and 2.40% on the marginal lending facility. The last fully anchored official policy baseline, from the February meeting accounts, still described inflation as stabilising around target in the medium term, with January headline inflation pushed below target by negative energy inflation.
+Professional commentary treated France as the cleanest negative in the session. The composite fell to 48.3, the weakest since October, with services the main drag. The surface manufacturing beat was not taken at face value because output slipped back into decline, new business weakened sharply, export demand deteriorated, and cost pressures intensified amid supply disruption and energy-related stress.
 
 Comment — Economist Layer
 
-At the instrument level, this is continuity. The analytical significance comes from timing, not from the rate setting itself: the meeting arrives after the German ZEW expectations collapse and after euro area February inflation confirmed that services remain sticky. Without the full official March statement/projection text in hand, the only hard conclusion that can be locked is that the ECB did not validate any immediate easing response to the shock. That preserves the interpretation that the Governing Council still sees the inflation constraint as materially binding.
-
-State transition: continuation
+The dominant signal is not the manufacturing headline above 50; it is the broader contractionary mix underneath. Services are clearly back in contraction, the composite missed consensus materially, manufacturing output fell to 48.5 even as the manufacturing headline edged up, and the demand side worsened through both domestic and external channels. This is precisely the kind of misleading headline-beat configuration that should not be over-read. France is not giving the bloc a resilience offset; it is reinforcing the euro-area slowdown while adding a cost-pressure complication. State transition: deterioration.
 
 Context from prior regional live file:
 
-The prior EUR live file was already leaning against aggressive easing because February flash HICP surprised higher and services mattered more than the headline. Relative to that backdrop, an unchanged March decision preserves the instrument stance and does not reopen the earlier benign-disinflation reading.
+The prior EUR live file had already moved away from the earlier “benign disinflation with cautious recovery” reading after Germany ZEW and euro-area inflation. France now provides a realized activity leg to that deterioration: the second-largest euro-area economy is not merely slowing in expectations space, it is already contracting in flash private-sector data.
 
 HF Take — Strategist Layer
 
-For now, the ECB is signalling restraint rather than action. That is consistent with a reaction function in which growth fears are rising but inflation credibility still dominates. The market takeaway is not hawkishness in the classic sense; it is that the bar for cuts remains higher than a pure growth scare would normally imply.
+This weakens euro-area Q1 growth tracking and pushes against any clean “manufacturing-led recovery” read for the region. But because the same release also shows worsening supply and price pressure, it is not a straightforward ECB-easing signal. France is contributing to the stagflationary side of the tape, not resolving it.
+
+Germany — HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar)
+Release Date: 24 Mar 2026 | Local Time: 09:30
+
+Reuters Data
+
+HCOB Mfg Flash PMI: 51.7 | Prior: 50.9 | Poll: 49.5 | Surprise: 2.20
+HCOB Services Flash PMI: 51.2 | Prior: 53.5 | Poll: 52.5 | Surprise: -1.30
+HCOB Composite Flash PMI: 51.9 | Prior: 53.2 | Poll: 52.0 | Surprise: -0.10
+
+Professional Market Commentary
+
+Institutional commentary explicitly discounted the manufacturing beat. S&P Global and Reuters both emphasized that factory demand was boosted by firms bringing purchases forward ahead of feared supply disruption, while services slowed sharply, confidence weakened, costs surged, delivery times lengthened, and output expectations fell back. The composite remained above 50, but the quality of growth deteriorated materially.
+
+Comment — Economist Layer
+
+This is the clearest false-dawn block of the week. The manufacturing surprise is large, but it is not evidence of durable cycle repair. The stronger factory number is being driven partly by pre-disruption behavior, while services slowed to the weakest since the current upturn began, cost pressure accelerated, and sentiment weakened sharply. That means the composite at 51.9 overstates underlying health. Germany is still expanding in present tense, but the internals say the expansion is increasingly narrow, distortion-driven, and vulnerable. State transition: false dawn.
+
+Context from prior regional live file:
+
+The prior EUR live file had already identified Germany as the epicentre of the forward-looking deterioration after ZEW expectations collapsed from 58.3 to -0.5, even as current conditions were less weak than before. Today’s PMIs do not invalidate that prior signal. They show that current activity has not yet fully rolled over, but they also show that the apparent resilience is lower quality than the headline suggests.
+
+HF Take — Strategist Layer
+
+For EUR rates and FX, Germany is not offering a reassuring growth counterweight. It is offering a harder policy problem: current activity still prints above 50, but the mechanism is partly front-loading and supply stress, while services and confidence deteriorate and price pressure rises. That keeps the ECB from treating this as a standard demand slump.
+
+Euro Zone — HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (Mar)
+Release Date: 24 Mar 2026 | Local Time: 10:00
+
+Reuters Data
+
+HCOB Mfg Flash PMI: 51.4 | Prior: 50.8 | Poll: 49.4 | Surprise: 2.00
+HCOB Services Flash PMI: 50.1 | Prior: 51.9 | Poll: 51.1 | Surprise: -1.00
+HCOB Composite Flash PMI: 50.5 | Prior: 51.9 | Poll: 51.0 | Surprise: -0.50
+
+Professional Market Commentary
+
+This was the session-defining block and the dominant institutional framing was stagflationary. Official S&P Global / HCOB commentary and Reuters both stressed that the euro-area economy is close to stalling, services nearly stalled, input-cost inflation hit a multi-year high, delivery delays worsened sharply, new orders weakened, and the manufacturing beat should be treated cautiously rather than as a clean recovery signal.
+
+Comment — Economist Layer
+
+The key hierarchy is clear. Manufacturing improved on the headline and beat consensus strongly, but that is not the dominant macro signal. The more policy-relevant move is that services dropped to 50.1, composite fell to 50.5, growth tracked close to stagnation, new orders turned down, employment weakened again, and the inflation pipeline worsened through input costs and supply delays. So the bloc is not just slowing; it is slowing in a way that preserves or even intensifies the inflation constraint. This is why the manufacturing beat must be discounted in the final read. State transition: deterioration.
+
+Context from prior regional live file:
+
+The prior EUR live file had already shifted the regional narrative toward weaker forward growth, sticky services/core inflation, and a tighter effective ECB constraint after ZEW, HICP final, and an unchanged ECB. Today’s euro-area PMI broadens and hardens that story: it is no longer mainly a survey-warning regime, but an emerging current-activity deterioration with an explicitly worse growth/inflation trade-off.
+
+HF Take — Strategist Layer
+
+This is the most important macro release of the week so far for the region. It is growth-negative for EUR, but it is not a clean rates-rally / ECB-cut print because the same block strengthens the case that inflation risks remain active. The next verification tests are Germany Ifo, France business confidence, and Spain flash inflation. Together they will decide whether this remains a near-stagnation warning or becomes a fully confirmed regional stagflation regime.
 
 REGIONAL MACRO DASHBOARD
 
 Growth: ↓
-Labor: ~
+Labor: ↓
 Inflation: ↑
-Financial Conditions: ~
+Financial Conditions: ↑
 Policy Constraint: ↑
 
-Comment:
-The live EUR signal has turned less benign. Forward-looking growth expectations have deteriorated sharply, while backward-looking inflation still shows sticky services and firmer core dynamics. The ECB has not yet responded with easier policy, which means the regional constraint set is now tighter than earlier in the month.
+Comment: The EUR week has moved more clearly into a stagflationary warning zone. Household confidence has broken sharply lower, France is contracting, Germany’s factory beat looks distortion-driven rather than durable, and the bloc aggregate is close to stalling while cost and supply pressures worsen. The manufacturing upside surprises should not dominate the regional read.
 
 PENDING HIGH-IMPORTANCE RELEASES
 
-Germany — Producer Prices (Feb)
-Why it matters next: This will show whether pipeline disinflation is still deep enough to offset firmer consumer-side services inflation, or whether the goods-side disinflation cushion is fading.
+Germany — Ifo Business Climate New / Current Conditions New / Expectations New (Mar)
+Why it matters next: ZEW already collapsed last week and Germany PMI now shows a false-dawn current-activity mix. Ifo will tell us whether the broader corporate base is now validating that deterioration or still holding up better than the survey panic implied.
 
-Euro Zone — Total Trade Balance SA (Jan)
-Why it matters next: This is the last clean trade baseline before the current geopolitical shock fully contaminates the external story. It matters for growth resilience, import prices, and the terms-of-trade backdrop.
+France — Business Climate Mfg / Business Climate Overall / Consumer Confidence (Mar)
+Why it matters next: France PMI already points to a more concrete domestic slowdown. These releases will show whether that weakness is broadening beyond flash-survey respondents into the national business-confidence and household-confidence complex.
+
+Spain — HICP Flash YY / CPI YY Flash NSA / HICP Flash MM / CPI MM Flash NSA (Mar)
+Why it matters next: Spain is the first major inflation check after the confidence and PMI deterioration. A firm Spain flash would reinforce the “growth weaker, inflation harder” regional mix now emerging in the tape.
+
+Euro Zone — Money-M3 Annual Growth (Feb)
+Why it matters next: This is secondary relative to surveys, but it helps judge whether nominal and monetary conditions are still consistent with a constrained ECB or whether underlying financial dynamics are softening more decisively.
 
 DATA QUALITY FLAG
 
 Seasonal distortion risk: Medium
 Revision sensitivity: Medium
-Signal confidence: Moderate
+Signal confidence: Strong
 
 SIGNAL TENSION CHECK
 
-Main contradiction: Backward-looking euro area inflation still looks manageable at 1.9%, but forward-looking German and eurozone expectations have broken sharply lower while inflation expectations have risen.
-Why it matters: The region is moving toward a stagflationary mix rather than a simple growth slowdown.
-Implication: March and April inflation and activity releases now become the verification test for whether this remains a survey shock or becomes a realised macro regime shift.
+Main contradiction: Manufacturing headlines in Germany and the euro area beat consensus, but the broader signal is weaker services, weaker confidence, worsening orders, softer employment, and higher costs.
+
+Why it matters: This is not a simple recessionary mix and not a clean inflation scare. It is a harder configuration in which growth slows without delivering policy-relieving disinflation.
+
+Implication: The next country confidence and inflation releases matter more than usual because they will determine whether the PMI manufacturing resilience is durable or just temporary front-loading inside a broader slowdown.
 
 3 KEY RELEASES TO DIG INTO
 
-Germany — ZEW Economic Sentiment / Current Conditions (17 Mar 2026)
-Why it matters: This is the clearest forward-looking regime break in the EUR week so far. Expectations collapsed to -0.5 from 58.3, and the official survey shows roughly 80% of respondents expecting inflationary pressure to build. That combination sharply worsens the policy mix.
-
-Euro Zone — HICP Final / HICP-X F,E,A&T Final (18 Mar 2026)
-Why it matters: The final confirms that January was not the start of a clean glide path lower. Headline rose back to 1.9%, core held at 2.4%, services re-accelerated to 3.4%, and non-energy industrial goods also firmed. The ECB inflation constraint is still active.
-
-Euro Zone — ECB Refinancing Rate / Deposit Rate (19 Mar 2026)
-Why it matters: The rates did not move, which in itself is meaningful in the new shock environment. The ECB has not endorsed an early-easing response to deteriorating sentiment, so the reaction function remains constrained by inflation persistence.
+Euro Zone — HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (24 Mar 2026)
+Why it matters: This is the key bloc-level release of the week. Composite fell to 50.5, services nearly stalled, new orders weakened, delivery times worsened, and input-cost inflation accelerated. It is the cleanest current-activity confirmation that the euro area is losing momentum without escaping the inflation constraint.
+Euro Zone — Consumer Confidence Flash (23 Mar 2026)
+Why it matters: The plunge to -16.3 is the first strong household-side confirmation that the shock is no longer confined to markets and expert surveys. The magnitude of the fall materially worsens the spending backdrop and validates the growth downgrade risk already building in the region.
+Germany — HCOB Mfg Flash PMI / Services Flash PMI / Composite Flash PMI (24 Mar 2026)
+Why it matters: Germany is the clearest internal contradiction of the week. Manufacturing beat strongly, but official commentary points to front-loading ahead of disruption, while services slowed, expectations deteriorated, costs rose, and the quality of growth worsened sharply. That makes Germany the key “false dawn” test inside the regional tape.
 
 <<EUR_WEEK_END>>
