@@ -1,427 +1,301 @@
 
 <<DM_WEEK_BEGIN>>
-DATA WINDOW: 16 Mar 2026 to 18 Mar 2026
+DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
 WEEKLY RELEASE TRACKER
 
-MONDAY 16 MAR 2026
+MONDAY 23 MAR 2026
+Norway
+
+Credit Indicator YY (Feb) — RELEASED
+
+Australia
+
+S&P Global Mfg PMI Flash (Mar) — RELEASED
+S&P Global Svs PMI Flash (Mar) — RELEASED
+S&P Global Comp PMI Flash (Mar) — RELEASED
+
+TUESDAY 24 MAR 2026
+Japan
+
+CPI, Overall Nationwide (Feb) — RELEASED
+CPI, Core Nationwide YY (Feb) — RELEASED
+S&P Global Mfg PMI Flash SA (Mar) — RELEASED
+S&P Global SVC PMI Flash SA (Mar) — RELEASED
+S&P Global Comp Op Flash SA (Mar) — RELEASED
 
 United Kingdom
 
-House Price Rightmove YY (Mar) — RELEASED
+Flash Composite PMI (Mar) — RELEASED
+Flash Manufacturing PMI (Mar) — RELEASED
+Flash Services PMI (Mar) — RELEASED
+CBI Distributive Trades (Mar) — RELEASED
 
-Canada
-
-Housing Starts, Annualized (Feb) — RELEASED
-
-CPI / BoC Core / CPI Median / CPI Trim (Feb) — RELEASED
-
-TUESDAY 17 MAR 2026
-
+WEDNESDAY 25 MAR 2026
 Australia
 
-RBA Cash Rate (Mar) — RELEASED
+CPI MM (Feb) — PENDING
+CPI YY (Feb) — PENDING
+Weighted Median CPI MM SA (Feb) — PENDING
+Weighted Median CPI YY SA (Feb) — PENDING
+Trimmed Mean CPI MM SA (Feb) — PENDING
+Trimmed Mean CPI YY SA (Feb) — PENDING
 
 Japan
 
-Tertiary Ind Act NSA (Jan) — RELEASED
+Chain Store Sales YY (Feb) — PENDING
+Leading Indicator Revised (Jan) — PENDING
 
-New Zealand
+United Kingdom
 
-Milk Auctions (17 Mar, w/e) — RELEASED
+Core CPI YY (Feb) — PENDING
+CPI MM (Feb) — PENDING
+CPI YY (Feb) — PENDING
+RPI MM (Feb) — PENDING
+RPI YY (Feb) — PENDING
+RPIX YY (Feb) — PENDING
+CPI Services MM (Feb) — PENDING
+CPI Services YY (Feb) — PENDING
+PPI Input Prices MM NSA (Feb) — PENDING
+PPI Input Prices YY NSA (Feb) — PENDING
+PPI Output Prices MM NSA (Feb) — PENDING
+PPI Output Prices YY NSA (Feb) — PENDING
+PPI Core Output MM NSA (Feb) — PENDING
+PPI Core Output YY NSA (Feb) — PENDING
 
-Current Account / Annual Current Account / Current Account-GDP (Q4) — RELEASED
+Sweden
 
-WEDNESDAY 18 MAR 2026
+Overall Sentiment (Mar) — PENDING
+Consumer Confidence SA (Mar) — PENDING
 
+THURSDAY 26 MAR 2026
 Japan
 
-Reuters Tankan N-Man Idx (Mar) — RELEASED
+Service PPI (Feb) — PENDING
 
-Exports / Imports / Trade Balance (Feb) — RELEASED
+Norway
 
-Australia
+Labour Force Survey SA (Feb) — PENDING
+Key Policy Rate (26 Mar) — PENDING
 
-Composite Leading Idx MM (Feb) — RELEASED
+FRIDAY 27 MAR 2026
+United Kingdom
 
-Canada
+GfK Consumer Confidence (Mar) — PENDING
+Retail Sales MM (Feb) — PENDING
+Retail Sales Ex-Fuel MM (Feb) — PENDING
+Retail Sales YY (Feb) — PENDING
+Retail Sales Ex-Fuel YY (Feb) — PENDING
+Nationwide house price mm (Mar) — PENDING
+Nationwide house price yy (Mar) — PENDING
 
-BoC Rate Decision (Mar) — RELEASED
+Norway
 
-New Zealand
-
-GDP Prod Based QQ / YY / Ann Avg / GDP Exp Based QQ (Q4) — RELEASED
+Retail Sales Ex. Auto (Feb) — PENDING
+Reg'd Unemployment NSA (Mar) — PENDING
 
 RELEASE BLOCKS
 
-MONDAY 16 MAR 2026
+MONDAY 23 MAR 2026
 
-United Kingdom — House Price Rightmove YY (Mar)
-Release Date: 16 Mar 2026 | Local Time: 01:01 UK
+Norway — Credit Indicator YY (Feb)
+Release Date: 23 Mar 2026 | Local Time: 08:00
 
 Reuters Data
 
-House Price Rightmove YY: -0.2% | Prior: 0.0%
-House Price Rightmove MM: 0.8% | Prior: 0.0%
+Credit Indicator YY: 4.6% | Prior: 4.4% | Revised: 4.5%
 
 Professional Market Commentary
 
-Official Rightmove framing was “steady rather than strong”: March delivered a normal spring asking-price lift, but supply remained at an 11-year high for this point in the year, average time-to-sale was the longest for this stage since 2013, and the average two-year fixed mortgage rate had risen to 4.51% from 4.24% the prior week. Readable housing commentary broadly kept that same emphasis: the market had not broken, but it remained highly price-sensitive and supply-heavy rather than genuinely strong.
+Official SSB data showed domestic credit growth edging up to 4.6% y/y in February from 4.5% in January. The internal mix was firmer for corporates than households: household credit stayed at 4.7%, non-financial corporates accelerated to 4.1% from 3.5%, and municipal-government growth slowed to 4.9% from 6.5%. No Tier 1 institutional debate detected.
 
 Comment — Economist Layer
 
-The y/y move to -0.2% is a mild deterioration from February’s flat annual print, but the more important signal is the internal mix. A +0.8% m/m rise in March is a typical spring seasonal bounce, not renewed pricing power. The problem is that this seasonal lift is occurring alongside excess supply, slower time-to-sale, and renewed mortgage-rate pressure. That combination says sellers are recovering seasonality, not regaining control of pricing. In macro terms, the Rightmove series is behaving like a housing market with too much stock and only limited ability to absorb tighter financing conditions.
+The signal is mild acceleration, not a regime break. The hierarchy matters: household credit did not re-accelerate, but corporate borrowing did, which makes this more informative about business-side resilience than about renewed household leverage excess. In a DM week that is starting to show softer survey momentum elsewhere, Norway is not yet showing the same deterioration through the credit channel.
+State transition: mild acceleration.
 
+Context from prior regional live file:
+
+The prior DM live file did not contain a Norway credit block, but its broader regional baseline already argued that DM should not be treated as one common cycle. February credit adds one more piece of evidence in that direction: Norway enters the week with a firmer domestic-financial backdrop than the softening survey signals seen elsewhere in DM.
+
+HF Take — Strategist Layer
+
+Ahead of the 26 March Norges Bank decision, this does not force a hawkish repricing on its own, but it does argue against reading Norway through the same soft-growth lens as the UK or New Zealand. The main relevance is relative: Norges still faces a firmer domestic-credit backdrop than several DM peers.
+
+Australia — S&P Global Mfg PMI Flash / S&P Global Svs PMI Flash / S&P Global Comp PMI Flash (Mar)
+Release Date: 23 Mar 2026 | Local Time: 23:00
+
+Reuters Data
+
+S&P Global Mfg PMI Flash: 50.1 | Prior: 51.0
+S&P Global Svs PMI Flash: 46.6 | Prior: 52.8
+S&P Global Comp PMI Flash: 47.0 | Prior: 52.4
+
+Professional Market Commentary
+
+Official and market commentary framed this as a genuine loss of momentum: the flash composite fell to 47.0 from 52.4, marking the first contraction in 18 months, with weakness driven by services rather than manufacturing. Coverage also highlighted falling new orders, weaker confidence, and still-firm price pressures rather than a clean disinflationary slowdown.
+
+Comment — Economist Layer
+
+This is the first serious challenge to the clean “Australia as hawkish outlier” narrative established earlier in the DM sequence. The hierarchy matters: manufacturing stayed marginally above 50, but services collapsed below 50 and pulled the composite into contraction, which means the demand-sensitive domestic side of the economy weakened sharply immediately after the RBA hike. At the same time, the inflation texture did not cleanly improve, so the right read is not simple dovish reversal; it is growth deterioration colliding with still-firm pricing pressure.
 State transition: deterioration.
 
 Context from prior regional live file:
 
-The prior DM live file had UK housing as subdued rather than collapsing, with Nationwide and Halifax still showing modest resilience while construction PMI remained clearly weak. March Rightmove fits that sequence: the monthly bounce returned, but the annual rate slipped negative, so the housing bucket moved from stall to mild deterioration rather than from stall to recovery.
+The prior DM live file had Australia as the clearest DM hawk, but it had already inserted a caution flag: the leading index softened after the 5–4 RBA hike, implying that the growth side of the story was becoming more fragile. The flash PMI now strengthens that warning materially. The hawkish regime is not invalidated, but its activity underpinnings are clearly weaker than they looked on 17–18 March.
 
 HF Take — Strategist Layer
 
-This is not a BoE-moving print on its own, but it keeps the housing channel on the “still rate-sensitive” side of the UK story. If the mortgage repricing seen in Rightmove’s tracker persists, housing remains a drag on any clean consumer re-acceleration narrative. Reaction-function relevance is therefore second order: limited direct policy value by itself, but mildly consistent with gradualism rather than any aggressive extrapolation from better near-term activity prints elsewhere.
+For the RBA, the mapping shifts from “hawkish continuation” toward “hawkish with rising growth constraint.” May remains live, but not linearly so. Australia can still have the tightest reaction function in DM while also facing a higher probability that softer activity starts to cap the hiking path.
 
-Canada — Housing Starts, Annualized (Feb)
-Release Date: 16 Mar 2026 | Local Time: 13:15 ET
+TUESDAY 24 MAR 2026
+
+Japan — CPI, Overall Nationwide / CPI, Core Nationwide YY (Feb)
+Release Date: 24 Mar 2026 | Local Time: 00:30
 
 Reuters Data
 
-House Starts, Annualized: 250.9k | Prior: 238.0k | Revised: 240.1k | Poll: 252.5k | Surprise: -1.6k
+CPI, Overall Nationwide: 1.3% | Prior: 1.5%
+CPI, Core Nationwide YY: 1.6% | Prior: 2.0% | Poll: 1.7% | Surprise: -0.10%
 
 Professional Market Commentary
 
-CMHC framed February as a modest monthly rebound with the six-month trend still essentially flat rather than improving decisively. Official guidance stayed cautious: CMHC said business uncertainty and construction costs should weigh on starts in the near to medium term, and the agency’s broader housing outlook remained one of softer construction rather than renewed expansion.
+Official and Reuters framing converged on the same point: reported inflation softened materially, but the weakness was heavily policy-distorted rather than purely demand-driven. The Statistics Bureau reported headline CPI at 1.3%, core CPI at 1.6%, and the index excluding both fresh food and energy at 2.5%, while Reuters highlighted the role of subsidies and the BOJ’s plan to introduce a cleaner measure that strips out one-off policy effects.
 
 Comment — Economist Layer
 
-The monthly rebound matters less than its quality. SAAR recovered from January’s drop, but the print still missed consensus and the prior month was revised up, which trims the strength of the bounce. More importantly, the six-month trend remained basically flat, so the signal is stabilization at a softer level, not inflection. Under the hood, the national number is also uneven: strength in some multi-unit markets sits alongside persistent weakness in more challenged regions. This is not a clean national construction recovery.
-
-State transition: continuation.
+The key hierarchy is headline versus underlying. The soft headline is real in reported terms, but it is not the best measure of domestic inflation persistence. The analytically important signal is that subsidy-driven relief pulled the reported gauges down while the broader underlying measure stayed above 2%. So this is not clean disinflation; it is temporary mechanical suppression overlaying only gradual underlying cooling.
+State transition: temporary deterioration in reported inflation, continuation in underlying inflation firmness.
 
 Context from prior regional live file:
 
-The prior DM live file had Canada housing starts as weak and explicitly rate-sensitive, with the house view that restrictive borrowing conditions were still biting the construction cycle. February partially repairs that weakness, but only to the extent of a payback bounce; it does not overturn the softer housing regime already established in the file.
+The prior DM live file already had Japan as mixed rather than cleanly strong: services sentiment had stabilised, domestic demand had not collapsed, but the external trade mix had deteriorated. February CPI fits that sequence. It does not overturn the underlying inflation story, but it does make BOJ communication harder because the headline now looks softer than the underlying trend.
 
 HF Take — Strategist Layer
 
-For the BoC this remains a soft-demand / residential-investment signal, not a reason to reprice hikes. Combined with weak labour data and softer inflation, housing still fits a hold-now, cuts-not-hikes medium-term discussion more than any renewed tightening bias.
+This complicates April timing, but it does not kill the tightening case. The BOJ can still lean on underlying measures and on the expected expiry of subsidy effects, yet the bar for a simple headline-driven hawkish read is now higher. The next verification point is whether April inflation rebounds as policy distortions fade.
 
-Canada — CPI / BoC Core / CPI Median / CPI Trim (Feb)
-Release Date: 16 Mar 2026 | Local Time: 13:30 ET
+Japan — S&P Global Mfg PMI Flash SA / S&P Global SVC PMI Flash SA / S&P Global Comp Op Flash SA (Mar)
+Release Date: 24 Mar 2026 | Local Time: 01:30
 
 Reuters Data
 
-CPI MM: 0.5% | Prior: 0.0% | Poll: 0.7% | Surprise: -0.20%
-CPI YY: 1.8% | Prior: 2.3% | Poll: 1.9% | Surprise: -0.10%
-BoC Core YY: 2.3% | Prior: 2.6%
-BoC Core MM: 0.4% | Prior: 0.2%
-CPI Median: 2.3% | Prior: 2.5% | Poll: 2.4% | Surprise: -0.10%
-CPI Trim: 2.3% | Prior: 2.4% | Poll: 2.4% | Surprise: -0.10%
+S&P Global Mfg PMI Flash SA: 51.4 | Prior: 53.0
+S&P Global SVC PMI Flash SA: 52.8 | Prior: 53.8
+S&P Global Comp Op Flash SA: 52.5 | Prior: 53.9
 
 Professional Market Commentary
 
-Official and institutional commentary treated the report as a clean but backward-looking disinflation print. StatCan highlighted the GST/HST base effect; the seasonally adjusted monthly pulse was much softer than the raw monthly headline; and the dominant economist framing was that February gives the BoC a benign pre-shock baseline, while March becomes the harder test once the final tax-base effect and oil pass-through overlap.
+Official S&P Global coverage described the release as softer expansion rather than reversal: all three PMIs stayed above 50, but activity lost momentum from February’s stronger readings. The broader S&P research note also highlighted a sharper rise in input costs, with the rate of input-price inflation reaching the highest since April 2025.
 
 Comment — Economist Layer
 
-This was not just a headline base-effect story. Headline y/y fell to 1.8% partly because the February 2025 tax normalization dropped out, but the seasonally adjusted monthly CPI pace was only 0.1%, CPI excluding indirect taxes slowed to 1.9%, and the BoC’s preferred core measures moved lower together. That is a materially cleaner underlying inflation picture than the raw headline alone implies. Sticky pockets remain, but the right read is: base effects helped the headline, and underlying inflation also genuinely cooled before the energy shock hit.
-
-State transition: improvement.
+The correct read is softer momentum with a cost squeeze. All three PMIs remain expansionary, so direction has not turned negative; however, the pace clearly rolled over from February and the cost side became more policy-relevant than the headline level. That creates a mild stagflationary texture: demand is still expanding, but less quickly, while firms face renewed margin pressure because costs are rising faster than the growth pulse.
+State transition: deterioration in pace, not direction.
 
 Context from prior regional live file:
 
-The prior DM live file had Canadian inflation already on a gradual disinflation path, with January core measures softer and the broader Canada macro sequence leaning dovish alongside stalling GDP and labour-market cracks. February extends and broadens that trend: headline moved below 2%, and the preferred core measures all stepped lower together. Relative to the prior sequence, this is a cleaner pre-shock improvement in the inflation baseline.
+The prior DM live file had already moved Japan away from a clean re-acceleration story: Reuters Tankan services were only stable, and the trade report showed a less convincing external mix. The March flash PMI deepens that moderation signal and links it more explicitly to cost pressure.
 
 HF Take — Strategist Layer
 
-For the 18 March BoC decision, this supports hold with a dovish lean rather than any hike debate. Policymakers can more plausibly look through a temporary oil-led headline rebound because the pre-shock core backdrop has softened and labour slack has increased. The next real verification test is March CPI: that print will combine the final tax base effect with the first fuller oil-shock pass-through.
+For the BOJ this is directionally ambiguous but tactically important. Growth moderation argues for caution, while firmer cost pressure argues against a straightforward dovish read of the CPI miss. Net result: it keeps the normalisation case alive, but timing remains conditional rather than cleanly accelerated.
 
-TUESDAY 17 MAR 2026
-
-Australia — RBA Cash Rate (Mar)
-Release Date: 17 Mar 2026 | Local Time: 04:30
+United Kingdom — Flash Composite PMI / Flash Manufacturing PMI / Flash Services PMI (Mar)
+Release Date: 24 Mar 2026 | Local Time: 10:30
 
 Reuters Data
 
-RBA Cash Rate: 4.10% | Prior: 3.85% | Poll: 4.10% | Surprise: 0.000%
+Flash Composite PMI: 51.0 | Prior: 53.7 | Poll: 52.9 | Surprise: -1.90
+Flash Manufacturing PMI: 51.4 | Prior: 51.7 | Poll: 50.1 | Surprise: 1.30
+Flash Services PMI: 51.2 | Prior: 53.9 | Poll: 53.0 | Surprise: -1.80
 
 Professional Market Commentary
 
-Official RBA communication made clear that the hike was not just an oil-shock reaction. The Board raised the cash rate 25bp to 4.10%, warned of a material risk that inflation stays above target for longer, and recorded a very tight 5–4 split. Governor Bullock’s message was explicit: higher fuel prices add to inflation, but they were not the reason for the decision; inflation was already too high because demand was outstripping supply.
+Institutional commentary treated this as a stagflationary shock print. S&P Global’s official release showed the composite at a six-month low, and Reuters highlighted that manufacturers faced the sharpest rise in input costs since 1992 while overall business growth slowed markedly. The dominant narrative was not simple slowdown, but growth stalling while inflation pressure re-accelerates.
 
 Comment — Economist Layer
 
-The key signal is not the 25bp move itself, which was priced; it is the combination of second consecutive tightening, explicit domestic-demand rationale, and a narrow 5–4 vote. That mix says Australia remains the DM outlier still leaning into inflation control, but the split also says the cycle is closer to its limit than a unanimous hawkish board would imply. The official statement is compositionally important: business investment outperformed, consumption underperformed, labour underutilisation stayed low, and housing had been strong over the prior year. This is a capacity-pressure hike, not an externally forced panic move.
-
-State transition: escalation.
+The internal hierarchy matters. Manufacturing beat consensus, but services missed badly and services is the more important domestic-demand signal for the UK. The composite staying above 50 prevents a recession call from this release alone, yet the pace fell close to stall speed just as cost pressure jumped. That is why the right interpretation is sharp deterioration in pace with a genuine stagflationary twist, not merely a bad services month.
+State transition: sharp deterioration in pace with stagflationary re-pricing.
 
 Context from prior regional live file:
 
-The prior DM live file already had Australia as the only clear DM hiker, with February’s move to 3.85% framed as the start of a live tightening cycle. March confirms that trajectory, but with an important change in texture: February was recorded as unanimous in the prior file, whereas March is explicitly 5–4. So the regime is still hawkish continuation, but with visibly rising internal resistance.
+The prior DM live file had only mild UK weakness through the housing channel: the March Rightmove block showed a still-functioning but rate-sensitive market, not a broad domestic-demand break. The flash PMI materially worsens that picture. UK activity moved from “soft but resilient” toward “near-stall with renewed inflation pressure” in a single high-information release.
 
 HF Take — Strategist Layer
 
-This strengthens the Australia-versus-rest-of-DM divergence trade. Versus peers that are holding or debating cuts, the RBA is still tightening on domestic inflation grounds. But the 5–4 split matters for terminal-rate mapping: May is live, not locked. The hawkish signal is real; confidence around a long sequence of follow-on hikes should be lower than the headline action alone suggests.
+This materially complicates the BoE path. A clean easing narrative is harder because cost pressure has re-intensified, but a hawkish response also risks leaning into a visible loss of growth momentum. The release therefore compresses policy optionality rather than resolving it in either direction.
 
-Japan — Tertiary Ind Act NSA (Jan)
-Release Date: 17 Mar 2026 | Local Time: 05:30
+United Kingdom — CBI Distributive Trades (Mar)
+Release Date: 24 Mar 2026 | Local Time: 12:00
 
 Reuters Data
 
-Tertiary Ind Act NSA: -9.2% | Prior: 8.4% | Revised: 8.0%
+CBI Distributive Trades: -52 | Prior: -43
 
 Professional Market Commentary
 
-This release is weak analytically because the Reuters line in the feed does not map cleanly onto the main official METI headline. METI’s January 2026 release shows the seasonally adjusted tertiary activity index rising on the official headline measure, which means the Reuters “NSA” series is not directly comparable to the series most desks would normally use. There was no meaningful institutional debate around the Reuters print itself.
+Official CBI and Reuters coverage both framed this as a very weak retail signal: sales volumes fell at the quickest pace since April 2020, and retailers expected April to remain deeply negative at -49. The official release also showed weak online and total distribution sales, while Reuters noted the survey ran from 25 February to 13 March and therefore only partly captured the full conflict shock window.
 
 Comment — Economist Layer
 
-Given that discrepancy, the right read is caution, not signal extraction. I would not treat the -9.2 figure as evidence of a true services collapse. The official METI release points the other way on the headline series, and the safest interpretation is that the Reuters field is capturing a different non-seasonally-adjusted transformation that is heavily distorted by January seasonality.
-
-State transition: no material change.
-
-Context from prior regional live file:
-
-The prior DM live file had December tertiary activity as a sharp rebound and used it as a modest positive counterweight to weak Q4 GDP. January does not cleanly invalidate that because the official METI release still shows services activity improving on the main headline measure. In sequence terms, this is not enough to rewrite the Japan domestic-demand story.
-
-HF Take — Strategist Layer
-
-Minimal direct market value. For BoJ mapping, this print should be down-weighted until it is reconciled with the official METI series or cross-checked against broader services indicators. It does not justify a meaningful downgrade of the BoJ’s “resilient services/private consumption” baseline on its own.
-
-New Zealand — Milk Auctions (17 Mar, w/e)
-Release Date: 17 Mar 2026 | Local Time: 13:00
-
-Reuters Data
-
-Milk Auctions: 4,330 | Prior: 4,301
-
-Professional Market Commentary
-
-The best anchored external check is the AHDB summary of the latest GDT event: the overall GDT Price Index rose only modestly, the weighted average price was US$4,330/tonne, and 19,500 tonnes were sold. That confirms the auction moved slightly higher, but it was a very small step versus the stronger gains seen earlier in the year.
-
-Comment — Economist Layer
-
-This is still positive for NZ export income at the margin, but the signal is incremental rather than regime-changing. The aggregate auction improved only slightly, so dairy remains supportive, but not enough to offset weaker domestic-demand and GDP signals elsewhere in the NZ block.
-
-State transition: no material change.
+The important point is not the COVID-era comparison by itself, which is rhetorically powerful but analytically imperfect. The deeper signal is that consumer-facing activity was already weak and remained weak even before the full lagged impact of higher fuel costs and uncertainty is visible. In other words, this reads less like a one-off shock and more like an already fragile consumer sector taking another hit.
+State transition: acceleration of deterioration.
 
 Context from prior regional live file:
 
-The prior DM live file already showed dairy prices rebounding from 4,028 to 4,301 across the February and early-March auctions. This latest move to 4,330 extends that direction, but at a much slower pace. The farm-income tailwind remains in place; it is just no longer accelerating.
+The prior DM file had UK housing as rate-sensitive but not broken. The combination of today’s CBI release and the flash services PMI now pulls the broader UK domestic-demand bucket into a clearly softer regime than the file had previously shown.
 
 HF Take — Strategist Layer
 
-Helpful for NZ rural income support and terms of trade, but second order for RBNZ mapping relative to GDP, labour slack, and inflation. In FX terms, it is a mild cushion, not a story-changer.
-
-New Zealand — Current Account / Annual Current Account / Current Account-GDP (Q4)
-Release Date: 17 Mar 2026 | Local Time: 22:45
-
-Reuters Data
-
-Current Account - Qtrly: -5.984B | Prior: -8.365B | Poll: -5.050B | Surprise: -0.9340B
-Current Account - Annual: -16.347B | Prior: -15.370B
-Current Account/GDP: -3.7% | Prior: -3.5% | Poll: -3.5% | Surprise: -0.20%
-
-Professional Market Commentary
-
-The official and near-official read is that the annual current-account deficit widened to NZ$16.3bn, or 3.7% of GDP, while the primary income deficit remained the key structural drag. That means the quarterly narrowing from the very weak Q3 level should not be read as a clean repair in New Zealand’s external position.
-
-Comment — Economist Layer
-
-The important distinction is between quarterly optics and annual structure. Yes, the nominal quarterly deficit narrowed from the very weak Q3 level, but it still missed consensus and the annual deficit widened. The composition points to primary income as the dominant drag, not a clean deterioration in the trade channel alone. That means the external deficit is not being repaired in a durable way by the better dairy-price backdrop.
-
-State transition: mild deterioration.
-
-Context from prior regional live file:
-
-The prior DM live file had New Zealand’s external bucket mixed: January trade was soft, but Q4 terms of trade improved sharply on price effects. This current-account release fits that pattern. Better export-price dynamics have not translated into a meaningfully healthier external balance, because income outflows remain a structural drag.
-
-HF Take — Strategist Layer
-
-For NZD, this is a mild negative. It does not trigger an RBNZ rethink by itself, but together with weak domestic demand it leaves New Zealand looking like a softer-growth economy without a strong external cushion. That matters more when Australia is simultaneously widening its relative-rate advantage.
-
-WEDNESDAY 18 MAR 2026
-
-Japan — Reuters Tankan N-Man Idx (Mar)
-Release Date: 18 Mar 2026 | Local Time: 00:00
-
-Reuters Data
-
-Reuters Tankan N-Man Idx: 25 | Prior: 25
-
-Professional Market Commentary
-
-Reuters’ March Tankan poll showed non-manufacturing sentiment unchanged at +25, while manufacturers improved sharply. Coverage around the release emphasised the manufacturing strength and Middle East risk to the outlook, with little separate debate around the flat non-manufacturing print.
-
-Comment — Economist Layer
-
-Flat at 25 is a useful stabilisation signal after the February softening seen in the prior live file. It also argues against over-reading the noisy Reuters tertiary-activity line from the prior day. Sentiment in services looks steady, not collapsing, even if hard activity remains uneven.
-
-State transition: stabilisation.
-
-Context from prior regional live file:
-
-The prior DM live file recorded Reuters Tankan non-manufacturing at 25 in February, down from 32, and read that as softer service-sector confidence. March holding at 25 means that deterioration did not deepen. The bucket has moved from decline to flat.
-
-HF Take — Strategist Layer
-
-Modestly supportive of the BoJ’s resilient-services baseline, but still secondary to wages, CPI, and the official BoJ Tankan. This is a “no further deterioration” signal, not a hawkish game-changer.
-
-Japan — Exports / Imports / Trade Balance (Feb)
-Release Date: 18 Mar 2026 | Local Time: 00:50
-
-Reuters Data
-
-Exports YY: 4.2% | Prior: 16.8% | Poll: 1.6% | Surprise: 2.60%
-Imports YY: 10.2% | Prior: -2.5% | Revised: -2.6% | Poll: 11.5% | Surprise: -1.30%
-Trade Balance Total Yen: 57.3B | Prior: -1,152.7B | Revised: -1,163.5B | Poll: -483.2B | Surprise: 540.50B
-
-Professional Market Commentary
-
-Official MoF data confirm the headline surprise: exports rose 4.2% y/y, imports rose 10.2%, and the balance swung to a JPY 57.3bn surplus. But the composition is much less clean than the surplus headline suggests. MoF data and Reuters coverage both indicate that exports to China and the US weakened materially even as the aggregate balance printed much better than expected.
-
-Comment — Economist Layer
-
-The real signal is export deceleration, not the trade-balance beat. Exports slowed from 16.8% to 4.2%; that still beat a low consensus, but it is a material loss of momentum. At the same time, the bilateral mix worsened in Japan’s two critical markets, China and the US. Imports rebounding 10.2% is the constructive domestic-demand side of the report, but it also means the surplus is not telling you that external demand suddenly re-accelerated.
-
-State transition: false dawn.
-
-Context from prior regional live file:
-
-The prior DM live file had January trade as export-strong and import-weak, with the deficit narrower than feared. February reverses that mix: export momentum cooled sharply, imports rebounded strongly, and the balance improved mostly because the prior deficit was extremely large. In sequence terms, the external sector has become less clean, not more.
-
-HF Take — Strategist Layer
-
-For BoJ mapping, this is mixed rather than decisively positive. Stronger imports help the domestic-demand story, but weaker exports to China and the US increase uncertainty around the external pillar of growth. The headline surplus should not be read as a reason to accelerate hawkish BoJ repricing.
-
-Australia — Composite Leading Idx MM (Feb)
-Release Date: 18 Mar 2026 | Local Time: 01:00
-
-Reuters Data
-
-Composite Leading Idx MM: -0.08% | Prior: -0.04% | Revised: 0.00%
-
-Professional Market Commentary
-
-The available external read is consistent: the Westpac–Melbourne Institute leading index edged lower in February, with the six-month annualised growth rate near flat and implying that the slightly above-trend momentum of late 2025 has faded materially. This release drew little attention because it was crowded out by the RBA decision.
-
-Comment — Economist Layer
-
-This is a useful counterweight to the RBA hike. The central bank is tightening because inflation and capacity pressures remain too strong, but the leading-growth pulse is softening at the same time. That does not invalidate the hike, but it does strengthen the case that the board’s 5–4 split reflected a real growth/inflation trade-off rather than noise.
-
-State transition: mild deterioration.
-
-Context from prior regional live file:
-
-The prior DM live file had the January leading index already negative. February extends that sequence. So the forward-growth signal has now weakened for two consecutive months while the RBA has hiked twice.
-
-HF Take — Strategist Layer
-
-This is the main internal check on the RBA hawkish story. Relative rates still support AUD near term, but the over-tightening risk should now be monitored more actively into May. If more labour and spending indicators soften, the case for a third hike becomes materially harder.
-
-Canada — BoC Rate Decision (Mar)
-Release Date: 18 Mar 2026 | Local Time: 14:45 ET
-
-Reuters Data
-
-BoC Rate Decision: 2.25% | Prior: 2.25% | Poll: 2.25% | Surprise: 0.000%
-
-Professional Market Commentary
-
-The hold was fully expected, but the statement and press conference were richer than the action. The BoC held at 2.25%, said the economy remains in excess supply, flagged the labour market as soft, and noted that CPI excluding taxes and core measures are all now close to 2%. At the same time, it explicitly described the Middle East war as a new uncertainty layer and said it would look through the immediate inflation impact, while not allowing high energy prices to broaden into persistent inflation.
-
-Comment — Economist Layer
-
-This is a genuine policy fork, not a simple “hold and done” message. The domestic baseline is soft: growth has weakened, unemployment has risen, and core inflation has come down materially. But the oil shock has created an upside inflation risk just as growth is weakening. That is textbook stagflation-style policy tension. The important point is that the BoC did not validate a renewed hiking bias; it kept the burden of proof on persistence in inflation spillovers, not on the first-round energy move.
-
-State transition: no material change in action, regime fork in forward path.
-
-Context from prior regional live file:
-
-The prior DM live file had January’s BoC hold framed as a tactical pause inside an easing-biased regime. Since then, the live sequence has added soft growth, weak labour, softer housing starts, and a cleaner February CPI baseline. March’s hold therefore continues the pause, but with more two-sided uncertainty because the oil shock now interrupts what had become a progressively more dovish domestic data path.
-
-HF Take — Strategist Layer
-
-The BoC is still much closer to a future cut debate than to a hike debate, but timing has become less clean. Near term, the Bank has room to wait because core inflation is close to target and the economy has slack. The decisive verification test is March CPI: if oil lifts headline but core spillovers stay contained, the cut path reopens later in 2026.
-
-New Zealand — GDP Prod Based QQ / YY / Ann Avg / GDP Exp Based QQ (Q4)
-Release Date: 18 Mar 2026 | Local Time: 22:45
-
-Reuters Data
-
-GDP Prod Based QQ, SA: 0.2% | Prior: 1.1% | Poll: 0.4% | Surprise: -0.20%
-GDP Prod Based YY, SA: 1.3% | Prior: 1.3% | Poll: 1.7% | Surprise: -0.40%
-GDP Prod Based, Ann Avg: 0.2% | Prior: -0.5% | Poll: 0.3%
-GDP Exp Based QQ, SA: 0.1% | Prior: 1.3% | Poll: 0.5% | Surprise: -0.40%
-
-Professional Market Commentary
-
-Official and Reuters reporting point in the same direction: GDP rose only 0.2% q/q in Q4, below both market and RBNZ expectations, while expenditure GDP rose just 0.1%. The composition matters: rental, hiring and real estate services were supportive, but construction was a clear drag, and the broader read from economists was that the release was softer than expected and left more spare capacity in the economy than previously assumed.
-
-Comment — Economist Layer
-
-This is technically positive growth but weak-quality growth. The production measure rose 0.2%, yet the expenditure measure rose only 0.1%, which is the more worrying line. Official reporting and Reuters-based summaries also show gross fixed capital formation weakening and household demand remaining soft, so domestic demand stayed subdued. The small positive headline was therefore carried by a narrow mix rather than by broad internal demand. That is exactly why the GDP result matters for the RBNZ: it implies more spare capacity than the Bank had likely assumed entering the oil shock.
-
-State transition: deterioration.
-
-Context from prior regional live file:
-
-The prior DM live file had already shown a mixed NZ picture: better dairy and terms of trade, but only moderate retail-volume growth and still-soft household demand. Q4 GDP resolves that tension in the softer direction. Export-price support helped, but the broader domestic recovery remained too narrow to deliver a convincing growth handoff into year-end.
-
-HF Take — Strategist Layer
-
-This is modestly dovish for the RBNZ, even with oil complicating the near-term inflation path. A weaker output backdrop gives the Bank more room to absorb first-round energy inflation without needing to tighten. In FX terms, the combination of weak GDP, a wider current-account deficit, and Australia’s tighter policy path keeps the relative-pressure story on NZD versus AUD intact.
+This is not a direct BoE trigger by itself, but it reinforces the PMI message that domestic demand is fragile. Into UK CPI and retail sales, it raises the probability that the BoE’s inflation problem is arriving alongside a meaningful consumer-growth problem.
 
 REGIONAL MACRO DASHBOARD
 
 Growth: ↓
-Labor: ↓
+Labor: ~
 Inflation: ↑
 Financial Conditions: ↑
 Policy Constraint: ↑
 
-Comment: DM is no longer moving as one block. Australia is tightening into domestic inflation pressure, while Canada and New Zealand are operating with softer growth and more excess capacity. Japan remains mixed: domestic demand is not collapsing, but the export engine is losing quality. The dominant live configuration is therefore central-bank divergence plus uneven growth quality, not a common DM macro regime.
+Comment: DM is now even less coherent as a single macro bloc. Australia has shifted from simple hawkish outlier to a growth/inflation tension after the flash PMI contraction; the UK has moved toward a near-stall / cost-shock mix; Japan is split between subsidy-suppressed headline inflation and still-firm underlying inflation; and Norway enters its rate decision with credit growth still firm. The regional story is no longer “different central banks, similar cycle” but “different central banks, increasingly different domestic shocks.”
 
 PENDING HIGH-IMPORTANCE RELEASES
 
-BoJ Rate Decision
-Why it matters next: Japan’s mixed domestic/external signal now feeds directly into the BoJ’s pace-of-normalisation question. Services sentiment is stable, but export quality deteriorated and the tertiary print is noisy.
+Australia CPI / Trimmed Mean CPI (25 Mar)
+Why it matters next: After the RBA hike and the flash PMI contraction, Australia now needs an inflation print to tell the market which side of the trade-off dominates: sticky inflation or softer growth.
 
-BoE Rate Decision
-Why it matters next: After Australia’s second hike and Canada’s hold, the BoE becomes the key comparator for DM policy divergence. The cross-DM relative-rates map is more important than any single domestic print.
+United Kingdom CPI / Core CPI / Services CPI / PPI (25 Mar)
+Why it matters next: The flash PMI sharply worsened the BoE growth/inflation trade-off. Services CPI is the key check on whether today’s cost shock is likely to matter for the domestic inflation reaction function.
 
-Australia Employment / Unemployment
-Why it matters next: After a 5–4 RBA hike and a softer leading index, labour-market resilience is now the main near-term test of whether May remains live or becomes harder to justify.
+Norway Key Policy Rate (26 Mar)
+Why it matters next: Credit growth remained firm into the meeting. Norges communication now matters for whether Norway continues to look relatively resilient inside DM or starts to converge toward the softer-growth camp.
+
+United Kingdom Retail Sales (27 Mar)
+Why it matters next: After the CBI collapse and the services-PMI miss, official retail sales become the main hard-data verification test for whether the UK consumer slowdown is broadening.
 
 DATA QUALITY FLAG
 
 Seasonal distortion risk: Medium
-Revision sensitivity: High
+Revision sensitivity: Medium
 Signal confidence: Moderate
 
-Japan tertiary data are not cleanly reconcilable across Reuters and METI headline formats; New Zealand GDP and Canada growth/inflation sequencing are revision-sensitive; and several releases are already partly stale relative to the oil shock.
+Japan CPI is materially distorted by government subsidies, flash PMIs are timely but still survey-based and partly capture only the early phase of the latest energy/conflict shock, and the UK CBI survey is directionally useful but not a hard-volume series.
 
 SIGNAL TENSION CHECK
 
-Main contradiction: Australia is hiking because domestic inflation and capacity pressure remain too firm, while Canada and New Zealand are confronting softer growth and, in Canada’s case, core inflation already near target.
-Why it matters: The shared oil shock is not producing a shared DM policy response.
-Implication: Relative central-bank divergence and FX/rates spreads matter more than any single “DM macro” narrative.
+Main contradiction: Australia and the UK are both showing weaker demand momentum at the same time that cost pressures are re-accelerating, while Japan’s reported inflation is weakening for mechanical reasons even though underlying inflation still sits above target.
+Why it matters: The same external energy and supply shock is landing on very different domestic starting points across DM.
+Implication: Relative reaction functions matter more than any single “DM macro” narrative; Australia, the UK, Japan, and Norway now need to be read through very different policy filters.
 
 3 KEY RELEASES TO DIG INTO
 
-Australia — RBA Cash Rate (17 Mar 2026)
-Why it matters: It is the clearest DM regime signal in the file. Australia is still tightening, and the official rationale was domestic inflation pressure, not just oil. But the 5–4 split means the terminal-rate debate is now live, not linear.
-
-Canada — CPI / BoC Core / CPI Median / CPI Trim (16 Mar 2026)
-Why it matters: This remains the cleanest pre-shock inflation baseline in DM. The BoC’s hold only makes full sense because February inflation and core measures had already moved close to target before oil rose.
-
-New Zealand — GDP Prod / Exp Based (Q4, 18 Mar 2026)
-Why it matters: The headline stayed positive, but the composition was weak and expenditure GDP was softer still. That materially strengthens the case that the RBNZ has more room to stay patient through an oil-led inflation bump.
+United Kingdom — Flash Composite / Manufacturing / Services PMI (24 Mar 2026)
+Why it matters: This is the clearest new regime signal in the file. It pushed the UK toward a near-stall growth reading while simultaneously reviving the inflation problem, which is exactly the configuration that compresses BoE optionality.
+Australia — S&P Global Mfg PMI Flash / S&P Global Svs PMI Flash / S&P Global Comp PMI Flash (23 Mar 2026)
+Why it matters: This is the first major post-RBA challenge to the hawkish-Australia narrative. It did not invalidate inflation pressure, but it sharply weakened the activity side of the story and turned the RBA path more conditional.
+Japan — CPI, Overall Nationwide / CPI, Core Nationwide YY (24 Mar 2026)
+Why it matters: This release is the cleanest illustration of Japan’s current policy problem. Reported inflation softened below target on the core measure, but underlying inflation remained firmer, which makes BOJ communication and timing materially more difficult.
 
 <<DM_WEEK_END>>
-
-
-
-
-
