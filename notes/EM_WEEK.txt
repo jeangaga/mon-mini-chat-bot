@@ -1,75 +1,42 @@
 
-
 <<EM_WEEK_BEGIN>>
 DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
-WEEKLY RELEASE TRACKER
+A. EM WEEK — MACRO SYNTHESIS
 
-MONDAY 23 MAR 2026
-Poland
+The week resolved into a more differentiated EM regime rather than a single regional easing or inflation story. Growth softened materially in India and Mexico, Poland stayed in a continuation soft-landing bucket, Taiwan remained supported by the tech-manufacturing cycle despite headline moderation, and South Africa still entered the shock phase from improved starting conditions. Labor signals stayed broadly non-threatening where they updated, with Poland and Taiwan offering little evidence of labor-led deterioration. The regional growth message is therefore slower and more uneven, not broad EM contraction.
 
-Retail Sales YY / Retail Sales Cons Price (Feb) — RELEASED
+The more important weekly shift was policy-space dispersion under a shared external cost shock. Mexico printed a stagflationary data mix and still cut, South Africa held and preserved optionality, Brazil’s inflation and external prints stayed comparatively manageable, and Turkey remained the clearest external-liquidity stress case through reserves. That leaves EM in a country-constraint regime: imported energy and input-cost pressure are common, but reaction functions are now being driven much more by domestic credibility, external balance-sheet resilience, and the degree of room each central bank still has.
 
-Turkey
+B. EM MACRO SIGNAL SCOREBOARD
 
-Gross FX Reserves (9 Mar, w/e) — RELEASED
+Growth: ~
+Supporting evidence:
+The regional growth signal was mixed with a weaker tilt. Mexico’s January IGAE was a real downside shock, India’s flash PMIs deteriorated materially even while remaining above 50, and Poland’s retail data showed continued household expansion but no re-acceleration. Against that, Taiwan’s industrial output remained very strong once calendar effects are handled properly, and South Africa’s leading indicator confirmed firmer starting conditions. EM growth weakened, but not in a synchronized way.
 
-TUESDAY 24 MAR 2026
-India
+Labor: ~
+Supporting evidence:
+Labor data did not validate a broad EM deterioration call. Poland’s unemployment rate printed exactly in line at 6.1% and carried no market-relevant shock, while Taiwan’s jobless rate edged down and reinforced a still-firm labor backdrop alongside the tech cycle. No release in the supplied file pointed to a meaningful regional labor break, but the week also did not deliver enough breadth to upgrade labor as a clear strength.
 
-HSBC Mfg Flash PMI / HSBC Services Flash PMI / HSBC Composite Flash PMI (Mar) — RELEASED
+Inflation: ~
+Supporting evidence:
+Inflation became more uneven rather than uniformly worse. Mexico’s first-half March headline inflation overshot sharply and tightened Banxico’s trade-off, and India’s flash PMI input-cost surge signaled renewed pressure. But South Africa’s PPI stayed soft, Brazil’s IPCA-15 cooled sequentially and on the 12-month rate despite beating consensus, and Poland’s consumption backdrop did not point to overheating. The week’s inflation signal was therefore differentiated, with pressure rising in some economies but not broadening cleanly across EM.
 
-South Africa
+Financial Conditions: ~
+Supporting evidence:
+Conditions diverged sharply across the region. Turkey’s reserve dynamics kept the external-liquidity story acutely defensive, with net reserves deterioration outweighing the gross bounce. Mexico eased policy by cutting 25bp, Brazil’s external accounts remained comfortable with FDI still covering the current-account gap, and Taiwan’s labor and industrial data did not signal domestic financing strain. The correct regional read is not simple tightening or easing, but selective financial-stress concentration.
 
-Leading Indicator (Jan) — RELEASED
+Policy Constraint: -
+Supporting evidence:
+Country-specific constraints tightened even as policy outcomes diverged. Banxico cut into a weaker-growth / firmer-headline-inflation mix, implying more tolerance for near-term inflation risk but also raising validation demands on MXN stability and future prints. SARB held and kept optionality, showing that contained domestic inflation was still not enough to reopen an easy easing path, while Turkey remained balance-sheet constrained through reserves rather than standard cyclical policy logic. Shared external cost pressure did not produce a common response; it increased the importance of domestic constraint sets.
 
-Taiwan
-
-Industrial Output YY (Feb) — RELEASED
-
-Poland
-
-Unemployment Rate (Feb) — RELEASED
-
-Mexico
-
-IGAE Econ Activity YY (Jan) — RELEASED
-1st Half-Mth Core Infl MM / 1st Half-Mth Infl MM (Mar) — RELEASED
-
-THURSDAY 26 MAR 2026
-Taiwan
-
-Jobless Rate (Feb) — PENDING
-
-South Africa
-
-PPI MM / PPI YY (Feb) — PENDING
-Prime Rate / Repo Rate (Mar) — PENDING
-
-Turkey
-
-Gross FX Reserves (20 Mar, w/e) — PENDING
-Net FX Reserves (16 Mar, w/e) — PENDING
-
-Brazil
-
-IPCA-15 Mid-Month CPI / IPCA-15 Mid-Month CPI YY (Mar) — PENDING
-
-Mexico
-
-Interest Rate (Mar) — PENDING
-
-FRIDAY 27 MAR 2026
-Brazil
-
-Current Account (Feb) — PENDING
-Foreign Direct Investm't (Feb) — PENDING
+C. FULL RELEASE ARCHIVE
 
 RELEASE BLOCKS
 
 MONDAY 23 MAR 2026
 
-POLAND — Retail Sales / Retail Sales at Constant Prices (Feb)
+POLAND — Retail Sales YY / Retail Sales Cons Price (Feb)
 Release Date: 23 Mar 2026 | Local Time: 09:30
 
 Reuters Data
@@ -79,20 +46,20 @@ Retail Sales Cons Price: 5.0% | Prior: 4.4% | Poll: 6.1% | Surprise: -1.10%
 
 Professional Market Commentary
 
-Official and market framing treated this as a still-positive consumer print, but one that disappointed versus expectations for a stronger February rebound. GUS reported real retail sales up 5.0% y/y, with broad category gains, while open institutional commentary described the result as middling rather than strong and noted weather as a likely drag.
+The right institutional read is moderate consumer resilience, not a clean upside surprise. GUS confirmed that retail sales at constant prices rose 5.0% y/y in February, while broader market framing treated the print as respectable in absolute terms but softer than consensus. The key nuance is that the 5.0% official real-sales figure and the Reuters feed’s separate 4.3% line should be treated as different measures, not as a broken print.
 
 Comment — Economist Layer
 
-The signal is mildly constructive, not cleanly bullish. Real retail demand is still expanding and accelerated from January, so the household side is not rolling over. But the miss versus consensus matters because this was supposed to be an easier beat in a benign-inflation setting. The right read is consumer resilience with less upside impulse than expected.
+The signal is continuation rather than re-acceleration. Real retail demand improved from January, so the household side is still expanding. But the miss versus consensus matters because this was a benign-inflation backdrop in which stronger consumption had been expected. Compositionally, the headline looks somewhat flattered by energy-related categories, while discretionary demand was less impressive. That leaves Poland in a “consumer still growing, but not breaking higher” bucket rather than a new domestic-demand upgrade.
 
-State transition: stabilization
+State transition: continuation
 
 Context from prior regional live file:
-The prior Poland sequence in the EM live file had already become one of orderly disinflation and a somewhat improved external cushion, with the current-account surprise adding resilience but not changing the core macro story. February retail fits that setup: demand is still expanding, but not in a way that forces a growth re-upgrade.
+The prior Poland sequence in the EM live file had already become one of orderly disinflation and a somewhat improved external cushion, with current-account improvement adding resilience but not changing the core macro story. February retail fits that setup: demand is still positive, but not in a way that forces a material re-rating of Poland’s growth impulse.
 
 HF Take — Strategist Layer
 
-For PLN and Poland rates, this is not the kind of demand beat that re-prices the easing debate. It modestly supports the idea that domestic demand is holding together, but the miss versus poll keeps the release in the “helpful, not regime-changing” bucket. The next verification test remains whether labor and industry keep the soft-landing structure intact.
+For PLN and local rates, this is not the kind of consumer print that meaningfully tightens the NBP reaction function. It supports a soft-landing read more than a hawkish one. The next verification tests remain labor, industry, and whether consumer strength broadens beyond categories helped by energy-price pass-through.
 
 TURKEY — Gross FX Reserves (9 Mar, w/e)
 Release Date: 23 Mar 2026 | Local Time: 12:30
@@ -103,11 +70,11 @@ Gross FX Reserves: 55.49B | Prior: 62.77B
 
 Professional Market Commentary
 
-The tape remains reserve-stress-dominant. The official TCMB reserves release sequence keeps attention on weekly reserve developments rather than on any softer narrative around growth or inflation, and the prior EM live file had already marked reserves as the key Turkey macro vulnerability.
+The tape remains reserve-stress-dominant. The official CBRT weekly reserves/liquidity release remains the relevant anchor, and the prior EM live file had already pushed Turkey into the region’s most fragile external-liquidity bucket. This update therefore landed into an already defensive Turkey narrative rather than creating a new one.
 
 Comment — Economist Layer
 
-The macro signal is straightforward: reserve stress remains live. Even allowing for series-label caution between Reuters shorthand and TCMB presentation, directionally there is no ambiguity. After the 12 March Turkey block had already re-centered the story on lira defense and delayed easing, this update argues that the reserve shock was not a one-week anomaly. This is continuation of external fragility, not stabilization.
+The macro signal is straightforward: reserve pressure remained live into mid-March. Even allowing for the usual caution around series labels and presentation, directionally there is no ambiguity in the reported week-on-week deterioration. After the earlier Turkey block had already re-centered the story on lira defense and delayed easing, this update argues that the reserve shock was not a one-off disturbance.
 
 State transition: deterioration
 
@@ -116,7 +83,7 @@ The prior Turkey block had already marked a clear deterioration: the reserve dra
 
 HF Take — Strategist Layer
 
-For Turkish assets, the message remains defensive. As long as reserves are still being depleted, markets are likely to treat rate policy, liquidity settings, and reserve management as part of the same constraint set. That keeps the CBRT reaction function biased toward protection rather than renewed easing confidence.
+For Turkish assets, the message remains defensive. As long as reserves are still being depleted, markets are likely to treat monetary policy, liquidity management, and reserve operations as one linked constraint set. That keeps the CBRT reaction function biased toward protection rather than renewed easing confidence.
 
 TUESDAY 24 MAR 2026
 
@@ -131,7 +98,7 @@ HSBC Composite Flash PMI: 56.5 | Prior: 58.9 | Poll: 59.0 | Surprise: -2.50
 
 Professional Market Commentary
 
-Institutional tape framed this as a meaningful March slowdown, but not a collapse. The key narrative was softer domestic demand, still-strong export orders, and a sharp rise in input costs linked to energy and commodity pressures. The important nuance is that “multi-year low” framing is directionally right on momentum, but can overstate severity given that all three indices remain comfortably above 50.
+Institutional tape framed this as a meaningful March slowdown, but not a collapse. The dominant narrative was softer domestic demand, still-strong export orders, and a sharp rise in input costs. The important nuance is that “multi-year low” framing is directionally right on momentum, but can overstate severity given that all three indices remain comfortably above 50.
 
 Comment — Economist Layer
 
@@ -144,7 +111,7 @@ The prior India sequence in the EM live file had been one of resilient activity,
 
 HF Take — Strategist Layer
 
-For the RBI, this is not a clean easing signal. Slower domestic demand would normally help doves, but the input-cost surge and pass-through risk reduce the room for an easy growth-first response. For INR, the release reinforces the vulnerability to imported energy pressure: activity is still expanding, but the macro mix has become less comfortable.
+For the RBI, this is not a clean easing signal. Slower domestic demand would normally help doves, but the input-cost surge and pass-through risk reduce the room for an easy growth-first response. For INR, the release reinforces vulnerability to imported energy pressure: activity is still expanding, but the macro mix has become less comfortable.
 
 SOUTH AFRICA — Leading Indicator (Jan)
 Release Date: 24 Mar 2026 | Local Time: 08:00
@@ -155,11 +122,11 @@ Leading Indicator: 118.20 | Prior: 117.20 | Revised: 117.71
 
 Professional Market Commentary
 
-The tape is better read as a fragile improvement signal rather than a strong forward-growth upgrade. January’s leading indicator confirms that South Africa was entering 2026 on a somewhat firmer footing, but market commentary already treats that improvement as backward-looking and vulnerable to the oil shock now dominating the macro discussion.
+The tape is better read as a fragile improvement signal rather than a strong forward-growth upgrade. January’s leading indicator confirms that South Africa entered 2026 on a somewhat firmer footing, but the market already viewed that improvement as backward-looking and vulnerable to a more difficult oil and inflation backdrop.
 
 Comment — Economist Layer
 
-The release still matters because it confirms that South Africa did not enter the current energy shock from a collapsing domestic base. But its timing matters just as much: this is a January signal, while the market is already pricing a more adverse March-April energy and inflation backdrop. So the correct read is improvement in starting conditions, not a clean forward re-acceleration call.
+The release still matters because it confirms that South Africa did not enter the current shock phase from a collapsing domestic base. But its timing matters just as much: this is a January signal, while the market had already shifted attention to a more adverse March-April energy backdrop. So the correct read is improvement in starting conditions, not a clean forward re-acceleration call.
 
 State transition: stabilization
 
@@ -168,7 +135,7 @@ The prior South Africa sequence had already improved through firmer GDP, a bette
 
 HF Take — Strategist Layer
 
-For SARB mapping, this supports the view that the Bank may initially try to look through the first-round oil shock rather than treat it as an immediate domestic-demand emergency. But that tolerance is conditional. If energy-driven inflation broadens or the rand comes under further pressure, the easing path remains vulnerable.
+For SARB mapping, this supports the idea that the Bank could initially look through first-round energy pressure rather than treat it as an immediate domestic-demand emergency. But that tolerance was always conditional, and later-week data would matter more for the near-term rate path than this backward-looking leading indicator.
 
 TAIWAN — Industrial Output YY (Feb)
 Release Date: 24 Mar 2026 | Local Time: 09:00
@@ -179,20 +146,20 @@ Industrial Output YY: 17.83% | Prior: 28.51% | Revised: 27.88%
 
 Professional Market Commentary
 
-The better institutional framing is that the headline deceleration overstates the underlying softness. Official commentary still points to very strong AI- and semiconductor-linked manufacturing demand, while prior Taiwan reporting had already warned that January strength was partly flattered by Lunar New Year timing. The tape should therefore be read as moderation from an extreme January pace, not as evidence of a fundamental demand break.
+The better institutional framing is that the headline deceleration overstates the underlying softness. Official commentary still points to very strong AI- and semiconductor-linked manufacturing demand, while the holiday calendar distorted the y/y comparison. The tape should therefore be read as moderation from an extreme January pace, not as evidence of a fundamental demand break.
 
 Comment — Economist Layer
 
-The headline slowdown from 27.88% to 17.83% y/y is mechanically large, but the composition makes it much less bearish than the one-line print suggests. Manufacturing remained very strong, the weakness was concentrated outside the core tech engine, and the holiday-adjusted read still points to unusually strong output levels. The important analytical distinction is therefore: AI/semiconductor-linked production remains structurally strong; traditional sectors remain much weaker; and the February y/y slowdown is heavily influenced by calendar effects. This is continuation, not inflection. The real macro message is deepening divergence inside Taiwan’s industrial base rather than broad industrial cooling.
+The headline slowdown from 27.88% to 17.83% y/y is mechanically large, but the composition makes it much less bearish than the one-line print suggests. Manufacturing remained very strong, the weakness was concentrated outside the core tech engine, and the holiday-adjusted read still points to unusually strong output levels. The important analytical distinction is therefore: AI/semiconductor-linked production remains structurally strong; traditional sectors remain much weaker; and the February y/y slowdown is heavily influenced by calendar effects. This is continuation, not inflection.
 
 State transition: continuation
 
 Context from prior regional live file:
-The prior EM live file had not yet contained a direct Taiwan hard-data block, but the broader regional context already pointed to resilient Asia tech demand. February industrial output now confirms that pulse directly. What matters is not the softer headline alone, but that the tech-manufacturing core remains very strong after proper calendar adjustment.
+The prior EM live file had not yet contained a direct Taiwan hard-data block, but the broader regional context already pointed to resilient Asia tech demand. February industrial output now confirms that pulse directly. What matters is not the softer headline alone, but that the tech-manufacturing core remains very strong after proper adjustment.
 
 HF Take — Strategist Layer
 
-For TWD and the broader EM Asia tech complex, this remains supportive. It preserves the distinction between economies still benefiting from AI capex and external tech demand, and economies already feeling more direct growth or balance-of-payments stress. The Middle East energy shock is a secondary watch item for non-tech manufacturing, not yet the dominant story for Taiwan’s industrial core.
+For TWD and the broader EM Asia tech complex, this remains supportive. It preserves the distinction between economies still benefiting from AI capex and external tech demand, and economies already feeling more direct growth or balance-of-payments stress.
 
 POLAND — Unemployment Rate (Feb)
 Release Date: 24 Mar 2026 | Local Time: 09:30
@@ -203,7 +170,7 @@ Unemployment Rate: 6.1% | Prior: 6.0% | Poll: 6.1% | Surprise: 0.00%
 
 Professional Market Commentary
 
-Public commentary around the release was essentially absent, which itself is informative. The official Polish statistical snapshot showed the registered unemployment rate at 6.1% and described it as higher than in the previous month and year, but without any sign of a market-relevant labor shock.
+Public commentary around the release was essentially absent, which itself is informative. Statistics Poland’s same-day macro snapshot showed the registered unemployment rate at 6.1% and described it as higher than in the previous month and year, but without any sign of a market-relevant labor shock.
 
 Comment — Economist Layer
 
@@ -227,11 +194,11 @@ IGAE Econ Activity YY: -0.3% | Prior: 3.3% | Poll: 1.6% | Surprise: -1.90%
 
 Professional Market Commentary
 
-Institutional framing should be firmer here: this was not a small miss, but a real growth downside shock. The official release showed seasonally adjusted activity down 0.9% m/m and only 0.5% y/y, while the original annual series printed -0.3%. The main tape read is that December’s stronger annual print overstated underlying momentum and January stripped that distortion away.
+Institutional framing should be firm here: this was not a small miss, but a real growth downside shock. The official release showed seasonally adjusted activity down 0.9% m/m and only 0.5% y/y, while the original annual series printed -0.3%. The main tape read is that December’s stronger annual print overstated underlying momentum and January stripped that distortion away.
 
 Comment — Economist Layer
 
-This materially worsens the Mexico growth picture. The right hierarchy is: the seasonally adjusted monthly fall is large; the original annual series turned negative; weakness was not confined to one narrow industrial category; and manufacturing remained a major drag while services were only marginally positive. That means the slowdown is broader than the earlier industrial-output miss alone suggested. This is the kind of print that upgrades concern from “sector weakness” to “economy-wide momentum loss.” The growth story is now clearly weaker entering the Banxico meeting.
+This materially worsens the Mexico growth picture. The right hierarchy is: the seasonally adjusted monthly fall is large; the original annual series turned negative; weakness was not confined to one narrow industrial category; and manufacturing remained a major drag while services were only marginally positive. That means the slowdown is broader than the earlier industrial-output miss alone suggested. This is the kind of print that upgrades concern from “sector weakness” to “economy-wide momentum loss.” The growth story was clearly weaker entering the Banxico meeting.
 
 State transition: deterioration
 
@@ -240,7 +207,7 @@ The prior Mexico sequence had already become more cautious after the industrial-
 
 HF Take — Strategist Layer
 
-For Banxico, this is the strongest growth-side argument for a dovish lean that Mexico has printed recently. But it does not stand alone because inflation also updated the same day. The strategic implication is not “easy cut,” but “growth is weakening quickly enough that inflation tolerance and communication discipline now matter even more.”
+For Banxico, this was the strongest growth-side argument for a dovish lean that Mexico had printed recently. But it did not stand alone because inflation also updated the same day. The strategic implication was not “easy cut,” but “growth is weakening quickly enough that inflation tolerance and communication discipline matter even more.”
 
 MEXICO — 1st Half-Mth Inflation / 1st Half-Mth Core Inflation (Mar)
 Release Date: 24 Mar 2026 | Local Time: 13:00
@@ -252,68 +219,214 @@ Reuters Data
 
 Professional Market Commentary
 
-The tape should lean more explicitly into the policy bind. Headline inflation overshot meaningfully, but the composition still leaves Banxico a possible “look-through” argument because volatile food and travel categories drove much of the surprise while core m/m stayed in line. So the release is not a clean inflation re-acceleration, but it is still bad enough to tighten the policy trade-off materially.
+The tape should lean more explicitly into the policy bind. Headline inflation overshot meaningfully, but the composition still left Banxico a possible “look-through” argument because volatile categories drove much of the surprise while core m/m stayed in line. So the release was not a clean inflation re-acceleration, but it was bad enough to tighten the policy trade-off materially.
 
 Comment — Economist Layer
 
-This is an uncomfortable inflation print for Banxico. The main tension is between headline urgency and core restraint: headline inflation accelerated sharply; non-core drove much of the surprise; core m/m held at 0.22%; and annual core remained sticky rather than benign. So the “temporary factors” argument is still available, but it is narrower than before because headline is now clearly above the upper tolerance band and the core anchor is not soft enough to fully neutralize the shock. Combined with the IGAE release, this is a genuine stagflationary mix: weaker growth, but not enough inflation relief.
+This was an uncomfortable inflation print for Banxico. The main tension is between headline urgency and core restraint: headline inflation accelerated sharply; non-core drove much of the surprise; core m/m held at 0.22%; and annual core remained sticky rather than benign. So the “temporary factors” argument remained available, but narrower than before because headline was now clearly above the upper tolerance band and the core anchor was not soft enough to neutralize the shock. Combined with the IGAE release, this was a genuine stagflationary mix: weaker growth, but not enough inflation relief.
 
 State transition: deterioration
 
 Context from prior regional live file:
-The prior Mexico inflation sequence had already interrupted the smooth-disinflation narrative by taking headline CPI back above 4% while leaving core/services sticky. Early-March inflation intensifies that interruption. The growth side is now weaker too, which makes the policy trade-off more acute rather than easier.
+The prior Mexico inflation sequence had already interrupted the smooth-disinflation narrative by taking headline CPI back above 4% while leaving core/services sticky. Early-March inflation intensified that interruption. The growth side was now weaker too, which made the policy trade-off more acute rather than easier.
 
 HF Take — Strategist Layer
 
-For Banxico, this raises the bar for a straightforward cut narrative. A move is still possible if policymakers emphasize the volatile composition of the headline shock, but any dovish interpretation now needs stronger conditional language. For MXN and front-end rates, the message is two-way risk, not clean easing validation.
+For Banxico, this raised the bar for a straightforward cut narrative. A move was still possible if policymakers emphasized the volatile composition of the headline shock, but any dovish interpretation now needed stronger conditional language. For MXN and front-end rates, the message was two-way risk, not clean easing validation.
 
-REGIONAL MACRO DASHBOARD
+THURSDAY 26 MAR 2026
 
-Growth: ~
-Labor: ~
-Inflation: ↑
-Financial Conditions: ↓
-Policy Constraint: ↑
+TAIWAN — Jobless Rate (Feb)
+Release Date: 26 Mar 2026 | Local Time: 09:00
 
-Comment: EM remains highly dispersive. Taiwan still looks like a tech-cycle strength pocket once calendar effects are handled correctly, and South Africa still shows evidence of a better starting point, but India and Mexico both moved meaningfully weaker on growth impulse on 24 March while Turkey remains in an external-stress regime via reserves. The dominant regional shift is tighter policy constraint via energy/input-cost pressure arriving before growth has rolled over uniformly across EM.
+Reuters Data
 
-PENDING HIGH-IMPORTANCE RELEASES
+Jobless Rate: 3.33% | Prior: 3.36%
 
-Brazil — IPCA-15 Mid-Month CPI / IPCA-15 Mid-Month CPI YY (26 Mar)
-Why it matters next: This is the key inflation verification test after Copom’s hawkish cut. A hot print would harden the “cycle started, but under constraint” interpretation.
+Professional Market Commentary
 
-South Africa — Repo Rate / Prime Rate (26 Mar)
-Why it matters next: The better domestic starting point is now colliding with oil and imported-inflation risk. The decision will show whether SARB leans through the better growth optics or the inflation constraint.
+This was a low-profile labor confirmation print rather than a market event. DGBAS reported that the headline unemployment rate was 3.32% in February, while the seasonally adjusted unemployment rate declined to 3.33%, which is consistent with the Reuters line and reinforces the picture of a still-tight labor market.
 
-Mexico — Interest Rate (26 Mar)
-Why it matters next: Banxico now faces a weaker-growth and firmer-inflation mix in the same week. The decision and statement will determine which side of that tension dominates.
+Comment — Economist Layer
 
-Turkey — Gross FX Reserves / Net FX Reserves (26 Mar)
-Why it matters next: Another reserve draw would confirm that the external-stress episode is persisting rather than stabilizing, keeping the policy mix defensive.
+There is no meaningful deterioration signal here. The marginal improvement is small, but it matters directionally because it confirms that Taiwan’s labor market is holding firm alongside the still-strong tech-manufacturing cycle. The release also supports the idea that the economy remains dual-speed: core tech labor demand stays solid, while weaker non-tech sectors are not yet large enough to pull the aggregate labor picture materially lower.
 
-DATA QUALITY FLAG
+State transition: no material change
 
-Seasonal distortion risk: Medium
-Revision sensitivity: Medium
-Signal confidence: Moderate
+Context from prior regional live file:
+The prior Taiwan block had already established that the industrial core remained stronger than the headline y/y slowdown implied. February unemployment fits that structure neatly: labor is not validating any bearish reinterpretation of the industrial data.
+
+HF Take — Strategist Layer
+
+For TWD and Taiwan rates, this is not a standalone market mover. But it does corroborate the broader thesis that Taiwan remains one of the cleaner EM-Asia beneficiaries of the ongoing tech capex cycle, with no immediate labor-market constraint forcing a policy rethink.
+
+SOUTH AFRICA — PPI MM / PPI YY (Feb)
+Release Date: 26 Mar 2026 | Local Time: 10:30
+
+Reuters Data
+
+PPI MM: 0.0% | Prior: -0.2% | Poll: 0.1% | Surprise: -0.10%
+PPI YY: 1.8% | Prior: 2.2% | Poll: 1.8% | Surprise: 0.00%
+
+Professional Market Commentary
+
+The tape here is straightforward: producer disinflation at the final-goods level remained intact. Stats SA showed final manufactured goods at 0.0% m/m and 1.8% y/y, while intermediate manufactured goods also slowed to 7.8% y/y from 10.5% in January. That keeps the factory-gate picture softer than the oil-shock narrative alone would suggest.
+
+Comment — Economist Layer
+
+This is a constructive inflation-side print for SARB. Final goods PPI remained subdued, and the decline in intermediate goods inflation from 10.5% to 7.8% matters because it suggests upstream pressure was not broadening as aggressively as feared. That does not eliminate oil risk, but it does mean second-round domestic pipeline pressure was not yet validating a more alarmist inflation call.
+
+State transition: continuation
+
+Context from prior regional live file:
+The prior South Africa sequence had already improved through softer CPI and better activity data, while the later risk discussion centered on whether the oil shock would reverse that progress. February PPI says that, at least at the producer level, the inflation pipeline was still more contained than feared.
+
+HF Take — Strategist Layer
+
+For SARB, this print gave cover for caution rather than panic. It did not force an immediate hawkish reinterpretation of the energy shock, and it supported the case for a central bank that could remain patient while watching whether imported pressure becomes broader domestic inflation.
+
+SOUTH AFRICA — Prime Rate / Repo Rate (Mar)
+Release Date: 26 Mar 2026 | Local Time: 14:00
+
+Reuters Data
+
+Prime Rate: 10.25% | Prior: 10.25%
+Repo Rate: 6.75% | Prior: 6.75% | Poll: 6.75% | Surprise: 0.000%
+
+Professional Market Commentary
+
+The decision was an in-line hold, but it mattered because it preserved a cautious, conditional policy stance rather than validating a renewed easing narrative. The official SARB site shows the repo rate at 6.75% and the prime rate at 10.25% after the 26 March decision, alongside still-soft February CPI and PPI readings.
+
+Comment — Economist Layer
+
+The decision itself was not a surprise, but the signal is that SARB was not prepared to turn softer simply because inflation data remained contained. In other words, the Bank kept optionality. With activity not collapsing, CPI at 3.0%, and PPI soft, the hold looks like a defensive pause rather than a reaction to domestic overheating. That is more “wait and verify” than “easing path resumed.”
+
+State transition: stabilization
+
+Context from prior regional live file:
+The prior South Africa tape had already established a better growth starting point, softer inflation, and an increasingly important oil-risk overlay. The hold is fully consistent with that setup: the domestic picture had improved, but not enough to make the Bank comfortable easing blindly into higher external uncertainty.
+
+HF Take — Strategist Layer
+
+For ZAR and the front end, the message is conditional restraint. SARB did not endorse a hawkish reset, but it also did not reopen an easy easing narrative. That keeps the path highly sensitive to fuel, rand, and second-round inflation dynamics rather than purely to near-term activity prints.
+
+TURKEY — Gross FX Reserves / Net FX Reserves (16 Mar, w/e)
+Release Date: 26 Mar 2026 | Local Time: 12:30
+
+Reuters Data
+
+Gross FX Reserves: 61.29B | Prior: 55.49B
+Net FX Reserves: 57.41B | Prior: 69.00B
+
+Professional Market Commentary
+
+This was the key Turkey nuance of the week: the gross line recovered, but the net line deteriorated sharply. The official CBRT weekly reserves/liquidity table remains the relevant anchor, and the combination of partial gross recovery with a much weaker net position is exactly the kind of configuration markets treat cautiously rather than reassuringly.
+
+Comment — Economist Layer
+
+The internal hierarchy is clear: the net reserves line matters more than the gross bounce. A recovery in gross reserves alongside a large drop in net reserves points to underlying pressure that the gross headline alone can mask. So this should not be read as stabilization. If anything, it suggests that Turkey’s reserve position remained fragile even after the apparent gross improvement, which is why the broader external-vulnerability story still dominates.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior Turkey block had already established reserve depletion as the dominant macro stress signal in the region. The new weekly data do not reverse that conclusion. Instead, they reinforce the idea that Turkey remained in the most acute external-liquidity stress bucket in EM.
+
+HF Take — Strategist Layer
+
+For TRY, this keeps the policy mix defensive. The key macro implication is that reserve management remains an active constraint on the reaction function. That leaves Turkey much closer to a balance-sheet and confidence problem than to a normal cyclical easing debate.
+
+BRAZIL — IPCA-15 Mid-Month CPI / IPCA-15 Mid-Month CPI YY (Mar)
+Release Date: 26 Mar 2026 | Local Time: 13:00
+
+Reuters Data
+
+IPCA-15 Mid-Month CPI: 0.44% | Prior: 0.84% | Poll: 0.29% | Surprise: 0.150%
+IPCA-15 Mid-Month CPI YY: 3.90% | Prior: 4.10% | Poll: 3.74% | Surprise: 0.160%
+
+Professional Market Commentary
+
+The tape here is subtler than the consensus miss alone implies. Official IBGE data show that March IPCA-15 slowed sharply from 0.84% to 0.44% m/m and that 12-month inflation fell from 4.10% to 3.90%, even though both prints came in above consensus. Food and beverages and personal expenses were the main drivers. So this was a headline overshoot versus poll, but not a hot inflation print in absolute sequential terms.
+
+Comment — Economist Layer
+
+This is improvement, not deterioration. The key hierarchy is: sequential inflation cooled meaningfully; the 12-month rate fell; and the overshoot versus consensus reflects that markets were looking for even faster relief, not that inflation actually re-accelerated. In other words, the print was firmer than expected but still directionally benign. That distinction matters because it keeps Brazil separate from Mexico on the inflation front.
+
+State transition: improvement
+
+Context from prior regional live file:
+No prior Brazil inflation block had yet appeared in the current EM live file. The broader live-file backdrop, however, had already shifted toward an energy-driven policy-constraint theme across EM. Brazil’s IPCA-15 is important because it showed that not every EM inflation print was worsening under that shock narrative.
+
+HF Take — Strategist Layer
+
+For BRL and Brazil rates, this preserves policy room better than the consensus miss suggests. It does not justify complacency, but it does support the view that Brazil still had more room to navigate than the more constrained Mexico or Turkey cases.
+
+MEXICO — Interest Rate (Mar)
+Release Date: 26 Mar 2026 | Local Time: 20:00
+
+Reuters Data
+
+Interest Rate: 6.75% | Prior: 7.00% | Poll: 7.00% | Surprise: -0.250%
+
+Professional Market Commentary
+
+This was the week’s clearest policy surprise. Banxico cut 25bp to 6.75% despite the stagflationary data mix printed two days earlier. The official statement makes clear that the Board continued the easing cycle by majority vote, explicitly taking into account the exchange rate, weak activity, and the existing level of monetary restriction.
+
+Comment — Economist Layer
+
+The decision is important precisely because it was not the mechanical response implied by the near-term data. Banxico cut into a backdrop of weaker activity and firmer headline inflation, choosing to lean on the still-contained core path and on the judgment that policy was already sufficiently restrictive. The 3-2 vote split matters because it shows this was not an easy consensus call inside the Board.
+
+State transition: reversal
+
+Context from prior regional live file:
+The prior Mexico blocks had built a genuine stagflationary bind: weaker activity, firmer headline inflation, and less obvious room to ease. The decision reverses the most mechanical reading of that setup. Rather than pausing, Banxico chose to resume easing, which means the reaction function is now more growth-tolerant than the near-term inflation prints alone would have implied.
+
+HF Take — Strategist Layer
+
+For MXN and local rates, this is the week’s most consequential EM policy signal. The cut tells markets that Banxico is willing to tolerate a more difficult near-term headline inflation profile if core behaves and activity weakens enough. That makes peso stability and the next inflation prints critical validation tests for whether this renewed easing path can hold.
+
+FRIDAY 27 MAR 2026
+
+BRAZIL — Current Account / Foreign Direct Investm't (Feb)
+Release Date: 27 Mar 2026 | Local Time: 12:30
+
+Reuters Data
+
+Current Account: -5.614B | Prior: -8.360B | Poll: -5.400B | Surprise: -0.2140B
+Foreign Direct Investm't: 6.754B | Prior: 8.168B | Poll: 7.600B | Surprise: -0.8460B
+
+Professional Market Commentary
+
+The official BCB release was directionally constructive. Brazil’s current-account deficit narrowed to about US$5.6 billion in February, and direct investment liabilities were about US$6.8 billion, meaning FDI still covered the monthly current-account gap. So while FDI moderated from the prior month and came in a bit below consensus, the external-financing picture remained fundamentally comfortable.
+
+Comment — Economist Layer
+
+This is a positive external-accounts signal. The current-account deficit narrowed materially, and the fact that FDI still exceeded the deficit means Brazil remained self-financing at the monthly level. The only softer detail is that FDI cooled from the prior month, which bears monitoring, but that does not come close to creating an external-vulnerability story.
+
+State transition: improvement
+
+Context from prior regional live file:
+No prior Brazil external block had yet appeared in the current EM live file. The broader EM live context, however, had already moved toward a more selective reading of policy space and balance-sheet risk. Brazil’s external data reinforce that Brazil belongs in the “more room, less external stress” camp rather than in the fragile-liquidity camp.
+
+HF Take — Strategist Layer
+
+For BRL and Brazil rates, this is quietly supportive. External accounts are not imposing a binding constraint on the macro mix, which matters because it leaves Brazil with more policy flexibility than peers where inflation or reserves are the dominant limitation.
 
 SIGNAL TENSION CHECK
 
-Main contradiction: Taiwan’s industrial core still looks structurally strong after adjustment, while India and Mexico are both showing weaker domestic momentum under rising cost or inflation pressure, and Turkey remains externally constrained.
-Why it matters: This is not a clean EM-wide slowdown or a clean EM-wide resilience story.
-Implication: Country dispersion and reaction-function differentiation remain more useful than broad EM beta framing this week.
+Main contradiction: The same external shock is producing very different policy outcomes: Banxico cut into a stagflationary-looking mix, SARB held and kept optionality, Brazil’s data stayed comparatively easing-compatible, and Turkey remained balance-sheet constrained via reserves rather than conventional inflation dynamics.
+Why it matters: This is not a clean EM-wide slowdown or a clean EM-wide inflation panic. It is a policy-space differentiation story.
+Implication: Country-specific constraints now matter more than broad EM beta framing.
 
 3 KEY RELEASES TO DIG INTO
 
-Mexico — IGAE Economic Activity (24 Mar 2026)
-Why it matters: This is the clearest confirmation that Mexico’s weakness is broader than a single industrial miss. It materially worsens the growth backdrop into the Banxico meeting.
-Mexico — 1st Half-Mth Inflation / 1st Half-Mth Core Inflation (24 Mar 2026)
-Why it matters: The print tightens the policy trade-off exactly as growth deteriorates. Headline overshot, core stayed sticky, and Banxico now has less room for a clean dovish read.
+Mexico — Interest Rate (26 Mar 2026)
+Why it matters: This is the week’s clearest policy surprise. Banxico resumed easing despite the weaker-growth / firmer-headline-inflation mix, making peso stability and the next inflation prints the critical validation tests.
+Turkey — Gross FX Reserves / Net FX Reserves (16 Mar, w/e) (26 Mar 2026)
+Why it matters: The gross bounce was not the real signal; the net deterioration was. This keeps Turkey as the week’s most acute EM external-liquidity stress case.
 India — HSBC Flash PMIs (24 Mar 2026)
-Why it matters: India delivered the most useful regional template for energy-shock transmission: softer domestic demand, still-strong exports, rising input costs, and margin pressure all in one release.
+Why it matters: India delivered the cleanest regional template for energy-shock transmission: softer domestic demand, still-strong exports, rising input costs, and margin pressure all in one release.
 
 <<EM_WEEK_END>>
-
 
 <<EM_WEEK_BEGIN>>
 DATA WINDOW: 16 Mar 2026 to 20 Mar 2026
