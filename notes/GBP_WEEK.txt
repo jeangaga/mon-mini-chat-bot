@@ -1,5 +1,201 @@
 
+<<GBP_WEEK_BEGIN>>
+DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
+A. GBP WEEK — MACRO SYNTHESIS
+
+The UK week resolved into a much clearer stagflationary configuration. The dominant growth signal was deterioration: March flash PMIs showed a sharp services-led slowdown, new orders fell below 50, employment stayed weak, CBI distributive trades remained deeply negative, GfK confidence fell again, and February retail sales still printed a negative monthly number despite beating a weak consensus. This was not a one-release wobble; it was a broadening soft-demand story across business surveys, consumer sentiment and consumption indicators.
+
+The inflation side did not provide relief. February CPI was only superficially benign: headline held at 3.0%, but core rose to 3.2%, services stayed sticky at 4.3%, and PPI input prices rose even as output prices softened, pointing to margin squeeze rather than clean pipeline disinflation. The supplied file’s hierarchy is clear: the UK entered the oil shock with inflation already sticky and growth already weakening, which leaves the BoE facing a materially harder policy trade-off rather than a clean easing setup.
+
+B. GBP MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+The week’s growth signal deteriorated decisively. Flash composite PMI fell to 51.0 from 53.7, services dropped to 51.2 from 53.9, new orders fell to 49.7 in the JGM detail, CBI distributive trades weakened further to -52, GfK confidence fell to -21 from -19, and retail sales fell 0.4% m/m in February after a strong January. The right read is not one bad print but a broader domestic-demand slowdown.
+
+Labor: -
+Supporting evidence:
+There was no standalone official labour-market release, but the labor signal inside the supplied file still weakened materially. The PMI block explicitly flagged employment at 45.5, and commentary linked softer activity to weaker hiring conditions and lower confidence. That makes labour deterioration survey-led rather than hard-data-led, but still directionally clear.
+
+Inflation: -
+Supporting evidence:
+Inflation remained too sticky for comfort. Headline CPI was unchanged at 3.0%, but core CPI rose to 3.2% against 3.1% expected, services CPI stayed high at 4.3%, and PPI input prices rose while output prices fell, indicating cost pressure was not disappearing cleanly. JGM’s forward framing matters: the real problem is that February did not soften enough before the oil shock, leaving clear upside risk to non-core inflation.
+
+Financial Conditions: -
+Supporting evidence:
+The week’s survey microstructure pointed to tighter effective financial conditions. Company commentary in the PMI block explicitly referenced higher borrowing costs, tighter supply conditions and weaker confidence. That does not show a financial-system break, but it does show a demand environment already being constrained by financing and cost conditions.
+
+Policy Constraint: -
+Supporting evidence:
+This was the key weekly conclusion. The BoE’s trade-off worsened because growth weakened sharply while core and services inflation stayed sticky and oil risk pointed to a renewed rise in non-core inflation. The file repeatedly frames this as a worse, not better, policy mix: weakening activity does not reopen an easy easing path when the inflation side remains active.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 24 MAR 2026
+
+United Kingdom — Flash Composite PMI / Flash Manufacturing PMI / Flash Services PMI (Mar)
+Release Date: 24 Mar 2026 | Local Time: 10:30
+
+Reuters Data
+
+Flash Composite PMI: 51.0 | Prior: 53.7 | Poll: 52.9 | Surprise: -1.90
+Flash Manufacturing PMI: 51.4 | Prior: 51.7 | Poll: 50.1 | Surprise: 1.30
+Flash Services PMI: 51.2 | Prior: 53.9 | Poll: 53.0 | Surprise: -1.80
+
+Professional Market Commentary
+
+Official S&P Global and Reuters both treated this as a stagflationary shock print: activity slowed to a six-month low, services missed badly, and manufacturers faced the steepest rise in input costs since 1992. Your JGM note reinforces the cost side: composite input prices rose 6.4 points to 68.2, the highest in three years; manufacturing input prices reached 70.2; supply conditions tightened significantly; new orders fell to 49.7; and employment remained weak at 45.5. The qualitative company commentary in your note is also important: weaker activity was tied to lower confidence, inflation pressure, higher borrowing costs, reduced travel, and more expensive fuel and energy-intensive raw materials.
+
+Comment — Economist Layer
+
+The internal hierarchy is clear. Manufacturing beat consensus, but services missed sharply and services is the more important domestic-demand signal for the UK. JGM helps clarify why the print is more serious than the headline levels alone suggest: this is not only softer output, it is softer output alongside a major cost squeeze, tighter supply conditions, falling new orders, and weak employment. That combination makes the release genuinely stagflationary rather than merely disappointing. The 49.7 new-orders line is especially important because it suggests the growth slowdown is not just contemporaneous but forward-looking.
+State transition: sharp deterioration.
+
+Context from prior regional live file:
+
+The prior DM live file had only mild UK weakness through the housing channel. This release materially worsens that picture by moving the UK from “soft but still functioning” toward “near-stall with cost shock.”
+
+HF Take — Strategist Layer
+
+This sharply compresses BoE optionality. JGM’s framing is useful here: the policy problem is not just high input costs, but a worsening growth mix under tighter financial conditions. That leaves the BoE facing an ugly configuration where inflation risk is intensifying through energy and raw materials even as demand, hiring, and travel-sensitive activity soften.
+
+United Kingdom — CBI Distributive Trades (Mar)
+Release Date: 24 Mar 2026 | Local Time: 12:00
+
+Reuters Data
+
+CBI Distributive Trades: -52 | Prior: -43
+
+Professional Market Commentary
+
+The official CBI release said momentum in retail remained poor, annual sales volumes fell sharply, and there were no signs of an imminent recovery. Reuters added that the March balance was the weakest since April 2020 and that April expectations remained deeply negative.
+
+Comment — Economist Layer
+
+The important point is not the pandemic-era comparison by itself, which is rhetorically strong. The deeper signal is that the UK consumer sector was already fragile before the full lagged energy shock had appeared in hard data. That is what makes this more than a noisy survey miss.
+State transition: deterioration.
+
+Context from prior regional live file:
+
+The prior DM live file had UK housing as rate-sensitive but not broken. The combination of the flash PMI and the CBI release now pulls the broader domestic-demand bucket into a clearly softer regime.
+
+HF Take — Strategist Layer
+
+This is not the single BoE trigger, but it strongly corroborates the PMI message: demand weakness is broadening just as the inflation problem is becoming harder again.
+
+WEDNESDAY 25 MAR 2026
+
+United Kingdom — CPI / Core CPI / RPI / Services CPI / PPI (Feb)
+Release Date: 25 Mar 2026 | Local Time: 08:00
+
+Reuters Data
+
+Core CPI YY: 3.2% | Prior: 3.1% | Poll: 3.1% | Surprise: 0.10%
+CPI MM: 0.4% | Prior: -0.5% | Poll: 0.4% | Surprise: 0.00%
+CPI YY: 3.0% | Prior: 3.0% | Poll: 3.0% | Surprise: 0.00%
+RPI MM: 0.4% | Prior: -0.5% | Poll: 0.5% | Surprise: -0.10%
+RPI YY: 3.6% | Prior: 3.8% | Poll: 3.7% | Surprise: -0.10%
+RPIX YY: 3.5% | Prior: 3.7%
+CPI Services MM: 0.5% | Prior: -0.3% | Poll: 0.4% | Surprise: 0.10%
+CPI Services YY: 4.3% | Prior: 4.4% | Poll: 4.3% | Surprise: 0.00%
+PPI Input Prices MM NSA: 0.8% | Prior: 0.4% | Revised: 0.3% | Poll: 0.5% | Surprise: 0.30%
+PPI Input Prices YY NSA: 0.5% | Prior: -0.2% | Revised: -0.4% | Poll: 0.4% | Surprise: 0.10%
+PPI Output Prices MM NSA: -0.5% | Prior: 0.0% | Poll: 0.2% | Surprise: -0.70%
+PPI Output Prices YY NSA: 1.7% | Prior: 2.5% | Poll: 2.6% | Surprise: -0.90%
+PPI Core Output MM NSA: -0.8% | Prior: 0.2%
+PPI Core Output YY NSA: 1.9% | Prior: 2.9%
+
+Professional Market Commentary
+
+Official ONS data showed headline CPI unchanged at 3.0%, core CPI rising to 3.2%, and CPI services easing only marginally to 4.3%. ONS highlighted clothing as the main upward force and motor fuels as the main offset, while Reuters stressed that the petrol data still pre-dated the Middle East shock. Your JGM note captures the market takeaway well: mostly inline at the headline level, but core slightly firmer than expected. It also correctly shifts attention to what comes next, namely that non-core inflation is likely to re-accelerate with oil.
+
+Comment — Economist Layer
+
+The signal is stalling disinflation, not renewed progress. Headline was flat, but core ticked up and services remained sticky at 4.3%, still too high for easy BoE comfort. The PPI mix matters too: input prices rose while output prices softened sharply, which points to margin squeeze rather than clean pipeline disinflation. JGM adds an important forward layer: the real issue is not February by itself, but that February did not soften enough before the oil shock. That means the UK enters the next phase with core already slightly ahead and a clear risk that non-core inflation rises as energy feeds through.
+State transition: stabilisation with upside risk.
+
+Context from prior regional live file:
+
+The prior DM live file had already shifted the UK from mild housing softness to a much more difficult post-PMI configuration. February CPI does not repair that. It says the inflation side was already sticky before the March growth shock showed up in surveys.
+
+HF Take — Strategist Layer
+
+For the BoE, this is a poor combination: inflation did not improve enough before the shock, and the March surveys already showed growth weakening sharply. JGM’s framing is useful here because it pushes the interpretation beyond “headline in line”: the more relevant macro conclusion is that core was slightly firmer and the next move in non-core is likely up with oil. That makes the BoE’s policy trade-off worse, not better. In your note’s framing, inflation can plausibly move back toward roughly 3.2% in Q3, with materially worse outcomes in adverse oil scenarios.
+
+FRIDAY 27 MAR 2026
+
+United Kingdom — GfK Consumer Confidence (Mar)
+Release Date: 27 Mar 2026 | Local Time: 01:01
+
+Reuters Data
+
+GfK Consumer Confidence: -21 | Prior: -19 | Poll: -24 | Surprise: 3.0
+
+Professional Market Commentary
+
+The official NIQ/GfK release showed the overall index down two points to -21 in March, with weakness concentrated in expectations for the general economic situation and the major-purchase index. Reuters also highlighted wider anxiety around higher living costs and the Middle East shock.
+
+Comment — Economist Layer
+
+The beat versus poll is less important than the direction. Confidence still fell from -19 to -21, which means the UK consumer softened again even before the full hard-data shock window opens. Cross-checked against the CBI and flash services PMI, the message is consistent rather than contradictory.
+State transition: deterioration.
+
+Context from prior regional live file:
+
+The earlier DM file had already shifted the UK toward a much softer demand picture after the March survey blocks. GfK confirms that this was not just a business-side story; households also turned more cautious.
+
+HF Take — Strategist Layer
+
+For the BoE, this adds another demand-side caution signal. It does not remove inflation risk, but it does make a growth-insensitive hawkish reaction harder to defend.
+
+United Kingdom — Retail Sales / Retail Sales Ex-Fuel (Feb)
+Release Date: 27 Mar 2026 | Local Time: 08:00
+
+Reuters Data
+
+Retail Sales MM: -0.4% | Prior: 1.8% | Revised: 2.0% | Poll: -0.7% | Surprise: 0.30%
+Retail Sales Ex-Fuel MM: -0.4% | Prior: 2.0% | Revised: 2.2% | Poll: -0.8% | Surprise: 0.40%
+Retail Sales YY: 2.5% | Prior: 4.5% | Revised: 4.8% | Poll: 2.1% | Surprise: 0.40%
+Retail Sales Ex-Fuel YY: 3.4% | Prior: 5.5% | Revised: 5.9% | Poll: 2.9% | Surprise: 0.50%
+
+Professional Market Commentary
+
+Official ONS data showed sales volumes falling 0.4% m/m in February after a strong January, with household goods hurt by wet weather and volumes still 0.3% below the pre-pandemic level. Reuters and the ONS both pointed to weather and some January pull-forward effects, while expert commentary largely treated the release as backward-looking relative to the March shock window.
+
+Comment — Economist Layer
+
+The beat versus consensus is real but not the core story. February still showed a negative monthly print, and the January revision-up makes the payback effect more obvious. Read together with CBI and GfK, this looks like a weak consumer entering the shock period from a fragile starting point, not a resilient consumer shrugging it off.
+State transition: continuation of deterioration.
+
+Context from prior regional live file:
+
+The prior DM live file had already shifted the UK from mild housing softness toward a broader demand slowdown after the PMI and CBI blocks. Retail sales reinforce that broader deterioration rather than contradict it.
+
+HF Take — Strategist Layer
+
+The BoE should look through the beat framing and focus on the underlying trend: February was soft, March surveys were softer, and the inflation problem remains alive. That is a difficult policy mix.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: February inflation looked broadly manageable at the headline level, but the underlying mix was already sticky and the March survey/consumer data showed a much weaker growth regime arriving at the same time.
+
+Why it matters: This is not a clean recession signal and not a clean inflation re-acceleration in isolation. It is a harsher configuration in which demand, hiring and confidence soften while core, services and cost pressures remain too firm for easy BoE relief.
+
+Implication: The UK policy bias shifts toward prolonged constraint rather than easy easing, because weaker activity is arriving before inflation has convincingly returned to a benign path.
+
+3 KEY RELEASES TO DIG INTO
+
+United Kingdom — Flash Composite PMI / Flash Manufacturing PMI / Flash Services PMI (24 Mar 2026)
+Why it matters: This was the defining UK release of the week. The stagflationary character came through clearly in the microstructure: services missed sharply, input prices surged, supply conditions tightened, new orders fell below 50, and employment remained weak.
+
+United Kingdom — CPI / Core CPI / RPI / Services CPI / PPI (25 Mar 2026)
+Why it matters: This block shows why the BoE problem worsened. Headline looked manageable, but core was slightly firmer, services stayed sticky, and the PPI mix pointed to margin squeeze rather than clean disinflation just before the oil shock.
+
+United Kingdom — CBI Distributive Trades (24 Mar 2026)
+Why it matters: This release broadened the slowdown beyond business surveys into the consumer sector. It showed retail momentum was already poor and that the household side was entering the shock window from a fragile base rather than from resilience.
+
+<<GBP_WEEK_END>>
 <<GBP_WEEK_BEGIN>>
 DATA WINDOW: 14 Mar 2026 to 20 Mar 2026
 
