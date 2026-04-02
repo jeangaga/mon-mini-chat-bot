@@ -1,4 +1,4 @@
-<<SHEETUSD_BEGIN>>
+<<ARC_USD_BEGIN>>
 UNITED STATES — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 2 Mar 2026 to 19 Mar 2026
@@ -45,8 +45,8 @@ Inflation-constrained resilience with a housing contraction pocket. PPI re-heate
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: whether inflation re-heating broadens into CPI/PCE, or whether housing weakness starts to drag the broader activity and labor mix lower.
-<<SHEETUSD_END>>
-<<SHEETJPY_BEGIN>>
+<<ARC_USD_END>>
+<<ARC_JPY_BEGIN>>
 JAPAN — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -93,13 +93,13 @@ Growth was upgraded and then the policy signal turned more hawkish. The Q4 GDP r
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: do wages and CPI keep the normalization bias alive strongly enough to outweigh softer export momentum and preserve a live next-step BoJ window?
-<<SHEETJPY_END>>
+<<ARC_JPY_END>>
 
 
 
 
 
-<<SHEETAUD_BEGIN>>
+<<ARC_AUD_BEGIN>>
 AUSTRALIA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 6 Mar 2026 to 20 Mar 2026
@@ -146,9 +146,9 @@ Hawkish continuation persisted, but with visibly rising internal resistance. The
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: does sticky Q1 inflation still dominate, or do weaker labour quality and a softer leading pulse force the RBA from hawkish continuation into pause logic?
-<<SHEETAUD_END>>
+<<ARC_AUD_END>>
 
-<<SHEETEUR_BEGIN>>
+<<ARC_EUR_BEGIN>>
 
 EUR — ONE-PAGE MACRO SHEET
 
@@ -196,8 +196,8 @@ The growth shock intensified and the ECB shifted into shock-management optionali
 ENTERING NEXT MONITORING PERIOD
 
 The verification test is whether the euro area remains in “weaker growth, sticky domestic inflation, constrained ECB” or whether incoming spring data soften enough to reopen a genuine easing window.
-<<SHEETEUR_END>>
-<<SHEETGBP_BEGIN>>
+<<ARC_EUR_END>>
+<<ARC_GBP_BEGIN>>
 UNITED KINGDOM — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -247,9 +247,9 @@ Hawkish-hold regime shift. Labour came in firmer than feared but with softer wag
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: whether energy persistence stalls wage and services disinflation enough to keep the BoE in suspended-cut mode.
-<<SHEETGBP_END>>
+<<ARC_GBP_END>>
 
-<<SHEETSEK_BEGIN>>
+<<ARC_SEK_BEGIN>>
 SWEDEN — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -296,9 +296,9 @@ False dawn in hard data, but not in inflation. January GDP, production, and orde
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: does weak hard output persist while five-year inflation expectations remain anchored enough to keep the next Riksbank move biased toward easing?
-<<SHEETSEK_END>>
+<<ARC_SEK_END>>
 
-<<SHEETNOK_BEGIN>>
+<<ARC_NOK_BEGIN>>
 NORWAY — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 24 Feb 2026 to 13 Mar 2026
@@ -345,8 +345,8 @@ Partial inflation reversal. February headline CPI dropped to 2.7% and core to 3.
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: whether sequential core inflation truly cools, or whether oil-sensitive upside risk and sticky monthly core keep Norges Bank on hold well beyond the market’s preferred easing timeline.
-<<SHEETNOK_END>>
-<<SHEETCHF_BEGIN>>
+<<ARC_NOK_END>>
+<<ARC_CHF_BEGIN>>
 SWITZERLAND — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 27 Feb 2026 to 20 Mar 2026
@@ -390,9 +390,9 @@ The domestic regime did not change materially, but the policy emphasis did. The 
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: does softer current activity persist long enough to overwhelm the better KOF forward signal, while CHF safe-haven pressure forces the SNB from verbal FX optionality into action?
-<<SHEETCHF_END>>
+<<ARC_CHF_END>>
 
-<<SHEETCAD_BEGIN>>
+<<ARC_CAD_BEGIN>>
 CANADA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 15 Feb 2026 to 13 Mar 2026
@@ -439,11 +439,11 @@ Demand deterioration accelerated. Trade missed badly, wholesale and manufacturin
 ENTERING NEXT MONITORING PERIOD
 
 Key verification test: does labour stabilize quickly, or does another weak employment print confirm that Canada has entered a sustained demand-led easing phase?
-<<SHEETCAD_END>>
+<<ARC_CAD_END>>
 
 *******************************************************************************
 
-<<SHEETCNH_BEGIN>>
+<<ARC_CNH_BEGIN>>
 CHINA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -493,10 +493,10 @@ The Jan-Feb activity bundle delivered the strongest upside growth surprise in th
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether better nominal tone can convert into labor and private-demand confirmation before the oil shock delays the next easing step for longer than markets had assumed.
-<<SHEETCNH_END>>
+<<ARC_CNH_END>>
 
 
-<<SHEETBRL_BEGIN>>
+<<ARC_BRL_BEGIN>>
 BRAZIL — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -546,9 +546,9 @@ The policy regime shifted to constrained, defensive easing. Copom started the cy
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether cleaner inflation can overpower the oil-shock constraint fast enough for Copom to move from defensive easing to a more normal easing cadence.
-<<SHEETBRL_END>>
+<<ARC_BRL_END>>
 
-<<SHEETMXN_BEGIN>>
+<<ARC_MXN_BEGIN>>
 MEXICO — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 23 Feb 2026 to 20 Mar 2026
@@ -595,9 +595,9 @@ The industrial weakness reasserted itself decisively. January industrial output 
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether core disinflation broadens into a trend before the industrial slump and oil-shock pass-through force Banxico into an even harder growth-versus-credibility trade-off.
-<<SHEETMXN_END>>
+<<ARC_MXN_END>>
 
-<<SHEETZAR_BEGIN>>
+<<ARC_ZAR_BEGIN>>
 SOUTH AFRICA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -647,9 +647,9 @@ The regime shifted from near-term easing candidate to prolonged-hold risk. CPI r
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether South Africa’s stronger starting point can survive the oil shock without losing the inflation progress that was supposed to open the easing door.
-<<SHEETZAR_END>>
+<<ARC_ZAR_END>>
 
-<<SHEETINR_BEGIN>>
+<<ARC_INR_BEGIN>>
 INDIA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 27 Feb 2026 to 20 Mar 2026
@@ -696,9 +696,9 @@ The inflation pipeline began to show up in consumer prices. CPI rose to 3.21%, W
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether stronger WPI and higher oil start lifting CPI fast enough to force RBI to admit that the perfect-hold regime is no longer easing-friendly.
-<<SHEETINR_END>>
+<<ARC_INR_END>>
 
-<<SHEETKRW_BEGIN>>
+<<ARC_KRW_BEGIN>>
 SOUTH KOREA — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 19 Feb 2026 to 20 Mar 2026
@@ -742,8 +742,8 @@ The GDP revision improved tone but not regime. Q4 was still a contraction quarte
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether Korea can turn strong annual export and industrial data into durable domestic sequential growth before the oil shock rebuilds the inflation constraint that February had temporarily removed.
-<<SHEETKRW_END>>
-<<SHEETTWD_BEGIN>>
+<<ARC_KRW_END>>
+<<ARC_TWD_BEGIN>>
 TAIWAN — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 16 Feb 2026 to 20 Mar 2026
@@ -784,8 +784,8 @@ The post-GDP data sweep confirmed that the boom was still intact but moving from
 ENTERING NEXT MONITORING PERIOD
 
 Taiwan enters the next period as the clearest AI/export outperformer in EM, but also as one of the most concentrated. The core question is whether external-tech demand remains strong enough to justify the CBC’s new growth forecast, because the domestic side is still too weak to cushion any external slowdown. The policy question is secondary but important: whether the energy shock is large and persistent enough to move inflation from benign to mildly constraining and pull the CBC’s hawkish asymmetry closer to action.
-<<SHEETTWD_END>>
-<<SHEETPLN_BEGIN>>
+<<ARC_TWD_END>>
+<<ARC_PLN_BEGIN>>
 POLAND — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -829,9 +829,9 @@ Post-cut data confirmed the domestic story had improved further: CPI 2.1%, core 
 ENTERING NEXT MONITORING PERIOD
 
 The key verification test is whether Poland’s domestic disinflation momentum is strong enough to absorb the imported-energy shock without forcing the NBP to pause the new easing cycle.
-<<SHEETPLN_END>>
+<<ARC_PLN_END>>
 
-<<SHEETTRY_BEGIN>>
+<<ARC_TRY_BEGIN>>
 TURKEY — ONE-PAGE MACRO SHEET
 
 Rolling dashboard window: 9 Mar 2026 to 20 Mar 2026
@@ -875,4 +875,4 @@ The closing period confirmed that the crisis was accelerating rather than stabil
 ENTERING NEXT MONITORING PERIOD
 
 The decisive question is no longer whether Turkey can resume gradual easing, but whether it can preserve external stability without emergency measures. The next period needs to answer whether reserves can stop falling, whether oil pressure eases, and whether the CBT can defend TRY with tighter liquidity alone rather than a more disruptive policy reset.
-<<SHEETTRY_END>>
+<<ARC_TRY_END>>
