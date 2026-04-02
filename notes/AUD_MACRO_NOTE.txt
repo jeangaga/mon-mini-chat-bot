@@ -1,169 +1,139 @@
-<<LIVE_AUD_MACRO_BEGIN>>
-AUSTRALIA (AUD) MACRO — LIVE MONTH VIEW (JANUARY 2026)
+<<AUD_MACRO_NOTE_BEGIN>>
 
-STATUS: Live as of JAN 28 close
+AUD — MACRO NOTE
 
-Macro regime lens (AUD): AUD is trading the intersection of China-linked external pulse + domestic disinflation path + labor-market tightness. In January, the data mostly did one thing: re-price “RBA can stay patient, but the bar to cut is still higher than the market wants when the labor market re-accelerates and services reheat.”
+As of: 31 March 2026
+Horizon: 4-week impulse filter into a 3–6 month scenario update; latest late-March data carry highest tactical weight, with January–mid-March used as regime anchor and public market narrative used to refine the near-term reaction-function map.
 
-JAN 28 — RELEASED (INFLATION: HARD CONSTRAINT CHECK)
-AUSTRALIA — CPI q/q (Q4)
+4-WEEK MACRO SIGNAL BOARD
 
-Actual 0.6% vs Cons 0.6% vs Prior 1.3%
-HF comment: Dominant signal: disinflation continues, but this is not the dovish “all clear” — it’s a confirmation that the inflation level is improving while the composition remains the real battleground (services/sticky vs tradables). Secondary: the big drop vs prior means the RBA’s restrictive stance is biting, but Q4 prints in Australia can be affected by seasonal/one-offs; the market will ask whether this is repeatable into H1. Reaction function: this keeps the RBA in “wait-and-verify” mode: it removes the need to sound hawkish, but it doesn’t force a near-term cut unless labor demand breaks. Transmission: front-end rates stable-to-bullish; AUD impact depends on how much is already priced—typically AUD-supportive vs cut-heavy expectations, but capped if global risk softens.
+Growth: ↓ Forward pulse rolled over; services-led contraction risk is now explicit
+Labor: ↓ Softening in quality, not collapse
+Inflation: ↑ Headline re-acceleration risk has moved center-stage; core still sticky
+Financial cond: ~ Restrictive in rate-sensitive channels, but market debate on “how restrictive” has reopened
+Policy bias: Hike bias retained; May hike now modal public-market base case, terminal still disputed
+Political risk: ~ External energy shock is now part of the macro transmission mechanism
 
-AUSTRALIA — CPI y/y (Q4)
+Executive Summary
 
-Actual 3.6% vs Cons 3.6% vs Prior 3.2%
-HF comment: Dominant signal: inflation is still above comfort, and the y/y drift up vs prior is exactly why the RBA doesn’t pivot on one good q/q print. Secondary: y/y can be base-effecty; professionals care more about trimmed/weighted median momentum. Reaction function: reinforces the “RBA needs proof that underlying inflation is trending down, not just headline.” Transmission: limits aggressive front-end rally; AUD supported by “cuts not imminent.”
+The main change in the 4-week impulse is not that Australia has stopped being hawkish; it is that the hawkish story has become materially messier and more market-sensitive. The dominant market narrative has shifted from “Australia as the clean DM hawkish outlier” toward “Australia in a stagflationary bind”: inflation risk has re-intensified through the Middle East energy shock and possible second-round pass-through, while the domestic forward-growth pulse has simultaneously weakened sharply through the March PMI collapse and a severe deterioration in consumer confidence. That is now the public tape, not just an internal macro interpretation.
 
-AUSTRALIA — RBA Weighted Median CPI q/q (Q4)
+What has not changed is the inflation constraint. The RBA still sees inflation as too high, capacity pressure as real, and policy as needing to remain biased toward restraint. But the market narrative around policy has changed in an important way. The debate is no longer cleanly “plateau at 4.10% or hike once more if data surprise.” The public tape has moved toward May hike as the modal next step, with the real disagreement now around whether that move is terminal or whether second-round fuel pass-through and a possibly higher neutral-rate backdrop force a more extended tightening phase. That is a materially more hawkish market narrative than the one embedded in the prior draft.
 
-Actual 0.9% vs Cons 0.8% vs Prior 1.0%
-HF comment: Dominant signal: underlying inflation is stickier than the headline narrative (upside vs consensus). This is the print that matters for the reaction function because it’s closest to the RBA’s “true neutral vs restrictive” test in a services-heavy inflation environment. Secondary: one quarter doesn’t make a trend, but this blocks any clean “disinflation is done” story. Reaction function: cuts get pushed out unless subsequent labor and services momentum soften. The RBA can acknowledge progress, but it cannot endorse easing with this underlying momentum. Transmission: front-end rates cheapen vs dovish positioning; AUD tends to be supported on relative rates.
+The binding constraint is therefore twofold: first, inflation may not just remain sticky but may re-accelerate through headline and then core channels; second, growth and demand may already be weakening enough to make each additional hike more dangerous. That is the catch-22. For rates and FX, the market narrative is now more explicit: the front end is still anchored by Q1 trimmed mean and May pricing, while AUD is no longer a pure hawkish-rates trade and is increasingly framed as a dual-driver currency — supported by relative rates, but vulnerable to growth, China, and broader risk sentiment. The base case is no longer plateau-first. Base case is May hike as the modal near-term market outcome, with the terminal debate unresolved.
 
-Note: Your dataset cuts off after “RBA Weighted Medn CPI y/y …”. I’m not adding numbers that aren’t shown.
+Growth / Activity
 
-JAN 22 — RELEASED (LABOR + PMI: THE “DOMESTIC MOMENTUM” TEST)
-AUSTRALIA — Employment change (Dec)
+The growth regime has moved from backward-looking validation into a much weaker forward pulse, and the market narrative now treats that deterioration as serious. The strongest ex-post support for the RBA’s hiking logic was the Q4 GDP beat, which confirmed that late-2025 growth had indeed been running above potential. But that is no longer the operative tactical signal. The operative signal is that the forward pulse has deteriorated through multiple channels at once: leading momentum weakened again, construction and approvals stayed soft, consumer confidence collapsed, and March flash PMIs broke decisively lower.
 
-Actual +65.2k vs Cons +30.0k vs Prior -28.7k
-HF comment: Dominant signal: labor demand is re-accelerating hard. This is first-order because Australia is a wage/services inflation economy: strong employment means the “last mile” inflation fight remains alive. Secondary: monthly jobs are noisy, but the direction + magnitude matters because it reverses the “labor market is cooling” narrative. Reaction function: pushes the RBA away from any near-term easing comfort; raises the threshold for “disinflation is sufficient.” Transmission: rates selloff risk at the front-end; AUD supported on rates differential, especially vs currencies where labor is weakening.
+The hierarchy matters. Manufacturing near 50 is not the binding issue. The key development is that services fell into contraction, dragging the composite to 47.0, with weaker new orders and softer confidence. That is particularly important in Australia because the old hawkish narrative depended on domestic demand and services resilience continuing to hold the floor while housing and construction remained the weak pocket. Once services join the weak side, the story shifts from “transmission is contained” to “transmission may be broadening.”
 
-AUSTRALIA — Unemployment rate (Dec)
+The market narrative has now started to call this what it is: a stagflationary growth scare rather than a clean cyclical slowdown. That does not mean recession is the base case. The economy still has residual support from public demand and a labor market that remains firm in level terms. But it does mean the old “economy still comfortably above potential” framing no longer deserves primacy. The floor is weaker, the demand mix is more fragile, and confidence has rolled over hard enough that the burden of proof has shifted toward stabilization rather than resilience.
 
-Actual 4.1% vs Cons 4.4% vs Prior 4.3%
-HF comment: Dominant signal: labor market still tight; unemployment fell meaningfully vs consensus. Secondary: participation can distort, but here participation didn’t surge (see below), so the fall in unemployment looks “real.” Reaction function: reinforces a restrictive hold bias: RBA cannot claim slack is opening fast enough to remove wage pressure risk. Transmission: front-end rates less dovish; AUD supported.
+The clearest weak pocket remains rate-sensitive domestic demand — housing, construction, mortgage-sensitive sectors — but that is no longer the whole story. The new risk is that weakness has spread into broader services demand and household confidence. That is the central growth change of the last 2–4 weeks.
 
-AUSTRALIA — Participation rate (Dec)
+Labor / Employment
 
-Actual 66.7% vs Cons 66.8% vs Prior 66.7%
-HF comment: Dominant signal: participation didn’t “explain away” the unemployment move. Secondary: stable participation makes the jobs/unemployment combo more credible. Reaction function: strengthens the labor-tightness read-through.
+Labor has moved from clearly tight to compositionally softer, and that nuance matters more now because the market is increasingly asking whether policy is overtightening into labor deterioration. The labor market is still firm enough in level terms to prevent a dovish pivot narrative. But it no longer provides clean cover for a straightforward multi-hike extension.
 
-AUSTRALIA — S&P Global PMI Flash (Jan): Manufacturing
+The sequence remains important. December labor re-acceleration and the still-low unemployment rate were central to opening the hiking cycle. By March, the texture had changed. February employment still rose strongly, but full-time employment fell, part-time surged, hours worked declined, and unemployment rose to 4.3%. That is not collapse. It is an early-softening signal. It says the labor market is no longer uniformly tight across the quality metrics that matter for wage and services inflation persistence.
 
-Actual 51.6 vs Prior 52.4
-HF comment: Dominant signal: manufacturing remains in modest expansion; slight easing is second-order. Secondary: in Australia, manufacturing is less binding than services for inflation dynamics. Reaction function: limited.
+The public tape broadly treats this correctly: labor is still firm in level, softer in quality. That means labor has not yet become the dominant reason to pause, but it has become an increasingly important reason not to extrapolate the hawkish path too easily. It also means the market is focusing less on one payroll headline and more on whether the labor mix continues to deteriorate alongside weaker confidence and softer services demand.
 
-AUSTRALIA — S&P Global PMI Flash (Jan): Services
+The key labor implication for policy is not that the RBA has lost the labor argument altogether. It is that labor no longer resolves the trade-off in the RBA’s favor. If the next labor prints show unemployment drifting higher and the full-time / hours mix staying weak, labor becomes a real support for plateau logic later in the cycle. If labor re-stabilizes while inflation remains hot, the hawkish market narrative regains momentum quickly.
 
-Actual 51.1 vs Prior 56.0
-HF comment: Dominant signal: services momentum cooled sharply vs the prior flash level (large step-down). Secondary: services PMI is the closest activity proxy for the RBA’s domestic demand/inflation linkage; a drop matters if it persists. Reaction function: this is the main offset to the hot labor print—keeps the RBA from sounding hawkish, but the labor data still dominates near-term policy risk. Transmission: reduces AUD upside tail from jobs; supports rates duration.
+Inflation
 
-AUSTRALIA — S&P Global Composite PMI Flash (Jan)
+Inflation remains the binding macro constraint, but the market narrative around inflation has become more hawkish than the prior note allowed. The old framing was “headline disinflation has improved, but core remains sticky.” That is still true as a backward-looking statement. It is no longer sufficient as a market-facing statement.
 
-Actual 51.0 vs Prior 55.5
-HF comment: Dominant signal: broad activity pulse cooled; confirms services slowdown. Secondary: still above 50 → not recessionary, more “cooling at the margin.” Reaction function: helps the RBA maintain patience.
+The public tape now treats the energy shock not as a tail but as a central risk to the policy path. Headline inflation is expected by some major domestic institutions to re-accelerate materially through mid-2026, and the core debate is whether that energy impulse stays mostly in headline or bleeds into broader non-energy prices. That second-round pass-through question is now the key inflation narrative. The market is not simply waiting to confirm that inflation is sticky; it is actively debating whether inflation is about to get worse again before growth has had time to absorb the prior tightening.
 
-JAN 21 — RELEASED (CYCLE SIGNAL: LEADING INDICATORS)
-AUSTRALIA — Composite Leading Index m/m (Dec)
+That is why February CPI softness was not meaningful policy clearance. It was pre-shock, backward-looking, and still left trimmed mean sticky enough to keep the RBA uneasy. The unresolved issue is no longer just whether core is slowly improving. It is whether Q1 trimmed mean confirms that the disinflation process has stalled or reversed in practice. That is why the late-April CPI release has become the single most important domestic macro catalyst.
 
-Actual -0.02% vs Prior 0.08%
-HF comment: Dominant signal: forward momentum is softening, not collapsing. Secondary: leading indices can be model-driven/noisy, but the sign flip supports the “growth is slowing” narrative. Reaction function: slightly dovish at the margin—only relevant if labor subsequently weakens. Transmission: modest support for rates; AUD impact limited.
+A further nuance the draft had underweighted is that not all energy scenarios are the same. A pure price shock is straightforwardly inflationary. A genuine fuel shortage could eventually become demand-destructive and therefore less inflationary further out. That bifurcation matters because it means the inflation path is not mechanically one-way, even if the near-term bias has clearly shifted upward.
 
-JAN 8 — RELEASED (EXTERNALS: AUD FUNDING / TERMS-OF-TRADE TONE)
-AUSTRALIA — Balance on Goods (Nov)
+So the correct inflation hierarchy now is:
 
-Actual 2,936M vs Cons 4,900M vs Prior 4,353M
-HF comment: Dominant signal: external surplus compressed materially (big miss). For AUD, the external account is a slow-moving anchor: weaker goods balance reduces the cushion that typically supports AUD in risk-off. Secondary: monthlies can swing with commodity prices and shipment timing; the market cares whether this is trend or one-off. Reaction function: not an RBA driver directly, but if external income weakens it can tighten overall financial conditions and lower “true neutral” effective stance. Transmission: AUD slightly negative via terms-of-trade optics; rates impact second-order.
+headline re-acceleration risk has moved center-stage,
+core remains sticky and may rise further through pass-through,
+the scale of second-round effects is still unresolved,
+and policy cannot assume the inflation problem is fading on its own.
 
-AUSTRALIA — Goods/Services Exports (Nov)
+Last Central Bank Meeting + Current Policy Assumption
 
-Actual +4.3% (prior -2.9%)
-HF comment: Dominant signal: export volumes rebound; helpful for growth. Secondary: the key is whether prices (ToT) confirm—without that, AUD support is limited. Transmission: mild AUD support, but offset by trade balance miss.
+The last RBA meeting, on 17 March 2026, delivered a 25bp hike to 4.10% on a 5–4 split. The move itself mattered, but the reaction function mattered more. The majority still judged inflation and domestic capacity pressure strong enough to warrant further tightening. The minority judged the growth and uncertainty side serious enough to justify holding. That split is the clearest expression of the current policy bind.
 
-AUSTRALIA — Goods/Services Imports (Nov)
+The market interpretation of that meeting has evolved. Initially, the split could be read as “hawkish but close to peak.” The newer public tape is more nuanced. It still reads the split as evidence of rising internal resistance, but it does not interpret it as a clean plateau signal. Instead, it reads it as a timing disagreement inside a still-hawkish reaction function, with May remaining very much live and perhaps now the modal next step depending on Q1 inflation.
 
-Actual +2.4% (prior +0.2%)
-HF comment: Dominant signal: domestic demand/import pull is firmer, which narrows the balance. Secondary: can be capex-related (less inflationary) or consumption-related (more inflationary); data here doesn’t split it. Reaction function: if import growth is demand-led, it aligns with “sticky domestic demand.” Transmission: trade balance negative; inflation implications ambiguous.
+A further nuance now matters: the debate over whether policy is clearly restrictive has reopened. If neutral has drifted higher — because inflation expectations, energy risk, or global rate structures have shifted — then 4.10% may not be delivering as much restraint as the market previously assumed. That makes the policy path more dangerous in both directions: more hikes may be needed to regain control, but those hikes may hit an economy that is already visibly weakening in the forward indicators.
 
-JAN 7 — RELEASED (HOUSING/CONSTRUCTION + MONTHLY CPI SIGNALS)
-AUSTRALIA — Building Approvals (Nov)
+Current policy assumption
 
-Actual +15.2% vs Cons +2.0% vs Prior -6.1%
-HF comment: Dominant signal: housing pipeline re-accelerated sharply. This matters because housing is a real economy + services inflation channel (rents, construction costs, domestic demand). Secondary: approvals are volatile and can be policy/seasonality-sensitive; market will want follow-through in commencements and prices. Reaction function: on its own, not enough to move the RBA—but combined with tight labor it reinforces “financial conditions are not restrictive enough to crush demand.” Transmission: AUD mildly supportive via growth; rates less dovish.
+Base case has shifted. It is no longer plateau first at 4.10%. The public-market base case is now May hike as the modal near-term outcome, with the more important disagreement centered on terminal rate rather than on whether the RBA hikes once more. A more dovish path would require a softer-than-expected Q1 trimmed mean, further labor-quality deterioration, and evidence that the March PMI / confidence shock is not a one-off but a broader demand rollover. A more hawkish path would require visible second-round fuel pass-through into core, inflation expectations pressure, and evidence that current settings are not sufficiently restrictive to bring inflation back to target. The reaction function remains inflation-dominant, but growth, labor quality, and the level of restrictiveness now matter much more than they did a month ago.
 
-AUSTRALIA — Building Approvals y/y (Nov)
+Rates / FX / Financial Conditions
 
-Actual +6.4% vs Cons +4.4%
-HF comment: Confirms the acceleration at trend level. Second-order but supportive of the same narrative.
+The front end is now trading a much more explicit market narrative than before. The first question is May. The second question is no longer “then plateau or cut later?” but “is May terminal, or is this the start of a more extended higher-for-longer phase?” That is an important change. The terminal debate is live, with public views spanning from one more hike to a materially higher peak. That means the rates market is not debating direction so much as degree.
 
-AUSTRALIA — Monthly CPI m/m (Nov)
+What matters for repricing is clear. Q1 trimmed mean is the binding domestic print. Evidence of second-round pass-through matters almost as much. Labor quality, services stabilization, and confidence matter as constraints rather than primary drivers. In other words, the front end is still trading inflation first — but it is no longer ignoring the growth cost of doing so.
 
-Actual 0.00% vs Cons 0.30% vs Prior 0.00%
-HF comment: Dominant signal: near-term inflation momentum looked benign in the monthly gauge. Secondary: monthly CPI is noisy and not the RBA’s primary target for decisions (they look through). Reaction function: helps cap hawkish tails, but not sufficient versus underlying measures.
+For FX, the market narrative has also become more two-sided. AUD still has structural support from relative rates and from the fact that the RBA remains more hawkish than much of DM. But the public tape is now explicit that AUD is not trading as a pure rates-differential currency. It is increasingly a dual-driver currency: relative-rate support on one side, and growth / China / risk-sentiment sensitivity on the other. That means AUD can still outperform when delayed easing and inflation persistence dominate, but it weakens quickly when the market shifts toward global risk aversion, weaker domestic demand, or softer China-linked growth expectations.
 
-AUSTRALIA — Monthly CPI y/y (Nov)
+There is also an underappreciated nuance here: AUD strength itself can partly offset tradable inflation, acting as a form of “tightening in stealth.” The market does not treat that as a substitute for rate hikes, but it does treat it as a partial offset in the inflation equation. That should not be overstated, but it does complicate a one-way inflation pass-through narrative.
 
-Actual 3.40% vs Cons 3.70% vs Prior 3.80%
-HF comment: Dominant signal: headline disinflation continued. Secondary: if underlying measures don’t follow, the RBA won’t pivot. Transmission: supports duration; AUD impact via rates.
+Financial conditions remain restrictive mainly through housing, construction, mortgage-sensitive demand, and confidence. There is still no sign of generalized funding stress. The more interesting question now is not whether financial conditions are tight somewhere. It is whether the RBA itself believes overall settings are tight enough.
 
-AUSTRALIA — Trimmed Mean CPI m/m SA (Nov)
+Political / Policy Events
 
-Actual 0.30% vs Cons 0.25% vs Prior 0.30%
-HF comment: Dominant signal: underlying inflation momentum did not ease (upside vs consensus, unchanged vs prior). This is the real “tension print” against benign headline monthly CPI. Reaction function: keeps the RBA cautious: headline good news doesn’t translate to cuts if trimmed mean is sticky. Transmission: limits front-end rally; AUD supported on relative rates.
+Politics now matters mainly through the external energy and trade channel, not through domestic political instability. There has been no regime-changing domestic fiscal or governance event that alters the base case directly. The macro-relevant policy channel is external: the Middle East conflict has become part of the Australian inflation and policy transmission mechanism.
 
-AUSTRALIA — Trimmed Mean CPI y/y SA (Nov)
+That matters because the shock is not just geopolitical noise. It directly affects fuel, inflation expectations, global financial conditions, and the RBA’s own estimate of how restrictive policy needs to be. In that sense, political risk is no longer merely a tail. It is now embedded in the macro narrative via the inflation channel.
 
-Actual 3.2% vs Cons 3.3% vs Prior 3.3%
-HF comment: Underlying is slowly improving y/y, but not collapsing—still consistent with “restrictive hold.”
+A smaller but still relevant domestic policy nuance is the fuel excise mitigation effect. It may cushion near-term headline inflation somewhat, but it does not solve the trimmed-mean and second-round pass-through problem. So it affects optics more than the core policy constraint.
 
-AUSTRALIA — Weighted Median CPI m/m SA (Nov)
+5 Key Releases
 
-Actual 0.40% vs Prior 0.30%
-HF comment: Dominant signal: underlying breadth firmed sequentially. Second-order but reinforces “sticky core.”
+S&P Global Flash PMIs (23 March 2026)
+This was the defining growth/narrative shock. Services fell into contraction, the composite dropped to 47.0, and the public tape moved from “Australia still resilient” to explicit stagflationary-growth-scare language.
+RBA Cash Rate Decision / 5–4 Split (17 March 2026)
+The hike to 4.10% confirmed the hawkish reaction function, but the split revealed rising internal resistance. Market interpretation shifted from “still hiking” toward “still hiking, but now in a much more contested policy environment.”
+Employment / Unemployment / Participation (19 March 2026)
+Headline employment held up, but full-time jobs fell, part-time surged, hours weakened, and unemployment rose to 4.3%. This was the first meaningful labor-quality warning against extrapolating the hawkish cycle too cleanly.
+February CPI / Trimmed Mean (25 March 2026)
+The print looked slightly softer, but it was pre-shock and did not provide policy relief. It mattered less for what it said about February than for what it failed to say about the post-shock inflation path the market now cares about.
+Kent communication on neutral / pass-through / conflict dynamics (25–26 March 2026)
+This was the key policy-narrative nuance. It put second-round pass-through risk and uncertainty about the effective restrictiveness of current policy squarely into the public record, materially complicating any plateau-at-4.10% story.
 
-AUSTRALIA — Weighted Median CPI y/y SA (Nov)
+ARC
 
-Actual 3.40% (no consensus shown)
-HF comment: Level still too high for comfort; supports patience.
+Data window: 5 Jan 2026 to 23 Jan 2026
+Pre-hike evidence accumulated but did not fully resolve the regime. Headline disinflation improved, yet underlying inflation stayed in a grey zone while labour re-tightened and PMIs accelerated. The macro mix shifted away from “possible pause” toward “hike increasingly hard to avoid,” with activity and labour doing most of the work.
 
-JAN 5 — RELEASED (SURVEY CONFIRMATION)
-AUSTRALIA — S&P Global Services PMI Final (Dec)
+Data window: 26 Jan 2026 to 6 Feb 2026
+Inflation persistence resolved the grey zone upward and the RBA opened the hiking cycle. Q4 trimmed mean beat, the February hike to 3.85% was unanimous, and Bullock’s language framed the economy as above potential with financial conditions still somewhat accommodative. Australia became the clear DM policy outlier: not pausing, not cutting, but tightening.
 
-Actual 51.0 vs Prior 51.1
-HF comment: Steady expansion; low signal.
+Data window: 15 Feb 2026 to 6 Mar 2026
+The post-hike assessment validated the RBA’s logic but also revealed early transmission. Q4 GDP beat and core inflation stayed sticky enough to keep May as the base case, while labour remained stable rather than breaking. At the same time, construction, approvals, credit, and the external sector softened, establishing the first real “transmission starting” phase.
 
-AUSTRALIA — S&P Global Composite PMI Final (Dec)
+Data window: 6 Mar 2026 to 20 Mar 2026
+Hawkish continuation persisted, but with visibly rising internal resistance. The RBA hiked again to 4.10% on domestic demand-versus-supply grounds, yet the vote narrowed to 5–4, the leading index weakened for a second month, and labour quality deteriorated despite a strong employment headline. The regime remained hawkish, but over-tightening risk became the dominant question.
 
-Actual 51.1 vs Prior 51.0
-HF comment: Confirms modest growth, not overheating.
+Data window: 23 Mar 2026 to 31 Mar 2026
+The regime shifted in texture rather than in direction. The March flash PMI collapse — led by services falling into contraction and the composite dropping to 47.0 — introduced a genuine growth scare, while the public market tape simultaneously upgraded the inflation threat from tail risk to central risk through energy pass-through and possible second-round effects. Australia moved from “clean hawkish outlier” to “stagflationary hawkish bind,” with May hike now the modal public-market call but terminal rate still unresolved.
 
-JAN 1 — RELEASED (SURVEY START POINT)
-AUSTRALIA — S&P Global Manufacturing PMI Final (Dec)
+Trigger Map
 
-Actual 52.2 vs Prior 51.6
-HF comment: Manufacturing improved into year-end. Secondary for RBA; helps “soft landing” narrative.
+1. More dovish / easier policy / plateau / later cuts pulled forward
+A softer-than-feared Q1 trimmed mean, further labor-quality deterioration, continued weak services PMIs, and confidence staying deeply depressed would force the plateau narrative back to the center. The market consequence would be front-end rally, lower terminal pricing, and AUD underperformance through the growth/risk channel.
 
-MONTH SYNTHESIS — AUD (JANUARY 2026)
-What actually mattered
+2. Hold-longer / mildly hawkish reweighting
+If Q1 trimmed mean stays sticky enough to validate May, but growth indicators stabilize rather than collapse, the RBA delivers one more hike and then holds for longer. The market consequence would be firmer front-end pricing, delayed easing expectations, and selective AUD support through relative rates.
 
-RBA constraint-set didn’t clear: Headline CPI cooled, but underlying (weighted median / trimmed) stayed sticky enough to block an early cut narrative.
+3. More hawkish / extended tightening phase
+Visible second-round pass-through into non-energy core, rising inflation expectations, renewed AUD weakness importing inflation, or evidence that current settings are not truly restrictive would push the market toward a higher terminal-rate narrative. That would validate the more hawkish bank calls and keep AUD supported through rates even as domestic growth risk worsens.
 
-Labor re-accelerated (jobs + unemployment surprise): this is the key reason the RBA can’t pivot even with decent headline inflation.
+Bottom Line
 
-Activity pulse cooled late-month (PMI flash): provides the main offset to the labor heat, supporting “patient hold” rather than renewed hawkishness.
+Australia is no longer a clean hawkish-outlier story; it is now a stagflationary hawkish bind. The market narrative has become more explicit and more hawkish than the prior draft: May hike is now the modal public-market view, even as the growth side has deteriorated sharply. The real disagreement is no longer whether the RBA can tighten once more, but how far beyond that it may have to go if second-round pass-through becomes visible and policy is judged less restrictive than assumed. AUD still has relative-rate support, but it is now much more clearly a two-sided rates-plus-risk currency. Base case: May hike is now the modal outcome, with the terminal debate unresolved between one-more-and-hold and a more extended higher-for-longer phase.
 
-What did not
-
-Manufacturing PMI levels (positive but not binding).
-
-Leading index alone (only matters if labor cracks).
-
-Trade balance swing without confirmation of trend.
-
-Reaction-function shift (RBA)
-
-January locked in a high bar for cuts: the RBA can acknowledge progress, but with tight labor + sticky underlying inflation, it must keep the restrictive stance credible.
-
-The only path to cuts is clear slack creation (jobs/unemployment) and continued easing in underlying inflation prints.
-
-AUD transmission summary
-
-Rates channel dominates AUD here: sticky underlying + strong labor = less dovish pricing → AUD supported on relative differentials.
-
-External/trade softness is a tail risk amplifier: if global risk or China turns, a weaker external cushion makes AUD more vulnerable.
-
-Working AUD regime call (end-Jan):
-“Disinflation is real, but not decisive; labor keeps the RBA patient and the market honest. AUD behaves like a rates-differential currency with a China/risk overlay.”
-
-<<LIVE_AUD_MACRO_END>>
+<<AUD_MACRO_NOTE_END>>
