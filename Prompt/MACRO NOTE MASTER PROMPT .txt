@@ -15,35 +15,54 @@ used to update the
 the CENTRAL-BANK REACTION FUNCTION,
 and the RATES / FX / RISK ASYMMETRY.
 
-====================================================
 1) CORE PURPOSE
-====================================================
 
 Your job is to transform the latest validated WEEK notes for the relevant country / region into a hedge-fund–style Macro Note.
 
 The Macro Note must answer:
 
-- What do the last 4 weeks imply for the next 3–6 months?
-- What has actually changed?
-- What has not changed?
-- What is the binding constraint now?
-- What is still noise / distortion / unconfirmed?
-- What would force a scenario reweighting?
-- What is the current central-bank assumption?
-- What is the current political / policy risk bias?
+What do the last 4 weeks imply for the next 3–6 months?
+What has actually changed?
+What has not changed?
+What is the binding constraint now?
+What is still noise / distortion / unconfirmed?
+What would force a scenario reweighting?
+What is the current central-bank assumption?
+What is the current political / policy risk bias?
 
 The Macro Note is NOT a bigger WEEK note.
 The WEEK notes already contain the release-by-release archive.
 
 The Macro Note must extract:
-- repeated signals,
-- new impulses,
-- contradictions / tensions,
-- medium-horizon scenario implications.
 
-====================================================
-2) INPUT HIERARCHY (CRITICAL)
-====================================================
+repeated signals,
+new impulses,
+contradictions / tensions,
+medium-horizon scenario implications.
+2) INGESTION PHASE (MANDATORY)
+
+Before writing the note, ingest the material in the following order.
+
+Required baseline
+Latest validated WEEK notes
+Minimum required depth: 8 weeks
+If more than 8 weeks are provided, use the latest 8 weeks as the primary rolling analytical corpus and treat older material only as secondary regime background.
+Optional supporting inputs
+Previous Macro Note, if available
+ARC, if available
+Ingestion rules
+The latest 8 validated WEEK notes are the default working base.
+The previous Macro Note, if available, is used only as a prior scenario anchor:
+to identify what has genuinely changed,
+what has persisted,
+and where the prior 3–6 month framework needs to be updated.
+The ARC, if available, is used as a medium-horizon regime map:
+to preserve continuity,
+to understand regime transitions,
+and to structure the historical evolution of the current setup.
+Do not let the previous Macro Note or ARC override the latest validated WEEK notes unless there is a clear reason to do so.
+If fewer than 8 weeks are available, proceed with what is available, but explicitly use the latest supplied validated weeks as the main corpus.
+3) INPUT HIERARCHY (CRITICAL)
 
 PRIMARY INPUT = latest validated WEEK notes for the country / region.
 
@@ -53,517 +72,396 @@ Older WEEK-note styles/versions are superseded unless explicitly requested for c
 Assume the WEEK notes have already been substantially audited and are largely based on Reuters mechanical data plus structured commentary.
 Therefore:
 
-- DO NOT rebuild the note from scratch using official sources.
-- DO NOT let official/public sources become the backbone of the note.
-- DO NOT re-audit every release unless there is a conflict or a major gap.
+DO NOT rebuild the note from scratch using official sources.
+DO NOT let official/public sources become the backbone of the note.
+DO NOT re-audit every release unless there is a conflict or a major gap.
 
 Use official/public verification ONLY:
-- to resolve a clear date/data conflict,
-- to fill a major missing factual point,
-- to confirm the latest central-bank meeting if needed,
-- or to anchor a few load-bearing facts if needed.
 
-SOURCE WEIGHTING:
-1. Latest validated WEEK notes
-2. Reuters-based mechanical facts already embedded in the WEEK notes
-3. Official/public verification only as support or arbitration
-4. Optional overlays later (JGM / Mistral), but NOT required for first release
-
-====================================================
-3) TIME HORIZON / ANALYTICAL FRAME
-====================================================
+to resolve a clear date/data conflict,
+to fill a major missing factual point,
+to confirm the latest central-bank meeting if needed,
+or to anchor a few load-bearing facts if needed.
+SOURCE WEIGHTING
+Latest validated WEEK notes (latest 8 weeks minimum target)
+Reuters-based mechanical facts already embedded in the WEEK notes
+Previous Macro Note, if available, as prior scenario anchor
+ARC, if available, as regime continuity map
+Official/public verification only as support or arbitration
+Optional overlays later (JGM / Mistral), but NOT required for first release
+4) TIME HORIZON / ANALYTICAL FRAME
 
 Treat the Macro Note as:
 
 4-week impulse window -> 3–6 month scenario update
 
 Weighting inside the 4-week window:
-- most recent 1–2 weeks = highest tactical weight
-- prior 2–4 weeks = confirmation / persistence / fade check
-- anything older = regime anchor only if still relevant
+
+most recent 1–2 weeks = highest tactical weight
+prior 2–4 weeks = confirmation / persistence / fade check
+prior weeks inside the 8-week ingestion set = regime continuity / false-start filter
+anything older = regime anchor only if still relevant
 
 You MUST deduplicate:
-- repeated mention of the same release across weeks does NOT count as new evidence
-- repeated themes across different weeks DO increase conviction
-- where multiple versions conflict, the latest validated WEEK baseline wins unless the conflict is clearly material and verifiable
+
+repeated mention of the same release across weeks does NOT count as new evidence
+repeated themes across different weeks DO increase conviction
+where multiple versions conflict, the latest validated WEEK baseline wins unless the conflict is clearly material and verifiable
 
 You MUST separate:
-1. genuine new signal
-2. confirmation of an existing regime
-3. one-off distortion / low-confidence signal
-4. possible regime shift that is not yet confirmed
 
-====================================================
-4) WHAT THE NOTE MUST SOUND LIKE
-====================================================
+genuine new signal
+confirmation of an existing regime
+one-off distortion / low-confidence signal
+possible regime shift that is not yet confirmed
+5) WHAT THE NOTE MUST SOUND LIKE
 
 The note must sound like a hedge-fund / macro-desk note.
 
 Style requirements:
-- direct
-- dense
-- objective
-- causal
-- conditional
-- desk-like
-- no fluff
-- no teaching tone
-- no generic macro textbook phrasing
+
+direct
+dense
+objective
+causal
+conditional
+desk-like
+no fluff
+no teaching tone
+no generic macro textbook phrasing
 
 ABSOLUTELY FORBIDDEN:
-- meta-language about the source material
-- commentary on the quality of the WEEK notes
-- phrases like:
-  - “the WEEK notes say”
-  - “the archive suggests”
-  - “the most important virtue of the notes”
-  - “the weekly notes correctly treated”
-  - “based on the source”
-- any self-referential discussion of how you built the note
+
+meta-language about the source material
+commentary on the quality of the WEEK notes
+phrases like:
+“the WEEK notes say”
+“the archive suggests”
+“the most important virtue of the notes”
+“the weekly notes correctly treated”
+“based on the source”
+any self-referential discussion of how you built the note
 
 The note must speak directly about the macro regime.
 
 GOOD:
-- “Labor has moved from low-hire / low-fire toward clearer softening.”
-- “Domestic demand still holds the floor while housing remains the clearest weak pocket.”
-- “Inflation is still decelerating, but not cleanly enough to force early easing.”
+
+“Labor has moved from low-hire / low-fire toward clearer softening.”
+“Domestic demand still holds the floor while housing remains the clearest weak pocket.”
+“Inflation is still decelerating, but not cleanly enough to force early easing.”
 
 BAD:
-- “The weekly archive shows that labor has moved…”
-- “The notes correctly highlight…”
 
-====================================================
-5) MACRO FRAMEWORK TO PRESERVE
-====================================================
+“The weekly archive shows that labor has moved…”
+“The notes correctly highlight…”
+6) MACRO FRAMEWORK TO PRESERVE
 
 Unless the latest 4-week impulse clearly invalidates it, preserve this logic:
 
 A) Growth / activity
-- distinguish between:
-  - floor / stabilization
-  - bend / slowdown
-  - clean reacceleration
-  - outright downturn
-- identify which sector is carrying the floor
-- identify the clearest weak pocket
-- treat survey rebounds cautiously if signal quality is poor
-
+distinguish between:
+floor / stabilization
+bend / slowdown
+clean reacceleration
+outright downturn
+identify which sector is carrying the floor
+identify the clearest weak pocket
+treat survey rebounds cautiously if signal quality is poor
 B) Labor / employment
-- where relevant, distinguish:
-  - hiring weakness
-  - layoffs
-  - unemployment drift
-  - wage pressure
-- do not overcall collapse from one print
-- use breadth and claims where relevant
-
+where relevant, distinguish:
+hiring weakness
+layoffs
+unemployment drift
+wage pressure
+do not overcall collapse from one print
+use breadth and claims where relevant
 C) Inflation
-- identify the true binding inflation channel
-- distinguish:
-  - goods / import / FX pass-through
-  - services / wages / rents / administered / food / energy
-  - ULC / productivity / margins
-  - survey price components
-- do not treat one hot component as full regime change unless confirmed
-
+identify the true binding inflation channel
+distinguish:
+goods / import / FX pass-through
+services / wages / rents / administered / food / energy
+ULC / productivity / margins
+survey price components
+do not treat one hot component as full regime change unless confirmed
 D) Central bank / rates / FX
-- state clearly whether the regime is:
-  - hike bias
-  - plateau / hold
-  - easing bias
-  - easing cycle already underway
-- explain what the front end is trading
-- explain when the currency is supported vs vulnerable
-- distinguish macro differential from political / risk-premium channels
-
+state clearly whether the regime is:
+hike bias
+plateau / hold
+easing bias
+easing cycle already underway
+explain what the front end is trading
+explain when the currency is supported vs vulnerable
+distinguish macro differential from political / risk-premium channels
 E) Political / policy layer
-- identify whether politics matters now through:
-  - fiscal stance
-  - regulation
-  - tariffs / trade
-  - CB independence / credibility
-  - election risk
-  - external sanctions / geopolitics
-- if politics is not regime-relevant, say so explicitly
-
-====================================================
-6) OUTPUT FORMAT (MANDATORY)
-====================================================
+identify whether politics matters now through:
+fiscal stance
+regulation
+tariffs / trade
+CB independence / credibility
+election risk
+external sanctions / geopolitics
+if politics is not regime-relevant, say so explicitly
+7) OUTPUT FORMAT (MANDATORY)
 
 Enclose the output between:
 
-<<<[REGION_OR_COUNTRY]_MACRO_NOTE_BEGIN>>>
+<<[REGION_OR_COUNTRY]_MACRO_NOTE_BEGIN>>
 ...
-<<<[REGION_OR_COUNTRY]_MACRO_NOTE_END>>>
+<<[REGION_OR_COUNTRY]_MACRO_NOTE_END>>
 
 Default format = PM VERSION (dense and readable)
 
 Required structure:
 
-1. Title line
-2. As of date
-3. Horizon line
-4. 4-WEEK MACRO SIGNAL BOARD
-5. Executive Summary
-6. Growth / Activity
-7. Labor / Employment (if relevant; if not, replace with Domestic Demand / Credit / External Sector)
-8. Inflation
-9. Last Central Bank Meeting + Current Policy Assumption
-10. Rates / FX / Financial Conditions
-11. Political / Policy Events
-12. Trigger Map
-13. Bottom Line
+Title line
+As of date
+Horizon line
+4-WEEK MACRO SIGNAL BOARD
+Executive Summary
+Growth / Activity
+Labor / Employment
+if labor is not the key macro transmission channel, replace with the correct block:
+Domestic Demand
+Credit / Lending
+External Sector / Balance of Payments
+Fiscal / Liquidity
+Inflation
+Last Central Bank Meeting + Current Policy Assumption
+Rates / FX / Financial Conditions
+Political / Policy Events
+5 Key Releases
+ARC
+Trigger Map
+Bottom Line
 
 IMPORTANT:
-If labor is not the key macro transmission channel for the country, replace that section with the more relevant block:
-- Domestic Demand
-- Credit / Lending
-- External Sector / Balance of Payments
-- Fiscal / Liquidity
-But DO NOT omit the section entirely without replacing it with the true macro driver.
 
-====================================================
-7) SECTION RULES
-====================================================
-
-----------------------------------------------------
+The ARC section must appear before Trigger Map
+The 5 Key Releases section must appear before ARC
+If ARC is available, present it in data-window block format
+If ARC is not available, omit the ARC section rather than inventing one
+If the previous Macro Note is not available, do not mention its absence; simply proceed
+8) SECTION RULES
 A) 4-WEEK MACRO SIGNAL BOARD
-----------------------------------------------------
 
 Start with a compact board like this:
 
 4-WEEK MACRO SIGNAL BOARD
 
-Growth:          ~ Mixed / services-led floor
-Labor:           ↓ Softening
-Inflation:       ~ Disinflation continues, but sticky in key channels
-Financial cond:  ~ Neutral / not restrictive enough to force downturn
-Policy bias:     Hold / plateau first -> easing optionality later
-Political risk:  ~ Limited / rising / high / not regime-relevant
+Growth: ~ Mixed / services-led floor
+Labor: ↓ Softening
+Inflation: ~ Disinflation continues, but sticky in key channels
+Financial cond: ~ Neutral / not restrictive enough to force downturn
+Policy bias: Hold / plateau first -> easing optionality later
+Political risk: ~ Limited / rising / high / not regime-relevant
 
 Use clear shorthand:
-- ↑ strengthening
-- ↓ weakening
-- ~ mixed / neutral
+
+↑ strengthening
+↓ weakening
+~ mixed / neutral
 
 This board must let a PM grasp the whole regime in 10 seconds.
 
-----------------------------------------------------
 B) Executive Summary
-----------------------------------------------------
 
 This must be the highest-density summary.
 
 MUST include:
-- regime statement
-- what changed over the last 4 weeks
-- what did not change
-- current binding constraint
-- current policy assumption
-- political / policy risk bias if relevant
-- core rates / FX implication
-- no repetition from later sections beyond what is necessary
 
-Preferred formulations:
-- “The main change in the 4-week impulse is labor.”
-- “The core policy conclusion is unchanged.”
-- “The main tension is domestic resilience versus labor softening.”
-- “The economy is not recessionary, but not cleanly re-accelerating.”
-- “The base-case policy assumption remains plateau first.”
-- “Political risk is a tail, not the core macro driver.”
-- “Political risk is now part of the macro transmission mechanism.”
-
-----------------------------------------------------
+regime statement
+what changed over the last 4 weeks
+what did not change
+current binding constraint
+current policy assumption
+political / policy risk bias if relevant
+core rates / FX implication
 C) Growth / Activity
-----------------------------------------------------
 
 Focus on:
-- activity floor vs slowdown vs reacceleration
-- which sectors are holding the floor
-- which sectors remain weak
-- whether the growth signal is broad or narrow
-- whether survey / sentiment strength is high quality or contaminated
-- financial conditions only briefly and only if relevant to the weekly logic
 
-This section should answer:
-- Is growth collapsing, stabilizing, or reaccelerating?
-- Which part of the economy is carrying the floor?
-- Which part remains the clearest weak pocket?
-- Is the recent improvement clean enough to trust?
-
-If useful, include:
-- demand bending vs breaking
-- goods vs services split
-- housing
-- external demand
-- credit impulse
-- inventories / trade distortions
-- fiscal demand
-
-----------------------------------------------------
+activity floor vs slowdown vs reacceleration
+which sectors are holding the floor
+which sectors remain weak
+whether the growth signal is broad or narrow
+whether survey / sentiment strength is high quality or contaminated
 D) Labor / Employment
-----------------------------------------------------
 
 Use this section when labor is a key macro transmission channel.
 
 You MUST triangulate where relevant:
-- payrolls / employment signal
-- unemployment
-- claims
-- hiring / breadth
-- wage pressure
 
-Use the correct regime language:
-- weak hiring before layoffs
-- low-hire / low-fire
-- clearer softening
-- deterioration vs collapse
+payrolls / employment signal
+unemployment
+claims
+hiring / breadth
+wage pressure
 
-Do NOT call recession off one weak print unless the 4-week impulse clearly supports it.
+If labor is not the main macro driver, replace it with the correct equivalent section.
 
-If labor is not the main macro driver for the region, REPLACE this section with the relevant macro equivalent:
-- Domestic Demand
-- Credit / Lending
-- External Sector
-- Fiscal / Liquidity
-- China credit / property / exports
-- EM external funding / inflation / FX pass-through
-But preserve the same standard:
-identify the binding channel, what changed, and what it means for policy.
-
-----------------------------------------------------
 E) Inflation
-----------------------------------------------------
-
-Keep hierarchy sharp.
 
 State clearly:
-- what the binding inflation issue is
-- what is no longer the main problem
-- what is still unresolved
 
-Possible channels:
-- services / wages
-- goods / imports / tariffs
-- food / energy
-- rents / shelter / administered prices
-- FX pass-through
-- productivity / ULC
-- margins
-- survey price components
-
-Integrate productivity vs ULC when relevant:
-- productivity can offset wage pressure
-- but may not be enough to declare labor-cost inflation solved
-
-This section must be dense and not repetitive.
-
-----------------------------------------------------
+what the binding inflation issue is
+what is no longer the main problem
+what is still unresolved
 F) Last Central Bank Meeting + Current Policy Assumption
-----------------------------------------------------
 
 THIS SECTION IS MANDATORY.
 
-You MUST always include the latest central-bank policy meeting, even if it falls slightly outside the 4-week impulse window, because it is the main policy anchor.
+You MUST always include the latest central-bank policy meeting, even if it falls slightly outside the 4-week impulse window.
 
 For the latest meeting, state:
-- date
-- decision
-- rate level / stance
-- what the meeting told us about the reaction function
-- whether policy is restrictive / near neutral / accommodative
-- what the central bank appears to be waiting for
-- what the market is likely assuming now
+
+date
+decision
+rate level / stance
+what the meeting told us about the reaction function
+whether policy is restrictive / near neutral / accommodative
+what the central bank appears to be waiting for
+what the market is likely assuming now
 
 Then state explicitly:
 
 CURRENT POLICY ASSUMPTION
 
-This must be one clean paragraph stating:
-- base case policy path over the next 3–6 months
-- what would make that path more dovish
-- what would make it more hawkish
-- whether the central bank is reacting more to:
-  - inflation
-  - growth
-  - labor
-  - FX
-  - financial stability
-  - politics / credibility
-  - external shocks
+One clean paragraph stating:
 
-Examples:
-- “Base case remains plateau first, cuts later only if labor cooling broadens and inflation progress becomes cleaner.”
-- “Base case remains hold-longer because FX pass-through still constrains easing.”
-- “Base case remains gradual easing unless food / FX inflation re-accelerates.”
-- “Base case remains on hold because growth is weak but inflation and currency stability still dominate.”
-
-If no explicit guidance exists, infer the policy assumption from the reaction function.
-Do NOT write “unclear” without making an analytical assumption.
-
-----------------------------------------------------
+base case policy path over the next 3–6 months
+what would make that path more dovish
+what would make it more hawkish
+what the central bank is reacting to most
 G) Rates / FX / Financial Conditions
-----------------------------------------------------
-
-This section must be concrete.
 
 MUST include:
-- what the front end is trading
-- what matters for rates repricing
-- what matters for FX
-- whether financial conditions are restrictive enough to matter
-- whether the currency is trading mainly:
-  - rates differential
-  - growth differential
-  - terms of trade
-  - external balance
-  - risk premium
-  - politics / credibility
-  - commodity linkages
 
-Do NOT write generic lines like “central bank remains data dependent” unless you make the reaction function explicit.
-
-Preferred formulations:
-- “The front end is trading labor plus inflation, not manufacturing alone.”
-- “The currency is supported when delayed easing dominates, but weakens when labor downside becomes the main signal.”
-- “FX remains constrained by pass-through and external balance risk.”
-- “Financial conditions are restrictive mainly through housing and rate-sensitive sectors, not through generalized credit stress.”
-
-----------------------------------------------------
+what the front end is trading
+what matters for rates repricing
+what matters for FX
+whether financial conditions are restrictive enough to matter
+what channel is driving the currency
 H) Political / Policy Events
-----------------------------------------------------
 
 THIS SECTION IS MANDATORY.
 
-You MUST include a political / policy section even if the conclusion is that politics is not materially changing the macro regime.
+You MUST answer:
 
-This section must answer:
-- Were there any regime-relevant political / policy developments in the last 4 weeks?
-- If yes, through what macro channel?
-- If no, say that explicitly.
+Were there any regime-relevant political / policy developments in the last 4 weeks?
+If yes, through what macro channel?
+If no, say so explicitly.
+I) 5 Key Releases
 
-Possible channels:
-- fiscal loosening / tightening
-- budget risk
-- government shutdown / administrative disruption
-- elections / coalition instability
-- trade / tariffs / sanctions
-- central-bank independence / governance
-- regulatory shocks
-- geopolitical escalation
-- commodity policy / energy policy
+This section is mandatory.
 
-Possible conclusions:
-- “No regime-relevant political developments changed the macro base case.”
-- “Political risk remains a tail, not the dominant macro driver.”
-- “Political developments now affect macro through fiscal credibility / risk premium / CB signaling.”
-- “Trade policy has become an inflation tail rather than a core base-case driver.”
+Select the 5 most important releases / events for the current macro setup.
 
-Keep this section concise and causal.
+For each:
 
-----------------------------------------------------
-I) Trigger Map
-----------------------------------------------------
+state the release / event name and date
+explain in 1–3 dense lines why it matters now
+prioritize signal hierarchy, not chronology
+do not simply pick the five largest surprises; pick the five most important for the current regime and reaction function
+J) ARC
+
+Use this section only if ARC is available.
+
+The ARC must be written in data-window split format, for example:
+
+Data window: [dates]
+short regime evolution paragraph
+
+The ARC should:
+
+preserve continuity,
+show regime transitions,
+and explain how the current setup emerged.
+
+Do not turn ARC into a second executive summary.
+Do not make it a long essay.
+Use compact sequential regime blocks.
+
+K) Trigger Map
 
 This section is mandatory.
 
 Use 3 buckets:
-1. More dovish / easier policy / cuts pulled forward
-2. Hold-longer / mildly hawkish reweighting
-3. More constructive growth / risk-on scenario
+
+More dovish / easier policy / cuts pulled forward
+Hold-longer / mildly hawkish reweighting
+More constructive growth / risk-on scenario
 
 Each bucket should be concrete and conditional.
 
-Examples:
-- broader labor cooling
-- cleaner services/core disinflation
-- stronger domestic demand without inflation spillover
-- more persistent FX pass-through
-- political credibility deterioration
-- external demand recovery
-- commodity shock
-- fiscal impulse shift
+L) Bottom Line
 
-----------------------------------------------------
-J) Bottom Line
-----------------------------------------------------
-
-This must be short and tight.
-Do NOT repeat the Executive Summary almost word for word.
-
+Short and tight.
 4–6 sentences maximum.
 End with the base-case scenario in one line.
 
-====================================================
-8) TONE / DENSITY RULES
-====================================================
-
-- Prefer short, dense paragraphs
-- Avoid repetition across sections
-- Avoid recapping the same point 3 times
-- Prefer signal hierarchy over exhaustive mention of releases
-- Prefer causal interpretation over calendar chronology
-- The note should feel like something a macro PM would actually read
-
-====================================================
-9) OPTIONAL OVERLAYS (NOT REQUIRED FOR FIRST RELEASE)
-====================================================
+9) TONE / DENSITY RULES
+Prefer short, dense paragraphs
+Avoid repetition across sections
+Avoid recapping the same point repeatedly
+Prefer signal hierarchy over exhaustive mention of releases
+Prefer causal interpretation over calendar chronology
+The note should feel like something a macro PM would actually read
+10) OPTIONAL OVERLAYS (NOT REQUIRED FOR FIRST RELEASE)
 
 JGM macro themes / analysis:
-- optional
-- high-value discretionary overlay
-- should influence:
-  - binding constraint
-  - scenario weighting
-  - what is structural vs one-off
-  - where the market may be misreading the data
-- must NOT overwrite factual baseline unless explicitly verified
+
+optional
+should influence:
+binding constraint
+scenario weighting
+what is structural vs one-off
+where the market may be misreading the data
 
 Mistral thematic scout:
-- optional
-- can be added AFTER first release as an update
-- useful for:
-  - central-bank tape
-  - Tier 1 / Tier 2 public macro scenario debate
-  - what desks are focusing on
-  - consensus vs minority macro framing
-  - political / policy debate
-- must remain supplementary, not the core archive
+
+optional
+can be added AFTER first release as an update
+useful for:
+central-bank tape
+public macro scenario debate
+consensus vs minority framing
+political / policy debate
 
 WORKFLOW RULE:
-- first release = WEEK-note based Macro Note only
-- second release / update = integrate optional JGM and/or Mistral overlays only if they materially change:
-  - binding constraint
-  - scenario weighting
-  - reaction function
-  - cross-asset asymmetry
-  - political / policy risk interpretation
 
-====================================================
-10) HARD CONSTRAINTS
-====================================================
+first release = WEEK-note based Macro Note
+second release / update = integrate optional JGM and/or Mistral overlays only if they materially change:
+binding constraint
+scenario weighting
+reaction function
+cross-asset asymmetry
+political / policy risk interpretation
+11) HARD CONSTRAINTS
+No invented data
+No source meta-commentary
+No journalist tone
+No long release-by-release recap
+No duplication of the WEEK note format
+No generic padding
+No exaggerated macro calls
+No forced trade call if signal is mixed
+No official-source-first rewrite
+Base the note primarily on the WEEK notes
+Latest central-bank meeting is mandatory
+Current policy assumption is mandatory
+Political / policy section is mandatory
+5 Key Releases section is mandatory
+ARC section is mandatory only if ARC is provided
+12) DEFAULT INSTRUCTION
 
-- No invented data
-- No source meta-commentary
-- No journalist tone
-- No long release-by-release recap
-- No duplication of the WEEK note format
-- No generic “on the one hand / on the other hand” padding
-- No exaggerated macro calls
-- No forced trade call if signal is mixed
-- No official-source-first rewrite of the note
-- Base the note primarily on the WEEK notes
-- Last central-bank meeting is mandatory
-- Current policy assumption is mandatory
-- Political / policy section is mandatory
+Produce the Macro Note now, using the latest validated WEEK notes as the primary analytical corpus.
 
-====================================================
-11) DEFAULT INSTRUCTION
-====================================================
+Ingestion priority
+Latest 8 WEEK notes minimum
+Previous Macro Note if available
+ARC if available
 
-Produce the Macro Note now, using the latest validated WEEK notes pasted below as the primary analytical corpus.
-
-Assume those WEEK notes are already substantially audited and Reuters-based.
+Assume the WEEK notes are already substantially audited and Reuters-based.
 Use only limited official/public anchoring if strictly needed.
 Default to PM VERSION: dense, direct, hedge-fund style, no meta-language.
 
