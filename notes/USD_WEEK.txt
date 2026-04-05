@@ -1,4 +1,524 @@
 <<USD_WEEK_BEGIN>>
+DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
+
+A. US WEEK — MACRO SYNTHESIS
+
+The week ended in a clearer stagflationary bind rather than either clean resilience or clean recession. Backward-looking activity data still showed pockets of support — retail sales beat, payrolls beat on the headline, and manufacturing remained in expansion — but the more important forward stack deteriorated materially: Dallas services weakened sharply, S&P Global services fell into contraction, JOLTS confirmed a low-hire / low-fire labor freeze, housing financing tightened further, and consumer expectations stayed recessionary. At the same time, cost pressure intensified meaningfully through ISM Prices Paid and firmer survey pricing. The resulting regime was not outright collapse, but a more binding mix of softer forward growth, weaker service-sector quality, and rising input-cost pressure that kept the Fed constrained.
+
+B. US MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Retail sales rebounded strongly across all major aggregates, ISM manufacturing improved to 52.7, and trade was better than feared for Q1 arithmetic. But those offsets were increasingly backward-looking or compositionally flattered. Dallas services deteriorated sharply, S&P Global services fell into contraction at 49.8, housing price momentum was already soft before mortgage rates rose, and business inventories still pointed to a cautious corporate backdrop. The week therefore showed residual Q1 resilience but a weaker Q2 forward growth setup.
+
+Labor: ~ / -
+Supporting evidence:
+JOLTS was the clearest underlying labor signal: openings fell, hires and quits moved to multi-year lows, and the labor market increasingly looked frozen rather than healthy. Claims stayed low and payrolls beat on the headline, but payroll strength was qualified by narrow composition, softer household-survey quality, lower participation, higher U6, and a large downward revision to February. ADP also showed weak breadth and sticky wages. The net weekly message was not labor breakage, but a deteriorating labor-quality / labor-flow regime.
+
+Inflation: +
+Supporting evidence:
+The decisive signal came from ISM Prices Paid at 78.3, a sharp jump that moved the cost shock into live data. Dallas manufacturing and S&P Global services both preserved a high-cost, weaker-growth mix rather than any clean disinflationary trend, while consumer confidence internals showed stronger inflation anxiety. Softer average earnings helped at the margin, but the week’s inflation signal was still one of worsening input pressure rather than easing price tension.
+
+Financial Conditions: +
+Supporting evidence:
+MBA mortgage rates rose to 6.57%, tightening financing conditions further into an already fragile housing sector. FHFA and Case-Shiller both showed weak price momentum even before the latest rate shock, implying greater Q2 sensitivity. More broadly, the week’s macro mix — firmer cost pressure, weaker forward services data, and no decisive labor break — reinforced a restrictive financial-conditions backdrop rather than relief.
+
+Policy Constraint: +
+Supporting evidence:
+The week removed any clean easing narrative. Payrolls were too firm on the headline, unemployment edged down to 4.3%, retail sales still showed Q1 demand support, and ISM Prices Paid materially tightened the inflation side of the bind. At the same time, the forward growth stack worsened through services contraction, weaker labor flows and softer confidence. That combination left the Fed more constrained, not less: growth was not weak enough to justify easing, while cost pressure was too firm to relax the inflation guardrail.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 30 MAR 2026
+
+UNITED STATES — Dallas Fed Mfg Bus Idx (Mar)
+Release Date: 30 Mar 2026 | Local Time: 16:30
+
+Reuters Data
+
+Dallas Fed Mfg Bus Idx: -0.20 | Prior: 0.20
+
+Professional Market Commentary
+
+The headline near zero was initially easy to read as “little changed,” but the more complete tape treated that as incomplete. The Dallas Fed details pointed instead to a loss of momentum in current activity and, more importantly, a sharper deterioration in forward-looking sentiment. Public market color also emphasized the conflict-driven Texas bifurcation: energy-adjacent activity benefiting in pockets while broader manufacturing faced freight-cost passthrough, supply disruption and higher uncertainty.
+
+Comment — Economist Layer
+
+The key signal was not the headline itself but the internal downgrade in quality. Production, new orders, capacity utilization and shipments all slowed, company outlook moved negative, and uncertainty surged to its highest level since April 2025. That combination is more consistent with a still-producing but increasingly defensive factory sector than with outright contraction. Prices remained firm enough to keep a stagflationary tint on the release. The correct read is that current activity held near stall speed while forward conditions deteriorated materially.
+State transition: deterioration
+
+Context from prior regional live file:
+Manufacturing had already been functioning as only a partial offset to softer services and labor signals. Dallas weakened that offset further by showing that confidence and hiring appetite were degrading even before the national ISM release.
+
+HF Take — Strategist Layer
+
+This was not a standalone Fed mover, but it mattered as a setup release. If national manufacturing confirmed softer orders with firm prices, the factory sector would stop acting as a cushion and instead join the broader soft-growth / high-cost regime.
+
+TUESDAY 31 MAR 2026
+
+UNITED STATES — Redbook YY (w/e 23 Mar)
+Release Date: 31 Mar 2026 | Local Time: 14:55
+
+Reuters Data
+
+Redbook YY: 6.9% | Prior: 6.7%
+
+Professional Market Commentary
+
+No Tier 1 institutional debate formed around this low-relevance weekly print. It was read simply as evidence that retail spending had not yet rolled over by late March.
+
+Comment — Economist Layer
+
+This was a continuity signal, not a regime signal. The modest acceleration in weekly sales supported the broader point that current spending was still holding, but it did little to challenge the more important deterioration in labor flows, service activity and forward consumer expectations.
+State transition: continuation
+
+Context from prior regional live file:
+The prior file already described the consumer as resilient but increasingly strained. Redbook fit that description: spending still alive in the near term, but not decisive against weaker forward indicators.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance. Its only value was as a counterweight to the more negative forward-looking releases elsewhere in the week.
+
+UNITED STATES — Monthly Home Price MM / YY / Index (Jan)
+Release Date: 31 Mar 2026 | Local Time: 15:00
+
+Reuters Data
+
+Monthly Home Price MM: 0.1% | Prior: 0.1% | Revised: 0.3%
+Monthly Home Price YY: 1.6% | Prior: 1.8% | Revised: 1.9%
+Monthly Home Price Index: 441.0 | Prior: 440.4 | Revised: 440.7
+
+Professional Market Commentary
+
+The tape treated FHFA as a mildly positive monthly print with softer annual momentum and an important timing caveat: January housing data predated the latest mortgage-rate shock. The release was widely framed as a lagged baseline rather than a live read on current housing conditions.
+
+Comment — Economist Layer
+
+The upward revision to the prior month mildly flattered the near-term picture, but the annual slowdown to 1.6% confirmed continued deceleration in housing-price momentum. The key macro point was temporal: this was still a pre-tightening financing snapshot. With mortgage rates already reversing sharply higher into week-end, the report’s main analytical use was to establish how soft housing already was before the next tightening impulse hit.
+State transition: false dawn
+
+Context from prior regional live file:
+Housing had already been identified as fragile and rate-sensitive. FHFA reinforced that the sector entered spring with limited momentum even before the latest move higher in mortgage costs.
+
+HF Take — Strategist Layer
+
+This did not move the Fed, but it mattered for Q2 growth mapping. A housing sector this soft going into tighter rates is much more likely to amplify slowdown than to stabilize it.
+
+UNITED STATES — CaseShiller 20 MM SA / MM NSA / YY NSA (Jan)
+Release Date: 31 Mar 2026 | Local Time: 15:00
+
+Reuters Data
+
+CaseShiller 20 MM SA: 0.2% | Prior: 0.5% | Poll: 0.3% | Surprise: -0.10%
+CaseShiller 20 MM NSA: -0.1% | Prior: -0.1%
+CaseShiller 20 YY NSA: 1.2% | Prior: 1.4% | Poll: 1.3% | Surprise: -0.10%
+
+Professional Market Commentary
+
+The dominant housing narrative matched FHFA: softer annual momentum, a mild miss versus expectations, and a strong regional K-shape between firmer Northeast/Midwest cities and weaker Sun Belt markets. Commentary repeatedly stressed that January represented the last clean pre-rate-shock housing read.
+
+Comment — Economist Layer
+
+The report continued the deceleration arc. Both the seasonally adjusted monthly gain and the annual 20-city rate softened, confirming that price appreciation had already lost momentum under earlier financing conditions. The more important composition story remained widening regional divergence rather than national strength. Because the data were backward-looking, the right use of the print was as a benchmark against which later Q2 housing deterioration would be measured, not as evidence that housing had stabilized.
+State transition: deterioration
+
+Context from prior regional live file:
+The prior file had already placed housing in the vulnerable bucket. Case-Shiller strengthened that view by showing weak nominal appreciation before the subsequent mortgage-rate rise.
+
+HF Take — Strategist Layer
+
+The tradeable implication was not in the release itself but in its interaction with higher rates: a soft housing market with weaker price momentum going into tighter financing is more likely to transmit financial conditions into slower activity.
+
+UNITED STATES — Chicago PMI (Mar)
+Release Date: 31 Mar 2026 | Local Time: 15:45
+
+Reuters Data
+
+Chicago PMI: 52.8 | Prior: 57.7 | Poll: 55.0 | Surprise: -2.20
+
+Professional Market Commentary
+
+The tape read this as a cooling print after February’s outsized surge. Commentary acknowledged that the index remained expansionary, but treated the miss and sharp pullback as a caution flag ahead of national ISM.
+
+Comment — Economist Layer
+
+This was not a contraction signal; it was a quality-deterioration signal. At 52.8, activity remained above 50 for a third month, so the rebound from the long contraction phase was still real. But the reversal from 57.7 and the miss versus consensus argued that February had overstated the underlying pace. The more accurate interpretation was expansion of lower quality rather than durable industrial reacceleration.
+State transition: deterioration
+
+Context from prior regional live file:
+Manufacturing had been running ahead of services in relative terms, but not strongly enough to resolve the broader macro tension. Chicago reduced confidence further in a simple manufacturing-led improvement story.
+
+HF Take — Strategist Layer
+
+Its main strategic role was as a directional input into ISM. If ISM softened as well, Chicago would be read as an early warning rather than a local giveback.
+
+UNITED STATES — Consumer Confidence (Mar)
+Release Date: 31 Mar 2026 | Local Time: 16:00
+
+Reuters Data
+
+Consumer Confidence: 91.8 | Prior: 91.2 | Revised: 91.0 | Poll: 88.0 | Surprise: 3.80
+
+Professional Market Commentary
+
+The narrative split immediately between a genuine top-line beat and weaker internals. Official Conference Board commentary and broader press coverage agreed that current conditions improved while expectations deteriorated further and inflation concerns intensified as higher energy costs filtered into household psychology.
+
+Comment — Economist Layer
+
+This was a classic false-dawn release. The headline beat mattered for current-conditions optics, but the more important signal sat in the expectations index and broader internals. Expectations at 70.9 extended the run below the recession-warning threshold of 80 to fourteen months, while inflation expectations surged and discretionary categories such as vacations and homebuying softened. The signal was not “consumer strong”; it was “present conditions still holding while forward confidence remains recessionary.”
+State transition: false dawn
+
+Context from prior regional live file:
+The prior USD tape had already settled into a softer-growth / firmer-price-pressure configuration. Consumer confidence sharpened that contradiction rather than resolving it.
+
+HF Take — Strategist Layer
+
+This blocked a clean soft-landing read. The headline helped near-term resilience optics, but the worse expectations and higher inflation anxiety kept the policy constraint high and left spending vulnerable to a later Q2 downshift.
+
+UNITED STATES — JOLTS Job Openings (Feb)
+Release Date: 31 Mar 2026 | Local Time: 16:00
+
+Reuters Data
+
+JOLTS Job Openings: 6.882M | Prior: 6.946M | Revised: 7.240M | Poll: 6.918M | Surprise: -0.0360M
+
+Professional Market Commentary
+
+The professional tape was unusually coherent: once the revision was respected, this was a weak labor report. Commentary emphasized that hiring had fallen to pandemic-era lows, quits had slipped to multi-year lows, and layoffs had edged up, making “low hire, low fire” the dominant interpretive frame.
+
+Comment — Economist Layer
+
+The key point was not the small miss versus consensus in openings by itself, but the broader flows picture. January openings were revised sharply higher to 7.240M, so February’s 6.882M represented a much larger deterioration than the unrevised prior implied. Hires and quits both moved to their weakest levels since 2020, signaling weaker worker mobility and reduced employer appetite to add headcount. Layoffs remained contained, so this was not yet a classic recession-cleansing labor market. But low-fire stops being reassuring once low-hire becomes entrenched. That made this the clearest labor-freeze signal of the week.
+State transition: deterioration
+
+Context from prior regional live file:
+Labor had previously been cooling mostly at the margin through softer surveys and mixed activity data. JOLTS shifted the labor bucket materially weaker by showing deterioration in the flows that matter most for future payroll support.
+
+HF Take — Strategist Layer
+
+This was the week’s cleanest dovish-growth signal, but not a clean easing trigger because the inflation side of the file remained restrictive. It raised the importance of claims and payrolls as verification tests of whether the freeze was deepening.
+
+UNITED STATES — Texas Serv Sect Outlook / Dallas Fed Services Revenues (Mar)
+Release Date: 31 Mar 2026 | Local Time: 16:30
+
+Reuters Data
+
+Texas Serv Sect Outlook: -13.3 | Prior: -3.2
+Dallas Fed Services Revenues: 1.3 | Prior: 4.1
+
+Professional Market Commentary
+
+This release was materially under-covered relative to its macro importance. The official Dallas Fed services survey, together with its respondent commentary, pointed to a much weaker services signal than the attention paid to Dallas manufacturing suggested.
+
+Comment — Economist Layer
+
+This was one of the most important and least appreciated releases of the week. The general business activity index fell sharply to -13.3 from -3.2 and revenues nearly stalled at 1.3. Relative to Dallas manufacturing near flat, the release revealed a strong internal divergence: energy-adjacent industrial activity was holding much better than the broader service economy. Because services are the larger macro bucket, that divergence mattered. The combination of weak services activity, slowing revenues and conflict-related business anxiety fit much better with the deteriorating labor and expectations data than with any clean resilience narrative.
+State transition: escalation
+
+Context from prior regional live file:
+The prior file already leaned toward slower domestic demand. Dallas services materially strengthened that view by showing sharper deterioration in the larger service-sector bucket than in manufacturing.
+
+HF Take — Strategist Layer
+
+This was an underpriced growth-negative signal. If national services data later validated it, the week would shift from “slower but resilient” toward “headline resilience masking a real service-economy downshift.”
+
+WEDNESDAY 1 APR 2026
+
+UNITED STATES — MBA 30-Yr Mortgage Rate (w/e 23 Mar)
+Release Date: 1 Apr 2026 | Local Time: 13:00
+
+Reuters Data
+
+MBA 30-Yr Mortgage Rate: 6.57% | Prior: 6.43%
+
+Professional Market Commentary
+
+There was no standalone institutional debate around the weekly print itself, but the move fit perfectly with the broader housing and rates narrative already running through the week. The +14bp rise confirmed that the conflict / energy / rates shock was transmitting directly into mortgage financing conditions.
+
+Comment — Economist Layer
+
+This was a mechanical series, but a regime-critical one. The increase confirmed that tighter financial conditions were now feeding directly into housing demand and affordability. The timing mattered: even this weekly series only partially captured the full repricing impulse, implying further pressure would still be showing up in subsequent housing and mortgage-demand data. With home-price momentum already weak, the mortgage-rate rise pushed housing from fragile into actively tightening.
+State transition: escalation
+
+Context from prior regional live file:
+Housing had already been identified as soft and rate-sensitive. This confirmed that financial conditions were tightening further into that weakness rather than stabilizing.
+
+HF Take — Strategist Layer
+
+Strategically, this locked housing in as a Q2 drag channel. If mortgage rates remained elevated, housing would not cushion slowdown; it would amplify it.
+
+UNITED STATES — ADP National Employment (Mar)
+Release Date: 1 Apr 2026 | Local Time: 14:15
+
+Reuters Data
+
+ADP National Employment: 62k | Prior: 63k | Revised: 66k | Poll: 40k | Surprise: 22.0k
+
+Professional Market Commentary
+
+The dominant framing was “headline beat, weak composition.” ADP’s own commentary stressed that hiring remained concentrated in a narrow set of industries, above all healthcare, while wage growth for both job-stayers and job-changers remained firm.
+
+Comment — Economist Layer
+
+The headline was better than feared, but the structure was weak. Healthcare accounted for nearly the entire net gain, manufacturing continued to lose jobs, and mid-sized firms contracted while small firms carried the print. That made the report inconsistent with a broad-based labor reacceleration. The wage side also mattered: pay growth stayed sticky enough to keep labor from looking fully disinflationary. Combined with JOLTS, the correct interpretation was not labor strength but a narrow, defensive labor market still holding in isolated sectors while broader demand softened.
+State transition: continuation
+
+Context from prior regional live file:
+JOLTS had already shifted labor from “cooling” to “deteriorating flows.” ADP did not contradict that; it showed that only limited pockets of labor demand remained supportive.
+
+HF Take — Strategist Layer
+
+The market risk was to overweight the +62k headline. The better read was stable headline, weak breadth. That kept the Fed constrained through sticky wages while preserving downside risk if payrolls later validated the softer-flow story.
+
+UNITED STATES — Retail Sales MM / Retail Sales Ex-Autos MM / Retail Ex Gas-Autos / Retail Control (Feb)
+Release Date: 1 Apr 2026 | Local Time: 14:30
+
+Reuters Data
+
+Retail Sales MM: 0.6% | Prior: -0.1% | Poll: 0.5% | Surprise: 0.10%
+Retail Sales Ex-Autos MM: 0.5% | Prior: 0.0% | Poll: 0.3% | Surprise: 0.20%
+Retail Ex Gas/Autos: 0.4% | Prior: 0.2%
+Retail Control: 0.5% | Prior: 0.2% | Poll: 0.3% | Surprise: 0.20%
+
+Professional Market Commentary
+
+This was the most consensual tape of the session: strong report, but already obsolete. Economists broadly agreed that February represented the last clean pre-shock consumer read and that tax refunds and weather normalization had boosted the print. Nearly all serious commentary pointed to a less favorable Q2 once higher gasoline prices and fading refund support hit real incomes.
+
+Comment — Economist Layer
+
+This was a textbook false-dawn release. The surface read was undeniably strong: all major aggregates beat, the control group printed well, and the composition showed a broad-based rebound. But the timing and drivers mattered more than the headline. This was a backward-looking Q1 resilience print supported by weather normalization, autos, clothing and tax refunds, not proof that demand would remain durable into Q2. The more relevant forward setup was worse: higher fuel costs, more regressive real-income pressure and fading temporary supports. The right hierarchy was strong nominal Q1 spending, but weaker forward real consumption.
+State transition: false dawn
+
+Context from prior regional live file:
+The consumer had already been described as resilient but fragile. Retail sales confirmed the resilience, but only in backward-looking data and under temporary supports.
+
+HF Take — Strategist Layer
+
+This gave the Fed cover to stay restrictive because Q1 demand still looked solid. But the asymmetry was unfavorable: markets that extrapolated the strength forward risked misreading a print whose main value was to mark the peak of the bounce rather than the start of a new uptrend.
+
+UNITED STATES — S&P Global Mfg PMI Final (Mar)
+Release Date: 1 Apr 2026 | Local Time: 15:45
+
+Reuters Data
+
+S&P Global Mfg PMI Final: 52.3 | Prior: 52.4
+
+Professional Market Commentary
+
+There was little incremental commentary because the final was effectively unchanged from the flash. Market attention moved quickly to the fuller ISM release.
+
+Comment — Economist Layer
+
+This confirmed moderate expansion in manufacturing and did not alter the flash signal in any material way. It supported the idea that factory activity was still running better than services, but without adding new information beyond that.
+State transition: continuation
+
+Context from prior regional live file:
+Manufacturing had been a relative support bucket. The final PMI preserved that characterization without materially strengthening it.
+
+HF Take — Strategist Layer
+
+Low incremental value. ISM was the policy-relevant manufacturing release for the session.
+
+UNITED STATES — Business Inventories MM (Jan)
+Release Date: 1 Apr 2026 | Local Time: 16:00
+
+Reuters Data
+
+Business Inventories MM: -0.1% | Prior: 0.0% | Poll: 0.1% | Surprise: -0.20%
+
+Professional Market Commentary
+
+This release was almost entirely overshadowed by retail, ISM and ADP. It drew little standalone narrative attention.
+
+Comment — Economist Layer
+
+The small drawdown was consistent with a cautious demand environment and conservative inventory management, but it was not large enough to change the macro narrative. It fit a broader backdrop of uncertain demand rather than aggressive restocking or outright destocking.
+State transition: continuation
+
+Context from prior regional live file:
+The prior file already described a cautious corporate operating environment. Inventories did nothing to challenge that framing.
+
+HF Take — Strategist Layer
+
+No standalone signal. At most it modestly reinforced the view that firms were still operating defensively.
+
+UNITED STATES — ISM Manufacturing PMI / ISM Mfg Prices Paid / ISM Manuf Employment Idx / ISM Manuf New Orders Idx (Mar)
+Release Date: 1 Apr 2026 | Local Time: 16:00
+
+Reuters Data
+
+ISM Manufacturing PMI: 52.7 | Prior: 52.4 | Poll: 52.5 | Surprise: 0.20
+ISM Mfg Prices Paid: 78.3 | Prior: 70.5 | Poll: 73.0 | Surprise: 5.30
+ISM Manuf Employment Idx: 48.7 | Prior: 48.8
+ISM Manuf New Orders Idx: 53.5 | Prior: 55.8
+
+Professional Market Commentary
+
+The release split the narrative immediately between “growth improving” and “inflation problem worsening.” The growth side focused on the strongest headline PMI since 2022 and firmer production. The more consequential tape focused on Prices Paid at 78.3, broad-based cost increases across industries, and explicit references to tariffs, metals and conflict-driven petroleum inputs as cost drivers.
+
+Comment — Economist Layer
+
+This was the defining macro release of the week. The growth side of the report was respectable: headline PMI improved, production was solid and new orders remained expansionary. But the inflation side mattered more. Prices Paid surged to its highest level since 2022, supplier deliveries slowed further, and employment remained in contraction. That is not a clean demand-overheating signal. It is a supply-cost shock embedded inside still-positive activity. The internal mix therefore tightened the policy bind materially: activity was not weak enough to justify easing, but costs were worsening fast enough to make easing even harder.
+State transition: escalation
+
+Context from prior regional live file:
+The U.S. had already been in a growth / inflation tension regime. ISM materially tightened that tension by moving the cost shock from risk scenario into live data.
+
+HF Take — Strategist Layer
+
+The market risk was to overweight the headline PMI and underweight Prices Paid. Strategically, Prices Paid was the regime signal: it locked the Fed into a more constrained stance and kept inflation risk at the center of the week.
+
+THURSDAY 2 APR 2026
+
+UNITED STATES — Challenger Layoffs (Mar)
+Release Date: 2 Apr 2026 | Local Time: 13:30
+
+Reuters Data
+
+Challenger Layoffs: 60.620k | Prior: 48.307k
+
+Professional Market Commentary
+
+Headline coverage leaned on the benign aggregate Q1 framing, but the richer tape focused on the changing reasons and sectors for announced cuts. The most important theme was the accelerating share of layoffs explicitly attributed to AI, especially in technology.
+
+Comment — Economist Layer
+
+The aggregate number was not alarming in a cyclical sense, but the structure underneath was noteworthy. Technology remained the largest source of layoffs, and AI rose to the leading stated reason for March cuts. That did not yet create a broad labor-market quantity problem, but it did speak to deteriorating labor-market quality and structural pressure on mid-skill and white-collar roles. In that sense, Challenger was more relevant as a composition signal for labor-market evolution than as a near-term recession warning.
+State transition: escalation
+
+Context from prior regional live file:
+Labor had already been weakening through slower flows rather than mass layoffs. Challenger fit that pattern: no broad firing wave, but growing evidence of restructuring and structural labor displacement.
+
+HF Take — Strategist Layer
+
+Not a dominant cyclical signal, but relevant to the labor-quality debate. It argued for caution against reading later headline payroll resilience as evidence that the labor market remained broadly healthy underneath.
+
+UNITED STATES — International Trade $ (Feb)
+Release Date: 2 Apr 2026 | Local Time: 14:30
+
+Reuters Data
+
+International Trade $: -57.3B | Prior: -54.5B | Revised: -54.7B | Poll: -61.0B | Surprise: 3.70B
+
+Professional Market Commentary
+
+The tape led with the narrower-than-expected deficit and the positive implication for Q1 GDP relative to consensus fears. More detailed commentary emphasized the composition: record exports were helped by gold and natural gas, while imports were boosted by capital goods, semiconductors and AI-linked hardware demand.
+
+Comment — Economist Layer
+
+This was a positive surprise at the headline level, but the composition qualified the strength. Export performance benefited from war-distorted flows in gold and gas, while import strength in capital goods and semiconductors reflected a structural AI / data-center investment impulse rather than generic domestic demand strength. Real goods trade still implied only a modest GDP drag, so the release was better than feared for Q1 arithmetic. But as a forward signal, it was a false dawn: February still reflected cleaner pre-disruption flows, whereas Q2 trade volumes were likely to weaken as shipping disruption and higher costs fed through.
+State transition: false dawn
+
+Context from prior regional live file:
+The prior tape had already treated external demand as a secondary offset, not a regime driver. Trade helped Q1 arithmetic somewhat, but did not change the underlying domestic-growth / inflation story.
+
+HF Take — Strategist Layer
+
+Helpful for near-term GDP optics, but not regime-changing. The forward risk was that markets would overread the better deficit print and underread the war-distorted export mix and weaker Q2 trade outlook.
+
+UNITED STATES — Initial Jobless Clm / Jobless Clm 4Wk Avg / Cont Jobless Clm
+Release Date: 2 Apr 2026 | Local Time: 14:30
+
+Reuters Data
+
+Initial Jobless Clm: 202k | Prior: 211k | Poll: 212k | Surprise: -10.0k
+Jobless Clm 4Wk Avg: 207.75k | Prior: 210.75k
+Cont Jobless Clm: 1.841M | Prior: 1.816M | Poll: 1.839M | Surprise: 0.0020M
+
+Professional Market Commentary
+
+Headline coverage naturally read the claims beat as labor-positive. The more analytical commentary stressed that low claims mainly confirmed the “low fire” side of the week’s labor picture and did not negate the weaker “low hire” evidence already established by JOLTS.
+
+Comment — Economist Layer
+
+This was an important verification release precisely because it did not show layoff acceleration. Initial claims at 202k and a lower four-week average confirmed that firms were not broadly firing workers. But continuing claims edged up and, more importantly, low layoffs do not imply strong labor demand when reemployment is slowing. In the context of JOLTS, the best interpretation was labor-market freeze, not labor-market strength. Claims therefore stabilized the labor bucket from worsening further, but did not materially improve it.
+State transition: continuation
+
+Context from prior regional live file:
+JOLTS had already established a weak flow picture. Claims did not challenge that; they simply confirmed that the labor problem was more about hiring weakness than firing acceleration.
+
+HF Take — Strategist Layer
+
+This contributed to a better pre-payroll setup at the headline level, but the strategic read stayed the same: low claims gave no clean easing signal and did not rescue the broader labor narrative from the freeze dynamic.
+
+FRIDAY 3 APR 2026
+
+UNITED STATES — Non-Farm Payrolls / Private Payrolls / Manufacturing Payrolls / Government Payrolls / Unemployment Rate / Average Earnings MM / Average Earnings YY / Average Workweek Hrs / Labor Force Partic / U6 Underemployment (Mar)
+Release Date: 3 Apr 2026 | Local Time: 14:30
+
+Reuters Data
+
+Non-Farm Payrolls: 178k | Prior: -92k | Revised: -133k | Poll: 60k | Surprise: 118.0k
+Private Payrolls: 186k | Prior: -86k | Revised: -129k | Poll: 70k | Surprise: 116.0k
+Manufacturing Payrolls: 15k | Prior: -12k | Revised: -6k | Poll: -5k | Surprise: 20.0k
+Government Payrolls: -8k | Prior: -6k | Revised: -4k
+Unemployment Rate: 4.3% | Prior: 4.4% | Poll: 4.4% | Surprise: -0.10%
+Average Earnings MM: 0.2% | Prior: 0.4% | Poll: 0.3% | Surprise: -0.10%
+Average Earnings YY: 3.5% | Prior: 3.8% | Poll: 3.7% | Surprise: -0.20%
+Average Workweek Hrs: 34.2 | Prior: 34.3 | Poll: 34.3 | Surprise: -0.10
+Labor Force Partic: 61.9% | Prior: 62.0%
+U6 Underemployment: 8.0% | Prior: 7.9%
+
+Professional Market Commentary
+
+Headline coverage leaned heavily on the payroll beat and lower unemployment rate, especially in thin Good Friday conditions. The richer tape was more conditional: the beat was flattered by healthcare strike reversal and weather normalization, while wages softened, the household survey looked weaker than the establishment survey, and February was revised sharply lower.
+
+Comment — Economist Layer
+
+This was a structurally mixed labor report with a misleadingly strong headline. The establishment survey beat was real, but the composition mattered. Healthcare contributed heavily and included a large mechanical strike-reversal effect, construction benefited from weather rebound, and manufacturing improved versus expectations. That made the headline too strong to read as the new underlying trend. The wage side was more dovish: both monthly and annual average earnings missed, and annual wage growth fell to 3.5%, its lowest pace since 2021. Meanwhile the household survey sent a softer message: participation fell, U6 rose, and broader indicators of labor quality remained weak. February’s downward revision to -133k also mattered. The right synthesis was not “labor bounced back cleanly,” but “temporary supports produced a stronger March headline on top of an underlying slow-hire, low-fire market with weaker quality.”
+State transition: false dawn
+
+Context from prior regional live file:
+The earlier week had already established labor as a freeze regime rather than a firing regime. Payrolls did not break that interpretation. They delayed a sharper deterioration signal, but did not overturn the weaker-flow evidence from JOLTS or the softer household-survey quality metrics.
+
+HF Take — Strategist Layer
+
+For the Fed, this was awkward but not liberating. The headline beat and 4.3% unemployment removed any immediate easing cover, but softer wages and weaker labor quality kept the growth side from looking truly robust. Markets that treated the report as an uncomplicated labor reacceleration risked misreading a print flattered by one-offs and weaker underneath than the headline suggested.
+
+UNITED STATES — S&P Global Comp PMI Final / S&P Global Svcs PMI Final (Mar)
+Release Date: 3 Apr 2026 | Local Time: 15:45
+
+Reuters Data
+
+S&P Global Comp PMI Final: 50.3 | Prior: 51.4
+S&P Global Svcs PMI Final: 49.8 | Prior: 51.1
+
+Professional Market Commentary
+
+This release was dramatically under-covered because it landed on the same day as payrolls in thin holiday trading. The more careful tape, however, treated it as one of the most important forward-looking signals of the week: services slipped into contraction for the first time since early 2023, the composite dropped toward stall speed, and pricing pressures intensified.
+
+Comment — Economist Layer
+
+This was arguably the most important forward-looking state transition of the week. Services at 49.8 ended a 37-month expansion streak, and the move from flash to final showed that conditions worsened materially in the second half of March. New orders softened, export demand deteriorated further, employment slipped, and input and output prices accelerated. The release aligned strikingly well with Dallas services, weaker consumer expectations and labor-freeze signals. It also sat in direct tension with the stronger payroll headline: payrolls were backward-looking and compositionally flattered, while services PMI pointed to a live deterioration in the largest part of the economy. The most accurate read was that the U.S. service economy was now buckling under the combined weight of higher costs and weaker confidence, even if the labor data had not fully caught up yet.
+State transition: escalation
+
+Context from prior regional live file:
+The prior tape had already been moving toward slower domestic demand, but this was the first clean national services contraction signal. It validated the earlier Dallas services weakness and materially strengthened the case that the U.S. entered Q2 with a deteriorating service-sector backdrop.
+
+HF Take — Strategist Layer
+
+This was the release most likely to matter for the next phase of the macro narrative even though it received less coverage than payrolls. Strategically, it sharpened the stagflationary bind: softer services growth, worsening confidence, firmer prices. It also suggested that forward activity risk was more negative than the headline labor report implied.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Backward-looking U.S. activity data still printed resilient, but the forward-looking services, labor-flow and confidence indicators deteriorated materially while input-cost inflation accelerated.
+
+Why it matters: This blocks both a clean soft-landing narrative and a clean easing narrative.
+
+Implication: The U.S. enters the next window in an active stagflationary bind — softer forward growth, firmer cost pressure, and a Fed that remains constrained.
+
+3 KEY RELEASES TO DIG INTO
+
+ISM Manufacturing PMI / Prices Paid (1 Apr 2026)
+Why it matters: This was the policy-defining release of the week. The headline PMI showed activity still expanding, but Prices Paid at 78.3 moved the inflation shock into live data and tightened the Fed constraint materially.
+S&P Global Svcs PMI Final / Comp PMI Final (3 Apr 2026)
+Why it matters: This was the most important forward-looking growth signal of the week. Services fell into contraction, the composite moved toward stall speed, and the release validated earlier service-sector weakness that headline labor data did not capture.
+JOLTS Job Openings (31 Mar 2026)
+Why it matters: This established the labor market’s underlying structure. Hires and quits at multi-year lows confirmed a slow-hire, low-fire freeze that later claims and payrolls did not overturn.
+
+<<USD_WEEK_END>>
+
+<<USD_WEEK_BEGIN>>
 DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
 A. US WEEK — MACRO SYNTHESIS
