@@ -63,16 +63,16 @@ OUTPUT FORMAT
 
 Use uppercase wrapper markers:
 
-<<SHEET[UNIT]_BEGIN>>
+<<ARC_[UNIT]_BEGIN>>
 ...sheet content...
-<<SHEET[UNIT]_END>>
+<<ARC_[UNIT]_END>>
 
 Example:
 
-<<SHEETEUR_BEGIN>>
-<<SHEETEUR_END>>
-<<SHEETCAD_BEGIN>>
-<<SHEETCAD_END>>
+<<ARC_EUR_BEGIN>>
+<<ARC_EUR_END>>
+<<ARC_CAD_BEGIN>>
+<<ARC_CAD_END>>
 
 Inside the markers, use exactly this structure:
 
