@@ -1,4 +1,108 @@
 <<SEK_WEEK_BEGIN>>
+DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
+
+A. SEK WEEK — MACRO SYNTHESIS
+
+Sweden’s week resolved into a clear two-speed domestic-versus-industrial split rather than a single-direction macro signal. Household demand softened meaningfully through February retail sales, with the monthly sequence and rolling profile weakening enough to suggest January was more bounce than durable rebound. But that weakness was directly offset by another very strong March manufacturing PMI, which showed export and industrial activity still holding up despite the shakier external backdrop. The resulting weekly message is not outright macro deterioration, but a more divided Swedish regime in which domestic demand is softer while the industrial side remains resilient enough to limit how dovish the total macro read can become.
+
+B. SEK MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+The weekly growth signal was mixed rather than cleanly negative. February retail sales fell 0.6% m/m and slowed to 2.4% y/y, which was a real softening in household demand, but March manufacturing PMI rose to 56.3 from 56.1, keeping industrial activity clearly expansionary. Sweden therefore did not produce a single coherent growth message; it produced a two-speed one.
+
+Labor: ~
+Supporting evidence:
+No Sweden labour-market release appeared in the supplied file for this window, so the labour signal could not be updated from this source alone.
+
+Inflation: ~
+Supporting evidence:
+No Sweden inflation release appeared in the supplied file for this window, so there is no validated basis here to shift the inflation signal.
+
+Financial Conditions: ~
+Supporting evidence:
+There was no direct Sweden housing, credit or financing-conditions release in the file. Retail weakness suggested softer domestic transmission, but the week did not provide a clean financial-conditions read through rates-sensitive indicators.
+
+Policy Constraint: ~
+Supporting evidence:
+The week pushed in both directions for the Riksbank. Softer retail sales were dovish at the margin because they showed a weaker consumer base entering Q2, but very strong manufacturing meant the macro picture was not weak enough to justify an aggressive dovish re-pricing. The practical result is unresolved policy direction rather than a clean shift.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 30 MAR 2026
+
+Sweden — Retail Sales MM / YY (Feb)
+Release Date: 30 Mar 2026 | Local Time: 08:00
+
+Reuters Data
+
+Retail Sales MM: -0.6% | Prior: 0.1% | Revised: -0.1%
+Retail Sales YY: 2.4% | Prior: 3.9%
+
+Professional Market Commentary
+
+Official SCB detail made the release softer than the positive y/y level alone suggested. The monthly fall came with a weaker rolling three-month profile and a split between still-positive durables and softer consumables. No Tier 1 institutional debate was visible; the official composition itself carried most of the signal.
+
+Comment — Economist Layer
+
+This was a genuine domestic-demand softening print. The hierarchy matters: the y/y rate stayed positive, but the monthly sequence weakened further and the rolling comparison slipped negative, so January now looks more like a temporary bounce than the start of a durable household rebound. The important macro point is timing: this weakness was already visible before the latest external energy shock.
+State transition: deterioration.
+
+Context from prior regional live file:
+The immediately prior DM live sequence did not contain a Sweden block, so this release establishes the Sweden household-demand baseline for the current week.
+
+HF Take — Strategist Layer
+
+Modestly Riksbank-dovish at the margin. This is not a regime-changing print on its own, but it reinforces that Sweden entered Q2 with a soft consumer base and therefore less cushion against external tightening.
+
+WEDNESDAY 1 APR 2026
+
+Sweden — PMI Manufacturing Sect (Mar)
+Release Date: 1 Apr 2026 | Local Time: 08:30
+
+Reuters Data
+
+PMI Manufacturing Sect: 56.3 | Prior: 56.1 | Revised: 56.0
+
+Professional Market Commentary
+
+Silf/Swedbank described March as another strong manufacturing reading, with PMI at 56.3 and above its historical average for a ninth consecutive month. The release headline explicitly framed Swedish industry as defying a shaky external backdrop.
+
+Comment — Economist Layer
+
+This sharply contrasted with the retail-sales weakness two days earlier. Swedish manufacturing remained strong and arguably near-cycle-high in quarterly terms, while household demand was softening. That makes Sweden the clearest two-speed DM economy in the tape: export/industrial resilience versus domestic-demand fragility.
+State transition: continuation.
+
+Context from prior regional live file:
+The prior DM live sequence did not have a Sweden block. Within the current week, this release offset but did not erase the weaker retail signal.
+
+HF Take — Strategist Layer
+
+Mixed for SEK/Riksbank interpretation. Strong manufacturing limits how bearish the macro call can become, but weak domestic demand still argues against a hawkish re-pricing.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Swedish household demand weakened, but manufacturing stayed very strong. Retail sales showed a softer domestic base, while PMI showed industry still outperforming despite the shakier external environment.
+
+Why it matters: It prevents a clean macro read. Sweden cannot be treated as either straightforward domestic weakening or straightforward cyclical resilience; it is both at once, depending on which transmission channel matters more into Q2.
+
+Implication: SEK and Riksbank mapping should stay balanced. Domestic softness limits hawkish scope, but industrial resilience limits how negative the macro interpretation can become.
+
+3 KEY RELEASES TO DIG INTO
+
+Sweden — Retail Sales MM / YY (30 Mar 2026)
+Why it matters: This was the key domestic-demand signal of the week. The monthly fall and weaker rolling profile suggested that January’s strength was not the start of a durable household rebound.
+
+Sweden — PMI Manufacturing Sect (1 Apr 2026)
+Why it matters: This was the key offsetting signal. Manufacturing stayed firmly expansionary at 56.3, showing that the industrial/export side remained much stronger than the household side.
+
+Sweden — Retail / PMI sequence together
+Why it matters: The real macro information was not in either release alone but in the combination. Taken together, they made Sweden the clearest two-speed economy in the DM file.
+
+<<SEK_WEEK_END>>
+
+
+<<SEK_WEEK_BEGIN>>
 DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
 A. SEK WEEK — MACRO SYNTHESIS
