@@ -1,5 +1,216 @@
 
 <<CHF_WEEK_BEGIN>>
+DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
+
+A. CHF WEEK — MACRO SYNTHESIS
+
+Switzerland delivered the sharpest internal contradiction in the DM tape. The week opened with a major forward-growth warning as KOF collapsed below 100 and pointed to broad deterioration across manufacturing and foreign demand, but that signal was then directly challenged by a sharp rebound in March manufacturing PMI back into expansion. February retail sales stabilised and reserves data added little, while March CPI rose only modestly to 0.3% y/y and remained far too low to create any near-term tightening pressure. The resulting CHF regime was not overheating and not clean deterioration either; it was a mixed-growth, low-inflation configuration in which current activity and forward indicators pointed in different directions, leaving the SNB on hold and forcing more caution around any single-release macro conclusion.
+
+B. CHF MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+The growth signal was the most conflicted in the whole file. KOF fell sharply to 96.1 from 104.2 and signalled broad forward deterioration, especially in manufacturing and foreign demand, but manufacturing PMI then jumped to 53.3 from 47.4 and moved back into expansion. Retail sales also stabilised at 0.9% y/y after negative prior readings. Switzerland therefore did not deliver a coherent directional growth message; it delivered a current-conditions versus forward-outlook split.
+
+Labor: ~
+Supporting evidence:
+No Switzerland labour-market release appeared in the supplied file for this window, so the labour signal could not be updated from this source alone.
+
+Inflation: +
+Supporting evidence:
+March CPI rose only to 0.3% y/y and 0.2% m/m, below expectations and still extremely low by European standards. The file explicitly treated this as far too modest to generate any immediate SNB tightening pressure. In macro terms, inflation remained contained rather than problematic.
+
+Financial Conditions: ~
+Supporting evidence:
+The official reserves-assets release added little standalone information because the headline stock was not enough to separate valuation effects from intervention or other balance-sheet changes. CPI also did not generate any tightening urgency. The practical read is stable conditions from the perspective of policy pressure, but without a strong new financial-conditions signal from the file itself.
+
+Policy Constraint: +
+Supporting evidence:
+The week reduced near-term SNB constraint rather than increasing it. Growth signals turned mixed, but CPI stayed very low and did not force a policy response. That left the SNB able to stay patient and keep June hold as the base case, with CHF and intervention dynamics still more important than inflation pressure for near-term mapping.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 30 MAR 2026
+
+Switzerland — KOF Indicator (Mar)
+Release Date: 30 Mar 2026 | Local Time: 09:00
+
+Reuters Data
+
+KOF Indicator: 96.1 | Prior: 104.2 | Revised: 103.8
+
+Professional Market Commentary
+
+The official KOF message was broad deterioration, not a single-sector wobble. The barometer fell below 100, with both production-side and demand-side bundles weakening, and manufacturing plus foreign demand explicitly singled out as weak points.
+
+Comment — Economist Layer
+
+This was one of the cleanest leading-growth deteriorations in the DM tape. The significance lies less in the headline level and more in the breadth: once both manufacturing and foreign demand weaken together in Switzerland, the signal becomes materially more serious because that is the core transmission channel of the Swiss cycle.
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior DM live sequence did not contain a Switzerland block, so this opens the Swiss run-rate rather than revising an already-formed weekly Swiss trajectory.
+
+HF Take — Strategist Layer
+
+Growth-side pressure on the SNB increased, but this was not enough on its own to create a policy shift. The strategist mapping was immediately conditional on Swiss CPI and PMI: KOF was a warning, not yet a completed macro regime verdict.
+
+TUESDAY 31 MAR 2026
+
+Switzerland — Official Reserves Assets CHF (Feb)
+Release Date: 31 Mar 2026 | Local Time: 09:00
+
+Reuters Data
+
+Official Reserves Assets CHF: 856,021.11M | Prior: 853,081.11M
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected. The SNB data portal did not provide enough public decomposition here to separate valuation effects from intervention or other balance-sheet moves.
+
+Comment — Economist Layer
+
+With only the headline stock, this remained a low-information line. A modest increase in reserves could reflect valuation, portfolio effects or intervention, and the headline alone was not enough to discriminate among them.
+State transition: no material change.
+
+Context from prior regional live file:
+The prior DM live sequence did not contain a Switzerland block, so there was no earlier reserve-assets sequence to extend.
+
+HF Take — Strategist Layer
+
+Minimal standalone value. For CHF/SNB mapping, this release stayed well below CPI, KOF and PMI in informational importance.
+
+WEDNESDAY 1 APR 2026
+
+Switzerland — Retail Sales YY (Feb)
+Release Date: 1 Apr 2026 | Local Time: 08:30
+
+Reuters Data
+
+Retail Sales YY: 0.9% | Prior: -1.1% | Revised: -0.6%
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected. The official FSO material made the headline available, but accessible public composition was thin.
+
+Comment — Economist Layer
+
+The headline was a modest stabilisation signal. A return to positive y/y growth mattered directionally, but the release was backward-looking February data and therefore carried less policy weight than the much newer March KOF deterioration. Read alone it was mildly positive; read in sequence it only partly offset the Swiss growth-softening story.
+State transition: stabilisation.
+
+Context from prior regional live file:
+There was no prior Swiss retail block in the live sequence, so this print serves more as a reference point than as a decisive trajectory shift.
+
+HF Take — Strategist Layer
+
+Helpful for near-term Swiss consumption tone, but not strong enough to challenge the KOF-led growth warning. For strategy, KOF stayed the higher-ranked Swiss signal.
+
+Switzerland — Manufacturing PMI (Mar)
+Release Date: 1 Apr 2026 | Local Time: 09:30
+
+Reuters Data
+
+Manufacturing PMI: 53.3 | Prior: 47.4 | Poll: 47.0 | Surprise: 6.30
+
+Professional Market Commentary
+
+The official procure.ch/UBS publication showed the PMI jumping 5.9 points to 53.3, the first move above 50 since December 2022, while also warning that it remained uncertain whether the improvement would be durable. The release also highlighted sharply rising delivery times and input prices as the Middle East conflict escalated.
+
+Comment — Economist Layer
+
+This was the week’s cleanest internal divergence. Two days after KOF signalled a broad forward slowdown, the PMI printed outright expansion. The composition matters: stronger orders and production were encouraging, but surging delivery times and inventories also suggested front-loading and supply-chain distortion. The correct analytical stance is not to choose one release and ignore the other; it is to treat PMI as current-conditions strength and KOF as forward-looking deterioration.
+State transition: stabilisation, with high signal tension.
+
+Context from prior regional live file:
+There was no prior Swiss PMI sequence in the live file. Inside the current week, however, this immediately became the direct counter-signal to the KOF collapse.
+
+HF Take — Strategist Layer
+
+The SNB should not react to one PMI beat, especially with CPI still low. For strategy, this was a “watch April” release: if PMI strength persists, KOF may have over-led; if it rolls over, KOF will have been the correct signal.
+
+THURSDAY 2 APR 2026
+
+Switzerland — CPI MM / YY (Mar)
+Release Date: 2 Apr 2026 | Local Time: 08:30
+
+Reuters Data
+
+CPI MM: 0.2% | Prior: 0.6% | Poll: 0.5% | Surprise: -0.30%
+CPI YY: 0.3% | Prior: 0.1% | Poll: 0.5% | Surprise: -0.20%
+
+Professional Market Commentary
+
+Reuters framed the release as a modest one-year high driven by fuel, but still below expectations and far too low to create any immediate SNB tightening pressure. UBS’ public comment in the Reuters piece also argued the rise was too modest to trigger rate-hike thinking.
+
+Comment — Economist Layer
+
+This was exactly the kind of print the SNB framework can absorb. Headline inflation rose, but core pressure remained contained and the increase was still tiny by European standards. The broader Swiss problem therefore remained what it was before the release: not overheating, but how to manage weak medium-term inflation with growth signals turning mixed and CHF strength still relevant.
+State transition: continuation.
+
+Context from prior regional live file:
+There was no prior Swiss CPI block in the live sequence. Within the week, CPI did not resolve the KOF/PMI growth contradiction; it simply removed any near-term inflation urgency.
+
+HF Take — Strategist Layer
+
+June SNB hold remained the base case. CHF and intervention dynamics still mattered more than this CPI print for near-term policy mapping.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Switzerland’s current-activity signal and forward-growth signal moved in opposite directions. KOF collapsed to 96.1 and pointed to broad deterioration, while manufacturing PMI jumped to 53.3 and pointed back to expansion.
+
+Why it matters: It prevents a clean macro read and makes April validation crucial. One release says the Swiss cycle is weakening through its core external/manufacturing channel; the other says current factory conditions rebounded sharply.
+
+Implication: The right CHF/SNB stance is patience. CPI stayed too low to force policy, so the correct reaction is to treat Switzerland as mixed-growth and low-inflation, not as either outright deterioration or fresh reacceleration.
+
+3 KEY RELEASES TO DIG INTO
+
+Switzerland — KOF Indicator (30 Mar 2026)
+Why it matters: This was the strongest forward-growth warning of the week. The breadth of the deterioration made it more serious than a single-sector miss.
+
+Switzerland — Manufacturing PMI (1 Apr 2026)
+Why it matters: This was the direct counter-signal to KOF and the cleanest current-conditions rebound in the Swiss file. It mattered because it prevented a one-way bearish read on Swiss growth.
+
+Switzerland — CPI MM / YY (2 Apr 2026)
+Why it matters: This release did not resolve the growth contradiction, but it did settle the policy question for the near term. Inflation stayed too low to create any immediate SNB tightening urgency.
+
+<<CHF_WEEK_END>>
+
+
+<<CHF_WEEK_BEGIN>>
+DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
+
+A. CHF WEEK — MACRO SYNTHESIS
+
+No Switzerland releases were present in the supplied DM week file for this window, so there is no validated CHF macro update to extract from this source. The correct archive conclusion is therefore no new CHF macro signal in window.
+
+B. CHF MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+No Switzerland growth release appears in the supplied file for 23 Mar 2026 to 27 Mar 2026, so the weekly signal is unresolved from this source.
+
+Labor: ~
+Supporting evidence:
+No Switzerland labour-market release appears in the supplied file for this window, so there is no basis to update the labour signal.
+
+Inflation: ~
+Supporting evidence:
+No Switzerland inflation release appears in the supplied file for this window, so the inflation signal is unchanged from the perspective of this source.
+
+Financial Conditions: ~
+Supporting evidence:
+No Switzerland housing, credit, reserves, rates-sensitive or financial-conditions release appears in the supplied file for this window, so there is no validated weekly update.
+
+Policy Constraint: ~
+Supporting evidence:
+With no Switzerland releases in the supplied file, there is no new evidence to revise SNB policy mapping from this weekly window alone.
+
+C. FULL RELEASE ARCHIVE
+
+No Switzerland release blocks were present in the supplied DM week file for this window.
+
+<<CHF_WEEK_END>>
+<<CHF_WEEK_BEGIN>>
 DATA WINDOW: 6 Mar 2026 to 20 Mar 2026
 
 A. SWITZERLAND WEEK — MACRO SYNTHESIS
