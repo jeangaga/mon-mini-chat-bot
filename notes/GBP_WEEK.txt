@@ -1,4 +1,159 @@
+<<GBP_WEEK_BEGIN>>
+DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
 
+A. GBP WEEK — MACRO SYNTHESIS
+
+The UK week resolved into a clearer stagflation-bind configuration rather than a simple growth-break or recovery story. Backward-looking February credit and March house-price data showed that housing and household-finance transmission were still working going into the shock, but the more important macro message came from the Q4 national accounts and the March manufacturing survey layer: growth was already stagnant, real-income and terms-of-trade dynamics were fragile, and the supply side was deteriorating through higher costs and longer delivery times. The result is an economy that entered the new external energy shock without a meaningful growth cushion and with renewed inflation-quality risk.
+
+B. GBP MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+Q4 GDP was confirmed at just 0.1% q/q and 1.0% y/y, which is stagnation rather than collapse but still a weak starting point. Business investment revisions softened the earlier negative read, but the current-account deficit widened to £18.4bn and the March manufacturing PMI showed output already slipping into contraction territory underneath the 51.0 headline. February credit and March Nationwide prices showed residual momentum, but mostly as backward-looking level support rather than a fresh growth impulse.
+
+Labor: ~
+Supporting evidence:
+The week did not contain a direct UK labour-market release, so labour could not be reclassified decisively from this tape alone. The broader implication from the UK blocks is that activity was too weak to support a strong reacceleration story, but there was not enough labour evidence in the file to move this bucket away from mixed / unresolved.
+
+Inflation: -
+Supporting evidence:
+This was the clearest deterioration in the weekly UK profile. The manufacturing PMI did not show a benign slowdown; it showed a stagflationary mix, with the biggest month-on-month jump in input costs since 1992 and sharply longer delivery delays. The Q4 external and real-income backdrop also mattered because it left the UK more exposed to renewed imported-energy pressure rather than better insulated from it.
+
+Financial Conditions: -
+Supporting evidence:
+February BoE credit, mortgage lending and approvals were all firm, and Nationwide house prices were much stronger than expected, but both releases were explicitly treated as backward-looking because financing conditions had already tightened materially after the Middle East shock. The practical read is that the UK entered the shock with residual housing and credit momentum, but not with an easing financial backdrop going forward.
+
+Policy Constraint: -
+Supporting evidence:
+The week made the BoE problem more acute. Growth data argued against renewed tightening enthusiasm, but the inflation-quality mix worsened meaningfully through higher costs, supply delays and terms-of-trade vulnerability. That is the textbook two-sided bind: activity too weak for comfort, inflation risk too sticky for easy dovish relief.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 30 MAR 2026
+
+United Kingdom — BOE Consumer Credit / Mortgage Lending / Mortgage Approvals (Feb)
+Release Date: 30 Mar 2026 | Local Time: 10:30
+
+Reuters Data
+
+BOE Consumer Credit: 1.935B | Prior: 1.812B | Revised: 1.828B | Poll: 1.600B | Surprise: 0.3350B
+Mortgage Lending: 4.840B | Prior: 4.076B | Revised: 4.211B | Poll: 4.100B | Surprise: 0.7400B
+Mortgage Approvals: 62.584k | Prior: 59.999k | Revised: 60.246k | Poll: 61.250k | Surprise: 1.3340k
+
+Professional Market Commentary
+
+The official BoE release showed February credit and mortgage activity strengthening, with consumer credit at £1.9 billion and remortgaging approvals also higher. But the professional tape immediately treated the figures as backward-looking because financing conditions had already tightened sharply after the Middle East shock.
+
+Comment — Economist Layer
+
+The raw read was clearly firm: all three series beat, and housing-credit transmission was still working in February. But the macro weight of the release is lower than the beats imply because it describes a financing environment that no longer exists. Consumer borrowing remained strong enough to matter for the BoE’s inflation discomfort, but the bigger signal is temporal: February showed pre-shock resilience, not current momentum.
+State transition: false dawn.
+
+Context from prior regional live file:
+The prior DM live sequence had UK housing and mortgage-sensitive demand behaving as rate-sensitive rather than cleanly recovering. February BoE data partly repaired the backward-looking level, but not the forward vulnerability already visible in the file.
+
+HF Take — Strategist Layer
+
+This was not a clean BoE-hike signal. For strategy, the usable point was that the UK entered the shock with credit and mortgage activity still moving, which raises the inflation-risk side of the BoE problem, but the next post-shock credit print mattered much more than this one.
+
+TUESDAY 31 MAR 2026
+
+United Kingdom — GDP YY / GDP QQ / Business Invest QQ / Business Invest YY / Current Acc GBP (Q4)
+Release Date: 31 Mar 2026 | Local Time: 08:00
+
+Reuters Data
+
+GDP YY: 1.0% | Prior: 1.0% | Poll: 1.0% | Surprise: 0.00%
+GDP QQ: 0.1% | Prior: 0.1% | Poll: 0.1% | Surprise: 0.00%
+Business Invest QQ: -2.5% | Prior: -2.7% | Revised: 1.1%
+Business Invest YY: 2.0% | Prior: 2.0% | Revised: 3.5%
+Current Acc GBP: -18.392B | Prior: -12.067B | Revised: -10.689B | Poll: -23.400B | Surprise: 5.0080B
+
+Professional Market Commentary
+
+The official ONS framing was stagnant growth with worsening terms-of-trade pressure. Q4 GDP was confirmed at 0.1% q/q, the current-account deficit was 2.4% of GDP including precious metals and 1.1% excluding them, and real GDP per head rose 0.6% y/y but fell 0.1% q/q; ONS also highlighted Middle East energy prices as an additional headwind to terms of trade in 2026.
+
+Comment — Economist Layer
+
+The backward-looking message was stagnation, not collapse. GDP did not deteriorate relative to the first estimate and the business-investment revision materially improved the earlier capex picture. But the more important current macro signal lay in real income and external terms of trade: a flat-output economy with squeezed real income is exactly the wrong configuration for a new imported-energy shock.
+State transition: continuation.
+
+Context from prior regional live file:
+The prior DM live sequence already had UK housing and demand channels acting rate-sensitive rather than robust. The Q4 national-accounts bundle extended that same logic to the whole economy.
+
+HF Take — Strategist Layer
+
+This was the clearest UK stagflation-bind print in the week. Growth argued against hiking; the inflation and terms-of-trade shock argued against complacency. The UK still lacked a comfortable growth buffer.
+
+United Kingdom — Nationwide house price mm / yy (Mar)
+Release Date: 31 Mar 2026 | Local Time: 08:00
+
+Reuters Data
+
+Nationwide house price mm: 0.9% | Prior: 0.3% | Poll: -0.1% | Surprise: 1.00%
+Nationwide house price yy: 2.2% | Prior: 1.0% | Poll: 0.8% | Surprise: 1.40%
+
+Professional Market Commentary
+
+Nationwide’s own release described a very strong realised print, with annual growth rising to 2.2% and the average price reaching £277,186. But Robert Gardner also explicitly warned that the Middle East shock had made the rate outlook much more uncertain and that higher market rates would likely soften housing activity if sustained.
+
+Comment — Economist Layer
+
+This was the strongest UK housing print of the sequence, but it still had to be treated as lagged strength rather than a fresh forward impulse. The realised data said the market had momentum going into late March. The macro information content, however, was the divergence between that strength and a much harsher forward financing backdrop now acknowledged by Nationwide itself.
+State transition: false dawn.
+
+Context from prior regional live file:
+The prior DM live sequence had UK housing as financing-sensitive, not as a clean recovery story. Nationwide improved the backward-looking level signal, but not the forward regime call.
+
+HF Take — Strategist Layer
+
+The BoE would not tighten because Nationwide beat. The strategist takeaway was that housing had been firmer than feared going into the shock, but if swap-rate repricing held, housing would become another Q2 slowdown channel.
+
+WEDNESDAY 1 APR 2026
+
+United Kingdom — S&P Global Manufacturing PMI (Mar)
+Release Date: 1 Apr 2026 | Local Time: 10:30
+
+Reuters Data
+
+S&P Global Manufacturing PMI: 51.0 | Prior: 51.4 | Poll: 51.4 | Surprise: -0.40
+
+Professional Market Commentary
+
+Reuters reported that UK manufacturing stayed in expansion but softened, while the more important message was the cost side: input-cost pressures saw their biggest month-on-month jump since 1992, delivery delays were the longest since mid-2022, and the output component fell into contraction territory at 49.2.
+
+Comment — Economist Layer
+
+This was a stagflationary manufacturing print, not a simple demand-collapse print. The headline PMI above 50 would normally look acceptable, but the underlying mix was worse: output contracted, costs surged and delivery times lengthened sharply. That means the UK factory sector was already feeling the supply-shock side of the conflict before a full demand response had even shown up.
+State transition: continuation, with worsening inflation-quality mix.
+
+Context from prior regional live file:
+The prior DM live sequence already had the UK operating with weak growth and a fragile housing/demand backdrop. March PMI deepened that story by adding a clearer supply-shock channel.
+
+HF Take — Strategist Layer
+
+Bad for the BoE in exactly the wrong way. The release did not argue for strength; it argued that inflation pressure could worsen even as activity softened, which keeps the policy bind acute.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Backward-looking UK data still showed residual housing and credit momentum, while the national-accounts and March PMI layer made clear that the underlying regime was already stagnation plus worsening cost pressure, not clean recovery.
+
+Why it matters: It means the UK cannot be read off the February credit beat or the Nationwide surprise alone. The real macro question is whether post-shock data validate the housing/credit resilience or instead confirm that tighter rates and imported energy pressure are about to hit a weak base.
+
+Implication: Treat the apparent firmness in housing and household finance as lagged level support, not as a fresh cyclical upswing. The dominant weekly conclusion is that the BoE bind intensified.
+
+3 KEY RELEASES TO DIG INTO
+
+United Kingdom — GDP / Current Account / Business Investment (31 Mar 2026)
+Why it matters: This was the decisive macro block of the week. It confirmed that the UK entered the shock with stagnant growth, weak real-income dynamics and an adverse terms-of-trade backdrop. The capex revision helped at the margin, but did not change the regime.
+
+United Kingdom — S&P Global Manufacturing PMI (1 Apr 2026)
+Why it matters: This was the clearest inflation-quality deterioration of the week. The headline PMI stayed above 50, but output contracted and cost pressure surged, making it a stagflationary rather than a reassuring release.
+
+United Kingdom — BOE Consumer Credit / Mortgage Lending / Mortgage Approvals (30 Mar 2026)
+Why it matters: The February data showed that housing and household-finance transmission were still working before the shock. That matters because it explains why the BoE faces an inflation-risk problem even though the forward growth backdrop is weak.
+
+<<GBP_WEEK_END>>
 <<GBP_WEEK_BEGIN>>
 DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
 
