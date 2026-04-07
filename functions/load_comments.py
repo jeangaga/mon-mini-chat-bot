@@ -302,8 +302,8 @@ def load_macro_note(region: str) -> str:
     - region examples: "eur", "jpy", "usd", "mxn", "zar" (case-insensitive)
     - file: <REGION>_MACRO_NOTE.txt (e.g., EUR_MACRO_NOTE.txt)
     - block markers:
-        <<<EUR_MACRO_NOTE_BEGIN>>> ... <<<EUR_MACRO_NOTE_END>>>
-        <<<JPY_MACRO_NOTE_BEGIN>>> ... <<<JPY_MACRO_NOTE_END>>>
+        <<<EUR_MACRO_NOTE_BEGIN>>> ... <<<EUR_MACRO_NOTE_END>>
+        <<<JPY_MACRO_NOTE_BEGIN>>> ... <<<JPY_MACRO_NOTE_END>>
     Returns: the first matched block (stripped), or an error message.
     """
 
@@ -315,8 +315,8 @@ def load_macro_note(region: str) -> str:
     filename = f"{reg}_MACRO_NOTE.txt"
     url = f"{base_url}/{filename}"
 
-    begin_tag = f"<<<{reg}_MACRO_NOTE_BEGIN>>>"
-    end_tag = f"<<<{reg}_MACRO_NOTE_END>>>"
+    begin_tag = f"<<{reg}_MACRO_NOTE_BEGIN>>"
+    end_tag = f"<<{reg}_MACRO_NOTE_END>>"
 
     try:
         r = requests.get(url, timeout=5)
