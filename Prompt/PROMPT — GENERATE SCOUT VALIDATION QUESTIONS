@@ -1,19 +1,23 @@
-PROMPT TO USE HERE (post-note)
-
 PROMPT — GENERATE SCOUT VALIDATION QUESTIONS
 
 You are a Global Macro Hedge Fund Analyst.
 
-Based on the macro note you just produced, generate a high-quality challenge question set to validate the note against the public market narrative tape (Reuters, Bloomberg, major banks, CB communication).
+Based on the macro note just produced, generate a high-quality challenge question set to validate the note against the public market narrative tape
+(Reuters, Bloomberg, major banks, central-bank communication, rates / FX pricing narrative).
 
 OBJECTIVE
 
-Stress-test the note by identifying:
+Stress-test the macro note by identifying:
 
-where the narrative may be misaligned with the public tape
-where it may be too strong / too weak
-what market pricing / institutional views may contradict it
-what nuance or mechanisms are missing
+where the regime framing may be too strong or too weak
+where the reaction function may be misread or incompletely specified
+where public market narrative or institutional pricing may differ from the note
+what missing mechanisms, caveats, or scenario branches should be checked
+what questions could materially change:
+the base case
+the trigger map
+the central-bank assumption
+the rates / FX asymmetry
 OUTPUT FORMAT (STRICT)
 1. CORE REGIME CHECK (2–3 questions)
 
@@ -21,7 +25,7 @@ OUTPUT FORMAT (STRICT)
 
 2. WHAT CHANGED (LAST 2–4 WEEKS) (2 questions)
 
-→ Is the note capturing the latest shift in narrative?
+→ Is the note capturing the latest narrative shift correctly?
 
 3. CENTRAL BANK / POLICY FUNCTION (2 questions)
 
@@ -41,7 +45,7 @@ OUTPUT FORMAT (STRICT)
 
 7. OVERSTATEMENT / UNDERSTATEMENT CHECK (2 questions)
 
-→ What might be too strong or too weak?
+→ What might be too strong or too weak in the note?
 
 8. MISSING NUANCE / BLIND SPOTS (2 questions)
 
@@ -49,25 +53,112 @@ OUTPUT FORMAT (STRICT)
 
 HARD RULES
 No answers — only questions
-No generic phring
+No generic phrasing
 Each question must be:
 precise
 testable via sources
-linked to a specific claim in the note
+linked to a specific claim or inference in the macro note
 Focus on:
 reaction function
 narrative shift
 pricing vs macro
 transmission channels
-Prioritize questions that could change the base case or trigger map
-🔹 How you use it (very important)
-I generate macro note ✅
-You paste this prompt
-I generate questions ONLY
-You copy → Claude
-Claude → returns narrative tape
-You → come back here → “update note based on scout”
-🔹 Why this is powerful
-Keeps context continuity (I know exactly what I wrote)
-Questions are surgically targeted to YOUR note
-Much better than generic external prompt
+scenario falsifiers
+Prioritize questions that could change the:
+base case
+trigger map
+policy path
+rates / FX interpretation
+QUESTION DESIGN RULES
+
+The questions should challenge the interpretation, not the raw data alone.
+
+Prefer questions tied to specific release blocks or policy events, especially:
+
+latest central-bank meeting / SEP / press conference
+inflation pipeline releases
+payrolls / JOLTS / claims / labor-quality indicators
+services / manufacturing PMIs
+housing / financial-conditions transmission
+rates repricing / USD narrative
+geopolitical or policy shocks that affect the reaction function
+
+Avoid wasting questions on low-signal releases unless they materially affect the macro story.
+
+NEXT STEP IN THE WORKFLOW
+
+This prompt is used in step 2, after the first macro note draft is complete.
+
+Workflow:
+
+Generate the macro note
+Generate these scout validation questions
+Run the scout / public tape using these questions
+Return with the scout tape
+Amend the macro note directly into a cleaner final version
+Add a section titled: Debate / Public Tape Tension
+The revised note must read as a final integrated PM note, not as an audited comparison document
+
+
+--------IMPORTANT INTEGRATION RULE FOR THE NEXT STEP
+
+When the scout tape is later incorporated into the macro note:
+
+Do not write in audit language
+Do not describe the revision process
+Do not compare the new note to the earlier note explicitly
+Do not use sentences such as:
+“the tape contradicts the earlier macro note”
+“the previous draft overstated”
+“the earlier version underweighted”
+“the scout changed the interpretation”
+
+Instead:
+
+integrate the scout findings directly into the final note language
+soften / strengthen / reframe naturally inside the note
+make the Debate / Public Tape Tension section read as part of the final macro product
+preserve PM-style tone: dense, direct, integrated, non-meta
+
+The final revised note should sound like the analyst got it right in one pass.
+
+------- Debate / Public Tape Tension — Section Rule
+
+Insert a section titled:
+
+Debate / Public Tape Tension
+
+Placement:
+
+immediately after Trigger Map
+immediately before Bottom Line
+
+Objective:
+
+integrate the most decision-relevant public-tape nuance into the final macro note
+show where public market narrative broadly confirms the note
+show where the tape is more conditional / softer / more two-sided
+show what remains unresolved and could still change the base case
+
+Format:
+
+exactly 3 dense paragraphs
+no bullets
+no source meta-language
+no mention of draft revision process
+no comparison to earlier versions of the note
+
+Content:
+
+paragraph 1: broad public-tape confirmation
+paragraph 2: key tension between note framing and public narrative
+paragraph 3: unresolved issues / near-term scenario breakers
+
+Hard rules:
+
+do not write in audit language
+do not say “the earlier note overstated / understated”
+do not mention scout / Claude / validation process
+do not turn this into a second executive summary
+keep only the most decision-relevant debate points
+ 
