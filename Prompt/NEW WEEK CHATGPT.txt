@@ -1,3 +1,4 @@
+
 WEEK MACRO MONITORING — CHAT INITIALIZATION TEMPLATE
 (v3.5 — Regional Live Tape Mode + Claude-Primary Construction + Mandatory Web Anchoring + Mandatory GitHub History + Institutional Hierarchy + Anti-Narrative Drift + Official-Release Consolidation Rule)
 
@@ -446,6 +447,7 @@ MONDAY 9 MAR 2026
 
 [Country] — [Indicator] ([Period])
 Release Date: [date] | Local Time: [time]
+Importance: * / ** / *** / ****
 
 1. Reuters Data
 2. Professional Market Commentary
@@ -493,6 +495,77 @@ Each release block contains exactly 4 sections in this order:
 3. Comment — Economist Layer
 Context from prior regional live file
 4. HF Take — Strategist Layer
+
+
+
+DAY HEADER RULE FOR RELEASE BLOCKS
+
+Inside RELEASE BLOCKS, all release analyses must be grouped under uppercase day headers.
+
+Rules:
+- use the same chronological day order as in WEEKLY RELEASE TRACKER
+- use one day header only once
+- place all releases for that day directly underneath it
+- do not repeat the day header before every single release
+- do not leave RELEASE BLOCKS as one continuous undifferentiated sequence
+
+RELEASE BLOCK SECTION DESCRIPTION
+
+Each release block contains exactly 4 sections in this order:
+
+Importance: * / ** / *** / ****
+1. Reuters Data
+2. Professional Market Commentary
+3. Comment — Economist Layer
+Context from prior regional live file
+4. HF Take — Strategist Layer
+
+IMPORTANCE FLAG RULE
+
+Each release block must contain one importance flag line directly under the release header.
+
+Format:
+Importance: *
+Importance: **
+Importance: ***
+Importance: ****
+
+Placement:
+- insert immediately below:
+  Release Date: [date] | Local Time: [time]
+- place it before Section 1 — Reuters Data
+
+Style rules:
+- plain text only
+- do not bold
+- do not italicize
+- do not add explanation on the same line unless explicitly requested
+- this line is mandatory for every release block, including shorter blocks and minor releases
+
+Scoring logic:
+Combine:
+1. intrinsic importance of the release
+2. size / quality of the surprise
+3. usefulness for deeper interpretation, JGM follow-up, or regime mapping
+
+Interpretation:
+- * = low importance
+  Minor release, low surprise, limited policy or regime value, low priority for deeper follow-up
+- ** = secondary importance
+  Useful domestic signal, but not a major policy hinge or regime-defining release
+- *** = important
+  Clear macro signal, meaningful surprise and/or relevant policy implications, worth close reading
+- **** = highest importance
+  Major release and/or major surprise and/or decisive regime / policy / market relevance; priority for deeper JGM-style follow-up
+
+Application rule:
+- importance is assessed relative to the country or regional macro story, not by a fixed global scale
+- a release may rank higher if it resolves the main contradiction in that country's live file even if the calendar importance is only medium
+- do not overuse ****
+- only a limited number of releases in a regional file should receive **** unless the week is exceptionally dense
+
+
+
 
 SECTION 1 — REUTERS DATA
 
@@ -791,6 +864,7 @@ INTERNAL CONSISTENCY CHECKS (MANDATORY)
 Before finalizing the note, verify:
 1. Every RELEASED item in the tracker has a release block
 2. Every release block contains all required sections
+2a. Every release block contains the plain-text line: Importance: * / ** / *** / ****
 3. Section 1 is purely mechanical
 4. Section 2 remains tape / narrative, not detailed decomposition
 5. Section 3 contains the analytical core and a State transition line
@@ -837,6 +911,7 @@ Example:
 UNITED STATES — CPI / Core CPI (Feb)
 
 Release Date: 11 Mar 2026 | Local Time: 13:30
+Importance: ****
 
 1. Reuters Data
 
