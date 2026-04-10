@@ -1,3 +1,734 @@
+
+<<EM_WEEK_BEGIN>>
+DATA WINDOW: 6 Apr 2026 to 10 Apr 2026
+
+A. EM WEEK — MACRO SYNTHESIS
+
+EM resolved into a broad supply-shock-constrained, increasingly stagflationary week rather than a clean growth slowdown or clean inflation re-acceleration. Brazil delivered the clearest deterioration in both activity and prices; Mexico delivered the sharpest policy dilemma as inflation surged into an already divided Banxico while activity weakened; India’s combination of softer services quality and an RBI hold-with-caution captured the template EM central-bank response to the shock; China shifted into “bad inflation” through positive PPI without demand-led CPI strength; Korea stayed on hold but under tighter oil/FX constraint; and South Africa’s apparent PMI resilience was undermined by weak internals and poor hard manufacturing data. The main exceptions were Turkey, where reserves and pre-shock activity improved enough to signal stabilization rather than acute stress, and Taiwan, where AI-led exports and still-soft CPI made it the lone clean positive outlier. Labor did not emerge as the dominant regional driver: evidence was sparse and mixed, with isolated survey support unable to offset the broader growth-cost squeeze.
+
+B. EM MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+The regional growth signal weakened but did not collapse uniformly. Brazil’s services/composite PMIs deteriorated sharply, Mexico industrial output contracted more than expected, and South Africa’s PMI internals plus manufacturing output pointed to weaker underlying momentum. India services stayed in expansion but with softer domestic demand quality, while Taiwan’s export surge and Turkey’s pre-shock industrial recovery prevented a one-direction regional contraction call.
+
+Labor: ~
+Supporting evidence:
+The week did not produce a decisive regional labor signal. South Africa’s PMI reported improved employment, but that support sat alongside falling new orders, weaker exports and collapsing confidence, so it did not validate a durable improvement. Elsewhere, labor evidence was largely absent from the file, leaving labor as unresolved rather than a clean source of deterioration or support.
+
+Inflation: -
+Supporting evidence:
+The dominant weekly signal was tighter price pressure through multiple channels. Brazil moved from softer activity into upstream and then consumer-price re-acceleration via IGP-DI and IPCA; Mexico printed higher headline inflation and a sharp PPI rise; China’s PPI turned positive even as CPI stayed soft, signalling supply-side cost pressure; and Korea’s central bank explicitly linked the new inflation risk to oil and FX. Taiwan’s CPI undershoot was the main exception rather than the regional norm.
+
+Financial Conditions: ~
+Supporting evidence:
+Financial conditions tightened through FX/oil sensitivity but not in a uniform stress pattern. India’s rupee weakness and RBI focus on containing excess FX volatility, Korea’s weakened won and market-volatility concern, and the broader oil shock all argued for tighter conditions. Offsetting that, Turkey’s large net reserve improvement and South Africa’s still-high reserve levels prevented a generalized EM balance-sheet stress conclusion.
+
+Policy Constraint: -
+Supporting evidence:
+The week clearly narrowed easing room across the region. RBI held while marking growth down and inflation up; NBP paused after March’s cut rather than validating an automatic easing path; BOK’s hold became materially less dovish; Banxico’s inflation print and 3–2 split exposed a sharper credibility bind; and Brazil’s worsening growth-price mix made any cut path more conditional. Only Taiwan remained comfortably outside the tightening-of-constraint cluster.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 6 APR 2026
+
+India — HSBC: Services - Business Activity (Mar)
+Release Date: 6 Apr 2026 | Local Time: 07:00 IST
+Importance: ***
+
+Reuters Data
+
+HSBC: SERVICES - BUSINESS ACTIVITY: 57.5 | Prior: 57.2 | Poll: 57.4 | Surprise: 0.10
+
+Professional Market Commentary
+
+Headline beat versus flash kept the top-line tone constructive, but the better-anchored tape was materially softer underneath: March was the weakest services expansion in 14 months, domestic new business slowed to a 14-month low, export demand stayed very strong, and input cost inflation rose to the fastest pace in 45 months. Firms also absorbed part of the cost shock rather than fully passing it through.
+
+Comment — Economist Layer
+
+This is still an expansion print, but the quality deteriorated for a second straight month. The hierarchy inside the release is: headline still strong, domestic demand softer, exports offsetting, and input-cost pressure intensifying. That combination matters more than the small beat versus consensus. It says India services is not breaking, but it is leaning more on external demand while domestic momentum cools and margins get squeezed.
+
+State transition: continuation with deterioration sub-signal
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block establishes rather than updates prior written regional history.
+
+HF Take — Strategist Layer
+
+For the RBI path, this is mildly supportive of future easing only on the growth side, but the cost-pressure channel keeps that optionality conditional on oil and FX stabilising. In EM cross-section terms, India starts the week as the “still-growing but less clean” economy rather than a demand-collapse case.
+
+Brazil — S&P Global Services PMI / S&P Global Composite PMI (Mar)
+Release Date: 6 Apr 2026 | Local Time: 15:00 BRT
+Importance: ****
+
+Reuters Data
+
+S&P Global Services PMI: 50.1 | Prior: 53.1
+S&P Global Composite PMI: 49.9 | Prior: 51.3
+
+Professional Market Commentary
+
+The professional tape treated this as a deterioration event even when short-form coverage softened it as “near-stagnation.” Services fell to the edge of flatline, the composite slipped below 50, new business weakened, and cost pressures intensified. The official S&P Global release also pointed to softer confidence and renewed price pressure across services and the broader composite mix.
+
+Comment — Economist Layer
+
+This is the cleanest early-week stagflationary deterioration block in EM. Composite sub-50 matters most. Services at 50.1 says the weakness is not just manufacturing spillover. New orders falling again tells you it is not merely a one-off confidence wobble. Cost acceleration alongside weaker demand is the key regime signal because it impairs the usual easing read-through from softer PMIs. The sequential deterioration is too large to dismiss as marginal.
+
+State transition: deterioration
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first written Brazil growth-and-prices deterioration marker in the weekly file.
+
+HF Take — Strategist Layer
+
+This materially worsens the Copom mix. A pure growth slowdown would help the easing case. A growth slowdown plus renewed cost pressure instead shifts Brazil into the most acute stagflationary bucket in the file, pending confirmation from IPCA and other hard price data later in the week.
+
+TUESDAY 7 APR 2026
+
+South Africa — Std Bank Whole Econ PMI (Mar)
+Release Date: 7 Apr 2026 | Local Time: 09:15 SAST
+Importance: ****
+
+Reuters Data
+
+Std Bank Whole Econ PMI: 50.8 | Prior: 50.0
+
+Professional Market Commentary
+
+Headline-above-50 coverage suggested recovery, but the better tape was bifurcated: output and employment improved, while new orders fell for a second month, export sales saw their sharpest drop in just over two years, and confidence slipped to its weakest since July 2021. Reuters highlighted exactly that split, with David Owen characterising the release as bifurcated rather than cleanly improving.
+
+Comment — Economist Layer
+
+This is analytically more negative than the headline implies. Output likely benefited from replenishment and project execution, but forward-looking demand deteriorated. Export weakness is the key sub-signal because it embeds the external-shock channel directly into the survey. Confidence collapsing at the same time as the headline edges above 50 is the decisive contradiction: the survey is not signalling durable recovery, but temporary current-output resilience over weaker demand foundations.
+
+State transition: false dawn
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block functions as the first written South Africa activity marker rather than an update to earlier regional sequencing.
+
+HF Take — Strategist Layer
+
+For SARB mapping, this is awkward rather than reassuring. The headline alone would support a less dovish read. The internals argue the opposite: demand is weakening while cost and logistics risks remain live. That makes this one of the week’s most important “do not read the headline only” releases.
+
+Brazil — Trade Balance (Mar)
+Release Date: 7 Apr 2026 | Local Time: 20:00 BRT
+Importance: ***
+
+Reuters Data
+
+Trade Balance: 6.405B | Prior: 4.208B | Revised: 4.038B | Poll: 7.350B | Surprise: -0.9450B
+
+Professional Market Commentary
+
+The official/public tape split between two valid framings: the lowest March surplus since 2020 and, simultaneously, still a large surplus supported by very strong oil exports. The better reading is compositional. Brazil benefited from a war-related crude rerouting windfall, while imports rose 20.1% y/y to a record level, which left the underlying balance less healthy than the headline surplus alone suggests.
+
+Comment — Economist Layer
+
+The main signal is not the surplus number itself but what drove it. Oil re-routing lifted the export side, especially to China, while the import bill surged. That means sequential improvement versus February flatters the underlying external picture. This is not a broad-based structural export-strength signal. It is a commodity-composition windfall layered on top of a much heavier import bill.
+
+State transition: false dawn
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block establishes the first written Brazil external-account signal in the current EM note.
+
+HF Take — Strategist Layer
+
+For BRL and Brazil macro mapping, this is only modestly supportive. Commodity support helps near-term resilience, but the composition is too dependent on nonrecurring oil rerouting to upgrade the structural story. It matters more as a vulnerability flag if oil support fades while imports remain elevated.
+
+WEDNESDAY 8 APR 2026
+
+India — Repo Rate / Reverse Repo Rate / Deposit Stndfc Rate / Marginal Stndfc Rte / Cash Reserve Ratio (8 Apr)
+Release Date: 8 Apr 2026 | Local Time: 06:30 IST
+Importance: ****
+
+Reuters Data
+
+Repo Rate: 5.25% | Prior: 5.25% | Poll: 5.25% | Surprise: 0.000%
+Reverse Repo Rate: 3.35% | Prior: 3.35%
+Deposit Stndfc Rate: 5.00% | Prior: 5.00% | Poll: 5.00% | Surprise: 0.000%
+Marginal Stndfc Rte: 5.50% | Prior: 5.50% | Poll: 5.50% | Surprise: 0.000%
+Cash Reserve Ratio: 3.00% | Prior: 3.00% | Poll: 3.00% | Surprise: 0.000%
+
+Professional Market Commentary
+
+The tape converged on a hold-with-caution interpretation. The RBI kept policy unchanged and the stance neutral, but the meeting was not benign: growth forecasts were marked down, inflation forecasts marked up, and Governor Malhotra explicitly framed the decision as a wait-and-watch response to a supply shock from the Middle East crisis. Reuters also highlighted India’s oil-import dependence, the rupee slide, and the RBI’s commitment to contain excessive FX volatility.
+
+Comment — Economist Layer
+
+The unchanged rate is not the main information. The information is the regime shift from benign growth-plus-disinflation toward a cautious balancing act. The hierarchy is: unchanged rates, lower growth, higher inflation, and an explicit supply-shock framework. That narrows easing room without creating a base case for hikes. This is why the release should be read as pause, not pivot.
+
+State transition: continuation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first written central-bank reaction-function anchor in the week file.
+
+HF Take — Strategist Layer
+
+This is the template EM central-bank response to the current shock: do not ease mechanically, do not over-tighten into a supply shock, keep optionality alive, and push the real decision into the next meeting window. June becomes the live bifurcation point for India.
+
+Taiwan — CPI YY NSA (Mar)
+Release Date: 8 Apr 2026 | Local Time: 10:00 CST
+Importance: ***
+
+Reuters Data
+
+CPI YY NSA: 1.20% | Prior: 1.75% | Poll: 1.65% | Surprise: -0.450%
+
+Professional Market Commentary
+
+Coverage was sparse, but the official DGBAS release confirmed March CPI publication on 8 April, and the headline message from accessible reporting was clear: inflation undershot expectations materially and remained below 2%, making Taiwan the disinflationary outlier in an otherwise more inflationary EM week.
+
+Comment — Economist Layer
+
+The significance is cross-sectional rather than absolute. The question was whether the regional oil shock would produce visible headline pass-through. Instead, Taiwan printed a large downside surprise. That suggests pass-through remains weaker than expected, or that the domestic price mix and policy stabilisation mechanisms are still muting the external shock. It keeps Taiwan out of the regional “headline CPI re-acceleration” cluster.
+
+State transition: continuation with disinflationary sub-signal
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this CPI release acts as the opening Taiwan inflation marker in the weekly note.
+
+HF Take — Strategist Layer
+
+This reduces any residual tightening risk for the CBC and preserves a patient hold regime. It also matters for EM synthesis because it prevents the week from collapsing into a single inflation-reacceleration story. Taiwan remains a structural exception.
+
+Brazil — IGP-DI Inflation Index (Mar)
+Release Date: 8 Apr 2026 | Local Time: 13:00 BRT
+Importance: ***
+
+Reuters Data
+
+IGP-DI Inflation Index: 1.14% | Prior: -0.84% | Poll: 1.12% | Surprise: 0.020%
+
+Professional Market Commentary
+
+FGV’s official release confirmed a sharp reversal from -0.84% in February to +1.14% in March. The public tape around the release was thinner than for PMI, but the directional message was unambiguous: upstream prices flipped abruptly from deflation to inflation.
+
+Comment — Economist Layer
+
+IGP-DI is valuable here as a pipeline signal. It does not settle the consumer-inflation question, but it materially strengthens the case that upstream pressure is re-entering the system quickly. That fits with the PMI cost story already visible earlier in the week. Brazil now has softer activity and re-accelerating upstream prices at the same time.
+
+State transition: reversal
+
+HF Take — Strategist Layer
+
+This is not the biggest market-moving release, but it is one of the most useful signal-extraction releases for Copom. It raises the probability that the Brazil inflation story is broadening beyond surveys and into hard upstream data.
+
+Brazil — Overall Comprehensive Risk (Q2)
+Release Date: 8 Apr 2026 | Local Time: 19:00 BRT
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 4.86 | Prior: 4.88 | Revised: 4.86
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Effectively flat. At this magnitude, the change is not policy-relevant relative to the far stronger signal coming from Brazil PMIs, trade, IGP-DI and IPCA.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only. No incremental rates, FX or regime signal.
+
+Mexico — Overall Comprehensive Risk (Q2)
+Release Date: 8 Apr 2026 | Local Time: 19:00 CST
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 4.17 | Prior: 4.18 | Revised: 4.17
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Effectively unchanged. No material weekly signal before the inflation and industrial blocks arrive.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Background indicator only.
+
+THURSDAY 9 APR 2026
+
+Poland — NBP Base Rate (Apr)
+Release Date: 9 Apr 2026 | Local Time: 15:00 CEST
+Importance: ***
+
+Reuters Data
+
+NBP Base Rate: 3.75% | Prior: 3.75% | Poll: 3.75% | Surprise: 0.000%
+
+Professional Market Commentary
+
+The official NBP release confirmed a hold at 3.75% after the March cut. Institutional framing around the decision remained “pause-and-observe”: inflation is within target and growth had been strong, but the energy shock makes the pace and terminal point of easing less certain than it looked immediately after March.
+
+Comment — Economist Layer
+
+This is a sequencing signal more than a directional reversal. March was the first cut. April is the first pause after that cut. That matters because it shows the NBP is unwilling to validate an automatic easing path into an external cost shock. Poland still screens as relatively strong within EM/CEE, but easing confidence has become more conditional.
+
+State transition: continuation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this decision establishes the Poland policy sequence in the current weekly file rather than extending an earlier EM narrative.
+
+HF Take — Strategist Layer
+
+This keeps Poland in the “easing intact but not on autopilot” bucket. It is a cleaner macro mix than Brazil or Mexico, but the energy shock has clearly pushed the curve toward slower, more conditional cuts.
+
+South Africa — Net $Gold & Forex Res / Gross $Gold & Forex Res (Mar)
+Release Date: 9 Apr 2026 | Local Time: 08:00 SAST
+Importance: **
+
+Reuters Data
+
+Net $Gold & Forex Res: 73.187B | Prior: 75.835B
+Gross $Gold & Forex Res: 77.759B | Prior: 81.060B
+
+Professional Market Commentary
+
+Official SARB reserve data showed reserves declined from February’s record highs. The available official framing pointed to valuation effects and foreign-exchange payments on behalf of government rather than market-stress reserve depletion. Absolute reserve levels remained historically high.
+
+Comment — Economist Layer
+
+This is a buffer read, not a stress read. The decline looks large in isolation, but the starting point was exceptionally strong. Because gold-price and valuation effects mattered, the macro signal is less alarming than the simple gross and net declines suggest. That is important because South Africa’s week already contains weak forward-demand signals.
+
+State transition: continuation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block serves as the first reserve-buffer marker in the current EM file.
+
+HF Take — Strategist Layer
+
+This leaves South Africa in a fragile-growth but manageable-buffer bucket, not a reserve-stress bucket. It does not improve the growth picture, but it prevents a sharper macro-stress interpretation.
+
+Turkey — Overall Comprehensive Risk (Q2)
+Release Date: 9 Apr 2026 | Local Time: 11:00 TRT
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 2.75 | Prior: 2.76 | Revised: 2.75
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Marginal move only. No policy-relevant signal relative to the much more important reserve and industrial releases.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only.
+
+Poland — Overall Comprehensive Risk (Q2)
+Release Date: 9 Apr 2026 | Local Time: 11:00 CEST
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 7.75 | Prior: 7.75
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Unchanged. Still the strongest score in this tracked set, but not a week-level macro signal.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+No incremental strategy signal.
+
+South Africa — Overall Comprehensive Risk (Q2)
+Release Date: 9 Apr 2026 | Local Time: 11:00 SAST
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 4.66 | Prior: 4.66
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Unchanged. Adds no new information beyond the much richer PMI, reserve and manufacturing signal set.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only.
+
+South Africa — Manuf Production MM (Feb)
+Release Date: 9 Apr 2026 | Local Time: 13:00 SAST
+Importance: ***
+
+Reuters Data
+
+Manuf Production MM: -2.2% | Prior: 1.5% | Revised: 1.9% | Poll: 0.2% | Surprise: -2.40%
+
+Professional Market Commentary
+
+Reuters’ release was simple and negative: a sharp miss versus expectations, a clear reversal from January’s revised strength, and a year-on-year contraction as well. Because this is February hard data, it matters as a relatively clean pre-full-shock read on underlying manufacturing momentum.
+
+Comment — Economist Layer
+
+This is the hard-data confirmation that the favorable PMI headline should not be taken at face value. Manufacturing was already weak before the full external shock had flowed through. The upward January revision makes February more negative, not less: the base was stronger, yet the reversal was still sharp. That says South Africa entered the shock window from a weaker industrial footing than the PMI headline implied.
+
+State transition: deterioration
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this becomes the first hard-data South Africa activity anchor in the file.
+
+HF Take — Strategist Layer
+
+Together with PMI internals, this pushes South Africa firmly toward weaker-growth, still-cost-sensitive territory. It does not settle SARB, but it materially reduces confidence in any resilience narrative based on the PMI headline alone.
+
+Turkey — Gross FX Reserves / Net FX Reserves (30 Mar, w/e)
+Release Date: 9 Apr 2026 | Local Time: 13:30 TRT
+Importance: ****
+
+Reuters Data
+
+Gross FX Reserves: 58.42B | Prior: 55.29B
+Net FX Reserves: 45.66B | Prior: 35.08B
+
+Professional Market Commentary
+
+The professional tape treated this as one of the week’s clean positive surprises. Reuters-linked reporting and official weekly data pointed to a roughly $11 billion rise in net reserves, much larger than the gross increase, consistent with a meaningful improvement in reserve quality and/or liability structure rather than a simple headline reserve accumulation story.
+
+Comment — Economist Layer
+
+This is best read as stabilisation rather than full repair. The size of the net increase matters because reserve adequacy is Turkey’s main macro binding constraint. The gap between gross and net improvement suggests that the balance-sheet quality of reserves likely improved as well. One week does not remove fragility, but it clearly says Turkey was not under acute reserve pressure at this point.
+
+State transition: stabilization
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block establishes the Turkey reserve-path story inside the weekly file.
+
+HF Take — Strategist Layer
+
+This is the clearest outright positive macro surprise in the EM tape before Taiwan’s trade release. It supports TRY stability and, more importantly, supports the view that the post-2023 orthodox framework is still functioning through the shock. Persistence is now the key test.
+
+Mexico — Headline Inflation / Core Inflation / 12-Month Inflation / PPI MM / PPI YY (Mar)
+Release Date: 9 Apr 2026 | Local Time: 14:00 CST
+Importance: ****
+
+Reuters Data
+
+Headline Inflation: 0.86% | Prior: 0.50% | Poll: 0.90% | Surprise: -0.040%
+Core Inflation: 0.38% | Prior: 0.46% | Poll: 0.40% | Surprise: -0.020%
+12-Month Inflation: 4.59% | Prior: 4.02% | Poll: 4.63% | Surprise: -0.040%
+PPI MM: 1.7% | Prior: 0.2%
+PPI YY: 2.8% | Prior: 1.1%
+
+Professional Market Commentary
+
+Reuters framed this as a surge in inflation that intensified debate within an already divided Banxico board. Headline inflation rose to 4.59%, the highest since late 2024, while core eased slightly to 4.45% y/y. The key complication was same-day publication of March meeting minutes, which exposed the 3–2 split behind Banxico’s March cut and directly linked the policy debate to the fresh inflation print.
+
+Comment — Economist Layer
+
+This is the clearest “textbook policy dilemma” block in the file. Headline accelerated sharply, core eased only slightly, and PPI surged hard enough to suggest more pipeline pressure ahead. That means the majority-dove argument can still say the shock is temporary and non-core, but the hawkish minority now has much stronger evidentiary ground. The most important detail is not that headline slightly undershot poll. It is that Banxico cut into a rising headline and rising upstream-price environment while the board was visibly split.
+
+State transition: escalation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this release establishes Mexico’s weekly inflation regime rather than extending prior written regional sequencing.
+
+HF Take — Strategist Layer
+
+This puts Banxico into the sharpest credibility bind in the EM file. Brazil has a difficult inflation-growth mix; Mexico has a difficult inflation-growth mix plus an openly divided central bank that has already chosen to cut into the shock. That raises the bar for another cut at the next meeting and makes the peso more sensitive to oil and inflation expectations.
+
+Brazil — BR WSD-Soybn Output 25/26 / BR World Soy Output 24/25 / BR Wrld Corn Output 24/25 / BR WSD-Corn Output 25/26 (Apr)
+Release Date: 9 Apr 2026 | Local Time: 18:00 BRT
+Importance: *
+
+Reuters Data
+
+BR WSD-Soybn Output 25/26: 180.00M | Prior: 180.00M | Poll: 179.84M | Surprise: 0.160M
+BR World Soy Output 24/25: 172.50M | Prior: 171.50M
+BR Wrld Corn Output 24/25: 136.00M | Prior: 136.00M
+BR WSD-Corn Output 25/26: 132.00M | Prior: 132.00M | Poll: 132.66M | Surprise: -0.660M
+
+Professional Market Commentary
+
+No major institutional debate emerged. The broad message was stability in soybean estimates, a small upward revision to prior-year soy output, and only a modest miss on 25/26 corn versus poll.
+
+Comment — Economist Layer
+
+No material macro or policy signal. These are commodity-supply details rather than a meaningful shift in the Brazil macro week.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only. No meaningful implications for Copom or EM week ranking.
+
+FRIDAY 10 APR 2026
+
+South Korea — Bank of Korea Base Rate (Apr)
+Release Date: 10 Apr 2026 | Local Time: 03:00 KST
+Importance: ****
+
+Reuters Data
+
+Bank of Korea Base Rate: 2.50% | Prior: 2.50%
+
+Professional Market Commentary
+
+Reuters and the official BOK statement were aligned: the bank held at 2.50%, warned of a highly uncertain path, and explicitly linked rising inflation risk, downside growth risk and financial-market volatility to the Middle East war. The BOK decision text stated that all seven board members supported holding rates. Reuters also highlighted the weakened won and the risk that 2026 inflation could exceed the bank’s prior projection considerably.
+
+Comment — Economist Layer
+
+This is a continuation block, but not an innocuous one. The important signal is that prior guidance is now stale. Korea’s policy stance had been built on a lower oil assumption and a more stable currency backdrop. Those conditions have broken. The bank is still holding, but the hold is now more constrained and less dovish than the headline implies. Korea is therefore “frozen,” not comfortable.
+
+State transition: continuation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first Korea policy marker in the current weekly EM note.
+
+HF Take — Strategist Layer
+
+For KRW and front-end Korea rates, the easing trajectory is effectively suspended unless the oil and FX backdrop improves materially. The BOK is not signalling hikes as base case, but it is clearly no longer operating in a benign hold environment.
+
+China (Mainland) — PPI YY / CPI YY / CPI MM (Mar)
+Release Date: 10 Apr 2026 | Local Time: 03:30 CST
+Importance: ****
+
+Reuters Data
+
+PPI YY: 0.5% | Prior: -0.9% | Poll: 0.4% | Surprise: 0.10%
+CPI YY: 1.0% | Prior: 1.3% | Poll: 1.2% | Surprise: -0.20%
+CPI MM: -0.7% | Prior: 1.0% | Poll: -0.2% | Surprise: -0.50%
+
+Professional Market Commentary
+
+Reuters characterised this correctly as China’s first producer inflation in more than three years. The official story was a split one: PPI turned positive as imported cost pressure rose, while CPI softened more than expected and monthly CPI fell sharply. Public macro commentary around the release emphasised that rising upstream costs were meeting still-soft downstream demand rather than demand-led inflation strength.
+
+Comment — Economist Layer
+
+This is “bad inflation,” not healthy reflation. PPI turning positive is structurally important because it ends a long factory-gate deflation streak. But the CPI undershoot and sharp negative monthly reading show household demand is still too soft to absorb or transmit the shock fully. That is the worst policy mix from a cyclical perspective: input costs rise, margins compress, and consumer demand remains mediocre.
+
+State transition: reversal for PPI; continuation for CPI
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block opens the China price-sequence inside the current EM week rather than updating a populated prior file.
+
+HF Take — Strategist Layer
+
+This narrows room for aggressive PBOC easing and matters globally because a positive China PPI is a supply-chain and commodity-input signal, not just a domestic China fact. For the EM week, China joins the inflation-pressure side of the ledger, but via a supply-side channel rather than consumer-demand strength.
+
+China (Mainland) — Overall Comprehensive Risk (Q2)
+Release Date: 10 Apr 2026 | Local Time: 05:00 CST
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 2.27 | Prior: 2.28 | Revised: 2.27
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Flat. No macro information beyond the much more significant CPI/PPI block.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only.
+
+India — Overall Comprehensive Risk (Q2)
+Release Date: 10 Apr 2026 | Local Time: 05:00 IST
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 3.06 | Prior: 3.06
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Unchanged. No incremental information relative to the far richer India PMI and RBI policy blocks.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only.
+
+Turkey — Industrial Production Unadj MM (Feb)
+Release Date: 10 Apr 2026 | Local Time: 09:00 TRT
+Importance: ***
+
+Reuters Data
+
+Industrial Production Unadj MM: 0.3% | Prior: -24.7% | Revised: -24.8%
+
+Professional Market Commentary
+
+The headline Reuters-formatted unadjusted sequence is misleading. Official TURKSTAT coverage for February showed industrial production up 2.2% y/y, and accessible coverage of the release pointed to a seasonally adjusted monthly rebound that was much stronger than the unadjusted MoM line suggests. The key point is that February was a pre-shock recovery read, not a flat print.
+
+Comment — Economist Layer
+
+The analytically relevant message is recovery before the shock, not the unadjusted base-effect noise. February therefore gives Turkey a firmer real-economy starting point than the raw Reuters prior/actual sequence implies. That matters because it complements the reserve improvement: Turkey was not only stabilising on the balance-sheet side, but also entered the shock from a better short-term industrial position than the raw unadjusted series suggests.
+
+State transition: stabilisation / pre-shock reversal
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first industrial-cycle marker for Turkey in the current weekly EM file.
+
+HF Take — Strategist Layer
+
+This does not erase Turkey’s fragility, but it makes the country a cleaner relative positive than it looked earlier in the year. March and April data will matter more because they capture the real post-shock economy.
+
+Taiwan — Imports of Goods / Exports of Goods / Trade Balance (Mar)
+Release Date: 10 Apr 2026 | Local Time: 10:00 CST
+Importance: ****
+
+Reuters Data
+
+Imports of Goods: 38.30% | Prior: 6.80% | Poll: 18.10% | Surprise: 20.200%
+Exports of Goods: 61.80% | Prior: 20.60% | Poll: 33.20% | Surprise: 28.600%
+Trade Balance: 21.270B | Prior: 12.770B | Poll: 14.500B | Surprise: 6.7700B
+
+Professional Market Commentary
+
+Reuters reported a record March export value, with AI and cloud demand still driving Taiwan’s external sector hard. Exports rose 61.8% y/y to $80.18 billion, the first time above $80 billion, imports also surged far above forecast, and the official ministry guidance still projected very strong April export growth. The composition was heavily tech-led: electronic components rose 44.0% and information products 134.5%.
+
+Comment — Economist Layer
+
+This is the lone clean positive escalation block in the whole EM note. Taiwan is not merely resilient; it is decoupling positively through the AI/semiconductor cycle. The earlier CPI undershoot and this trade blowout are complementary, not contradictory: soft domestic inflation and explosive external demand can coexist in a high-tech exporter when the dominant force is global AI capex rather than domestic overheating. The main caveat is timing: oil import-price pain had not yet fully flowed through March.
+
+State transition: escalation (positive)
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block establishes the Taiwan external-demand regime in the weekly file rather than updating prior written EM history.
+
+HF Take — Strategist Layer
+
+This makes Taiwan the clean positive outlier in the region. Strong surplus, soft CPI, and tech-led demand mean no obvious tightening pressure and no clear growth scare. The next risk is not the current data; it is whether April-May import-price shock eventually compresses the surplus and feeds into costs.
+
+Brazil — IPCA Inflation Index MM / YY (Mar)
+Release Date: 10 Apr 2026 | Local Time: 14:00 BRT
+Importance: ****
+
+Reuters Data
+
+IPCA Inflation Index MM: 0.88% | Prior: 0.70% | Poll: 0.77% | Surprise: 0.110%
+IPCA Inflation Index YY: 4.14% | Prior: 3.81% | Poll: 4.00% | Surprise: 0.140%
+
+Professional Market Commentary
+
+Reuters and the official IBGE release were aligned: March IPCA came in at 0.88% m/m and 4.14% y/y, both above consensus. IBGE’s own breakdown showed transport and food drove most of the monthly increase, with fuels a particularly important driver. Reuters emphasised the implication for Brazil’s new rate-cut cycle, while IBGE quantified the rise in transport and food as together explaining 76% of the monthly index.
+
+Comment — Economist Layer
+
+This is the hard confirmation that Brazil’s earlier-week stagflation signals were real. PMIs showed weaker activity and rising costs. IGP-DI showed upstream reversal. IPCA now proves consumer inflation also re-accelerated, and by more than expected. The internal composition matters: transport and food are the classic shock-transmission channels. That means Brazil is no longer just an upstream-cost story. It is a consumer-price story too.
+
+State transition: escalation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first written consumer-inflation regime marker for Brazil in the current EM week file.
+
+HF Take — Strategist Layer
+
+This is the binding Copom constraint for late April. Brazil now has the week’s clearest stagflation configuration: sub-50 composite, pipeline price re-acceleration, and headline CPI above 4% with upside surprise. Any cut path becomes more conditional and more credibility-sensitive from here.
+
+Mexico — Industrial Output YY / Industrial Output MM (Feb)
+Release Date: 10 Apr 2026 | Local Time: 14:00 CST
+Importance: ***
+
+Reuters Data
+
+Industrial Output YY: -1.3% | Prior: -1.1% | Poll: -0.7% | Surprise: -0.60%
+Industrial Output MM: 0.4% | Prior: -1.1% | Poll: 0.6% | Surprise: -0.20%
+
+Professional Market Commentary
+
+Accessible official/market context showed Mexico’s industrial sector entered February already weak, and the new release confirmed a deeper y/y contraction than expected. The m/m rebound was insufficient to change the broader message. In the week’s sequence, the industrial data landed one day after the inflation/minutes shock, which made the policy dilemma worse rather than better.
+
+Comment — Economist Layer
+
+This is the growth-side half of Mexico’s stagflation bind. February is still largely a pre-full-shock reading, which is what makes it important: Mexico was already entering the conflict window with deteriorating industrial momentum. The slight m/m rebound does not offset the deeper y/y contraction. Put together with the inflation block, Mexico now has both weaker activity and higher headline inflation simultaneously.
+
+State transition: deterioration
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this establishes Mexico’s weekly hard-activity baseline rather than updating a prior EM written sequence.
+
+HF Take — Strategist Layer
+
+Mexico now screens as the sharpest central-bank credibility problem in the file: inflation up, PPI up, industrial output down, and Banxico already having cut into that mix. That is why Mexico, not Brazil, is the most acute policy-credibility case even though Brazil’s inflation/activity mix is also worsening.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: CPI has not re-accelerated uniformly across EM, but upstream and survey-based cost pressure clearly has.
+Why it matters: Central banks can still look through a supply shock only if household-price pass-through stays limited.
+Implication: Ceasefire durability and the oil path remain the gating variables for whether EM easing windows reopen or stay constrained.
+
+3 KEY RELEASES TO DIG INTO
+
+Brazil — IPCA Inflation Index MM / YY (10 Apr 2026)
+Why it matters: This is the week’s binding Brazil policy block. PMIs and IGP-DI already signalled worsening conditions; IPCA confirms the inflation shock has reached the consumer level and exceeded consensus. It is the most important direct constraint on Copom.
+Mexico — Headline Inflation / Core Inflation / 12-Month Inflation / PPI MM / PPI YY (9 Apr 2026)
+Why it matters: This is the sharpest central-bank-credibility block in the file. Inflation accelerated, PPI surged, Banxico minutes revealed a 3–2 split, and the bank had already cut into the shock. No other release combines macro and institutional tension as cleanly.
+Taiwan — Imports of Goods / Exports of Goods / Trade Balance (10 Apr 2026)
+Why it matters: This is the clean positive outlier for the region. The scale of the beat shows AI/semiconductor demand is still overwhelming the negative external shock. It materially changes the cross-regional read because it proves not all EM/Asia is being dragged into the same stagflation regime.
+
+<<EM_WEEK_END>>
+
+
+
+
+
+
 <<EM_WEEK_BEGIN>>
 DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
 
