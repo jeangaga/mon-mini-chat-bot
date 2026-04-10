@@ -133,6 +133,34 @@ During the live weekly process:
 
 If JGM notes appear in the source file, they are already validated and must be preserved exactly in the archive section.
 
+GITHUB HISTORY (MANDATORY)
+
+For continuity, use two GitHub sources:
+
+1. Archived regional history file = prior validated weekly history
+ 
+
+Interpretation rule:
+- Use [REGION]_WEEK.txt as the primary historical continuity source
+ 
+- Do not assume the live file contains the full historical archive
+- If the archived weekly file exists and is readable, it overrides the live file as the source for “prior regional history”
+
+Base raw link pattern:
+https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/[FILE].txt
+or if doesnt work try
+https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/[FILE].txt
+
+Historical archive examples:
+- USD_WEEK.txt
+- EUR_WEEK.txt
+- DM_WEEK.txt
+- EM_WEEK.txt
+ 
+Purpose:
+- [REGION]_WEEK.txt = prior frozen weekly history / release archive
+ 
+
 DEFINITION OF GITHUB HISTORICAL CONTEXT
 
 GitHub historical context refers to prior regional weekly live files that may have been used during the live weekly process to compare prior occurrences of the same series.
