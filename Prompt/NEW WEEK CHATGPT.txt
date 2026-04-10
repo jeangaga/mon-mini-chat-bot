@@ -296,31 +296,38 @@ Unverified — Do Not Ingest
 
 GITHUB HISTORY (MANDATORY)
 
-For every release, you must read the prior weekly history from the corresponding GitHub live file and use it in the analysis.
+For continuity, use two GitHub sources:
+
+1. Archived regional history file = prior validated weekly history
+2. Current regional live file = current-week working tape, if available
+
+Interpretation rule:
+- Use [REGION]_WEEK.txt as the primary historical continuity source
+- Use [REGION]_WEEK_LIVE_MACRO.txt as the current live-week continuity source
+- If both exist, prefer [REGION]_WEEK.txt for prior-history context and [REGION]_WEEK_LIVE_MACRO.txt for current in-week sequencing
+- Do not assume the live file contains the full historical archive
+- If the archived weekly file exists and is readable, it overrides the live file as the source for “prior regional history”
 
 Base raw link pattern:
 https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/[FILE].txt
+or if foesnt work try
+https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/[FILE].txt
 
-Examples:
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/USD_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/EUR_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK_LIVE_MACRO.txt
-- https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/EM_WEEK_LIVE_MACRO.txt
+Historical archive examples:
+- USD_WEEK.txt
+- EUR_WEEK.txt
+- DM_WEEK.txt
+- EM_WEEK.txt
 
-This historical check is mandatory for every release.
+Live file examples:
+- USD_WEEK_LIVE_MACRO.txt
+- EUR_WEEK_LIVE_MACRO.txt
+- DM_WEEK_LIVE_MACRO.txt
+- EM_WEEK_LIVE_MACRO.txt
 
 Purpose:
-- identify prior occurrences of the same series
-- identify the recent trajectory of the macro bucket
-- determine whether the new release:
-  - confirms the prior trend
-  - weakens the prior trend
-  - marks stabilization
-  - marks deterioration
-  - is a false dawn
-  - is no material change
-
-The release must never be interpreted in isolation.
+- [REGION]_WEEK.txt = prior frozen weekly history / release archive
+- [REGION]_WEEK_LIVE_MACRO.txt = current live notebook for this Week
 
 DOCUMENT MARKERS
 
@@ -689,7 +696,8 @@ CONTEXT FROM PRIOR REGIONAL LIVE FILE
 
 After Section 3, explicitly include:
 Context from prior regional live file:
-
+Use [REGION]_WEEK.txt first.
+Use [REGION]_WEEK_LIVE_MACRO.txt only as supplementary current-week continuity if needed.
 This section must:
 - summarize the prior trajectory of the series / bucket from GitHub
 - explain how the new print fits into that trajectory
