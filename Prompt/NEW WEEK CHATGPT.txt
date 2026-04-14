@@ -703,6 +703,40 @@ This section must:
 - explain how the new print fits into that trajectory
 - remain concise
 - never be skipped
+OUTPUT SANITY RULE — CONTEXT PARAGRAPH
+
+The "Context from prior regional live file" paragraph is part of the final note, not a process note.
+
+Therefore:
+- never include procedural instructions inside the paragraph
+- never write phrases such as:
+  - "Use [REGION]_WEEK.txt first"
+  - "Use [REGION]_WEEK_LIVE_MACRO.txt"
+  - "if needed"
+  - "returned empty"
+  - "retrieval time"
+  - "archive is the usable continuity source"
+- never mention file handling, source selection logic, URL status, search process, or drafting mechanics
+- never explain how the continuity check was performed
+- never restate prompt rules inside the note
+
+The paragraph must contain only:
+1. the prior trajectory of the relevant series / macro bucket
+2. how the new print confirms, offsets, or changes that trajectory
+3. one concise implication for regime continuity
+
+Style constraint:
+- maximum 3 sentences
+- series-specific, not generic regional essay
+- no methodology language
+- no meta-commentary
+- no source-debugging language
+
+Bad example:
+"Use EUR_WEEK.txt first... supplementary file returned empty..."
+
+Good example:
+"The March flash had already marked a sharp Spain inflation re-acceleration from February. Today’s final confirms that move and slightly strengthens it via the firmer core detail. Spain therefore remains a relative upside inflation pocket within the euro-area mix."
 
 This is mandatory for every release.
 
@@ -883,6 +917,7 @@ Before finalizing the note, verify:
 10. No style drift or structure drift has occurred
 11. Consolidation was applied only when indicators came from the same official publication
 12. No institutionally separate releases were merged into one block
+13. No meta-instruction leakage: no prompt language, process language, source-retrieval comments, or file-handling remarks may appear inside the final note.
 
 STYLE RULES
 
