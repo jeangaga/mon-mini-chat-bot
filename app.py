@@ -305,8 +305,8 @@ def repondre(question: str):
         comment_text = load_live_week(region)
         comment_text = render_live_macro_block(comment_text)
         return comment_text, None  
-    if q_upper.startswith("SHEET"):
-        region = q_upper.replace("SHEET", "").lower()
+    if q_upper.startswith("QUICK"):
+        region = q_upper.replace("QUICK", "").lower()
         comment_text = load_live_sheet(region)
         comment_text = render_live_macro_block(comment_text)
         return comment_text, None 
