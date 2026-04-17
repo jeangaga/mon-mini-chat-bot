@@ -269,11 +269,11 @@ def load_live_sheet(region: str) -> str:
         return "❌ Invalid region (empty)."
 
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
-    filename = "SHEET.txt"
+    filename = "WEEKPM.txt"
     url = f"{base_url}/{filename}"
-
-    begin_tag = f"<<SHEET{reg}_BEGIN>>"
-    end_tag = f"<<SHEET{reg}_END>>"
+"<<USD_WEEK_PM_STYLE_BEGIN>>
+    begin_tag = f"<<{reg}_WEEK_PM_STYLE_BEGIN>>"
+    end_tag = f"<<{reg}_WEEK_PM_STYLE_END>>"
 
     try:
         r = requests.get(url, timeout=5)
