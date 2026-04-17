@@ -538,3 +538,101 @@ The final output must be a saved weekly note that:
 - is ready to store as the final [REGION]_WEEK note"
 
 
+OPTIONAL POST-FINALIZATION PM VERSION PROPOSAL
+
+After returning the full final WEEK note, you may add one short line outside the frozen note proposing an optional second output.
+
+Use this exact style:
+“Optional next step: I can also produce a VERY COMPRESSED PM VERSION keeping only *** and **** releases, in PM-style format.”
+
+Do not produce that PM version automatically unless the user asks for it.
+Only propose it.
+
+If the user accepts, produce a second standalone output using the following locked format:
+
+<<[REGION]_WEEK_PM_STYLE_BEGIN>>
+DATA WINDOW: [start date] to [end date]
+
+[REGION] — VERY COMPRESSED PM VERSION
+
+Regime:
+[1 short line]
+Read: [1 short line]
+
+Scoreboard:
+Growth: [~ / + / -]
+[one short comment line]
+
+Labor: [~ / + / -]
+[one short comment line]
+
+Inflation: [~ / + / -]
+[one short comment line]
+
+Financial Conditions: [~ / + / -]
+[one short comment line]
+
+Policy Constraint: [~ / + / -]
+[one short comment line]
+
+[DAY HEADER]
+
+[Country/Region] — [Release Name] | [*** or ****]
+[short data line]
+Read: [very short line]
+Signal: [very short line]
+Policy: [very short line]
+
+[repeat only for releases rated *** or ****]
+
+Signal Tension:
+[one short line]
+
+3 Releases That Mattered:
+
+[Release 1] — [very short why-it-mattered line]
+[Release 2] — [very short why-it-mattered line]
+[Release 3] — [very short why-it-mattered line]
+
+Bottom line:
+[2 short lines max]
+
+<<[REGION]_WEEK_PM_STYLE_END>>
+
+PM VERSION RULES
+
+Purpose:
+- produce a very compressed portfolio-manager version of the week
+- make it readable in under one minute
+- keep only the weekly releases rated *** or ****
+- preserve the regime logic of the full week note
+- do not rewrite the week from scratch
+- do not add external narrative
+- do not browse
+- do not add releases not present in the supplied file
+
+Style:
+- PM-style
+- very compressed
+- no long paragraphs
+- no decorative prose
+- no full macro essay
+- dense, decision-useful, quick-read format
+- short lines preferred
+- “Read / Signal / Policy” framing required for each kept release
+
+Selection rule:
+- include only releases explicitly rated *** or **** in the source week file
+- exclude * and ** releases entirely
+- if fewer than 3 releases qualify, include only those that qualify and do not invent more
+
+Fidelity rule:
+- the PM version is a compression layer, not a new research product
+- it must remain faithful to the final frozen week note
+- regime, scoreboard, signal tension, and bottom line must reflect the supplied week file only
+
+Region mapping:
+- USD_WEEK_LIVE_MACRO → US / <<USD_WEEK_PM_STYLE_BEGIN>> ... <<USD_WEEK_PM_STYLE_END>>
+- EUR_WEEK_LIVE_MACRO → EUR / <<EUR_WEEK_PM_STYLE_BEGIN>> ... <<EUR_WEEK_PM_STYLE_END>>
+- DM_WEEK_LIVE_MACRO → DM / <<DM_WEEK_PM_STYLE_BEGIN>> ... <<DM_WEEK_PM_STYLE_END>>
+- EM_WEEK_LIVE_MACRO → EM / <<EM_WEEK_PM_STYLE_BEGIN>> ... <<EM_WEEK_PM_STYLE_END>>
