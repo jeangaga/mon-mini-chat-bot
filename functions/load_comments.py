@@ -271,7 +271,7 @@ def load_live_sheet(region: str) -> str:
     base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
     filename = "WEEKPM.txt"
     url = f"{base_url}/{filename}"
-"<<USD_WEEK_PM_STYLE_BEGIN>>
+
     begin_tag = f"<<{reg}_WEEK_PM_STYLE_BEGIN>>"
     end_tag = f"<<{reg}_WEEK_PM_STYLE_END>>"
 
