@@ -291,6 +291,45 @@ def load_live_sheet(region: str) -> str:
 
     return matches[0].strip()
 
+
+
+def load_live_sheet_n(region: str, n: int = 1) -> str:
+    reg = region.strip().upper()
+    if not reg:
+        return "❌ Invalid region (empty)."
+
+    base_url = "https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/main/notes"
+    filename = "WEEKPM.txt"
+    url = f"{base_url}/{filename}"
+
+    begin_tag = f"<<{reg}_WEEK_PM_STYLE_BEGIN>>"
+    end_tag = f"<<{reg}_WEEK_PM_STYLE_END>>"
+
+    try:
+        r = requests.get(url, timeout=5)
+        if r.status_code != 200:
+            return f"❌ No PM-style file for {reg} (HTTP {r.status_code}): {filename}"
+    except Exception as e:
+        return f"❌ Error loading PM-style file for {reg}: {e}"
+
+    text = r.text
+    pattern = re.escape(begin_tag) + r"(.*?)" + re.escape(end_tag)
+    matches = re.findall(pattern, text, flags=re.S)
+
+    if not matches:
+        return f"❌ PM-style markers not found in {filename}: {begin_tag} ... {end_tag}"
+
+    blocks = [m.strip() for m in matches[:n]]
+
+    if len(matches) < n:
+        blocks.append(f"⚠️ Only {len(matches)} PM-style block(s) found.")
+
+    return "\n\n".join(blocks)
+
+
+
+
+
 import re
 import requests
 SEP_EQ_RE = re.compile(r"^={3,}$")
