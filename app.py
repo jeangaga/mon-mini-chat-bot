@@ -309,7 +309,7 @@ def repondre(question: str):
     if q_upper.startswith("QUICK2"):
         region = q_upper.replace("QUICK2", "").lower()
         comment_text = load_live_sheet_n(region, n=2)
-        comment_text = render_live_macro_block(comment_text)
+       # comment_text = render_live_macro_block(comment_text)
         return comment_text, None
     
     if q_upper.startswith("QUICK"):
