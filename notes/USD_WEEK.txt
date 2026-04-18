@@ -1,4 +1,303 @@
+<<USD_WEEK_BEGIN>>
+DATA WINDOW: 13 Apr 2026 to 16 Apr 2026
 
+A. US WEEK — MACRO SYNTHESIS
+
+The 13–16 April U.S. tape resolved into a firmer stagflation-transmission mix rather than a clean recession break. Growth weakened through housing, small-business confidence, and hard industrial activity: existing-home sales fell to a nine-month low, builder sentiment deteriorated sharply, NFIB optimism dropped as uncertainty jumped, and industrial production softened from a stronger revised February base. But labor did not crack: initial claims stayed low, continuing claims only edged higher, and Philly Fed orders and shipments surprised strongly even as employment turned negative. Inflation pressure remained the binding policy problem. PPI and import prices both delivered softer headline optics than feared, but the underlying goods, energy, and nonfuel import pipeline stayed firm enough to keep March PCE tracking elevated. The resulting regime is weaker real activity in rate-sensitive sectors, no decisive labor-market deterioration, and an inflation pipeline still too firm to open a clear easing lane.
+
+B. US MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+The week’s dominant growth signal was softer. Existing-home sales fell to 3.98M from a revised 4.13M and HMI dropped to 34, confirming housing deterioration across resale and builder channels. NFIB optimism fell to 95.8 as uncertainty rose to 92, extending confidence weakness into the small-business sector. Industrial production fell 0.5% m/m and manufacturing output slipped 0.1%, broadening the slowdown beyond housing. Redbook stayed positive and Philly Fed activity was strong, but those offsets did not overturn the week’s weaker hard-growth mix.
+
+Labor: ~
+Supporting evidence:
+Labor stayed resilient enough to avoid a recessionary signal, but the week added some caution on hiring and labor demand. Initial claims fell to 207k and the four-week average stayed near 210k, keeping layoffs low. Continuing claims rose to 1.818M, consistent with slower re-employment rather than labor breakage. Philly Fed employment fell to -5.1 and NFIB uncertainty rose sharply, suggesting weaker hiring appetite beneath stable separations. The labor bucket therefore remained cooling without cracking.
+
+Inflation: +
+Supporting evidence:
+The inflation signal stayed uncomfortably firm. PPI headline softness was driven heavily by gasoline and flat services, but final-demand goods rose 1.6% m/m and the non-energy core was softer rather than cleanly benign. Import prices also flattered on the headline while fuel and nonfuel imported-cost pressure remained firm, with nonfuel imports up 0.6% m/m and 2.8% y/y. Philly Fed prices paid and received moved higher as well. The week did not show generalized inflation re-acceleration everywhere, but it clearly failed to deliver a convincing pipeline-cooling break.
+
+Financial Conditions: -
+Supporting evidence:
+Financial conditions continued to bite in rate-sensitive sectors rather than ease. Existing-home sales and builder sentiment both deteriorated under renewed mortgage-rate pressure, poor affordability, and weak confidence, showing tighter conditions still transmitting into housing. NFIB uncertainty rose sharply, consistent with a more cautious operating and financing backdrop for smaller firms. No release in the file suggested an easing in financing stress strong enough to offset those channels.
+
+Policy Constraint: -
+Supporting evidence:
+The week tightened the Fed’s constraint rather than loosening it. Inflation pipeline data remained firm enough to keep March PCE tracking elevated, while claims stayed too stable to provide a clear labor-market excuse for easing. Philly Fed also combined stronger activity with hotter price measures, reinforcing the growth-versus-inflation bind instead of resolving it. The weekly regime therefore points to prolonged hold, with the bar still high for both hikes and cuts.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 13 APR 2026
+
+United States — Existing Home Sales (Mar)
+Release Date: 13 Apr 2026 | Local Time: 10:00 ET
+Importance: ***
+
+Reuters Data
+
+Existing Home Sales (SAAR): 3.98M | Prior: 4.09M | Revised: 4.13M | Poll: 4.06M | Surprise: -0.080M.
+
+Professional Market Commentary
+
+The official NAR release and the public institutional tape converged on a weak-start framing for the spring selling season: sales fell 3.6% m/m to a nine-month low, all four regions declined m/m, inventory improved only modestly, and prices kept rising because supply remained structurally scarce. The read was not “housing recovery interrupted” so much as “housing still trapped by affordability, weak confidence, and renewed mortgage-rate pressure.”
+
+Comment — Economist Layer
+
+The key signal is transaction freeze rather than price correction. Inventory rose to 1.36 million units and months’ supply increased to 4.1, yet the median existing-home price still rose 1.4% y/y to $408,800, which means the market is clearing through lower volumes rather than through broad price adjustment; the upward February revision matters mechanically, but the move from a revised 4.13M to 3.98M is still a real deterioration in a rate-sensitive sector. NAR’s cut to its 2026 existing-home sales growth forecast, now 4% instead of the prior 14%, reinforces that this is no longer being treated as a temporary wobble.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior frozen USD sequence had already shown housing as a weak, rate-sensitive downside channel rather than a recovering demand engine. March existing-home sales confirms that trajectory and intensifies it through a sharper transaction drop despite a firmer February base. The housing bucket therefore remains a downside growth channel without yet delivering meaningful price-clearing disinflation.
+
+HF Take — Strategist Layer
+
+For macro mapping, this is a clean growth-downside transmission channel rather than a direct Fed mover on its own. It strengthens the case that tighter financial conditions are now biting in the most mortgage-sensitive part of the economy, but because prices remain sticky, housing is not delivering the kind of fast disinflation relief that would ease the policy constraint. The next verification test is whether builder sentiment and later hard activity data show the weakness broadening beyond resale transactions.
+
+TUESDAY 14 APR 2026
+
+United States — NFIB Business Optimism Index (Mar)
+Release Date: 14 Apr 2026 | Local Time: 06:00 ET
+Importance: **
+
+Reuters Data
+
+NFIB Small Business Optimism Index: 95.8 | Prior: 98.8.
+
+Professional Market Commentary
+
+The official NFIB release showed a clear sentiment deterioration: optimism fell 3.0 points below the 52-year average and the Uncertainty Index rose to 92, well above its long-run average. The public tape emphasized worsening profit trends and a materially more uncertain operating backdrop rather than any clean cyclical rebound story.
+
+Comment — Economist Layer
+
+The important signal is not the headline level alone but the jump in uncertainty. Small-business optimism at 95.8 is below its long-run norm, while uncertainty at 92 implies firms are becoming less willing to commit on capex, hiring, and inventory decisions; that makes this more useful as a forward operating-conditions warning than as a contemporaneous hard-growth signal. It does not prove labor-market breakage, but it extends the confidence deterioration from households into owner-operator businesses, where hiring intentions often soften before layoffs do.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior frozen USD week had already shown softer household sentiment and weaker labor-demand signals without a claims-based labor break. NFIB extends that same sequence into the small-business channel by showing weaker operating confidence and sharply higher uncertainty. The regime implication is broader growth fragility rather than a labor-market rupture already visible in hard data.
+
+HF Take — Strategist Layer
+
+This is not a top-tier policy release, but it matters for regime mapping. If claims and regional surveys soften alongside NFIB, the Fed faces a deeper stagflation bind: confidence and hiring appetite would be deteriorating even as the price pipeline stays firm. The next verification test is whether the uncertainty spike feeds into hiring plans, compensation intentions, and broader labor-leading indicators.
+
+United States — PPI Final Demand / PPI ex Food & Energy / PPI ex Food, Energy & Trade / Machine Manufacturing (Mar)
+Release Date: 14 Apr 2026 | Local Time: 08:30 ET
+Importance: ****
+
+Reuters Data
+
+PPI Final Demand YY: 4.0% | Prior: 3.4% | Poll: 4.7% | Surprise: -0.70%
+PPI Final Demand MM: 0.5% | Prior: 0.7% | Revised: 0.5% | Poll: 1.1% | Surprise: -0.60%
+PPI ex Food/Energy YY: 3.8% | Prior: 3.9% | Revised: 3.8% | Poll: 4.2% | Surprise: -0.40%
+PPI ex Food/Energy MM: 0.1% | Prior: 0.5% | Revised: 0.3% | Poll: 0.5% | Surprise: -0.40%
+PPI ex Food/Energy/Trade YY: 3.6% | Prior: 3.5%
+PPI ex Food/Energy/Trade MM: 0.2% | Prior: 0.5%
+PPI Machine Manufacturing: 196.2 | Prior: 195.9 | Revised: 195.8.
+
+Professional Market Commentary
+
+The institutional tape treated this as a soft print with a harder underlying story. Official BLS details showed headline pressure came overwhelmingly from goods, especially energy and gasoline, while final-demand services were unchanged; the public market read was tactical relief against expectations, not a clean inflation-clear signal. Reuters also noted economists still saw core PCE around 0.3% m/m and 3.2% y/y, the highest in two years, despite the softer producer print.
+
+Comment — Economist Layer
+
+The internal hierarchy matters more than the headline miss. Final-demand goods rose 1.6% m/m, with nearly half of that rise tied to gasoline, while final-demand services were flat because trade margins narrowed; that makes the 0.1% m/m core ex food and energy a genuinely softer composition than the headline would suggest.
+
+JGM note: core producer prices rose only 0.1% m/m versus 0.5% consensus, partly because trade-service margins narrowed and partly because core goods prices were only modestly firm. That is a useful sign that tariff-related pressure may be easing at the margin and that pipeline inflation is not yet running out of control, even if March core PCE still looks firmer than the PPI core alone would imply.
+
+The clean read is therefore not “inflation problem solved,” but “pipeline shock confirmed while the non-energy core remains more contained than feared.” That buys the Fed tactical breathing room for March, even if the April-May window stays harder should services begin to absorb fuel and logistics costs.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior frozen USD week had already tightened the inflation constraint through ISM prices paid, headline CPI, and higher household inflation expectations, even as core and median measures looked less extreme. March PPI confirms that split by showing an official upstream goods-and-energy shock without a full services breakout yet. The regime therefore remains a harder stagflation bind, but not a fully generalized inflation re-acceleration across all core buckets.
+
+HF Take — Strategist Layer
+
+JGM policy key: the Fed still needs clearer evidence that core goods inflation is decelerating enough to prove the earlier tariff-style pressure was temporary before it can comfortably look through a new oil shock. The hurdle to hike is also fairly high absent a real move in inflation expectations or a broader inflation re-acceleration, because policy is already near estimates of neutral and another directional move could be costly; but that same logic keeps the bar for cuts high as well, especially after prior easing and with March core PCE still tracking firm. So this release does not open an easing lane and does not force an immediate hiking response: it reinforces a prolonged hold with a high evidentiary threshold in both directions.
+
+United States — Redbook YoY (w/e 11 Apr)
+Release Date: 14 Apr 2026 | Local Time: 08:55 ET
+Importance: *
+
+Reuters Data
+
+Redbook YoY: 7.0% | Prior: 7.6%.
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+This is directionally softer but still resilient nominal consumer signal. The deceleration is consistent with rising household strain and weaker confidence, but 7.0% y/y is not a contraction reading and cannot by itself validate a consumer break; given the weekly noise, the correct use of Redbook is to flag that spending momentum is no longer accelerating while reserving judgment until official retail data arrive.
+
+State transition: continuation
+
+Context from prior regional live file:
+The prior frozen USD week still showed firmer hard spending even as confidence surveys rolled over sharply. Redbook preserves that same split by softening directionally without becoming weak enough to prove that household spending has moved from stress into outright contraction. The regime implication is continued tension between fragile sentiment and not-yet-broken nominal demand.
+
+HF Take — Strategist Layer
+
+This is a minor corroboration release, not a policy mover. Its value is mainly as a tension point inside the week: if later official consumption data stay firm, Redbook remains noise; if they crack, Redbook will look like an early sign that nominal demand had already started to cool.
+
+WEDNESDAY 15 APR 2026
+
+United States — Import Price Index / Export Price Index (Mar)
+Release Date: 15 Apr 2026 | Local Time: 08:30 ET
+Importance: ***
+
+Reuters Data
+
+Import Prices MM: 0.8% | Prior: 1.3% | Revised: 0.9% | Poll: 2.0% | Surprise: -1.20%
+Import Prices YY: 2.1% | Prior: 1.3% | Revised: 1.0%
+Export Prices MM: 1.6% | Prior: 1.5% | Revised: 1.9% | Poll: 1.5% | Surprise: 0.10%.
+
+Professional Market Commentary
+
+The public institutional framing was that the soft headline import print flattered the inflation picture. Reuters emphasized survey-timing effects in oil capture, while the official BLS release still showed firm imported inflation pressure through fuel, nonfuel industrial supplies, capital goods, and locality measures such as China and Mexico. Reuters also said the combined CPI, PPI, and import-price data were pushing March PCE tracking materially higher.
+
+Comment — Economist Layer
+
+The important signal is beneath the headline miss. Fuel import prices rose 2.9% m/m, nonfuel import prices rose 0.6% m/m and 2.8% y/y, the largest twelve-month increase since October 2022, and BLS showed firmer prices in industrial supplies, capital goods, and imports from China. So March did not deliver a clean imported-inflation break at all: it delivered a softer-than-feared top line while the underlying nonfuel imported-cost structure kept firming.
+
+State transition: false dawn
+
+Context from prior regional live file:
+The prior frozen USD week had already shifted the inflation story toward an energy-led headline shock with firmer producer-price pressure underneath. March import prices extend that same trajectory by showing that imported nonfuel cost pressure is also moving higher even though the headline monthly surprise looked soft. The regime implication is that external price transmission remains firmer than the top-line miss suggests.
+
+HF Take — Strategist Layer
+
+This reinforces the same policy key as PPI. A soft headline miss is not enough for the Fed if the underlying goods pipeline is still firm and March PCE is tracking around 0.3% m/m core and 3.2% y/y. The implication is not hike now, but hold longer: policymakers likely need clearer core-goods disinflation and evidence that the oil shock is not broadening before they can justify further cuts.
+
+United States — NAHB / Wells Fargo Housing Market Index (Apr)
+Release Date: 15 Apr 2026 | Local Time: 10:00 ET
+Importance: ***
+
+Reuters Data
+
+NAHB / Wells Fargo HMI: 34 | Prior: 38 | Poll: 37 | Surprise: -3.0.
+
+Professional Market Commentary
+
+Official NAHB language and Reuters were aligned: builder sentiment fell sharply as spring demand failed to improve enough to offset elevated mortgage rates, rising material-cost uncertainty, and broader economic caution. The takeaway was not simply “builders cautious,” but “housing still deteriorating on both demand and cost fronts.”
+
+Comment — Economist Layer
+
+This is a genuine housing-quality deterioration print. Current sales conditions fell to 37, sales expectations fell to 42, traffic dropped to 22, and 36% of builders were still cutting prices while 60% used incentives; that combination says builders are not seeing a spring demand release valve. At the same time, NAHB said 62% of builders reported supplier cost increases due to higher fuel prices, which means the sector is facing demand weakness and input-cost pressure simultaneously rather than one clean cyclical problem.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior frozen USD housing sequence had already been weak and only intermittently stabilized by brief rate relief. April HMI reverses even that fragile stabilization and shows the builder side deteriorating alongside existing-home resale activity. The regime implication is that housing is broadening from a resale weakness story into a fuller sector drag.
+
+HF Take — Strategist Layer
+
+This matters more than a typical sentiment survey because it validates the housing slowdown across both resale and new-build channels. JGM policy key: housing services inflation can still look “acceptable enough” on a lagged basis even while the real housing sector is weakening, so housing softness alone is not a sufficient trigger for easing. For policy, it strengthens the growth-downside case, but not enough by itself to clear the high bar for cuts while inflation data remain sticky.
+
+THURSDAY 16 APR 2026
+
+United States — Initial Jobless Claims / Continuing Claims (w/e 11 Apr / w/e 4 Apr)
+Release Date: 16 Apr 2026 | Local Time: 08:30 ET
+Importance: **
+
+Reuters Data
+
+Initial Jobless Claims: 207k | Prior: 219k | Revised: 218k | Poll: 215k | Surprise: -8.0k
+Jobless Claims 4-Wk Avg: 209.75k | Prior: 209.50k | Revised: 209.25k
+Continuing Jobless Claims: 1.818M | Prior: 1.794M | Revised: 1.787M | Poll: 1.810M | Surprise: 0.008M.
+
+Professional Market Commentary
+
+The public tape framed this as continued labor-market stability with a modest re-employment wrinkle. Reuters emphasized low layoffs and a still-cautious hiring backdrop, while the official DOL report showed the continuing-claims four-week average at 1.813 million.
+
+Comment — Economist Layer
+
+The labor message remains low firing, slower hiring, not labor break. Initial claims at 207k and a four-week average near 210k keep layoffs firmly subdued, while continuing claims rising to 1.818M suggests some cooling in re-employment speed without becoming a true deterioration signal. So the correct read is not that labor is cracking, but that the labor market remains resilient enough to withhold an easy Fed-growth excuse.
+
+State transition: continuation
+
+Context from prior regional live file:
+The prior frozen USD week had already placed claims in a cooling-without-layoffs-acceleration bucket. This print reinforces that same regime by showing low initial claims even as continuing claims edge higher. The regime implication is that labor still is not providing the recessionary trigger that would offset the inflation constraint.
+
+HF Take — Strategist Layer
+
+Strategically, this is a Fed-constraint release rather than a growth-support release. A labor market that stays this stable leaves policymakers with less cover to lean dovishly while price data remain elevated; the next thing to watch is whether continuing claims keep trending up enough to turn slower hiring into genuine labor-market slippage.
+
+United States — Philadelphia Fed Manufacturing Business Outlook Survey (Apr)
+Release Date: 16 Apr 2026 | Local Time: 08:30 ET
+Importance: ***
+
+Reuters Data
+
+Philadelphia Fed Business Index: 26.7 | Prior: 18.1 | Poll: 10.0 | Surprise: 16.70.
+
+Professional Market Commentary
+
+The official Philadelphia Fed release was much stronger than expected on activity, new orders, and shipments, but the composition was not cleanly growth-positive. Orders rose to 33.0, shipments rose to 34.0, the employment index fell to -5.1, and both price indexes moved higher, with prices paid at 59.3 and prices received at 33.5.
+
+Comment — Economist Layer
+
+This is a strong regional activity beat, but it is not a clean all-clear for manufacturing. The survey says demand and throughput improved sharply in April, yet employment turned negative and price pressures intensified, which means the release strengthens the “firmer orders, hotter prices, cautious labor” version of manufacturing rather than a broad-based improvement story. That makes it analytically important as a divergence signal, not as a standalone invitation to upgrade the full U.S. manufacturing regime.
+
+State transition: false dawn
+
+Context from prior regional live file:
+The prior frozen USD sequence had already moved toward a modest manufacturing stabilization story, but not one strong enough to resolve the wider macro tension. April Philly strengthens the survey side of that story through stronger orders and shipments, yet the negative employment reading and hotter prices mean it still does not settle the broader growth-versus-inflation contradiction. The regime implication is that manufacturing sentiment can improve without removing the wider stagflation constraint.
+
+HF Take — Strategist Layer
+
+For markets, the right use of this print is conditional. If national manufacturing indicators, especially ISM, corroborate the orders and shipments strength, the factory floor may be more resilient than the weaker housing and industrial-output data imply; if not, this will read as a regional false dawn with an unhelpfully hot price signal.
+
+United States — Industrial Production / Capacity Utilization / Manufacturing Output (Mar)
+Release Date: 16 Apr 2026 | Local Time: 09:15 ET
+Importance: ***
+
+Reuters Data
+
+Industrial Production MM: -0.5% | Prior: 0.2% | Revised: 0.7% | Poll: 0.1% | Surprise: -0.60%
+Capacity Utilization SA: 75.7% | Prior: 76.3% | Revised: 76.1% | Poll: 76.3% | Surprise: -0.60%
+Manufacturing Output MM: -0.1% | Prior: 0.2% | Revised: 0.4% | Poll: 0.1% | Surprise: -0.20%.
+
+Professional Market Commentary
+
+The official Fed data and Reuters framed this as a genuine hard-data setback after a stronger February base. Total industrial production fell 0.5%, manufacturing output slipped 0.1%, mining fell 1.2%, and utilities fell 2.3%; Reuters also highlighted a 3.7% drop in motor vehicle output, while total capacity utilization fell to 75.7%.
+
+Comment — Economist Layer
+
+This is weaker hard output, but not an across-the-board industrial collapse. The negative headline was amplified by utilities, mining, and autos, while manufacturing itself was only modestly down; still, that is a deterioration because February was revised up to a much stronger 0.7%, so March is falling from a firmer base rather than simply correcting a soft one.
+
+JGM note: non-auto manufacturing still appears mildly positive, which argues against a severe interruption of underlying factory growth despite the energy shock. That leaves the best read as softer March hard activity, not a decisive factory recession, but it also means manufacturing no longer offers a clean offset to housing weakness because the sector’s underlying trend is only modestly positive while the headline is now vulnerable to energy and transport distortions.
+
+State transition: deterioration
+
+Context from prior regional live file:
+The prior frozen USD week had left the industrial side in a modestly constructive position, with earlier production and manufacturing readings helping offset housing weakness. March reverses part of that progress by taking the headline back into contraction and softening manufacturing output off a stronger prior base. The regime implication is that hard activity no longer provides as clean a non-housing counterweight as it did earlier in the sequence.
+
+HF Take — Strategist Layer
+
+For cross-asset mapping, this matters because it broadens the growth-softening story beyond housing while still leaving manufacturing softer rather than broken. That should discourage any simplistic “factory boom” narrative even after the strong Philly Fed survey; the next verification test is whether national manufacturing and capex-related releases validate the survey optimism or instead confirm that March marked a wider hard-data downshift.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: The price pipeline is still firm and housing plus hard activity are weakening, yet layoffs remain low and the strongest regional factory survey of the cycle just printed.
+
+Why it matters: That combination keeps the Fed boxed in, because inflation is not cooling cleanly enough to ease while labor is not deteriorating fast enough to justify it.
+
+Implication: Treat the week as a firmer stagflation-transmission sequence, but not yet a fully synchronized recessionary break. March PCE and national manufacturing are the next arbiters.
+
+3 KEY RELEASES TO DIG INTO
+
+PPI Final Demand / PPI ex Food & Energy / PPI ex Food, Energy & Trade (14 Apr 2026)
+Why it matters: This remained the week’s core policy block. It confirmed the upstream energy shock in official producer prices, but the softer core composition and your JGM policy note keep the signal centered on “hold longer,” not “hike now.”
+Import Price Index / Export Price Index (15 Apr 2026)
+Why it matters: The soft headline miss flattered the inflation picture, but the underlying nonfuel import structure stayed firm and the combined CPI, PPI, and import-price mapping pushed March PCE tracking materially higher.
+Industrial Production / Capacity Utilization / Manufacturing Output (16 Apr 2026)
+Why it matters: This was the clearest hard-data reminder that housing is no longer the only weak pocket. Your JGM note helps refine the read: headline output softened materially, but the underlying factory trend was weaker rather than broken, which keeps the growth story negative without yet making it collapse.
+
+<<USD_WEEK_END>>
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 6 Apr 2026 to 10 Apr 2026
 
