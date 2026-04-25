@@ -2930,57 +2930,341 @@ ISM Manufacturing PMI / Prices Index (2 Mar 2026)
 Why it mattered: Manufacturing remained in expansion, but the Prices Index surged to 70.5, making the release more important for inflation optics than for the modest growth signal.
 <<USD_WEEK_END>>
 
-
 <<USD_WEEK_BEGIN>>
+DATA WINDOW: 9 Feb 2026 to 24 Feb 2026
 
-US DATA ONLY — Post-CPI Window
-Period: 13 Feb – 24 Feb 2026
+A. US WEEK — MACRO SYNTHESIS
 
-MONDAY, FEBRUARY 16
+The combined February window resolved into a demand-bending but not labor-breaking regime. Retail and housing delivered the clearest weakening signals: the corrected Feb 10 retail block showed a control-group miss, existing home sales fell sharply, NAHB weakened, new home sales missed, and Case-Shiller confirmed slower home-price momentum. Against that, industrial production and Philly Fed manufacturing surprised positively, and the post-CPI window still showed enough manufacturing / industrial support to avoid a clean growth-break conclusion.
 
-United States — Retail Sales (Dec 2025) — 08:30 EST
+Labor and inflation kept the Fed in conditional-cuts mode rather than urgent easing. NFP beat on the headline, unemployment fell to 4.3%, and claims stayed broadly stable, even if the labor quality signal was composition-tainted and hiring remained narrow. Inflation progress was incomplete: import prices and ECI helped the benign-cost narrative, but CPI core at 0.3% m/m, firm wages, and sticky services framing kept March easing off the table. FOMC minutes reinforced data dependence. The resulting regime is cuts later and conditional: restrictive policy is bending demand through consumption and housing, but labor is not weak enough and inflation is not clean enough to force near-term Fed relief.
 
-1️⃣ Reuters Data (mechanical)
+B. US MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+The demand side weakened through the corrected Feb 10 retail control miss, existing home sales at 3.91M with an -8.4% m/m decline, NAHB at 36, new home sales at 615k, and slower Case-Shiller price growth. Industrial production rose 0.7% m/m and Philly Fed manufacturing surprised at 16.3, so the window did not confirm a synchronized growth break. But the dominant household / housing impulse was negative, with manufacturing acting as offset rather than leadership.
+
+Labor: ~
+Supporting evidence:
+NFP rose +130k versus +70k expected, private payrolls beat, unemployment fell to 4.3%, and the workweek improved. But composition was debated, healthcare/social assistance looked heavy, wages remained firm, and claims showed only a subdued-but-stable labor market rather than renewed labor tightness. Labor stabilized enough to block urgent cuts, but did not cleanly reaccelerate.
+
+Inflation: ~
+Supporting evidence:
+Import prices were benign at +0.1% m/m and ECI cooled to +0.7% q/q, supporting the wage / external-cost moderation channel. CPI headline softened, but core CPI printed +0.3% m/m, the source tape framed services as sticky, and AHE in the payroll report rose +0.4% m/m. No new inflation print in the post-CPI portion reset the regime. Inflation progress remained incomplete.
+
+Financial Conditions: -
+Supporting evidence:
+Housing showed the clearest restrictive financial-conditions transmission. Existing home sales fell sharply, NAHB declined, new home sales missed, and Case-Shiller slowed, with repeated references to mortgage rates above roughly 7%, affordability constraints, lock-in effects, and builder incentives. The real-economy financial-conditions impulse was restrictive through housing and major purchases.
+
+Policy Constraint: -
+Supporting evidence:
+The window reinforced March hold / later conditional cuts. The retail and housing data increased growth sensitivity to disinflation confirmation, but NFP and wages removed labor urgency, CPI core at 0.3% was too sticky for immediate easing, and FOMC minutes emphasized a data-dependent hold. The Fed was not pushed toward hikes, but the bar for near-term cuts remained high.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 10 FEB 2026
+
+United States — Import Prices (Dec)
+Release Date: 10 Feb 2026 | Local Time: 14:30 EST
+Importance: **
+
+Reuters Data
+
+MoM: +0.1% | Prior: +0.4% | Poll: +0.1% | Surprise: 0bp
+YoY: 0.0% | Prior: -0.1% (rev)
+
+Professional Market Commentary
+
+Minimal incremental desk color beyond “external inflation channel muted.”
+
+Comment — Economist Layer
+
+Reinforces that CPI's core risk is domestic services/wages, not imported goods.
+
+JGM lens: keeps focus on wage-sensitive categories and shelter/services decomposition.
+
+State transition: no material change.
+
+HF Take — Strategist Layer
+
+Supports “Fed can wait”: no external inflation forcing hand.
+
+United States — Retail Sales (Dec)
+Release Date: 10 Feb 2026 | Local Time: 14:30 EST
+Importance: ****
+
+Reuters Data
+
+Headline MoM: 0.0% | Prior: +0.6% | Poll: +0.4% | Surprise: -40bp
+Ex-Autos MoM: 0.0% | Prior: +0.4% (rev) | Poll: +0.3% | Surprise: -30bp
+Retail Control: -0.1% | Prior: +0.2% (rev) | Poll: +0.4% | Surprise: -50bp
+
+Professional Market Commentary
+
+Desk focus: the control miss = “stalling momentum / growth scare.”
+
+Composition: discretionary weakness in furniture, electronics and general merchandise was emphasized; gasoline and nonstore were treated as non-signal.
+
+Immediate reaction as captured: yields fell, USD struggled; “no-growth landing” language appeared in some wraps.
+
+Comment — Economist Layer
+
+Control matters because it feeds real consumption / GDP tracking.
+
+A plausible mechanical story is holiday pull-forward, with November strength followed by December payback, but composition suggests discretionary constraint rather than a single-category accident.
+
+JGM lens: the key is whether weakness is volume / real units versus nominal supported by price. If it is real / volume weakness, it is more durable as a demand signal.
+
+State transition: deterioration in consumption momentum.
+
+HF Take — Strategist Layer
+
+Raises probability weight on “demand bending,” which makes markets more sensitive to any CPI disinflation confirmation.
+
+But it does not force cuts: with labor still stable, the Fed can treat it as restrictive policy working rather than a trigger.
+
+Gating: next retail print and CPI composition determine whether this is a trend or a pull-forward payback.
+
+United States — Employment Cost Index (Q4)
+Release Date: 10 Feb 2026 | Local Time: 14:30 EST
+Importance: ***
+
+Reuters Data
+
+QoQ: +0.7% | Prior: +0.8% | Poll: +0.8% | Surprise: -10bp
+
+Professional Market Commentary
+
+Desks highlighted that ECI, a Fed-preferred wage gauge, showed more cooling than AHE; “Fed comfort” signal in wage dynamics.
+
+Comment — Economist Layer
+
+Confirms wage-pressure downshift in a cleaner gauge than AHE.
+
+JGM lens: this is a key reconciliation variable versus NFP wage noise. ECI keeps the “cooling wages” channel credible.
+
+State transition: disinflationary improvement in labor-cost pressure.
+
+HF Take — Strategist Layer
+
+Helps keep the “cuts later in year” scenario alive, but CPI services is still the gate.
+
+WEDNESDAY 11 FEB 2026
+
+United States — Employment Report (NFP, Jan)
+Release Date: 11 Feb 2026 | Local Time: 14:30 EST
+Importance: ****
+
+Reuters Data
+
+NFP: +130k | Prior: +50k (rev +48k) | Poll: +70k | Surprise: +60k
+Private: +172k | Prior: +37k (rev +64k) | Poll: +70k | Surprise: +102k
+Unemployment: 4.3% | Prior: 4.4% | Poll: 4.4% | Surprise: -10bp
+AHE MoM: +0.4% | Prior: +0.3% | Poll: +0.3% | Surprise: +10bp
+Workweek: 34.3 | Prior: 34.2 | Poll: 34.2
+
+Professional Market Commentary
+
+Desk split: headline beat acknowledged, but composition quality debated, especially healthcare/social assistance heavy.
+
+Wage print described as the hawkish fly.
+
+Market reaction described as pushing March cut odds toward near-zero; timing pushed later in the year; yields up initially.
+
+Comment — Economist Layer
+
+The “signal” is not overheating; it is stabilization. But composition matters for persistence.
+
+JGM lens:
+
+Healthcare hiring spike is suspicious / not sustainable given sector openings down.
+
+Household survey strength, participation rebound and unemployment down = “labor may be tightening” at the margin, but weather likely helped, including construction.
+
+Benchmark revision nuance: not catastrophic, but it slightly downgrades H2 momentum; recent payroll growth looks a touch weaker.
+
+Birth-death less negative than last year = some seasonal/model support.
+
+State transition: stabilization in labor, with quality caveats.
+
+HF Take — Strategist Layer
+
+Reaction function: March hold reinforced.
+
+The key distribution shift is that cuts need inflation confirmation; labor is not providing urgency.
+
+JGM pricing snapshot: 2 cuts Jun/Jul + Dec becomes the anchor. This print mainly defends that kind of later-cut path, unless CPI breaks meaningfully softer.
+
+Trading desk logic: initial yields/USD strength can fade if subsequent CPI supports “disinflation continues”; the supplied tape notes this happened only partially, with core still 0.3%.
+
+THURSDAY 12 FEB 2026
+
+United States — Initial Jobless Claims (wk Feb 7)
+Release Date: 12 Feb 2026 | Local Time: 14:30 EST
+Importance: **
+
+Reuters Data
+
+Initial: 227k | Prior: 231k | Poll: 222k | Surprise: +5k
+Continuing: 1.862M | Prior: 1.844M (rev 1.841M) | Poll: 1.850M | Surprise: +12k
+
+Professional Market Commentary
+
+No meaningful professional desk commentary found at time of retrieval.
+
+Comment — Economist Layer
+
+Still consistent with a subdued-but-stable labor market; continuing claims drift can be weather / duration.
+
+JGM lens: layoffs / WARN are mid-range with no stress, but hiring remains low. The risk is labor-force absorption, with unemployment drifting up over time if participation rises.
+
+State transition: continuation of stable but softening labor.
+
+HF Take — Strategist Layer
+
+Does not create urgency for cuts; matters only if it trends.
+
+The actionable macro tail is slow deterioration via hiring shortfall, not a layoff shock.
+
+United States — Existing Home Sales (Jan)
+Release Date: 12 Feb 2026 | Local Time: 16:00 EST
+Importance: ***
+
+Reuters Data
+
+Level: 3.91M | Prior: 4.35M (rev 4.27M) | Poll: 4.18M | Surprise: -270k (-6.5%)
+MoM: -8.4% | Prior: +5.1% (rev +4.4%)
+
+Professional Market Commentary
+
+Weather distortion cited, with storm-disrupted closings, but desks still noted the lowest level since late 2024 and high financing costs biting.
+
+Lock-in effect continued suppressing listings; affordability remained binding.
+
+Comment — Economist Layer
+
+Structural: high rates plus lock-in constrain turnover; weather amplifies timing noise.
+
+JGM lens: this supports the broader “major purchases constrained” theme. Housing is a high-quality confirmation of restrictive financial conditions.
+
+State transition: deterioration in housing turnover.
+
+HF Take — Strategist Layer
+
+Strengthens the “demand is bending” channel, which increases sensitivity to CPI shelter/services trajectory.
+
+But shelter inflation is lagged, so do not force one-month mapping from sales to CPI.
+
+FRIDAY 13 FEB 2026
+
+United States — CPI (Jan)
+Release Date: 13 Feb 2026 | Local Time: 14:30 EST
+Importance: ****
+
+Reuters Data
+
+Core MoM: +0.3% | Prior: +0.2% | Poll: +0.3% | Surprise: 0bp
+Core YoY: +2.5% | Prior: +2.6% | Poll: +2.5% | Surprise: 0bp
+Headline MoM: +0.2% | Prior: +0.3% | Poll: +0.3% | Surprise: -10bp
+Headline YoY: +2.4% | Prior: +2.7% | Poll: +2.5% | Surprise: -10bp
+
+Professional Market Commentary
+
+Dominant framing: core at 0.3 = “sticky floor”; not a dovish smoking gun.
+
+Shelter described as decelerating; some “reassuring” takes on y/y progress, but consensus remained: March cut not the base.
+
+Cross-asset tape: yields drifted lower after initial NFP spike; USD supported but not a breakout.
+
+Comment — Economist Layer
+
+Core at 0.3 keeps “sticky” concerns alive even if y/y improves; headline softness is energy-driven.
+
+JGM lens: this print must be read jointly with wage +0.4 in NFP and weak demand evidence from retail and housing. That mix says policy is restrictive enough to bend demand, but services inflation progress is not yet clean.
+
+State transition: continuation of sticky-floor disinflation.
+
+HF Take — Strategist Layer
+
+Reaction function: March hold reinforced.
+
+Market distribution: not hot enough to hike, too sticky to cut immediately; cuts remain mid/late-year conditional on a run of softer core/services prints.
+
+JGM pricing anchor, 2 cuts Jun/Jul + Dec, remains plausible: CPI did not invalidate it, but also did not pull it materially earlier.
+
+MONDAY 16 FEB 2026
+
+United States — Retail Sales (Dec 2025) — duplicate conflicting source block
+Release Date: 16 Feb 2026 | Local Time: 08:30 EST
+Importance: ***
+
+Reuters Data
+
 MoM: 0.0% | Prior: 0.6% | Poll: 0.4% | Surprise: -0.4
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 2 — Research / Commentary
+Professional Market Commentary
+
 Desk focus:
+
 Headline retail sales flat for the month, below expectations.
+
 Composition:
 
 Control group / core retail (ex-autos & gas): +0.8% MoM
+
 Dominant framing:
+
 Weak headline largely driven by volatile categories, while the control group feeding GDP tracking remained firm.
 
-Tier 3 — Social Media (Low Confidence)
-Quote:
-“Flat headline but strong control group — consumption signal mixed.”
-⚠️ Label: Low Confidence
+Low-confidence social-media quote:
 
-3️⃣ Comment — Economist Layer
+“Flat headline but strong control group — consumption signal mixed.”
+
+Label: Low Confidence.
+
+Comment — Economist Layer
+
 Headline retail sales missed expectations.
+
 However the key macro component:
+
 • Control group +0.8% MoM
+
 Important distinction:
 
 Headline distorted by autos and gasoline volatility.
 
 Control group feeds real consumption in GDP accounting.
+
 Signal combination:
+
 • headline soft
 • GDP-relevant consumption still firm.
+
 Consumption momentum therefore not clearly weakening yet.
 
-4️⃣ HF Take — Strategist Layer
+Source conflict note: this block conflicts with the Feb 10 Retail Sales block, which was marked as “correct placement” and reported Retail Control at -0.1% versus +0.4% expected. No reconciliation is made inside the archive.
+
+State transition: source-conflicted / mixed consumption signal.
+
+HF Take — Strategist Layer
+
 Signal tension:
+
 • headline demand soft
 • control group strong.
+
 Distribution shift:
+
 Maintains probability weight on moderate consumption growth.
+
 Policy implication:
+
 Single print insufficient to alter Fed reaction function.
+
 Gating:
+
 Confirmation required from:
 
 Real PCE
@@ -2989,420 +3273,414 @@ Income growth
 
 Credit conditions.
 
-TUESDAY, FEBRUARY 17
+TUESDAY 17 FEB 2026
 
-United States — NAHB Housing Market Index (Feb 2026) — 10:00 EST
+United States — NAHB Housing Market Index (Feb 2026)
+Release Date: 17 Feb 2026 | Local Time: 10:00 EST
+Importance: **
 
-1️⃣ Reuters Data (mechanical)
+Reuters Data
+
 Index: 36 | Prior: 37 | Poll: 38 | Surprise: -2
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1B — Official
-Desk focus:
+Professional Market Commentary
+
+Official desk focus:
+
 Builder sentiment declined to 36, lowest level since late-2025.
+
 Driver cited:
 
-Affordability constraints
+Affordability constraints.
 
-Tier 2 — Market commentary
-Dominant framing:
+Market commentary dominant framing:
+
 Housing demand continues to face pressure from:
 
-mortgage rates above ~7%
+mortgage rates above roughly 7%
 
 elevated construction costs.
 
-3️⃣ Comment — Economist Layer
-Builder sentiment 36 vs 38 expected.
+Comment — Economist Layer
+
+Builder sentiment printed 36 versus 38 expected.
+
 Housing sector remains highly rate-sensitive.
+
 Key mechanics:
-• mortgage rates above ~7%
+
+• mortgage rates above roughly 7%
 • affordability constraints limiting demand.
+
 Implication:
+
 Homebuilder confidence suggests limited near-term supply expansion.
+
 Housing therefore remains a weak pocket of the economy.
 
-4️⃣ HF Take — Strategist Layer
+State transition: deterioration in builder sentiment.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Residential construction risk skewed to downside.
+
 Policy relevance:
+
 Housing weakness partially offsets strength in services demand.
+
 However:
+
 Housing alone rarely drives Fed policy decisions.
+
 Cross-asset sensitivity:
 
 Homebuilders
 
 Mortgage spreads.
 
-WEDNESDAY, FEBRUARY 18
+WEDNESDAY 18 FEB 2026
 
-United States — Industrial Production (Jan 2026) — 09:15 EST
+United States — Industrial Production (Jan 2026)
+Release Date: 18 Feb 2026 | Local Time: 09:15 EST
+Importance: ***
 
-1️⃣ Reuters Data (mechanical)
+Reuters Data
+
 MoM: 0.7% | Prior: 0.1% | Poll: 0.4% | Surprise: +0.3
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1A — Wires
-Composition:
+Professional Market Commentary
+
+Wire composition:
 
 Manufacturing: +0.6%
 
 Utilities: +2.1%
 
-Tier 1B — Official
-Capacity Utilization: 76.2%
+Official capacity utilization:
 
-3️⃣ Comment — Economist Layer
+76.2%
+
+Comment — Economist Layer
+
 Industrial production rose 0.7% MoM, strongest gain in roughly one year.
+
 Composition:
+
 • manufacturing expansion
 • utilities weather-related contribution.
+
 However:
+
 Capacity utilization remains below long-run average.
+
 Implication:
+
 Industrial activity improving but slack persists in the sector.
+
 Possible linkage:
+
 Earlier ISM manufacturing rebound.
 
-4️⃣ HF Take — Strategist Layer
+State transition: improvement in industrial activity, with slack still present.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Raises probability weight on manufacturing stabilization.
+
 Constraint:
+
 Capacity utilization level limits inflation pressure signal.
+
 Policy implication:
+
 Neutral for Fed baseline.
+
 Gating:
+
 Requires confirmation from:
 
 Durable goods orders
 
 Regional Fed surveys.
 
-WEDNESDAY, FEBRUARY 18
+United States — FOMC Minutes (Jan Meeting)
+Release Date: 18 Feb 2026 | Local Time: 14:00 EST
+Importance: ***
 
-United States — FOMC Minutes (Jan Meeting) — 14:00 EST
+Reuters Data
 
-1️⃣ Reuters Data (mechanical)
 Policy Rate: 3.50%–3.75% (unchanged)
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1B — Official
-Key phrase highlighted:
+Professional Market Commentary
+
+Official key phrase highlighted:
+
 “Almost all participants supported holding rates.”
+
 Policy stance described as broadly neutral.
 
-Tier 2 — Institutional commentary
-Dominant framing:
+Institutional commentary dominant framing:
+
 Rate cuts may occur later than previously expected.
 
-3️⃣ Comment — Economist Layer
+Comment — Economist Layer
+
 Minutes emphasize:
+
 • broad agreement to hold policy steady
 • need to assess incoming inflation and labor data.
+
 Committee language suggests policy near neutral stance.
+
 No explicit signal of imminent easing.
 
-4️⃣ HF Take — Strategist Layer
+State transition: continuation of data-dependent hold.
+
+HF Take — Strategist Layer
+
 Policy reaction:
+
 Reinforces data-dependent policy stance.
+
 Distribution shift:
+
 Marginally reduces probability of near-term rate cuts.
+
 Gating variables:
 
 inflation trajectory
 
 labor market cooling.
 
-THURSDAY, FEBRUARY 19
+THURSDAY 19 FEB 2026
 
-United States — Philly Fed Manufacturing Index (Feb 2026) — 08:30 EST
+United States — Philly Fed Manufacturing Index (Feb 2026)
+Release Date: 19 Feb 2026 | Local Time: 08:30 EST
+Importance: ***
 
-1️⃣ Reuters Data (mechanical)
+Reuters Data
+
 Index: 16.3 | Prior: 12.6 | Poll: 7.5 | Surprise: +8.8
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1B — Official
-Composition:
+Professional Market Commentary
+
+Official composition:
 
 New Orders: 14.4
 
 Shipments: 9.5
 
-Tier 2 — Market commentary
+Market commentary:
+
 Forward expectations:
+
 Future activity index 42.8.
+
 Dominant framing:
+
 Manufacturing sentiment improving despite tariff concerns.
 
-3️⃣ Comment — Economist Layer
+Comment — Economist Layer
+
 Regional survey strengthened materially.
+
 Key components:
+
 • new orders expansion
 • shipments growth.
+
 Forward expectations very strong.
+
 However:
+
 Regional Fed surveys exhibit high volatility month-to-month.
 
-4️⃣ HF Take — Strategist Layer
+State transition: improvement in regional manufacturing momentum.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Supports short-cycle manufacturing stabilization narrative.
+
 Distribution shift:
+
 Raises probability weight on goods sector rebound.
+
 Policy relevance:
+
 Limited unless inflation pressures re-emerge.
 
-THURSDAY, FEBRUARY 20
+FRIDAY 20 FEB 2026
 
-United States — GDP Advance (Q4 2025) — 08:30 EST
+United States — GDP Advance (Q4 2025)
+Release Date: 20 Feb 2026 | Local Time: 08:30 EST
+Importance: ***
 
-1️⃣ Reuters Data (mechanical)
+Reuters Data
+
 QoQ Annualized: 1.4% | Prior: 4.4% | Poll: 2.0% | Surprise: -0.6
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1B — Official
-Key driver:
+Professional Market Commentary
+
+Official key driver:
+
 Growth slowed partly due to government shutdown effects.
 
-Tier 2 — Institutional commentary
-Estimate:
+Institutional commentary estimate:
+
 Shutdown impact roughly ~1pp drag on growth.
 
-3️⃣ Comment — Economist Layer
+Comment — Economist Layer
+
 GDP slowed 4.4 → 1.4.
+
 Key distortion:
+
 Government shutdown effect.
+
 Interpretation requires separating:
+
 • public sector drag
 • underlying private demand.
+
 Private demand indicators suggest stronger momentum than headline implies.
 
-4️⃣ HF Take — Strategist Layer
+State transition: deterioration in headline growth, with distortion risk.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Headline slowdown partly mechanical.
+
 Distribution shift:
+
 Raises probability weight on Q1 rebound scenario.
+
 Policy reaction:
+
 Fed unlikely to react strongly to shutdown-distorted growth print.
 
-THURSDAY, FEBRUARY 20
+United States — New Home Sales (Jan 2026)
+Release Date: 20 Feb 2026 | Local Time: 10:00 EST
+Importance: ***
 
-United States — New Home Sales (Jan 2026) — 10:00 EST
+Reuters Data
 
-1️⃣ Reuters Data (mechanical)
 Sales: 615K | Prior: 640K (revised) | Poll: 630K | Surprise: -15K
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1B — Official
-Signal:
-New home sales fell to lowest level since 2020.
-Driver cited:
-Mortgage rates above ~7%.
+Professional Market Commentary
 
-Tier 2 — Market commentary
-Color:
+Official signal:
+
+New home sales fell to lowest level since 2020.
+
+Driver cited:
+
+Mortgage rates above roughly 7%.
+
+Market commentary color:
+
 Builders increasingly offering incentives to sustain demand.
 
-3️⃣ Comment — Economist Layer
+Comment — Economist Layer
+
 Housing demand continues to soften.
+
 Key constraints:
+
 • affordability deterioration
 • high financing costs.
+
 Housing sector remains most sensitive transmission channel of monetary policy.
 
-4️⃣ HF Take — Strategist Layer
+State transition: deterioration in housing demand.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Housing remains persistent weak pocket.
+
 Distribution shift:
+
 Raises probability weight on housing drag continuing.
+
 Policy relevance:
+
 Housing weakness alone unlikely to trigger easing cycle.
 
-TUESDAY, FEBRUARY 24
+TUESDAY 24 FEB 2026
 
-United States — Case-Shiller Home Prices (Dec 2025) — 09:00 EST
+United States — Case-Shiller Home Prices (Dec 2025)
+Release Date: 24 Feb 2026 | Local Time: 09:00 EST
+Importance: **
 
-1️⃣ Reuters Data (mechanical)
+Reuters Data
+
 YoY: 1.4% | Prior: 1.9% | Poll: 1.5% | Surprise: -0.1
 
-2️⃣ Professional Market Commentary (Scout Tape)
-Tier 1 — Data provider
-Signal:
+Professional Market Commentary
+
+Data-provider signal:
+
 Real home price returns negative after inflation adjustment.
 
-Tier 2 — Housing market commentary
-Regional dispersion:
+Housing-market commentary regional dispersion:
 
 Chicago +5.3% YoY
 
 Tampa −4.2% YoY
 
-3️⃣ Comment — Economist Layer
+Comment — Economist Layer
+
 Home price growth slowed 1.9 → 1.4 YoY.
+
 Mechanics:
+
 • higher mortgage rates
 • weaker housing demand.
+
 Regional divergence becoming more pronounced.
 
-4️⃣ HF Take — Strategist Layer
+State transition: deterioration in home-price momentum.
+
+HF Take — Strategist Layer
+
 Signal:
+
 Home price growth decelerating but not collapsing.
+
 Policy relevance:
+
 Limited unless housing disinflation accelerates sharply.
 
-MACRO SIGNAL SCOREBOARD — Post-CPI Window (13–24 Feb)
+SIGNAL TENSION CHECK
 
-Legend
-↑ strengthening | ↓ weakening | ~ mixed
+Main contradiction: Demand is bending through retail and housing, but labor stabilized and industrial / manufacturing data improved, while inflation progress remained incomplete.
 
-Demand: ~ Mixed
-Supporting prints:
-↑ Industrial production surprise
-↑ Philly Fed manufacturing rebound
-↓ GDP advance slowdown
-↓ Headline retail sales miss
-Offset:
-↑ Control group retail sales strong
-Interpretation: Demand signals heterogeneous rather than collapsing.
+Why it matters: The window does not validate a hard landing, but it also does not provide the clean disinflation / labor-break evidence required for near-term Fed easing.
 
-Labor: ~ Neutral
-No major labor data in this window. Labor inference driven primarily by earlier NFP and JOLTS prints.
+Implication: The Fed remains in hold / wait-for-confirmation mode, with cuts later and conditional on softer core services inflation and clearer labor cooling.
 
-Inflation: ~ Neutral
-No new inflation prints in this period following CPI. Inflation signal therefore unchanged from earlier disinflation trend.
+3 KEY RELEASES TO DIG INTO
 
-Financial Conditions / Housing: ↓ Weakening
-Supporting prints:
-↓ NAHB sentiment
-↓ New home sales
-↓ Case-Shiller price growth
-Driver: Mortgage rates remaining elevated.
+CPI (13 Feb 2026)
+Why it mattered: Core at 0.3% m/m preserved the sticky-floor narrative and kept March hold intact, even as headline inflation softened.
 
-Signal tension:
-Manufacturing and industrial output improving while housing sector continues weakening.
+Employment Report / NFP (11 Feb 2026)
+Why it mattered: Payrolls, unemployment and wages blocked an urgent-easing labor interpretation, despite composition caveats and weaker demand elsewhere.
+
+Retail Sales / Housing Complex (10–24 Feb 2026)
+Why it mattered: Retail control weakness in the corrected Feb 10 block, existing home sales weakness, NAHB deterioration, new home sales miss, and slower Case-Shiller price growth together showed restrictive policy bending demand through consumption and housing.
 
 <<USD_WEEK_END>>
-<<USD_WEEK_BEGIN>>
-USA DATA ONLY - Week of February 9–13, 2026
 
-TUESDAY, FEBRUARY 10
-United States — Import Prices (Dec) — 14:30 EST
-1️⃣ Reuters Data (mechanical)
-MoM: +0.1% | Prior: +0.4% | Poll: +0.1% | Surprise: 0bp
-YoY: 0.0% | Prior: -0.1% (rev)
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Minimal incremental desk color beyond "external inflation channel muted."
-3️⃣ Comment — Economist layer (JGM embedded)
-Reinforces that CPI's core risk is domestic services/wages, not imported goods.
-JGM lens: keeps focus on wage-sensitive categories and shelter/services decomposition.
-4️⃣ HF Take — Strategist layer
-Supports "Fed can wait": no external inflation forcing hand.
-United States — Retail Sales (Dec) — 14:30 EST ✅ (correct placement)
-1️⃣ Reuters Data (mechanical)
-Headline MoM: 0.0% | Prior: +0.6% | Poll: +0.4% | Surprise: -40bp
-Ex-Autos MoM: 0.0% | Prior: +0.4% (rev) | Poll: +0.3% | Surprise: -30bp
-Retail Control: -0.1% | Prior: +0.2% (rev) | Poll: +0.4% | Surprise: -50bp
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Desk focus: the control miss = "stalling momentum / growth scare."
-Composition: discretionary weakness (furniture/electronics/general merchandise) emphasized; gasoline/nonstore treated as non-signal.
-Immediate reaction (as captured): yields fell, USD struggled; "no-growth landing" language appeared in some wraps.
-3️⃣ Comment — Economist layer (JGM embedded)
-Control matters because it feeds real consumption/GDP tracking.
-A plausible mechanical story is holiday pull-forward (Nov strength → Dec payback), but composition suggests discretionary constraint rather than a single-category accident.
-JGM lens: the key is whether weakness is volume/real (units) vs nominal supported by price—if it's real/volume weakness, it's more durable as a demand signal.
-4️⃣ HF Take — Strategist layer (JGM embedded)
-Raises probability weight on "demand bending," which makes markets more sensitive to any CPI disinflation confirmation.
-But it doesn't force cuts: with labor still stable, Fed can treat it as restrictive policy "working" rather than a trigger.
-Gating: next retail print + CPI composition determine whether this is a trend or a pull-forward payback.
-United States — Employment Cost Index (Q4) — 14:30 EST
-1️⃣ Reuters Data (mechanical)
-QoQ: +0.7% | Prior: +0.8% | Poll: +0.8% | Surprise: -10bp
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Desks highlighted: ECI (Fed-preferred) showing more cooling than AHE; "Fed comfort" signal in wage dynamics.
-3️⃣ Comment — Economist layer (JGM embedded)
-Confirms wage-pressure downshift in a cleaner gauge than AHE.
-JGM lens: this is a key reconciliation variable versus NFP wage noise—ECI keeps the "cooling wages" channel credible.
-4️⃣ HF Take — Strategist layer
-Helps keep the "cuts later in year" scenario alive, but CPI services is still the gate.
-
-WEDNESDAY, FEBRUARY 11
-United States — Employment Report (NFP, Jan) — 14:30 EST
-1️⃣ Reuters Data (mechanical)
-NFP: +130k | Prior: +50k (rev +48k) | Poll: +70k | Surprise: +60k
-Private: +172k | Prior: +37k (rev +64k) | Poll: +70k | Surprise: +102k
-Unemployment: 4.3% | Prior: 4.4% | Poll: 4.4% | Surprise: -10bp
-AHE MoM: +0.4% | Prior: +0.3% | Poll: +0.3% | Surprise: +10bp
-Workweek: 34.3 | Prior: 34.2 | Poll: 34.2
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Desk split: headline beat acknowledged, but composition quality debated (healthcare/social assistance heavy).
-Wage print described as the hawkish fly.
-Market reaction described as pushing March cut odds toward near-zero; timing pushed later in the year; yields up initially.
-3️⃣ Comment — Economist layer (JGM embedded)
-The "signal" is not overheating; it's stabilization. But composition matters for persistence.
-JGM lens (critical):
-Healthcare hiring spike is suspicious / not sustainable given sector openings down.
-Household survey strength + participation rebound + unemployment down = "labor may be tightening" at the margin, but weather likely helped (construction).
-Benchmark revision nuance: not catastrophic, but it slightly downgrades H2 momentum (your read: recent payroll growth a touch weaker).
-Birth-death less negative than last year = some seasonal/model support.
-4️⃣ HF Take — Strategist layer (JGM embedded)
-Reaction function: March hold reinforced (your conclusion aligns with desk read).
-The key distribution shift is: cuts need inflation confirmation; labor isn't providing urgency.
-Your pricing snapshot (2 cuts Jun/Jul + Dec) becomes the anchor: this print mainly defends that kind of path (later cuts), unless CPI breaks meaningfully softer.
-Trading desk logic: initial yields/USD strength can fade if subsequent CPI supports "disinflation continues" (which happened only partially—core still 0.3).
-
-THURSDAY, FEBRUARY 12
-United States — Initial Jobless Claims (wk Feb 7) — 14:30 EST
-1️⃣ Reuters Data (mechanical)
-Initial: 227k | Prior: 231k | Poll: 222k | Surprise: +5k
-Continuing: 1.862M | Prior: 1.844M (rev 1.841M) | Poll: 1.850M | Surprise: +12k
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-No meaningful professional desk commentary found at time of retrieval.
-3️⃣ Comment — Economist layer (JGM embedded)
-Still consistent with a subdued-but-stable labor market; continuing claims drift can be weather/duration.
-JGM lens: layoffs/WARN are mid-range (no stress), but hiring remains low—the risk is labor-force absorption (unemployment drifting up over time if participation rises).
-4️⃣ HF Take — Strategist layer (JGM embedded)
-Does not create urgency for cuts; matters only if it trends.
-The actionable macro tail is "slow deterioration via hiring shortfall," not a layoff shock.
-United States — Existing Home Sales (Jan) — 16:00 EST
-1️⃣ Reuters Data (mechanical)
-Level: 3.91M | Prior: 4.35M (rev 4.27M) | Poll: 4.18M | Surprise: -270k (-6.5%)
-MoM: -8.4% | Prior: +5.1% (rev +4.4%)
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Weather distortion cited (storm-disrupted closings), but desks still noted: lowest since late-2024, high financing costs biting.
-Lock-in effect continues suppressing listings; affordability remains binding.
-3️⃣ Comment — Economist layer (JGM embedded)
-Structural: high rates + lock-in constrain turnover; weather amplifies timing noise.
-JGM lens: this supports your broader "major purchases constrained" theme—housing is a high-quality confirmation of restrictive financial conditions.
-4️⃣ HF Take — Strategist layer (JGM embedded)
-Strengthens the "demand is bending" channel, which increases sensitivity to CPI shelter/services trajectory.
-But shelter inflation is lagged—don't force one-month mapping from sales to CPI.
-
-FRIDAY, FEBRUARY 13
-United States — CPI (Jan) — 14:30 EST
-1️⃣ Reuters Data (mechanical)
-Core MoM: +0.3% | Prior: +0.2% | Poll: +0.3% | Surprise: 0bp
-Core YoY: +2.5% | Prior: +2.6% | Poll: +2.5% | Surprise: 0bp
-Headline MoM: +0.2% | Prior: +0.3% | Poll: +0.3% | Surprise: -10bp
-Headline YoY: +2.4% | Prior: +2.7% | Poll: +2.5% | Surprise: -10bp
-2️⃣ Professional Market Commentary (Gemini/Mistral scout)
-Dominant framing: core at 0.3 = "sticky floor"; not a dovish smoking gun.
-Shelter described as decelerating; some "reassuring" takes on YoY progress, but consensus remained: March cut not the base.
-Cross-asset tape: yields drifted lower after initial NFP spike; USD supported but not a breakout.
-3️⃣ Comment — Economist layer (JGM embedded)
-Core at 0.3 keeps "sticky" concerns alive even if YoY improves; headline softness is energy-driven.
-JGM lens: this print must be read jointly with (a) wage +0.4 in NFP and (b) weak demand evidence (retail + housing). That mix says: policy is restrictive enough to bend demand, but services inflation progress isn't yet clean.
-4️⃣ HF Take — Strategist layer (JGM embedded)
-Reaction function: March hold reinforced (aligned with your "Fed on hold March").
-Market distribution: not hot enough to hike, too sticky to cut immediately; cuts remain a mid/late-year conditional on a run of softer core/services prints.
-Your pricing anchor (2 cuts Jun/Jul + Dec) remains plausible: CPI didn't invalidate it, but also didn't pull it materially earlier.
-
-USA WEEK SYNTHESIS — Theme A
-US: Demand bending, labor stabilizing, inflation progress incomplete
-Retail control miss + housing slump = major-purchase constraint and a growth-scare impulse.
-NFP headline beat is composition-tainted, but wages + household survey strength prevent "labor break" narratives.
-CPI core at 0.3 keeps a sticky floor framing: disinflation continues, but not clean enough to force near-term easing.
-Net: The distribution shifts toward "cuts later, conditional," not "urgent cuts" and not "no cuts."
-<<USD_WEEK_END>>
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 2 Feb 2026 to 6 Feb 2026
 
@@ -3755,174 +4033,416 @@ Why it mattered: Services stayed in expansion, but new orders slowed, employment
 <<USD_WEEK_END>>
 
 
+
 <<USD_WEEK_BEGIN>>
-USD — LIVE WEEK VIEW (Jan 26–30, 2026)
-STATUS: Live as of Friday close (Jan 30, 2026)
+DATA WINDOW: 26 Jan 2026 to 30 Jan 2026
 
-MACRO REGIME (1 line)
-Early-2026 momentum looks softer than headline growth vibes imply: PMIs point to ~2% core demand growth; consumption is firm but fragile (low saving / narrow breadth); low claims are more seasonal noise than labor strength — while pipeline inflation risk re-appeared via PPI.
+A. US WEEK — MACRO SYNTHESIS
 
-MONDAY 26 — RELEASED
+The week showed softer underlying momentum than headline growth optics implied. Durable goods, factory orders, and Chicago PMI beat, but the quality of the signal was uneven: orders were volatile, Dallas manufacturing stayed weak, CFNAI softened, confidence rolled over, and the goods trade deficit widened sharply. Claims stayed benign but did not prove labor strength, because the more relevant late-cycle framing remained low-hire / low-fire rather than renewed labor tightness.
+
+The binding weekly shift was inflation. PPI re-accelerated meaningfully, especially core PPI, reviving pipeline inflation risk and raising the probability that core PCE would not cool cleanly. The Fed held as expected, and the data mix supported a plateau / patient stance rather than imminent cuts: growth was not breaking, labor was not firing-led weak, but confidence and trade softened while inflation risk reappeared.
+
+B. US MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Durable goods beat strongly at +5.3% m/m, core capex rose +0.7%, factory orders rose +2.7%, and Chicago PMI jumped to 54.0. But CFNAI fell to -0.42, consumer confidence missed sharply at 84.5, Dallas manufacturing remained weak at -10.9, and goods trade deteriorated to -56.8B. The week therefore showed hard-goods resilience but weaker breadth and softer confidence, not clean re-acceleration.
+
+Labor: ~
+Supporting evidence:
+Initial claims stayed low at 209k and continuing claims were better than expected at 1.827M, but the source explicitly cautioned that low claims should be treated as seasonal / post-holiday layoff behavior rather than true labor strength. The week did not include a decisive hiring release, so the labor read remained low-hire / low-fire rather than tightening or breaking.
+
+Inflation: -
+Supporting evidence:
+PPI was the dominant adverse release. Final demand rose +0.5% m/m versus +0.2% expected, core PPI rose +0.7% m/m versus +0.2%, and core y/y rose to 3.3% versus 2.9% expected. Housing prices remained positive, reducing confidence in a rapid housing-led disinflation impulse. Pipeline inflation risk therefore reappeared.
+
+Financial Conditions: ~
+Supporting evidence:
+The supplied tape did not include a decisive broad financial-conditions release. Housing price data stayed positive but not booming, while confidence weakness and trade drag pointed to softer activity. The FOMC hold and PPI upside leaned against imminent easing, but there was no standalone evidence of a sharp tightening or easing impulse.
+
+Policy Constraint: -
+Supporting evidence:
+The FOMC hold was expected, but the week’s data mix raised the bar for fast cuts. PPI re-acceleration made clean disinflation less certain, while claims did not show enough labor stress to force a dovish pivot. Confidence and CFNAI softened, but not enough to dominate the inflation shock. The policy signal moved toward patient hold / slower easing timing.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 26 JAN 2026
 
 US — Durable Goods (Nov)
+Release Date: 26 Jan 2026 | Local Time: not provided
+Importance: ***
+
+Reuters Data
+
 Actual 5.3% vs 3.2% consensus (surprise +2.1pp); prior -2.2% (rev -2.1%)
 Durables ex-Transport: 0.5% vs 0.3% (surprise +0.2pp); prior 0.1% (rev 0.2%)
 Nondef capex ex-air (core capex proxy): 0.7% vs 0.3% (surprise +0.4pp); prior 0.5%
-Signal: headline “strong”, but composition matters — the “core capex proxy” beat is the only part that cleanly maps into business equipment momentum.
-HF take:
 
-This reads more like lumpy equipment/orders volatility than a clean re-acceleration story.
+Professional Market Commentary
 
-The capex proxy strength matters because it pushes back against the “business is freezing” narrative — but it does not overturn your base case that forward momentum is constrained by uncertainty + only moderate final demand.
+No detailed institutional tape was supplied. The release was framed as a strong headline durable-goods print, with the cleanest macro information coming from the core capex proxy rather than the volatile headline.
+
+Comment — Economist Layer
+
+Signal: headline “strong,” but composition matters. The core capex proxy beat is the only part that cleanly maps into business equipment momentum.
+
+This reads more like lumpy equipment / orders volatility than a clean re-acceleration story. The capex proxy strength matters because it pushes back against the “business is freezing” narrative, but it does not overturn the base case that forward momentum is constrained by uncertainty and only moderate final demand.
+
+State transition: improvement in orders, with false-dawn risk.
+
+HF Take — Strategist Layer
+
+The release is growth-supportive at the margin, especially through core capex, but not regime-defining. It keeps the business-investment floor alive, while still requiring confirmation from production, shipments, and forward demand.
 
 US — Chicago Fed National Activity Index (Nov)
-Actual -0.42 vs -0.04 prior
-Signal: softer broad activity impulse in November.
-HF take:
+Release Date: 26 Jan 2026 | Local Time: not provided
+Importance: **
 
-This is consistent with “~trend-ish / slightly below trend” growth rather than acceleration; it aligns with your theme that the economy is holding up but not re-leveraging into a new growth leg.
+Reuters Data
+
+Actual -0.42 vs -0.04 prior
+
+Professional Market Commentary
+
+No major institutional debate was visible in the supplied tape. The release was treated as a softer broad activity impulse.
+
+Comment — Economist Layer
+
+Signal: softer broad activity impulse in November.
+
+This is consistent with trend-ish to slightly below-trend growth rather than acceleration. It aligns with the theme that the economy is holding up but not re-leveraging into a new growth leg.
+
+State transition: deterioration in broad activity momentum.
+
+HF Take — Strategist Layer
+
+Useful background evidence for softer underlying growth, but not a direct Fed mover. It offsets some of the stronger orders data and argues against extrapolating hard-goods beats into a broad growth reacceleration.
 
 US — Dallas Fed Manufacturing (Jan)
+Release Date: 26 Jan 2026 | Local Time: not provided
+Importance: **
+
+Reuters Data
+
 Actual -10.9 vs -1.2 consensus; prior -11.3
+
+Professional Market Commentary
+
+No major institutional debate was supplied. The source notes that this is the type of regional print desks discount when it conflicts with national PMIs / ISM, but it still reinforces that manufacturing is not the growth engine.
+
+Comment — Economist Layer
+
 Signal: still weak; modestly better than prior but far worse than expected.
-HF take:
 
-Confirms the two-speed setup: manufacturing remains a drag, even when some other activity proxies look better.
+This confirms the two-speed setup: manufacturing remains a drag, even when some other activity proxies look better.
 
-This is the type of regional print desks discount when it conflicts with national PMIs/ISM — but it still reinforces “manufacturing is not the growth engine.”
+State transition: continuation of regional manufacturing weakness.
 
-TUESDAY 27 — RELEASED
+HF Take — Strategist Layer
+
+The release is not a standalone Fed mover, but it matters for signal quality. It tempers the strong orders data and keeps the manufacturing recovery narrative unproven.
+
+TUESDAY 27 JAN 2026
 
 US — Consumer Confidence (Jan)
+Release Date: 27 Jan 2026 | Local Time: not provided
+Importance: ***
+
+Reuters Data
+
 Actual 84.5 vs 90.9 consensus (surprise -6.4); prior 89.1
+
+Professional Market Commentary
+
+No detailed institutional tape was supplied. The release was framed as a sharp rollover in confidence.
+
+Comment — Economist Layer
+
 Signal: confidence rolled over sharply.
-HF take:
 
-This is a macro risk amplifier because you already have fragile consumption foundations (saving rate low in your context note).
+This is a macro risk amplifier because the consumption foundation was already fragile, with low saving in the prior context note. It supports the nuance that spending can stay firm until confidence / credit constraints bite. The print leans toward slower discretionary momentum rather than re-acceleration.
 
-It supports your nuance: spending can stay firm until confidence/credit constraints bite; this print leans toward “slower discretionary momentum” rather than “re-acceleration.”
+State transition: deterioration in consumer psychology.
+
+HF Take — Strategist Layer
+
+Growth-negative at the margin. The release raises sensitivity to incoming retail, income, and credit data because confidence weakness can become a transmission channel into discretionary spending if sustained.
 
 US — Home Prices (FHFA / Case-Shiller, Nov)
+Release Date: 27 Jan 2026 | Local Time: not provided
+Importance: **
+
+Reuters Data
+
 FHFA m/m 0.4% vs 0.6% prior; y/y 1.7% vs 1.9% prior
 Case-Shiller 20-city m/m SA 0.5% vs 0.2% consensus; y/y 1.4% vs 1.2% prior
-Signal: house price inflation still positive; Case-Shiller a bit firmer than expected.
-HF take:
 
-Housing remains rate-sensitive: this doesn’t scream “housing boom,” but it reduces the odds of a rapid housing-led disinflation impulse.
+Professional Market Commentary
 
-Consistent with “shelter disinflation pipeline exists, but the path is bumpy” (your prior CPI framework).
+No detailed institutional tape was supplied. The release was framed as still-positive house price inflation, with Case-Shiller a bit firmer than expected.
 
-WEDNESDAY 28 — RELEASED
+Comment — Economist Layer
 
-FOMC — Fed Funds Target (Jan meeting decision shown on 28th feed)
+Signal: house price inflation still positive.
+
+Housing remains rate-sensitive. This does not signal a housing boom, but it reduces the odds of a rapid housing-led disinflation impulse. It remains consistent with a shelter-disinflation pipeline, but a bumpy path.
+
+State transition: no material change in housing-price disinflation path.
+
+HF Take — Strategist Layer
+
+Policy relevance is indirect. Positive home-price inflation keeps shelter disinflation uneven and argues against assuming that housing will quickly deliver a clean disinflation impulse.
+
+WEDNESDAY 28 JAN 2026
+
+FOMC — Fed Funds Target (Jan meeting decision)
+Release Date: 28 Jan 2026 | Local Time: not provided
+Importance: ****
+
+Reuters Data
+
 Actual 3.50–3.75 (unchanged)
+
+Professional Market Commentary
+
+No detailed institutional tape was supplied. The decision was treated as a hold consistent with the Fed’s plateau strategy.
+
+Comment — Economist Layer
+
 Signal: hold — consistent with plateau strategy.
-HF take:
 
-The meeting being a hold is not the story; the story is the distribution: what would make them cut sooner vs hold longer.
+The meeting being a hold is not the full story; the relevant distribution is what would make the Fed cut sooner versus hold longer. The week’s data — confidence down, activity mixed, and pipeline inflation up — widens tails. Cuts remain conditional on labor, while PPI makes clean disinflation less certain.
 
-This week’s data (confidence down, activity mixed, inflation pipeline up) widens tails: cuts stay conditional on labor, but PPI makes “clean disinflation” less certain.
+State transition: continuation of hold / plateau strategy.
+
+HF Take — Strategist Layer
+
+The policy read is patient hold. The meeting does not itself change the reaction function, but the surrounding data mix supports no imminent cut signal and makes inflation follow-through more important.
 
 US — EIA Oil (w/e Jan 19)
+Release Date: 28 Jan 2026 | Local Time: not provided
+Importance: *
+
+Reuters Data
+
 Crude +1.848M vs +1.131M consensus (bigger build)
 Gasoline +0.223M vs +1.009M consensus (smaller build)
 Distillates +0.329M vs -0.583M consensus (build vs expected draw)
 Refiner utilization -2.4% vs -0.5% consensus
+
+Professional Market Commentary
+
+No major macro-level institutional debate was supplied. The energy complex was framed as noisy, with utilization drop hinting at run cuts.
+
+Comment — Economist Layer
+
 Signal: energy complex noisy; utilization drop hints at run cuts.
-HF take:
 
-Macro relevance mostly via gasoline/energy price path into headline inflation — but this week’s broader USD macro is not energy-led.
+Macro relevance is mostly through the gasoline / energy price path into headline inflation, but this week’s broader USD macro was not energy-led.
 
-THURSDAY 29 — RELEASED
+State transition: no material change.
+
+HF Take — Strategist Layer
+
+Low standalone macro relevance. Energy data can matter for headline CPI risk, but the week’s main inflation event was PPI rather than EIA inventories.
+
+THURSDAY 29 JAN 2026
 
 US — Goods Trade Balance (Nov)
-Actual -56.8B vs -40.5B consensus (worse); prior -29.2B
-Signal: net trade likely a drag vs what forecasters expected.
-HF take:
+Release Date: 29 Jan 2026 | Local Time: not provided
+Importance: **
 
-Doesn’t change the “US not collapsing” narrative, but it can matter for near-term GDP tracking and for the “growth exceptionalism” confidence story at the margin.
+Reuters Data
+
+Actual -56.8B vs -40.5B consensus (worse); prior -29.2B
+
+Professional Market Commentary
+
+No detailed institutional tape was supplied. The release was treated as a likely drag versus forecaster expectations.
+
+Comment — Economist Layer
+
+Signal: net trade likely a drag versus what forecasters expected.
+
+This does not change the “US not collapsing” narrative, but it can matter for near-term GDP tracking and for the “growth exceptionalism” confidence story at the margin.
+
+State transition: deterioration in net-trade contribution.
+
+HF Take — Strategist Layer
+
+Growth-negative for GDP tracking, but not regime-defining. It weakens the growth-exceptionalism story at the margin without proving broader demand collapse.
 
 US — Jobless Claims (w/e Jan 19)
+Release Date: 29 Jan 2026 | Local Time: not provided
+Importance: ***
+
+Reuters Data
+
 Initial 209k vs 205k consensus; prior 210k
 Continuing 1.827M vs 1.860M consensus; prior 1.865M
-Signal: still low/benign; not tightening, not breaking.
-HF take (your required nuance):
 
-Treat low claims as seasonal + post-holiday layoff behavior more than true labor strength. Low claims can coexist with rising unemployment if hiring is weak.
+Professional Market Commentary
 
-Bottom line: claims do not invalidate the “low-hire/low-fire” late-cycle slowdown framing.
+No detailed institutional tape was supplied. The release was framed as still low / benign, but not tightening and not breaking.
+
+Comment — Economist Layer
+
+Signal: still low / benign; not tightening, not breaking.
+
+Required nuance from the source: treat low claims as seasonal and post-holiday layoff behavior more than true labor strength. Low claims can coexist with rising unemployment if hiring is weak.
+
+Bottom line: claims do not invalidate the low-hire / low-fire late-cycle slowdown framing.
+
+State transition: continuation of low-firing regime.
+
+HF Take — Strategist Layer
+
+Claims are not giving the Fed a labor-break signal, but they should not be overread as labor strength. The labor “crack versus stall” question remains for payrolls and hiring indicators.
 
 US — Productivity & Unit Labor Costs (Q3 revised)
-Productivity 4.9% (unchanged); ULC -1.9% (unchanged)
-Signal: no new info vs prior estimate.
-HF take:
+Release Date: 29 Jan 2026 | Local Time: not provided
+Importance: *
 
-Leaves intact the “wage persistence vs inflation glidepath” tension: productivity can help, but the Fed needs sustained confirmation across multiple quarters, not one print.
+Reuters Data
+
+Productivity 4.9% (unchanged); ULC -1.9% (unchanged)
+
+Professional Market Commentary
+
+No new professional debate was supplied. The release provided no new information versus the prior estimate.
+
+Comment — Economist Layer
+
+Signal: no new information versus prior estimate.
+
+The release leaves intact the wage persistence versus inflation glidepath tension. Productivity can help, but the Fed needs sustained confirmation across multiple quarters, not one print.
+
+State transition: no material change.
+
+HF Take — Strategist Layer
+
+Low standalone importance. It is relevant to medium-term wage absorption, but this revision did not change the weekly regime.
 
 US — Factory Orders (Nov)
-Actual +2.7% vs +1.6% consensus (beat); prior -1.2%
-Signal: firm nominal orders.
-HF take:
+Release Date: 29 Jan 2026 | Local Time: not provided
+Importance: **
 
-Reinforces that hard goods activity isn’t collapsing — but again, orders are volatile; the question is whether this converts into sustained production/capex or is just a catch-up month.
+Reuters Data
+
+Actual +2.7% vs +1.6% consensus (beat); prior -1.2%
+
+Professional Market Commentary
+
+No detailed institutional tape was supplied. The release was framed as firm nominal orders.
+
+Comment — Economist Layer
+
+Signal: firm nominal orders.
+
+This reinforces that hard goods activity is not collapsing, but orders are volatile. The question is whether this converts into sustained production / capex or is just a catch-up month.
+
+State transition: improvement in orders, with confirmation needed.
+
+HF Take — Strategist Layer
+
+Supportive for the activity floor, but not enough to define the regime. The release aligns with durable goods strength but still requires production and capex follow-through.
 
 US — Nat Gas (w/e Jan 19)
+Release Date: 29 Jan 2026 | Local Time: not provided
+Importance: *
+
+Reuters Data
+
 Storage draw -242B vs -232B consensus; prior -120B
+
+Professional Market Commentary
+
+No major macro-level institutional debate was supplied.
+
+Comment — Economist Layer
+
 Signal: weather-driven volatility; not a core macro driver.
 
-FRIDAY 30 — RELEASED
+State transition: no material change.
+
+HF Take — Strategist Layer
+
+Low macro relevance. Not incorporated into the weekly Fed / growth signal except as potential noise around energy.
+
+FRIDAY 30 JAN 2026
 
 US — PPI (Dec)
+Release Date: 30 Jan 2026 | Local Time: not provided
+Importance: ****
+
+Reuters Data
+
 Final demand m/m 0.5% vs 0.2% consensus (upside); prior 0.2%
 Final demand y/y 3.0% vs 2.7% consensus (upside); prior 3.0%
 Core (ex food/energy) m/m 0.7% vs 0.2% (big upside); prior 0.0%
 Core y/y 3.3% vs 2.9% (upside); prior 3.0%
-Signal: pipeline inflation re-accelerated meaningfully in Dec, especially on the core measure.
-HF take:
 
-This is the week’s inflation risk pivot: it raises odds that the PCE mapping stays sticky even if CPI looked okay earlier.
+Professional Market Commentary
 
-For the Fed reaction function: this supports “hold / patient” unless labor cracks. It doesn’t scream hikes, but it raises the bar for fast cuts.
+No detailed institutional tape was supplied. The release was framed as a meaningful re-acceleration in pipeline inflation, especially on the core measure.
+
+Comment — Economist Layer
+
+Signal: pipeline inflation re-accelerated meaningfully in December, especially on core PPI.
+
+This is the week’s inflation risk pivot. It raises the odds that the PCE mapping stays sticky even if CPI looked acceptable earlier.
+
+State transition: deterioration / inflation-pressure escalation.
+
+HF Take — Strategist Layer
+
+For the Fed reaction function, this supports hold / patience unless labor cracks. It does not scream hikes, but it raises the bar for fast cuts.
 
 US — Chicago PMI (Jan)
+Release Date: 30 Jan 2026 | Local Time: not provided
+Importance: **
+
+Reuters Data
+
 Actual 54.0 vs 44.0 consensus (massive beat); prior 43.5
+
+Professional Market Commentary
+
+No detailed institutional tape was supplied. The release was framed as a big jump into expansion, with caution against extrapolating without confirmation from ISM / S&P PMIs.
+
+Comment — Economist Layer
+
 Signal: big jump into expansion.
-HF take (nuance):
 
-Likely seasonal/composition whipsaw; don’t extrapolate without confirmation from ISM/S&P PMIs.
+Likely seasonal / composition whipsaw; do not extrapolate without confirmation from ISM / S&P PMIs. Still, it complicates the one-way “manufacturing is rolling over” narrative.
 
-Still, it complicates the one-way “manufacturing is rolling over” narrative.
+State transition: improvement, with false-dawn risk.
 
-LIVE USD — WHAT MATTERS NOW (HF MAP)
+HF Take — Strategist Layer
 
-Growth: mixed-to-softer trend. Hard goods/orders surprised up, but CFNAI and confidence point to softer underlying momentum.
+Supportive for manufacturing stabilization but lower-confidence than national PMIs. The print matters mainly because it complicates the one-way manufacturing-drag story and sets up the next ISM / S&P confirmation test.
 
-Demand: consumption can remain “OK” near term, but confidence deterioration + low saving makes it fragile (your prior context).
+SIGNAL TENSION CHECK
 
-Inflation: PPI is the week’s dominant surprise → pipeline inflation risk back on the table; increases risk that core PCE doesn’t cool cleanly.
+Main contradiction: Hard goods and orders data surprised positively, but CFNAI, confidence, Dallas manufacturing and trade pointed to softer underlying momentum while PPI reintroduced pipeline inflation risk.
 
-Labor: claims still benign but not informative; seasonals distort; the labor “crack vs stall” question stays for payrolls/other hiring indicators.
+Why it matters: The data mix blocks both a clean growth-acceleration narrative and a clean Fed-cut narrative.
 
-USD / RATES REACTION-FUNCTION (macro-only)
+Implication: The Fed remains in patient-hold mode: fast cuts require labor deterioration, while PPI upside raises the bar for clean disinflation.
 
-Front end: data mix supports plateau (hold), not an imminent cut signal. PPI leans hawkish-for-timing.
+3 KEY RELEASES TO DIG INTO
 
-USD: supported by “Fed not rushing to cut” + US still not in recession, but confidence down + political tail risk (see below) can add volatility episodes.
+PPI (30 Jan 2026)
+Why it mattered: This was the week’s inflation pivot. Core PPI at +0.7% m/m versus +0.2% expected revived pipeline inflation risk and raised the bar for fast cuts.
 
-POLITICAL / POLICY TAIL (you flagged this as missing before)
+Durable Goods / Core Capex (26 Jan 2026)
+Why it mattered: The headline beat was volatile, but the core capex proxy at +0.7% pushed back against a business-freeze narrative and supported the activity floor.
 
-Trump / Greenland rhetoric (late Jan): mostly a risk-premium / geopolitics headline channel, not a direct near-term US growth/inflation channel unless it escalates into concrete fiscal/defense/trade actions.
-
-The macro-relevant political channel remains: institutional / policy uncertainty → risk premia → FC tightening. This week, the data did more than politics for the Fed path, but politics can still dominate intraday USD risk if escalatory.
-
-NEXT PRINTS THAT MATTER (setup, not a forecast)
-
-The next labor confirmation (payrolls + hiring indicators) to decide whether “stall speed” becomes “crack.”
-
-Core PCE / inflation mapping follow-through after this PPI upside surprise.
+Consumer Confidence (27 Jan 2026)
+Why it mattered: The sharp miss to 84.5 exposed fragility underneath still-firm consumption and made low saving / discretionary-demand risk more important for the next window.
 
 <<USD_WEEK_END>>
-
 
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 19 Jan 2026 to 23 Jan 2026
