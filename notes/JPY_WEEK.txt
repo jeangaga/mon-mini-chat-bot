@@ -1,4 +1,233 @@
-
+<<JPY_WEEK_BEGIN>>
+DATA WINDOW: 7 Apr 2026 to 24 Apr 2026
+A. JPY WEEK — MACRO SYNTHESIS
+Japan’s three-week tape resolved into a split-economy / BoJ-normalization-with-stagflation-risk regime. The household side stayed weak: February household spending missed badly, tertiary activity softened, services PMI slowed, chain-store sales contracted, and confidence fell sharply. But the corporate and external/capex side did not collapse: machinery orders rebounded strongly, Reuters Tankan non-manufacturing improved, exports stayed resilient, and flash manufacturing surged. The quality of that strength deteriorated, however, because manufacturing strength increasingly looked like supply-disruption front-loading rather than demand-led acceleration, while imports and terms-of-trade pressure worsened.
+The inflation side became more important than the growth side for the BoJ. CGPI reaccelerated, nationwide CPI stopped getting cleaner, core-core stayed above 2%, and service PPI rose to 3.1%, the clearest domestic pricing signal in the file. That means Japan is not a simple weak-demand / dovish-BoJ story. It is a more uncomfortable mix: household demand softens, external balance quality worsens, but pipeline and services inflation strengthen enough to keep normalization alive. The resulting JPY regime is April hold / June-live: near-term BoJ patience, but a firmer medium-term hike path if services inflation and wage-price pass-through remain intact.
+B. JPY MACRO SIGNAL SCOREBOARD
+Growth: ~
+Supporting evidence:
+Growth remained split rather than collapsing. Household spending fell 1.8% y/y, tertiary activity softened, services PMI slowed to 51.2, and chain-store sales fell 1.7% y/y. Against that, machinery orders surged 13.6% m/m and 24.7% y/y, Reuters Tankan non-manufacturing rose to 31, exports grew 11.7% y/y, and manufacturing PMI jumped to 54.9. The issue is quality: the latest manufacturing strength was explicitly linked to supply-disruption hedging, while the consumer/services side weakened.
+Labor: ~
+Supporting evidence:
+No Japan labor release appeared in the supplied three-week file. The Japan macro signal therefore cannot be upgraded or downgraded through labor; the key domestic split was instead household demand softness versus corporate/capex resilience.
+Inflation: -
+Supporting evidence:
+Inflation pressure strengthened across the pipeline. CGPI rose 0.8% m/m and 2.6% y/y, import prices rose 1.5%, core CPI accelerated to 1.8%, core-core stayed at 2.4%, and service PPI rose to 3.1% from 2.7%. The cleanest signal was service PPI, because it is closer to the domestic wage-and-services channel the BoJ cares about than headline CPI alone.
+Financial Conditions: ~
+Supporting evidence:
+M2 and broad money continued to expand, confirming that domestic liquidity was still accommodative. But the external financial channel became less comfortable: the customs-basis trade balance flipped into deficit in the current-account release, March imports beat strongly, the trade surplus disappointed, and the weak yen/import-cost channel amplified the terms-of-trade problem. Domestic liquidity therefore remained easy, but the FX/import-cost channel tightened the macro constraint.
+Policy Constraint: -
+Supporting evidence:
+The BoJ constraint increased because inflation pressure firmed while real demand remained soft. Weak household spending and softer services argue against an April hike, but CGPI, nationwide CPI and especially service PPI support hawkish guidance and a live June normalization debate. The policy regime is therefore not dovish delay; it is cautious continuation of normalization under a stagflationary mix.
+C. FULL RELEASE ARCHIVE
+MONDAY 7 APR 2026
+Japan — All Household Spending YY / MM (Feb)
+Release Date: 7 Apr 2026 | Local Time: 01:30
+Importance: ***
+Reuters Data
+HH Spending YY: -1.8% | Prior: -1.0% | Poll: -0.7% | Surprise: -1.10%
+HH Spending MM: 1.5% | Prior: -2.5% | Poll: 2.6% | Surprise: -1.10%
+Professional Market Commentary
+Reuters framed the release as a clear demand disappointment: the year-on-year fall was materially worse than expected and the monthly rebound was too soft to offset it. That leaves the household side of the economy looking weaker than the wage story alone would imply.
+Comment — Economist Layer
+The year-on-year miss matters more than the monthly bounce. A 1.5% m/m rebound after January’s drop could have been reassuring only with a stronger annual profile; instead the annual contraction deepened. The implication is that Japan’s household sector is still not converting improved real-income conditions into durable consumption strength.
+State transition: deterioration
+Context from prior regional live file:
+The prior DM live file had Japan’s labour side holding up and the Tokyo/core inflation story softer but not collapse-like; by contrast, retail, housing and production were already looking less convincing. This household-spending miss fits that earlier pattern and strengthens the domestic-demand challenge to the BoJ normalisation story.
+HF Take — Strategist Layer
+This is the cleanest near-term counter-argument to aggressive BoJ tightening. It does not break the medium-term normalisation path, but it does push the balance toward patience: weak consumption is now the binding domestic growth risk under an energy-shock backdrop.
+TUESDAY 8 APR 2026
+Japan — Current Account NSA / SA / Trade Balance Customs Basis SA (Feb)
+Release Date: 8 Apr 2026 | Local Time: 01:50
+Importance: ***
+Reuters Data
+Current Account NSA: 3,932.7B JPY | Prior: 941.6B JPY | Revised: 931.0B JPY | Poll: 3,548.7B JPY | Surprise: 384.00B JPY
+Current Account SA: 2,709,000M JPY | Prior: 3,145,000M JPY | Revised: 3,134,400M JPY
+Trade Balance Customs Basis SA: -317,085.00M JPY | Prior: 727,580.00M JPY
+Professional Market Commentary
+The headline NSA surplus beat expectations, but the broader public read remained compositionally cautious: Japan’s current account strength continues to rely heavily on its structural income surplus rather than on a strengthening goods balance.
+Comment — Economist Layer
+This is a classic composition-over-headline release. The NSA beat looks yen-supportive at first glance, but the seasonally adjusted current account weakened and the customs-basis trade balance flipped back into deficit. In macro terms, that means Japan’s external surplus remains robust because of foreign-asset income rather than because the goods engine is re-accelerating. Under an energy-import shock, that distinction matters.
+State transition: deterioration
+Context from prior regional live file:
+The prior DM live file had Japan’s external and sentiment side holding up better than feared even as the domestic side softened. This release preserves the idea that Japan’s external surplus still exists, but it shifts the internal balance toward a less friendly interpretation because the trade leg is now visibly eroding.
+HF Take — Strategist Layer
+This is not a clean JPY-bullish external-strength signal. Japan still has an income-surplus cushion, but oil-sensitive import dynamics are becoming a more serious headwind. That complicates any BoJ attempt to lean aggressively into further tightening.
+FRIDAY 10 APR 2026
+Japan — Corp Goods Price MM / YY (Mar)
+Release Date: 10 Apr 2026 | Local Time: 01:50
+Importance: ****
+Reuters Data
+CGPI MM: 0.8% | Prior: -0.1% | Revised: 0.1% | Poll: 0.9% | Surprise: -0.10%
+CGPI YY: 2.6% | Prior: 2.0% | Revised: 2.1% | Poll: 2.4% | Surprise: 0.20%
+Professional Market Commentary
+The BoJ’s preliminary March CGPI report showed producer prices up 0.8% m/m, export prices up 0.8% in contract-currency terms, and import prices up 1.5%. Reuters then tied the release directly to the policy debate, noting that wholesale inflation accelerated to 2.6% y/y and that Deputy Governor Himino called for vigilance to stagflation risk while saying Japan was not yet in stagflation.
+Comment — Economist Layer
+This is the cleanest upstream inflation signal in the DM tape on Friday. The monthly acceleration is being driven by imported-cost channels, especially energy, and that matters because Japan already entered the week with weak household demand. So the BoJ now faces a more explicit dilemma: consumption is soft, but the producer-price pipeline is reheating. That does not decide the next move on its own, but it clearly strengthens the inflation-side argument inside the policy debate.
+State transition: escalation
+Context from prior regional live file:
+Earlier in the week, Japan had already printed weak household spending and a more fragile external composition. CGPI adds the missing counter-signal: upstream inflation pressure is re-accelerating even as domestic demand remains soft. That makes the Japan file more internally conflicted than it was at the start of the week.
+HF Take — Strategist Layer
+This materially raises the importance of the next BoJ meeting. CGPI reinforces the case of the hawkish camp, but household-spending weakness prevents an easy front-loaded tightening read. The strategist conclusion is not “BoJ must hike now,” but “the Japan policy debate has become explicitly stagflation-shaped.”
+Japan — Overall Comprehensive Risk (Q2)
+Release Date: 10 Apr 2026 | Local Time: 05:00
+Importance: *
+Reuters Data
+Overall Comprehensive Risk: 9.13 | Prior: 9.13
+Professional Market Commentary
+No Tier 1 institutional debate detected.
+Comment — Economist Layer
+Unchanged systemic risk metric. No incremental macro information relative to the much more informative household spending, current-account composition and CGPI releases.
+State transition: continuation
+Context from prior regional live file:
+The live Japan story this week was driven by consumption weakness and renewed upstream inflation pressure. This metric does not change that.
+HF Take — Strategist Layer
+No direct BoJ mapping.
+MONDAY 13 APR 2026
+Japan — M2 Money Supply / Broad Money (Mar)
+Release Date: 13 Apr 2026 | Local Time: 01:50
+Importance: *
+Reuters Data
+M2 Money Supply: 1,286,205,300M | Prior: 1,282,459,700M | Revised: 1,282,270,400M
+Broad Money: 2,280.3T | Prior: 2,275.3T | Revised: 2,274.5T
+Professional Market Commentary
+No Tier 1 institutional debate detected. The useful frame remained the BOJ’s own: money stock growth stayed positive and consistent with financial conditions still being accommodative, while the real policy debate remained centered on inflation, demand softness, and geopolitical uncertainty rather than liquidity stress.
+Comment — Economist Layer
+This is a confirming rather than leading release. March money stock still shows ongoing monetary expansion, which means the current Japanese slowdown debate cannot be explained by restrictive domestic monetary conditions; the active macro tension remains weak household demand versus inflation and FX risk.
+State transition: continuation
+Context from prior regional live file:
+Japan came into the week with weak household demand already visible and upstream price pressure firmer again. March money data do not change that mix; they simply confirm that monetary conditions are still accommodative while the real tension remains demand softness versus inflation and FX risk. Japan therefore stays in a gradual-normalization, not liquidity-stress, regime.
+HF Take — Strategist Layer
+Low direct JPY or front-end impact from this release alone. Strategically it marginally weakens the argument that the BOJ must delay because conditions have already tightened sharply; the more important Japan tests remain business sentiment and capex.
+WEDNESDAY 15 APR 2026
+Japan — Reuters Tankan N-Man Idx (Apr)
+Release Date: 15 Apr 2026 | Local Time: 01:00
+Importance: ***
+Reuters Data
+Reuters Tankan N-Man Idx: 31 | Prior: 25
+Professional Market Commentary
+Reuters framed the April survey as a split Japan story. Manufacturing sentiment slumped on oil and supply-chain concerns tied to the Middle East conflict, but non-manufacturing sentiment improved to 31 from 25, supported by construction, real estate, and information-services demand; the forward outlook, however, still deteriorated materially.
+Comment — Economist Layer
+The important point is that the non-manufacturing side did not yet roll over with the broader shock narrative. A rise to 31 suggests Japanese domestic services and investment-linked service sectors were still holding up better than feared in early April, but the much weaker outlook index means that resilience should be treated as late-cycle strength rather than a durable all-clear.
+State transition: stabilization
+Context from prior regional live file:
+Japan’s prior sequence had become increasingly uneven, with household demand disappointing even as parts of the business sector remained firmer. April Reuters Tankan non-manufacturing strengthens the resilient-services side of that split. Japan therefore stays mixed rather than sliding into a one-way domestic-demand downturn.
+HF Take — Strategist Layer
+This modestly helps the BOJ’s confidence that service-side demand has not cracked outright, but it is not enough to erase caution because the outlook still weakens sharply under the energy-shock backdrop. For rates and JPY, it is mildly supportive versus a pure-growth-scare narrative while keeping the BOJ debate conditional rather than one-sided.
+Japan — Machinery Orders MM / YY (Feb)
+Release Date: 15 Apr 2026 | Local Time: 01:50
+Importance: ****
+Reuters Data
+Machinery Orders MM: 13.6% | Prior: -5.5% | Poll: -1.1%
+Machinery Orders YY: 24.7% | Prior: 13.7% | Poll: 8.5%
+Professional Market Commentary
+The official Cabinet Office release confirmed a sharp rebound in core private-sector machinery orders in February. The surrounding institutional read is that capex remains one of the cleaner supports to the Japan story and that investment is not currently being choked by higher rates.
+Comment — Economist Layer
+This is the strongest upside hard-data surprise in the file. A 13.6% m/m rebound after January’s 5.5% fall tells us the capex side of Japan’s economy was much firmer in February than consensus expected, which directly offsets the weak household-demand story and argues against reading Japan as a simple domestic slowdown case. The volatility caveat still applies, but in weekly sequence this materially strengthens one of the main pillars supporting medium-term BOJ normalization.
+State transition: reversal
+Context from prior regional live file:
+Japan entered the week with household and consumer-sensitive indicators soft, but with parts of the corporate side still more resilient. February machinery orders now push that corporate-capex side back into clear leadership. Japan therefore remains a split economy in which investment is still cushioning softer consumption.
+HF Take — Strategist Layer
+This is the cleanest pro-BOJ data point of the week because it reduces concern that business investment is already rolling over. It does not force an immediate hike call under current geopolitical uncertainty, but it supports the medium-term normalization narrative and is mildly JPY-supportive at the margin.
+MONDAY 20 APR 2026
+Japan — Tertiary Ind Act NSA (Feb)
+Release Date: 20 Apr 2026 | Local Time: 06:30
+Importance: **
+Reuters Data
+Tertiary Ind Act NSA: -0.7% | Prior: -9.2% | Revised: -8.7%
+Professional Market Commentary
+The official METI release showed the seasonally adjusted tertiary-activity index down 0.4% m/m in February, with METI’s overall characterization still that tertiary activity was “showing signs of picking up, though with some pause.” That is a softer February services print, but not an outright structural break.
+Comment — Economist Layer
+This remains a weak release analytically if read straight off the Reuters NSA line, because the official signal is better captured by the seasonally adjusted index. On that basis, February is a modest reversal after January strength, not a collapse. The key read is therefore softer services momentum rather than a trend break. Given Japan’s broader split between firmer capex/corporate indicators and weaker household-side demand, February tertiary activity adds to the soft domestic-services side without invalidating the mixed-economy framework. State transition: no material change.
+Context from prior regional live file:
+The prior DM file had already flagged this series as noisy and less useful than Japan’s broader mix of household softness versus firmer corporate demand. February does not change that. Japan remains split rather than decisively rolling over on the services side.
+HF Take — Strategist Layer
+Marginally dovish for near-term BoJ urgency, but not enough to dislodge the normalization path. It supports patience into the April meeting, while leaving the bigger Japan debate centered on inflation, wages, trade, and business investment.
+WEDNESDAY 22 APR 2026
+Japan — Exports YY / Imports YY / Trade Balance Total Yen (Mar)
+Release Date: 22 Apr 2026 | Local Time: 01:50
+Importance: ***
+Reuters Data
+Exports YY: 11.7% | Prior: 4.0% | Poll: 11.0% | Surprise: 0.70%
+Imports YY: 10.9% | Prior: 10.3% | Poll: 7.1% | Surprise: 3.80%
+Trade Balance Total Yen: 667.0B | Prior: 44.3B | Poll: 1,106.3B | Surprise: -439.30B
+Professional Market Commentary
+The Ministry of Finance showed another export gain, but official and market coverage stressed composition: exports were still supported by China and the US, while imports beat hard, the surplus was much smaller than expected, and analysts flagged April rather than March as the true test of Middle East transmission because tanker lead times delayed the full oil shock.
+Comment — Economist Layer
+This is a classic false-comfort trade print. The headline still looks resilient because exports rose for a seventh straight month and the balance stayed in surplus, but the internals deteriorated: imports overshot badly, the surplus disappointed sharply, Middle East exports collapsed, and the weak yen is amplifying the import-cost problem. The underlying message is that March is the last mostly pre-shock trade month, not that Japan has escaped the shock. State transition: false dawn.
+Context from prior regional live file:
+The prior DM file had Japan as a split economy, with capex and parts of the corporate side cushioning weak household demand. March trade is consistent with that split only superficially. It preserves the external-growth cushion for one more month, but the import side is already telling you the terms-of-trade problem is getting worse.
+HF Take — Strategist Layer
+JPY-negative at the external-balance margin and consistent with BoJ patience in April, but not with a dovish medium-term conclusion. If April trade confirms a sharper energy and input-cost squeeze, the Bank will face a more explicit stagflation mix: weaker growth optics with firmer inflation pressure.
+THURSDAY 23 APR 2026
+Japan — S&P Global Mfg PMI Flash SA / S&P Global SVC PMI Flash SA / S&P Global Comp Op Flash SA (Apr)
+Release Date: 23 Apr 2026 | Local Time: 02:30
+Importance: ***
+Reuters Data
+S&P Global Mfg PMI Flash SA: 54.9 | Prior: 51.6
+S&P Global Comp Op Flash SA: 52.4 | Prior: 53.0
+S&P Global SVC PMI Flash SA: 51.2 | Prior: 53.4
+Professional Market Commentary
+S&P Global itself explicitly said manufacturers were ramping up activity because of concerns about supply disruptions linked to the Middle East conflict, while services slowed and overall business confidence fell to pandemic-era lows. That made the manufacturing surge look like front-loading rather than demand-led strength.
+Comment — Economist Layer
+This is one of the clearest composition traps of the week. Manufacturing exploded higher, but the source itself explains why that should be discounted: firms are front-loading against supply risk. Meanwhile, services slowed sharply, composite softened, and confidence collapsed. So the clean underlying signal is actually weaker domestic demand and a more stagflationary mix, not a broad improvement in Japanese activity. State transition: false dawn on manufacturing; deterioration on services and confidence.
+Context from prior regional live file:
+The prior DM file had Japan as a split economy with capex and parts of the corporate side firmer than the consumer side. April flash PMIs extend that split in more extreme form. The manufacturing side is now being flattered by conflict-related front-loading, while the softer domestic-services signal looks more fundamental.
+HF Take — Strategist Layer
+For BoJ strategy, this does not argue for an April hike but it does not soften the medium-term normalization case either. It instead hardens the stagflation narrative: weaker real demand and confidence alongside firmer input and pipeline price pressure.
+Japan — Chain Store Sales YY (Mar)
+Release Date: 23 Apr 2026 | Local Time: 07:00
+Importance: **
+Reuters Data
+Chain Store Sales YY: -1.7% | Prior: 1.0%
+Professional Market Commentary
+No Tier 1 institutional debate detected. The useful market frame is cross-indicator consistency: the chain-store contraction arrived alongside slower services PMI momentum and a softer February tertiary-activity reading, all pointing in the same direction for domestic consumption.
+Comment — Economist Layer
+On its own, this would be a smaller consumer signal. In sequence, it matters more. A swing from +1.0% to -1.7% fits a broader domestic-demand weakening pattern, and it also sits comfortably with the idea that higher import costs and a weak yen are starting to squeeze real purchasing power. State transition: deterioration.
+Context from prior regional live file:
+The prior DM file had Japanese household demand already looking softer than business investment. March chain-store sales reinforce that split rather than changing it. Japan’s consumer side is weakening faster than the headline activity mix suggests.
+HF Take — Strategist Layer
+Second-order for JPY, but useful for the BoJ growth backdrop. It supports the view that the Bank’s inflation problem is strengthening faster than its consumer-demand base, which is exactly the kind of mix that argues for cautious but continued normalization rather than an aggressive hiking path.
+FRIDAY 24 APR 2026
+Japan — CPI, Core Nationwide YY / CPI, Overall Nationwide (Mar)
+Release Date: 24 Apr 2026 | Local Time: 01:30
+Importance: ***
+Reuters Data
+CPI, Core Nationwide YY: 1.8% | Prior: 1.6% | Poll: 1.8% | Surprise: 0.00%
+CPI, Overall Nationwide: 1.5% | Prior: 1.3%
+Professional Market Commentary
+Japan’s Statistics Bureau showed headline CPI at 1.5% y/y and core CPI at 1.8% y/y, while the core-core measure excluding fresh food and energy remained at 2.4%. Reuters and broader market commentary read the report as consistent with a BoJ April hold but a still-live June hike debate, because the core measure stayed below target while underlying inflation and energy risks remained active.
+Comment — Economist Layer
+The important point is not that core CPI stayed below 2%; it is that the disinflation story stopped getting cleaner. Core accelerated from 1.6% to 1.8%, headline rose, and core-core stayed above 2%, even while subsidies still suppressed the energy contribution. That means the underlying inflation floor remains firmer than the standard core line alone suggests. This is not an immediate breakout, but it is no longer a comfortable easing of inflation pressure. State transition: escalation.
+Context from prior regional live file:
+The prior DM file had Japan’s normalization case resting on firmer corporate activity against weaker household demand. March nationwide CPI strengthens the inflation side of that trade-off. It does not remove growth caution, but it does make it harder to argue that inflation is fading away cleanly.
+HF Take — Strategist Layer
+This supports an April hold with hawkish guidance rather than an April hike. Strategically, it keeps June very live and supports the view that JPY upside needs a policy confirmation catalyst rather than just another in-line inflation print.
+Japan — Service PPI (Mar)
+Release Date: 24 Apr 2026 | Local Time: 01:50
+Importance: ***
+Reuters Data
+Service PPI: 3.10% | Prior: 2.70%
+Professional Market Commentary
+The Bank of Japan’s March services producer price report showed service PPI rising 3.1% y/y, up from 2.7%. Market commentary treated this as the more hawkish signal on Japan inflation day because it is closer to the wage-and-services transmission the BoJ cares about than the headline CPI measures alone.
+Comment — Economist Layer
+This is the cleanest Japan inflation signal of the week. Unlike consumer headline inflation, service PPI is much closer to the domestic pricing and wage pass-through channel that matters for sustainable inflation. A move from 2.7% to 3.1% is therefore significant: it says service-sector inflation is not just surviving, but firming, even as parts of real activity are softening. State transition: escalation.
+Context from prior regional live file:
+The prior DM file had Japan’s inflation debate increasingly centered on whether firmer price signals were broadening beyond volatile goods and FX effects. March service PPI says yes, at least partly. That materially strengthens the medium-term BoJ normalization case.
+HF Take — Strategist Layer
+More important for BoJ strategy than the core CPI line itself. If the Bank wants to stay hawkish while holding in April, this is one of the best data points to lean on. For markets, it is supportive of the June-hike-live thesis and modestly constructive for JPY.
+SIGNAL TENSION CHECK
+Main contradiction: Japan’s consumer and services demand signals weakened, but the inflation and corporate-side signals strengthened enough to keep BoJ normalization alive.
+Why it matters: A superficial read would frame Japan as either weak-demand dovish or capex/inflation hawkish. The file says both are true in different channels: households are not validating a clean domestic-demand recovery, but capex and services inflation prevent a simple dovish repricing.
+Implication: JPY remains dependent on BoJ confirmation rather than growth alone. Weak domestic demand argues for April patience, while service PPI, CGPI and core-core inflation keep June live and preserve medium-term JPY support if policy guidance hardens.
+3 KEY RELEASES TO DIG INTO
+Japan — Machinery Orders MM / YY (15 Apr 2026)
+Why it matters: This was the strongest corporate/capex upside surprise in the file. It prevented the Japan tape from becoming a simple domestic slowdown story and supported the medium-term BoJ normalization case.
+Japan — Corp Goods Price MM / YY (10 Apr 2026)
+Why it matters: This was the cleanest upstream inflation pipeline signal. It landed after weak household spending, making the Japan policy mix explicitly stagflation-shaped rather than purely dovish.
+Japan — CPI, Core Nationwide YY / Service PPI (24 Apr 2026)
+Why it matters: This was the decisive inflation-day confirmation. Nationwide CPI stopped getting cleaner and service PPI accelerated meaningfully, reinforcing April-hold / June-live BoJ normalization logic despite soft domestic-demand indicators.
+<<JPY_WEEK_END>>
 
 <<JPY_WEEK_BEGIN>>
 DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
