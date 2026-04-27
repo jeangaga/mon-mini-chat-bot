@@ -85,7 +85,167 @@ BOK read: constrained hold; easing path effectively suspended unless oil and FX 
 FX read: KRW has growth-quality support from semiconductors and AI hardware, but upside is conditional on global risk, oil and import-cost pass-through.
 Rates read: not cleanly bullish. Strong GDP and exports reduce the case for cuts, while inflation risk is imported and FX-sensitive rather than domestic-demand-led.
 <<KRW_WEEK_END>>
+<<KRW_WEEK_BEGIN>>
+DATA WINDOW: 9 Mar 2026 to 3 Apr 2026
 
+A. KRW WEEK — MACRO SYNTHESIS
+
+Korea’s multi-week KRW tape moved from fragile late-2025 growth into a clearer semiconductor-led manufacturing stabilization, but without resolving the domestic-demand or inflation constraint. The Q4 GDP revision only marginally softened a contractionary quarter, leaving the early baseline as weak domestic breadth, construction drag, and export dependence. The end-March / early-April releases then improved the real-side picture: February industrial output rebounded strongly m/m, semiconductor production surged, and March manufacturing PMI reached its strongest level in more than four years.
+
+The KRW regime is therefore not a broad domestic recovery call. It is a tradables / semiconductor-led growth floor with weak household breadth and lingering imported-cost risk. CPI undershot forecasts, but the miss was partly due to government fuel caps, so it did not create a clean BOK easing signal. For KRW, the macro read is tactically better on activity, but still constrained by energy, FX pass-through, and the fact that the domestic side has not caught up with the export-tech cycle.
+
+B. KRW MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+Q4 GDP was still contractionary at -0.2% q/q after revision, confirming weak late-2025 momentum. But the later data improved the current-growth read: February industrial output rose 5.4% m/m versus 1.8% expected, semiconductor production surged 28.2%, and March PMI rose to 52.6, its highest since February 2022. The growth signal upgraded from fragile rebound to manufacturing-led stabilization, though retail sales at 0.0% m/m kept the domestic-demand read weak.
+
+Labor: ~
+Supporting evidence:
+The supplied Korea blocks did not include a standalone labor-market release. The useful indirect signal came from PMI, where the employment component turned positive, but the archive did not provide enough labor breadth to mark a clean upgrade. Labor is therefore unresolved rather than a decisive KRW driver.
+
+Inflation: ~ / -
+Supporting evidence:
+March CPI undershot consensus, with CPI m/m at 0.30% versus 0.60% expected and CPI y/y at 2.20% versus 2.40% expected. But headline inflation still rose from 2.0% to 2.2% y/y and remained above target. The key caveat was that government fuel-price caps restrained oil pass-through, meaning the observed inflation print looked softer than the underlying energy impulse.
+
+Financial Conditions: ~
+Supporting evidence:
+No direct Korea financial-conditions release appeared in the supplied blocks. The inferred KRW signal is mixed: stronger manufacturing and semiconductor momentum support the currency through growth/export channels, but prior analysis still flagged won weakness and imported-inflation risk as constraints on BOK flexibility. The net read is not outright easing or tightening, but a still-sensitive FX / energy pass-through regime.
+
+Policy Constraint: -
+Supporting evidence:
+The BOK did not get a clean dovish signal. Stronger factory momentum and a PMI employment improvement reduced pressure to cut quickly, while CPI softness was partly policy-capped rather than fundamentally disinflationary. The reaction-function read is therefore patient hold: growth is less weak, inflation is not cleanly solved, and KRW pass-through risk remains relevant.
+
+C. FULL RELEASE ARCHIVE
+
+RELEASE BLOCKS
+
+TUESDAY 10 MAR 2026
+
+SOUTH KOREA — GDP Revised (Q4)
+
+Release Date: 10 Mar 2026 | Local Time: —
+
+Reuters Data
+
+GDP QQ SA: -0.2% | Initial Estimate: -0.3% | Surprise: +0.10pp
+GDP YY: 1.6% | Initial Estimate: 1.5% | Surprise: +0.10pp
+Full-year 2025 GDP: 1.0% | Initial Estimate: 1.0% | Surprise: 0.00%
+
+Professional Market Commentary
+
+Professional commentary treated this as a mild upward revision rather than a regime-changing reassessment. The main institutional framing was that Q4 was still a contraction quarter, but slightly less weak than first reported. The tape emphasis stayed on the underlying growth mix: private consumption and policy support helped, while construction remained a major drag and export momentum became narrower and more semiconductor-dependent.
+
+Comment — Economist Layer
+
+The revision is directionally positive, but the level signal still matters more than the revision. A -0.2% q/q contraction confirms that the second-half growth pulse lost momentum into year-end. The most important structural negative remains construction investment, which is weak both on the quarter and across the full year. That tells you the economy is not yet on a self-sustaining domestic-demand recovery path. Exports are still doing work, but the breadth looks narrower than a healthy cyclical expansion would require.
+
+The upward revision therefore changes tone slightly, not regime. The economy is still in a fragile rebound framework, with 2026 recovery dependent on consumption holding up, construction stabilizing, and exports remaining supportive.
+
+State transition: no material change
+
+Context from prior regional live file:
+The prior Korea story had already been one of uneven recovery: semiconductors and policy support on one side, weaker domestic breadth and investment softness on the other. This revision fits that structure. It softens the downside read at the margin, but it does not overturn the broader message that late-2025 momentum faded.
+
+HF Take — Strategist Layer
+
+For the BOK, this does not materially alter the reaction function. The revision itself is too small. What matters is that Korea still needs support through the growth channel, while won weakness and imported inflation risk continue to constrain rate-cutting flexibility. In market terms, the revision is a small positive, but the real macro issue remains the 2026 forward path under an oil-shock overlay.
+
+TUESDAY 31 MAR 2026
+
+SOUTH KOREA — Industrial Output YY / Industrial Output Growth / Retail Sales MM (Feb)
+Release Date: 31 Mar 2026 | Local Time: 01:00
+
+Reuters Data
+
+Industrial Output YY: -2.2% | Prior: 7.1% | Revised: 6.8% | Poll: 6.0% | Surprise: -8.20%
+Industrial Output Growth: 5.4% | Prior: -1.9% | Revised: -2.4% | Poll: 1.8% | Surprise: 3.60%
+Retail Sales MM: 0.0% | Prior: 2.3% | Revised: 2.9%
+
+Professional Market Commentary
+
+Official and press coverage framed the release as a sharp rebound in activity led by manufacturing, especially semiconductors, while consumption stayed flat. The live institutional read was therefore not broad macro acceleration but the familiar Korea split: tradables and semiconductors strong, household demand less convincing.
+
+Comment — Economist Layer
+
+The annual output miss looks bad, but the sequential hierarchy matters more: mining and manufacturing output rose 5.4% m/m, semiconductor production surged 28.2%, and retail sales were flat. So current momentum was clearly stronger in the export/tech complex than on the domestic-demand side. That is a continuation of the pre-existing Korea pattern, not a clean broad-based reacceleration. State transition: continuation.
+
+Context from prior regional live file:
+The prior EM/Korea trajectory already emphasized semiconductor- and export-led resilience against softer domestic demand. February fits that same structure almost exactly.
+
+HF Take — Strategist Layer
+
+For KRW and BOK pricing, this keeps the growth floor intact but does not justify a growth-upgrade call. The next verification test was always March CPI: if inflation also hardened on energy, the BOK would have even less reason to lean dovish.
+
+WEDNESDAY 1 APR 2026
+
+SOUTH KOREA — S&P Global Mfg PMI (Mar)
+Release Date: 1 Apr 2026 | Local Time: 02:30
+
+Reuters Data
+
+S&P Global Mfg PMI: 52.6 | Prior: 51.1
+
+Professional Market Commentary
+
+Reuters and the scout overlay converged on the same story: Korea’s factory PMI rose to its strongest level in more than four years, driven by semiconductor demand and new product launches, while the Middle East shock slowed export-order momentum and pushed up costs.
+
+Comment — Economist Layer
+
+This is a strong activity print. Output rose at the fastest pace since August 2024, the PMI reached its highest level since February 2022, and the employment component turned positive. But the embedded caution matters: export-order growth slowed, delivery times lengthened sharply, and price pressures intensified. So the right read is real improvement led by the tech cycle, but with a stagflationary shadow now visible in the subcomponents. State transition: improvement.
+
+Context from prior regional live file:
+The prior Korea trajectory was already export- and semiconductor-led resilience. March PMI extends that regime and strengthens it, even as the imported-cost problem becomes more visible.
+
+HF Take — Strategist Layer
+
+For BOK, the release removed pressure to cut quickly. Combined with still-firm activity and later CPI that stayed above target, it reinforced a patient hold rather than renewed easing bias.
+
+THURSDAY 2 APR 2026
+
+SOUTH KOREA — CPI Growth MM / CPI Growth YY (Mar)
+Release Date: 2 Apr 2026 | Local Time: 01:00
+
+Reuters Data
+
+CPI Growth MM: 0.30% | Prior: 0.30% | Poll: 0.60% | Surprise: -0.300%
+CPI Growth YY: 2.20% | Prior: 2.00% | Poll: 2.40% | Surprise: -0.200%
+
+Professional Market Commentary
+
+Reuters coverage made the core point very clearly: March inflation undershot forecasts because government fuel-price caps restrained the pass-through from oil, but policymakers and economists still viewed risks as tilted upward because oil remained above the assumptions used in the BOK’s earlier forecast.
+
+Comment — Economist Layer
+
+The miss should not be read as clean disinflation. Headline CPI rose to 2.2% y/y and remained above target, but administrative fuel caps reduced the near-term petroleum pass-through. That creates an ambiguity: the observed inflation print looked softer than feared, yet the underlying energy impulse was stronger than the headline alone suggested. State transition: continuation.
+
+Context from prior regional live file:
+The prior Korea path was already one of solid manufacturing and uncertain domestic-demand disinflation. March CPI preserved that ambiguity rather than resolving it.
+
+HF Take — Strategist Layer
+
+For BOK, this was not a green light to cut. Strong factory momentum plus a fuel-cap-moderated inflation print still argues for patience, because inflation would likely look less benign without temporary intervention.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Korea’s activity signal improved materially through semiconductors and manufacturing, but the domestic-demand and inflation-quality signals did not confirm a clean broad recovery or clean disinflation.
+
+Why it matters: KRW support from the tech/export cycle is real, but it remains vulnerable to imported-cost pressure and any reversal in semiconductor momentum.
+
+Implication: BOK has less reason to cut quickly, but not because the economy is broadly overheating; the policy stance remains constrained by the combination of improved tradables momentum, capped inflation optics, and FX/energy pass-through risk.
+
+3 KEY RELEASES TO DIG INTO
+
+South Korea — S&P Global Mfg PMI (1 Apr 2026)
+Why it matters: This was the cleanest activity upgrade in the KRW tape. It confirmed strong semiconductor-led manufacturing momentum, but also showed the cost and delivery-time pressure that prevents a simple bullish macro read.
+
+South Korea — CPI Growth MM / CPI Growth YY (2 Apr 2026)
+Why it matters: The softer-than-expected headline did not validate a clean BOK dovish pivot because fuel caps muted oil pass-through. It is the key print for separating observed disinflation from underlying imported-cost pressure.
+
+South Korea — Industrial Output YY / Industrial Output Growth / Retail Sales MM (31 Mar 2026)
+Why it matters: This release exposed the core Korea split: strong sequential manufacturing and semiconductor production, flat retail sales, and weak annual optics. It kept the growth floor intact but did not prove broad domestic reacceleration.
+
+<<KRW_WEEK_END>>
 <<KRW_WEEK_BEGIN>>
 DATA WINDOW: 23 Jan 2026 to 6 Mar 2026
 A. SOUTH KOREA WEEK — MACRO SYNTHESIS
