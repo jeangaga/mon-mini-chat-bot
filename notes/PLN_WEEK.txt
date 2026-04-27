@@ -276,7 +276,97 @@ FX read: PLN has domestic-growth support, but not a clean benign-disinflation ba
 Rates read: poor setup for aggressive dovish repricing. Real-side upside and wage/core drift argue against a clean bull story despite still-mixed labor quantities.
 
 <<PLN_WEEK_END>>
-
+<<PLN_WEEK_BEGIN>>
+DATA WINDOW: 23 Mar 2026 to 3 Apr 2026
+A. PLN WEEK — MACRO SYNTHESIS
+Poland shifted from a clean soft-landing / easing-optional setup into a more constrained policy mix. The first week’s data were benign: retail sales stayed positive but missed expectations, and unemployment was exactly in line, leaving no evidence of labor-led deterioration or domestic overheating. The second week then changed the signal quality: CPI re-accelerated sharply on fuel/energy-sensitive pressure, while manufacturing PMI beat and suggested the activity floor was stabilizing.
+The resulting PLN regime is not a clean growth upgrade, but it is less dovish for NBP pricing. Domestic demand is not strong enough to call reflation, yet it is also not weak enough to dominate the policy reaction function. The marginal weekly signal is therefore stabilizing activity plus renewed imported-inflation constraint, which supports PLN tactically through a less automatic easing path.
+B. PLN MACRO SIGNAL SCOREBOARD
+Growth: ~
+Supporting evidence:
+Retail sales remained positive in February, with real sales at 5.0% y/y, but both nominal and constant-price measures missed consensus by 1.1pp. March manufacturing PMI then improved to 48.7 from 47.1, beating consensus and showing output rising for the first time since April 2025. The growth signal is stabilization, not acceleration.
+Labor: ~
+Supporting evidence:
+Unemployment printed exactly in line at 6.1%, with no evidence of a market-relevant labor shock. The PMI still flagged employment weakness, so labor did not become a positive signal, but it also did not deteriorate enough to force a dovish NBP read.
+Inflation: -
+Supporting evidence:
+CPI flash re-accelerated to 3.0% y/y from 2.4%, with a large 1.0% m/m rise. The print was softer than consensus, but the level and direction were clearly less benign. PMI input-cost pressure reinforced the message that imported energy and cost pressure were re-entering the inflation pipeline.
+Financial Conditions: ~
+Supporting evidence:
+No direct Poland financial-conditions release appeared in the supplied blocks. The implied financial-conditions signal is through rates: CPI re-acceleration plus PMI stabilization reduces confidence in fast NBP easing, which is PLN-supportive at the margin. But the underlying growth backdrop remains too mediocre to call a broad positive financial-conditions regime.
+Policy Constraint: -
+Supporting evidence:
+The NBP constraint tightened. Retail and labor data did not force a hawkish shift, but the CPI/PMI combination changed the balance: inflation pressure returned just as manufacturing stopped deteriorating as quickly. That makes quick further easing less comfortable and shifts the policy read toward slower, more conditional cuts.
+C. FULL RELEASE ARCHIVE
+RELEASE BLOCKS
+MONDAY 23 MAR 2026
+POLAND — Retail Sales YY / Retail Sales Cons Price (Feb)
+Release Date: 23 Mar 2026 | Local Time: 09:30
+Reuters Data
+Retail Sales YY: 4.3% | Prior: 3.9% | Poll: 5.4% | Surprise: -1.10%
+Retail Sales Cons Price: 5.0% | Prior: 4.4% | Poll: 6.1% | Surprise: -1.10%
+Professional Market Commentary
+The right institutional read is moderate consumer resilience, not a clean upside surprise. GUS confirmed that retail sales at constant prices rose 5.0% y/y in February, while broader market framing treated the print as respectable in absolute terms but softer than consensus. The key nuance is that the 5.0% official real-sales figure and the Reuters feed’s separate 4.3% line should be treated as different measures, not as a broken print.
+Comment — Economist Layer
+The signal is continuation rather than re-acceleration. Real retail demand improved from January, so the household side is still expanding. But the miss versus consensus matters because this was a benign-inflation backdrop in which stronger consumption had been expected. Compositionally, the headline looks somewhat flattered by energy-related categories, while discretionary demand was less impressive. That leaves Poland in a “consumer still growing, but not breaking higher” bucket rather than a new domestic-demand upgrade.
+State transition: continuation
+Context from prior regional live file:
+The prior Poland sequence in the EM live file had already become one of orderly disinflation and a somewhat improved external cushion, with current-account improvement adding resilience but not changing the core macro story. February retail fits that setup: demand is still positive, but not in a way that forces a material re-rating of Poland’s growth impulse.
+HF Take — Strategist Layer
+For PLN and local rates, this is not the kind of consumer print that meaningfully tightens the NBP reaction function. It supports a soft-landing read more than a hawkish one. The next verification tests remain labor, industry, and whether consumer strength broadens beyond categories helped by energy-price pass-through.
+TUESDAY 24 MAR 2026
+POLAND — Unemployment Rate (Feb)
+Release Date: 24 Mar 2026 | Local Time: 09:30
+Reuters Data
+Unemployment Rate: 6.1% | Prior: 6.0% | Poll: 6.1% | Surprise: 0.00%
+Professional Market Commentary
+Public commentary around the release was essentially absent, which itself is informative. Statistics Poland’s same-day macro snapshot showed the registered unemployment rate at 6.1% and described it as higher than in the previous month and year, but without any sign of a market-relevant labor shock.
+Comment — Economist Layer
+This is a no-surprise labor print and should not be over-read. The rate moved up slightly, but exactly in line with consensus and within a range consistent with normal early-year registered-unemployment movement. Without a broader deterioration signal from the labor complex, this release looks like maintenance of the existing Poland macro picture rather than the start of a labor-led weakening.
+State transition: no material change
+Context from prior regional live file:
+The prior Poland story inside the EM live file was centered more on disinflation and external resilience than on a labor-market turning point. This in-line unemployment rate does not alter that balance. It leaves Poland in the same broad bucket: comparatively stable, but not strong enough to force a hawkish re-read.
+HF Take — Strategist Layer
+For PLN and local rates, this is a neutral release. It does not materially constrain easing expectations, nor does it create a new growth scare. Markets are more likely to need industry, wages, or inflation-side evidence before revising the Poland policy narrative.
+TUESDAY 31 MAR 2026
+POLAND — CPI Flash MM / CPI Flash YY (Mar)
+Release Date: 31 Mar 2026 | Local Time: 09:30
+Reuters Data
+CPI Flash MM: 1.00% | Prior: 0.00% | Poll: 1.40% | Surprise: -0.400%
+CPI Flash YY: 3.00% | Prior: 2.40% | Poll: 3.20% | Surprise: -0.200%
+Professional Market Commentary
+Official flash data and market commentary created a two-sided read. Relative to consensus, the print was softer than feared. But in level and direction it was clearly hotter, with annual inflation rising to 3.0% and re-acceleration concentrated in fuel and energy-sensitive categories.
+Comment — Economist Layer
+The signal is more hawkish than the miss-versus-consensus suggests. A +1.0% m/m print after February flatness is large, and the y/y move from 2.4% to 3.0% marks a clear re-acceleration. This is not classic demand overheating; it is cleaner evidence that imported energy pressure is re-entering the CPI basket. That matters because it complicates an easing cycle without saying anything especially encouraging about growth. State transition: deterioration.
+Context from prior regional live file:
+The prior Poland/CEE trajectory was weak demand plus improving disinflation, which had opened room for NBP easing. March CPI did not fully break that story, but it clearly complicated it and weakened confidence in a smooth follow-through cutting path.
+HF Take — Strategist Layer
+For NBP and PLN, this was near-term supportive for rates and currency because it reduced confidence in further quick cuts. The key next test became whether April data would confirm persistent fuel and energy pass-through.
+WEDNESDAY 1 APR 2026
+POLAND — S&P Global Mfg PMI (Mar)
+Release Date: 1 Apr 2026 | Local Time: 09:00
+Reuters Data
+S&P Global Mfg PMI: 48.7 | Prior: 47.1 | Poll: 47.1 | Surprise: 1.60
+Professional Market Commentary
+The March PMI was framed as a significant upside surprise versus flat consensus, with output rising for the first time since April 2025. But commentary also emphasized that cost pressure and labor weakness remained important caveats.
+Comment — Economist Layer
+This was a stabilization rather than recovery print. The output improvement and the +1.6 point beat matter because they suggest Poland’s manufacturing downturn may be finding a floor. But the quality of the improvement was mixed: employment was still weakening and input costs were rising sharply. Cross-read against the prior day’s CPI flash, the implication is uncomfortable — manufacturing is bottoming just as inflation pressure is re-entering. State transition: stabilization.
+Context from prior regional live file:
+The prior Poland story was already being complicated by energy-sensitive inflation. March PMI did not remove that; it only showed the activity side was no longer deteriorating as quickly.
+HF Take — Strategist Layer
+For NBP, this does not offset the CPI complication. It modestly improves the growth floor but does not restore a clean easing path because the inflation side remains the more constraining signal.
+SIGNAL TENSION CHECK
+Main contradiction: Poland’s activity data did not justify a strong growth upgrade, but they also stopped validating a clean dovish narrative just as CPI re-accelerated.
+Why it matters: PLN support comes from tighter policy constraint rather than a clean macro upswing.
+Implication: NBP easing remains possible, but the path is less automatic and more conditional on whether March’s fuel/energy pass-through persists.
+3 KEY RELEASES TO DIG INTO
+Poland — CPI Flash MM / CPI Flash YY (31 Mar 2026)
+Why it matters: This was the decisive PLN policy-constraint print. It reintroduced imported inflation pressure and weakened confidence in a smooth NBP easing path.
+Poland — S&P Global Mfg PMI (1 Apr 2026)
+Why it matters: This showed manufacturing stabilization, but with weak employment and rising input costs. The growth floor improved just enough to make the CPI deterioration more binding.
+Poland — Retail Sales YY / Retail Sales Cons Price (23 Mar 2026)
+Why it matters: This kept the soft-landing story alive but did not create a domestic-demand upgrade. It set the baseline that Poland was still growing, but not strongly enough to offset the later inflation complication.
+<<PLN_WEEK_END>>
 <<PLN_WEEK_BEGIN>>
 DATA WINDOW: 9 Mar 2026 to 20 Mar 2026
 A. POLAND WEEK — MACRO SYNTHESIS
