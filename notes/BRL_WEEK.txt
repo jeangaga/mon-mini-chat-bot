@@ -1,4 +1,337 @@
+<<BRL_WEEK_BEGIN>>
+DATA WINDOW: 6 Apr 2026 to 24 Apr 2026
 
+A. BRAZIL / BRL — 3-WEEK MACRO SYNTHESIS
+
+Brazil’s three-week tape moved into a softer-growth / still-constrained-inflation regime rather than a clean easing setup. The activity side moderated: services PMI fell to the edge of stagnation, composite slipped below 50, retail y/y slowed sharply, services activity stayed resilient in level terms but softer than expected, and IBC-Br remained positive but decelerating. The growth message is therefore not recession, but fading thrust under high rates.
+
+The policy constraint is that the inflation and external mix did not validate a simple dovish repricing. IGP-DI flipped sharply positive, IPCA beat consensus with food and transport doing most of the work, and later external data showed the current-account deficit wider than expected with FDI below forecast. Brazil is still externally financeable and not in a Turkey-style reserve-stress regime, but the cushion narrowed. For BRL, the tape is mildly negative at the margin: not crisis, not hard landing, but less growth comfort, renewed consumer-price pressure, and a COPOM reaction function that cannot treat soft activity as a clean easing signal.
+
+B. BRL MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+Brazil’s growth signal weakened without collapsing. Services PMI fell to 50.1 and composite to 49.9, with softer new business and weaker confidence. Services activity later rose only 0.1% m/m versus 0.5% expected, retail sales slowed to just +0.2% y/y, and IBC-Br rose 0.6% m/m but decelerated from January. The aggregate read is positive-but-moderating hard activity with survey deterioration, not reacceleration.
+
+Labor: ~
+Supporting evidence:
+No Brazil labor-market release appears in the supplied three-week file. Labor therefore cannot be used as an independent confirmation of either resilience or deterioration.
+
+Inflation: -
+Supporting evidence:
+Inflation was the binding adverse signal. IGP-DI reversed from -0.84% to +1.14%, confirming upstream price pressure, and IPCA printed 0.88% m/m and 4.14% y/y, both above consensus. Food and transport explained most of the monthly rise, making this a consumer-level shock-transmission block rather than only upstream noise.
+
+Financial Conditions: ~
+Supporting evidence:
+Brazil’s external picture deteriorated at the margin but did not become acute stress. The March trade surplus was supported by oil exports but flattered by a record import bill, while March current account missed at -$6.036bn and FDI undershot at $6.037bn. The file still treated Brazil as externally financeable, but with a narrowing cushion through freight, services-account and logistics-cost pressure.
+
+Policy Constraint: -
+Supporting evidence:
+COPOM’s easing space narrowed. Softer PMIs and weak retail support the growth case for cuts, but IPCA above consensus, IGP-DI pipeline pressure, food/transport pass-through, and mild external deterioration prevent a clean dovish reaction function. Brazil remains “rates biting, but inflation/fiscal/external constraints still dominate.”
+
+C. FULL BRAZIL RELEASE ARCHIVE
+
+MONDAY 6 APR 2026
+
+Brazil — S&P Global Services PMI / S&P Global Composite PMI (Mar)
+Release Date: 6 Apr 2026 | Local Time: 15:00 BRT
+Importance: ****
+
+Reuters Data
+
+S&P Global Services PMI: 50.1 | Prior: 53.1
+S&P Global Composite PMI: 49.9 | Prior: 51.3
+
+Professional Market Commentary
+
+The professional tape treated this as a deterioration event even when short-form coverage softened it as “near-stagnation.” Services fell to the edge of flatline, the composite slipped below 50, new business weakened, and cost pressures intensified. The official S&P Global release also pointed to softer confidence and renewed price pressure across services and the broader composite mix.
+
+Comment — Economist Layer
+
+This is the cleanest early-week stagflationary deterioration block in EM. Composite sub-50 matters most. Services at 50.1 says the weakness is not just manufacturing spillover. New orders falling again tells you it is not merely a one-off confidence wobble. Cost acceleration alongside weaker demand is the key regime signal because it impairs the usual easing read-through from softer PMIs. The sequential deterioration is too large to dismiss as marginal.
+
+State transition: deterioration
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first written Brazil growth-and-prices deterioration marker in the weekly file.
+
+HF Take — Strategist Layer
+
+This materially worsens the Copom mix. A pure growth slowdown would help the easing case. A growth slowdown plus renewed cost pressure instead shifts Brazil into the most acute stagflationary bucket in the file, pending confirmation from IPCA and other hard price data later in the week.
+
+TUESDAY 7 APR 2026
+
+Brazil — Trade Balance (Mar)
+Release Date: 7 Apr 2026 | Local Time: 20:00 BRT
+Importance: ***
+
+Reuters Data
+
+Trade Balance: 6.405B | Prior: 4.208B | Revised: 4.038B | Poll: 7.350B | Surprise: -0.9450B
+
+Professional Market Commentary
+
+The official/public tape split between two valid framings: the lowest March surplus since 2020 and, simultaneously, still a large surplus supported by very strong oil exports. The better reading is compositional. Brazil benefited from a war-related crude rerouting windfall, while imports rose 20.1% y/y to a record level, which left the underlying balance less healthy than the headline surplus alone suggests.
+
+Comment — Economist Layer
+
+The main signal is not the surplus number itself but what drove it. Oil re-routing lifted the export side, especially to China, while the import bill surged. That means sequential improvement versus February flatters the underlying external picture. This is not a broad-based structural export-strength signal. It is a commodity-composition windfall layered on top of a much heavier import bill.
+
+State transition: false dawn
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this block establishes the first written Brazil external-account signal in the current EM note.
+
+HF Take — Strategist Layer
+
+For BRL and Brazil macro mapping, this is only modestly supportive. Commodity support helps near-term resilience, but the composition is too dependent on nonrecurring oil rerouting to upgrade the structural story. It matters more as a vulnerability flag if oil support fades while imports remain elevated.
+
+WEDNESDAY 8 APR 2026
+
+Brazil — IGP-DI Inflation Index (Mar)
+Release Date: 8 Apr 2026 | Local Time: 13:00 BRT
+Importance: ***
+
+Reuters Data
+
+IGP-DI Inflation Index: 1.14% | Prior: -0.84% | Poll: 1.12% | Surprise: 0.020%
+
+Professional Market Commentary
+
+FGV’s official release confirmed a sharp reversal from -0.84% in February to +1.14% in March. The public tape around the release was thinner than for PMI, but the directional message was unambiguous: upstream prices flipped abruptly from deflation to inflation.
+
+Comment — Economist Layer
+
+IGP-DI is valuable here as a pipeline signal. It does not settle the consumer-inflation question, but it materially strengthens the case that upstream pressure is re-entering the system quickly. That fits with the PMI cost story already visible earlier in the week. Brazil now has softer activity and re-accelerating upstream prices at the same time.
+
+State transition: reversal
+
+HF Take — Strategist Layer
+
+This is not the biggest market-moving release, but it is one of the most useful signal-extraction releases for Copom. It raises the probability that the Brazil inflation story is broadening beyond surveys and into hard upstream data.
+
+Brazil — Overall Comprehensive Risk (Q2)
+Release Date: 8 Apr 2026 | Local Time: 19:00 BRT
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk: 4.86 | Prior: 4.88 | Revised: 4.86
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Effectively flat. At this magnitude, the change is not policy-relevant relative to the far stronger signal coming from Brazil PMIs, trade, IGP-DI and IPCA.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only. No incremental rates, FX or regime signal.
+
+THURSDAY 9 APR 2026
+
+Brazil — BR WSD-Soybn Output 25/26 / BR World Soy Output 24/25 / BR Wrld Corn Output 24/25 / BR WSD-Corn Output 25/26 (Apr)
+Release Date: 9 Apr 2026 | Local Time: 18:00 BRT
+Importance: *
+
+Reuters Data
+
+BR WSD-Soybn Output 25/26: 180.00M | Prior: 180.00M | Poll: 179.84M | Surprise: 0.160M
+BR World Soy Output 24/25: 172.50M | Prior: 171.50M
+BR Wrld Corn Output 24/25: 136.00M | Prior: 136.00M
+BR WSD-Corn Output 25/26: 132.00M | Prior: 132.00M | Poll: 132.66M | Surprise: -0.660M
+
+Professional Market Commentary
+
+No major institutional debate emerged. The broad message was stability in soybean estimates, a small upward revision to prior-year soy output, and only a modest miss on 25/26 corn versus poll.
+
+Comment — Economist Layer
+
+No material macro or policy signal. These are commodity-supply details rather than a meaningful shift in the Brazil macro week.
+
+State transition: no material change
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time.
+
+HF Take — Strategist Layer
+
+Archival only. No meaningful implications for Copom or EM week ranking.
+
+FRIDAY 10 APR 2026
+
+Brazil — IPCA Inflation Index MM / YY (Mar)
+Release Date: 10 Apr 2026 | Local Time: 14:00 BRT
+Importance: ****
+
+Reuters Data
+
+IPCA Inflation Index MM: 0.88% | Prior: 0.70% | Poll: 0.77% | Surprise: 0.110%
+IPCA Inflation Index YY: 4.14% | Prior: 3.81% | Poll: 4.00% | Surprise: 0.140%
+
+Professional Market Commentary
+
+Reuters and the official IBGE release were aligned: March IPCA came in at 0.88% m/m and 4.14% y/y, both above consensus. IBGE’s own breakdown showed transport and food drove most of the monthly increase, with fuels a particularly important driver. Reuters emphasised the implication for Brazil’s new rate-cut cycle, while IBGE quantified the rise in transport and food as together explaining 76% of the monthly index.
+
+Comment — Economist Layer
+
+This is the hard confirmation that Brazil’s earlier-week stagflation signals were real. PMIs showed weaker activity and rising costs. IGP-DI showed upstream reversal. IPCA now proves consumer inflation also re-accelerated, and by more than expected. The internal composition matters: transport and food are the classic shock-transmission channels. That means Brazil is no longer just an upstream-cost story. It is a consumer-price story too.
+
+State transition: escalation
+
+Context from prior regional live file:
+Raw EM GitHub live file returned empty at drafting time, so this is the first written consumer-inflation regime marker for Brazil in the current EM week file.
+
+HF Take — Strategist Layer
+
+This is the binding Copom constraint for late April. Brazil now has the week’s clearest stagflation configuration: sub-50 composite, pipeline price re-acceleration, and headline CPI above 4% with upside surprise. Any cut path becomes more conditional and more credibility-sensitive from here.
+
+TUESDAY 14 APR 2026
+
+Brazil — Service Sector Growth (Feb)
+Release Date: 14 Apr 2026 | Local Time: 13:00
+Importance: **
+
+Reuters Data
+
+Service Sector Growth MM: 0.1% | Prior: 0.3% | Poll: 0.5% | Surprise: -0.4pp
+Service Sector Growth YY: 0.5% | Prior: 3.3% | Poll: n/a
+
+Professional Market Commentary
+
+IBGE’s official release showed services up 0.1% m/m and 0.5% y/y, with the sector still at a record level and 20.0% above the pre-pandemic February 2020 base. The headline read was therefore “softer than expected, but still resilient in level terms.”
+
+Comment — Economist Layer
+
+This is not a new acceleration signal, but it is also not a growth-break signal. Monthly momentum softened from January’s 0.3%, yet the level remains very strong and the sector continues to print positive annual rates. That makes the right classification continuation of resilience, with some moderation.
+
+State transition: continuation with mild improvement
+
+Context from prior regional live file:
+Brazil had already been running as a “mixed but resilient” activity story in the prior EM sequence, with services behaving better than the more rate-sensitive parts of demand. February services fits that exact pattern.
+
+HF Take — Strategist Layer
+
+This keeps Brazil away from any hard-landing narrative. It still supports the view that high rates are cooling activity gradually rather than abruptly, which matters because the BCB does not need a collapse to justify caution on easing.
+
+WEDNESDAY 15 APR 2026
+
+Brazil — Retail Sales MM / Retail Sales YY (Feb)
+Release Date: 15 Apr 2026 | Local Time: 14:00
+Importance: ***
+
+Reuters Data
+
+Retail Sales MM: +0.6% | Prior: +0.4% | Poll: +1.0% | Surprise: -0.40pp
+Retail Sales YY: +0.2% | Prior: +2.8% | Revised: +2.7% | Poll: +1.2% | Surprise: -1.00pp
+
+Professional Market Commentary
+
+IBGE’s official release showed retail up 0.6% m/m, but only 0.2% y/y, with 17 of 27 states posting growth and extended retail up 1.0% m/m. The dominant tape message was a split between still-positive sequential momentum and a much weaker annual growth signal.
+
+Comment — Economist Layer
+
+The annual signal is the more important one for regime assessment. Three consecutive positive monthly prints say the consumer has not rolled over, but the collapse in y/y growth to 0.2% says the sector is losing momentum fast in real terms. The composition in the scout reinforces that view: necessities and fuels held up better than more discretionary and credit-sensitive categories.
+
+State transition: deterioration
+
+Context from prior regional live file:
+Brazil had already been running as “mixed but resilient,” not “reaccelerating.” February retail keeps the first half of that phrase but weakens the second. The consumer is still expanding sequentially, but no longer with enough breadth to look comfortable.
+
+HF Take — Strategist Layer
+
+This is the kind of print that tells COPOM policy is working, but not that it is done. It lowers the probability of upside growth surprise, yet the inflation/fiscal backdrop still argues against treating softer retail as an easy-cut signal.
+
+THURSDAY 16 APR 2026
+
+Brazil — IBC-BR EconomicActivity (Feb)
+Release Date: 16 Apr 2026 | Local Time: 14:00
+Importance: **
+
+Reuters Data
+
+IBC-BR EconomicActivity: +0.60% | Prior: +0.80% | Poll: +0.47% | Surprise: +0.13pp
+
+Professional Market Commentary
+
+Public real-time summaries showed IBC-Br up 0.6% m/m in February after 0.8% in January, slightly above forecast, with industry cited as an important positive contributor. The broad tape read was that activity remained positive, but was no longer accelerating.
+
+Comment — Economist Layer
+
+That is the right read. The beat versus consensus is not the main message; the deceleration from January is. Together with softer retail y/y and still-resilient services, February IBC-Br fits a Brazil macro profile of positive but moderating activity under high rates, not recession and not reacceleration.
+
+State transition: continuation
+
+Context from prior regional live file:
+Brazil had already been moving through a moderation process in the prior EM sequence, but without evidence of collapse. February IBC-Br reinforces that exact path: activity is still holding, but with less thrust than at the start of the year.
+
+HF Take — Strategist Layer
+
+This gives COPOM some comfort that activity has not broken, which limits the case for an aggressively dovish reinterpretation. Brazil remains a “rates are biting, but inflation/fiscal constraints still dominate” story.
+
+FRIDAY 24 APR 2026
+
+Brazil — Current Account / Foreign Direct Investm't (Mar)
+Release Date: 24 Apr 2026 | Local Time: 13:30
+Importance: **
+
+Reuters Data
+
+Current Account: -6.036B | Prior: -5.614B | Poll: -5.489B | Surprise: -0.5470B
+Foreign Direct Investm't: 6.037B | Prior: 6.754B | Poll: 7.000B | Surprise: -0.9630B
+
+Professional Market Commentary
+
+The immediate narrative was factual rather than heavily interpreted: the current-account deficit came in wider than expected and FDI undershot, but the external picture was not read as acute stress. The more interesting institutional angle was the explicit reference to freight and logistics costs as a Hormuz-related services-account channel.
+
+Comment — Economist Layer
+
+This is a mild deterioration print, not a regime break. The current-account deficit widened, FDI missed, the trade surplus narrowed, and services costs worsened, but the 12-month coverage still says Brazil remains externally financeable rather than fragile. The important refinement is transmission: Brazil is not mainly taking the shock through direct reserve stress or immediate energy panic, but through freight and services-account pressure. State transition: continuation with mild deterioration.
+
+Context from prior regional live file:
+The previous Brazil external block had placed Brazil in the “more room, less external stress” camp rather than in the fragile-liquidity camp, with FDI still comfortably covering the deficit. March weakens that comfort at the margin but does not overturn it. Brazil remains structurally better placed than the more externally constrained EM cases, though the cushion is clearly narrowing.
+
+HF Take — Strategist Layer
+
+This is mildly BRL-negative but not enough to create a first-order external-vulnerability story. Strategically, it matters because it shows how Hormuz can still tighten Brazil’s macro mix through logistics costs even without turning Brazil into a Turkey-style external stress case.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Brazil’s activity data are soft enough to show high rates biting, but inflation and external data are not benign enough to justify an easy dovish read. Composite PMI slipped below 50 and retail y/y weakened sharply, yet IGP-DI and IPCA reaccelerated and the current account deteriorated mildly.
+
+Why it matters: COPOM cannot map weaker growth mechanically into easier policy while food, transport, upstream prices and logistics costs are still tightening the macro mix.
+
+Implication: BRL should be treated as a moderation-with-constraint story, not a clean easing-growth story and not an acute external-stress case.
+
+3 KEY RELEASES TO DIG INTO
+
+Brazil — S&P Global Services PMI / S&P Global Composite PMI (6 Apr 2026)
+Why it matters: This was the first clean stagflationary deterioration signal. Composite sub-50, weaker new business and rising cost pressure showed activity softening without inflation comfort.
+
+Brazil — IPCA Inflation Index MM / YY (10 Apr 2026)
+Why it matters: This was the binding COPOM release. It confirmed that pipeline and survey cost pressure had reached consumer inflation, with food and transport driving most of the monthly increase.
+
+Brazil — Current Account / Foreign Direct Investm't (24 Apr 2026)
+Why it matters: This refined the external read. Brazil remained financeable, but the wider deficit, FDI miss and freight/services pressure showed the cushion narrowing through logistics rather than reserve stress.
+
+BRL / COPOM BOTTOM LINE
+
+BRL regime: positive-but-moderating activity, renewed inflation pressure, mild external-cushion erosion.
+
+COPOM read: easing remains possible only conditionally; soft activity helps, but IPCA, upstream prices, food/transport pass-through and external logistics costs prevent a clean dovish reaction function.
+
+FX read: BRL is not in an acute external-stress regime, but the local macro mix is less supportive: weaker activity, sticky inflation and narrowing external comfort reduce the case for high-conviction BRL strength.
+
+Rates read: not a clean bull story. Growth moderation supports duration, but inflation and external-cost signals keep the front-end credibility premium alive.
+
+<<BRL_WEEK_END>>
 <<BRL_WEEK_BEGIN>>
 DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
 
