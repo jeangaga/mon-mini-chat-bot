@@ -253,43 +253,49 @@ China (Mainland) — Total Social Financing / New Yuan Loans / M2 Money Supply Y
 Why it matters: This confirmed that even a seasonally strong month did not deliver a convincing private-demand or credit-transmission turn. Policy support remains present, but autonomous demand is still incomplete.
 
 <<CNH_WEEK_END>>
+
 <<CNH_WEEK_BEGIN>>
-DATA WINDOW: 30 Mar 2026 to 3 Apr 2026
+DATA WINDOW: 23 Mar 2026 to 3 Apr 2026
 
 A. CNH WEEK — MACRO SYNTHESIS
 
-China’s week delivered a real activity stabilization signal, but with much worse quality underneath. The official NBS manufacturing PMI returned to expansion at 50.4, suggesting a post-holiday recovery in production and demand, but the private-sector RatingDog manufacturing PMI softened sharply to 50.8 from 52.1 and showed much stronger cost pressure, while the services PMI fell to 52.1 from 56.7. The correct weekly read is therefore not clean reacceleration. It is stabilization in the official headline alongside softer private-sector and services momentum, plus a visible rise in goods-side price pressure.
+The two-week CNH window contained one procedural no-signal week followed by a materially useful China survey week. The 23–27 Mar source file contained no China-specific release block, so no validated CNH regime change should be inferred for that window. The actual macro signal came in the 30 Mar–3 Apr week: official NBS manufacturing stabilized back into expansion at 50.4, but the private RatingDog manufacturing PMI slowed to 50.8 from 52.1 and services cooled sharply to 52.1 from 56.7.
 
-That leaves the CNH/PBOC mix more complicated rather than cleaner. Hard-landing anxiety eased, but policy room did not broaden cleanly because the activity rebound was uneven and the price backdrop worsened in the factory sector. The week’s macro message is uneven stabilization with a tighter-quality growth mix and narrower easing comfort.
+The correct merged-window read is therefore uneven stabilization, not clean reacceleration. Hard-landing anxiety eased because the official production/new-order signal improved, but the quality of growth was weaker in the private-sector and services data, while goods-side cost pressure worsened sharply. For CNH/PBOC, the window reduced immediate growth stress but did not reopen a clean easing narrative: policy comfort narrowed because the recovery signal was uneven and the price mix deteriorated.
 
 B. CNH MACRO SIGNAL SCOREBOARD
 
 Growth: ~
 Supporting evidence:
-The official NBS manufacturing PMI rose to 50.4 from 49.0 and beat the 50.1 poll, which is a genuine stabilization signal. But the private RatingDog manufacturing PMI fell to 50.8 from 52.1 and missed the 51.6 poll, while the RatingDog services PMI dropped sharply to 52.1 from 56.7. That leaves growth improving in headline official terms, but losing breadth and momentum underneath.
+The first supplied window contained no China-specific release block, so it added no validated growth signal. In the second window, NBS manufacturing rose to 50.4 from 49.0 and beat the 50.1 poll, giving a genuine official stabilization signal. But RatingDog manufacturing fell to 50.8 from 52.1 and missed the 51.6 poll, while RatingDog services dropped to 52.1 from 56.7. Growth therefore stabilized in headline official terms but lost breadth and private-sector/services momentum underneath.
 
 Labor: ~
 Supporting evidence:
-No dedicated China labor release was present in the supplied file, but the survey detail was not clean. In the NBS release, employment remained below 50, and the services PMI noted staffing cuts again. That is not enough to call a labor break, but it is enough to say the labor backdrop did not validate a broad-based recovery story.
+No dedicated China labor release was present across the merged input. The only labor-relevant survey details were not strong enough to call a break but did not validate a broad recovery: NBS employment remained below 50, and the RatingDog services PMI noted staffing cuts again. The labor signal remains unresolved and soft at the margin.
 
 Inflation: -
 Supporting evidence:
-The week’s clearest deterioration was on the factory-price side. The NBS release showed price indices jumping hard, and the RatingDog manufacturing PMI reported input costs rising at the fastest pace since March 2022 with output prices at a four-year high. By contrast, services still operated in a softer inflation environment, which makes the inflation picture split rather than broad-based, but the net weekly price signal worsened.
+No China-specific inflation signal was present in the 23–27 Mar window. The 30 Mar–3 Apr window showed the clearest deterioration on the factory-price side: NBS price indices jumped hard, and RatingDog manufacturing reported input costs rising at the fastest pace since March 2022 with output prices at a four-year high. Services still operated in a softer inflation environment, so the price signal was split, but the net weekly inflation constraint worsened.
 
 Financial Conditions: ~
 Supporting evidence:
-The supplied file contained no direct China financial-conditions release. The relevant weekly inference is mixed: better official activity reduced hard-landing concern, but weaker private-sector breadth and stronger factory-price pressure did not create a clearly easier domestic macro-financial backdrop.
+The supplied input contained no direct China financial-conditions release. The valid inference from the survey mix is mixed: better official activity reduced hard-landing fear, but weaker private-sector breadth, services deceleration, and stronger goods-side cost pressure did not create a clearly easier domestic macro-financial backdrop.
 
 Policy Constraint: -
 Supporting evidence:
-The policy mix became more difficult. NBS stabilization reduced the urgency for broad growth rescue, while RatingDog manufacturing and services showed a less clean private-sector recovery and stronger cost pressure. That is not an easy easing combination for PBOC, because the week reduced growth fear but also reduced disinflation comfort.
+The merged window does not justify a cleaner easing narrative. The no-signal first week did not alter the CNH policy backdrop, while the survey week reduced growth urgency through NBS stabilization but simultaneously exposed softer private-sector/services momentum and stronger factory-price pressure. For PBOC, that is a more difficult calibration mix: less hard-landing stress, but narrower disinflation comfort and weaker recovery quality.
 
 C. FULL RELEASE ARCHIVE
+
+23 MAR 2026 TO 27 MAR 2026
+
+No China-specific release blocks were present in the supplied EM weekly source for this window.
 
 TUESDAY 31 MAR 2026
 
 CHINA (MAINLAND) — NBS Manufacturing PMI (Mar)
 Release Date: 31 Mar 2026 | Local Time: 03:30
+Importance: ***
 
 Reuters Data
 
@@ -314,6 +320,7 @@ WEDNESDAY 1 APR 2026
 
 CHINA (MAINLAND) — RatingDog Manufacturing PMI Final (Mar)
 Release Date: 1 Apr 2026 | Local Time: 03:45
+Importance: ***
 
 Reuters Data
 
@@ -338,6 +345,7 @@ FRIDAY 3 APR 2026
 
 CHINA (MAINLAND) — RatingDog Services PMI (Mar)
 Release Date: 3 Apr 2026 | Local Time: 03:45
+Importance: ***
 
 Reuters Data
 
@@ -360,19 +368,19 @@ For PBOC, the split between manufacturing-price pressure and softer services mom
 
 SIGNAL TENSION CHECK
 
-Main contradiction: China’s official manufacturing data stabilized meaningfully, but the private-sector and services surveys softened and the factory-price backdrop worsened sharply.
+Main contradiction: There was no China-specific contradiction to resolve in the 23–27 Mar supplied weekly source because no China-specific release block was present. The actual contradiction appeared in the 30 Mar–3 Apr window: China’s official manufacturing data stabilized meaningfully, but the private-sector and services surveys softened and the factory-price backdrop worsened sharply.
 
-Why it matters: That means the week was not a clean China growth upgrade. It was a divergence story: better headline official activity, weaker private breadth, and narrower policy comfort.
+Why it matters: That means the merged window should not be read as a continuous China growth upgrade. It was first a no-signal procedural week, then a divergence story: better headline official activity, weaker private breadth, and narrower policy comfort.
 
-Implication: CNH should read the week as reducing hard-landing fear but not as reopening a clean pro-growth, pro-easing narrative.
+Implication: CNH should read the two-week window as reducing hard-landing fear only once the 30 Mar–3 Apr survey data arrived, but not as reopening a clean pro-growth, pro-easing narrative.
 
 3 KEY RELEASES TO DIG INTO
 
 China (Mainland) — RatingDog Manufacturing PMI Final (1 Apr 2026)
-Why it matters: This was the most analytically useful China release of the week because it exposed the divergence between stronger large-enterprise activity and a softer, more cost-pressured private-sector manufacturing base. It changed the quality of the China growth signal.
+Why it matters: This was the most analytically useful China release of the merged window because it exposed the divergence between stronger large-enterprise activity and a softer, more cost-pressured private-sector manufacturing base. It changed the quality of the China growth signal.
 
 China (Mainland) — NBS Manufacturing PMI (31 Mar 2026)
-Why it matters: This was the cleanest official stabilization signal of the week. It mattered because it reduced hard-landing anxiety and showed that production and new orders improved, even if employment and export orders still lagged.
+Why it matters: This was the cleanest official stabilization signal of the merged window. It mattered because it reduced hard-landing anxiety and showed that production and new orders improved, even if employment and export orders still lagged.
 
 China (Mainland) — RatingDog Services PMI (3 Apr 2026)
 Why it matters: This release showed that the softer-quality recovery was not confined to private manufacturing. Services stayed in expansion, but momentum cooled sharply and external demand softened, reinforcing the broader “uneven recovery” message.
@@ -381,341 +389,767 @@ Why it matters: This release showed that the softer-quality recovery was not con
 
 
 <<CNH_WEEK_BEGIN>>
-DATA WINDOW: 23 Mar 2026 to 27 Mar 2026
+DATA WINDOW: 9 Mar 2026 to 20 Mar 2026
 
 A. CNH WEEK — MACRO SYNTHESIS
 
-No China-specific macro release block was present in the supplied EM weekly source for this window. As a result, there is no validated China hard-data update inside the file that would justify a new weekly China regime call. The correct read for this week is therefore procedural rather than interpretive: no new China-specific signal in the supplied source, and no basis to claim a verified change in the CNH macro backdrop from this file alone.
+The merged CNH window delivered the strongest upgrade to China’s nominal and activity tone in the monitoring sequence, but without resolving the core private-demand transmission problem. CPI surprised higher with genuine non-food/services breadth, PPI deflation narrowed, exports surged, imports beat strongly, TSF remained supportive, and the Jan-Feb activity bundle delivered a material upside surprise across FAI, industrial output and retail sales. That was enough to move the regime away from “deep disinflation / weak nominal tone” toward “less disinflationary, stronger nominal tone, and government-led stabilization gaining traction.”
+
+The quality of the improvement remained the constraint. Credit was still bifurcated between TSF/M2 support and weak new yuan loans, property investment remained deeply negative, unemployment rose to 5.3%, and the March LPR hold confirmed that stronger activity plus imported-inflation risk had frozen the near-term easing case. The correct two-week read is therefore not clean private-sector reflation: it is a materially better headline growth/nominal impulse, still led by public/fiscal channels, with PBOC patience now justified by data rather than forced by weakness.
+
+B. CNH MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+Exports surged 39.6% y/y, imports rose 13.8%, TSF beat at 2,380B, and the Jan-Feb activity bundle delivered the strongest growth block in the file. FAI swung to +1.8% from -3.8%, industrial output accelerated to 6.3%, and retail sales improved to 2.8%. Lunar New Year timing and public-channel support still require a discount, but the two-week growth impulse was clearly stronger than prior windows.
+
+Labor: -
+Supporting evidence:
+The only direct labor signal deteriorated. Urban unemployment rose to 5.3% from 5.1% exactly as activity data improved, which prevented the growth beat from becoming a clean recovery confirmation. The income channel did not validate the production/investment improvement, preserving false-dawn risk.
+
+Inflation: +
+Supporting evidence:
+CPI rose 1.3% y/y versus 0.8% consensus and PPI deflation narrowed to -0.9% versus -1.2% consensus. Institutional commentary treated the CPI beat as broader than food or holiday distortion, with non-food and services breadth improving. The inflation signal was not full reflation because PPI remained negative, but it materially weakened the “China as clean global disinflation offset” thesis.
+
+Financial Conditions: ~
+Supporting evidence:
+TSF beat and M2 held at 9.0%, confirming accommodative liquidity and public-channel financing. But new yuan loans missed at 900B versus 979B consensus, keeping the structural transmission problem alive. The LPR was held unchanged at 3.00% / 3.50%, so financial conditions stayed supportive by design, but the easing pipeline became frozen rather than incremental.
+
+Policy Constraint: -
+Supporting evidence:
+The March LPR hold was the clearest policy verdict. Stronger trade, firmer CPI/PPI, better Jan-Feb activity and rising imported-inflation risk reduced the urgency and comfort for near-term monetary easing. The PBOC stance shifted from “support still needed, waiting” toward “activity improved enough and inflation risk rose enough to justify patience,” leaving fiscal and targeted tools as the cleaner active levers.
+
+C. FULL RELEASE ARCHIVE
+
+--- WEEK OF 9 MAR TO 20 MAR 2026 ---
+
+MONDAY 9 MAR 2026
+
+CHINA — CPI / PPI (Feb)
+Release Date: 9 Mar 2026 | Local Time: 02:30
+Importance: ***
+
+Reuters Data
+
+CPI YoY: 1.3% | Prior: 0.2% | Poll: 0.8% | Surprise: +0.50%
+PPI YoY: -0.9% | Prior: -1.4% | Poll: -1.2% | Surprise: +0.30%
+
+Professional Market Commentary
+
+Institutional commentary treated the CPI beat as broader than a one-line food effect, pointing to firmer non-food and services components. The PPI improvement was seen as modest rather than decisive, but enough to weaken the clean "China still deeply deflationary" narrative.
+
+Comment — Economist Layer
+
+The important distinction is CPI breadth versus still-negative PPI. Services and non-food strength suggest firmer domestic pricing momentum, while producer prices remain deflationary, especially upstream. So the signal is not "China reflation complete"; it is "China less disinflationary than before, with an uneven price mix."
+
+Context from prior regional live file:
+December had already shown lowflation with slightly less-negative producer prices, but January then reverted to a softer "policy support still needed / pricing power still weak" read. February is the first print in that recent chain that materially upgrades the story from "not worsening" toward "less disinflationary with some breadth," while still stopping short of a full reflation call because PPI remains negative.
+
+HF Take — Strategist Layer
+
+This release raises the chance that China stops acting as a clean global disinflation offset. For the global overlay, that matters because it lands against weak Europe and ahead of key US inflation data. It is supportive of a selective reflation narrative in EM, but not yet a full regime turn.
+
+TUESDAY 10 MAR 2026
+
+CHINA — Exports / Imports / Trade Balance (Feb)
+Release Date: 10 Mar 2026 | Local Time: —
+Importance: ****
+
+Reuters Data
+
+Exports YoY: +39.6% | Prior: +9.8% | Poll: +7.1% | Surprise: +32.50%
+Imports YoY: +13.8% | Prior: +25.6% | Poll: +6.3% | Surprise: +7.50%
+Trade Balance USD: 90.98B | Prior: 122.64B | Poll: 179.60B | Surprise: -88.620B
+
+Professional Market Commentary
+
+Professional commentary focused less on the headline surplus miss and more on the strong import print. The key read was that import strength across commodities, consumer goods, and semiconductors points to broader nominal demand and restocking rather than a narrow export-only story.
+
+Comment — Economist Layer
+
+The composition is the story. A smaller trade surplus caused by stronger imports is a healthier signal than a surplus miss caused by export weakness. That makes this release more relevant for the global growth map than the headline balance alone, especially because it lines up with the firmer China CPI/PPI signal.
+
+Context from prior regional live file:
+December trade had already softened the "China demand is dead" narrative, and the broader EM week synthesis had treated China trade plus credit beats as the core EM impulse. February therefore extends and strengthens an existing upswing rather than creating it from scratch, with the stronger-import / smaller-surplus mix adding a healthier domestic-absorption element.
+
+HF Take — Strategist Layer
+
+This release strengthens the case that China is the leading upside impulse within EM this week. In cross-zone terms, it offsets part of Europe's weakness and prevents the global narrative from collapsing into a one-way slowdown call. The key conditional next step is whether financing data validate the activity pulse.
+
+FRIDAY 13 MAR 2026
+
+CHINA — Total Social Financing / M2 Money Supply / New Yuan Loans / Outstanding Loan Growth (Feb)
+Release Date: 13 Mar 2026 | Local Time: 10:02 / 10:03
+Importance: ***
+
+Reuters Data
+
+Total Social Financing, Feb: 2,380.0B | Prior: 7,220.0B | Poll: 2,133.0B | Surprise: 247.00B
+M2 Money Supply YY, Feb: 9.0% | Prior: 9.0% | Poll: 8.8% | Surprise: 0.20%
+New Yuan Loans, Feb: 900.0B | Prior: 4,710.0B | Poll: 979.0B | Surprise: -79.00B
+Outstanding Loan Growth, Feb: 6.0% | Prior: 6.1% | Poll: 6.0% | Surprise: 0.00%
+
+Professional Market Commentary
+
+The institutional reading was split rather than uniformly positive or negative. Commentary treated the TSF beat and M2 beat as evidence of supportive liquidity and fiscal-led financing, while the loan miss kept the focus on weak private-sector credit demand. The main narrative was that China's financing impulse remains government-driven rather than demand-led.
+
+Comment — Economist Layer
+
+This is a bifurcated print. The TSF beat is not a straightforward growth-positive signal because the composition points toward government issuance rather than stronger private borrowing appetite. The loan miss is the cleaner private-demand signal and remains weak. M2 resilience is constructive for liquidity conditions, but liquidity is not the same as autonomous credit creation. So the macro message is: policy support is still working through public channels while private credit demand remains impaired.
+
+State transition: no material change in the core regime
+
+Context from prior regional live file:
+The prior China sequence had already moved toward "less disinflationary, better nominal tone, but still not a self-sustaining private-demand recovery." This release fits that same path. It validates the government-led financing story rather than upgrading the macro regime into a clean private-credit reflation phase.
+
+HF Take — Strategist Layer
+
+For markets, this keeps China in a fiscal-support / soft-private-demand configuration. That matters because it preserves some support for EM/global growth without resolving the underlying weakness in domestic private credit transmission. The key conditional implication is that fiscal tools remain the primary macro lever unless later data show stronger household and corporate borrowing.
+
+MONDAY 16 MAR 2026
+
+CHINA — Urban Investment / Industrial Output / Retail Sales / Unemp Rate Urban Area (Jan-Feb / Feb)
+Release Date: 16 Mar 2026 | Local Time: 03:00
+Importance: ****
+
+Reuters Data
+
+Urban Investment (YTD) YY, Feb: 1.8% | Prior: -3.8% | Poll: -2.1% | Surprise: 3.90%
+Industrial Output YY, Feb: 6.3% | Prior: 5.2% | Poll: 5.0% | Surprise: 1.30%
+Retail Sales YY, Feb: 2.8% | Prior: 0.9% | Poll: 2.5% | Surprise: 0.30%
+Unemp Rate Urban Area, Feb: 5.3% | Prior: 5.1%
+
+Professional Market Commentary
+
+Institutional and official framing treated this as a clear upside activity bundle, but not a clean "China demand problem solved" release. The NBS highlighted a robust start to the year; industrial production accelerated to 6.3%, retail sales improved to 2.8%, and fixed-asset investment swung to +1.8% after a 2025 decline. But the official composition still showed infrastructure doing the heavy lifting, real-estate investment down 11.1%, and urban unemployment ticking up to 5.3%. Reuters framed the release similarly: headline beats were real, but the property sector remained weak.
+
+Comment — Economist Layer
+
+This is the strongest upside growth block of the new EM update set, and the FAI surprise is the most important component. The headline swing from a full-year 2025 contraction to +1.8% in Jan-Feb is a genuine macro improvement. But the quality of the improvement remains mixed. Infrastructure rose 11.4% and manufacturing 3.1%, while property investment still fell 11.1%. Industrial production is encouraging, especially the 9.3% rise in equipment manufacturing and 13.1% in high-tech manufacturing, but retail remains vulnerable to Lunar New Year timing noise. The labor signal is the key dissent: unemployment at 5.3%, up from 5.1% in February alone, says the income channel is not confirming a clean recovery yet.
+
+State transition: false dawn risk
+
+Context from prior regional live file:
+The prior China sequence had already improved from "deep disinflation / weak nominal tone" toward "less disinflationary, better nominal tone, but still not a self-sustaining private-demand recovery." The 13 March credit block reinforced that financing remained government-led rather than private-demand-led. Today's activity beat upgrades the near-term growth optics, but it does not yet overturn that deeper regime diagnosis.
+
+HF Take — Strategist Layer
+
+This is supportive for China cyclicals and for the EM growth impulse at the margin, but it is not yet a clean PBOC-easing or private-demand-reflation story. Markets can justify a short-term growth-upgrade narrative, yet the burden of proof shifts to March data: property, labor, prices, and credit will need to confirm that this is more than fiscal-infrastructure stabilization landing in a holiday-distorted window. The external energy shock also makes the next round of China inflation and policy interpretation more complicated than this backward-looking activity beat alone suggests.
+
+FRIDAY 20 MAR 2026
+
+CHINA — Loan Prime Rate 1Y / 5Y (Mar)
+Release Date: 20 Mar 2026 | Local Time: 02:00
+Importance: ***
+
+Reuters Data
+
+Loan Prime Rate 1Y, Mar: 3.00% | Prior: 3.00%
+Loan Prime Rate 5Y, Mar: 3.50% | Prior: 3.50%
+
+Professional Market Commentary
+
+This was treated as a mechanical non-event. Reuters reported that all 20 participants in its pre-decision survey expected no change, and the post-decision report confirmed that China left the one-year and five-year LPR unchanged for a tenth consecutive month. The institutional debate sat around why the hold was easy to deliver now: stronger early-year activity and the oil shock both reduced urgency for immediate additional easing.
+
+Comment — Economist Layer
+
+The hold matters less as a rate decision than as confirmation of a changed easing calculus. China came into March with firmer prices, stronger trade, stronger credit, and then a sizable Jan-Feb activity beat. At the same time, the energy shock makes imported inflation and PPI reacceleration harder to ignore. That combination does not produce a tightening story, but it does freeze the near-term case for further LPR cuts. Fiscal and targeted support remain the cleaner tools from here.
+
+State transition: continuation
+
+Context from prior regional live file:
+The prior regional live file had already moved China from "policy support still needed" toward "less disinflationary, stronger nominal tone, and government-led stabilization gaining traction." The 16 March activity bundle strengthened that trajectory further. The March LPR hold fits exactly: growth has improved enough, and inflation risk has risen enough, that the PBOC can stay patient without signaling abandonment of support.
+
+HF Take — Strategist Layer
+
+For CNH rates and China-sensitive cyclicals, the takeaway is that the easing cycle is paused rather than reversed. The next policy question is no longer "is another quick cut imminent?" but "how much does the oil/PPI impulse delay the next step?" That keeps China constructive for growth optics, but less supportive for a pure monetary-reflation trade.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Backward-looking February and January data show China’s strongest stabilization impulse of the monitoring sequence, while the transmission quality remains government-led and the policy space has narrowed because stronger activity and higher imported-inflation risk reduce the near-term easing case.
+
+Why it matters: Better domestic data no longer translate one-for-one into easier policy expectations. China can look better on growth and nominal activity while becoming less supportive for a pure monetary-reflation trade.
+
+Implication: CNH should read the window as growth-supportive and less deflationary, but not as a clean private-sector recovery or a renewed broad-easing setup.
+
+3 KEY RELEASES TO DIG INTO
+
+China — Urban Investment / Industrial Output / Retail Sales / Unemp Rate Urban Area (16 Mar 2026)
+Why it matters: This is the largest upside growth surprise in the window, but the composition still points to infrastructure support, property weakness, and labor slippage. It is the key false-dawn-versus-genuine-stabilization test in the CNH tape.
+
+China — Exports / Imports / Trade Balance (10 Mar 2026)
+Why it matters: The import beat is the more important signal — a smaller surplus from demand strength rather than export weakness is the healthiest configuration. It is the first trade print that credibly argues domestic absorption is participating in the improvement.
+
+China — Total Social Financing / M2 Money Supply / New Yuan Loans / Outstanding Loan Growth (13 Mar 2026)
+Why it matters: The split between TSF strength and weak loan demand is central for judging whether China’s support is evolving into genuine private-sector recovery or staying government-led. That distinction matters for the broader EM and global growth impulse.
+
+<<CNH_WEEK_END>>
+
+<<CNH_WEEK_BEGIN>>
+DATA WINDOW: 16 Feb 2026 to 6 Mar 2026
+
+A. CNH WEEK — MACRO SYNTHESIS
+
+China's macro message across this window was one of unchanged policy posture sitting alongside a confirmed private/state divergence in activity. The LPR hold on February 24 at 3.00%/3.50% was the policy anchor — no fresh monetary impulse, no emergency pivot, consistent with the "transmission is the problem, not the rate level" diagnosis. The February NBS Manufacturing PMI then deepened the contraction to 49.0, providing further evidence that the official/state/domestic segment of the economy was not recovering. Against that, the Caixin/RatingDog Manufacturing PMI accelerated sharply to 52.1 from 50.3 and Services to 56.7 from 52.3, the strongest private and export-facing readings in the file to date.
+
+The regime entering March was therefore policy patient, official manufacturing still contracting, private/services outperforming, and the March NPC fiscal package the dominant forward variable. No new easing, but also no deterioration in the private-sector pulse that would force a more urgent policy response.
 
 B. CNH MACRO SIGNAL SCOREBOARD
 
 Growth: ~
 Supporting evidence:
-The supplied weekly source contained no China-specific growth release block for this window. There is therefore no validated hard-data basis inside the file to upgrade or downgrade the China growth signal for the week.
+NBS Manufacturing PMI fell further to 49.0 from 49.3, confirming the official/state sector remains in contraction and showing no sequential improvement despite prior policy support. Caixin/RatingDog Manufacturing PMI final at 52.1 from 50.3 and Services at 56.7 from 52.3 confirmed strong private-sector and services momentum. The divergence is the signal: China is not uniformly recovering, but the investable private sector is clearly outperforming. LPR unchanged at 3.00%/3.50% confirmed no new monetary growth impulse from the policy side.
 
 Labor: ~
 Supporting evidence:
-No China-specific labor release was present in the supplied source file for the window. The weekly labor signal is therefore unresolved.
+No direct labor release in this window. The NBS PMI employment sub-index implied continued softness in the state/SOE segment, while Caixin/RatingDog employment was described as stable. Urban unemployment reference level remained 5.1% from prior blocks.
 
 Inflation: ~
 Supporting evidence:
-The supplied weekly source contained no China-specific inflation or price-sensitive China release block for the week. No validated weekly inflation inference should be added from this file alone.
+No new CPI/PPI release in this window. The February CPI/PPI improvement from the prior block remained the active inflation reference. The LPR hold implicitly confirmed that inflation was not yet generating urgency in either direction — not high enough to constrain, not negative enough to force emergency easing.
 
 Financial Conditions: ~
 Supporting evidence:
-No China-specific financial-conditions or external-balance China block was present in the supplied source for the week. There is therefore no verified domestic China financial-conditions update in this file.
+LPR 1Y held at 3.00%, LPR 5Y held at 3.50% on February 24. CITIC Securities commentary cited weak private credit demand as the reason for the hold — confirming the transmission-failure diagnosis. No new credit flow data in this window. Financial conditions remained accommodative in headline terms but impaired in transmission terms.
 
 Policy Constraint: ~
 Supporting evidence:
-With no China-specific release block in the supplied file, there is no validated new evidence that would justify changing the inferred PBOC/CNH policy constraint for this window.
+The LPR hold maintained the "targeted support, no headline rate move" regime intact. The March NPC remained the primary forward policy event. The private PMI improvement gave authorities more cover for patience, while the NBS contraction preserved the case for fiscal delivery. No regime shift on policy — continuation of the managed-support posture.
 
 C. FULL RELEASE ARCHIVE
 
-No China-specific release blocks were present in the supplied EM weekly source for this window.
+--- WEEK OF 16 FEB TO 6 MAR 2026 ---
+
+TUESDAY 24 FEB 2026
+
+China (Mainland) — Loan Prime Rate 1Y / 5Y (Feb)
+Release Date: 24 Feb 2026 | Local Time: 02:00
+Importance: ***
+
+Reuters Data
+
+Loan Prime Rate 1Y: 3.00% | Prior: 3.00%
+Loan Prime Rate 5Y: 3.50% | Prior: 3.50%
+
+Professional Market Commentary
+
+PBoC left the LPR unchanged. Reuters cited CITIC Securities saying the decision reflected policy caution in the face of still-weak credit demand rather than confidence in a strong recovery.
+
+Comment — Economist Layer
+
+The unchanged rates matter less as a policy hold and more as a signal that transmission, not headline rate level, remains the problem.
+
+HF Take — Strategist Layer
+
+No fresh easing pulse. China policy is still cautious and reactive, not strongly proactive.
+
+WEDNESDAY 4 MAR 2026
+
+China (Mainland) — NBS Manufacturing PMI (Feb)
+Release Date: 4 Mar 2026 | Local Time: 02:30
+Importance: ***
+
+Reuters Data
+
+NBS Manufacturing PMI: 49.0 | Prior: 49.3 | Poll: 49.1 | Surprise: -0.10
+
+Professional Market Commentary
+
+NBS detail showed new orders still contracting and production near stagnation. Bloomberg cited Goldman Sachs saying Lunar New Year distortions may have exaggerated some weakness, but the official PMI still confirmed a soft manufacturing backdrop.
+
+Comment — Economist Layer
+
+The tape materially improves the read here: the official survey stayed weak on underlying demand components, but holiday effects likely added noise to the downside.
+
+HF Take — Strategist Layer
+
+Still a soft official-China signal, but not one to extrapolate mechanically without accounting for seasonal distortion.
+
+China (Mainland) — RatingDog Manufacturing PMI Final / Services PMI (Feb)
+Release Date: 4 Mar 2026 | Local Time: 02:45
+Importance: ****
+
+Reuters Data
+
+RatingDog Manufacturing PMI Final: 52.1 | Prior: 50.3 | Poll: 50.2 | Surprise: 1.90
+RatingDog Services PMI: 56.7 | Prior: 52.3
+
+Professional Market Commentary
+
+RatingDog detail showed new export orders back in expansion and employment stable. Reuters cited UBS saying the rebound pointed to private-sector resilience, though smaller firms were still under pressure.
+
+Comment — Economist Layer
+
+The split versus the official PMI is now more interpretable: private firms and services looked much stronger, while official manufacturing remained soft.
+
+HF Take — Strategist Layer
+
+China should not be read as a single-cycle story. The investable read is still barbell-like: weak official heavy-industry tone, but more resilient private/services momentum.
 
 SIGNAL TENSION CHECK
 
-Main contradiction: There was no China-specific contradiction to resolve in the supplied weekly source because no China-specific release block was present.
+Main contradiction: The LPR hold and NBS PMI contraction together say "official/state economy still soft, policy not adding fresh impulse," while the Caixin/RatingDog surge says "private/services economy accelerating." The policy constraint and the private-sector improvement are both real and pulling in opposite directions.
 
-Why it matters: That means the correct output for this window is “no new China-specific signal in source” rather than a fabricated regime update.
+Why it matters: The resolution of this tension — whether NBS eventually converges up toward Caixin or Caixin fades back toward NBS — is the key gating condition for whether China's 2026 growth story becomes self-sustaining or remains policy-dependent.
 
-Implication: No new CNH macro conclusion should be drawn from this weekly source alone.
+Implication: The March NPC fiscal package is the dominant near-term policy variable. If it delivers meaningful consumption support and infrastructure execution, it could begin to close the NBS/Caixin gap. If it disappoints, NBS stays below 50 and the private-sector impulse loses its macro significance.
 
 3 KEY RELEASES TO DIG INTO
 
-No China-specific releases were present in the supplied weekly source file for this window.
+China — RatingDog Manufacturing PMI Final / Services PMI (4 Mar 2026)
+Why it matters: The gap between Caixin 52.1 and NBS 49.0 is now wider than at any prior point in the file. This is the sharpest expression of the structural bifurcation and the most important input for the regime diagnosis entering the March NPC window.
+
+China — LPR 1Y / 5Y (24 Feb 2026)
+Why it matters: The hold is not the news; the reasoning is. CITIC's framing — "weak credit demand, not policy caution" — is the most direct official-adjacent acknowledgement in the file that the transmission problem, not the rate level, is the binding constraint. That diagnosis has direct implications for what the March NPC needs to deliver.
+
+China — NBS Manufacturing PMI (4 Mar 2026)
+Why it matters: A further decline to 49.0 despite prior policy support is the clearest evidence that the NBS/state/domestic segment is not responding to the available monetary accommodation. It strengthens the case that fiscal demand-side tools are the only remaining effective lever.
 
 <<CNH_WEEK_END>>
 
 
 
-
 <<CNH_WEEK_BEGIN>>
-DATA WINDOW: 16 Mar 2026 to 20 Mar 2026A. CHINA WEEK — MACRO SYNTHESISThis was the week where China's growth picture delivered its clearest upside surprise of the entire monitoring sequence, and simultaneously where the near-term easing case was most definitively closed. The January-February activity bundle on March 16 produced the strongest growth block in the file: FAI swung to +1.8% (from -3.8% prior, consensus -2.1%), industrial output accelerated to 6.3% (prior 5.2%), and retail sales improved to 2.8% (prior 0.9%). The composition was mixed — infrastructure at 11.4% and manufacturing at 3.1% did the heavy lifting while property investment fell 11.1% and urban unemployment ticked up to 5.3% — but the headline improvement was genuine and material. The March 20 LPR hold then delivered the policy verdict: for the tenth consecutive month, both the 1Y and 5Y LPR were held unchanged, and the institutional commentary explicitly attributed the hold to the combination of stronger activity and rising imported-inflation risk from the Middle East energy shock. The regime completing this window is therefore "activity improved enough to remove near-term easing urgency, energy shock raising imported-inflation risk, easing calculus frozen rather than reversed, fiscal and targeted tools the remaining active levers."B. CHINA MACRO SIGNAL SCOREBOARDGrowth: +
-Supporting evidence:
-FAI YTD swung from -3.8% to +1.8% — a 5.6pp improvement and the single largest positive data surprise in the China file. Industrial output at 6.3% y/y (prior 5.2%, consensus 5.0%) accelerated broadly, with equipment manufacturing at 9.3% and high-tech manufacturing at 13.1% as the strongest sub-components. Retail sales at 2.8% y/y (prior 0.9%, consensus 2.5%) beat and represented the most meaningful consumer recovery in the sequence. These are Jan-Feb combined figures subject to Lunar New Year distortion, but even applying a conservative discount the improvement is real and substantial.Labor: -
-Supporting evidence:
-Urban unemployment rose to 5.3% in February from 5.1% prior — moving in the wrong direction precisely in the week that produced the strongest activity beat. This is the key internal contradiction of the bundle: production and investment improved, but the income channel is not confirming. The labor signal is the principal reason the activity beat is classified as a potential false dawn rather than a clean recovery confirmation.Inflation: ~
-Supporting evidence:
-No new CPI/PPI in this window. The prior March 9 readings (CPI 1.3%, PPI -0.9%) remained active. The LPR hold commentary explicitly referenced rising imported-inflation risk from the oil shock — the first forward inflation constraint to appear in the China blocks. The inflation picture shifted from "no constraint" to "no immediate problem but forward risk building."Financial Conditions: ~
-Supporting evidence:
-LPR 1Y held at 3.00% and 5Y at 3.50% for the tenth consecutive month. Post-decision institutional commentary noted that the combination of stronger activity and oil-shock imported-inflation risk made the case for near-term easing materially weaker than it had been in prior months. Financial conditions remain accommodative by design but the easing pipeline is now frozen rather than gradual.Policy Constraint: -
-Supporting evidence:
-The LPR hold was the cleanest policy signal of the monitoring window. The explicit reasoning — activity improved enough, imported inflation risk rose enough — marks a regime transition from "hold because transmission is the problem" to "hold because the growth and inflation calculus no longer justify the next cut." Fiscal and targeted tools remain active, but the monetary easing cycle is effectively paused. The PBOC's next move will depend on whether the oil shock proves persistent and whether March and April data confirm the Jan-Feb activity beat.C. FULL RELEASE ARCHIVE--- WEEK OF 16 MAR TO 20 MAR 2026 ---MONDAY 16 MAR 2026CHINA — Urban Investment / Industrial Output / Retail Sales / Unemp Rate Urban Area (Jan-Feb / Feb)
-Release Date: 16 Mar 2026 | Local Time: 03:00
-Reuters Data
-Urban Investment (YTD) YY, Feb: 1.8% | Prior: -3.8% | Poll: -2.1% | Surprise: 3.90%
-Industrial Output YY, Feb: 6.3% | Prior: 5.2% | Poll: 5.0% | Surprise: 1.30%
-Retail Sales YY, Feb: 2.8% | Prior: 0.9% | Poll: 2.5% | Surprise: 0.30%
-Unemp Rate Urban Area, Feb: 5.3% | Prior: 5.1%
-Professional Market Commentary
-Institutional and official framing treated this as a clear upside activity bundle, but not a clean "China demand problem solved" release. The NBS highlighted a robust start to the year; industrial production accelerated to 6.3%, retail sales improved to 2.8%, and fixed-asset investment swung to +1.8% after a 2025 decline. But the official composition still showed infrastructure doing the heavy lifting, real-estate investment down 11.1%, and urban unemployment ticking up to 5.3%. Reuters framed the release similarly: headline beats were real, but the property sector remained weak.
-Comment — Economist Layer
-This is the strongest upside growth block of the new EM update set, and the FAI surprise is the most important component. The headline swing from a full-year 2025 contraction to +1.8% in Jan-Feb is a genuine macro improvement. But the quality of the improvement remains mixed. Infrastructure rose 11.4% and manufacturing 3.1%, while property investment still fell 11.1%. Industrial production is encouraging, especially the 9.3% rise in equipment manufacturing and 13.1% in high-tech manufacturing, but retail remains vulnerable to Lunar New Year timing noise. The labor signal is the key dissent: unemployment at 5.3%, up from 5.1% in February alone, says the income channel is not confirming a clean recovery yet.
-State transition: false dawn risk
-Context from prior regional live file:
-The prior China sequence had already improved from "deep disinflation / weak nominal tone" toward "less disinflationary, better nominal tone, but still not a self-sustaining private-demand recovery." The 13 March credit block reinforced that financing remained government-led rather than private-demand-led. Today's activity beat upgrades the near-term growth optics, but it does not yet overturn that deeper regime diagnosis.
-HF Take — Strategist Layer
-This is supportive for China cyclicals and for the EM growth impulse at the margin, but it is not yet a clean PBOC-easing or private-demand-reflation story. Markets can justify a short-term growth-upgrade narrative, yet the burden of proof shifts to March data: property, labor, prices, and credit will need to confirm that this is more than fiscal-infrastructure stabilization landing in a holiday-distorted window. The external energy shock also makes the next round of China inflation and policy interpretation more complicated than this backward-looking activity beat alone suggests.FRIDAY 20 MAR 2026CHINA — Loan Prime Rate 1Y / 5Y (Mar)
-Release Date: 20 Mar 2026 | Local Time: 02:00
-Reuters Data
-Loan Prime Rate 1Y, Mar: 3.00% | Prior: 3.00%
-Loan Prime Rate 5Y, Mar: 3.50% | Prior: 3.50%
-Professional Market Commentary
-This was treated as a mechanical non-event. Reuters reported that all 20 participants in its pre-decision survey expected no change, and the post-decision report confirmed that China left the one-year and five-year LPR unchanged for a tenth consecutive month. The institutional debate sat around why the hold was easy to deliver now: stronger early-year activity and the oil shock both reduced urgency for immediate additional easing.
-Comment — Economist Layer
-The hold matters less as a rate decision than as confirmation of a changed easing calculus. China came into March with firmer prices, stronger trade, stronger credit, and then a sizable Jan-Feb activity beat. At the same time, the energy shock makes imported inflation and PPI reacceleration harder to ignore. That combination does not produce a tightening story, but it does freeze the near-term case for further LPR cuts. Fiscal and targeted support remain the cleaner tools from here.
-State transition: continuation
-Context from prior regional live file:
-The prior regional live file had already moved China from "policy support still needed" toward "less disinflationary, stronger nominal tone, and government-led stabilization gaining traction." The 16 March activity bundle strengthened that trajectory further. The March LPR hold fits exactly: growth has improved enough, and inflation risk has risen enough, that the PBOC can stay patient without signaling abandonment of support.
-HF Take — Strategist Layer
-For CNH rates and China-sensitive cyclicals, the takeaway is that the easing cycle is paused rather than reversed. The next policy question is no longer "is another quick cut imminent?" but "how much does the oil/PPI impulse delay the next step?" That keeps China constructive for growth optics, but less supportive for a pure monetary-reflation trade.SIGNAL TENSION CHECKMain contradiction: Backward-looking February and January data still show stabilization or outright improvement in several EM pockets, while forward-looking policy space has narrowed because higher energy prices and geopolitical stress are tightening inflation and external-financing constraints.
-Why it matters: Good domestic data are no longer translating one-for-one into easier policy expectations.
-Implication: Country selection matters more than broad EM directional narratives.3 KEY RELEASES TO DIG INTOChina — Urban Investment / Industrial Output / Retail Sales / Unemp Rate Urban Area (16 Mar 2026)
-Why it matters: This is the largest upside growth surprise in the week, but the composition still points to infrastructure support, property weakness, and labor slippage. It is the key false-dawn-versus-genuine-stabilization test in the EM tape.China — Loan Prime Rate 1Y / 5Y (20 Mar 2026)
-Why it matters: The tenth consecutive hold, now explicitly justified by improved activity and rising imported-inflation risk, marks the cleanest regime transition in the China file. It closes the near-term easing case and reframes the PBOC debate from "when is the next cut?" to "how long does the oil shock delay the cycle?"<<CNH_WEEK_END>>
+DATA WINDOW: 9 Feb 2026 to 13 Feb 2026
 
+A. CNH WEEK — MACRO SYNTHESIS
 
-<<CNH_WEEK_BEGIN>>
-DATA WINDOW: 9 Mar 2026 to 17 Mar 2026A. CHINA WEEK — MACRO SYNTHESISThis window produced the clearest upgrade to China's nominal tone since the start of the monitoring sequence. The February CPI/PPI block on March 9 was the pivotal release: CPI at 1.3% y/y beat by 50bp, with the improvement attributed to genuine non-food and services breadth rather than purely food or holiday distortion. PPI narrowed further to -0.9%, weakening the "China still deeply deflationary" framing. The February trade data on March 10 added a second constructive layer: the 39.6% export surge was extraordinary and headline-dominant, but the 13.8% import beat was the more analytically important number — it confirmed that domestic absorption was participating in the improvement, not just the export side. The February TSF/credit block on March 13 then completed the picture: TSF beat at 2,380B and M2 held at 9.0%, but new yuan loans missed at 900B (consensus 979B), preserving the government-led versus private-credit-demand split that had defined the financing picture all year. The regime entering the second half of March was therefore "nominal tone materially upgraded, trade impulse strong, government financing the dominant transmission channel, private credit demand still impaired, and PBOC patience now justified by activity rather than constrained by it."B. CHINA MACRO SIGNAL SCOREBOARDGrowth: +
+This window produced a meaningful but partial upgrade to China’s inflation picture, without enough same-window activity or credit evidence to justify a broader macro regime shift. The CPI/PPI block was the only China-specific release preserved inside the valid data window: CPI rose to 1.3% y/y from 0.2% and beat consensus by 50bp, while PPI improved to -0.9% from -1.4%, weakening the clean “China still deeply deflationary” framing. Institutional commentary treated the CPI beat as broader than a one-line food effect, with firmer non-food and services components.
+
+The correct as-of read is therefore not a China reflation call, and not a confirmed growth upgrade. It is a less-disinflationary pricing signal with some breadth, but still uneven because PPI remained negative and no same-window growth, labor, LPR or credit-flow release was available to validate a broader domestic-demand turn.
+
+B. CNH MACRO SIGNAL SCOREBOARD
+
+Growth: ~
 Supporting evidence:
-Exports surged to +39.6% y/y (prior 9.8%, consensus 7.1%, surprise +32.5pp) — the largest export beat in the file. Imports at +13.8% y/y (consensus +6.3%) confirmed domestic absorption was participating. Trade balance at $90.98B missed the $179.6B consensus because imports strengthened, which is the healthy configuration — a smaller surplus from demand rather than from export weakness. TSF beat at 2,380B (consensus 2,133B) pointed to continued credit support. The growth signal was the strongest of the monitoring window to date.Labor: ~
+No valid same-window China growth release is preserved in the 9–13 Feb archive. The window therefore does not justify a growth upgrade from the supplied file alone. The correct growth signal is unresolved.
+
+Labor: ~
 Supporting evidence:
-No direct labor release. Urban unemployment remained at the 5.1% reference level from prior blocks. Trade data import strength provided indirect evidence of domestic demand firmness, but no labor-specific signal was available to update the regime.Inflation: +
+No direct China labor release was present in the valid 9–13 Feb archive. No deterioration or improvement should be inferred from this file alone.
+
+Inflation: +
 Supporting evidence:
-CPI at 1.3% y/y (prior 0.2%, consensus 0.8%) beat by 50bp with genuine non-food and services breadth confirmed by institutional commentary. PPI at -0.9% y/y (prior -1.4%, consensus -1.2%) continued narrowing. The combined signal was the most credible inflation-improvement print in the file — not driven by food/holiday distortion but by pricing breadth. The "China as clean global disinflation offset" thesis was materially weakened.Financial Conditions: ~
+CPI improved to 1.3% y/y from 0.2% and beat consensus by 50bp, while PPI improved to -0.9% from -1.4% and beat consensus by 30bp. The important signal was breadth: commentary pointed to firmer non-food and services components, while producer-price deflation narrowed. This weakened the “deep deflation” narrative, but did not establish full reflation because PPI remained negative.
+
+Financial Conditions: ~
 Supporting evidence:
-TSF beat at 2,380B with M2 at 9.0% confirmed accommodative conditions. New yuan loans missed at 900B versus 979B consensus, preserving the structural split: government and bond issuance were doing the financing work while private credit demand remained subdued. Financial conditions supportive in liquidity terms, impaired in transmission terms — same diagnosis as prior windows but with a stronger activity backdrop now validating the approach.Policy Constraint: ~
+No LPR decision or credit-flow release was present in the valid 9–13 Feb archive. The file therefore does not provide a direct financial-conditions update for the window.
+
+Policy Constraint: ~
 Supporting evidence:
-No LPR decision in this window. The stronger activity and inflation data reduced urgency for further easing while the imported-inflation risk from the energy shock began to enter the analytical frame for the first time. The policy message shifted from "support still needed, waiting" toward "activity improving, PBOC patience now justified by data rather than forced by circumstances." The March NPC fiscal package remained the dominant policy event but with reduced emergency framing.C. FULL RELEASE ARCHIVE--- WEEK OF 9 MAR TO 17 MAR 2026 ---MONDAY 9 MAR 2026CHINA — CPI / PPI (Feb)
-Release Date: 9 Mar 2026 | Local Time: 02:30
+The CPI/PPI improvement reduced the urgency of a pure deflation-driven easing narrative, but without an LPR decision, credit-flow release or same-window activity data, the policy constraint cannot be upgraded into a firm PBOC regime call. The correct policy read remains unresolved, with the inflation mix slightly less supportive of aggressive easing than before.
+
+C. FULL RELEASE ARCHIVE
+
+--- WEEK OF 9 FEB TO 13 FEB 2026 ---
+
+WEDNESDAY 11 FEB 2026
+
+CHINA — CPI / PPI (Feb)
+Release Date: 11 Feb 2026 | Local Time: —
+Importance: ***
+
 Reuters Data
+
 CPI YoY: 1.3% | Prior: 0.2% | Poll: 0.8% | Surprise: +0.50%
 PPI YoY: -0.9% | Prior: -1.4% | Poll: -1.2% | Surprise: +0.30%
+
 Professional Market Commentary
+
 Institutional commentary treated the CPI beat as broader than a one-line food effect, pointing to firmer non-food and services components. The PPI improvement was seen as modest rather than decisive, but enough to weaken the clean "China still deeply deflationary" narrative.
+
 Comment — Economist Layer
+
 The important distinction is CPI breadth versus still-negative PPI. Services and non-food strength suggest firmer domestic pricing momentum, while producer prices remain deflationary, especially upstream. So the signal is not "China reflation complete"; it is "China less disinflationary than before, with an uneven price mix."
+
 Context from prior regional live file:
 December had already shown lowflation with slightly less-negative producer prices, but January then reverted to a softer "policy support still needed / pricing power still weak" read. February is the first print in that recent chain that materially upgrades the story from "not worsening" toward "less disinflationary with some breadth," while still stopping short of a full reflation call because PPI remains negative.
-HF Take — Strategist Layer
-This release raises the chance that China stops acting as a clean global disinflation offset. For the global overlay, that matters because it lands against weak Europe and ahead of key US inflation data. It is supportive of a selective reflation narrative in EM, but not yet a full regime turn.TUESDAY 10 MAR 2026CHINA — Exports / Imports / Trade Balance (Feb)
-Release Date: 10 Mar 2026 | Local Time: —
-Reuters Data
-Exports YoY: +39.6% | Prior: +9.8% | Poll: +7.1% | Surprise: +32.50%
-Imports YoY: +13.8% | Prior: +25.6% | Poll: +6.3% | Surprise: +7.50%
-Trade Balance USD: 90.98B | Prior: 122.64B | Poll: 179.60B | Surprise: -88.620B
-Professional Market Commentary
-Professional commentary focused less on the headline surplus miss and more on the strong import print. The key read was that import strength across commodities, consumer goods, and semiconductors points to broader nominal demand and restocking rather than a narrow export-only story.
-Comment — Economist Layer
-The composition is the story. A smaller trade surplus caused by stronger imports is a healthier signal than a surplus miss caused by export weakness. That makes this release more relevant for the global growth map than the headline balance alone, especially because it lines up with the firmer China CPI/PPI signal.
-Context from prior regional live file:
-December trade had already softened the "China demand is dead" narrative, and the broader EM week synthesis had treated China trade plus credit beats as the core EM impulse. February therefore extends and strengthens an existing upswing rather than creating it from scratch, with the stronger-import / smaller-surplus mix adding a healthier domestic-absorption element.
-HF Take — Strategist Layer
-This release strengthens the case that China is the leading upside impulse within EM this week. In cross-zone terms, it offsets part of Europe's weakness and prevents the global narrative from collapsing into a one-way slowdown call. The key conditional next step is whether financing data validate the activity pulse.FRIDAY 13 MAR 2026CHINA — Total Social Financing / M2 Money Supply / New Yuan Loans / Outstanding Loan Growth (Feb)
-Release Date: 13 Mar 2026 | Local Time: 10:02 / 10:03
-Reuters Data
-Total Social Financing, Feb: 2,380.0B | Prior: 7,220.0B | Poll: 2,133.0B | Surprise: 247.00B
-M2 Money Supply YY, Feb: 9.0% | Prior: 9.0% | Poll: 8.8% | Surprise: 0.20%
-New Yuan Loans, Feb: 900.0B | Prior: 4,710.0B | Poll: 979.0B | Surprise: -79.00B
-Outstanding Loan Growth, Feb: 6.0% | Prior: 6.1% | Poll: 6.0% | Surprise: 0.00%
-Professional Market Commentary
-The institutional reading was split rather than uniformly positive or negative. Commentary treated the TSF beat and M2 beat as evidence of supportive liquidity and fiscal-led financing, while the loan miss kept the focus on weak private-sector credit demand. The main narrative was that China's financing impulse remains government-driven rather than demand-led.
-Comment — Economist Layer
-This is a bifurcated print. The TSF beat is not a straightforward growth-positive signal because the composition points toward government issuance rather than stronger private borrowing appetite. The loan miss is the cleaner private-demand signal and remains weak. M2 resilience is constructive for liquidity conditions, but liquidity is not the same as autonomous credit creation. So the macro message is: policy support is still working through public channels while private credit demand remains impaired.
-State transition: no material change in the core regime
-Context from prior regional live file:
-The prior China sequence had already moved toward "less disinflationary, better nominal tone, but still not a self-sustaining private-demand recovery." This release fits that same path. It validates the government-led financing story rather than upgrading the macro regime into a clean private-credit reflation phase.
-HF Take — Strategist Layer
-For markets, this keeps China in a fiscal-support / soft-private-demand configuration. That matters because it preserves some support for EM/global growth without resolving the underlying weakness in domestic private credit transmission. The key conditional implication is that fiscal tools remain the primary macro lever unless later data show stronger household and corporate borrowing.SIGNAL TENSION CHECKMain contradiction: EM domestic resilience improved in Brazil, South Africa, and parts of China, but external/oil-shock constraints tightened sharply for Turkey and kept policy easing paths cautious elsewhere.
-Why it matters: The regional story is not a single EM beta call; it is a dispersion regime.
-Implication: Country selection matters more than broad EM directional narratives.3 KEY RELEASES TO DIG INTOChina — Total Social Financing / M2 Money Supply / New Yuan Loans / Outstanding Loan Growth (13 Mar 2026)
-Why it matters: The split between TSF strength and weak loan demand is central for judging whether China's support is evolving into genuine private-sector recovery or staying government-led. That distinction matters for the broader EM and global growth impulse.China — Exports / Imports / Trade Balance (10 Mar 2026)
-Why it matters: The import beat is the more important signal — a smaller surplus from demand strength rather than export weakness is the healthiest configuration. It is the first trade print that credibly argues domestic absorption is participating in the improvement.China — CPI / PPI (9 Mar 2026)
-Why it matters: The 50bp CPI beat with genuine non-food breadth is the most credible inflation-improvement signal in the monitoring window. It begins to challenge the "China as clean global disinflation offset" thesis and introduces an imported-inflation complexity layer for the PBOC's forward calculus.<<CNH_WEEK_END>>
 
+HF Take — Strategist Layer
 
+This release raises the chance that China stops acting as a clean global disinflation offset. For the global overlay, that matters because it lands against weak Europe and ahead of key US inflation data. It is supportive of a selective reflation narrative in EM, but not yet a full regime turn.
 
+SIGNAL TENSION CHECK
+
+Main contradiction: CPI breadth improved and PPI deflation narrowed, but the window contained no same-period China activity, labor, credit or policy-rate release to validate a broader domestic-demand or reflation regime.
+
+Why it matters: A less-disinflationary price print is not the same as a confirmed recovery. Markets can qualify the “China as clean global disinflation offset” thesis, but cannot yet upgrade the full growth or policy regime from this window alone.
+
+Implication: CNH should read the week as a pricing-tone improvement, not a complete macro turn. The next gating condition remains whether activity, credit and policy data confirm that firmer prices reflect demand traction rather than a narrow or temporary price impulse.
+
+3 KEY RELEASES TO DIG INTO
+
+China — CPI / PPI (11 Feb 2026)
+Why it matters: The CPI breadth improvement — non-food and services firming — is the first genuine pricing-power signal in the sequence. It is the threshold print that begins to qualify the "China as clean global disinflation offset" thesis.
+
+<<CNH_WEEK_END>>
 <<CNH_WEEK_BEGIN>>
-DATA WINDOW: 16 Feb 2026 to 6 Mar 2026A. CHINA WEEK — MACRO SYNTHESISChina's macro message across this window was one of unchanged policy posture sitting alongside a confirmed private/state divergence in activity. The LPR hold on February 24 at 3.00%/3.50% was the policy anchor — no fresh monetary impulse, no emergency pivot, consistent with the "transmission is the problem, not the rate level" diagnosis. The February NBS Manufacturing PMI then deepened the contraction to 49.0, providing further evidence that the official/state/domestic segment of the economy was not recovering. Against that, the Caixin/RatingDog Manufacturing PMI accelerated sharply to 52.1 (from 50.3) and Services to 56.7, the strongest private and export-facing readings in the file to date. The regime entering March was therefore "policy patient, official manufacturing still contracting, private/services outperforming, March NPC fiscal package the dominant forward variable." No new easing, but also no deterioration in the private-sector pulse that would force a more urgent policy response.B. CHINA MACRO SIGNAL SCOREBOARDGrowth: ~
+DATA WINDOW: 19 Jan 2026 to 13 Feb 2026
+
+A. CNH WEEK — MACRO SYNTHESIS
+
+This window contained the most information-dense China data cluster of the early-year sequence and confirmed a production/export floor against persistent domestic-demand weakness. The January 19 activity bundle showed the core tension: GDP and industrial output beat, but retail sales missed, fixed-asset investment deteriorated further, and unemployment did not improve. The January 20 LPR hold confirmed no monetary pivot. The January 31 NBS Manufacturing PMI then gave the cleanest domestic-cycle verdict: the official manufacturing sector moved back into contraction at 49.3, with weak new orders and consumer-goods manufacturing. Caixin Manufacturing at 50.3 showed private/export firms holding up, preserving the state/private divergence.
+
+The February inflation and money data added the second layer: CPI remained very low, PPI was still negative, and M2 surged to 9.0%, confirming liquidity availability but weak demand transmission. The regime across this merged window is therefore production and exports providing a floor, domestic demand not healing, NBS/state-linked activity contracting, policy staying targeted rather than shock-stimulative, and the March NPC fiscal package becoming the dominant forward variable.
+
+B. CNH MACRO SIGNAL SCOREBOARD
+
+Growth: -
 Supporting evidence:
-NBS Manufacturing PMI fell further to 49.0 (prior 49.3), confirming the official/state sector remains in contraction and showing no sequential improvement despite prior policy support. Caixin Manufacturing PMI final at 52.1 (prior 50.3) and Services at 56.7 (prior 52.3) confirmed strong private-sector and services momentum. The divergence is the signal: China is not uniformly recovering, but the investable private sector is clearly outperforming. LPR unchanged at 3.00%/3.50% confirmed no new monetary growth impulse from the policy side.Labor: ~
+GDP Q4 beat at 4.5% y/y and 1.2% q/q SA, while industrial output rose 5.2%, but the composition was weak. Fixed-asset investment deteriorated to -3.8% YTD, retail sales missed at 0.9%, NBS Manufacturing PMI fell back to 49.3, and the activity mix confirmed a production/export floor rather than domestic-demand recovery. Caixin Manufacturing at 50.3 prevented a hard-landing read, but the divergence itself reinforced a bifurcated cycle.
+
+Labor: -
 Supporting evidence:
-No direct labor release in this window. The NBS PMI employment sub-index implied continued softness in the state/SOE segment, while Caixin employment was described as stable. Urban unemployment reference level remained 5.1% from prior blocks.Inflation: ~
+Urban unemployment held at 5.1%, showing no improvement despite the headline GDP beat. The demand-sensitive parts of the PMI structure were weak, with consumer-goods manufacturing at 48.3 and high energy-consuming sectors at 47.9. Labor did not become a new shock, but it failed to validate any household-demand recovery.
+
+Inflation: ~
 Supporting evidence:
-No new CPI/PPI release in this window. The February CPI/PPI improvement from the prior block (CPI 1.3%, PPI -0.9%) remained the active inflation reference. The LPR hold implicitly confirmed that inflation was not yet generating urgency in either direction — not high enough to constrain, not negative enough to force emergency easing.Financial Conditions: ~
+CPI fell to 0.2% y/y from 0.8%, below consensus, though Lunar New Year base effects distorted the headline. PPI improved to -1.4% from -1.9%, but remained negative. The correct read is lowflation with marginally less producer-price deflation, not demand-pull reflation.
+
+Financial Conditions: ~
 Supporting evidence:
-LPR 1Y held at 3.00%, LPR 5Y held at 3.50% on February 24. CITIC Securities commentary cited weak private credit demand as the reason for the hold — confirming the transmission-failure diagnosis. No new credit flow data in this window. Financial conditions remained accommodative in headline terms but impaired in transmission terms.Policy Constraint: ~
+LPR was held at 3.00% / 3.50%, so no additional headline monetary easing was delivered. M2 surged to 9.0% y/y, pointing to liquidity support, but the combination of money growth and weak CPI reinforced the transmission-failure diagnosis. Liquidity was available; household demand and private credit appetite were still impaired.
+
+Policy Constraint: ~
 Supporting evidence:
-The LPR hold maintained the "targeted support, no headline rate move" regime intact. The March NPC remained the primary forward policy event. The private PMI improvement gave authorities more cover for patience, while the NBS contraction preserved the case for fiscal delivery. No regime shift on policy — continuation of the managed-support posture.C. FULL RELEASE ARCHIVE--- WEEK OF 16 FEB TO 6 MAR 2026 ---MONDAY 24 FEB — RELEASEDChina (Mainland) — Loan Prime Rate 1Y / 5Y (Feb)
-Release Date: 24 Feb 2026 | Local Time: 02:00
+The LPR hold and NBS PMI contraction defined the policy tension: the economy needed support, but policymakers were not delivering a broad rate pivot. Commentary attributed the hold to a preference for fiscal and targeted tools over headline rate cuts. The Caixin/NBS divergence made an emergency pivot harder to justify because private/export firms were still expanding, even as domestic demand remained weak.
+
+C. FULL RELEASE ARCHIVE
+
+--- WEEK OF 19 JAN TO 23 JAN 2026 ---
+
+MONDAY 19 JAN 2026
+
+CHINA — Urban Fixed Asset Investment / Industrial Output / Retail Sales / GDP / Urban Unemployment (Dec / Q4)
+Release Date: 19 Jan 2026 | Local Time: —
+Importance: ****
 
 Reuters Data
-Loan Prime Rate 1Y: 3.00% | Prior: 3.00%
-Loan Prime Rate 5Y: 3.50% | Prior: 3.50%
-Professional Market Commentary
-PBoC left the LPR unchanged. Reuters cited CITIC Securities saying the decision reflected policy caution in the face of still-weak credit demand rather than confidence in a strong recovery.
-Comment — Economist Layer
-The unchanged rates matter less as a policy hold and more as a signal that transmission, not headline rate level, remains the problem.
-HF Take — Strategist Layer
-No fresh easing pulse. China policy is still cautious and reactive, not strongly proactive.
-WEDNESDAY 4 MAR — RELEASEDChina (Mainland) — NBS Manufacturing PMI (Feb)
-Release Date: 4 Mar 2026 | Local Time: 02:30
+
+Urban Fixed Asset Investment (YTD) y/y (Dec): Actual -3.8% vs Cons -3.0% vs Prior -2.6%
+
+Industrial Output y/y (Dec): Actual 5.2% vs Cons 5.0% vs Prior 4.8%
+
+Retail Sales y/y (Dec): Actual 0.9% vs Cons 1.2% vs Prior 1.3%
+
+GDP y/y (Q4): Actual 4.5% vs Cons 4.4% vs Prior 4.8%
+
+GDP q/q SA (Q4): Actual 1.2% vs Cons 1.0% vs Prior 1.1%
+
+Urban unemployment rate (Dec): Actual 5.1% vs Prior 5.1% (no consensus)
+
+Comment — Economist Layer / HF Take
+
+Urban Fixed Asset Investment (YTD) y/y (Dec)
+HF comment: Dominant signal is capex/real-economy inertia still negative — this is the "China domestic demand is not self-healing" datapoint and it missed meaningfully. Secondary: it reinforces the idea that any growth stabilization is being carried by external demand + policy-managed credit, not private-sector confidence. Reaction function: increases pressure for fiscal execution and targeted credit support; it does not force a broad monetary pivot if officials see credit already "ample." Channel: CNH and EM beta through China domestic-demand proxy; commodities mixed (infrastructure demand tail risk).
+
+Industrial Output y/y (Dec)
+HF comment: Dominant signal: supply-side growth is holding up (beat, and rising vs prior). Secondary: IO strength can coexist with weak domestic demand if exports and inventory dynamics do the lifting — so don't overread it as household reflation. Reaction function: gives policymakers cover to avoid "panic stimulus," but doesn't solve the investment drag. Channel: pro-cyclical risk sentiment supportive; sectoral (export/industrial complex) > broad CN demand.
+
+Retail Sales y/y (Dec)
+HF comment: Dominant signal: household demand remains the weak link (miss + down from prior). This is first-order because it speaks directly to the "confidence/savings trap." Secondary: base effects and promotions can distort, but the level is still too soft to claim consumption is driving growth. Reaction function: keeps the burden on fiscal transfers/targeted consumption support rather than just liquidity. Channel: CN equities (consumer) negative, CNH mildly softer via "domestic demand still weak."
+
+GDP y/y (Q4)
+HF comment: Dominant signal: growth beat a low bar but the composition matters: the GDP print can look fine while the demand mix deteriorates (weak retail, weak investment). Secondary: downshift vs prior confirms deceleration, but not collapse. Reaction function: supports the "managed landing" narrative; policymakers can keep doing targeted support + fiscal push rather than a 2009-style bazooka. Channel: global risk mildly supportive; CNH more sensitive to composition than headline.
+
+GDP q/q SA (Q4)
+HF comment: First-order: sequential momentum is better than priced. Secondary: q/q can be volatile and policy-smoothed; the key tension remains "production OK, demand weak." Channel: modest risk support.
+
+Urban unemployment rate (Dec)
+HF comment: Flat → no new information. Labor slack remains a background constraint on consumption confidence; this doesn't change the story.
+
+TUESDAY 20 JAN 2026
+
+CHINA — Loan Prime Rate 1Y / 5Y (Jan)
+Release Date: 20 Jan 2026 | Local Time: —
+Importance: ***
 
 Reuters Data
-NBS Manufacturing PMI: 49.0 | Prior: 49.3 | Poll: 49.1 | Surprise: -0.10
-Professional Market Commentary
-NBS detail showed new orders still contracting and production near stagnation. Bloomberg cited Goldman Sachs saying Lunar New Year distortions may have exaggerated some weakness, but the official PMI still confirmed a soft manufacturing backdrop.
-Comment — Economist Layer
-The tape materially improves the read here: the official survey stayed weak on underlying demand components, but holiday effects likely added noise to the downside.
-HF Take — Strategist Layer
-Still a soft official-China signal, but not one to extrapolate mechanically without accounting for seasonal distortion.
-China (Mainland) — RatingDog Manufacturing PMI Final / Services PMI (Feb)
-Release Date: 4 Mar 2026 | Local Time: 02:45
+
+Loan Prime Rate 1Y (Jan): Actual 3.00% (unchanged)
+
+Loan Prime Rate 5Y (Jan): Actual 3.50% (unchanged)
+
+Comment — Economist Layer / HF Take
+
+Loan Prime Rate 1Y (Jan)
+HF comment: Dominant signal: no marginal monetary easing — consistent with "liquidity ample / use targeted tools" stance. Secondary: unchanged LPR doesn't mean policy is tight; it means policymakers prefer structural/targeted levers over headline rate cuts. Channel: rates limited; CNH supported at the margin by "no aggressive easing."
+
+Loan Prime Rate 5Y (Jan)
+HF comment: Same logic, but this is the property-linked rate: holding it steady signals reluctance to re-open the "property reflation trade" aggressively. Channel: property sentiment remains constrained.
+
+--- WEEK OF 23 JAN TO 30 JAN 2026 ---
+
+FRIDAY 31 JAN 2026
+
+CHINA — NBS Manufacturing PMI (Jan)
+Release Date: 31 Jan 2026 | Local Time: —
+Importance: ****
 
 Reuters Data
-RatingDog Manufacturing PMI Final: 52.1 | Prior: 50.3 | Poll: 50.2 | Surprise: 1.90
-RatingDog Services PMI: 56.7 | Prior: 52.3
-Professional Market Commentary
-RatingDog detail showed new export orders back in expansion and employment stable. Reuters cited UBS saying the rebound pointed to private-sector resilience, though smaller firms were still under pressure.
-Comment — Economist Layer
-The split versus the official PMI is now more interpretable: private firms and services looked much stronger, while official manufacturing remained soft.
-HF Take — Strategist Layer
-China should not be read as a single-cycle story. The investable read is still barbell-like: weak official heavy-industry tone, but more resilient private/services momentum.
-SIGNAL TENSION CHECKMain contradiction: The LPR hold and NBS PMI contraction together say "official/state economy still soft, policy not adding fresh impulse," while the Caixin/RatingDog surge says "private/services economy accelerating." The policy constraint and the private-sector improvement are both real and pulling in opposite directions.Why it matters: The resolution of this tension — whether NBS eventually converges up toward Caixin or Caixin fades back toward NBS — is the key gating condition for whether China's 2026 growth story becomes self-sustaining or remains policy-dependent.Implication: The March NPC fiscal package is the dominant near-term policy variable. If it delivers meaningful consumption support and infrastructure execution, it could begin to close the NBS/Caixin gap. If it disappoints, NBS stays below 50 and the private-sector impulse loses its macro significance.3 KEY RELEASES TO DIG INTOChina — RatingDog Manufacturing PMI Final / Services PMI (4 Mar 2026)
-Why it matters: The gap between Caixin 52.1 and NBS 49.0 is now wider than at any prior point in the file. This is the sharpest expression of the structural bifurcation and the most important input for the regime diagnosis entering the March NPC window.China — LPR 1Y / 5Y (24 Feb 2026)
-Why it matters: The hold is not the news; the reasoning is. CITIC's framing — "weak credit demand, not policy caution" — is the most direct official-adjacent acknowledgement in the file that the transmission problem, not the rate level, is the binding constraint. That diagnosis has direct implications for what the March NPC needs to deliver.China — NBS Manufacturing PMI (4 Mar 2026)
-Why it matters: A further decline to 49.0 despite prior policy support is the clearest evidence that the NBS/state/domestic segment is not responding to the available monetary accommodation. It strengthens the case that fiscal demand-side tools are the only remaining effective lever.<<CNH_WEEK_END>>
 
+NBS Manufacturing PMI: Actual 49.3 vs Consensus 50.0 vs Prior 50.1
 
-<<CNH_WEEK_BEGIN>>
-DATA WINDOW: 9 Feb 2026 to 13 Feb 2026A. CHINA WEEK — MACRO SYNTHESISThis window produced a meaningful but partial upgrade to China's inflation and PMI picture. The February Caixin Manufacturing PMI final came in at 52.1, a sharp improvement from 50.3 prior, with the private/services Caixin Services PMI at 56.7 — both well above the official NBS readings and confirming that the private and export-oriented sector was not just holding but accelerating. The CPI/PPI block, while distorted by Lunar New Year effects on the headline, showed the first signs of broader price breadth: non-food and services components firmed, and PPI improved to -0.9% from -1.4%, the clearest step toward less-deflationary pricing in the sequence. M2 at 9.0% remained elevated. Taken together, the regime shifted from "less disinflationary" toward "some breadth in pricing, private sector resilient, but transmission still weak and domestic-demand-pull still not confirmed." This is not a reflation call; it is the first window where the "deep deflation / domestic demand dead" framing requires meaningful qualification.B. CHINA MACRO SIGNAL SCOREBOARDGrowth: ~
-Supporting evidence:
-Caixin Manufacturing PMI final surged to 52.1 (prior 50.3, consensus 50.2) — a near-2 point acceleration entirely in the private/export-firm sample. Caixin Services PMI at 56.7 (prior 52.3) was the strongest services reading in the sequence. New export orders were back in expansion per the RatingDog/Caixin detail. This sits against the backdrop of the prior NBS PMI contraction at 49.3, confirming the state/private divergence remains structurally intact even as private momentum improves.Labor: ~
-Supporting evidence:
-No direct labor release in this window. The Caixin employment component was described as stable. The prior urban unemployment of 5.1% remained the reference level. No deterioration confirmed, but no improvement either.Inflation: ~
-Supporting evidence:
-CPI improved to 1.3% y/y (prior 0.2%, consensus 0.8%) — a significant step, though the professional commentary treated it as partly holiday-distorted while noting that non-food and services components genuinely firmed. PPI at -0.9% y/y (prior -1.4%, consensus -1.2%) was the more durable improvement: producer deflation continuing to narrow, with industrial input stabilisation providing breadth beyond just base effects. The combined signal weakened the clean "China still deeply deflationary" framing without yet establishing a full reflation narrative.Financial Conditions: ~
-Supporting evidence:
-M2 remained at 9.0% y/y (carried from the January block), confirming ongoing liquidity accommodation. No new LPR action. The Caixin PMI improvement suggested that private-sector firms were accessing the available liquidity more effectively than the NBS/SOE sample, but the transmission-to-consumption gap remained the structural binding constraint.Policy Constraint: ~
-Supporting evidence:
-No LPR decision in this window. The PMI and CPI improvement reduced the urgency for an emergency policy pivot but did not remove the underlying case for additional fiscal support at the March NPC. The regime remained "targeted support, no headline rate move, fiscal execution the primary lever." The stronger Caixin data gave policymakers more cover to be patient rather than reactive.C. FULL RELEASE ARCHIVE--- WEEK OF 9 FEB TO 13 FEB 2026 ---WEDNESDAY 11 FEB — RELEASEDCHINA — CPI / PPI (Feb)
-CPI YoY: 1.3% | Prior: 0.2% | Poll: 0.8% | Surprise: +0.50%
-PPI YoY: -0.9% | Prior: -1.4% | Poll: -1.2% | Surprise: +0.30%
-Professional Market Commentary: Institutional commentary treated the CPI beat as broader than a one-line food effect, pointing to firmer non-food and services components. The PPI improvement was seen as modest rather than decisive, but enough to weaken the clean "China still deeply deflationary" narrative.
-Comment — Economist Layer: The important distinction is CPI breadth versus still-negative PPI. Services and non-food strength suggest firmer domestic pricing momentum, while producer prices remain deflationary, especially upstream. So the signal is not "China reflation complete"; it is "China less disinflationary than before, with an uneven price mix."
-Context from prior regional live file: December had already shown lowflation with slightly less-negative producer prices, but January then reverted to a softer "policy support still needed / pricing power still weak" read. February is the first print in that recent chain that materially upgrades the story from "not worsening" toward "less disinflationary with some breadth," while still stopping short of a full reflation call because PPI remains negative.
-HF Take — Strategist Layer: This release raises the chance that China stops acting as a clean global disinflation offset. For the global overlay, that matters because it lands against weak Europe and ahead of key US inflation data. It is supportive of a selective reflation narrative in EM, but not yet a full regime turn.MONDAY 4 MAR — RELEASED (within block per live file dating)CHINA — NBS Manufacturing PMI (Feb)
-NBS Manufacturing PMI: 49.0 | Prior: 49.3 | Poll: 49.1 | Surprise: -0.10
-Professional Market Commentary: NBS detail showed new orders still contracting and production near stagnation. Bloomberg cited Goldman Sachs saying Lunar New Year distortions may have exaggerated some weakness, but the official PMI still confirmed a soft manufacturing backdrop.
-Comment — Economist Layer: The tape materially improves the read here: the official survey stayed weak on underlying demand components, but holiday effects likely added noise to the downside.
-HF Take — Strategist Layer: Still a soft official-China signal, but not one to extrapolate mechanically without accounting for seasonal distortion.CHINA — RatingDog Manufacturing PMI Final / Services PMI (Feb)
-RatingDog Manufacturing PMI Final: 52.1 | Prior: 50.3 | Poll: 50.2 | Surprise: 1.90
-RatingDog Services PMI: 56.7 | Prior: 52.3
-Professional Market Commentary: RatingDog detail showed new export orders back in expansion and employment stable. Reuters cited UBS saying the rebound pointed to private-sector resilience, though smaller firms were still under pressure.
-Comment — Economist Layer: The split versus the official PMI is now more interpretable: private firms and services looked much stronger, while official manufacturing remained soft.
-HF Take — Strategist Layer: China should not be read as a single-cycle story. The investable read is still barbell-like: weak official heavy-industry tone, but more resilient private/services momentum.SIGNAL TENSION CHECKMain contradiction: The private/Caixin PMI cluster surged while the NBS official PMI softened further. CPI breadth improved, but PPI remains negative and the domestic demand-pull case is still unproven. The data are better, but the improvement is concentrated in the private/export-oriented segment rather than in the state/domestic-demand complex where the structural weakness lives.Why it matters: A selective upgrade in private-sector momentum is not the same as a broad domestic demand recovery. Markets can justify upgrading China growth optics, but not yet the full reflation or consumer-recovery narrative.Implication: The barbell trade — overweight tech/export private-sector China exposure, underweight domestic consumer/property — remains the correct positioning frame even as the CPI/PMI picture improves at the margin.3 KEY RELEASES TO DIG INTOChina — RatingDog Manufacturing PMI Final / Services PMI (4 Mar 2026)
-Why it matters: The 1.9-point beat in manufacturing and the surge in services to 56.7 is the clearest private-sector resilience signal in the window. It defines the state/private divergence more sharply than any prior week and is the key input for regime-upgrade decisions.China — CPI / PPI (11 Feb 2026)
-Why it matters: The CPI breadth improvement — non-food and services firming — is the first genuine pricing-power signal in the sequence. It is the threshold print that begins to qualify the "China as clean global disinflation offset" thesis.China — NBS Manufacturing PMI (4 Mar 2026)
-Why it matters: The further softening to 49.0 while Caixin rose to 52.1 is the sharpest Caixin/NBS divergence in the file. It confirms the structural diagnosis — not a China-wide recovery, but a bifurcated economy where policy tools and reform exposure divide performance cleanly.<<CNH_WEEK_END>>
+Comment — Economist Layer / HF Take
 
-
-
-
-
-
-
-<<CNH_WEEK_BEGIN>>
-DATA WINDOW: 19 Jan 2026 to 6 Feb 2026A. CHINA WEEK — MACRO SYNTHESISThis window contained the most information-dense China data cluster of the early-year sequence. The January 19 activity bundle confirmed the fundamental regime tension in sharp relief: industrial output held up at 5.2% and GDP beat a low bar at 4.5% q/q-adjusted, but retail sales missed at 0.9%, fixed-asset investment deteriorated further to -3.8% YTD, and urban unemployment held flat at 5.1%. Production was the engine; domestic demand remained the structural drag. The LPR hold on January 20 confirmed that no monetary pivot was imminent — the PBOC remained in targeted-support mode. The NBS Manufacturing PMI on January 31 then delivered a clean verdict on what the activity data had implied: the official manufacturing sector swung back to contraction at 49.3, with new orders at 49.2 and domestic consumer goods PMI at 48.3. The Caixin PMI at 50.3 confirmed the state/private divergence — export-oriented private firms holding, state/domestic sector contracting. The February Composite PMI at 49.9 then confirmed the broader stall. The regime across this window is therefore "production and exports providing a floor, domestic demand not healing, NBS contraction the verdict, and policy staying targeted rather than pivoting to shock stimulus."B. CHINA MACRO SIGNAL SCOREBOARDGrowth: -
-Supporting evidence:
-GDP Q4 beat at 4.5% y/y (consensus 4.4%) and q/q at 1.2% (consensus 1.0%) looked headline-supportive but masked a deteriorating demand mix. FAI YTD fell further to -3.8% (consensus -3.0%, prior -2.6%) — a clear capex/investment worsening. Retail sales missed at 0.9% y/y (consensus 1.2%, prior 1.3%). NBS Manufacturing PMI then fell to 49.3 (consensus 50.0) confirming contraction. Caixin composite at 49.9 in early February confirmed the broader stall. Industrial output at 5.2% and Caixin Manufacturing at 50.3 were the only reliably positive growth signals, and both were production/export-side rather than domestic-demand-side.Labor: -
-Supporting evidence:
-Urban unemployment held at 5.1% in December, unchanged from prior. No improvement despite the headline GDP beat. The NBS noted in its PMI commentary that consumer goods manufacturing (PMI 48.3) and high energy-consuming sectors (47.9) remained in contraction, directly flagging the weakness in demand-sensitive employment channels.Inflation: ~
-Supporting evidence:
-January CPI fell to 0.2% y/y (prior 0.8%, consensus 0.4%), with the move partly explained by Lunar New Year base distortions. PPI at -1.4% (prior -1.9%, consensus -1.5%) showed less deflation than prior but still negative. The CPI drop was discounted as holiday-distorted; the PPI improvement was treated as directional but not decisive. The regime remained lowflation without a genuine demand-pull component.Financial Conditions: ~
-Supporting evidence:
-LPR held at 3.00% (1Y) and 3.50% (5Y) on January 20, confirming no additional monetary easing. M2 surged to 9.0% y/y in January (prior 8.5%, consensus 8.4%), pointing to a liquidity injection. But as in the prior window, money supply rising alongside weak CPI confirmed transmission failure rather than demand recovery. The system had liquidity; private credit appetite remained structurally impaired.Policy Constraint: ~
-Supporting evidence:
-The LPR hold and the NBS PMI contraction together defined the policy tension: the economy needed more support but was not receiving a fresh monetary impulse. Commentary attributed the hold to a preference for fiscal/targeted tools over headline rate cuts. The Caixin/NBS divergence reinforced the diagnosis — export-sector firms were holding up, making an emergency policy pivot politically harder to justify even as domestic demand deteriorated.C. FULL RELEASE ARCHIVE--- WEEK OF 19 JAN TO 23 JAN 2026 ---MONDAY 19 JAN — RELEASEDCHINA — Urban Fixed Asset Investment (YTD) y/y (Dec)
-Actual -3.8% vs Cons -3.0% vs Prior -2.6%
-HF comment: Dominant signal is capex/real-economy inertia still negative — this is the "China domestic demand is not self-healing" datapoint and it missed meaningfully. Secondary: it reinforces the idea that any growth stabilization is being carried by external demand + policy-managed credit, not private-sector confidence. Reaction function: increases pressure for fiscal execution and targeted credit support; it does not force a broad monetary pivot if officials see credit already "ample." Channel: CNH and EM beta through China domestic-demand proxy; commodities mixed (infrastructure demand tail risk).CHINA — Industrial Output y/y (Dec)
-Actual 5.2% vs Cons 5.0% vs Prior 4.8%
-HF comment: Dominant signal: supply-side growth is holding up (beat, and rising vs prior). Secondary: IO strength can coexist with weak domestic demand if exports and inventory dynamics do the lifting — so don't overread it as household reflation. Reaction function: gives policymakers cover to avoid "panic stimulus," but doesn't solve the investment drag. Channel: pro-cyclical risk sentiment supportive; sectoral (export/industrial complex) > broad CN demand.CHINA — Retail Sales y/y (Dec)
-Actual 0.9% vs Cons 1.2% vs Prior 1.3%
-HF comment: Dominant signal: household demand remains the weak link (miss + down from prior). This is first-order because it speaks directly to the "confidence/savings trap." Secondary: base effects and promotions can distort, but the level is still too soft to claim consumption is driving growth. Reaction function: keeps the burden on fiscal transfers/targeted consumption support rather than just liquidity. Channel: CN equities (consumer) negative, CNH mildly softer via "domestic demand still weak."CHINA — GDP y/y (Q4)
-Actual 4.5% vs Cons 4.4% vs Prior 4.8%
-HF comment: Dominant signal: growth beat a low bar but the composition matters: the GDP print can look fine while the demand mix deteriorates (weak retail, weak investment). Secondary: downshift vs prior confirms deceleration, but not collapse. Reaction function: supports the "managed landing" narrative; policymakers can keep doing targeted support + fiscal push rather than a 2009-style bazooka. Channel: global risk mildly supportive; CNH more sensitive to composition than headline.CHINA — GDP q/q SA (Q4)
-Actual 1.2% vs Cons 1.0% vs Prior 1.1%
-HF comment: First-order: sequential momentum is better than priced. Secondary: q/q can be volatile and policy-smoothed; the key tension remains "production OK, demand weak." Channel: modest risk support.CHINA — Urban unemployment rate (Dec)
-Actual 5.1% vs Prior 5.1% (no consensus)
-HF comment: Flat → no new information. Labor slack remains a background constraint on consumption confidence; this doesn't change the story.TUESDAY 20 JAN — RELEASEDCHINA — Loan Prime Rate 1Y (Jan)
-Actual 3.00% (unchanged)
-HF comment: Dominant signal: no marginal monetary easing — consistent with "liquidity ample / use targeted tools" stance. Secondary: unchanged LPR doesn't mean policy is tight; it means policymakers prefer structural/targeted levers over headline rate cuts. Channel: rates limited; CNH supported at the margin by "no aggressive easing."CHINA — Loan Prime Rate 5Y (Jan)
-Actual 3.50% (unchanged)
-HF comment: Same logic, but this is the property-linked rate: holding it steady signals reluctance to re-open the "property reflation trade" aggressively. Channel: property sentiment remains constrained.--- WEEK OF 23 JAN TO 30 JAN 2026 ---FRIDAY 31 JAN — RELEASEDCHINA — NBS Manufacturing PMI (Jan)
-Actual 49.3 vs Consensus 50.0 vs Prior 50.1
 HF comment: Dominant signal: China NBS PMI 49.3 = BACK TO CONTRACTION after single month of expansion (Dec 50.1). The divergence with Caixin PMI 50.3 is critical: STATE/DOMESTIC demand collapsing (NBS surveys large SOEs + domestic), PRIVATE/EXPORT holding (Caixin surveys SMEs + exporters). This confirms regime diagnosis: China's problem is DOMESTIC DEMAND COLLAPSE, not external weakness.
+
 Secondary: Sub-indices paint clear picture — Production 50.6 (firms still producing), New Orders 49.2 (demand falling), New Export Orders 47.8 (export demand weakening too). This is classic "destocking" pattern: firms cutting production because inventories building.
+
 Noise: January PMI often weak due to Lunar New Year seasonality (factories shut early, workers leave), so single month contraction not panic-worthy
+
 Reaction-function impact (PBoC + Fiscal): NBS PMI 49.3 + Nomura assessment ("far from enough") = stimulus acceleration coming. Expect Q1 2026: (a) RRR cut 50bp, (b) MLF/LPR cut 10-15bp, (c) fiscal consumption vouchers expansion. March NPC (parliamentary session) likely announces fiscal deficit 4.0-4.5% of GDP (vs 3.8% prior).
+
 Transmission: CNH weakening pressure (PMI contraction + policy easing = dovish CNY). PBoC likely allows CNY to drift to 7.40-7.50 vs USD (from current 7.30) to support exporters. China equity (CSI 300) vulnerable — PMI 49.3 = earnings downgrades coming, especially in consumer goods (PMI 48.3) and industrials. Only bright spot: high-tech (PMI 52.0) = continue to overweight AI/semiconductors (local champions like SMIC), underweight property/consumption.
-Regime trigger: If Feb + March PMI also <50 (three consecutive months contraction) = PBOC forced into aggressive easing (100bp RRR cut + 25bp rate cut). Threshold: Q1 2026 IP growth <4.5% = panic mode.--- WEEK OF 2 FEB TO 6 FEB 2026 ---MONDAY 3 FEB — RELEASEDCHINA — Caixin Manufacturing PMI (Jan)
-Actual 50.3 vs Prior 50.1 (NBS PMI was 49.3)
+
+Regime trigger: If Feb + March PMI also <50 (three consecutive months contraction) = PBOC forced into aggressive easing (100bp RRR cut + 25bp rate cut). Threshold: Q1 2026 IP growth <4.5% = panic mode.
+
+--- WEEK OF 2 FEB TO 6 FEB 2026 ---
+
+MONDAY 3 FEB 2026
+
+CHINA — Caixin Manufacturing PMI (Jan)
+Release Date: 3 Feb 2026 | Local Time: —
+Importance: ***
+
+Reuters Data
+
+Caixin Manufacturing PMI: Actual 50.3 vs Prior 50.1 (NBS PMI was 49.3)
+
+Comment — Economist Layer / HF Take
+
 HF comment: Dominant signal: CRITICAL DIVERGENCE between Caixin 50.3 (private/export firms) and NBS 49.3 (state/domestic firms) CONFIRMS regime diagnosis: China's problem is DOMESTIC DEMAND COLLAPSE while EXPORT sector holding. This means: (a) PBoC stimulus needs to target consumption/domestic, not just credit to SOEs, (b) CNY depreciation helping exporters but not enough to offset domestic weakness.
+
 Secondary: Caixin 50.3 = still expansion, so not "hard landing" yet, just bifurcated economy
+
 Noise: January Lunar New Year seasonality affects both surveys
+
 Reaction-function impact (PBoC): Divergence means targeted stimulus needed — property support + consumption vouchers + fiscal handouts, not just RRR cuts. Expect Q1 2026: 50bp RRR cut + fiscal deficit 4.5% GDP announcement at March NPC.
-Transmission: CNH depreciation likely continues (7.30 → 7.40-7.50 vs USD) to support export sector while domestic consumption remains weak. China equity remains bifurcated: overweight Caixin-exposed sectors (tech exports, semiconductors), underweight NBS-exposed sectors (consumer goods, property).WEDNESDAY 11 FEB — RELEASEDCHINA — CPI/PPI (Jan)
+
+Transmission: CNH depreciation likely continues (7.30 → 7.40-7.50 vs USD) to support export sector while domestic consumption remains weak. China equity remains bifurcated: overweight Caixin-exposed sectors (tech exports, semiconductors), underweight NBS-exposed sectors (consumer goods, property).
+
+--- WEEK OF 9 FEB TO 13 FEB 2026 ---
+
+WEDNESDAY 11 FEB 2026
+
+CHINA — CPI/PPI (Jan)
+Release Date: 11 Feb 2026 | Local Time: —
+Importance: ***
+
+Reuters Data
+
 CPI YoY: +0.2% | Prior: +0.8% | Poll: +0.4% | Surprise: -20bp
 CPI MoM: +0.2% | Prior: +0.2% | Poll: +0.3% | Surprise: -10bp
 PPI YoY: -1.4% | Prior: -1.9% | Poll: -1.5% | Surprise: +10bp
-Professional Market Commentary: Strong emphasis on Lunar New Year base distortion; headline discounted. But core narrative split: some desk takes leaned "still recovery," while others stressed demand-pull still weak. PPI narrowing linked to industrial input stabilization (non-ferrous mentioned).
-Comment — Economist layer: Base effects matter, but the durable issue is still: pricing power remains weak (CPI low, PPI negative). JGM lens: you explicitly flag demand-pull not improved materially (housing weak; jobs/wages subdued). That keeps the interpretation anchored: even if MoM/core has small "tentative" signs, the path remains challenging.
-HF Take — Strategist layer: Reaction function: increases probability weight on continued policy support (RRR/targeted easing), but the key constraint is transmission (credit ≠ consumption). Market read: a "liquidity up" signal can support tactical risk, but without demand recovery it also sustains the tail of policy-driven, not organic growth.FRIDAY 13 FEB — RELEASEDCHINA — M2 Money Supply (Jan)
-YoY: +9.0% | Prior: +8.5% | Poll: +8.4% | Surprise: +60bp
-Professional Market Commentary: Framed as liquidity surge / easing impulse; some tactical "risk supportive" takes appeared. Also raised the standard desk question: money growth vs weak CPI = transmission failure.
-Comment — Economist layer: Money growth rising with CPI still low supports "liquidity available" but demand-pull weak. JGM lens: consistent with your China interpretation: core inflation path still challenging; housing/jobs constrain consumption demand.
-HF Take — Strategist layer: Reinforces easing bias, but increases the tail risk of currency-management sensitivity if liquidity keeps rising without growth traction. Tactical risk can respond; structural macro doesn't improve without demand transmission.SIGNAL TENSION CHECKMain contradiction: The headline GDP and industrial output data looked constructive, while PMI, retail, FAI, and the Caixin/NBS divergence all confirmed that the production-side strength was not translating into domestic demand recovery. M2 surge + weak CPI = the clearest transmission-failure signal in the window.Why it matters: Policymakers can point to headline growth beats, but the underlying demand structure is not self-sustaining. The NBS PMI contraction is the most honest summary of the domestic cycle.Implication: The next policy lever is fiscal execution at the March NPC, not further LPR adjustments. China's growth path depends on whether the government-led financing impulse can generate enough second-round domestic demand to prevent a deeper contraction.3 KEY RELEASES TO DIG INTOChina — NBS Manufacturing PMI (31 Jan 2026)
-Why it matters: The return to contraction after a single month of expansion is the clearest verdict on whether December's brief improvement was real or seasonal. The sub-index detail — new orders 49.2, consumer goods 48.3 — maps the domestic demand failure precisely.China — Urban FAI / Industrial Output / Retail Sales / GDP (19 Jan 2026)
-Why it matters: The simultaneous beat in production/GDP and miss in retail/investment is the week's defining data tension. It confirms the "production floor, demand ceiling" regime that will govern China macro analysis for the entire Q1 window.China — M2 Money Supply (13 Feb 2026)
-Why it matters: The 60bp beat and surge to 9.0% y/y is the clearest transmission-failure signal: liquidity is available, but it is not reaching household spending. That gap is what makes the March NPC fiscal package the dominant forward variable.<<CNH_WEEK_END>>
 
+Professional Market Commentary
+
+Strong emphasis on Lunar New Year base distortion; headline discounted. But core narrative split: some desk takes leaned "still recovery," while others stressed demand-pull still weak. PPI narrowing linked to industrial input stabilization (non-ferrous mentioned).
+
+Comment — Economist layer
+
+Base effects matter, but the durable issue is still: pricing power remains weak (CPI low, PPI negative). JGM lens: you explicitly flag demand-pull not improved materially (housing weak; jobs/wages subdued). That keeps the interpretation anchored: even if MoM/core has small "tentative" signs, the path remains challenging.
+
+HF Take — Strategist layer
+
+Reaction function: increases probability weight on continued policy support (RRR/targeted easing), but the key constraint is transmission (credit ≠ consumption). Market read: a "liquidity up" signal can support tactical risk, but without demand recovery it also sustains the tail of policy-driven, not organic growth.
+
+FRIDAY 13 FEB 2026
+
+CHINA — M2 Money Supply (Jan)
+Release Date: 13 Feb 2026 | Local Time: —
+Importance: ***
+
+Reuters Data
+
+M2 Money Supply YoY: +9.0% | Prior: +8.5% | Poll: +8.4% | Surprise: +60bp
+
+Professional Market Commentary
+
+Framed as liquidity surge / easing impulse; some tactical "risk supportive" takes appeared. Also raised the standard desk question: money growth vs weak CPI = transmission failure.
+
+Comment — Economist layer
+
+Money growth rising with CPI still low supports "liquidity available" but demand-pull weak. JGM lens: consistent with your China interpretation: core inflation path still challenging; housing/jobs constrain consumption demand.
+
+HF Take — Strategist layer
+
+Reinforces easing bias, but increases the tail risk of currency-management sensitivity if liquidity keeps rising without growth traction. Tactical risk can respond; structural macro doesn't improve without demand transmission.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: The headline GDP and industrial output data looked constructive, while PMI, retail, FAI, and the Caixin/NBS divergence all confirmed that the production-side strength was not translating into domestic demand recovery. M2 surge + weak CPI = the clearest transmission-failure signal in the window.
+
+Why it matters: Policymakers can point to headline growth beats, but the underlying demand structure is not self-sustaining. The NBS PMI contraction is the most honest summary of the domestic cycle.
+
+Implication: The next policy lever is fiscal execution at the March NPC, not further LPR adjustments. China's growth path depends on whether the government-led financing impulse can generate enough second-round domestic demand to prevent a deeper contraction.
+
+3 KEY RELEASES TO DIG INTO
+
+China — NBS Manufacturing PMI (31 Jan 2026)
+Why it matters: The return to contraction after a single month of expansion is the clearest verdict on whether December's brief improvement was real or seasonal. The sub-index detail — new orders 49.2, consumer goods 48.3 — maps the domestic demand failure precisely.
+
+China — Urban FAI / Industrial Output / Retail Sales / GDP (19 Jan 2026)
+Why it matters: The simultaneous beat in production/GDP and miss in retail/investment is the week's defining data tension. It confirms the "production floor, demand ceiling" regime that will govern China macro analysis for the entire Q1 window.
+
+China — M2 Money Supply (13 Feb 2026)
+Why it matters: The 60bp beat and surge to 9.0% y/y is the clearest transmission-failure signal: liquidity is available, but it is not reaching household spending. That gap is what makes the March NPC fiscal package the dominant forward variable.
+
+<<CNH_WEEK_END>>
 <<CNH_WEEK_BEGIN>>
-DATA WINDOW: 5 Jan 2026 to 16 Jan 2026A. CHINA WEEK — MACRO SYNTHESISChina entered the new year in a lowflation / managed-stabilisation regime. The two CPI/PPI prints confirmed that deflation pressure was easing at the margin — PPI less negative, CPI stable — without yet signalling any genuine demand reflation. The trade data was the stronger surprise: both exports and imports beat, with the import strength particularly important as evidence that domestic absorption was not collapsing. The credit block reinforced the same picture — TSF, M2, and new yuan loans all beat expectations, pointing to policy-managed liquidity support doing work through public channels while private credit appetite remained structurally impaired. The regime entering mid-January was therefore not "recovery confirmed" but "stabilisation with policy-managed impulse, no inflation constraint, domestic demand still the weak link."B. CHINA MACRO SIGNAL SCOREBOARDGrowth: ~
+DATA WINDOW: 5 Jan 2026 to 16 Jan 2026
+
+A. CNH WEEK — MACRO SYNTHESIS
+
+China entered the new year in a lowflation / managed-stabilisation regime. The CPI/PPI prints confirmed that deflation pressure was easing at the margin — PPI less negative, CPI stable — without yet signalling any genuine demand reflation. The trade data was the stronger surprise: both exports and imports beat, with the import strength particularly important as evidence that domestic absorption was not collapsing. The credit block reinforced the same picture — TSF, M2, and new yuan loans all beat expectations, pointing to policy-managed liquidity support doing work through public channels while private credit appetite remained structurally impaired.
+
+The regime entering mid-January was therefore not recovery confirmed, but stabilisation with a policy-managed impulse, no inflation constraint, and domestic demand still the weak link. China was no longer worsening at the margin, but the improvement remained dependent on external demand, fiscal execution and targeted credit rather than self-sustaining private-sector demand.
+
+B. CNH MACRO SIGNAL SCOREBOARD
+
+Growth: ~
 Supporting evidence:
-Exports beat at +6.6% y/y (consensus +3.0%) and imports beat sharply at +5.7% y/y (consensus +0.9%), with the import strength the more important signal — domestic absorption was not dead. Trade balance remained very large at $114.1B. Credit flow was constructive: TSF beat at 2,210B (consensus 2,000B), new yuan loans beat at 910B (consensus 800B). These are policy-managed impulses rather than organic private-demand acceleration, but they prevent a hard-landing read.Labor: ~
+Exports beat at +6.6% y/y versus +3.0% consensus and imports beat sharply at +5.7% y/y versus +0.9% consensus, with the import strength the more important signal because it softened the “China demand is dead” narrative. Trade balance remained very large at $114.1B. Credit flow was also constructive: TSF beat at 2,210B and new yuan loans beat at 910B. These are policy-managed impulses rather than organic private-demand acceleration, but they prevent a hard-landing read.
+
+Labor: ~
 Supporting evidence:
-No direct labor release in this window. Urban unemployment from the prior China activity block remained a background constraint at 5.1%, but no new data in this period to update that signal.Inflation: ~
+No direct labor release was present in this window. Urban unemployment from the prior China activity block remained a background constraint at 5.1%, but no new data in this period updated the labor signal.
+
+Inflation: ~
 Supporting evidence:
-CPI at 0.8% y/y (in line, up from 0.7%) confirmed lowflation without deflation spiral. PPI at -1.9% y/y (consensus -2.0%, prior -2.2%) showed producer deflation becoming less negative — incremental reflation progress at the margin. The configuration remains the best possible for policymakers: room to support without an inflation penalty, while the demand-pull problem is still unresolved.Financial Conditions: ~
+CPI at 0.8% y/y, in line with consensus and up from 0.7%, confirmed lowflation without a deflation spiral. PPI at -1.9% y/y, slightly better than consensus and prior, showed producer deflation becoming less negative. The configuration remained policy-friendly: room to support without an inflation penalty, but still no evidence of genuine demand-pull reflation.
+
+Financial Conditions: ~
 Supporting evidence:
-M2 at 8.5% y/y (consensus 8.0%) confirmed accommodative liquidity conditions. Outstanding loan growth flat at 6.4% confirmed no structural credit acceleration. The system had liquidity available but not private-demand-driven credit creation — a managed, not organic, financial conditions picture.Policy Constraint: ~
+M2 at 8.5% y/y versus 8.0% consensus confirmed accommodative liquidity conditions. TSF and new yuan loans also beat expectations, but outstanding loan growth was flat at 6.4%, confirming no structural credit acceleration. The system had liquidity available, but not private-demand-driven credit creation — a managed, not organic, financial-conditions picture.
+
+Policy Constraint: ~
 Supporting evidence:
-No LPR decision in this window. The data configuration — soft domestic demand, benign inflation, credit impulse from public channels — kept the regime in "targeted support + fiscal execution" mode. No urgency for either additional easing or tightening. The binding constraint remained transmission, not the headline rate level.C. FULL RELEASE ARCHIVE--- WEEK OF 5 JAN TO 9 JAN 2026 ---MONDAY 5 JAN — RELEASEDCHINA — RatingDog Services PMI (Dec)
-Actual 52.1 vs Cons 52.0 (no prior provided)
-HF comment: First-order, this keeps the "services still grinding higher" signal alive — not a re-acceleration, but it leans against the bearish tail where post-property drag finally bleeds into services. Second-order, it matters mainly through confidence/credit impulse optics rather than hard output: if services stays >50, policymakers can keep leaning on targeted easing instead of panic-style stimulus. Market channel: rates/FX via China-growth proxy (CNH + regional cyclicals) rather than domestic inflation.FRIDAY 9 JAN — RELEASEDCHINA — PPI y/y (Dec)
-Actual -1.9% vs Cons -2.0% vs Prior -2.2%
-HF comment: Dominant signal: producer deflation is less negative — modest reflation progress at the margin. Second-order: this is still deflationary, so it doesn't change the policy regime; it just slightly reduces the "profit squeeze" tail risk. Reaction function: keeps room for support, but less urgency than when PPI was accelerating down. Channel: CNH + EM cyclicals via "China isn't worsening" optics.CHINA — CPI y/y (Dec)
-Actual 0.8% vs Cons 0.8% vs Prior 0.7%
-HF comment: First-order: CPI remains lowflation — no demand overheating signal, no constraint on easing. Second-order: stable/low CPI plus less-negative PPI is the "best possible" configuration for authorities: room to stimulate without an inflation penalty, while signaling incremental traction. Channel: muted; helps risk assets more through narrative than through rates.CHINA — CPI m/m (Dec)
-Actual 0.2% vs Cons 0.1% vs Prior -0.1%
-HF comment: Mostly second-order/seasonal. Directionally consistent with "deflation scare not intensifying," but not regime-changing on its own.CHINA — Overall Comprehensive Risk (Q1)
-Actual 2.28 (no consensus/prior provided)
-HF comment: Context only.--- WEEK OF 12 JAN TO 16 JAN 2026 ---WEDNESDAY 14 JAN — RELEASEDCHINA — Exports y/y (Dec)
-Actual +6.6% vs Cons +3.0% vs Prior +5.9%
-HF comment: Dominant signal is external demand resilience > expected (big beat). This is the market's preferred China "growth" channel right now: exports offset domestic demand fragility. Second-order: the market mix matters: non-US strength doing the heavy lifting implies geopolitical/US drag is being diversified away, but it also reinforces the "surplus politics" tail. Reaction function: reduces near-term urgency for shock stimulus; keeps policy in "targeted + fiscal execution" mode. Channel: CNH + EM beta via risk sentiment, and global rates via growth optics only at the margin.CHINA — Imports y/y (Dec)
-Actual +5.7% vs Cons +0.9% vs Prior +1.9%
-HF comment: Dominant signal is domestic absorption better than priced (also a beat). First-order takeaway: the "China demand is dead" narrative softens. Second-order: imports can be price/commodity driven — the key is whether this aligns with credit impulse (see TSF/loans). Channel: commodities + EM cyclicals; CNH supportive.CHINA — Trade Balance (USD, Dec)
-Actual 114.10B vs Cons 113.60B vs Prior 111.68B
-HF comment: Dominant signal: surplus remains very large and persistent — supportive for CNH stability but politically sensitive. Second-order: for markets, the rate of change in trade impulse matters more than the level; here impulse is strong. Channel: CNH + regional risk.THURSDAY 15 JAN — RELEASEDCHINA — Total Social Financing (Dec)
-Actual 2,210B vs Cons 2,000B vs Prior 2,490B
-HF comment: Dominant signal: credit creation beat expectations (even if down from prior), which is important because China trades on the credit impulse, not the level. Second-order: the fact it's below prior suggests no "flood," more like targeted/managed support. Reaction function: consistent with "ample liquidity + fiscal doing the heavy lifting." Channel: CNH + EM cyclicals; domestic rates less.CHINA — M2 money supply y/y (Dec)
-Actual 8.5% vs Cons 8.0% vs Prior 8.0%
-HF comment: Dominant signal: liquidity conditions remain accommodative. Second-order: M2 can rise while private credit appetite is weak (high savings / cautious sentiment) — so treat as necessary but not sufficient. Channel: supports risk sentiment; limited direct market impulse.CHINA — New yuan loans (Dec)
-Actual 910B vs Cons 800B vs Prior 390B
-HF comment: Dominant signal: credit flow stronger than expected, and the jump vs prior is meaningful. Second-order: composition matters (household vs corporate; short vs long). Reaction function: strengthens the case that policy is getting some traction without forcing a broad stimulus pivot. Channel: equity/risk beta > rates.CHINA — Outstanding loan growth y/y (Dec)
-Actual 6.4% vs Cons 6.3% vs Prior 6.4%
-HF comment: Flat trend → no new information. It tells you the system isn't accelerating structurally; impulses come through flow measures (TSF/loans), not the stock.SIGNAL TENSION CHECKMain contradiction: Trade and credit data both beat expectations and point to stabilisation, while the price data (CPI 0.8%, PPI -1.9%) still shows that domestic demand-pull remains absent. Policy support is working through public/managed channels but not yet generating private-sector reflation.Why it matters: China's "stabilisation" story is real but fragile — it depends on continued fiscal execution and targeted credit, not on organic private demand recovery.Implication: The regime remains one of managed stabilisation, not self-sustaining recovery. Any slippage in policy delivery or external demand would quickly re-expose the domestic demand weakness.3 KEY RELEASES TO DIG INTOChina — Exports / Imports / Trade Balance (14 Jan 2026)
-Why it matters: The import beat is the most important single data point in the window. It softens the "China demand is dead" narrative and is the first piece of evidence that domestic absorption may be stabilising rather than deteriorating further.China — Total Social Financing / M2 / New Yuan Loans (15 Jan 2026)
-Why it matters: The credit block beat confirms that policy transmission is delivering liquidity, but the composition question — government-led versus private-credit-demand-led — is the key gating condition for whether this becomes a genuine recovery impulse or remains a managed floor.China — CPI / PPI (9 Jan 2026)
-Why it matters: The PPI becoming less negative is the earliest signal in the file that China's deflation dynamic may be turning. It is small, but it is directional, and it matters for the global disinflation offset that China has been providing.<<CNH_WEEK_END>>
+No LPR decision was present in this window. The data configuration — soft domestic-demand pull, benign inflation, credit impulse through managed/public channels — kept the regime in targeted support plus fiscal execution mode. There was no urgency for either additional easing or tightening. The binding constraint remained transmission, not the headline rate level.
+
+C. FULL RELEASE ARCHIVE
+
+--- WEEK OF 5 JAN TO 9 JAN 2026 ---
+
+MONDAY 5 JAN 2026
+
+CHINA — RatingDog Services PMI (Dec)
+Release Date: 5 Jan 2026 | Local Time: —
+Importance: **
+
+Reuters Data
+
+RatingDog Services PMI: Actual 52.1 vs Cons 52.0 (no prior provided)
+
+Comment — Economist Layer / HF Take
+
+HF comment: First-order, this keeps the "services still grinding higher" signal alive — not a re-acceleration, but it leans against the bearish tail where post-property drag finally bleeds into services. Second-order, it matters mainly through confidence/credit impulse optics rather than hard output: if services stays >50, policymakers can keep leaning on targeted easing instead of panic-style stimulus. Market channel: rates/FX via China-growth proxy (CNH + regional cyclicals) rather than domestic inflation.
+
+FRIDAY 9 JAN 2026
+
+CHINA — CPI / PPI (Dec)
+Release Date: 9 Jan 2026 | Local Time: —
+Importance: ***
+
+Reuters Data
+
+PPI y/y (Dec): Actual -1.9% vs Cons -2.0% vs Prior -2.2%
+CPI y/y (Dec): Actual 0.8% vs Cons 0.8% vs Prior 0.7%
+CPI m/m (Dec): Actual 0.2% vs Cons 0.1% vs Prior -0.1%
+
+Comment — Economist Layer / HF Take
+
+PPI y/y (Dec)
+HF comment: Dominant signal: producer deflation is less negative — modest reflation progress at the margin. Second-order: this is still deflationary, so it doesn't change the policy regime; it just slightly reduces the "profit squeeze" tail risk. Reaction function: keeps room for support, but less urgency than when PPI was accelerating down. Channel: CNH + EM cyclicals via "China isn't worsening" optics.
+
+CPI y/y (Dec)
+HF comment: First-order: CPI remains lowflation — no demand overheating signal, no constraint on easing. Second-order: stable/low CPI plus less-negative PPI is the "best possible" configuration for authorities: room to stimulate without an inflation penalty, while signaling incremental traction. Channel: muted; helps risk assets more through narrative than through rates.
+
+CPI m/m (Dec)
+HF comment: Mostly second-order/seasonal. Directionally consistent with "deflation scare not intensifying," but not regime-changing on its own.
+
+CHINA — Overall Comprehensive Risk (Q1)
+Release Date: 9 Jan 2026 | Local Time: —
+Importance: *
+
+Reuters Data
+
+Overall Comprehensive Risk (Q1): Actual 2.28 (no consensus/prior provided)
+
+Comment — Economist Layer / HF Take
+
+HF comment: Context only.
+
+--- WEEK OF 12 JAN TO 16 JAN 2026 ---
+
+WEDNESDAY 14 JAN 2026
+
+CHINA — Exports / Imports / Trade Balance (Dec)
+Release Date: 14 Jan 2026 | Local Time: —
+Importance: ****
+
+Reuters Data
+
+Exports y/y (Dec): Actual +6.6% vs Cons +3.0% vs Prior +5.9%
+Imports y/y (Dec): Actual +5.7% vs Cons +0.9% vs Prior +1.9%
+Trade Balance (USD, Dec): Actual 114.10B vs Cons 113.60B vs Prior 111.68B
+
+Comment — Economist Layer / HF Take
+
+Exports y/y (Dec)
+HF comment: Dominant signal is external demand resilience > expected (big beat). This is the market's preferred China "growth" channel right now: exports offset domestic demand fragility. Second-order: the market mix matters: non-US strength doing the heavy lifting implies geopolitical/US drag is being diversified away, but it also reinforces the "surplus politics" tail. Reaction function: reduces near-term urgency for shock stimulus; keeps policy in "targeted + fiscal execution" mode. Channel: CNH + EM beta via risk sentiment, and global rates via growth optics only at the margin.
+
+Imports y/y (Dec)
+HF comment: Dominant signal is domestic absorption better than priced (also a beat). First-order takeaway: the "China demand is dead" narrative softens. Second-order: imports can be price/commodity driven — the key is whether this aligns with credit impulse (see TSF/loans). Channel: commodities + EM cyclicals; CNH supportive.
+
+Trade Balance (USD, Dec)
+HF comment: Dominant signal: surplus remains very large and persistent — supportive for CNH stability but politically sensitive. Second-order: for markets, the rate of change in trade impulse matters more than the level; here impulse is strong. Channel: CNH + regional risk.
+
+THURSDAY 15 JAN 2026
+
+CHINA — Total Social Financing / M2 / New Yuan Loans / Outstanding Loan Growth (Dec)
+Release Date: 15 Jan 2026 | Local Time: —
+Importance: ***
+
+Reuters Data
+
+Total Social Financing (Dec): Actual 2,210B vs Cons 2,000B vs Prior 2,490B
+M2 money supply y/y (Dec): Actual 8.5% vs Cons 8.0% vs Prior 8.0%
+New yuan loans (Dec): Actual 910B vs Cons 800B vs Prior 390B
+Outstanding loan growth y/y (Dec): Actual 6.4% vs Cons 6.3% vs Prior 6.4%
+
+Comment — Economist Layer / HF Take
+
+Total Social Financing (Dec)
+HF comment: Dominant signal: credit creation beat expectations (even if down from prior), which is important because China trades on the credit impulse, not the level. Second-order: the fact it's below prior suggests no "flood," more like targeted/managed support. Reaction function: consistent with "ample liquidity + fiscal doing the heavy lifting." Channel: CNH + EM cyclicals; domestic rates less.
+
+M2 money supply y/y (Dec)
+HF comment: Dominant signal: liquidity conditions remain accommodative. Second-order: M2 can rise while private credit appetite is weak (high savings / cautious sentiment) — so treat as necessary but not sufficient. Channel: supports risk sentiment; limited direct market impulse.
+
+New yuan loans (Dec)
+HF comment: Dominant signal: credit flow stronger than expected, and the jump vs prior is meaningful. Second-order: composition matters (household vs corporate; short vs long). Reaction function: strengthens the case that policy is getting some traction without forcing a broad stimulus pivot. Channel: equity/risk beta > rates.
+
+Outstanding loan growth y/y (Dec)
+HF comment: Flat trend → no new information. It tells you the system isn't accelerating structurally; impulses come through flow measures (TSF/loans), not the stock.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Trade and credit data both beat expectations and point to stabilisation, while the price data (CPI 0.8%, PPI -1.9%) still shows that domestic demand-pull remains absent. Policy support is working through public/managed channels but not yet generating private-sector reflation.
+
+Why it matters: China's "stabilisation" story is real but fragile — it depends on continued fiscal execution and targeted credit, not on organic private demand recovery.
+
+Implication: The regime remains one of managed stabilisation, not self-sustaining recovery. Any slippage in policy delivery or external demand would quickly re-expose the domestic demand weakness.
+
+3 KEY RELEASES TO DIG INTO
+
+China — Exports / Imports / Trade Balance (14 Jan 2026)
+Why it matters: The import beat is the most important single data point in the window. It softens the "China demand is dead" narrative and is the first piece of evidence that domestic absorption may be stabilising rather than deteriorating further.
+
+China — Total Social Financing / M2 / New Yuan Loans (15 Jan 2026)
+Why it matters: The credit block beat confirms that policy transmission is delivering liquidity, but the composition question — government-led versus private-credit-demand-led — is the key gating condition for whether this becomes a genuine recovery impulse or remains a managed floor.
+
+China — CPI / PPI (9 Jan 2026)
+Why it matters: The PPI becoming less negative is the earliest signal in the file that China's deflation dynamic may be turning. It is small, but it is directional, and it matters for the global disinflation offset that China has been providing.
+
+<<CNH_WEEK_END>>
