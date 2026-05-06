@@ -1,4 +1,674 @@
+<<EUR_WEEK_BEGIN>>
+DATA WINDOW: 27 Apr 2026 to 30 Apr 2026
 
+A. EUR WEEK — MACRO SYNTHESIS
+
+EUR completed a stagflation-confirmation week, but not a generalized second-round inflation week. Growth deteriorated through Germany household demand, German unemployment, France GDP stagnation, weaker euro-area GDP and the EC survey collapse; labor was mixed, with Germany deteriorating but euro-area unemployment still resilient and Italy improving. Inflation was the binding constraint: headline HICP, national CPI prints, producer prices, import prices and survey inflation expectations all moved higher, but core inflation eased in Spain, Germany and the euro-area aggregate, leaving the ECB with a headline / expectations shock rather than a confirmed core breakout.
+
+The final policy regime is patient hold with rising hike optionality. The ECB held as expected and avoided explicit June pre-commitment, but the week’s data made a clean dovish turn impossible: short-term inflation expectations, energy passthrough and headline inflation deteriorated while growth weakened. Spain remained the key relative-strength outlier; Germany and France supplied the clearest growth damage; Italy delivered the sharpest inflation deterioration.
+
+B. EUR MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+Euro-area GDP slowed to 0.1% q/q, France GDP stalled at 0.0%, German real retail sales fell -2.0% m/m and -2.0% y/y, and the EC survey suite showed broad deterioration in ESI, services and employment expectations. Spain and Germany Q1 GDP beats prevent a clean recession read, but the forward signal is negative.
+
+Labor: ~
+Supporting evidence:
+Germany unemployment deteriorated materially, with +20k versus +4k expected and the rate at 6.4%, while Spain unemployment surprised higher in Q1. Offsetting signals remain: euro-area unemployment stayed at 6.2% and Italy improved to 5.2%. Labor is no longer uniformly resilient, but the bloc-wide hard labor break is not yet confirmed.
+
+Inflation: +
+Supporting evidence:
+Euro-area HICP rose to 3.0%, Italy HICP jumped from 1.6% to 2.9%, France HICP rose to 2.5%, Germany import prices and France / Italy producer prices confirmed energy-pipeline pressure, and EC survey inflation expectations worsened. The critical caveat is core: euro-area core eased to 2.2%, Germany core eased, and Spain core eased, so second-round effects are not yet visible.
+
+Financial Conditions: ~
+Supporting evidence:
+ECB M3 accelerated to 3.2% and corporate credit firmed, arguing against a credit-crunch easing case. But weak surveys, Germany retail deterioration and growth downside argue against materially tighter real-economy conditions. Financial conditions are not broken, but they are not providing a clean growth offset.
+
+Policy Constraint: +
+Supporting evidence:
+The ECB held at 2.00% deposit / 2.15% refi and preserved optionality. Headline inflation, short-term expectations and energy passthrough keep hike risk alive; weak GDP, deteriorating confidence and easing core inflation prevent immediate tightening. The constraint is higher because the ECB cannot cut into a headline / expectations shock and cannot hike mechanically while core is still easing.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 27 APR 2026
+
+Germany — GfK Consumer Sentiment (May)
+Release Date: 27 Apr 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+GfK Consumer Sentiment: -33.3 | Prior: -28.1 | Poll: -29.3 | Surprise: -4.00
+
+Professional Market Commentary
+
+German consumer climate deteriorated sharply, with the tape focused on the collapse in income expectations, weaker willingness to buy and still-elevated willingness to save. The professional framing was not only “three-year low” but a renewed household real-income shock tied to energy and inflation pressure.
+
+Comment — Economist Layer
+
+This is a German household stagflation signal. The income-expectations collapse is the primary signal; buying intentions are the transmission channel; elevated saving confirms precautionary behaviour. This is not a slow confidence drift but a discrete repricing of household purchasing-power risk.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had already shifted Germany into a weak-growth / firmer-inflation-pipeline configuration after PPI, surveys and PMIs deteriorated together. GfK extends that sequence into the household-income channel. Germany remains the core country where energy-price pressure is most visibly damaging both demand expectations and the inflation constraint.
+
+HF Take — Strategist Layer
+
+Bund-supportive on growth, but not cleanly front-end dovish because the demand damage is inflation-driven. The key test was whether hard April data would validate the confidence shock; subsequent German retail and unemployment data did exactly that.
+
+TUESDAY 28 APR 2026
+
+Spain — Unemployment Rate (Q1)
+Release Date: 28 Apr 2026 | Local Time: 09:00
+Importance: **
+
+Reuters Data
+
+Unemployment Rate: 10.83% | Prior: 9.93% | Poll: 9.80% | Surprise: 1.030%
+
+Professional Market Commentary
+
+The tape was two-sided: the unemployment rate rose more than expected and returned to double digits, but the official / wire framing also highlighted that Q1 unemployment remained historically low for a first quarter. Seasonal services weakness dominated the interpretation.
+
+Comment — Economist Layer
+
+The miss is real but not regime-breaking. Spain’s labor market still shows year-on-year improvement, while the quarterly rise reflects a seasonal services adjustment. The print narrows the margin of comfort around Spain’s resilience story but does not overturn it.
+
+State transition: continuation.
+
+Context from prior regional live file:
+The prior EUR archive had treated Spain as the main resilience pocket inside a weakening bloc. This Q1 labor print complicates that view but does not invalidate it. Spain remains relatively stronger than the core, although the labor cushion is less clean.
+
+HF Take — Strategist Layer
+
+Low direct ECB relevance. The print matters mainly as a cross-country map input: Spain is still the relative-growth support, but not immune to labor volatility.
+
+Spain — Retail Sales YY (Mar)
+Release Date: 28 Apr 2026 | Local Time: 09:00
+Importance: **
+
+Reuters Data
+
+Retail Sales YY: 4.1% | Prior: 2.2% | Revised: 2.3%
+
+Professional Market Commentary
+
+Public commentary was thin, but the headline confirmed firm Spanish retail momentum. The release was overshadowed by unemployment and the broader euro-area stagflation tape.
+
+Comment — Economist Layer
+
+Retail resilience is a useful offset to the labor miss. Spain still entered the energy shock with stronger household demand than Germany or France. The caveat is timing: March retail is backward-looking, while April confidence and inflation data are the forward test.
+
+State transition: continuation.
+
+Context from prior regional live file:
+Spain had already been the main domestic-demand outlier in the EUR archive. March retail extends that outperformance. The signal supports Spain-relative resilience but still needs confirmation from Q1 GDP and April inflation.
+
+HF Take — Strategist Layer
+
+Mildly Spain-positive, not ECB-dovish. It offsets part of the labor miss but does not offset the bloc-level confidence shock.
+
+Italy — Producer Prices YY (Mar)
+Release Date: 28 Apr 2026 | Local Time: 11:00
+Importance: ***
+
+Reuters Data
+
+Producer Prices YY: 4.2% | Prior: -2.7%
+
+Professional Market Commentary
+
+ISTAT data showed a sharp producer-price reversal, with the professional tape focused on energy and refined petroleum products. The key nuance is that ex-energy PPI remained much more contained, so the release is a pipeline warning rather than proof of generalized producer inflation.
+
+Comment — Economist Layer
+
+The headline reversal is large enough to matter. But the composition is crucial: energy explains the regime flip, while underlying producer inflation is not yet diffused. The correct read is pipeline re-ignition, not a confirmed core inflation breakout.
+
+State transition: reversal.
+
+Context from prior regional live file:
+The prior EUR archive had already moved away from a benign disinflation story after German price and survey signals worsened. Italy PPI confirms that the energy-cost pipeline is not Germany-specific. The contained ex-energy detail prevents a full inflation-regime break.
+
+HF Take — Strategist Layer
+
+Front-end hawkish at the margin, but not decisive. The ECB should care because expectations can move before core does, but the ex-energy detail argues against mechanically pricing a generalized inflation shock.
+
+France — Unemp Class-A SA (Mar)
+Release Date: 28 Apr 2026 | Local Time: 12:00
+Importance: **
+
+Reuters Data
+
+Unemp Class-A SA: 3,109.1k | Prior: 3,108.2k | Revised: 3,108.2k
+
+Professional Market Commentary
+
+The print was treated as low-signal: registered jobseekers were essentially flat and the release was overshadowed by energy, PPI and survey shocks elsewhere.
+
+Comment — Economist Layer
+
+This is plateau rather than labor deterioration. Class-A administrative data are not the same as the INSEE labor-force unemployment rate, so the release is useful as a friction monitor but not as a decisive labor signal.
+
+State transition: no material change.
+
+Context from prior regional live file:
+France had already been weak through PMIs, business climate and household confidence rather than through a decisive labor break. This print fits that structure. The French labor channel remains a watch item, not yet the main deterioration channel.
+
+HF Take — Strategist Layer
+
+Low immediate ECB relevance. France’s more important contribution comes through GDP, CPI and consumer spending.
+
+WEDNESDAY 29 APR 2026
+
+Spain — CPI / HICP Flash (Apr)
+Release Date: 29 Apr 2026 | Local Time: 09:00
+Importance: ***
+
+Reuters Data
+
+HICP Flash YY: 3.5% | Prior: 3.4% | Poll: 3.5% | Surprise: 0.00%
+CPI YY Flash NSA: 3.2% | Prior: 3.4% | Poll: 3.4% | Surprise: -0.20%
+HICP Flash MM: 0.7% | Prior: 1.7% | Poll: 0.6% | Surprise: 0.10%
+CPI MM Flash NSA: 0.40% | Prior: 1.20% | Poll: 0.60% | Surprise: -0.200%
+
+Professional Market Commentary
+
+The release was framed as mixed: HICP stayed elevated, national CPI softened, and core inflation edged lower. The core signal is the important counterweight to the headline energy story.
+
+Comment — Economist Layer
+
+Spain is the cleanest counter-signal in the tape. HICP remains high in ECB optics, but national CPI and core inflation suggest energy has not yet generalized into a broader services / wage inflation dynamic.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+Spain had been flagged as both a resilience pocket and an inflation-pressure pocket after March CPI/HICP accelerated. April keeps the headline concern alive but softens the underlying read. Spain is therefore inflation-firm in optics, but less worrying than Italy PPI or euro-area inflation-expectations data.
+
+HF Take — Strategist Layer
+
+This tempers the hawkish narrative. It does not remove the ECB constraint, but it argues against extrapolating a uniform second-round shock across the bloc.
+
+Euro Zone — Money-M3 Annual Growth (Mar)
+Release Date: 29 Apr 2026 | Local Time: 10:00
+Importance: **
+
+Reuters Data
+
+Money-M3 Annual Grwth: 3.2% | Prior: 3.0% | Poll: 3.1% | Surprise: 0.10%
+
+Professional Market Commentary
+
+ECB monetary data showed M3 rising, NFC lending firming and household lending broadly stable. Professional pickup treated it as a quiet release, but the composition matters: corporate credit is firmer while household liquidity is not strong.
+
+Comment — Economist Layer
+
+This slightly complicates aggressive cut pricing. Credit is not collapsing, but the recovery is uneven and corporate-led. It is not a financial-stress print.
+
+State transition: continuation with hawkish drift.
+
+Context from prior regional live file:
+The prior EUR archive had treated monetary aggregates as restrictive but not broken. March extends that pattern. Credit is not validating a recessionary financial-stress story even as confidence deteriorates.
+
+HF Take — Strategist Layer
+
+Modestly hawkish as a constraint: if sentiment weakens but credit remains functional, the ECB faces stagflation rather than a credit-crunch easing case.
+
+Italy — Consumer Confidence (Apr)
+Release Date: 29 Apr 2026 | Local Time: 10:00
+Importance: **
+
+Reuters Data
+
+Consumer Confidence: 90.8 | Prior: 92.6 | Poll: 91.2 | Surprise: -0.40
+
+Professional Market Commentary
+
+ISTAT reported broad deterioration in Italian consumer confidence, with all components weaker. The tape’s key detail is that the economic climate deteriorated most sharply, while retail business confidence was the only relative offset.
+
+Comment — Economist Layer
+
+This confirms Italy’s sentiment deterioration. The signal is not isolated to consumers: business confidence also weakened, particularly services and construction. Retail resilience is too narrow to dominate the macro read.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had already recorded a sharp March Italian confidence decline. April extends it and removes the possibility that March was just a one-month air pocket. Italy is moving into a clearer confidence-damage phase.
+
+HF Take — Strategist Layer
+
+BTP-negative at the margin, but not independently ECB-decisive. It reinforces the growth-damage side while Italian PPI reinforces the inflation-pipeline side.
+
+Euro Zone — Business Climate / Economic Sentiment / Industrial Sentiment / Services Sentiment / Consumer Confidence Final (Apr)
+Release Date: 29 Apr 2026 | Local Time: 11:00
+Importance: ****
+
+Reuters Data
+
+Business Climate: -0.28 | Prior: -0.27
+Economic Sentiment: 93.0 | Prior: 96.6 | Revised: 96.2 | Poll: 95.2 | Surprise: -2.20
+Industrial Sentiment: -7.7 | Prior: -7.0 | Poll: -7.2 | Surprise: -0.50
+Services Sentiment: 0.9 | Prior: 4.9 | Revised: 4.1 | Poll: 3.5 | Surprise: -2.60
+Consumer Confid. Final: -20.6 | Prior: -20.6 | Poll: -20.6 | Surprise: 0.00
+
+Professional Market Commentary
+
+DG ECFIN showed a sharp deterioration in euro-area sentiment, while ING highlighted the combination of weaker growth expectations and rising inflation expectations. The institutional read was that Q2 growth risk had worsened while price expectations gave ECB hawks more ammunition. (think.ing.com
+)
+
+Comment — Economist Layer
+
+This is the binding pre-ECB survey release. The hierarchy is clear: ESI missed sharply, services sentiment deteriorated, employment expectations weakened, and consumer price expectations moved further in the wrong direction. This is not a clean dovish-growth shock because the inflation-expectations channel worsened at the same time.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had already shifted the bloc into an active stagflation nowcast after PMIs, German surveys, France confidence and price-pipeline signals weakened together. April ESI confirms and deepens that regime. The deterioration is now broader, with services, consumers and employment expectations moving against the earlier stabilization thesis.
+
+HF Take — Strategist Layer
+
+Highest policy-relevance survey of the week. It pushes the ECB away from a clean easing interpretation because the weak-growth impulse is paired with rising price expectations and still-functioning credit.
+
+Germany — CPI / HICP Prelim (Apr)
+Release Date: 29 Apr 2026 | Local Time: 14:00
+Importance: ***
+
+Reuters Data
+
+CPI Prelim MM: 0.60% | Prior: 1.10% | Poll: 0.70% | Surprise: -0.100%
+CPI Prelim YY: 2.90% | Prior: 2.70% | Poll: 3.00% | Surprise: -0.100%
+HICP Prelim MM: 0.50% | Prior: 1.20% | Poll: 0.80% | Surprise: -0.300%
+HICP Prelim YY: 2.90% | Prior: 2.80% | Poll: 3.10% | Surprise: -0.200%
+
+Professional Market Commentary
+
+The release was softer than expected at the headline and HICP level, but still showed headline inflation rising versus March. The key analytical point from the tape is that core inflation eased despite the energy shock.
+
+Comment — Economist Layer
+
+This is a stabilization counter-signal within a stagflation week. Energy is lifting the headline, but core easing argues that second-round effects are not yet visible in German consumer prices. Together with Spain’s core easing, Germany weakens the case for immediate inflation generalization.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+The prior EUR archive had emphasized Germany’s exposure to the energy shock and deteriorating surveys. April CPI confirms the energy pressure but not a core inflation breakout. Germany therefore remains growth-damaged and headline-inflation pressured, but not yet in a generalized core pass-through regime.
+
+HF Take — Strategist Layer
+
+Supports the ECB hold case on the day. It does not remove the future hike risk because expectations and energy remain problematic, but it reduces the urgency of an immediate inflation response.
+
+THURSDAY 30 APR 2026
+
+France — GDP Preliminary QQ / Consumer Spending MM (Q1 / Mar)
+Release Date: 30 Apr 2026 | Local Time: 07:30
+Importance: ***
+
+Reuters Data
+
+GDP Preliminary QQ: 0.0% | Prior: 0.2% | Poll: 0.2% | Surprise: -0.20%
+Consumer Spending MM: 0.7% | Prior: -1.4% | Poll: 0.7% | Surprise: 0.00%
+
+Professional Market Commentary
+
+INSEE showed French GDP stagnating in Q1, while March household consumption rebounded in line with expectations. The tape stresses the key nuance: headline GDP weakness was distorted by aerospace export noise, but underlying domestic demand was also weak.
+
+Comment — Economist Layer
+
+The clean signal is weaker domestic demand. Consumption and investment were soft, foreign trade was a drag, and inventories masked some weakness. Aerospace base effects matter, but they do not rescue the domestic-demand read.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+France had already been a weak-growth node in the prior EUR archive through PMIs, confidence and business climate. Q1 GDP confirms that weakness in hard data. The March consumption rebound helps mechanically but does not reverse the broader domestic-demand deterioration.
+
+HF Take — Strategist Layer
+
+OAT-supportive / EUR-negative at the margin. France strengthens the growth-damage side of the ECB bind, but the same morning’s CPI upside prevents a clean dovish interpretation.
+
+Germany — Import Prices MM / YY (Mar)
+Release Date: 30 Apr 2026 | Local Time: 08:00
+Importance: **
+
+Reuters Data
+
+Import Prices MM: 3.6% | Prior: 0.3% | Poll: 3.0% | Surprise: 0.60%
+Import Prices YY: 2.3% | Prior: -2.3% | Poll: 1.6% | Surprise: 0.70%
+
+Professional Market Commentary
+
+Commentary was thin, but the data clearly fit the broader energy-pipeline narrative. Import prices swung from deflation to positive annual inflation in one month.
+
+Comment — Economist Layer
+
+This is a mechanical energy-pipeline reversal. It cross-confirms Italian PPI and German CPI energy components, but by itself does not prove generalized core pass-through.
+
+State transition: reversal.
+
+Context from prior regional live file:
+The prior EUR archive had already moved toward a firmer price-pipeline assessment. German import prices confirm that external cost pressure has reappeared. The signal is inflationary at the pipeline stage, but still needs confirmation in core CPI and services.
+
+HF Take — Strategist Layer
+
+Hawkish at the margin for ECB optionality, but not a standalone trigger. The release matters as part of the cumulative energy-cost chain.
+
+Germany — Retail Sales MM / YY Real (Mar)
+Release Date: 30 Apr 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Retail Sales MM Real: -2.0% | Prior: -0.6% | Revised: -0.3% | Poll: -0.1% | Surprise: -1.90%
+Retail Sales YY Real: -2.0% | Prior: 0.7% | Revised: 0.9% | Poll: 0.5% | Surprise: -2.50%
+
+Professional Market Commentary
+
+The tape framed the release as a very poor hard consumption print, with real sales turning negative year-on-year and food sales also weak. It is the first hard activity validation of the earlier GfK income-expectations collapse.
+
+Comment — Economist Layer
+
+This is a decisive German household-demand deterioration. The weakness is not only discretionary; food sales were also weak. The combination of GfK, retail sales and later unemployment turns the German shock from sentiment risk into realized activity/labor pressure.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+Germany’s prior trajectory was already fragile, but earlier weakness had been concentrated in surveys and price-pipeline signals. March retail sales show the household demand channel cracking in hard data. This materially strengthens the Q2 downside risk narrative.
+
+HF Take — Strategist Layer
+
+Bund-supportive and EUR-negative. For the ECB, it is growth-dovish, but the release arrives alongside hotter import prices and headline inflation, so it reinforces stagflation rather than a clean easing case.
+
+France — CPI / HICP Prelim (Apr)
+Release Date: 30 Apr 2026 | Local Time: 08:45
+Importance: ***
+
+Reuters Data
+
+CPI (EU Norm) Prelim YY: 2.5% | Prior: 2.0% | Poll: 2.3% | Surprise: 0.20%
+CPI (EU Norm) Prelim MM: 1.2% | Prior: 1.1% | Poll: 0.9% | Surprise: 0.30%
+CPI Prelim YY NSA: 2.2% | Prior: 1.7% | Poll: 2.0% | Surprise: 0.20%
+CPI Prelim MM NSA: 1.0% | Prior: 1.0% | Poll: 0.9% | Surprise: 0.10%
+
+Professional Market Commentary
+
+French inflation surprised to the upside at both national and EU-harmonised levels. The tape’s key point is that this matters more in French context because France had been running a lower, steadier inflation regime.
+
+Comment — Economist Layer
+
+This is a French stagflation intensifier. GDP stagnated and HICP moved to 2.5%, creating one of the cleanest single-country growth/inflation tensions of the day. Full composition is pending, so the signal is headline-heavy, but the relative acceleration is meaningful.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+France had previously been a soft-growth country with less alarming inflation than Germany or Spain. The April CPI jump changes that balance. France is now contributing simultaneously to growth downside and headline inflation pressure.
+
+HF Take — Strategist Layer
+
+OAT-bearish on inflation but OAT-supportive on growth; net signal is policy-conflicted. For the ECB, France removes some comfort that the inflation shock is only German/Italian.
+
+France — Producer Prices MM / YY (Mar)
+Release Date: 30 Apr 2026 | Local Time: 08:45
+Importance: **
+
+Reuters Data
+
+Producer Prices MM: 2.0% | Prior: -0.2% | Revised: -0.3%
+Producer Prices YY: 0.2% | Prior: -2.4%
+
+Professional Market Commentary
+
+The release was under-narrated relative to CPI and GDP, but it completes the bloc-wide producer-pipeline picture: France, Italy and Germany are all now showing energy-linked pipeline pressure.
+
+Comment — Economist Layer
+
+The annual swing is large, but the composition is not yet fully visible. The correct interpretation is mechanical pipeline pressure, not confirmed generalized inflation diffusion.
+
+State transition: reversal.
+
+Context from prior regional live file:
+Earlier EUR notes had focused on German and Italian price-pipeline pressure. France PPI now broadens the pipeline story. The release strengthens the regional energy-cost narrative, but the core pass-through test remains unresolved.
+
+HF Take — Strategist Layer
+
+Marginally hawkish for ECB optionality. It matters in combination with French CPI and euro-area headline HICP, not as a standalone policy trigger.
+
+Spain — Estimated GDP QQ / YY (Q1)
+Release Date: 30 Apr 2026 | Local Time: 09:00
+Importance: ***
+
+Reuters Data
+
+Estimated GDP QQ: 0.6% | Prior: 0.8% | Poll: 0.5% | Surprise: 0.10%
+Estimated GDP YY: 2.7% | Prior: 2.7% | Poll: 2.7% | Surprise: 0.00%
+
+Professional Market Commentary
+
+Spain remained one of the strongest euro-area economies, with Q1 GDP beating expectations despite slowing from Q4. The tape’s structural point is that Spain’s renewables mix and lower fossil-fuel vulnerability may be muting the energy shock relative to Germany and Italy.
+
+Comment — Economist Layer
+
+This is continuation with mild deceleration. Spain is slowing from a high base, but still growing well above the euro-area aggregate. Combined with softer core CPI and firm retail sales, Spain remains the main relative-strength economy in the bloc.
+
+State transition: continuation with mild deceleration.
+
+Context from prior regional live file:
+Spain had been the key resilience pocket in the prior EUR archive. Q1 GDP confirms that status. The economy is no longer accelerating, but the shock transmission is clearly milder than in Germany, France or Italy.
+
+HF Take — Strategist Layer
+
+Supports Spain-relative strength. For macro expression, the country remains the natural relative long versus France/Germany/Italy within the euro-area shock map.
+
+Germany — Unemployment Change SA / Unemployment Rate SA (Apr)
+Release Date: 30 Apr 2026 | Local Time: 09:55
+Importance: ***
+
+Reuters Data
+
+Unemployment Chg SA: 20k | Prior: 0k | Revised: 3k | Poll: 4k | Surprise: 16.0k
+Unemployment Rate SA: 6.4% | Prior: 6.3% | Revised: 6.4% | Poll: 6.3% | Surprise: 0.10%
+
+Professional Market Commentary
+
+German unemployment missed sharply, with the jobless count rising above 3 million and the unemployment rate at its highest since the pandemic period. The Bundesagentur framing was that the spring upturn remained weak.
+
+Comment — Economist Layer
+
+This is the hard-labor confirmation of the German deterioration sequence. GfK showed income-expectations collapse, retail showed realized consumption weakness, and unemployment now shows labor deterioration. The German shock has moved from expectations to activity and labor.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had treated German labor as a potential lagging confirmation channel rather than the original source of weakness. April unemployment now confirms that the soft survey tape is feeding into hard data. Germany’s Q2 downside risk has become more concrete.
+
+HF Take — Strategist Layer
+
+Bund-supportive and growth-dovish for ECB. But it does not settle policy because the inflation-expectations and headline-energy shock remain active.
+
+Germany — GDP Flash QQ SA / YY NSA / YY SA (Q1)
+Release Date: 30 Apr 2026 | Local Time: 10:00
+Importance: ***
+
+Reuters Data
+
+GDP Flash QQ SA: 0.3% | Prior: 0.3% | Poll: 0.2% | Surprise: 0.10%
+GDP Flash YY NSA: 0.5% | Prior: 0.6% | Poll: 0.3% | Surprise: 0.20%
+GDP Flash YY SA: 0.3% | Prior: 0.4% | Poll: 0.3% | Surprise: 0.00%
+
+Professional Market Commentary
+
+Germany Q1 GDP beat expectations, but the professional read was that Q1 captured pre-shock momentum. The more forward-relevant April data — retail, unemployment and GfK — already point to deterioration.
+
+Comment — Economist Layer
+
+The Q1 beat is real but backward-looking. It confirms Germany entered the shock with some momentum, but the April data now matter more. The internal timing hierarchy is decisive: Q1 GDP is pre-impact; April household and labor data are leading-edge impact.
+
+State transition: continuation for Q1; deterioration for forward trajectory.
+
+Context from prior regional live file:
+The prior EUR archive had allowed for pre-shock stabilization in Germany but warned that energy and confidence could break it. Q1 GDP confirms the stabilization existed. The later April data show that it is already being challenged.
+
+HF Take — Strategist Layer
+
+The GDP beat prevents an outright recession narrative for Q1, but does not change the Q2 risk skew. For rates, it offsets but does not dominate the dovish message from retail and unemployment.
+
+Italy — GDP Prelim QQ / YY (Q1)
+Release Date: 30 Apr 2026 | Local Time: 10:00
+Importance: **
+
+Reuters Data
+
+GDP Prelim QQ: 0.2% | Prior: 0.3% | Poll: 0.1% | Surprise: 0.10%
+GDP Prelim YY: 0.7% | Prior: 0.8% | Poll: 0.6% | Surprise: 0.10%
+
+Professional Market Commentary
+
+Italy GDP beat modestly, but composition was mixed: services supported growth while industry weakened and domestic demand was negative.
+
+Comment — Economist Layer
+
+This is modest pre-shock resilience, not a strong growth signal. The composition leans fragile because services drove activity and domestic demand was weak. The GDP beat is less important than the same-day inflation jump.
+
+State transition: continuation.
+
+Context from prior regional live file:
+Italy had been a low-growth economy with confidence deterioration but not yet a hard activity break. Q1 GDP keeps that modest-growth regime intact. The more important shift is inflation, not growth.
+
+HF Take — Strategist Layer
+
+BTP-supportive on growth only at the margin. The same-day CPI/HICP shock dominates the Italy macro read.
+
+Italy — Unemployment Rate (Mar)
+Release Date: 30 Apr 2026 | Local Time: 10:30
+Importance: **
+
+Reuters Data
+
+Unemployment Rate: 5.2% | Prior: 5.3% | Revised: 5.4% | Poll: 5.3% | Surprise: -0.10%
+
+Professional Market Commentary
+
+The Italian labor market remains a counter-signal, with unemployment improving and still near historically low levels. The release was overshadowed by GDP and inflation.
+
+Comment — Economist Layer
+
+This is the strongest Italian offset. Labor-market resilience argues against immediate domestic demand collapse, even as confidence and inflation deteriorate.
+
+State transition: continuation / improvement.
+
+Context from prior regional live file:
+Italy’s prior macro profile had been weak growth but structurally resilient employment. March unemployment extends that pattern. The labor market is not yet validating a recessionary Italy story.
+
+HF Take — Strategist Layer
+
+Low immediate policy relevance but important for second-round risk: a resilient labor market can sustain wage pass-through if headline inflation remains elevated.
+
+Euro Zone — HICP / Core HICP / GDP / Unemployment (Apr / Q1 / Mar)
+Release Date: 30 Apr 2026 | Local Time: 11:00
+Importance: ****
+
+Reuters Data
+
+HICP Flash YY: 3.0% | Prior: 2.6% | Poll: 2.9% | Surprise: 0.10%
+HICP-X F,E,A&T Flash YY: 2.2% | Prior: 2.3% | Poll: 2.2% | Surprise: 0.00%
+HICP-X F, E, A, T Flash MM: 0.90% | Prior: 0.80%
+GDP Flash Prelim YY: 0.8% | Prior: 1.2% | Poll: 0.9% | Surprise: -0.10%
+GDP Flash Prelim QQ: 0.1% | Prior: 0.2% | Poll: 0.2% | Surprise: -0.10%
+Unemployment Rate: 6.2% | Prior: 6.2% | Revised: 6.3% | Poll: 6.2% | Surprise: 0.00%
+
+Professional Market Commentary
+
+Eurostat showed headline euro-area inflation rising to 3.0% in April, while core inflation eased to 2.2%. Eurostat also reported Q1 GDP growth of 0.1% q/q and euro-area unemployment at 6.2%. The professional debate split between stagflation concern and the counter-signal that core inflation is still easing. (ec.europa.eu
+)
+
+Comment — Economist Layer
+
+This is the central macro block of the week. Headline HICP confirms the energy shock; GDP confirms weak growth; unemployment remains resilient; core inflation is the key stabilizer. The regime is not “inflation breakout” because second-round effects are not yet visible in core. It is not “growth shock only” because headline inflation and short-term expectations are moving higher.
+
+State transition: deterioration on headline, stabilization on core, continuation on labor.
+
+Context from prior regional live file:
+The prior EUR archive had already been moving into a stagflation nowcast. This Eurostat batch validates that framework while adding the crucial caveat that core inflation is still easing. The region is in a headline-energy shock with weak activity, but not yet in a generalized core inflation regime.
+
+HF Take — Strategist Layer
+
+This is the release that explains the ECB hold. Headline inflation and expectations keep hike optionality alive; core easing and weak GDP argue against immediate tightening. The reaction function is patient hold with rising hike optionality, not automatic June tightening.
+
+Italy — CPI / HICP Prelim (Apr)
+Release Date: 30 Apr 2026 | Local Time: 11:00
+Importance: ***
+
+Reuters Data
+
+Consumer Price Prelim MM: 1.2% | Prior: 0.5% | Poll: 0.5% | Surprise: 0.70%
+Consumer Price Prelim YY: 2.8% | Prior: 1.7% | Poll: 2.6% | Surprise: 0.20%
+CPI (EU Norm) Prelim MM: 1.7% | Prior: 1.7% | Poll: 1.3% | Surprise: 0.40%
+CPI (EU Norm) Prelim YY: 2.9% | Prior: 1.6% | Poll: 2.5% | Surprise: 0.40%
+
+Professional Market Commentary
+
+Italy delivered the sharpest national inflation jump of the day, with HICP rising from 1.6% to 2.9%. The tape frames Italy as the most exposed major euro-area economy to the energy shock.
+
+Comment — Economist Layer
+
+This is the most severe country-level inflation deterioration. Italy moved from below-average inflation to near the euro-area headline in one month. Full composition is pending, but the scale of the move is large enough to matter.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+Italy had previously contributed mainly through weak confidence and producer-price pressure. April CPI/HICP brings the shock into consumer prices. Italy’s profile shifts from low-growth / contained-inflation to one of the sharper stagflation profiles in the bloc.
+
+HF Take — Strategist Layer
+
+BTP-bearish and ECB-hawkish at the margin. Italy’s GDP beat does not offset the inflation jump; the policy-relevant question is whether this remains energy-localized or feeds into core and wages.
+
+Euro Zone — ECB Refinancing Rate / ECB Deposit Rate (Apr)
+Release Date: 30 Apr 2026 | Local Time: 14:15
+Importance: ****
+
+Reuters Data
+
+ECB Refinancing Rate: 2.15% | Prior: 2.15% | Poll: 2.15% | Surprise: 0.000%
+ECB Deposit Rate: 2.00% | Prior: 2.00% | Poll: 2.00% | Surprise: 0.000%
+
+Professional Market Commentary
+
+The ECB held rates unchanged, with the deposit facility at 2.00%, main refinancing operations at 2.15% and marginal lending facility at 2.40%. The statement preserved data-dependence and explicitly avoided pre-commitment, while acknowledging intensified upside inflation risks and downside growth risks. Reuters also reported Lagarde’s press-conference emphasis that no second-round effects are yet visible, while the ECB remains vigilant and expects a clearer assessment in roughly six weeks. (ecb.europa.eu
+)
+
+Comment — Economist Layer
+
+This was a hawkish hold, but not a pre-commitment. The decision fits the data mix: headline inflation has moved higher, short-term inflation expectations are problematic, growth has softened, and core inflation is still easing. The ECB has no reason to cut, but also insufficient evidence to hike immediately.
+
+JGM note:
+Lagarde stopped short of explicit pre-commitment to a June hike, but left a clear impression that the ECB could tighten barring a dramatic turn of events. The likely path is gradual, with +25bp in June and September already broadly embedded, while the debate remains whether 25bp or 50bp becomes necessary if energy prices move into the ECB’s “large shock” territory. JGM flags that the ECB still sees no second-round effects, even if it expects the risk to build.
+
+State transition: continuation with hawkish drift.
+
+Context from prior regional live file:
+The prior EUR archive had already framed the ECB as trapped between weak activity and a firmer inflation pipeline. The April decision confirms that configuration. The new element is not the hold itself, but the clearer bifurcation between headline / expectations risk and still-benign core inflation.
+
+HF Take — Strategist Layer
+
+Policy regime: patient hold with rising hike optionality.
+
+The hike path requires short-term inflation expectations to stay elevated, energy to remain in shock territory, and core inflation to stop easing. The hold path requires energy normalization, continued core easing and visible growth deterioration. Lagarde’s tone leaves June live but not locked.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Headline inflation and inflation expectations have deteriorated, but core inflation is still easing and second-round effects are not yet visible.
+Why it matters: The ECB cannot ease into a headline/expectations shock, but immediate tightening risks amplifying a growth slowdown.
+Implication: Patient hold with rising hike optionality; June is live but conditional.
+
+3 KEY RELEASES TO DIG INTO
+
+Euro Zone — HICP / Core HICP / GDP / Unemployment (30 Apr)
+Why it matters: The core block resolves the week’s contradiction: headline HICP at 3.0%, GDP at 0.1% q/q, unemployment resilient, and core easing to 2.2%.
+Euro Zone — ECB Refinancing Rate / Deposit Rate (30 Apr)
+Why it matters: Converts the stagflation tape into reaction-function language: no pre-commitment, but clear optionality to tighten if expectations/core deteriorate.
+Euro Zone — EC Survey Suite (29 Apr)
+Why it matters: The highest-quality forward-looking stagflation signal: weaker services / employment expectations and higher price expectations before the ECB meeting.
+
+<<EUR_WEEK_END>>
 <<EUR_WEEK_BEGIN>>
 DATA WINDOW: 20 Apr 2026 to 24 Apr 2026
 
