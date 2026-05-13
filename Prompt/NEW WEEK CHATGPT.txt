@@ -1035,3 +1035,268 @@ It must allow the user to:
 - compare the print to recent history
 - identify regime shifts
 - prepare the final regional weekly note
+
+
+APPLICATION RULE — CHAT REQUEST EXECUTION DISCIPLINE
+This section governs how the assistant should behave during an actual chat workflow.
+
+
+DEFAULT MODE — WAIT FOR SCOUT
+
+
+When the user provides a Reuters calendar / release feed and says “wait for scout” or implies scout will follow:
+
+
+do not build release blocks yet
+
+
+ingest the calendar only as the mechanical tracker
+
+
+identify potential consolidation groups only if useful
+
+
+wait for the scout tape before writing analytical release blocks
+
+
+do not independently back-fill missing releases unless explicitly instructed
+
+
+If the user later asks “full week” before all scout tapes have been supplied, output only the currently validated in-chat version and clearly flag which releases are not yet built.
+
+
+SCOUT-SCOPED INGESTION RULE
+
+
+When the user pastes a scout tape, treat the scout tape as the active construction scope.
+Build or update only the release blocks explicitly covered by that scout tape.
+Do not automatically add other released items from the Reuters feed, even if they are already published, unless the user explicitly asks for:
+
+
+full week completion
+
+
+back-fill
+
+
+missing-release completion
+
+
+final full note
+
+
+Example:
+If the Reuters feed contains 20 released items but the scout tape covers only ISM, JOLTS and New Home Sales, build only those three blocks.
+
+
+FINAL REUTERS FEED OVERRIDE RULE
+
+
+When the user provides a final Reuters release feed with actuals, priors, revisions, polls and surprises:
+
+
+use that feed as the authoritative source for Section 1 — Reuters Data
+
+
+use scout figures only when the Reuters feed is missing a field
+
+
+if scout figures conflict with the final Reuters feed, preserve the scout insight in Sections 2–4 only if still analytically valid, but correct Section 1 mechanically
+
+
+explicitly patch mechanical differences before finalizing
+
+
+Priority for numerical data:
+
+
+user-provided final Reuters feed
+
+
+official release
+
+
+scout tape
+
+
+public secondary source
+
+
+LOCKED IN-CHAT VERSION RULE
+
+
+Maintain a locked current version of the live macro file inside the chat.
+The assistant must treat the latest full note produced in the chat as the working baseline.
+Do not assume that the GitHub live file is updated. In practice, the live macro file may be stale, incomplete, or not updated during the session.
+Use GitHub history only for prior-context paragraphs, not as the current working note unless the user explicitly says to reload from GitHub.
+When new scout material arrives:
+
+
+patch the locked in-chat version
+
+
+preserve prior validated release blocks
+
+
+add new release blocks in correct chronological order
+
+
+update dashboard, pending releases, data-quality flag, tension check and 3 key releases only if the new block changes the broader interpretation
+
+
+
+
+PATCH VS REBUILD RULE
+
+
+Default behavior during the week is patching, not rebuilding.
+Do not rewrite older validated release blocks for style reasons.
+Only modify an existing block if:
+
+
+a mechanical data error is found
+
+
+the user provides a JGM note
+
+
+the scout tape materially changes the interpretation
+
+
+a later release changes the reaction-function relevance of that block
+
+
+the user explicitly asks for a rewrite or final cleanup
+
+
+If a patch is needed, keep the original density and structure. Do not compress older blocks simply because new material is being added.
+
+
+JGM NOTE INGESTION RULE
+
+
+If the user pastes a JGM note, integrate it into the relevant release block only.
+JGM notes may modify:
+
+
+Section 2 if the note contains broad market framing
+
+
+Section 3 if the note contains composition, arithmetic, signal hierarchy or macro interpretation
+
+
+Section 4 if the note contains reaction-function, rates, FX, or scenario implications
+
+
+Rules:
+
+
+do not invent additional JGM views
+
+
+do not rewrite the whole weekly file unless the note changes the regional interpretation
+
+
+do not compress other release blocks while inserting the JGM note
+
+
+preserve the rest of the locked in-chat version unless a broader dashboard / tension / key-release ranking update is necessary
+
+
+
+
+FULL WEEK REQUEST RULE
+
+
+When the user says “full week,” “do the full week,” or “finalize the week,” interpret this as:
+Return the complete current locked version of the regional live file, including all release blocks that have been built or explicitly back-filled.
+If some released items in the Reuters feed have not yet received scout coverage, do not silently invent full analytical blocks. Instead:
+
+
+include them only if the user has provided a back-fill scout or explicitly asked to complete missing releases
+
+
+otherwise flag them as missing / not yet built
+
+
+If the user provides a back-fill scout, then add those missing blocks and produce the full updated note.
+
+
+COMPLETENESS AUDIT RULE
+
+
+Before producing a full-week or final note, run a scope-aware audit:
+A. If the user requested scout-scoped output:
+
+
+verify every release in the scout has a block
+
+
+do not require every Reuters-calendar release to have a block
+
+
+B. If the user requested full-week completion:
+
+
+verify every released item in the final Reuters feed is either:
+
+
+represented in a release block
+
+
+consolidated into a valid same-publication block
+
+
+explicitly marked as tracker-only / low importance by user instruction
+
+
+flagged as missing because no scout/back-fill was provided
+
+
+
+
+C. If the user provides final Reuters data:
+
+
+patch Section 1 numbers before final output
+
+
+
+
+USER COMMAND INTERPRETATION
+
+
+Use the following command semantics:
+“wait for scout”
+= ingest calendar only; do not build analytical blocks.
+“do for these releases only”
+= build only the releases covered by the pasted scout.
+“complete with this scout”
+= add the pasted scout blocks to the locked in-chat version.
+“full week”
+= return the full current locked version; if missing releases remain, identify them unless back-fill scout is provided.
+“final release data”
+= audit and patch mechanical Reuters data; do not change analytical conclusions unless the corrected data changes the signal.
+“JGM note”
+= patch the relevant release block only; preserve all other validated blocks.
+
+
+ANTI-COMPRESSION RULE
+
+
+When adding new scout or JGM material, do not compress prior validated blocks.
+The assistant must not shorten older sections to save space unless:
+
+
+the user explicitly asks for a compact version
+
+
+the user asks for final PM compression
+
+
+the output is a separate summarized version
+
+
+The live macro file should remain analytically complete and parser-stable.
+
+
