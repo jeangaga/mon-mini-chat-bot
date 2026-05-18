@@ -1,5 +1,553 @@
 
+<<USD_WEEK_BEGIN>>
+DATA WINDOW: 11 May 2026 to 15 May 2026
 
+A. US WEEK — MACRO SYNTHESIS
+
+The US week closed as a synchronized stagflation-confirmation tape: CPI delivered the household-price shock, PPI validated the wholesale / margin pipeline, import prices confirmed the external channel, and Empire State prices showed the same pressure at regional manufacturing level. Growth did not break: retail control held, business inventories were sales-supported, Empire State orders surged, and industrial production rebounded with upward revisions. Labor also stayed too firm for cuts, with ETI stabilization and claims still low despite a marginal weekly rise.
+
+The resulting regime is not clean overheating and not recession: nominal activity remains resilient, but real quality is weakening through negative real earnings, price-supported retail flow, fragile consumer sentiment, restrictive mortgage rates, and sticky housing prices. Policy tension therefore moved toward hawkish hold / tightening-communication risk: inflation broadened across channels, while labor and hard activity failed to provide the Fed a credible easing trigger.
+
+B. US MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+Retail sales rose 0.5% m/m and control group rose 0.5%, blocking an immediate consumer-break narrative despite weaker real-income quality. Empire State jumped to 19.6 with new orders at 22.7, while industrial production rose 0.7%, manufacturing output rose 0.6%, and March IP was revised less negative. Business inventories rose strongly, but sales rose faster and the inventory/sales ratio fell, preventing an involuntary-overhang signal.
+
+Labor: ~
+Supporting evidence:
+Employment Trends rose to 105.77 and internal breadth stabilized, supporting “layoffs not yet breaking.” Claims softened marginally to 211k, but the four-week average remained low at 203.75k and continuing claims were below consensus. Labor is cooling at the margin but still too firm to validate cuts.
+
+Inflation: -
+Supporting evidence:
+CPI accelerated to 3.8% y/y and core CPI re-accelerated to 0.4% m/m / 2.8% y/y. PPI then broadened the shock, with final demand up 1.4% m/m / 6.0% y/y and ex food, energy and trade up 0.6% m/m / 4.4% y/y. Import prices rose 1.9% m/m and 4.2% y/y, while Empire State prices paid and received moved to their highest levels since 2022. The inflation signal clearly deteriorated across consumer, producer, border-price and survey channels.
+
+Financial Conditions: -
+Supporting evidence:
+The MBA 30-year mortgage rate stayed restrictive at 6.46%, keeping the housing-affordability channel active. Import-price and PPI shocks raise input-cost and margin pressure, while hot inflation plus resilient activity supports front-end policy rigidity and USD resilience. Financial conditions remain restrictive for rate-sensitive sectors but not restrictive enough to break aggregate demand.
+
+Policy Constraint: -
+Supporting evidence:
+The Fed’s easing case weakened because inflation broadened while claims, retail sales, Empire State and industrial production all rejected a clean growth-break offset. Capacity utilization below long-run norms limits a pure hike narrative, but the week shifts the reaction function toward hawkish hold and possible tightening communication rather than cuts.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 11 MAY 2026
+
+United States — Employment Trends Index (Apr)
+Release Date: 11 May 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Employment Trends: 105.77 | Prior: 105.72 | Revised: 105.52
+
+Professional Market Commentary
+
+The Conference Board framed the April ETI as a modest labor-resilience signal. The index rose to 105.77 from a downwardly revised 105.52, with the official release emphasizing that the recent stability was a break from the ETI’s downward drift through 2025. The constructive internal details were lower “jobs hard to get,” more small firms unable to fill positions, lower claims, and temporary-help employment adding positively; the sole negative was a higher involuntary part-time-worker share.
+
+The professional read is therefore not a labor-break signal. It is a leading-index stabilization print after a softer prior trend, but the downward revision to March reduces the strength of the level narrative.
+
+Comment — Economist Layer
+
+The ETI improves the labor-stability leg, but the signal is not clean enough to offset the broader stagflationary mix. The index is up on the month, breadth is positive, and several forward-looking employment inputs improved. However, the March downward revision matters: what looked like a stable prior month is now a softer base, so the April increase is more of a rebound from revised weakness than a clean new acceleration.
+
+The internal hierarchy is important. Lower “jobs hard to get” and higher unfilled small-firm positions point to labor-market tightness still present at the margin, while the involuntary part-time-worker deterioration introduces an underemployment quality caveat. The release therefore supports “layoffs not yet breaking” rather than “labor demand re-accelerating.”
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior USD sequence already showed labor too firm to validate cuts, with claims low and compensation still restrictive. ETI extends that resilience but does not remove the deterioration risk embedded in weaker survey confidence and softer employment-quality indicators. The labor bucket remains policy-constraining rather than recession-confirming.
+
+HF Take — Strategist Layer
+
+This is not a Fed pivot release. It marginally supports the hawkish-hold side of the reaction function because the leading employment composite is stabilizing and the claims input remains benign.
+
+The strategic use is as a labor-side cross-check ahead of jobless claims. If claims remain low later in the week, ETI will look like confirmation that the Fed cannot lean on labor weakness to cut. If claims deteriorate, ETI becomes a lagged composite rebound rather than a fresh signal.
+
+United States — Existing Home Sales / Existing Home Sales % Change (Apr)
+Release Date: 11 May 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Existing Home Sales: 4.02M | Prior: 3.98M | Revised: 4.01M | Reuters Poll: 4.05M | Surprise: -0.030M
+Exist. Home Sales % Chg: 0.2% | Prior: -3.6% | Revised: -2.9%
+
+Professional Market Commentary
+
+The NAR release framed April as a marginal stabilization print rather than a recovery. Sales rose 0.2% m/m to a 4.02M SAAR, missed consensus, and were flat y/y. Inventory rose 5.8% m/m to 1.47M units, equal to 4.4 months’ supply, while the median price rose 0.9% y/y to $417,700, the 34th consecutive y/y price increase. NAR also highlighted improved affordability, but Chief Economist Lawrence Yun caveated that inventory remains tight and that consumers are taking more time before transacting.
+
+The tape read is “sluggish but not collapsing.” Inventory is rebuilding, days on market are lengthening y/y, and regional performance is uneven, with the South and Midwest positive m/m, the Northeast flat, and the West weaker.
+
+Comment — Economist Layer
+
+The housing signal is stabilization at a depressed level, not a clean restart. The headline level missed consensus despite the small m/m gain, and the positive March revision prevents a worse sequential story. The more useful signal is the mix: inventory is improving, but not enough to break the lock-in / affordability constraint; prices remain sticky despite weak turnover; and regional dispersion shows that the recovery is not broad.
+
+This is a stagflationary housing configuration. Activity is subdued because rates and sentiment still bind, but prices are not falling fast enough to generate a quick shelter-disinflation impulse. The rise in inventory and y/y lengthening of days on market are medium-term cooling inputs, but the still-positive price trend keeps the near-term inflation relief limited.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD archive had already treated housing as a rate-sensitive downside channel, with weak resale activity, affordability pressure, and price breadth deterioration. April existing-home sales keep that housing bucket suppressed but stable. The release does not shift the regime; it preserves housing as a growth drag rather than a fast disinflation catalyst.
+
+HF Take — Strategist Layer
+
+The release has low standalone Fed impact but matters for the growth-quality side of the tape. It supports neither a clean recession trade nor a clean housing recovery trade.
+
+For rates, the housing channel remains a slow-burn tightening transmission mechanism. For the Fed, weak transactions help the growth-downside argument, but sticky prices and only gradual inventory normalization do not solve the inflation problem. The next housing-relevant check is whether mortgage rates and applications confirm that April’s stabilization can persist.
+
+TUESDAY 12 MAY 2026
+
+United States — NFIB Business Optimism Index (Apr)
+Release Date: 12 May 2026 | Local Time: 12:00
+Importance: ***
+
+Reuters Data
+
+NFIB Business Optimism Idx: 95.9 | Prior: 95.8
+
+Professional Market Commentary
+
+The official NFIB framing was headline stability with weak underlying quality. The optimism index rose only 0.1 point to 95.9, remaining below its 52-year average of 98.0 for a second month, while the Uncertainty Index fell to 88 but stayed far above its historical average. NFIB’s release emphasized labor quality as the top issue, a softer Employment Index, and persistent pricing pressure.
+
+The institutional tape is thin because NFIB rarely receives standalone macro-desk treatment. The useful market interpretation is internal: small-business pricing pressure is rising while employment and expansion signals are not improving enough to validate a demand-led growth story.
+
+Comment — Economist Layer
+
+NFIB is more important than the flat headline suggests. A 0.1-point rise in the optimism index is not the macro signal. The signal is the combination of persistent price-setting pressure, still-elevated uncertainty, labor-quality constraints, and softer employment momentum.
+
+This is a Main Street stagflation print. Small businesses are not reporting a clean demand boom, but they are still passing through costs and remain cautious about expansion. That matters because it links the CPI shock to the business-pricing channel: if firms are still raising selling prices while confidence and employment components soften, the economy is absorbing a supply-cost shock rather than enjoying healthy nominal acceleration.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD sequence had already moved into stagflation-confirmation, with resilient nominal activity, weak real-quality indicators, and rising price pressure across PCE, GDP prices, ISM prices and Fed communication. NFIB extends that pattern into the small-business channel. It reinforces the inflation constraint without upgrading growth quality.
+
+HF Take — Strategist Layer
+
+NFIB is not a direct market mover, but it is a useful reaction-function cross-check. It weakens the argument that price pressure is only a large-firm, energy or survey artifact.
+
+For the Fed, the implication is hold-biased. Elevated price plans and fragile confidence are exactly the mix that keeps policy constrained: too much inflation pressure to cut, not enough clean growth strength to become outright hawkish-growth. Claims and retail sales are the next tests for whether Main Street caution is translating into realized labor or demand weakness.
+
+United States — CPI / Core CPI / CPI-W (Apr)
+Release Date: 12 May 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+CPI MM, SA: 0.6% | Prior: 0.9% | Reuters Poll: 0.6% | Surprise: 0.00%
+CPI YY, NSA: 3.8% | Prior: 3.3% | Reuters Poll: 3.7% | Surprise: 0.10%
+Core CPI MM, SA: 0.4% | Prior: 0.2% | Reuters Poll: 0.3% | Surprise: 0.10%
+Core CPI YY, NSA: 2.8% | Prior: 2.6% | Reuters Poll: 2.7% | Surprise: 0.10%
+CPI Index, NSA: 333.020 | Prior: 330.213 | Reuters Poll: 332.686 | Surprise: 0.3340
+Core CPI Index, SA: 335.423 | Prior: 334.165
+CPI Wage Earner: 326.541 | Prior: 323.500
+
+Professional Market Commentary
+
+The BLS release showed a hot inflation mix despite headline m/m deceleration. CPI rose 0.6% m/m after 0.9% in March and 3.8% y/y after 3.3%. Core CPI rose 0.4% m/m and 2.8% y/y. Energy rose 17.9% y/y, food rose 3.2% y/y, and the core rate moved higher rather than validating a clean disinflation read.
+
+Professional commentary in the scout tape converged on four themes: energy is the dominant headline driver; shelter strength is partly a statistical catch-up issue; airline fares and services passthrough matter as second-round risk; and the Fed cannot easily cut while core inflation is re-accelerating. The dissenting institutional view is that some of the shock may be looked through if expectations remain anchored and energy normalizes.
+
+Comment — Economist Layer
+
+This is the decisive release of the session. The m/m headline slowed from March, but that is not enough to call stabilization because the y/y rate accelerated by 0.5pp and core inflation re-accelerated on both m/m and y/y metrics. The hierarchy is adverse: headline inflation is energy-led, but the core surprise prevents the print from being dismissed as a pure gasoline shock.
+
+The composition is mixed but policy-negative. Energy explains a large share of the headline impulse, gasoline is the visible household shock, and food at home rose sharply enough to matter for lower-income purchasing power. Core goods are not the main problem. The core concern is services, where shelter, airline fares and other service categories keep the core impulse from fading cleanly.
+
+The shelter detail requires care. The scout tape’s one-off catch-up framing weakens the case for extrapolating April shelter mechanically into a new rent regime. But the Fed cannot ignore the monthly core print because services ex-energy accelerated and the CPI-W / household budget channel is being hit at the same time as gasoline and food. The regime signal is not “demand overheating.” It is inflation persistence under supply shock with early services passthrough.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive had already shifted to stagflation confirmation, with PCE, GDP price components, Dallas trimmed-mean PCE, ISM prices and FOMC communication all pointing to an inflation constraint that was no longer just a headline-energy issue. April CPI strengthens that path because core re-accelerates while headline energy pressure remains visible. The release moves the week’s inflation bucket from background constraint to the dominant policy signal.
+
+HF Take — Strategist Layer
+
+This print tightens the Fed reaction-function box. It does not prove that hikes are the base case, but it raises the bar for cuts and makes any dovish repricing depend on a fast reversal in either energy, services momentum or labor data.
+
+The market-relevant split is conditional. If PPI and import prices reinforce the pipeline impulse, the CPI print becomes part of a broader inflation pass-through sequence. If retail sales and claims weaken materially, the story shifts toward stagflation with demand destruction. If activity holds and inflation stays hot, the policy debate moves further away from 2026 cuts and toward whether the Fed must re-tighten communication.
+
+United States — Real Weekly Earnings (Apr)
+Release Date: 12 May 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Real Weekly Earnings MM: -0.2% | Prior: -0.9%
+
+Professional Market Commentary
+
+The BLS Real Earnings release is separate from CPI, even though it was released at the same 08:30 ET timestamp. The official real-earnings release covers current and real hourly and weekly earnings for private nonfarm payroll employees; broader coverage emphasized that inflation was eroding wage gains, with weekly real earnings less negative than hourly real earnings because hours helped cushion the hit.
+
+Comment — Economist Layer
+
+Real earnings are the bridge from CPI inflation to consumer demand quality. The monthly decline is smaller than March’s -0.9%, but the direction remains negative. That means the consumer impulse is still being squeezed in real terms even if nominal spending indicators look firm.
+
+This is why the CPI print is more damaging than a pure market-rate event. Energy and food inflation hit the cash-flow side of the household balance sheet, while real earnings show the wage offset is insufficient. If hours partially cushion weekly pay, the pressure is softened, not removed. The signal is therefore purchasing-power deterioration rather than labor-income collapse.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive already described household demand as increasingly nominal rather than real, with real consumption weak relative to nominal spending and savings being drawn down. Real weekly earnings extends that pattern into April. The consumer remains active, but the income-quality foundation is weakening.
+
+HF Take — Strategist Layer
+
+This is the consumer-stress channel that makes the CPI shock macro-relevant beyond the rates market. It does not by itself force a dovish Fed response because inflation is the reason real earnings are falling.
+
+For the Fed, this is stagflationary, not cleanly easing-positive. A real-income squeeze can weaken consumption later, but until that shows up in retail control, claims or employment, the immediate policy read remains constrained by inflation. Retail sales is the next necessary test.
+
+United States — Redbook YY (w/e 9 May)
+Release Date: 12 May 2026 | Local Time: 14:55
+Importance: *
+
+Reuters Data
+
+Redbook YY: 9.6% | Prior: 7.8%
+
+Professional Market Commentary
+
+Public Redbook relays showed same-store retail sales rising 9.6% y/y in the week ending 9 May, up from 7.8% the prior week. Redbook is a high-frequency nominal same-store-sales indicator with limited public composition, so it is normally used as a consumer tracker rather than a standalone macro catalyst.
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+The Redbook print is strong in nominal terms, but the signal quality is limited. Weekly y/y readings are volatile, and the index is not deflated. In a CPI week where headline inflation is 3.8% y/y and food / gasoline pressure is material, the real-volume inference is much weaker than the nominal acceleration suggests.
+
+The useful read is cross-release: consumer transactions have not cracked, but the composition may be price-supported. This fits the broader USD pattern of nominal resilience with deteriorating real quality.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive already showed Redbook resilience as evidence that transactional spending had not collapsed, while warning that nominal strength could be distorted by price pressure. This week’s stronger Redbook print extends that pattern. It supports consumer nominal resilience but does not resolve the real-income squeeze.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance. Redbook helps reject an immediate consumer-collapse narrative, but it does not weaken the inflation constraint.
+
+The strategic implication is conditional on retail sales. If official retail control confirms strength, Redbook will look like early evidence of resilient demand. If retail control disappoints, this will look like nominal price passthrough rather than volume strength.
+
+WEDNESDAY 13 MAY 2026
+
+United States — MBA 30-Year Mortgage Rate (w/e 8 May)
+Release Date: 13 May 2026 | Local Time: 13:00
+Importance: *
+
+Reuters Data
+
+MBA 30-Yr Mortgage Rate: 6.46% | Prior: 6.45%
+
+Professional Market Commentary
+
+The MBA 30-year conforming mortgage rate rose 1bp to 6.46%, its highest level in five weeks. MBA-linked public coverage also showed total mortgage applications rising 1.7%, with purchase applications up 4% and refinance activity slightly lower, while the rate remained elevated enough to keep the housing affordability constraint in place.
+
+The tape read is low standalone but relevant as a housing-channel check. A 1bp weekly move is not a macro event, but the level above 6.4% is consistent with the existing-home-sales block: housing activity can stabilize, but the mortgage-rate channel remains restrictive.
+
+Comment — Economist Layer
+
+The signal is level, not momentum. A move from 6.45% to 6.46% does not change the weekly macro story, but a mortgage rate stuck in the mid-6s keeps the housing transmission channel active. The simultaneous pickup in applications prevents an immediate housing-demand-collapse interpretation, yet the lock-in and affordability constraint remain.
+
+This fits the week’s broader pattern: activity has not broken, but financial conditions are still tight enough to suppress rate-sensitive volume. Housing therefore remains a slow-burn growth drag rather than a fresh disinflation catalyst.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD archive already treated housing as rate-sensitive and suppressed, with affordability pressure limiting the recovery even when inventory improved. The MBA rate confirms that the mortgage-rate constraint remains in place. The housing bucket stays suppressed but stable.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance. The rate level reinforces the housing drag but does not change the Fed reaction function by itself.
+
+The strategic implication is conditional on applications and home sales. If purchase applications stay firm despite a 6.4–6.5% rate, housing is stabilizing at a low level; if applications roll over, the mortgage channel becomes a cleaner demand-destruction signal.
+
+United States — PPI / Core PPI / PPI ex Food, Energy and Trade / PPI Machine Manufacturing (Apr)
+Release Date: 13 May 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+PPI Final Demand MM: 1.4% | Prior: 0.5% | Revised: 0.7% | Reuters Poll: 0.5% | Surprise: 0.90%
+PPI Final Demand YY: 6.0% | Prior: 4.0% | Revised: 4.3% | Reuters Poll: 4.9% | Surprise: 1.10%
+PPI exFood/Energy MM: 1.0% | Prior: 0.1% | Revised: 0.2% | Reuters Poll: 0.3% | Surprise: 0.70%
+PPI exFood/Energy YY: 5.2% | Prior: 3.8% | Revised: 4.0% | Reuters Poll: 4.3% | Surprise: 0.90%
+PPI ex Food/Energy/Tr MM: 0.6% | Prior: 0.2%
+PPI ex Food/Energy/Tr YY: 4.4% | Prior: 3.6% | Revised: 3.7%
+PPI Machine Manuf'ing: 197.0 | Prior: 196.2
+
+Professional Market Commentary
+
+The official PPI release confirmed a broad wholesale inflation shock. Final demand rose 1.4% m/m in April after an upwardly revised 0.7% in March, the largest monthly gain since March 2022, and rose 6.0% y/y, the largest 12-month increase since December 2022. BLS attributed the move to both goods and services, with final demand goods up 2.0% and final demand less foods, energy and trade up 0.6% m/m and 4.4% y/y.
+
+The scout tape’s institutional read is reinforced by the official composition: this is not just an energy headline. Trade-services margins rose, energy was large, and the narrowest core measure was also hot. Market commentary therefore shifted from “CPI may be energy-distorted” to “pipeline inflation is confirming the CPI shock.”
+
+Comment — Economist Layer
+
+This is the strongest deterioration signal of the week so far because it validates CPI through the wholesale channel. The headline surprise is large, but the more important point is that prior March PPI was revised higher, so the April shock is not coming off as soft a base as first reported. The cumulative signal is therefore an inflation-level shift and a momentum acceleration.
+
+The internal hierarchy is adverse. Energy is necessary to explain the size of the move, but it is not sufficient to explain the macro significance. Goods inflation is clearly energy-led, but services are the more policy-relevant surprise. That mix points to pass-through plus margin behavior, not simply imported oil volatility.
+
+The cleanest underlying measure is also hot. PPI ex food, energy and trade services rose 0.6% m/m and 4.4% y/y, matching the largest monthly gain since October 2025 and the strongest 12-month pace since February 2023. The release therefore broadens the inflation story from consumer energy and shelter catch-up into producer margins, freight, energy inputs and wholesale distribution.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD sequence had already moved from benign disinflation toward stagflation confirmation, with CPI, PCE, GDP prices and ISM prices pointing to a policy constraint. April PPI upgrades that path because it validates the CPI impulse through producer margins and intermediate inputs. The inflation bucket is no longer just sticky; it is broadening through the pipeline.
+
+HF Take — Strategist Layer
+
+This release materially shifts the reaction-function balance. It does not force a near-term hike as a deterministic base case, but it makes the next Fed easing narrative extremely fragile and raises the value of any hawkish communication under the new Warsh chairmanship.
+
+The strategic map is now conditional on three checks. First, import prices need to show whether the energy / traded-goods impulse is still flowing through the border-price channel. Second, retail sales needs to show whether consumers are absorbing the nominal shock or beginning to retrench in real terms. Third, claims need to show whether the Fed gets any labor-market justification to look through the inflation shock.
+
+For rates and FX, the PPI block is USD-supportive through front-end policy constraint unless growth data breaks quickly. For equities, it is not immediately fatal if nominal revenue and AI capex stay resilient, but it raises discount-rate and margin-risk asymmetry. A second hot PPI print in May, especially in ex food / energy / trade, would move the inflation problem from shock absorption to domestic margin persistence.
+
+United States — LSEG / Ipsos Primary Consumer Sentiment Index (May)
+Release Date: 13 May 2026 | Local Time: 17:00
+Importance: *
+
+Reuters Data
+
+LSEG IPSOS PCSI: 49.65 | Prior: 49.95
+
+Professional Market Commentary
+
+LSEG / Ipsos PCSI is a monthly proprietary consumer-sentiment composite. Public release detail for the May 49.65 print is limited.
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+The PCSI decline is small, but the level matters. A second sub-50 reading keeps the consumer-sentiment bucket below threshold at the same time that CPI, PPI and real earnings are all pointing to household stress.
+
+The release is not strong enough to drive the week. It is a confirmation print: sentiment remains weak, but there is no fresh composition detail to isolate whether the deterioration is gas prices, employment expectations, investment confidence or household finances. The signal belongs in the consumer-stress cluster, not as a standalone market event.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD sequence already treated household sentiment as fragile, with inflation and real-income pressure weakening the quality of consumption. The May PCSI keeps that consumer-stress signal in place. It confirms the stagflationary sentiment backdrop without adding a new driver.
+
+HF Take — Strategist Layer
+
+Low standalone market relevance. The PCSI matters only because it sits behind the retail-sales and real-earnings tests.
+
+If retail sales holds up, weak sentiment will look like a soft-data overhang against still-resilient nominal spending. If retail control weakens, the PCSI becomes part of a cleaner consumer-demand deterioration package. For the Fed, it is not enough to offset the PPI shock.
+
+THURSDAY 14 MAY 2026
+
+United States — Retail Sales / Ex-Autos / Ex Gas-Autos / Control Group (Apr)
+Release Date: 14 May 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+Retail Sales MM: 0.5% | Prior: 1.7% | Revised: 1.6% | Reuters Poll: 0.5% | Surprise: 0.00%
+Retail Sales Ex-Autos MM: 0.7% | Prior: 1.9% | Reuters Poll: 0.6% | Surprise: 0.10%
+Retail Ex Gas/Autos: 0.5% | Prior: 0.6% | Revised: 0.7%
+Retail Control: 0.5% | Prior: 0.7% | Revised: 0.8% | Reuters Poll: 0.4% | Surprise: 0.10%
+
+Professional Market Commentary
+
+The Census release showed nominal consumer spending still positive but decelerating from March. Advance retail and food services sales were $757.1bn, up 0.5% m/m and 4.9% y/y, with the March monthly gain revised down to 1.6% from 1.7%. Retail trade sales also rose 0.5% m/m and 5.2% y/y; nonstore retailers were up 11.1% y/y, while food services and drinking places were up 2.7% y/y. The release is not price-adjusted.
+
+The scout tape framed the release as “forced spending versus discretionary cutback.” The headline and control group do not validate an imminent consumer collapse, but the composition is not a clean cyclical-strength signal: gasoline remains a positive nominal tailwind, online/nonstore stays firm, while several discretionary goods categories weakened. The better read is consumer spending still occurring, but increasingly price-supported and necessity-weighted.
+
+Comment — Economist Layer
+
+Retail sales stabilizes the growth side of the week, but it does not solve the quality problem. The headline is in line, the control group beats by 10bp, and March’s control group was revised up. That is important because it blocks a simple “inflation shock already broke the consumer” narrative.
+
+The internal hierarchy is still darker than the headline. The retail report is nominal, not real, and it arrives after CPI, PPI, import prices and real earnings all pointed to inflation pressure on household purchasing power. Control-group resilience therefore says spending flow remains intact; it does not say real discretionary volume is healthy. The scout composition — discretionary goods weakness versus non-discretionary / online resilience — is consistent with substitution from wants to needs.
+
+This is the consumer-side analogue of the housing pattern: stable aggregate flow, deteriorating underlying quality. The release falsifies recession-imminence, but not stagflation. The consumer is still spending, yet the spending mix is increasingly compelled by prices and necessities rather than broad discretionary confidence.
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior USD archive already described household demand as increasingly nominal rather than real, with consumption quality weakening even as spending flows stayed positive. April retail sales extends that structure rather than reversing it. The consumer bucket remains resilient enough to delay cuts, but not strong enough to offset the inflation squeeze.
+
+HF Take — Strategist Layer
+
+Retail sales keeps the Fed boxed. It is not weak enough to make the CPI/PPI/import-price stack look throughable, and it is not strong enough to turn the week into clean reflation.
+
+For rates, the immediate implication is hold/hawkish-hold persistence: the demand side has not broken. For equities, the read is bifurcated: nominal revenue support remains, but discretionary-mix deterioration and real-income squeeze raise margin and volume risk. The next verification test is whether May retail control turns negative or whether discretionary categories recover. A negative May control print would start to convert the stagflationary price shock into realized demand destruction.
+
+United States — Initial Jobless Claims / 4-Week Average / Continuing Claims (w/e 9 May / 2 May)
+Release Date: 14 May 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Initial Jobless Clm: 211k | Prior: 200k | Revised: 199k | Reuters Poll: 205k | Surprise: 6.0k
+Jobless Clm 4Wk Avg: 203.75k | Prior: 203.25k | Revised: 203.00k
+Cont Jobless Clm: 1.782M | Prior: 1.766M | Revised: 1.758M | Reuters Poll: 1.790M | Surprise: -0.008M
+
+Professional Market Commentary
+
+The DOL release showed initial claims rising to 211k from a downwardly revised 199k, while the four-week average rose only 750 to 203.75k. Continuing claims rose to 1.782M from a downwardly revised 1.758M, and the four-week continuing-claims average declined. On an unadjusted basis, initial claims were 190,571 versus 203,579 in the comparable week of 2025.
+
+The professional read is “firm but not accelerating labor stress.” The weekly claims beat is directionally softer, but the level remains low, the four-week average is stable, and continuing claims are still below poll. This preserves the low-hire / low-fire labor regime rather than shifting the tape toward labor-market breakdown.
+
+Comment — Economist Layer
+
+Claims are the key second-mandate check after CPI/PPI. The increase to 211k matters directionally, but it is not enough to change the labor state. The 4-week average at 203.75k is still low, continuing claims are below consensus, and the unadjusted comparison versus the prior year remains favorable.
+
+The important distinction is marginal momentum versus level. Momentum softened slightly because initial claims rose and the weekly print beat consensus. But the level is still consistent with a labor market that is too firm to give the Fed an easing trigger. Continuing claims are also not sending a duration-of-unemployment warning yet.
+
+This release therefore protects the hawkish-hold configuration. Inflation has deteriorated; labor has not deteriorated enough to offset it. The Fed can acknowledge labor cooling at the margin, but it cannot pivot on this claims print.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD archive had labor as a policy-constraint pillar, with low claims and firm compensation preventing a clean cutting signal. This week’s claims keep that pillar intact. The marginal rise does not yet alter the labor bucket from resilient to deteriorating.
+
+HF Take — Strategist Layer
+
+Claims are not dovish enough. They preserve the “inflation hot, labor not broken” reaction function and therefore increase the asymmetry against near-term cuts.
+
+The market trigger is now clear: the 4-week average needs to move through the 220k area and stay there before labor can compete with the inflation stack. Continuing claims above 1.85M would provide secondary confirmation. Until then, low claims allow the Fed to prioritize inflation risk, especially after CPI/PPI/import-price acceleration.
+
+United States — Import Prices / Export Prices (Apr)
+Release Date: 14 May 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+Import Prices MM: 1.9% | Prior: 0.8% | Revised: 0.9% | Reuters Poll: 1.0% | Surprise: 0.90%
+Import Prices YY: 4.2% | Prior: 2.1% | Revised: 2.3%
+Export Prices MM: 3.3% | Prior: 1.6% | Revised: 1.5% | Reuters Poll: 1.1% | Surprise: 2.20%
+
+Professional Market Commentary
+
+The BLS International Price Program release confirmed a major external-price shock. Import prices rose 1.9% m/m after a revised 0.9% March increase, and were up 4.2% y/y, the largest 12-month advance since October 2022. Fuel imports rose 16.3% m/m, the largest monthly gain since March 2022; nonfuel imports rose 0.8% m/m; and export prices rose 3.3% m/m, with both agricultural and nonagricultural exports contributing.
+
+The scout tape correctly framed this as the third inflation pipeline after CPI and PPI: consumer prices, producer prices, and now border prices all moved in the wrong direction. The official details also weaken the “all oil” explanation because nonfuel imports rose materially and imports from China rose 0.8% m/m, the largest one-month increase since July 2008. Import prices from Canada rose 5.6% m/m, the largest monthly rise since March 2022.
+
+Comment — Economist Layer
+
+This is the external confirmation of the week’s inflation deterioration. CPI showed the household price shock; PPI showed the wholesale / margin pipeline; import prices show the external supply channel. The size of the import-price surprise and the upward revision to March mean the imported inflation impulse is not rolling off yet.
+
+The internal hierarchy matters. Fuel explains the largest part of the move and is the most direct Iran/Hormuz transmission channel. But nonfuel imports at +0.8% m/m, capital goods, industrial supplies, consumer goods ex-autos, and China import prices all point to broader tradable-goods pressure. This is analytically important because CPI core goods were still near-flat in April; import-price acceleration raises the risk that core-goods disinflation fades with a lag.
+
+Export prices also matter more than usual. A +3.3% m/m export-price gain is not a consumer-demand indicator, but it signals that energy, agricultural and nonagricultural price pressure is affecting the external terms-of-trade layer. The Canada and China locality signals deserve tracking because they separate energy-heavy regional price pressure from potentially broader supply-chain repricing.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive had already moved away from a clean domestic-disinflation story, with tariff, supply-chain, energy and ISM-price pressure feeding the policy constraint. April import prices extend that pressure through the external-price channel. The inflation regime is now broader than domestic services and energy-sensitive CPI.
+
+HF Take — Strategist Layer
+
+Import prices make the Fed problem harder, not easier. A central bank can lean against demand, but it has less traction against imported fuel and supply-chain price shocks without imposing collateral damage on growth.
+
+For rates and FX, this strengthens the front-end constraint and supports USD through relative policy rigidity unless the growth side breaks. For equities, it raises input-cost and margin risk, particularly where pricing power is not strong enough to pass through imported cost pressure. The next trigger is May import prices: a move back toward +0.4% m/m or lower would support stabilization; another ≥+1.0% m/m would move the external channel toward outright escalation.
+
+United States — Business Inventories (Mar)
+Release Date: 14 May 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Business Inventories MM: 0.9% | Prior: 0.4% | Reuters Poll: 0.8% | Surprise: 0.10%
+
+Professional Market Commentary
+
+The Census Manufacturing and Trade Inventories and Sales release showed total business inventories rising 0.9% m/m to $2.7097tn in March, up 2.0% y/y. Sales rose 2.1% m/m and 7.1% y/y, while the inventory/sales ratio fell to 1.32 from 1.33 in February and 1.38 a year earlier. The table detail shows manufacturers’ inventories up 0.6%, retailers up 0.6%, and merchant wholesalers up 1.3%.
+
+The tape read is neutral-to-constructive for activity arithmetic. The inventory build is large, but the sales side is also strong enough to prevent the release from looking like involuntary accumulation.
+
+Comment — Economist Layer
+
+Business inventories are a lower-tier but useful GDP-quality check. The +0.9% inventory build is large and slightly above consensus, but the simultaneous 2.1% sales increase changes the interpretation. A build with falling sales would be recessionary; a build with firm sales is more accommodative and may reflect precautionary stockbuilding, supply-chain hedging or simply nominal sales strength.
+
+The inventory/sales ratio is the key signal. At 1.32, down from 1.33 in February and below the prior-year ratio, inventories are not outrunning sales. Wholesale leads the build, which fits the broader week’s supply-chain / import-price / PPI story, but the ratio prevents a clean involuntary-overhang call.
+
+The limitation is nominal distortion. Sales and inventories are not price-adjusted, so part of the strength can be inflation arithmetic. Still, this is not a growth-break release. It supports moderate activity with price-distorted nominal strength.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD archive already treated inventories as a near-term growth support with possible front-loading characteristics rather than clean final-demand strength. March business inventories keep that interpretation intact. The build supports activity arithmetic but does not remove the risk of later overhang if real demand weakens.
+
+HF Take — Strategist Layer
+
+Low-to-medium standalone policy relevance. The release helps the growth-resilience side and prevents the week from becoming a pure demand-collapse tape.
+
+For the Fed, the effect is indirectly hawkish because inventories and sales do not show a break in activity. But the strategic risk is temporal: if inventories are precautionary against supply disruption and final demand softens later, today’s support can become tomorrow’s drag. Watch ISM inventories/new orders and May retail control for confirmation.
+
+FRIDAY 15 MAY 2026
+
+United States — NY Fed Empire State Manufacturing Survey (May)
+Release Date: 15 May 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+NY Fed Manufacturing: 19.60 | Prior: 11.00 | Reuters Poll: 7.50 | Surprise: 12.10
+
+Professional Market Commentary
+
+The NY Fed release showed a strong regional manufacturing beat. The headline general business conditions index rose to 19.6, its highest reading since April 2022, while new orders rose to 22.7, the highest level in more than four years. Shipments stayed positive at 18.9; delivery times lengthened to 20.4, a four-year high; supply availability remained negative at -10.7; and both price indexes moved to their highest levels since 2022.
+
+The scout tape’s read is the correct one: the activity inflection is real, but it is occurring inside the stagflation regime rather than against it. Strong orders, positive shipments and improved future conditions keep the growth-resilience leg alive, while prices paid at 62.6 and prices received at 31.8 confirm acute cost pressure and pass-through.
+
+Comment — Economist Layer
+
+Empire State is a high-signal survey because it resolves the week’s main contradiction in favor of “activity resilient, inflation worse,” not “inflation worse because activity collapsed.” The headline surprise is large, new orders are at a multi-year high, and future conditions improved. This blocks a simple manufacturing-recession read.
+
+The composition is still stagflationary. Prices paid and prices received both accelerated sharply, delivery times lengthened, supply availability worsened, and inventories rose. This is not a benign demand rebound; it is a regional manufacturing expansion occurring alongside supply stress and cost pass-through. Labor inputs also do not show a clean expansion surge: employment and hours remain positive, but the scout detail flags modest softening relative to April.
+
+The analytical hierarchy is therefore: demand strong, supply constrained, prices accelerating. That is exactly the configuration that keeps the Fed boxed. Empire State is not a national hard-data release, but it provides the first regional survey confirmation that the CPI/PPI/import-price shock is visible in manufacturing micro-data.
+
+State transition: stabilization / continuation.
+
+Context from prior regional live file: The prior USD archive already treated manufacturing as mixed but increasingly constrained by prices, inventories and supply-chain pressure. Empire State extends that pattern with a stronger activity leg and a hotter price leg. The manufacturing bucket improves on growth, but deteriorates on inflation quality.
+
+HF Take — Strategist Layer
+
+Empire State is hawkish in reaction-function terms because it denies the Fed an activity-break offset. The data says manufacturing demand can rebound even as input and selling-price pressure intensifies.
+
+For rates and FX, this supports front-end policy rigidity and USD resilience unless national activity data contradicts it. For equities, the mix is ambiguous: better demand helps cyclicals, but higher prices paid, longer delivery times and worsening supply availability raise margin and operating-risk pressure. The next test is whether June Empire State keeps the headline above 10 while prices paid remain above 55; that would harden the stagflation-confirmation call.
+
+United States — Industrial Production / Capacity Utilization / Manufacturing Output (Apr)
+Release Date: 15 May 2026 | Local Time: 15:15
+Importance: ****
+
+Reuters Data
+
+Industrial Production MM: 0.7% | Prior: -0.5% | Revised: -0.3% | Reuters Poll: 0.3% | Surprise: 0.40%
+Capacity Utilization SA: 76.1% | Prior: 75.7% | Reuters Poll: 75.8% | Surprise: 0.30%
+Manuf Output MM: 0.6% | Prior: -0.1% | Revised: 0.1% | Reuters Poll: 0.2% | Surprise: 0.40%
+
+Professional Market Commentary
+
+The Fed G.17 release confirmed a hard-activity rebound. Industrial production rose 0.7% in April after a revised 0.3% March decline, manufacturing output rose 0.6%, mining edged down 0.1%, utilities rose 1.9%, and manufacturing excluding motor vehicles and parts rose 0.3%. Total IP stood 1.4% above its year-earlier level, while capacity utilization rose to 76.1%, still 3.3pp below its 1972–2025 long-run average.
+
+The tape read is activity resilience with slack. April’s beat and upward March revisions strengthen the growth side, while the capacity-utilization level prevents a pure overheating interpretation. Business equipment rose 1.5%, transit equipment rose 4.2%, and consumer goods rose 0.9%, but manufacturing excluding autos was only +0.3%, so the rebound is real but partly concentrated.
+
+Comment — Economist Layer
+
+Industrial production is the hard-data confirmation that the growth side did not break during the inflation shock week. The headline beat, manufacturing beat, capacity-utilization beat, and upward March revisions all point in the same direction: the March soft patch was less severe than first reported, and April activity rebounded more strongly than expected.
+
+The internal hierarchy is constructive but not inflation-clean. Manufacturing output rose 0.6%, but ex-autos rose 0.3%, so motor vehicles contributed meaningfully. Utilities added 1.9%, which may reflect weather and energy-demand effects rather than broad industrial momentum. Business equipment at +1.5% is the more forward-looking positive signal because it suggests capex activity has not rolled over.
+
+Capacity utilization is the constraint on the hawkish interpretation. At 76.1%, total utilization remains 3.3pp below its long-run average, and manufacturing utilization at 75.8% remains 2.4pp below its long-run average. That means the industrial sector still contains slack even as output rebounds. The signal is therefore not “overheating.” It is “activity resilient enough to prevent cuts, but not tight enough to validate aggressive hikes.”
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior USD archive had treated industrial activity as mixed, with soft patches offset by inventory support, capex pockets and price-pressure resilience. April IP shifts the activity leg firmer by revising away part of the March weakness and delivering a broad enough rebound. The growth bucket stabilizes, while the inflation bucket remains the dominant constraint.
+
+HF Take — Strategist Layer
+
+This is the release that closes the week’s Fed box. Inflation is broadening, labor is not breaking, and now hard industrial activity has rebounded. That combination makes the easing case weak.
+
+But the release also limits the hike case. Capacity utilization is still materially below long-run norms, and the manufacturing rebound has some auto and utilities concentration. The Fed’s best description is therefore “stuck”: hold/hawkish-hold, with communication risk skewed toward removing easing bias rather than pre-committing to hikes.
+
+For markets, IP is USD- and front-end-supportive through the no-cuts channel. For equities, it supports nominal activity and capex resilience, but it does not neutralize the margin pressure implied by PPI, import prices and Empire State prices paid. A May IP decline would reopen the growth-break channel; utilization above 77% would harden the slack-absorption / inflation-persistence concern.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Inflation has broadened across CPI, PPI, import prices and regional manufacturing prices, while labor, retail flow and industrial activity have not broken.
+Why it matters: The Fed’s reaction function is constrained by multi-channel inflation, but the growth data are still resilient and industrial slack persists.
+Implication: The week supports hawkish hold / possible tightening communication risk, not a clean hike regime and not an easing regime.
+
+3 KEY RELEASES TO DIG INTO
+
+Import Prices / Export Prices (14 May 2026)
+Why it matters: Completes the CPI/PPI/import-price inflation triangle. The nonfuel and China-import details make this more than an oil story and raise the risk of future core-goods pass-through.
+Industrial Production / Capacity Utilization / Manufacturing Output (15 May 2026)
+Why it matters: Hard-data activity confirmation. The rebound and upward revisions close the week by showing growth resilience, while low utilization prevents a pure overheating interpretation.
+PPI / Core PPI / PPI ex Food, Energy and Trade (13 May 2026)
+Why it matters: Wholesale validation of CPI. The release shows the inflation impulse broadening into services, trade margins, freight and intermediate inputs.
+
+<<USD_WEEK_END>>
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 27 Apr 2026 to 1 May 2026
 
