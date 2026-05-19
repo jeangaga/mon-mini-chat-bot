@@ -14,68 +14,94 @@ where the reaction function may be misread or incompletely specified
 where public market narrative or institutional pricing may differ from the note
 what missing mechanisms, caveats, or scenario branches should be checked
 what questions could materially change:
+
 the base case
 the trigger map
 the central-bank assumption
 the rates / FX asymmetry
+
 OUTPUT FORMAT (STRICT)
-1. CORE REGIME CHECK (2–3 questions)
+1. CORE REGIME CHECK
+
+2–3 questions
 
 → Is the dominant narrative correctly identified?
 
-2. WHAT CHANGED (LAST 2–4 WEEKS) (2 questions)
+2. WHAT CHANGED — LAST 2–4 WEEKS
+
+2 questions
 
 → Is the note capturing the latest narrative shift correctly?
 
-3. CENTRAL BANK / POLICY FUNCTION (2 questions)
+3. CENTRAL BANK / POLICY FUNCTION
+
+2 questions
 
 → Is the reaction function correctly interpreted?
 
-4. INFLATION VS GROWTH TRADE-OFF (2 questions)
+4. INFLATION VS GROWTH TRADE-OFF
+
+2 questions
 
 → Is the balance framed correctly?
 
-5. MARKET NARRATIVE (RATES / FX) (2 questions)
+5. MARKET NARRATIVE — RATES / FX
+
+2 questions
 
 → How is the market actually trading this?
 
-6. DISAGREEMENT / DISTRIBUTION OF VIEWS (1–2 questions)
+6. DISAGREEMENT / DISTRIBUTION OF VIEWS
+
+1–2 questions
 
 → What are institutions disagreeing on?
 
-7. OVERSTATEMENT / UNDERSTATEMENT CHECK (2 questions)
+7. OVERSTATEMENT / UNDERSTATEMENT CHECK
+
+2 questions
 
 → What might be too strong or too weak in the note?
 
-8. MISSING NUANCE / BLIND SPOTS (2 questions)
+8. MISSING NUANCE / BLIND SPOTS
+
+2 questions
 
 → What is not captured but should be?
 
 HARD RULES
-No answers — only questions
-No generic phrasing
+
+No answers — only questions.
+No generic phrasing.
+
 Each question must be:
+
 precise
 testable via sources
 linked to a specific claim or inference in the macro note
+
 Focus on:
+
 reaction function
 narrative shift
 pricing vs macro
 transmission channels
 scenario falsifiers
+
 Prioritize questions that could change the:
+
 base case
 trigger map
 policy path
 rates / FX interpretation
+
 QUESTION DESIGN RULES
 
 The questions should challenge the interpretation, not the raw data alone.
 
 Prefer questions tied to specific release blocks or policy events, especially:
 
-latest central-bank meeting / SEP / press conference
+latest central-bank meeting / projections / press conference
 inflation pipeline releases
 payrolls / JOLTS / claims / labor-quality indicators
 services / manufacturing PMIs
@@ -97,17 +123,17 @@ Run the scout / public tape using these questions
 Return with the scout tape
 Amend the macro note directly into a cleaner final version
 Add a section titled: Debate / Public Tape Tension
-The revised note must read as a final integrated PM note, not as an audited comparison document
+The revised note must read as a final integrated PM note, not as an audited comparison document.
 
-
---------IMPORTANT INTEGRATION RULE FOR THE NEXT STEP
+IMPORTANT INTEGRATION RULE FOR THE NEXT STEP
 
 When the scout tape is later incorporated into the macro note:
 
-Do not write in audit language
-Do not describe the revision process
-Do not compare the new note to the earlier note explicitly
+Do not write in audit language.
+Do not describe the revision process.
+Do not compare the new note to the earlier note explicitly.
 Do not use sentences such as:
+
 “the tape contradicts the earlier macro note”
 “the previous draft overstated”
 “the earlier version underweighted”
@@ -122,7 +148,52 @@ preserve PM-style tone: dense, direct, integrated, non-meta
 
 The final revised note should sound like the analyst got it right in one pass.
 
-------- Debate / Public Tape Tension — Section Rule
+POST-SCOUT FINALIZATION RULE — TRIGGER MAP
+
+After incorporating the public-tape scout, the Trigger Map must be rewritten into a shorter, higher-signal PM tool.
+
+The Trigger Map should not become a long checklist.
+It should not duplicate the Debate / Public Tape Tension section.
+It should not list every possible datapoint.
+
+Its purpose is to isolate the few scenario gates that would actually force a reweighting of:
+
+base case
+central-bank path
+rates / FX asymmetry
+political / policy risk premium
+
+Trigger Map format
+
+Use 3–4 buckets maximum.
+
+Each bucket should be a compact scenario gate, not a release laundry list.
+
+Each bucket should include:
+
+the trigger condition
+the macro interpretation
+the market / policy implication
+
+Preferred format:
+
+Reopen easing debate / dovish reweighting
+Hold-longer / credibility constraint hardens
+Sovereign, fiscal, geopolitical or policy-risk premium widens
+Constructive stabilization / carry-quality repair
+
+Adapt the bucket names to the region if needed.
+
+Each bucket should be short: 2–4 dense lines maximum.
+
+Avoid excessive sub-bullets.
+Avoid repeating every release already discussed elsewhere.
+Keep only triggers that would materially change the note.
+
+The Trigger Map should be less detailed than Debate / Public Tape Tension.
+The Debate section is where the nuanced public-tape synthesis belongs.
+
+DEBATE / PUBLIC TAPE TENSION — SECTION RULE
 
 Insert a section titled:
 
@@ -133,32 +204,97 @@ Placement:
 immediately after Trigger Map
 immediately before Bottom Line
 
-Objective:
+Objective
 
-integrate the most decision-relevant public-tape nuance into the final macro note
-show where public market narrative broadly confirms the note
-show where the tape is more conditional / softer / more two-sided
-show what remains unresolved and could still change the base case
+Integrate the most decision-relevant public-tape nuance into the final macro note.
 
-Format:
+This section should synthesize the scout Q&A and public-tape findings, especially:
 
-exactly 3 dense paragraphs
-no bullets
-no source meta-language
-no mention of draft revision process
-no comparison to earlier versions of the note
+where public market narrative broadly confirms the note
+where the tape is more conditional / softer / more two-sided
+where institutions disagree
+where the note’s initial framing needs to be naturally softened or strengthened
+what market pricing is actually emphasizing
+what remains unresolved and could still change the base case
+which near-term catalysts are true scenario breakers
 
-Content:
+Density requirement
 
-paragraph 1: broad public-tape confirmation
-paragraph 2: key tension between note framing and public narrative
-paragraph 3: unresolved issues / near-term scenario breakers
+This section must be materially denser than a simple narrative overlay.
 
-Hard rules:
+It should preserve the most useful content from the validation Q&A and scout answers, especially:
 
-do not write in audit language
-do not say “the earlier note overstated / understated”
-do not mention scout / Claude / validation process
-do not turn this into a second executive summary
-keep only the most decision-relevant debate points
- 
+dominant public narrative
+minority / alternative narrative
+reaction-function dispute
+rates / FX pricing interpretation
+distribution of institutional views
+overstatement / understatement checks
+missing mechanisms or blind spots
+near-term catalysts that would change policy, rates or FX pricing
+
+Do not reduce the section to a generic “market agrees but risks remain” summary.
+
+Format
+
+Exactly 3 dense paragraphs.
+No bullets.
+No source meta-language.
+No mention of draft revision process.
+No comparison to earlier versions of the note.
+
+The 3 paragraphs should follow this structure:
+
+Paragraph 1 — Broad public-tape confirmation
+
+State what the public market narrative broadly confirms.
+
+Include the dominant institutional / market consensus and its rates / FX implication.
+
+This paragraph should answer:
+
+Is the dominant narrative correct?
+What is the market actually pricing?
+How does this affect the central-bank path and rates / FX asymmetry?
+
+Paragraph 2 — Key tension / distribution of views
+
+State where the public tape is more nuanced, softer, stronger or more two-sided than the note’s initial framing.
+
+Include institutional disagreement and the most important overstatement / understatement issues.
+
+This paragraph should answer:
+
+What is the real debate?
+Where could the note be too strong or too weak?
+What alternative scenario is credible but not yet dominant?
+
+Paragraph 3 — Unresolved issues / scenario breakers
+
+State the near-term catalysts that could change the base case.
+
+Focus only on decision-relevant catalysts.
+
+This paragraph should answer:
+
+What breaks the current regime?
+What changes the policy path?
+What changes rates / FX pricing?
+What would force a scenario reweighting?
+
+Hard rules
+
+Do not write in audit language.
+Do not say “the earlier note overstated / understated.”
+Do not mention scout / Claude / validation process.
+Do not turn this into a second executive summary.
+Do not dilute the section into generic caveats.
+Do not use bullets.
+
+The Debate / Public Tape Tension section should be the richest public-narrative section of the final note.
+
+END OF FILE------------
+
+It should be denser and more useful than the Trigger Map.
+
+The final note should preserve PM-style tone: dense, direct, integrated, non-meta.
