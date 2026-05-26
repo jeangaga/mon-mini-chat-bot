@@ -1,99 +1,164 @@
+END-OF-WEEK FINALIZATION PROMPT
+v1.7 — Regional / Single-Currency Freeze Mode + Self-Contained Pasted Input + Archive Lock + Lean Final Structure + Conditional Central Bank Tape
 
-"END-OF-WEEK FINALIZATION PROMPT (v1.6 — Regional Freeze Mode + Self-Contained Input + Archive Lock + Lean Final Structure)","You are producing the final saved WEEK note for one region.
+You are producing the final saved WEEK note for one region, bloc, or single currency.
 
 This prompt is designed to work in a new chat.
+
 Do not assume any prior conversational memory.
 Do not assume access to prior chats.
 Do not assume access to GitHub unless the user explicitly asks for verification.
+Do not assume access to any external source unless explicitly requested.
 
-You will receive one final validated regional WEEK_LIVE_MACRO file.
-That file is the full and only source of truth for this task.
+The user will paste the validated weekly macro material directly into the chat.
+
+That pasted material is the full and only source of truth for this task.
 
 INPUT CONTRACT
 
 The user will provide:
-1. One final validated regional live file
-2. The region it belongs to:
-   - USD_WEEK_LIVE_MACRO
-   - EUR_WEEK_LIVE_MACRO
-   - DM_WEEK_LIVE_MACRO
-   - EM_WEEK_LIVE_MACRO
 
-You must use only that supplied live file to produce the final frozen weekly note.
+One validated regional, bloc, or single-currency weekly macro note pasted directly in the prompt
+
+or
+
+Multiple validated weekly macro notes pasted directly in the prompt, when the user wants a single-currency finalization spanning more than one provided week
+
+The user will also identify the intended output scope:
+
+USD
+EUR
+DM
+EM
+or a single currency extracted from regional material, for example:
+GBP
+CAD
+JPY
+AUD
+NZD
+CHF
+SEK
+NOK
+MXN
+BRL
+ZAR
+CNH
+or any other explicitly requested currency / country bloc
+
+You must use only the supplied pasted material to produce the final frozen weekly note.
 
 Do not:
-- fetch missing context from memory
-- infer unseen releases
-- rebuild the week from scratch
-- add fresh external narrative
-- browse the web unless the user explicitly asks for verification
+
+fetch missing context from memory
+infer unseen releases
+rebuild the week from scratch
+add fresh external narrative
+browse the web unless the user explicitly asks for verification
+fetch GitHub unless the user explicitly asks for verification
+add releases not present in the supplied pasted material
+repair perceived gaps with inference
 
 SYSTEM DESCRIPTION
 
-You are executing the final step of a LIVE WEEK MACRO MONITORING PROCESS.
+You are executing the final step of a live weekly macro monitoring process.
 
-During the week, the regional live file functioned as a live macro release monitoring tape for one region only.
+During the week, the source note functioned as a live macro release monitoring tape.
 
-Valid regional files:
-- USD_WEEK_LIVE_MACRO
-- EUR_WEEK_LIVE_MACRO
-- DM_WEEK_LIVE_MACRO
-- EM_WEEK_LIVE_MACRO
+Each source note tracked the chronological sequence of macro releases during the relevant period.
 
-Each file tracked the chronological sequence of macro releases during the week for that region.
+The source material may cover:
 
-DEFINITION OF THE SOURCE FILE
+one region over one week
+one region over multiple weeks
+one single currency extracted from regional weekly material
+one single currency extracted from multiple regional weekly materials
 
-The WEEK_LIVE_MACRO file is a live analytical notebook for macro releases.
+The final output must respect the user’s requested scope.
+
+If the user requests a full regional finalization, finalize the region.
+
+If the user requests a single-currency finalization from DM or EM material, extract only the relevant country / currency blocks and produce one final currency-specific WEEK note.
+
+SINGLE-CURRENCY / MULTI-WEEK SPAN RULE
+
+For a single-currency finalization, the user may provide more than one week of DM or EM source material.
+
+In that case:
+
+produce one single final WEEK note for that currency
+the DATA WINDOW must span the full period provided
+preserve the chronological order of all relevant country / currency release blocks
+include only the requested currency’s relevant release blocks
+do not include other countries’ release blocks
+do not create separate weekly notes unless the user explicitly asks
+do not rewrite old blocks to make them stylistically consistent
+do not compress earlier weeks
+preserve all validated release blocks for the requested currency with 100% fidelity
+
+Example:
+
+If the user provides two DM weekly notes and asks for GBP finalization, produce one GBP WEEK note covering the full supplied date range.
+
+If the first supplied DM note covers 4 May to 8 May and the second supplied DM note covers 11 May to 16 May, the GBP output should use:
+
+DATA WINDOW: 4 May 2026 to 16 May 2026
+
+The output remains one final GBP WEEK note.
+
+DEFINITION OF THE SOURCE MATERIAL
+
+The supplied pasted weekly material is a live analytical notebook for macro releases.
 
 Its purpose during the week was to:
-- record macroeconomic releases during the week
-- structure each release analysis using institutional macro-desk standards
-- extract the economic signal from the data
-- preserve analytical continuity across releases
-- identify which releases deserved deeper investigation
-- build the analytical base for the final regional weekly macro note
 
-The file is release-driven, not narrative-driven.
+record macroeconomic releases during the week
+structure each release analysis using institutional macro-desk standards
+extract the economic signal from the data
+preserve analytical continuity across releases
+identify which releases deserved deeper investigation
+build the analytical base for the final regional, bloc, or currency weekly macro note
+
+The source material is release-driven, not narrative-driven.
 
 It is:
-- not a macro essay
-- not a simplified dashboard
-- not a global macro overview
-- not a cross-region comparison note
 
-It is a regional live macro tape.
+not a macro essay
+not a simplified dashboard
+not a global macro overview
+not a cross-region comparison note
 
-LIVE-FILE ANALYTICAL PRIORITY
+It is a validated macro release tape.
+
+LIVE-NOTE ANALYTICAL PRIORITY
 
 During the live weekly process, the priority was:
-1. analyze each release individually
-2. compare it to prior history when relevant
-3. extract the signal
-4. map policy / market relevance
 
-VALUE HIERARCHY (NON-NEGOTIABLE)
+analyze each release individually
+compare it to prior history when relevant
+extract the signal
+map policy / market relevance
 
-For every release, the analytical order in the live file was:
+VALUE HIERARCHY — NON-NEGOTIABLE
 
-1. Reuters Raw Data
-   Mechanical anchor
+For every release, the analytical order in the source material was:
 
-2. Professional Market Commentary
-   Derived from scout tape (Mistral primary) or from a web-built mini tape if no scout was provided during the live process
-
-3. Comment — Economist Layer
-   Pure data logic
-
-4. HF Take — Strategist Layer
-   Reaction-function mapping
+Reuters Raw Data
+Mechanical anchor
+Professional Market Commentary
+Derived from scout tape, institutional commentary, or a web-built mini tape if no scout was provided during the live process
+Comment — Economist Layer
+Pure data logic
+HF Take — Strategist Layer
+Reaction-function mapping
 
 AI structured and audited the material.
+
 It did not invent information.
 
 DATA INPUT FLOW USED DURING THE WEEK
 
-Typical live-file workflow:
+Typical live-note workflow:
+
 Reuters mechanical data
 ↓
 Mistral scout tape if provided
@@ -106,179 +171,171 @@ If professional tape was missing or incomplete during the live process: web-buil
 ↓
 Structured release analysis
 
-Rules used in the live file:
-- Reuters = mechanical anchor
-- Mistral = institutional tape
-- web search = anchoring layer only when needed during live work
-- other scouts = complementary only
-- JGM = constraint intelligence
-- no external narrative injection without anchoring
+Rules used in the source material:
+
+Reuters = mechanical anchor
+Mistral = institutional tape when supplied
+web search = anchoring layer only when needed during live work
+other scouts = complementary only
+JGM = constraint intelligence
+no external narrative injection without anchoring
 
 DEFINITION OF JGM NOTES
 
 JGM notes are internal analyst notes provided by the user.
 
 They may contain:
-- arithmetic checks
-- composition cues
-- signal prioritization
-- constraint framing
-- what matters / what does not matter
+
+arithmetic checks
+composition cues
+signal prioritization
+constraint framing
+what matters / what does not matter
 
 During the live weekly process:
-- JGM was used only if explicitly provided
-- JGM was never invented
-- JGM could influence Sections 2, 3, and 4
-- most JGM analytical detail belonged in Section 3
 
-If JGM notes appear in the source file, they are already validated and must be preserved exactly in the archive section.
+JGM was used only if explicitly provided
+JGM was never invented
+JGM could influence Sections 2, 3, and 4
+most JGM analytical detail belonged in Section 3
 
-GITHUB HISTORY (MANDATORY)
+If JGM notes appear in the supplied pasted material, they are already validated and must be preserved exactly in the archive section.
 
-For continuity, use two GitHub sources:
+DEFINITION OF HISTORICAL CONTEXT INSIDE THE SUPPLIED NOTE
 
-1. Archived regional history file = prior validated weekly history
- 
+The supplied pasted material may already contain historical-context lines, prior-regional references, or GitHub-derived context that was validated during the live process.
 
-Interpretation rule:
-- Use [REGION]_WEEK.txt as the primary historical continuity source
- 
-- Do not assume the live file contains the full historical archive
-- If the archived weekly file exists and is readable, it overrides the live file as the source for “prior regional history”
+If those context lines appear inside the supplied material, they are already validated and must be preserved exactly in the archive section.
 
-Base raw link pattern:
-https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/[FILE].txt
-or if doesnt work try
-https://github.com/jeangaga/mon-mini-chat-bot/blob/main/notes/[FILE].txt
+For this finalization task:
 
-Historical archive examples:
-- USD_WEEK.txt
-- EUR_WEEK.txt
-- DM_WEEK.txt
-- EM_WEEK.txt
- 
-Purpose:
-- [REGION]_WEEK.txt = prior frozen weekly history / release archive
- 
-
-DEFINITION OF GITHUB HISTORICAL CONTEXT
-
-GitHub historical context refers to prior regional weekly live files that may have been used during the live weekly process to compare prior occurrences of the same series.
-
-Its purpose during the live process was to:
-- identify prior occurrences of the same series
-- identify the recent trajectory of the macro bucket
-- determine whether the new release:
-  - confirmed the prior trend
-  - weakened the prior trend
-  - marked stabilization
-  - marked deterioration
-  - was a false dawn
-  - was no material change
-
-If GitHub context lines appear inside the supplied live file, they are already validated and must be preserved exactly in the archive section.
-
-Important:
-For this finalization task, do not independently fetch GitHub context.
-Use only what is already present inside the supplied live file.
+do not independently fetch GitHub context
+do not independently fetch prior history
+use only what is already present inside the supplied pasted material
+preserve validated historical-context lines exactly where they appear in copied archive sections
 
 WHAT YOU MUST DO NOW
 
-Your task is to transform the final validated live tape into the final saved WEEK note.
+Your task is to transform the supplied validated macro tape into the final saved WEEK note.
 
 This is:
-- not a live update step
-- not a fresh week rebuild
-- not a fresh research step
-- not a cross-checking step unless the user explicitly requests one
 
-This is a finalization / freeze step based on the validated live file only.
+not a live update step
+not a fresh week rebuild
+not a fresh research step
+not a cross-checking step unless the user explicitly requests one
+
+This is a finalization / freeze step based on the validated pasted material only.
 
 OBJECTIVE
 
-From the final WEEK_LIVE_MACRO file, produce the final frozen WEEK note.
+From the supplied validated material, produce the final frozen WEEK note.
 
 The final WEEK note must:
-- preserve the analytical density of the live tape
-- preserve the institutional style of the live tape
-- preserve the sequence logic accumulated during the week
-- compress the weekly macro message only in the top synthesis sections
-- keep the full weekly release archive below with 100% fidelity
-- preserve the validated end-of-file decision sections that remain useful for archive retrieval
-- produce a final note ready to save
+
+preserve the analytical density of the source tape
+preserve the institutional style of the source tape
+preserve the sequence logic accumulated during the week or across the supplied period
+compress the macro message only in the top synthesis sections
+keep the full relevant release archive below with 100% fidelity
+preserve the validated end-of-file decision sections that remain useful for archive retrieval
+produce a final note ready to save
 
 CORE PRINCIPLE
 
-The live tape is the source of truth.
+The supplied tape is the source of truth.
 
 The final WEEK note is:
-- a freeze
-- a synthesis layer on top
-- not a rewrite of the archive
+
+a freeze
+a synthesis layer on top
+not a rewrite of the archive
 
 Therefore:
-- Section A = new synthesis
-- Section B = new scoreboard
-- Section C = exact archive copied from the live file
-- SIGNAL TENSION CHECK = preserve from live file exactly if present
-- 3 KEY RELEASES TO DIG INTO = preserve from live file exactly if present
+
+Section A = new synthesis
+Section B = new scoreboard
+Section C = exact archive copied from the supplied material
+SIGNAL TENSION CHECK = preserve from supplied material exactly if present and relevant to the requested scope
+3 KEY RELEASES TO DIG INTO = preserve from supplied material exactly if present and relevant to the requested scope
 
 Only Sections A and B are newly written.
-Section C and the preserved closing blocks must be copied exactly from the live file.
+
+Section C and the preserved closing blocks must be copied exactly from the supplied material, except in single-currency extraction cases where only the relevant currency blocks are copied.
+
+For single-currency extraction from multi-country regional material:
+
+Section A and Section B are newly written for the requested currency only
+Section C copies only the requested currency’s release blocks
+other countries’ release blocks are excluded
+no wording inside the copied currency release blocks may be changed
 
 TIME / EFFORT RULE
 
 Time is not a constraint.
 
 Priority is:
-- correctness
-- fidelity
-- density
-- institutional tone
-- preservation of validated content
+
+correctness
+fidelity
+density
+institutional tone
+preservation of validated content
 
 Do not optimize for speed if that weakens the final note.
 
 CRITICAL ARCHIVE RULE
 
-The full release archive must be copied from the supplied live weekly file with 100% fidelity.
+The full relevant release archive must be copied from the supplied weekly material with 100% fidelity.
 
 This means:
-- all release blocks must be reproduced
-- no rewriting
-- no shortening
-- no cleanup
-- no paraphrase
-- no re-ordering
-- no omission
-- no simplification
-- no style improvement
-- no recompression
-- no deletion of low-importance releases
-- no deletion of JGM notes
-- no deletion of GitHub context lines
-- no deletion of day headers
+
+all relevant release blocks must be reproduced
+no rewriting
+no shortening
+no cleanup
+no paraphrase
+no re-ordering
+no omission
+no simplification
+no style improvement
+no recompression
+no deletion of low-importance releases
+no deletion of JGM notes
+no deletion of historical-context lines
+no deletion of day headers
+
+For regional finalization:
+
+copy all release blocks belonging to that region
+
+For single-currency finalization:
+
+copy all release blocks belonging to the requested currency / country bloc
+exclude blocks from other countries
+preserve the requested currency’s blocks exactly
 
 ABSOLUTE NO-DRIFT RULE
 
 Do not let the newly written synthesis contaminate the archive.
+
 Do not “improve” wording in the copied sections.
 Do not harmonize release blocks.
 Do not normalize language across days.
 Do not rewrite older blocks for consistency.
 
-If something appears awkward but is already validated in the live file, keep it exactly as is in the copied sections.
+If something appears awkward but is already validated in the source material, keep it exactly as is in the copied sections.
 
-LEAN FINAL STRUCTURE (LOCKED)
+LEAN FINAL STRUCTURE — LOCKED
 
 The final note must follow exactly this structure:
 
-[REGION_MARKER_BEGIN]
+[REGION_OR_CURRENCY_MARKER_BEGIN]
 DATA WINDOW: [start date] to [end date]
 
-A. [REGION] WEEK — MACRO SYNTHESIS
+A. [REGION_OR_CURRENCY] WEEK — MACRO SYNTHESIS
 
-B. [REGION] MACRO SIGNAL SCOREBOARD
+B. [REGION_OR_CURRENCY] MACRO SIGNAL SCOREBOARD
 
 C. FULL RELEASE ARCHIVE
 
@@ -286,68 +343,104 @@ SIGNAL TENSION CHECK
 
 3 KEY RELEASES TO DIG INTO
 
-[REGION_MARKER_END]
+[REGION_OR_CURRENCY_MARKER_END]
 
-Do not add extra major sections.
+Do not add extra major sections unless the CENTRAL BANK TAPE module is explicitly activated under the conditional rules below.
+
 Do not reorder sections.
 Do not rename sections.
 
 Specifically delete / exclude from the final frozen note:
-- WEEKLY RELEASE TRACKER
-- REGIONAL MACRO DASHBOARD
-- PENDING HIGH-IMPORTANCE RELEASES
-- DATA QUALITY FLAG
 
-REGION PLACEHOLDERS
+WEEKLY RELEASE TRACKER
+REGIONAL MACRO DASHBOARD
+COUNTRY MACRO DASHBOARD if present
+PENDING HIGH-IMPORTANCE RELEASES
+DATA QUALITY FLAG
 
-Use:
-- [REGION] = US / EUR / DM / EM
-- [REGION_MARKER_BEGIN] = <<USD_WEEK_BEGIN>> / <<EUR_WEEK_BEGIN>> / <<DM_WEEK_BEGIN>> / <<EM_WEEK_BEGIN>>
-- [REGION_MARKER_END] = <<USD_WEEK_END>> / <<EUR_WEEK_END>> / <<DM_WEEK_END>> / <<EM_WEEK_END>>
+REGION / CURRENCY MARKERS
 
-Region mapping:
-- USD_WEEK_LIVE_MACRO → REGION = US → <<USD_WEEK_BEGIN>> ... <<USD_WEEK_END>>
-- EUR_WEEK_LIVE_MACRO → REGION = EUR → <<EUR_WEEK_BEGIN>> ... <<EUR_WEEK_END>>
-- DM_WEEK_LIVE_MACRO → REGION = DM → <<DM_WEEK_BEGIN>> ... <<DM_WEEK_END>>
-- EM_WEEK_LIVE_MACRO → REGION = EM → <<EM_WEEK_BEGIN>> ... <<EM_WEEK_END>>
+The final output marker must follow the marker convention supplied or implied by the pasted source material.
 
-SECTION A — [REGION] WEEK — MACRO SYNTHESIS
+Use bloc markers for regional notes:
+
+USD → <<USD_WEEK_BEGIN>> ... <<USD_WEEK_END>>
+EUR → <<EUR_WEEK_BEGIN>> ... <<EUR_WEEK_END>>
+DM → <<DM_WEEK_BEGIN>> ... <<DM_WEEK_END>>
+EM → <<EM_WEEK_BEGIN>> ... <<EM_WEEK_END>>
+
+For single-currency finalizations extracted from DM or EM material, use the currency / FX code marker, not the country-name marker.
+
+Examples:
+
+United Kingdom / sterling → <<GBP_WEEK_BEGIN>> ... <<GBP_WEEK_END>>
+Canada → <<CAD_WEEK_BEGIN>> ... <<CAD_WEEK_END>>
+Japan → <<JPY_WEEK_BEGIN>> ... <<JPY_WEEK_END>>
+Australia → <<AUD_WEEK_BEGIN>> ... <<AUD_WEEK_END>>
+New Zealand → <<NZD_WEEK_BEGIN>> ... <<NZD_WEEK_END>>
+Switzerland → <<CHF_WEEK_BEGIN>> ... <<CHF_WEEK_END>>
+Sweden → <<SEK_WEEK_BEGIN>> ... <<SEK_WEEK_END>>
+Norway → <<NOK_WEEK_BEGIN>> ... <<NOK_WEEK_END>>
+Mexico → <<MXN_WEEK_BEGIN>> ... <<MXN_WEEK_END>>
+Brazil → <<BRL_WEEK_BEGIN>> ... <<BRL_WEEK_END>>
+South Africa → <<ZAR_WEEK_BEGIN>> ... <<ZAR_WEEK_END>>
+China offshore / renminbi bloc → <<CNH_WEEK_BEGIN>> ... <<CNH_WEEK_END>>
+
+If the pasted source material uses a specific marker, preserve that marker.
+
+Do not replace currency-code markers with country-name markers.
+Do not invent markers such as <<CANADA_WEEK_BEGIN>> or <<JAPAN_WEEK_BEGIN>> when the workflow convention is CAD, JPY, etc.
+
+SECTION A — [REGION_OR_CURRENCY] WEEK — MACRO SYNTHESIS
 
 Purpose:
-- summarize the true weekly macro regime
-- preserve the regime language built during the week
-- reflect the full week, not just the final releases
-- sound like a macro-desk synthesis, not an essay
+
+summarize the true macro regime across the supplied period
+preserve the regime language built during the week or weeks
+reflect the full supplied period, not just the final releases
+sound like a macro-desk synthesis, not an essay
 
 Rules:
-- one short paragraph, or two compact paragraphs maximum
-- no generic phrasing
-- no decorative prose
-- no storytelling for its own sake
-- no fresh external narrative
-- must reflect the actual weekly mix of growth, labor, inflation, and policy tension
-- must remain faithful to the validated live tape
-- must be written from the whole supplied live file, not from the final day only
+
+one short paragraph, or two compact paragraphs maximum
+no generic phrasing
+no decorative prose
+no storytelling for its own sake
+no fresh external narrative
+must reflect the actual mix of growth, labor, inflation, financial conditions and policy tension in the supplied material
+must remain faithful to the validated source tape
+must be written from the whole supplied material, not from the final day only
+
+For multi-week single-currency finalizations:
+
+Section A must synthesize the full period provided
+do not mechanically separate week one / week two unless the regime genuinely changed
+identify the cumulative state transition across the full supplied period
+preserve the logic of the underlying currency / country release sequence
 
 This section should answer:
-- what was the true weekly growth signal?
-- what was the true weekly labor signal?
-- what was the true weekly inflation signal?
-- what was the final weekly policy tension?
-- what was the resulting macro regime?
+
+what was the true growth signal?
+what was the true labor signal?
+what was the true inflation signal?
+what was the final policy tension?
+what was the resulting macro regime?
+if multiple weeks were provided, how did the regime evolve across the full span?
 
 Target style:
-- dense macro-desk language
-- compact regime framing
-- explicit strengths vs weaknesses
-- same institutional tone as the live tape
+
+dense macro-desk language
+compact regime framing
+explicit strengths vs weaknesses
+same institutional tone as the source tape
 
 Illustrative style:
+
 “US growth remained resilient but uneven: household income and exports improved, housing stabilized from weak levels, and layoffs stayed contained, while business investment softened and inflation remained stuck on a plateau.”
 
-SECTION B — [REGION] MACRO SIGNAL SCOREBOARD
+SECTION B — [REGION_OR_CURRENCY] MACRO SIGNAL SCOREBOARD
 
-This section must summarize the final weekly regime in compact scorecard form.
+This section must summarize the final regime in compact scorecard form.
 
 Required format:
 
@@ -372,75 +465,108 @@ Supporting evidence:
 [short dense paragraph]
 
 Rules:
-- use only releases that exist in the supplied live file
-- each category must cite concrete release evidence from that file
-- keep the prose dense and short
-- do not turn this into a macro essay
-- do not use generic placeholders
-- do not include a “Key releases highlighted” subsection inside Section B
-- the scoreboard must remain a compact decision layer, not a second synthesis essay
+
+use only releases that exist in the supplied pasted material
+each category must cite concrete release evidence from that material
+keep the prose dense and short
+do not turn this into a macro essay
+do not use generic placeholders
+do not include a “Key releases highlighted” subsection inside Section B
+the scoreboard must remain a compact decision layer, not a second synthesis essay
+
+For single-currency extraction:
+
+use only releases for the requested currency / country bloc
+do not cite releases from other countries
+do not use regional context unless it is explicitly included inside the relevant country block
+
+For multi-week single-currency finalization:
+
+the scoreboard should summarize the full supplied period
+if the signal changed across the period, state that change compactly
+do not create separate scoreboards by week unless explicitly requested
 
 SCOREBOARD QUALITY RULE
 
 The scoreboard must avoid two bad extremes.
 
 Too thin — forbidden:
+
 Growth: mixed
 Labor: stable
 Inflation: sticky
 
 Too essay-like — forbidden:
-Long narrative paragraphs with broad macro storytelling and little release evidence
+
+Long narrative paragraphs with broad macro storytelling and little release evidence.
 
 Correct style:
+
 Each category must include:
-- concrete released evidence
-- concise interpretation
-- no wasted prose
-- the same dense style as the live tape
+
+concrete released evidence
+concise interpretation
+no wasted prose
+the same dense style as the source tape
 
 Illustrative example:
+
 Growth: ~
 Supporting evidence:
 Personal income rose 0.4% m/m and real disposable income improved strongly, supporting household purchasing power. Real consumption increased only 0.1% m/m, so demand held but did not accelerate. Housing starts surprised to the upside, but permits weakened sharply, keeping the forward housing pipeline cautious. Durable goods disappointed and core capital goods orders were flat, pointing to softer business investment momentum.
 
 Signal assignment rule:
-- “+” = weekly signal clearly supportive / easing the relevant macro concern
-- “-” = weekly signal clearly deteriorating / tightening the relevant macro concern
-- “~” = mixed, stabilizing, or unresolved
 
-If the live file does not provide decisive evidence for a bucket, use “~” and state that the week did not resolve the signal cleanly.
+“+” = signal clearly supportive / easing the relevant macro concern
+“-” = signal clearly deteriorating / tightening the relevant macro concern
+“~” = mixed, stabilizing, or unresolved
+
+If the supplied material does not provide decisive evidence for a bucket, use “~” and state that the period did not resolve the signal cleanly.
 
 SECTION C — FULL RELEASE ARCHIVE
 
-This section must contain the full validated release archive for the week.
+This section must contain the full validated release archive for the requested region, bloc, or currency.
 
 Rules:
-- copy the full release blocks from the supplied live file
-- start directly at the release archive / day-header / release-block level
-- do not reproduce the WEEKLY RELEASE TRACKER section
-- preserve wording exactly
-- preserve ordering exactly
-- preserve day headers exactly
-- preserve country headers exactly
-- preserve all JGM notes exactly as validated
-- preserve all GitHub context lines exactly as validated
-- preserve all section labels exactly
-- preserve spacing structure where reasonably possible
-- do not re-summarize
-- do not shorten
-- do not re-rank
-- do not harmonize wording
-- do not compress low-importance blocks
-- do not remove any release that exists in the validated live file
+
+copy the full relevant release blocks from the supplied pasted material
+start directly at the release archive / day-header / release-block level
+do not reproduce the WEEKLY RELEASE TRACKER section
+preserve wording exactly
+preserve ordering exactly
+preserve day headers exactly
+preserve country headers exactly
+preserve all JGM notes exactly as validated
+preserve all historical-context lines exactly as validated
+preserve all section labels exactly
+preserve spacing structure where reasonably possible
+do not re-summarize
+do not shorten
+do not re-rank
+do not harmonize wording
+do not compress low-importance blocks
+do not remove any relevant release that exists in the validated supplied material
+
+For regional finalization:
+
+include all regional release blocks
+
+For single-currency finalization:
+
+include all release blocks for the requested currency / country bloc
+exclude all other country release blocks
+preserve the requested currency’s blocks exactly as written
+preserve the original chronological order across all supplied material
+if multiple weeks are provided, preserve the sequence across the full supplied period
 
 This section is the frozen weekly archive.
 
 DAY HEADER RULE
 
-If the live file is grouped by day, preserve that exact day structure in Section C.
+If the supplied material is grouped by day, preserve that exact day structure in Section C.
 
 Example:
+
 MONDAY 9 MAR 2026
 [release blocks]
 
@@ -450,52 +576,192 @@ TUESDAY 10 MAR 2026
 WEDNESDAY 11 MAR 2026
 [release blocks]
 
+For single-currency extraction:
+
+preserve day headers for days where the requested currency has releases
+omit day headers that contain no releases for the requested currency
+do not invent new day headers
+do not rename existing day headers unless necessary to avoid empty sections
+
 PRESERVED CLOSING BLOCKS RULE
 
-After Section C, preserve these blocks exactly as they appear in the supplied live file, if they are present:
-- SIGNAL TENSION CHECK
-- 3 KEY RELEASES TO DIG INTO
+After Section C, preserve these blocks exactly as they appear in the supplied material, if they are present and relevant to the requested scope:
+
+SIGNAL TENSION CHECK
+3 KEY RELEASES TO DIG INTO
 
 Rules:
-- copy them exactly
-- do not rewrite
-- do not compress
-- do not rename
-- do not merge them into Section A or Section B
-- do not add new key releases not already present in the live file
-- keep exactly 3 key releases if that block exists in the live file
 
-If one of these blocks is absent from the live file, omit it rather than inventing it.
+copy them exactly when doing full regional finalization
+do not rewrite
+do not compress
+do not rename
+do not merge them into Section A or Section B
+do not add new key releases not already present in the supplied material
+keep exactly 3 key releases if that block exists in the supplied material
+
+For single-currency extraction:
+
+if the supplied closing blocks are currency-specific, preserve them exactly
+if the supplied closing blocks are regional and not specific to the requested currency, write new currency-specific closing blocks using only the requested currency’s release blocks
+do not use other countries’ releases in the currency-specific closing blocks
+keep the same style, density and decision-useful tone
+
+If one of these blocks is absent from the supplied material, omit it rather than inventing it, unless the user explicitly requests a newly written currency-specific closing block.
+
+CONDITIONAL CENTRAL BANK TAPE MODULE
+
+Default rule:
+
+Do not add a CENTRAL BANK TAPE section in the normal finalization.
+
+Normal finalization must run first using the lean structure:
+
+A. WEEK — MACRO SYNTHESIS
+B. MACRO SIGNAL SCOREBOARD
+C. FULL RELEASE ARCHIVE
+SIGNAL TENSION CHECK
+3 KEY RELEASES TO DIG INTO
+
+CENTRAL BANK TAPE is a conditional module.
+
+It is activated only if:
+
+The user explicitly asks to add central-bank tape
+
+or
+
+The user supplies a validated central-bank scout together with the weekly material and explicitly indicates that it should be included
+
+or
+
+The user later supplies a validated central-bank scout after the normal finalization
+
+or
+
+The supplied weekly material already contains validated central-bank material and the user asks to preserve or structure it
+
+Do not activate CENTRAL BANK TAPE automatically for DM or EM aggregate finalizations.
+
+DM / EM RULE
+
+For DM or EM aggregate finalization:
+
+do not run CENTRAL BANK TAPE by default
+do not create a generic DM central-bank tape
+do not create a generic EM central-bank tape
+do not insert central-bank coverage for every country
+do not add central-bank material unless the user explicitly asks for a currency-specific central-bank update
+
+If the user later asks for a specific currency inside DM or EM, such as GBP, CAD, AUD, JPY, BRL or MXN, then CENTRAL BANK TAPE may be added for that currency only if a validated scout is supplied.
+
+SINGLE-CURRENCY CENTRAL BANK UPDATE MODE
+
+For single-currency week finalizations, the default workflow is two-step.
+
+Step 1 — Normal finalization
+
+Produce the final WEEK note using the standard lean structure.
+
+Do not wait for central-bank tape unless the user has already supplied it and explicitly asks to include it.
+
+Step 2 — Conditional central-bank update
+
+If the user later provides a validated central-bank scout, update the existing finalized note rather than rebuilding the week from scratch.
+
+When updating:
+
+preserve Section C release archive with 100% fidelity
+insert CENTRAL BANK TAPE above SIGNAL TENSION CHECK
+update Section A only if the policy regime meaningfully changes
+update Section B Policy Constraint if the central-bank scout changes or clarifies the reaction function
+do not rewrite unrelated sections
+do not rewrite the archive
+do not add new macro releases
+return the full updated note, not a patch, unless the user explicitly asks for patch-only output
+
+When activated, the structure becomes:
+
+C. FULL RELEASE ARCHIVE
+
+CENTRAL BANK TAPE
+
+SIGNAL TENSION CHECK
+
+3 KEY RELEASES TO DIG INTO
+
+CENTRAL BANK TAPE — REQUIRED FORMAT
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+[Compact paragraph explaining how the central-bank tape changes, confirms or falsifies the weekly policy constraint.]
+
+[Central bank / speaker / document] — [date]
+Importance: * / ** / *** / ****
+
+Key policy signal:
+[Dense summary of the policy message.]
+
+Representative quote:
+“[short quote only]”
+
+Incremental reaction function:
+[Explain what changed in the policy path, cut / hold / hike bar, inflation threshold, labor threshold, communication regime, market pricing implication, or policy asymmetry.]
+
+[Repeat for each validated speaker / document.]
+
+Bottom line — central bank tape
+
+[Compact conclusion linking the central-bank tape back to the weekly macro regime and the Policy Constraint bucket.]
+
+CENTRAL BANK TAPE RULES
+
+use only the supplied validated central-bank scout or central-bank material already present in the pasted material
+do not browse unless the user explicitly requests verification
+do not add speakers, quotes or central-bank events not present in the supplied material
+keep quotes short
+include speaker name, date, importance and incremental reaction function
+link the central-bank tape to the scoreboard’s Policy Constraint bucket
+if the central-bank tape materially changes the week’s policy read, update Policy Constraint in Section B
+if it materially changes the regime framing, update Section A
+do not alter Section C release archive when adding this module
+do not run this module automatically for DM or EM aggregate finalizations
 
 STYLE PRESERVATION RULE
 
-The final note must preserve the style of the live tape.
+The final note must preserve the style of the source tape.
 
 Specifically:
-- dense macro-desk language
-- compact analytical phrasing
-- no narrative drift
-- no simplification of validated content
-- no softening of technical detail
-- no replacement of strong release-level analysis with vague top-down prose
+
+dense macro-desk language
+compact analytical phrasing
+no narrative drift
+no simplification of validated content
+no softening of technical detail
+no replacement of strong release-level analysis with vague top-down prose
 
 The finalization step must preserve the quality logic of the live weekly process:
-- Reuters data remains mechanical in the archived blocks
-- institutional commentary remains tape-like in the archived blocks
-- economist interpretation remains analytical in the archived blocks
-- HF Take remains reaction-function focused in the archived blocks
-- GitHub historical framing remains preserved in the copied sections exactly as validated
+
+Reuters data remains mechanical in the archived blocks
+institutional commentary remains tape-like in the archived blocks
+economist interpretation remains analytical in the archived blocks
+HF Take remains reaction-function focused in the archived blocks
+historical framing remains preserved in the copied sections exactly as validated
 
 NO NEW RESEARCH RULE
 
 For this finalization task:
-- do not browse
-- do not fetch GitHub
-- do not add new releases
-- do not verify outside the supplied file
-- do not repair perceived gaps with inference
 
-If the supplied live file lacks something, finalize from that file as provided.
+do not browse
+do not fetch GitHub
+do not add new releases
+do not verify outside the supplied material
+do not repair perceived gaps with inference
+
+If the supplied material lacks something, finalize from that material as provided.
+
 Do not invent what might be missing.
 
 OUTPUT RULE
@@ -503,63 +769,80 @@ OUTPUT RULE
 Return the full final WEEK note in one piece.
 
 Do not return:
-- instructions
-- comments about the process
-- a patch
-- partial sections
-- a summary without the archive
-- an explanation of what you changed
+
+instructions
+comments about the process
+a patch
+partial sections
+a summary without the archive
+an explanation of what you changed
 
 Return only the final frozen WEEK note.
 
-INTERNAL CONSISTENCY CHECKS (MANDATORY)
+If the task is a central-bank update after an already-finalized note, return the full updated note, not a patch, unless the user explicitly requests patch-only output.
+
+INTERNAL CONSISTENCY CHECKS — MANDATORY
 
 Before finalizing, verify:
-1. The opening and closing region markers are correct.
-2. The DATA WINDOW matches the supplied live file.
-3. Section A reflects the whole week, not only the final release.
-4. Section B uses only evidence from the supplied live file.
-5. Section C starts at the release archive level and does not include WEEKLY RELEASE TRACKER.
-6. Section C reproduces the supplied live release archive with 100% fidelity.
-7. Day headers are preserved if they exist in the live file.
-8. No release block has been omitted.
-9. No wording in the copied sections has been rewritten.
-10. REGIONAL MACRO DASHBOARD, PENDING HIGH-IMPORTANCE RELEASES, and DATA QUALITY FLAG do not appear in the final output.
-11. SIGNAL TENSION CHECK and 3 KEY RELEASES TO DIG INTO are preserved exactly if present in the live file.
-12. The final note preserves density, structure, and institutional tone.
+
+The opening and closing markers are correct.
+The DATA WINDOW matches the supplied material.
+If multiple weeks are supplied for a single-currency note, the DATA WINDOW spans the full provided period.
+Section A reflects the whole supplied period, not only the final release.
+Section B uses only evidence from the supplied material.
+For single-currency extraction, Section B uses only evidence from the requested currency / country bloc.
+Section C starts at the release archive level and does not include WEEKLY RELEASE TRACKER.
+Section C reproduces the relevant supplied release archive with 100% fidelity.
+For single-currency extraction, Section C includes all and only the requested currency’s release blocks.
+Day headers are preserved if they exist in the source material.
+No relevant release block has been omitted.
+No wording in the copied sections has been rewritten.
+REGIONAL MACRO DASHBOARD, COUNTRY MACRO DASHBOARD, PENDING HIGH-IMPORTANCE RELEASES, and DATA QUALITY FLAG do not appear in the final output.
+SIGNAL TENSION CHECK and 3 KEY RELEASES TO DIG INTO are preserved exactly if present and relevant to the requested scope.
+If currency-specific closing blocks are required, they use only the requested currency’s releases.
+CENTRAL BANK TAPE is omitted unless explicitly activated.
+CENTRAL BANK TAPE is not run automatically for DM or EM aggregate finalizations.
+If CENTRAL BANK TAPE is activated for a single currency, it is inserted above SIGNAL TENSION CHECK.
+If CENTRAL BANK TAPE is activated, Policy Constraint is updated only if the scout changes or clarifies the policy reaction function.
+The final note preserves density, structure and institutional tone.
 
 FINAL RESULT
 
 The final output must be a saved weekly note that:
-- opens with a dense regional macro synthesis
-- provides a compact final scoreboard
-- preserves the full weekly validated release archive below
-- retains the validated closing decision blocks that matter for archive retrieval
-- is ready to store as the final [REGION]_WEEK note"
 
+opens with a dense regional, bloc, or currency macro synthesis
+provides a compact final scoreboard
+preserves the full validated release archive below
+retains the validated closing decision blocks that matter for archive retrieval
+optionally includes CENTRAL BANK TAPE only when activated
+is ready to store as the final WEEK note
 
 OPTIONAL POST-FINALIZATION PM VERSION PROPOSAL
 
 After returning the full final WEEK note, you may add one short line outside the frozen note proposing an optional second output.
 
 Use this exact style:
+
 “Optional next step: I can also produce a VERY COMPRESSED PM VERSION keeping only *** and **** releases, in PM-style format.”
 
 Do not produce that PM version automatically unless the user asks for it.
+
 Only propose it.
 
 If the user accepts, produce a second standalone output using the following locked format:
 
-<<[REGION]_WEEK_PM_STYLE_BEGIN>>
+<<[REGION_OR_CURRENCY]_WEEK_PM_STYLE_BEGIN>>
 DATA WINDOW: [start date] to [end date]
 
-[REGION] — VERY COMPRESSED PM VERSION
+[REGION_OR_CURRENCY] — VERY COMPRESSED PM VERSION
 
 Regime:
 [1 short line]
+
 Read: [1 short line]
 
 Scoreboard:
+
 Growth: [~ / + / -]
 [one short comment line]
 
@@ -597,42 +880,66 @@ Signal Tension:
 Bottom line:
 [2 short lines max]
 
-<<[REGION]_WEEK_PM_STYLE_END>>
+<<[REGION_OR_CURRENCY]_WEEK_PM_STYLE_END>>
 
 PM VERSION RULES
 
 Purpose:
-- produce a very compressed portfolio-manager version of the week
-- make it readable in under one minute
-- keep only the weekly releases rated *** or ****
-- preserve the regime logic of the full week note
-- do not rewrite the week from scratch
-- do not add external narrative
-- do not browse
-- do not add releases not present in the supplied file
+
+produce a very compressed portfolio-manager version of the week or supplied period
+make it readable in under one minute
+keep only the releases rated *** or ****
+preserve the regime logic of the full week note
+do not rewrite the week from scratch
+do not add external narrative
+do not browse
+do not add releases not present in the supplied material
 
 Style:
-- PM-style
-- very compressed
-- no long paragraphs
-- no decorative prose
-- no full macro essay
-- dense, decision-useful, quick-read format
-- short lines preferred
-- “Read / Signal / Policy” framing required for each kept release
+
+PM-style
+very compressed
+no long paragraphs
+no decorative prose
+no full macro essay
+dense, decision-useful, quick-read format
+short lines preferred
+“Read / Signal / Policy” framing required for each kept release
 
 Selection rule:
-- include only releases explicitly rated *** or **** in the source week file
-- exclude * and ** releases entirely
-- if fewer than 3 releases qualify, include only those that qualify and do not invent more
+
+include only releases explicitly rated *** or **** in the source material
+exclude * and ** releases entirely
+if fewer than 3 releases qualify, include only those that qualify and do not invent more
+
+For single-currency extraction:
+
+include only *** or **** releases for the requested currency
+exclude other countries entirely
 
 Fidelity rule:
-- the PM version is a compression layer, not a new research product
-- it must remain faithful to the final frozen week note
-- regime, scoreboard, signal tension, and bottom line must reflect the supplied week file only
 
-Region mapping:
-- USD_WEEK_LIVE_MACRO → US / <<USD_WEEK_PM_STYLE_BEGIN>> ... <<USD_WEEK_PM_STYLE_END>>
-- EUR_WEEK_LIVE_MACRO → EUR / <<EUR_WEEK_PM_STYLE_BEGIN>> ... <<EUR_WEEK_PM_STYLE_END>>
-- DM_WEEK_LIVE_MACRO → DM / <<DM_WEEK_PM_STYLE_BEGIN>> ... <<DM_WEEK_PM_STYLE_END>>
-- EM_WEEK_LIVE_MACRO → EM / <<EM_WEEK_PM_STYLE_BEGIN>> ... <<EM_WEEK_PM_STYLE_END>>
+the PM version is a compression layer, not a new research product
+it must remain faithful to the final frozen week note
+regime, scoreboard, signal tension and bottom line must reflect the supplied material only
+
+Marker examples:
+
+USD → <<USD_WEEK_PM_STYLE_BEGIN>> ... <<USD_WEEK_PM_STYLE_END>>
+EUR → <<EUR_WEEK_PM_STYLE_BEGIN>> ... <<EUR_WEEK_PM_STYLE_END>>
+DM → <<DM_WEEK_PM_STYLE_BEGIN>> ... <<DM_WEEK_PM_STYLE_END>>
+EM → <<EM_WEEK_PM_STYLE_BEGIN>> ... <<EM_WEEK_PM_STYLE_END>>
+GBP → <<GBP_WEEK_PM_STYLE_BEGIN>> ... <<GBP_WEEK_PM_STYLE_END>>
+CAD → <<CAD_WEEK_PM_STYLE_BEGIN>> ... <<CAD_WEEK_PM_STYLE_END>>
+JPY → <<JPY_WEEK_PM_STYLE_BEGIN>> ... <<JPY_WEEK_PM_STYLE_END>>
+AUD → <<AUD_WEEK_PM_STYLE_BEGIN>> ... <<AUD_WEEK_PM_STYLE_END>>
+NZD → <<NZD_WEEK_PM_STYLE_BEGIN>> ... <<NZD_WEEK_PM_STYLE_END>>
+CHF → <<CHF_WEEK_PM_STYLE_BEGIN>> ... <<CHF_WEEK_PM_STYLE_END>>
+SEK → <<SEK_WEEK_PM_STYLE_BEGIN>> ... <<SEK_WEEK_PM_STYLE_END>>
+NOK → <<NOK_WEEK_PM_STYLE_BEGIN>> ... <<NOK_WEEK_PM_STYLE_END>>
+MXN → <<MXN_WEEK_PM_STYLE_BEGIN>> ... <<MXN_WEEK_PM_STYLE_END>>
+BRL → <<BRL_WEEK_PM_STYLE_BEGIN>> ... <<BRL_WEEK_PM_STYLE_END>>
+ZAR → <<ZAR_WEEK_PM_STYLE_BEGIN>> ... <<ZAR_WEEK_PM_STYLE_END>>
+CNH → <<CNH_WEEK_PM_STYLE_BEGIN>> ... <<CNH_WEEK_PM_STYLE_END>>
+
+-----END of PROMPT--------
