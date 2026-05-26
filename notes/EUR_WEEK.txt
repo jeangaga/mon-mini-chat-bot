@@ -1,4 +1,681 @@
 <<EUR_WEEK_BEGIN>>
+DATA WINDOW: 19 May 2026 to 22 May 2026
+
+A. EUR WEEK — MACRO SYNTHESIS
+
+EUR moved deeper into a stagflation-policy trap over the week: the inflation impulse remained headline- and pipeline-driven, with German PPI flipping firmly positive and euro-area HICP stuck at 3.0%, while core and services did not yet confirm a generalized second-round breakout. The growth side deteriorated more decisively: euro-area flash PMIs showed accelerating private-sector contraction, services weakness and falling employment, while France became the acute downside node and Germany shifted only from deterioration toward fragile stabilization.
+
+The central-bank overlay raises the policy constraint versus the pure data read. Lagarde’s Nicosia framing preserved the look-through argument by stressing anchored long-term expectations, but the ECB did not push back against June hike pricing; Schnabel’s pass-through trigger, Stournaras’s hawkish defection from the dove camp and the Reuters / ING / Morgan Stanley house-view tape all point to a Governing Council skewed toward a 25bp June hike unless Hormuz stabilizes or May core/services inflation weakens materially. The regime is therefore not clean hawkish overheating and not clean disinflationary slowdown: it is imported-cost inflation pressure colliding with visible demand damage, with the ECB reaction function operating on credibility, second-round risk and fiscal-tripwire management rather than real-time growth alone.
+
+B. EUR MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+Euro-area composite PMI fell to 47.5 and services to 46.4, confirming accelerating private-sector contraction. France delivered the cleanest downside shock, with composite at 43.5 and services at 42.9, while Germany remained sub-50 despite less acute services stabilization. German Q1 GDP was positive at +0.3% QoQ, but the composition was low quality, supported by exports while investment and construction fell.
+
+Labor: -
+Supporting evidence:
+The euro-area PMI tape showed a fifth consecutive fall in staffing and services headcount reduction for the first time since early 2021. France’s INSEE employment climate fell to 92, its lowest level since the health crisis, aligning with the PMI employment weakness. German GDP detail also flagged a YoY fall in persons employed, so the labor cushion is weakening rather than absorbing the shock cleanly.
+
+Inflation: -
+Supporting evidence:
+Euro-area HICP was confirmed at 3.0%, with energy contributing +0.99pp and headline pressure broad enough to matter for ECB optics. German PPI rose 1.7% YoY and 1.2% MoM, with ex-energy and intermediate goods confirming pipeline pressure beyond a pure energy-only story. The offset is that core HICP at 2.2% and cooling services prevent a clean second-round inflation conclusion.
+
+Financial Conditions: ~
+Supporting evidence:
+The supplied tape does not provide a direct financial-conditions release, but the market-relevant read is internally conflicted. Weak PMIs and French deterioration support duration through growth damage, while headline HICP and German PPI keep front-end dovish repricing fragile. EUR policy support is low quality because the rate impulse comes from imported inflation rather than stronger domestic growth.
+
+Policy Constraint: -
+Supporting evidence:
+The ECB policy constraint tightened materially after the central-bank overlay. The data alone are bifurcated — 3.0% headline HICP and German pipeline pressure against cooling core/services and collapsing PMIs — but the reaction-function tape is skewed hawkish: Lagarde kept June meeting-by-meeting optionality while warning on fiscal slippage, Schnabel made wage / pass-through the policy trigger, Stournaras moved from the dove camp toward cautious tightening, and market pricing / house views entered the week heavily tilted toward a June hike. The hold case now requires a clear falsification trigger: Hormuz stabilization, May core downside, wage softness, or evidence that the energy overshoot is not feeding expectations or wages.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 19 MAY 2026
+
+Euro Zone — Total Trade Balance SA (Mar 2026)
+
+Release Date: 19 May 2026 | Local Time: 11:00
+Importance: ***
+
+Reuters Data
+
+Total Trade Balance SA: €3.50B | Prior: €7.00B | Revised: €6.50B
+
+Professional Market Commentary
+
+The trade release adds an external-sector leg to the EUR stagflation tape. Eurostat showed the non-seasonally adjusted euro-area surplus falling to €7.8bn in March 2026 from €34.1bn in March 2025, with exports down 5.5% YoY and imports up 4.4% YoY. The product signal was concentrated in core surplus sectors, while the Q1 surplus fell sharply versus Q1 2025.
+
+The harder signal is not only the optical YoY collapse. Eurostat’s EU-level detail showed the energy deficit widening from €-21.9bn in February to €-28.6bn in March, so the external account is also capturing import-bill pressure from the energy shock.
+
+Comment — Economist Layer
+
+This is deterioration in the external-balance bucket, but not a simple demand-collapse release.
+
+Signal hierarchy:
+
+Primary signal: the SA surplus narrowed to €3.5bn from revised €6.5bn, so the sequential external buffer weakened.
+Composition: imports rising faster than exports is the cleaner stagflation signal because it captures import-bill pressure rather than only tariff-base optics.
+YoY optic: the drop from the March 2025 surplus is large but partly mechanical because March 2025 was distorted by pre-tariff shipment behavior.
+Sectoral quality: chemicals and machinery / vehicles matter because they are core euro-area surplus generators; deterioration there lowers the quality of the external-growth cushion.
+Energy channel: the widening EU energy deficit is the key macro link to HICP / PPI rather than a standalone trade story.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had already shown German trade-balance compression and rising imports as a hard-data warning against a clean external-sector recovery. Today’s euro-area trade release generalizes that signal from Germany to the aggregate bloc. The external account is now part of the stagflation mix rather than a stabilizing offset.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: not a direct policy trigger, but it strengthens the “imported inflation + weaker activity” configuration.
+Rates: growth-supportive for duration through weaker external demand, but not cleanly dovish because the same release confirms import-price / energy-bill pressure.
+FX: EUR-negative quality signal if the surplus erosion persists, especially if driven by energy imports rather than stronger domestic demand.
+Cross-asset: pressure point for chemicals, machinery, autos and energy-intensive industrial exposure.
+
+The next verification test is whether April–May trade data show a rebuild in chemicals / machinery surplus and stabilization in energy imports. Without that, the EUR external buffer remains lower quality.
+
+WEDNESDAY 20 MAY 2026
+
+Germany — Producer Prices MM / YY (Apr 2026)
+
+Release Date: 20 May 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Producer Prices MM: 1.2% | Prior: 2.5% | Poll: 1.0% | Surprise: 0.20%
+Producer Prices YY: 1.7% | Prior: -0.2% | Poll: 1.5% | Surprise: 0.20%
+
+Professional Market Commentary
+
+Destatis reported German producer prices up 1.7% YoY and 1.2% MoM in April, with the YoY increase the largest since May 2023. The official composition does not support a pure “energy-only” dismissal: ex-energy PPI rose 1.6% YoY and 0.7% MoM, while Destatis attributed the annual rise primarily to intermediate goods, with energy also higher.
+
+The tape is two-sided only at the monthly second derivative: April’s MoM pace slowed from March, but the annual rate flipped decisively positive and the ex-energy / intermediate-goods detail confirms broader pipeline pressure. Destatis also linked the sharp mineral-oil price increase to the ongoing Iran / Middle East conflict, keeping the energy-shock transmission channel alive.
+
+Comment — Economist Layer
+
+This is not a clean moderation print. The correct hierarchy is YoY breakout first, ex-energy confirmation second, MoM deceleration third.
+
+Key signals:
+
+Headline PPI: +1.7% YoY after -0.2%, a clear regime change from factory-gate deflation to positive annual producer inflation.
+Monthly pace: +1.2% is slower than March’s +2.5%, but still firm and above poll.
+Ex-energy: +1.6% YoY / +0.7% MoM means the signal is no longer confined to energy.
+Intermediate goods: +2.6% YoY / +1.2% MoM is the main pass-through warning; metals, basic chemicals and fertilisers are especially relevant for pipeline cost pressure.
+Consumer goods: durable consumer goods are firmer, while non-durables remain negative YoY, so the consumer pass-through is not yet uniform.
+
+State transition: continuation / deterioration.
+
+Context from prior regional live file:
+The prior EUR archive had already identified producer prices as the hard-data inflation confirmation after euro-area PPI moved from annual deflation to positive inflation. German April PPI extends that pipeline-pressure sequence into the core industrial economy. The regime remains supply-side inflation pressure against weak domestic activity, not a clean demand-led inflation cycle.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: reinforces policy constraint, especially because PPI pressure is appearing in intermediate goods while core HICP is still cooling.
+Rates: front-end dovish repricing remains fragile; the print supports hike optionality as a tail, not a base-case mechanical hike.
+FX: EUR policy support is low-quality if the source is imported cost pressure rather than domestic growth.
+Equities: margin-negative for German industrials unless pricing power improves.
+Cross-release link: the same-day HICP final decides whether pipeline pressure is already visible in consumer core; for now, the answer is “headline yes, core not yet.”
+
+The falsification trigger is a sustained MoM decline in intermediate goods and a reversal in mineral-oil / energy inputs. Until then, the print remains part of the stagflation-pressure sequence.
+
+Euro Zone — HICP Final / Core HICP Final (Apr 2026)
+
+Release Date: 20 May 2026 | Local Time: 11:00
+Importance: ****
+
+Reuters Data
+
+HICP Final MM: 1.0% | Prior: 1.3% | Poll: 1.0% | Surprise: 0.00%
+HICP Final YY: 3.0% | Prior: 3.0% | Poll: 3.0% | Surprise: 0.00%
+HICP-X F, E, A, T Final MM: 0.9% | Prior: 0.9% | Poll: 0.9% | Surprise: 0.00%
+HICP-X F, E, A, T Final YY: 2.2% | Prior: 2.2% | Poll: 2.2% | Surprise: 0.00%
+
+Professional Market Commentary
+
+Eurostat confirmed euro-area annual inflation at 3.0% in April, up from 2.6% in March, with EU inflation at 3.2%. The country dispersion is material: Sweden, Denmark and Czechia were the low-inflation tail, while Romania, Bulgaria and Croatia were the high-inflation tail. Among the big four, Germany was 2.9%, France 2.5%, Spain 3.5% and Italy 2.8%, confirming that the April headline re-acceleration is broad enough to matter for ECB optics.
+
+The composition is the key. Energy’s contribution to euro-area annual inflation rose to +0.99pp, while services contributed +1.38pp and core ex-energy / food / alcohol / tobacco was 2.2%. The ECB backdrop is therefore not “inflation solved” and not “core breakout”; the April ECB decision kept rates unchanged at 2.00% while the ECB’s own bulletin noted intensified upside inflation and downside growth risks.
+
+Comment — Economist Layer
+
+This is the most important release in the 19–20 May tape because it resolves the hierarchy of the inflation shock.
+
+Signal hierarchy:
+
+Headline: 3.0% is policy-uncomfortable and confirms the energy shock has fully reached consumer inflation.
+Core: 2.2% is not accelerating; it is lower than March and February, so the print does not yet confirm generalized domestic pass-through.
+Services: 3.0% is still above target-consistent comfort, but it is decelerating and carries less contribution than in February / March.
+Energy: +10.8% and +0.99pp contribution is the dominant marginal inflation impulse.
+NEIG: 0.8% is firmer, but still not a decisive goods-price breakout.
+Food: stable at 2.4%, with unprocessed food still elevated, so food is a risk channel but not the main April acceleration driver.
+
+The correct macro read is headline-energy deterioration with underlying stabilization. The scout’s “false dawn / stabilization fork” is right: the headline confirms stagflation optics, but the core / services detail prevents a clean second-round inflation call.
+
+State transition: false dawn / stabilization, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already framed the bloc as a headline-energy shock with weak activity but no confirmed generalized core breakout. April final HICP confirms that exact split: the headline and energy optics deteriorate, while core and services continue to cool. The region remains in a policy-trap regime rather than a clean hawkish overheating regime.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: June remains live as optionality, not locked as a mechanical hike.
+Hawkish condition: services stop cooling, core re-accelerates, and energy stays elevated long enough to pressure expectations.
+Hold condition: services remain at or below 3.0%, core drifts toward 2.1%, and energy stabilization reduces the headline impulse.
+Rates: front-end cannot fully ignore the 3.0% headline, but the core/services split limits conviction in a straight hike-pricing trade.
+FX: EUR support from sticky policy is fragile because the driver is imported energy inflation, not stronger domestic growth.
+Spreads: vulnerable if energy shock hits Italy / France real incomes while Germany remains industrially weak.
+
+The next decisive test is the May flash HICP on 2 June. A core/services re-acceleration would convert the current false-dawn / stabilization read into deterioration; another core/services cooling print would strengthen the “look through energy” camp.
+
+THURSDAY 21 MAY 2026
+
+France — HCOB Manufacturing / Services / Composite Flash PMI (May 2026)
+
+Release Date: 21 May 2026 | Local Time: 09:15
+Importance: ****
+
+Reuters Data
+
+HCOB Mfg Flash PMI: 48.9 | Prior: 52.8 | Poll: 52.2 | Surprise: -3.3
+HCOB Services Flash PMI: 42.9 | Prior: 46.5 | Poll: 46.6 | Surprise: -3.7
+HCOB Composite Flash PMI: 43.5 | Prior: 47.6 | Poll: 47.7 | Surprise: -4.2
+
+Professional Market Commentary
+
+France delivered the week’s cleanest downside-growth shock. Reuters reported that the French private-sector economy contracted at the fastest pace in five-and-a-half years, with services at 42.9, manufacturing at 48.9 and composite output at 43.5. The deterioration was attributed to the Middle East war’s effect on energy and fuel costs, broader uncertainty and a renewed fall in manufacturing output.
+
+The survey commentary is unambiguously stagflationary: activity collapsed while price pressure rose. The scout’s framing is useful because April manufacturing strength had looked like a frontloading / stockpiling impulse, while May exposed the underlying demand weakness once that temporary support faded.
+
+Comment — Economist Layer
+
+This is deterioration, and it is France-specific in intensity.
+
+Signal hierarchy:
+
+Composite: 43.5 is the core signal; it is not a marginal miss but a deep contraction reading.
+Services: 42.9 is the most important subcomponent because France’s services sector is the main domestic-demand read.
+Manufacturing: 48.9 reverses the April expansion and confirms that the stockpiling boost was not durable.
+Prices: rising input and output prices alongside contracting output is the key stagflation signature.
+Employment / confidence: the scout reports further service-sector employment weakness and sharply weaker confidence, so the forward signal is worse than the headline alone.
+
+This print materially shifts the French part of the EUR tape from “headline-energy overshoot with weak growth” to “domestic activity cracking under the energy shock.”
+
+State transition: deterioration, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already shifted France from lower-inflation comfort toward stagflation tension after Q1 GDP stalled and April HICP jumped. The May PMI collapse confirms that the growth side of that tension is now deteriorating, not merely soft. France becomes the bloc’s clearest acute stagflation case.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: the French print is the strongest argument against converting the energy-driven inflation overshoot into a near-term mechanical hike.
+Rates: Bund-positive / OAT-risk negative through growth, but not cleanly bullish duration if the price gauges keep rising.
+FX: EUR-negative quality signal because policy support would be coming from imported inflation while France’s domestic engine weakens.
+Spreads: France vulnerability rises because the macro mix is weak growth, rising prices and deteriorating employment climate risk.
+
+Falsification requires a June services rebound above April’s 46.5 level and evidence that energy / fuel disruption is stabilizing. Without that, the May PMI should be treated as regime-relevant deterioration, not noise.
+
+Germany — HCOB Manufacturing / Services / Composite Flash PMI (May 2026)
+
+Release Date: 21 May 2026 | Local Time: 09:30
+Importance: ***
+
+Reuters Data
+
+HCOB Mfg Flash PMI: 49.9 | Prior: 51.4 | Poll: 51.0 | Surprise: -1.1
+HCOB Services Flash PMI: 47.8 | Prior: 46.9 | Poll: 47.0 | Surprise: 0.8
+HCOB Composite Flash PMI: 48.6 | Prior: 48.4 | Poll: 48.4 | Surprise: 0.2
+
+Professional Market Commentary
+
+Germany’s private sector contracted for a second consecutive month, but the signal was less acute than France. Reuters reported composite PMI at 48.6, services at 47.8 and manufacturing at 49.9, with manufacturing losing the earlier stockpiling / precautionary-buying support.
+
+The tape is therefore mixed only around the consensus optics: services beat expectations and composite marginally beat, but all major output indicators remained below 50 or at the manufacturing threshold. The correct read is “less bad than France,” not “German recovery.”
+
+Comment — Economist Layer
+
+Germany’s PMI is deterioration with a stabilisation offset.
+
+Signal hierarchy:
+
+Composite: 48.6 remains contractionary for a second month, so the private-sector level is still weak.
+Manufacturing: 49.9 is the key disappointment because it unwinds the April expansion and validates the frontloading-reversal thesis.
+Services: 47.8 is better than expected and better than April, but still contractionary.
+Demand: new orders and export-order weakness matter more than the small services beat.
+Confidence / employment: business confidence remains poor and service employment deterioration prevents a clean improvement read.
+
+The print says Germany is stabilizing relative to France, but not expanding. The country divergence is now central to the EUR tape: Germany is weak but finding some floor; France is deteriorating outright.
+
+State transition: deterioration / stabilization, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already made Germany the bloc’s core hard-data deterioration node, with weak retail, industrial pressure and depressed sentiment. The May PMI does not reverse that sequence, but it softens it by showing services less bad than expected. Germany remains weak, but the deterioration is less acute than France.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: the print reduces confidence in a June hike because the largest economy is still contracting.
+Rates: the services beat limits Bund bullishness, but sub-50 composite keeps growth risk dominant.
+FX: EUR cannot rely on Germany as a clean recovery anchor.
+Equities: manufacturing and energy-intensive industry remain vulnerable; domestic services are less bad but not healthy.
+
+The next verification test is whether June services moves above 50 and manufacturing returns above 51. If not, the May services beat is only a floor-finding signal inside contraction.
+
+Euro Zone — HCOB Manufacturing / Services / Composite Flash PMI (May 2026)
+
+Release Date: 21 May 2026 | Local Time: 10:00
+Importance: ****
+
+Reuters Data
+
+HCOB Mfg Flash PMI: 51.4 | Prior: 52.2 | Poll: 51.8 | Surprise: -0.4
+HCOB Services Flash PMI: 46.4 | Prior: 47.6 | Poll: 47.7 | Surprise: -1.3
+HCOB Composite Flash PMI: 47.5 | Prior: 48.8 | Poll: 48.8 | Surprise: -1.3
+
+Professional Market Commentary
+
+The euro-area flash PMI confirms the full stagflation matrix. S&P Global reported composite output at 47.5, down from 48.8, the sharpest contraction since October 2023; services fell to 46.4, the fastest decline since February 2021; manufacturing PMI stayed in expansion at 51.4 but slowed. S&P also reported faster input-cost inflation, faster selling-price inflation and falling employment.
+
+Chris Williamson’s commentary framed the survey as the eurozone economy taking a more severe hit from the Middle East war, with services hit by higher energy prices and living costs, manufacturing still partly supported by safety-stock building, and the survey creating a “deepening dilemma” for policymakers.
+
+Comment — Economist Layer
+
+This is the week’s regime-confirming activity release.
+
+Signal hierarchy:
+
+Composite: 47.5 is the decisive aggregate signal; the bloc is in private-sector contraction and the contraction is accelerating.
+Services: 46.4 is more important than manufacturing because it shows the energy shock transmitting into household demand and service activity.
+Manufacturing: 51.4 still holds above 50, but output momentum slowed and the support is partly safety-stock related.
+Prices: input costs at a three-and-a-half-year high and output prices at a 38-month high convert weak activity into stagflation rather than a pure slowdown.
+Employment: fifth consecutive fall in staffing, with services reducing headcount for the first time since early 2021, gives the labor cushion less protection.
+Geography: France is the acute downside node, Germany is weak but less acute, and the rest of the bloc is not strong enough to offset the aggregate contraction.
+
+State transition: deterioration, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already described sticky-rate stagflation: weak growth, headline-energy inflation pressure and widening country dispersion. The May flash PMI confirms that the growth side is now deteriorating in the forward-looking survey data. The core regime moves from “energy shock with weak activity” to “energy shock visibly damaging activity.”
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: this is the strongest data point against a near-term hawkish “measured adjustment” unless services prices / core inflation re-accelerate.
+Rates: should reduce confidence in aggressive front-end hike pricing, but not fully restore easing logic because price gauges are rising.
+FX: EUR support from the ECB reaction function becomes lower quality; the currency is exposed if rates are supported by stagflation rather than growth.
+Spreads: country dispersion matters more; France deterioration versus German stabilization creates relative sovereign and equity-selection risk.
+Macro regime: this release outranks the consumer-confidence beat because it captures actual business activity and price transmission.
+
+The falsification trigger is a June composite rebound above 50, services above 50 and a visible easing in input-price pressure. Until then, the May PMI is the core deterioration release of the week.
+
+Euro Zone — Consumer Confidence Flash (May 2026)
+
+Release Date: 21 May 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Consumer Confid. Flash: -19.0 | Prior: -20.6 | Poll: -20.8 | Surprise: 1.8
+
+Professional Market Commentary
+
+The flash consumer-confidence release surprised positively. Reuters reported euro-area confidence rising to -19.0 from -20.6, versus expectations for -20.8, while EU confidence rose to -18.2. The European Commission’s survey page confirms the 21 May flash update schedule.
+
+The scout’s “less bad, not good” interpretation is the right hierarchy. The release shows some stabilization in household expectations after the initial energy shock, but the absolute level remains depressed and does not contradict the same-day PMI contraction.
+
+Comment — Economist Layer
+
+This is a stabilisation signal, but low in the weekly hierarchy.
+
+Signal hierarchy:
+
+Direction: +1.6pt MoM is a real positive surprise.
+Level: -19.0 remains deeply negative and not consistent with strong consumption momentum.
+Cross-check: the German GfK rebound on 22 May confirms that consumer surveys are finding a floor, but the PMI services contraction says realized demand remains weak.
+Regime relevance: confidence stabilization reduces tail risk of a collapse in household expectations, but it does not overturn the stagflation matrix.
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already shown weak household-demand signals and a deteriorating survey backdrop. The May consumer-confidence rebound softens that picture but does not reverse it. Household sentiment is stabilizing from a depressed level, while activity surveys still show demand damage.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: marginally reduces downside-growth panic, but does not strengthen the hawkish case because the level remains weak.
+Rates: small bear-steepening impulse if read in isolation, but dominated by PMI contraction and HICP energy shock.
+FX: limited EUR support; confidence at -19 is not a growth-positive signal.
+Next test: full ESI / EEI detail and national consumer surveys.
+
+The release should not be overweighted. It is a floor-finding signal, not a recovery signal.
+
+FRIDAY 22 MAY 2026
+
+Germany — GDP Detailed QQ SA / YY NSA / YY SA (Q1 2026)
+
+Release Date: 22 May 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+GDP Detailed QQ SA: 0.3% | Prior: 0.3% | Poll: 0.3% | Surprise: 0.00%
+GDP Detailed YY NSA: 0.5% | Prior: 0.5% | Poll: 0.5% | Surprise: 0.00%
+GDP Detailed YY SA: 0.4% | Prior: 0.3% | Poll: 0.3% | Surprise: 0.10%
+
+Professional Market Commentary
+
+Destatis confirmed German GDP growth of 0.3% QoQ in Q1. The composition matters more than the headline: exports rose 3.3% QoQ, imports rose only 0.1%, final consumption rose 0.4%, government consumption rose 1.1%, while gross fixed capital formation fell 1.5%, equipment investment fell 1.2% and construction investment fell 2.5%.
+
+The official release therefore supports a “positive headline, low-quality composition” read. Exports provided the support pillar, while domestic capex and construction weakened. This is also backward-looking: Q1 largely predates the full May survey deterioration and the post-Hormuz activity shock.
+
+Comment — Economist Layer
+
+This is a false-dawn hard-data release.
+
+Signal hierarchy:
+
+Headline: +0.3% QoQ confirms positive growth and avoids a recession headline.
+External demand: exports +3.3% are the main support and make the print less domestically robust.
+Domestic demand: household consumption did not exceed Q4 levels in real adjusted terms, while government spending helped.
+Investment: GFCF -1.5%, equipment -1.2% and construction -2.5% are the forward-looking weakness signals.
+Timing: Q1 captures pre-full-shock dynamics and should not be used to fade the May PMI contraction.
+Labor: Destatis also reported a YoY fall in persons employed, reinforcing the idea that the growth mix is not broad-based.
+
+State transition: false dawn, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already treated Q1 euro-area GDP as backward-looking relative to the unfolding energy shock and survey deterioration. German Q1 GDP confirms that exact issue: hard data still look positive, while forward indicators are weakening. The release does not invalidate the May PMI deterioration.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: the print gives hawks some growth cover, but weak investment and the backward-looking timing dilute the signal.
+Rates: headline GDP is mildly Bund-bearish in isolation, but composition and PMIs cap the move.
+FX: positive headline is not enough to turn EUR into a growth-positive currency.
+Equities: export-sensitive sectors get some historical support; domestic capex and construction remain weak.
+
+The validation test is Q2. If Q2 GDP holds positive with services above 50, Germany stabilisation becomes real. If not, Q1 becomes a pre-shock false dawn.
+
+Germany — GfK/NIM Consumer Sentiment (Jun 2026)
+
+Release Date: 22 May 2026 | Local Time: 08:00
+Importance: **
+
+Reuters Data
+
+GfK/NIM Consumer Sentiment: -29.8 | Prior: -33.3 | Revised: -33.1 | Poll: -34.0 | Surprise: 4.2
+
+Professional Market Commentary
+
+NIM reported that German consumer climate recovered by 3.3 points to -29.8 for June from revised -33.1, but explicitly characterized the level as still comparatively low. NIM also stated that income expectations had recovered after the earlier Iran-war shock, with the May survey collected from 30 April to 11 May.
+
+The release fits the broader consumer-survey pattern: euro-area consumer confidence improved on 21 May, and German GfK improved the next morning. The common signal is floor-finding in sentiment, not a demand boom.
+
+Comment — Economist Layer
+
+This is stabilization from a depressed level.
+
+Signal hierarchy:
+
+Headline: the positive surprise is large versus poll and confirms the April shock did not extend mechanically.
+Income expectations: NIM’s official detail shows a sharp improvement, making the rebound economically more meaningful than a pure noise bounce.
+Willingness to buy: remains subdued, so the transmission into consumption is not yet convincing.
+Level: -29.8 remains very weak; the level matters more than the monthly improvement for near-term demand.
+Cross-check: same-week PMIs show services demand still contracting, so sentiment stabilization has not yet turned into realized activity stabilization.
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had shown weak household-demand and confidence data as part of the stagflation mix. German GfK now points to a floor in expectations, but from a deeply negative level. It softens the downside tail without changing the weak-consumption regime.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: marginally reduces downside-growth urgency, but not enough to strengthen the case for a hike.
+Rates: small counterweight to PMI deterioration, but lower hierarchy than activity and inflation data.
+FX: limited EUR-positive read because sentiment remains deeply negative.
+Next test: whether retail sales and services PMIs confirm the income-expectations rebound.
+
+The release is a “less bad” household signal. It should sit below the PMIs and HICP in the weekly ranking.
+
+Germany — Ifo Business Climate / Current Conditions / Expectations (May 2026)
+
+Release Date: 22 May 2026 | Local Time: 10:00
+Importance: ***
+
+Reuters Data
+
+Ifo Business Climate New: 84.9 | Prior: 84.4 | Revised: 84.5 | Poll: 84.2 | Surprise: 0.7
+Ifo Curr Conditions New: 86.1 | Prior: 85.4 | Poll: 85.1 | Surprise: 1.0
+Ifo Expectations New: 83.8 | Prior: 83.3 | Revised: 83.5 | Poll: 83.5 | Surprise: 0.3
+
+Professional Market Commentary
+
+Ifo reported a modest recovery in German business sentiment after the March–April slump. The Business Climate index rose to 84.9 from 84.5, current conditions improved and expectations became less pessimistic; ifo’s own framing was that the German economy is stabilizing for the time being, but remains fragile.
+
+The sector detail matters. Ifo said services improved considerably, manufacturing improved somewhat on current conditions but expectations declined and new orders fell, trade improved from difficult levels, and construction weakened slightly.
+
+Comment — Economist Layer
+
+This is the strongest German stabilization print of the week.
+
+Signal hierarchy:
+
+Headline: all three Ifo subindices beat expectations.
+Services: the improvement is macro-relevant because it matches the German PMI services beat.
+Manufacturing: less convincing; current conditions improved, but expectations and orders are still weak.
+Level: 84.9 remains historically depressed, so the release is floor-finding rather than expansion.
+Country dispersion: Germany’s Ifo / GfK stabilization contrasts sharply with France’s PMI and INSEE deterioration.
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had Germany as the bloc’s main hard-data drag after weak industry, trade compression and depressed sentiment. Ifo changes the slope, not the level: the German economy is no longer deteriorating at the same speed, but it remains fragile and sub-trend. Germany shifts toward stabilization while France deteriorates.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: marginally hawkish relative to French weakness because German business sentiment is stabilizing, but not decisive because levels remain low.
+Rates: reduces one-way Bund-bullish growth trades, but not enough to validate aggressive hike pricing.
+FX: helps EUR at the margin only if paired with de-escalation and lower energy pressure.
+Relative macro: Germany is becoming the “weak stabilization” node, while France is the “acute deterioration” node.
+
+The June Ifo and final PMIs are the validation tests. Sustained Business Climate above 85 and services PMI above 50 would upgrade Germany; renewed deterioration would restore the core-downside narrative.
+
+France — Business Climate Manufacturing / Overall (May 2026)
+
+Release Date: 22 May 2026 | Local Time: 08:45
+Importance: ***
+
+Reuters Data
+
+Business Climate Mfg: 102 | Prior: 100 | Poll: 100 | Surprise: 2
+Business Climate Overall: 94 | Prior: 94 | Poll: 94 | Surprise: 0
+
+Professional Market Commentary
+
+INSEE reported the overall French business climate at 94 in May, below its long-term average of 100, while the employment climate lost three points to 92, its lowest level since the health crisis. INSEE also noted that the business climate improved more clearly in manufacturing, but deteriorated in retail trade and services.
+
+This is not a simple confirmation of the PMI collapse, because the manufacturing climate improved while the HCOB manufacturing PMI fell into contraction. The difference is conceptually important: INSEE’s balance-of-opinion level can remain above average while PMI month-on-month direction deteriorates.
+
+Comment — Economist Layer
+
+This is deterioration at the overall French macro level, with a manufacturing counter-signal.
+
+Signal hierarchy:
+
+Overall climate: 94 is below average and does not improve from April.
+Employment climate: the fall to 92 is the forward-looking warning signal and aligns with PMI employment weakness.
+Manufacturing climate: 102 is a positive counter-signal, but it conflicts with the PMI directional contraction.
+Services / retail: deterioration in those sectors matters more for domestic demand than the manufacturing morale rebound.
+Cross-country: France is moving opposite Germany’s Ifo / GfK stabilization.
+
+State transition: deterioration, conditional.
+
+Context from prior regional live file:
+The prior EUR archive had already positioned France as a soft-growth economy with a reversible but uncomfortable energy-driven inflation overshoot. The May INSEE release confirms that the domestic business climate remains weak and employment expectations are deteriorating. France is no longer just an inflation-overshoot case; it is now the bloc’s most acute activity-risk node.
+
+HF Take — Strategist Layer
+
+Reaction-function map:
+
+ECB: French data argue against a near-term hike because the activity / employment side is visibly weakening.
+OATs: weaker employment climate and poor overall business conditions increase domestic macro sensitivity.
+FX: France weakens the quality of any EUR rally driven by ECB hawkishness.
+Relative trades: Germany-France divergence becomes a live macro theme.
+
+The falsification trigger is a June rebound in services PMIs, overall INSEE climate above 95 and employment climate back above 95. Until then, France remains the downside node.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The ECB tape turns the week from a pure stagflation data read into a reaction-function divergence. The underlying data are not cleanly hawkish: headline HICP and PPI are uncomfortable, but core / services are cooling and the PMI growth shock is severe. The Governing Council tape, however, has shifted more hawkish than the data composition alone would imply. Lagarde preserved meeting-by-meeting optionality and the anchored-expectations look-through argument, but did not push back against June hike pricing; Schnabel made wage / pass-through the trigger; Stournaras’s hawkish defection widened the pro-tightening coalition; and market pricing / institutional house views entered the week with June hike probability high. The policy bucket therefore shifts from “optionality” to “hawkish conditionality.”
+
+ECB policy anchor — week-end 22 May 2026
+Importance: ***
+
+Key policy signal:
+The policy starting point is deposit facility rate 2.00%, MRO 2.15% and marginal lending 2.40%. The last decision on 30 April was a unanimous hold, but the ECB had already acknowledged intensified upside inflation risks and downside growth risks. The next decision is 11 June, making the 18–22 May data flow directly relevant for policy conditioning.
+
+Representative quote:
+“upside risks to inflation and downside risks to growth have intensified”
+
+Incremental reaction function:
+The ECB entered the week with a two-sided risk framework rather than a clean anti-inflation mandate shock. The March ECB baseline had inflation at 2.6% in 2026 and 2.0% in 2027, while the EU Commission Spring Forecasts raised the inflation backdrop to 3.1% in 2026 and 2.4% in 2027. That gap matters: the official forecast tape shifted inflation above the ECB’s March baseline just as the activity surveys cracked, creating a credibility-versus-growth constraint.
+
+Christine Lagarde / Nicosia Eurogroup — 22 May 2026
+Importance: ****
+
+Key policy signal:
+Lagarde delivered the week’s core ECB communication. She acknowledged the stagflation mix directly: energy is pushing inflation up and weighing on activity, but long-term expectations remain anchored. She refused to pre-commit for 11 June and kept the meeting-by-meeting framework, while introducing a fiscal tripwire through the “temporary, targeted, tailored” principle.
+
+Representative quote:
+“long-term inflation expectations remain broadly well anchored”
+
+Incremental reaction function:
+The anchored-expectations line is the dovish-protective argument for looking through an energy shock, especially with PMIs collapsing. But the fiscal warning is hawkish-conditional: broad fiscal support could force a different monetary-policy response. Lagarde therefore did not validate a mechanical hike, but she also did not push back against market pricing. The net effect is neutral-to-hawkish conditionality: hold remains possible, but only if second-round risk remains contained and fiscal policy does not amplify demand or expectations.
+
+Christine Lagarde / ECB 30 April press conference carryover — 30 April 2026
+Importance: ***
+
+Key policy signal:
+The 30 April hold remains the relevant pre-week policy anchor. The ECB stayed unanimous but explicitly framed the Iran / energy shock as making the outlook harder to assess and pointed to the June meeting as the point where the data set would be more informative.
+
+Representative quote:
+“we will be able to make a more informed decision”
+
+Incremental reaction function:
+This creates the sequencing logic for the May data: the ECB intentionally waited for the next six-week data window. The 18–22 May week therefore becomes part of the June decision package. Since the incoming data deliver both a 3.0% HICP headline and a 47.5 composite PMI, the June meeting is more about weighting risks than mechanically responding to one release.
+
+Isabel Schnabel — early May 2026
+Importance: ****
+
+Key policy signal:
+Schnabel’s framework is the clearest hawkish trigger: higher energy costs alone are not enough; policy must react if pass-through to wages and broader costs becomes visible.
+
+Representative quote:
+“monetary policy has to react”
+
+Incremental reaction function:
+Schnabel turns the June question into a second-round-effects test. German PPI and elevated PMI price gauges support the hawkish side, but core HICP cooling and services deceleration prevent full confirmation. The key market implication is that May flash HICP, wage data and services-price momentum matter more than the headline alone.
+
+Yiannis Stournaras — 25 May 2026
+Importance: ****
+
+Key policy signal:
+Stournaras is the highest-impact Governing Council shift in the supplied central-bank tape because he comes from the dove camp. His message was that a significant temporary inflation overshoot could still justify a cautious move in a restrictive direction if second-round risks need to be contained.
+
+Representative quote:
+“a cautious adjustment of monetary policy”
+
+Incremental reaction function:
+This materially shifts the Council-balance read. A hawkish Stournaras lowers the blocking power of the dove camp and increases the probability that Lagarde / Lane can build a June hike consensus if the May inflation data do not deliver a clear downside surprise. The reaction function moves from “hawks versus doves” to “hawks plus conditional doves versus growth-damage counterargument.”
+
+François Villeroy de Galhau — early May 2026
+Importance: ***
+
+Key policy signal:
+Villeroy’s position remains the cleanest non-hawkish counterweight inside the supplied Governing Council tape: higher energy costs had not yet created enough damage to warrant a response, but his framing still acknowledges the threshold.
+
+Representative quote:
+“haven't created enough damage”
+
+Incremental reaction function:
+Villeroy keeps the hold argument alive, especially after the French PMI and INSEE deterioration. But the same week’s France data also make his national signal politically and analytically uncomfortable: France argues against a hike, while the bloc-wide headline inflation and Stournaras shift argue for credibility insurance. His stepping down before 11 June adds uncertainty to the French central-bank stance.
+
+Institutional house-view tape / ING, Morgan Stanley, Reuters poll — May 2026
+Importance: ***
+
+Key policy signal:
+The dominant institutional call is June hike plus at least one further hike risk. ING framed a June hike as very likely and a September hike as possible, while arguing that three hikes still looked too far. Morgan Stanley expected at least two hikes, and the Reuters poll majority expected a June hike plus at least one more move this year.
+
+Representative quote:
+“rate hike in June is very likely”
+
+Incremental reaction function:
+The consensus tape is more hawkish than the underlying data composition. This matters for market asymmetry: a 25bp June hike is closer to delivering consensus, while a hold would be the larger surprise. The ECB communication tone on 11 June becomes the higher-information event than the rate move itself.
+
+Berenberg / Holger Schmieding — 22 May 2026
+Importance: ***
+
+Key policy signal:
+Berenberg provides the strongest institutional dovish counter-anchor. The argument is not that inflation is benign, but that demand destruction should absorb the inflation impulse, making aggressive tightening a policy mistake.
+
+Representative quote:
+“a big mistake”
+
+Incremental reaction function:
+This is the strongest macro-consistent hold case because it matches the PMI evidence: services contraction, employment weakness and France deterioration are already doing the tightening work. The issue is that ECB credibility logic may still dominate the near-term decision if policymakers fear second-round effects or fiscal slippage.
+
+Market pricing tape — mid-May to week-end 22 May 2026
+Importance: ****
+
+Key policy signal:
+Market pricing was materially hawkish relative to the data mix: the supplied tape cites an 86% probability of a 25bp June hike and the ECB Bulletin’s €STR forward-curve signal of roughly 50bp cumulative hikes by year-end.
+
+Representative quote:
+“86% probability of a 25bp hike”
+
+Incremental reaction function:
+The market is pricing the ECB as reacting to headline inflation and policy credibility, not to the full data composition. That creates a strong divergence: the data signal would support hold under a standard growth-inflation trade-off, but the ECB reaction-function tape is hawkish conditional. A surprise hold would therefore be a major rates / EUR repricing event; a 25bp hike would be less about the decision and more about whether Lagarde signals continuation or one-and-done insurance.
+
+Bottom line — central bank tape
+
+The ECB tape upgrades the Policy Constraint bucket from unresolved optionality to hawkish conditionality. The week’s data do not justify a clean hawkish regime call because growth is cracking and core is not breaking out, but the Governing Council and market-pricing tape imply that the ECB may still deliver a 25bp June insurance hike to contain second-round and communication risk. The hold path requires an explicit falsification trigger before 11 June: Hormuz stabilization, May core downside, wage softness or clear evidence that the energy shock is temporary and expectations remain anchored. The hawkish tail beyond a 25bp move is limited by Lagarde’s anchored-expectations line and the severity of the PMI shock.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Inflation pressure is energy-led and policy-constraining, while forward activity data now show visible demand destruction; Germany is stabilizing from depressed levels, but France is deteriorating sharply.
+Why it matters: the ECB reaction function is trapped between headline inflation credibility risk and an increasingly visible growth shock.
+Implication: June policy should remain data-dependent rather than mechanically hawkish; the hike tail stays alive only if May core / services re-accelerate.
+
+3 KEY RELEASES TO DIG INTO
+
+Euro Zone HCOB Flash PMI (21 May)
+Why it matters: strongest regime-confirming release of the week. Composite 47.5 and services 46.4 show the energy shock transmitting into activity, while price gauges remain elevated.
+Euro Zone HICP Final / Core HICP Final (20 May)
+Why it matters: establishes the inflation hierarchy. Headline is uncomfortable at 3.0%, but core and services prevent a clean second-round inflation conclusion.
+France HCOB Flash PMI (21 May)
+Why it matters: most acute country-level stagflation print. France combines collapsing services, renewed manufacturing contraction and rising prices, making it the main downside node inside the EUR bloc.
+
+<<EUR_WEEK_END>>
+
+
+<<EUR_WEEK_BEGIN>>
 DATA WINDOW: 11 May 2026 to 15 May 2026
 
 A. EUR WEEK — MACRO SYNTHESIS
