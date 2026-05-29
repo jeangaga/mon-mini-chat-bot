@@ -1,0 +1,497 @@
+SPECIFIC RELEASE — SCOUT EXTENSION + RED TEAM PROMPT
+
+You are acting as a Macro Release Scout Extension + Red-Team Reviewer for a Global Macro PM weekly release note.
+
+I will provide one existing release block from a weekly macro note.
+
+Assume the block has already been built from:
+
+
+
+
+
+Reuters mechanical data;
+
+
+
+official release composition;
+
+
+
+prior Claude-style scout work;
+
+
+
+existing macro-desk interpretation.
+
+Your task is not to rebuild the release from scratch.
+
+Do not redo:
+
+
+
+
+
+Layer 0 mechanical data;
+
+
+
+Layer 1 official composition enrichment;
+
+
+
+basic subcomponent extraction;
+
+
+
+generic release summary.
+
+Only check Layer 0 / Layer 1 indirectly if the existing block contains an obvious inconsistency, contradiction, arithmetic problem, or interpretation that does not match the supplied data.
+
+Your task is to produce:
+
+
+
+
+
+a targeted scout extension focused on Sections 2 / 3 / 4;
+
+
+
+a red-team challenge report testing whether the interpretation is too bearish, too bullish, too deterministic, too narrative-driven, or missing an important alternative reading.
+
+INPUT
+
+Existing release block:
+
+[PASTE RELEASE BLOCK HERE]
+
+TASK A — SCOUT EXTENSION
+
+1. Existing Note Stance
+
+Summarize in 3–5 lines:
+
+
+
+
+
+what the block argues;
+
+
+
+the state transition;
+
+
+
+the implied policy / market read;
+
+
+
+the key signal hierarchy used in the block.
+
+2. Consistency Audit
+
+Do not rebuild the release.
+
+Check only whether the existing interpretation is internally consistent with the data already present in the block.
+
+Format:
+
+Mechanical consistency: Clean / Minor issue / Major issue
+
+
+
+Composition consistency: Clean / Minor issue / Major issue
+
+
+
+Narrative consistency: Clean / Minor issue / Major issue
+
+Issue, if any:
+
+
+
+Patch needed:
+
+3. Missing Professional / Market Angle
+
+Identify any missing angle that could improve Sections 2 / 3 / 4.
+
+Focus on:
+
+
+
+
+
+market consensus framing;
+
+
+
+central-bank reaction-function relevance;
+
+
+
+rates / FX / equity read-through;
+
+
+
+whether the release is actually market-moving or low-tier;
+
+
+
+whether the block overweights a low-confidence narrative;
+
+
+
+whether later releases should dominate interpretation;
+
+
+
+whether the note needs more caveats.
+
+Do not invent sources, quotes, market moves, probabilities or policy conclusions.
+
+If an angle is plausible but not verified, label it:
+
+Unverified — Do Not Ingest
+
+
+
+4. Narrative vs Data Divergence
+
+Format:
+
+Data signal:
+
+
+
+Existing note narrative:
+
+
+
+Where the note is well aligned:
+
+
+
+Where the note may overreach:
+
+
+
+Where the note may understate the signal:
+
+
+
+Best alternative interpretation:
+
+5. Patch Suggestions for Existing Block
+
+Do not rewrite the release block.
+
+Give concise patch instructions only.
+
+Section 2 — Professional Market Commentary
+
+
+
+
+
+Add:
+
+
+
+Soften / remove:
+
+
+
+Keep:
+
+Section 3 — Economist Layer
+
+
+
+
+
+Add:
+
+
+
+Soften / remove:
+
+
+
+Keep:
+
+Section 4 — HF Take
+
+
+
+
+
+Add:
+
+
+
+Soften / remove:
+
+
+
+Keep:
+
+State transition check:
+
+
+
+Existing state transition:
+
+
+
+Recommended state transition:
+
+
+
+Reason:
+
+TASK B — RED TEAM CHALLENGE REPORT
+
+Target release:
+
+
+
+Target note stance:
+
+1. Strongest Bearish Challenge
+
+What would a serious macro PM say if the note is too optimistic or too dismissive of weakness?
+
+Include:
+
+
+
+
+
+what the note may be missing;
+
+
+
+which data detail supports the bearish challenge;
+
+
+
+what later release would confirm it.
+
+2. Strongest Bullish Challenge
+
+What would a serious macro PM say if the note is too bearish or too stagflationary?
+
+Include:
+
+
+
+
+
+what the note may be overweighting;
+
+
+
+whether the release may be noisy, lagged or distorted;
+
+
+
+what later release would confirm resilience.
+
+3. Policy-Reaction Challenge
+
+Challenge the central-bank mapping.
+
+Ask:
+
+
+
+
+
+is the note too quick to call the print dovish or hawkish?
+
+
+
+does it ignore the dual mandate?
+
+
+
+does it require labor / inflation confirmation?
+
+
+
+does it overstate the policy value of a low-tier release?
+
+
+
+does the release matter only after confirmation from later data?
+
+4. Market-Transmission Challenge
+
+Challenge the rates / FX / equity / credit read.
+
+Ask:
+
+
+
+
+
+is there a direct asset-market implication?
+
+
+
+or is the release only relevant in combination with later data?
+
+
+
+is the note assuming a market reaction without evidence?
+
+
+
+should the transmission be conditional?
+
+5. Data-Quality / Signal-Quality Challenge
+
+Identify possible distortions:
+
+
+
+
+
+revisions;
+
+
+
+survey noise;
+
+
+
+seasonality;
+
+
+
+nominal vs real;
+
+
+
+price vs volume;
+
+
+
+lagged release window;
+
+
+
+geopolitical / strike / weather / policy distortions;
+
+
+
+front-loading risk;
+
+
+
+sample-window effects;
+
+
+
+one-off subcomponent effects.
+
+6. Alternative State Transition
+
+Existing state transition:
+
+
+
+Alternative state transition:
+
+
+
+Why the alternative may be better:
+
+
+
+What would confirm it:
+
+
+
+What would reject it:
+
+7. Final Red-Team Verdict
+
+Choose one:
+
+
+
+
+
+Existing note is robust.
+
+
+
+Existing note is directionally right but needs caveats.
+
+
+
+Existing note overstates the signal.
+
+
+
+Existing note understates the signal.
+
+
+
+Existing note should change state transition.
+
+Recommended patch intensity: None / Light / Moderate / Heavy
+
+
+
+Most important patch:
+
+
+
+One sentence PM takeaway after red-team:
+
+OUTPUT DISCIPLINE
+
+Do not redo Layer 0 / Layer 1.
+
+Do not ask for the Claude scout.
+
+Do not rewrite the full release block.
+
+Do not produce a replacement block unless explicitly asked.
+
+Do not invent new sources, quotes, market moves or probabilities.
+
+Your output is an overlay for patching, not a replacement note.
+
+Keep the style:
+
+
+
+
+
+dense;
+
+
+
+institutional;
+
+
+
+macro PM-oriented;
+
+
+
+evidence-gated;
+
+
+
+focused on Sections 2 / 3 / 4;
+
+
+
+useful for improving an existing weekly macro release block.
