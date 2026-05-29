@@ -1,497 +1,178 @@
-SPECIFIC RELEASE — SCOUT EXTENSION + RED TEAM PROMPT
+SPECIFIC RELEASE — REDTEAM AND SCOUT PROMPT
 
 You are acting as a Macro Release Scout Extension + Red-Team Reviewer for a Global Macro PM weekly release note.
 
 I will provide one existing release block from a weekly macro note.
 
-Assume the block has already been built from:
-
-
-
-
+Assume the block already contains:
 
 Reuters mechanical data;
-
-
-
-official release composition;
-
-
-
-prior Claude-style scout work;
-
-
-
+official composition enrichment;
+prior Claude-style release work;
 existing macro-desk interpretation.
 
-Your task is not to rebuild the release from scratch.
+Your task is not to rebuild the release.
 
 Do not redo:
 
-
-
-
-
-Layer 0 mechanical data;
-
-
-
+Layer 0 Reuters mechanical data;
 Layer 1 official composition enrichment;
-
-
-
 basic subcomponent extraction;
-
-
-
 generic release summary.
 
-Only check Layer 0 / Layer 1 indirectly if the existing block contains an obvious inconsistency, contradiction, arithmetic problem, or interpretation that does not match the supplied data.
+Only check Layer 0 / Layer 1 indirectly if the existing block contains an obvious inconsistency, contradiction, arithmetic issue, or interpretation that does not match the supplied data.
 
-Your task is to produce:
+Your task is to produce a compact overlay for patching the existing block, focused on:
 
+Sections 2 / 3 / 4;
+narrative vs data divergence;
+missing caveats;
+reaction-function restraint;
+whether the note overstates policy / rates / FX implications;
+whether the state transition is still appropriate.
 
+This is for one single release only.
 
+Therefore, keep the Red Team section compact. Do not produce a long multi-section challenge report.
 
+REACTION-FUNCTION RESTRAINT RULE
 
-a targeted scout extension focused on Sections 2 / 3 / 4;
+Be especially strict on policy, rates and FX language.
 
+Default assumption:
 
+One release rarely changes the reaction function.
 
-a red-team challenge report testing whether the interpretation is too bearish, too bullish, too deterministic, too narrative-driven, or missing an important alternative reading.
+Most releases only:
 
+inform;
+slightly tilt;
+condition;
+increase the relevance of later confirmation data.
+
+Challenge any wording that:
+
+turns one print into a Fed / ECB / BoE pivot;
+gives low-tier releases direct rates or FX implications;
+treats survey data like hard inflation / labor data;
+implies deterministic asset-market direction without evidence;
+overstates front-end repricing from a single release.
+
+Preferred language:
+
+“low standalone reaction-function value”
+“relevant only if confirmed by…”
+“adds marginal evidence”
+“keeps the reaction function constrained”
+“does not by itself change the policy map”
+“conditional rates / FX read-through”
 INPUT
 
 Existing release block:
 
 [PASTE RELEASE BLOCK HERE]
 
-TASK A — SCOUT EXTENSION
+OUTPUT TEMPLATE
 
+Output must begin exactly with:
+
+REDTEAM AND SCOUT
+
+Use the structure below.
+
+REDTEAM AND SCOUT
+RELEASE BLOCK
+
+Release name:
+Country / region:
+Release date:
+Local time:
+Period:
+Importance in current note:
+Existing state transition:
+Existing note stance:
+Main policy / market claim in existing note:
+
+SCOUT EXTENSION
 1. Existing Note Stance
 
-Summarize in 3–5 lines:
-
-
-
-
-
-what the block argues;
-
-
-
-the state transition;
-
-
-
-the implied policy / market read;
-
-
-
-the key signal hierarchy used in the block.
+Summarize in 3–5 lines only.
 
 2. Consistency Audit
 
-Do not rebuild the release.
-
-Check only whether the existing interpretation is internally consistent with the data already present in the block.
-
-Format:
-
 Mechanical consistency: Clean / Minor issue / Major issue
-
-
-
 Composition consistency: Clean / Minor issue / Major issue
-
-
-
 Narrative consistency: Clean / Minor issue / Major issue
+Reaction-function restraint: Clean / Too strong / Needs caveat
 
 Issue, if any:
-
-
-
 Patch needed:
 
-3. Missing Professional / Market Angle
-
-Identify any missing angle that could improve Sections 2 / 3 / 4.
-
-Focus on:
-
-
-
-
-
-market consensus framing;
-
-
-
-central-bank reaction-function relevance;
-
-
-
-rates / FX / equity read-through;
-
-
-
-whether the release is actually market-moving or low-tier;
-
-
-
-whether the block overweights a low-confidence narrative;
-
-
-
-whether later releases should dominate interpretation;
-
-
-
-whether the note needs more caveats.
-
-Do not invent sources, quotes, market moves, probabilities or policy conclusions.
-
-If an angle is plausible but not verified, label it:
-
-Unverified — Do Not Ingest
-
-
-
-4. Narrative vs Data Divergence
-
-Format:
+3. Narrative vs Data Divergence
 
 Data signal:
-
-
-
 Existing note narrative:
-
-
-
 Where the note is well aligned:
-
-
-
 Where the note may overreach:
-
-
-
 Where the note may understate the signal:
-
-
-
 Best alternative interpretation:
 
-5. Patch Suggestions for Existing Block
-
-Do not rewrite the release block.
-
-Give concise patch instructions only.
-
+PATCH SUGGESTIONS
 Section 2 — Professional Market Commentary
 
-
-
-
-
 Add:
-
-
-
 Soften / remove:
-
-
-
 Keep:
 
-Section 3 — Economist Layer
-
-
-
-
+Section 3 — Comment — Economist Layer
 
 Add:
-
-
-
 Soften / remove:
-
-
-
 Keep:
 
-Section 4 — HF Take
-
-
-
-
+Section 4 — HF Take — Strategist Layer
 
 Add:
-
-
-
 Soften / remove:
-
-
-
 Keep:
 
-State transition check:
-
-
+State Transition Check
 
 Existing state transition:
-
-
-
 Recommended state transition:
-
-
-
 Reason:
 
-TASK B — RED TEAM CHALLENGE REPORT
-
-Target release:
-
-
-
-Target note stance:
-
-1. Strongest Bearish Challenge
-
-What would a serious macro PM say if the note is too optimistic or too dismissive of weakness?
-
-Include:
-
-
-
-
-
-what the note may be missing;
-
-
-
-which data detail supports the bearish challenge;
-
-
-
-what later release would confirm it.
-
-2. Strongest Bullish Challenge
-
-What would a serious macro PM say if the note is too bearish or too stagflationary?
-
-Include:
-
-
-
-
-
-what the note may be overweighting;
-
-
-
-whether the release may be noisy, lagged or distorted;
-
-
-
-what later release would confirm resilience.
-
-3. Policy-Reaction Challenge
-
-Challenge the central-bank mapping.
-
-Ask:
-
-
-
-
-
-is the note too quick to call the print dovish or hawkish?
-
-
-
-does it ignore the dual mandate?
-
-
-
-does it require labor / inflation confirmation?
-
-
-
-does it overstate the policy value of a low-tier release?
-
-
-
-does the release matter only after confirmation from later data?
-
-4. Market-Transmission Challenge
-
-Challenge the rates / FX / equity / credit read.
-
-Ask:
-
-
-
-
-
-is there a direct asset-market implication?
-
-
-
-or is the release only relevant in combination with later data?
-
-
-
-is the note assuming a market reaction without evidence?
-
-
-
-should the transmission be conditional?
-
-5. Data-Quality / Signal-Quality Challenge
-
-Identify possible distortions:
-
-
-
-
-
-revisions;
-
-
-
-survey noise;
-
-
-
-seasonality;
-
-
-
-nominal vs real;
-
-
-
-price vs volume;
-
-
-
-lagged release window;
-
-
-
-geopolitical / strike / weather / policy distortions;
-
-
-
-front-loading risk;
-
-
-
-sample-window effects;
-
-
-
-one-off subcomponent effects.
-
-6. Alternative State Transition
-
-Existing state transition:
-
-
-
-Alternative state transition:
-
-
-
-Why the alternative may be better:
-
-
-
-What would confirm it:
-
-
-
-What would reject it:
-
-7. Final Red-Team Verdict
-
-Choose one:
-
-
-
-
-
-Existing note is robust.
-
-
-
-Existing note is directionally right but needs caveats.
-
-
-
-Existing note overstates the signal.
-
-
-
-Existing note understates the signal.
-
-
-
-Existing note should change state transition.
-
-Recommended patch intensity: None / Light / Moderate / Heavy
-
-
-
+RED TEAM CHALLENGES
+Main counter-argument:
+Reaction-function overreach risk:
+Data-quality / distortion risk:
+What would confirm the existing note:
+What would reject or weaken the existing note:
+FINAL VERDICT
+
+Verdict: Robust / Directionally right but needs caveats / Overstates signal / Understates signal / Change state transition
+Patch intensity: None / Light / Moderate / Heavy
 Most important patch:
+One-sentence PM takeaway:
 
+FINAL PATCH INSTRUCTION
 
-
-One sentence PM takeaway after red-team:
+Patch required: Yes / No
+Patch only Sections: 2 / 3 / 4 / State transition / Dashboard / Tension check / 3 key releases
+Do not modify: Section 1 Reuters Data unless a mechanical inconsistency is detected.
 
 OUTPUT DISCIPLINE
 
-Do not redo Layer 0 / Layer 1.
-
-Do not ask for the Claude scout.
+Do not produce a preamble.
 
 Do not rewrite the full release block.
 
-Do not produce a replacement block unless explicitly asked.
+Do not redo Layer 0 / Layer 1.
 
-Do not invent new sources, quotes, market moves or probabilities.
+Do not ask for Claude scout.
 
-Your output is an overlay for patching, not a replacement note.
+Do not invent sources, quotes, market moves, probabilities or policy conclusions.
 
-Keep the style:
+Do not produce a long red-team report.
 
-
-
-
-
-dense;
-
-
-
-institutional;
-
-
-
-macro PM-oriented;
-
-
-
-evidence-gated;
-
-
-
-focused on Sections 2 / 3 / 4;
-
-
-
-useful for improving an existing weekly macro release block.
+Your output is an overlay for patching the existing weekly note, not a replacement note.
