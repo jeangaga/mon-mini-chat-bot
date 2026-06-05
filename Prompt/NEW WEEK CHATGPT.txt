@@ -365,7 +365,9 @@ DATA QUALITY FLAG
 
 SIGNAL TENSION CHECK
 
-3 KEY RELEASES TO DIG INTO
+5 KEY RELEASES TO DIG INTO
+
+RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
 
 <<[REGION]_WEEK_END>>
 
@@ -825,28 +827,78 @@ Implication: [1 line]
 
 Keep concise.
 
-3 KEY RELEASES TO DIG INTO
+5 KEY RELEASES TO DIG INTO
 
-Rank exactly 3 releases.
+Rank exactly 5 releases.
 
-These must be the 3 most decision-relevant releases of the week for the region.
+These must be the 5 most decision-relevant releases of the week for the region.
 
 Selection criteria:
-- strongest macro signal
-- strongest policy relevance
-- strongest contradiction vs prior regional narrative
-- strongest composition / subcomponent value
-- strongest regime relevance
+
+highest importance rating
+strongest macro signal
+strongest policy relevance
+strongest contradiction versus prior regional narrative
+strongest composition / subcomponent value
+strongest regime relevance
+usefulness for JGM follow-up, red-team review, or second-pass scout
+
+Sorting rule:
+
+sort by importance first: **** before *** before ** before *
+within the same importance rating, sort by decision relevance
+do not include low-importance releases unless fewer than five higher-quality candidates exist
+each release name must include its importance flag
 
 Format:
-1. [Release Name] ([Date])
+
+**** [Release Name] ([Date])
+Why it matters: [1–3 lines]
+*** [Release Name] ([Date])
+Why it matters: [1–3 lines]
+*** [Release Name] ([Date])
+Why it matters: [1–3 lines]
+** [Release Name] ([Date])
+Why it matters: [1–3 lines]
+** [Release Name] ([Date])
 Why it matters: [1–3 lines]
 
-2. [Release Name] ([Date])
-Why it matters: [1–3 lines]
+Rules:
 
-3. [Release Name] ([Date])
-Why it matters: [1–3 lines]
+keep concise
+do not invent releases
+pending high-importance releases may be included if they are decisive for the week’s unresolved macro tension
+if a release is pending, label it clearly as Pending
+update the ranking when new built releases change the hierarchy
+
+
+RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
+
+Purpose:
+Generate targeted challenge questions for JGM or a second-pass scout.
+
+This section should identify what still needs to be challenged, verified, or falsified before the week note is finalized.
+
+Rules:
+
+write 3–7 questions
+keep questions short, concrete and release-specific
+focus on the most decision-relevant tensions in the week
+prioritize *** and **** releases
+include questions on data quality, alternative interpretation, reaction-function overreach, and what would falsify the current state transition
+do not answer the questions inside this section
+do not add generic questions
+do not create a full red-team report unless explicitly requested
+
+Format:
+
+[Question focused on the strongest release-level contradiction]
+[Question focused on reaction-function risk]
+[Question focused on data quality / measurement conflict]
+[Question focused on alternative macro interpretation]
+[Question focused on what would confirm or falsify the current weekly signal]
+
+
 
 LIVE UPDATE DISCIPLINE (ANTI-DRIFT RULE)
 
@@ -857,13 +909,13 @@ When new releases arrive, update in this order:
 4. PENDING HIGH-IMPORTANCE RELEASES
 5. DATA QUALITY FLAG if needed
 6. SIGNAL TENSION CHECK
-7. 3 KEY RELEASES TO DIG INTO
-
+7. 5 KEY RELEASES TO DIG INTO
+8. RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
 Consistency rule
 If a release changes the regional macro interpretation, you must also update:
 - REGIONAL MACRO DASHBOARD
 - SIGNAL TENSION CHECK
-- 3 KEY RELEASES TO DIG INTO if ranking changes
+- 5 KEY RELEASES TO DIG INTO if ranking changes
 
 Partial update rule
 If the user only adds:
@@ -913,7 +965,7 @@ Before finalizing the note, verify:
 6. Context from prior regional live file is present for every release
 7. Section 4 remains conditional and reaction-function focused
 8. Web anchoring was performed for every release, especially when Claude / JGM were absent or thin
-9. Dashboard / pending / tension / 3 key releases are consistent with the latest releases
+9. Dashboard / pending / tension / 5 key releases are consistent with the latest releases
 10. No style drift or structure drift has occurred
 11. Consolidation was applied only when indicators came from the same official publication
 12. No institutionally separate releases were merged into one block
