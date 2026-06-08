@@ -1,4 +1,738 @@
 <<USD_WEEK_BEGIN>>
+DATA WINDOW: 1 Jun 2026 to 5 Jun 2026
+
+A. USD WEEK — MACRO SYNTHESIS
+
+USD macro closed the week in a hold-biased resilient-stagflation configuration: growth and labor were stronger than feared, but the signal quality was poor. Manufacturing and services PMIs beat, orders and payrolls were resilient, and payroll revisions lifted the recent labor run-rate, yet inventories, supplier delays, transportation concentration, weak core capex, contracting survey employment and public / lower-wage payroll composition prevented a clean overheating narrative. The week’s key state transition was from “labor tension unresolved” to “labor resilient enough to deny near-term cuts,” not to a broad wage-driven boom.
+
+Inflation pressure remained policy-constraining but became more clearly input / services / supply-driven than wage-led. ISM services prices, S&P price pass-through and supplier-delivery strain kept disinflation risk unresolved, while ULC undershot, AHE y/y cooled and productivity weakness challenged any clean AI-productivity boom story. The Fed implication is therefore a higher bar for easing: resilient growth and payrolls allow officials to wait, but the wage-cost data argue against treating the week as a wage-price spiral or a hike-triggering labor overheating episode.
+
+B. USD MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+ISM manufacturing rose to 54.0 with new orders at 56.8, ISM services rose to 54.5 with business activity at 57.7 and new orders at 57.3, and factory orders beat at +4.8% m/m. The positive impulse is real, but quality is impaired by inventories, supplier delays, aircraft / transportation concentration and core capex at -1.0%, keeping the growth read stronger but not clean.
+
+Labor: +
+Supporting evidence:
+NFP beat at 172k versus 85k consensus, prior payrolls were revised up by 93k, unemployment stayed at 4.3%, participation held at 61.8% and U6 fell to 8.1%. Earlier labor softness from JOLTS hires / quits, PMI employment, Challenger and claims was not fully erased, but payrolls resolved the immediate weekly tension in favor of labor resilience rather than labor break.
+
+Inflation: -
+Supporting evidence:
+ISM services prices paid rose to 71.3, the highest since August 2022, S&P services flagged price pass-through, and supplier-delivery / inventory dynamics kept the input-cost shock visible. The offset is important: ULC was revised down to 1.8%, four-quarter ULC was only +0.5%, AHE y/y cooled to 3.4%, and the week did not validate a wage-price spiral.
+
+Financial Conditions: -
+Supporting evidence:
+Mortgage rates eased only marginally to 6.57% and remained restrictive, housing / construction stayed rate-capped, and the payroll / ISM mix supports higher front-end / hold-biased pricing rather than near-term easing. Financial conditions are not tightening mechanically from every release, but the data mix reduced the market’s room to price Fed cuts.
+
+Policy Constraint: -
+Supporting evidence:
+The week removed near-term labor cover for cuts: payrolls beat, revisions were strong, unemployment was stable and services / manufacturing activity did not break. The constraint is not a clean hike signal because wages, ULC and hours do not show overheating, but resilient labor plus unresolved services / input-price pressure keeps the Fed in wait-and-hold mode.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 1 JUN 2026
+
+United States — S&P Global Mfg PMI Final (May)
+Release Date: 1 Jun 2026 | Local Time: 15:45
+Importance: ***
+
+Reuters Data
+
+S&P Global Mfg PMI Final: 55,1 | Prior: 55,3
+
+Professional Market Commentary
+
+The final S&P manufacturing print confirmed a very strong headline but also reinforced the quality caveat already visible in the flash release. S&P Global reported the PMI at 55.1, the strongest reading since May 2022, while also noting that new orders were partly linked to stock-building against further price rises and supply delays, and that exports fell for an eleventh consecutive month.
+
+The professional tape therefore does not treat the four-year high as clean organic demand. The survey provider’s own commentary discounts the headline: stockpiling, supply disruption and input-cost pressure remain central to the interpretation, and supplier delivery delays were the worst since August 2022.
+
+Comment — Economist Layer
+
+This is a strong level print with weak signal purity.
+
+The useful hierarchy is:
+
+headline: clearly expansionary and confirmed near the flash estimate
+production: strong and consistent with the manufacturing upturn narrative
+orders: positive but partly pulled forward by precautionary inventory behavior
+exports: still weak, so domestic / inventory motives dominate the improvement
+prices / deliveries: supply-shock pressure remains embedded in the release
+
+JGM note: the S&P manufacturing signal should be used carefully as a core-goods inflation proxy. The prices-received component is potentially more informative than the headline PMI because it has a closer relationship with core-goods CPI pressure. This matters because the survey shows a strong activity headline, but the inflation signal is still mostly about price pass-through and supply strain rather than broad final-demand overheating.
+
+The final revision from 55.3 to 55.1 is not economically meaningful. The real signal is that the S&P manufacturing survey continues to show a strong output level while simultaneously warning that part of the growth is front-loaded. That keeps the release inside the “false dawn / stockpiling” bucket rather than upgrading the manufacturing cycle to a clean demand-led expansion.
+
+State transition: false dawn.
+
+Context from prior regional live file: The prior USD archive had already treated the May flash PMI as a stagflationary bifurcation signal: manufacturing strength was flattered by precautionary inventories and supplier-delivery distortions, while services were barely expansionary. The final manufacturing print confirms that prior signal rather than changing it. Manufacturing remains expansionary, but the quality of growth is still constrained by supply, inventory and price dynamics.
+
+HF Take — Strategist Layer
+
+This is not a dovish release, but it is not a clean hawkish-growth release either.
+
+For the Fed reaction function, the print keeps the uncomfortable configuration intact: activity surveys are not collapsing, price pressure is still visible, and the manufacturing strength is too distorted by stockpiling to be read as a durable demand acceleration. Rates should not treat the headline as a standalone cyclical upgrade unless later ISM / orders / production data show that the activity strength survives the inventory phase.
+
+The key falsification test is whether manufacturing PMIs stay above roughly the low-50s after stockpiling and delivery delays normalize. Until then, the release supports policy constraint more than clean growth optimism.
+
+United States — Construction Spending MM (Apr)
+Release Date: 1 Jun 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Construction Spending MM: 0,4% | Prior: 0,6% | Revised: 0,2% | Reuters Poll: 0,2% | Surprise: 0,20%
+
+Professional Market Commentary
+
+The headline beat was real but partly flattered by the downward revision to March. Census reported April construction spending at a $2,172.4bn seasonally adjusted annual rate, +0.4% m/m versus revised March, +0.9% y/y, and only +0.2% y/y for the first four months of 2026. Private residential construction rose 0.8%, while private nonresidential construction fell 0.2%.
+
+The tape framed the print as a modest resilience signal, but still under the shadow of elevated financing costs. The relevant cross-check is that mortgage rates were still in a restrictive 6.5%+ regime during the same weekly window, even after a small decline later in the week.
+
+Comment — Economist Layer
+
+This is a stabilization print, not a construction acceleration signal.
+
+The hierarchy is:
+
+headline: +0.4% m/m beats consensus
+revision: March cut from +0.6% to +0.2%, reducing the strength of the two-month level signal
+residential: +0.8% m/m is the main positive impulse
+single-family: supportive within the scout framing
+nonresidential: -0.2% m/m offsets part of the signal
+YTD: +0.2% y/y keeps the trend close to flat in real terms
+
+The beat therefore confirms that construction has not rolled over, but it does not overturn the prior rate-sensitive housing constraint. The most important macro point is that housing and construction are still reacting to the level of mortgage rates. A monthly bounce can coexist with a capped trend if financing costs remain elevated.
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior USD housing sequence showed a visible demand floor through NAHB and pending sales, but also a re-tightening mortgage-rate ceiling and weakness in the single-family channel beneath aggregate beats. April construction spending fits that same pattern: activity is stabilizing in aggregate, but the trend remains rate-capped. Housing remains a constrained stabilization story rather than a clean growth engine.
+
+HF Take — Strategist Layer
+
+The release weakens a housing-collapse narrative but does not generate a clean pro-growth signal.
+
+For rates, the strategic implication is two-sided: construction resilience reduces the urgency of a growth-led easing argument, but the mortgage-rate channel keeps housing vulnerable if inflation, oil or term premium keeps long rates high. The Fed implication is limited: the print is not weak enough to force dovish repricing and not strong enough to change the policy path by itself.
+
+The next test is persistence. If single-family support survives a 6.5% mortgage-rate environment, the housing floor becomes more credible. If starts / permits / applications soften again, this print should be treated as a temporary pause rather than a turn.
+
+United States — ISM Manufacturing PMI / Prices Paid / Employment / New Orders (May)
+Release Date: 1 Jun 2026 | Local Time: 16:00
+Importance: ****
+
+Reuters Data
+
+ISM Manufacturing PMI: 54,0 | Prior: 52,7 | Reuters Poll: 53,0 | Surprise: 1,00
+ISM Mfg Prices Paid: 82,1 | Prior: 84,6 | Reuters Poll: 85,0 | Surprise: -2,90
+ISM Manuf Employment Idx: 48,6 | Prior: 46,4 | Reuters Poll: 47,5 | Surprise: 1,10
+ISM Manuf New Orders Idx: 56,8 | Prior: 54,1
+
+Professional Market Commentary
+
+The ISM release confirmed a stronger manufacturing headline: PMI rose to 54.0 from 52.7, the highest since May 2022, with new orders at 56.8, production at 54.3, prices paid still very high at 82.1, and employment improving but remaining below 50 at 48.6. ISM also reported supplier deliveries at 60.6, equal to April and still the highest level since May 2022.
+
+The institutional tape is split on attribution. The headline and breadth support a cyclical manufacturing upswing, but the price / delivery / inventory configuration prevents a clean read. Reuters framed the strength as partly linked to businesses accelerating orders amid supply disruption, while still noting weak factory employment and elevated input-cost pressure.
+
+JGM note: the manufacturing strength can be read partly through an AI-buildout lens, with AI-related demand helping offset the negative supply shock from Iran. The key challenge is separating real final-demand strength from firms trying to get ahead of supply disruption.
+
+Comment — Economist Layer
+
+This is the key Monday release because it confirms strength and policy discomfort at the same time.
+
+Signal hierarchy:
+
+headline PMI: clear upside surprise and four-year high
+new orders: expansion strengthened, improving the demand signal
+production: confirms activity momentum
+breadth: unusually broad improvement
+employment: less bad but still contractionary
+prices paid: downside surprise versus consensus, but level still very elevated
+supplier deliveries: still extremely stretched, reinforcing the supply / front-loading distortion
+
+JGM note: new orders at 56.8 are important because they point to firms trying to get ahead of supply disruption. A forward-looking production proxy using new orders less inventories remains positive, which argues that there is still future production support rather than only a backward-looking output spike. But the employment component at 48.6 shows firms remain cautious about hiring despite continued expansion in activity.
+
+JGM note: supplier deliveries at 60.6 are the highest since 2022 and remain above 50, meaning slower deliveries. That is not a clean demand signal: it can reflect firms unable to deliver, bottlenecks emerging, or precautionary ordering. This supports the front-loading / supply-chain interpretation even though the headline PMI is strong.
+
+The release challenges a pure “false dawn” narrative because ISM breadth and orders look better than a purely inventory-driven story. But it does not fully validate a clean manufacturing upcycle either. The employment index remains below 50, prices paid remain in the 80s, and supplier deliveries are still stretched. The correct read is manufacturing expansion with stagflationary texture: stronger output and orders, but still high input costs and no convincing labor confirmation.
+
+The prices-paid downside surprise is the contrarian detail. It suggests marginal relief versus the feared input-cost acceleration, but the level at 82.1 is still too high to give the Fed disinflation comfort. The release therefore improves the growth impulse more than it improves the inflation impulse.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive had moved the manufacturing bucket into an uneven, cost-constrained regime: S&P PMI looked flattered by inventories, Philly Fed had deteriorated, KC Fed stayed positive, and price pressure remained elevated. ISM now strengthens the activity side of that regime without removing the inflation constraint. Manufacturing is no longer simply weak-quality expansion, but it remains policy-unfriendly because strong orders coexist with high prices and weak employment.
+
+HF Take — Strategist Layer
+
+This is policy-constraining more than conventionally hawkish.
+
+For the Fed, the release reduces near-term growth downside but does not provide clean inflation relief. A four-year-high ISM with new orders at 56.8 makes it harder to argue for immediate easing from the activity side. But employment below 50 and prices paid above 80 prevent a simple “growth re-acceleration” call. The front end should treat this as a hold-biased input unless later labor data deteriorate or inflation indicators cool materially.
+
+JGM note: the release is more consistent with “continued expansion but cautious hiring” than with an outright boom. It keeps the Fed constrained, but the correct reaction-function read should remain conditional because supplier-delivery and inventory effects may be flattering the headline.
+
+For USD / rates, the risk is asymmetry: the headline supports higher real-activity confidence, but the composition says not to chase a clean reflation trade unless services ISM and payrolls confirm. The key follow-up is whether ISM non-manufacturing shows the same orders / prices tension and whether payrolls confirm labor resilience.
+
+TUESDAY 2 JUN 2026
+
+United States — Redbook YY (w/e 25 May)
+Release Date: 2 Jun 2026 | Local Time: 14:55
+Importance: *
+
+Reuters Data
+
+Redbook YY: 9,0% | Prior: 9,0%
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The weekly Redbook print was unchanged at a high nominal y/y pace. Public calendar coverage confirms the Redbook index running at 9.0% y/y for the late-May week, but there was no meaningful professional commentary formation around this specific in-line print.
+
+Comment — Economist Layer
+
+This is a low-tier nominal spending cross-check, not a real-consumption signal.
+
+The hierarchy is simple:
+
+nominal same-store sales remain high
+the weekly pace is unchanged
+no poll exists, so there is no surprise signal
+the series does not separate volume, price, mix, income, credit or savings effects
+
+The print pushes back against an immediate nominal consumer collapse narrative, but it does not repair the real-consumption quality problem. In a high-price environment, nominal retail growth can remain elevated even as real volumes weaken. The useful read is therefore unchanged nominal momentum, not an upgrade to real demand.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD consumer sequence already treated Redbook as a nominal-spending resilience proxy that offsets weak sentiment without proving real consumption strength. This print preserves that interpretation: nominal activity is still elevated, but the real-consumption quality signal remains unresolved. The consumer bucket remains employment-supported and inflation-constrained.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance.
+
+The release does not change the Fed map. It is useful only as a weekly check against a hard consumer stop. For rates and USD, the signal is consistent with the existing stagflationary consumer configuration: nominal demand has not broken, but price effects limit the read-through to real growth. The release should not be used to challenge payrolls, income, retail-sales control group or PCE once those arrive.
+
+United States — JOLTS Job Openings (Apr)
+Release Date: 2 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+Reuters Data
+
+JOLTS Job Openings: 7,618M | Prior: 6,866M | Revised: 6,887M | Reuters Poll: 6,880M | Surprise: 0,7380M
+
+Professional Market Commentary
+
+The headline was a large upside surprise, but the official composition is much less one-dimensional. BLS reported job openings rising to 7.6mn in April, with the openings rate up to 4.6%; however, hires fell to 5.1mn and total separations fell to 5.0mn. Within separations, quits were 3.0mn and layoffs / discharges 1.7mn.
+
+The market tape split between headline labor-demand resilience and churn deterioration. AP emphasized that openings rose while gross hiring and quitting fell, leaving the labor market resilient in vacancies but cautious in actual transactions.
+
+Comment — Economist Layer
+
+This is a bifurcated labor print.
+
+The hierarchy is:
+
+openings: large upside surprise and highest level in nearly two years
+concentration: most of the increase came from professional and business services
+hires: fell sharply, moving opposite to openings
+quits: low / little changed, still pointing to weak worker confidence and slower wage-churn pressure
+layoffs: not breaking, so this is not yet a labor-separation shock
+revisions: March openings revised slightly higher, but not enough to change the scale of the April jump
+
+JGM note: roughly most of the increase appears concentrated in one area, professional and business services, which limits the breadth interpretation. Still, there is no sign of sudden disruption to the labor market: the job-openings increase was not purely isolated, and several industries reported increases in openings. The hiring rate nevertheless reversed the previous month’s improvement and remains low.
+
+The headline says labor demand intentions improved. The transactions say the labor market is still frozen. That is the key signal: employers are posting more vacancies, but they are not yet converting those vacancies into hires; workers are also not quitting aggressively. The result is not a clean hawkish labor-tightness signal, but neither is it a dovish labor-break signal. It is a “no-hire / no-fire” regime with a vacancy spike.
+
+The strongest dovish sub-signal is quits. Low quits weaken the wage-pressure impulse because worker bargaining power is not being validated by actual mobility. The strongest hawkish sub-signal is the openings jump. The release therefore leaves the Fed constrained but does not close the debate before payrolls.
+
+State transition: bifurcation.
+
+Context from prior regional live file: The prior USD labor bucket was anchored by stable claims but deteriorating forward perceptions, leaving labor softening risk visible without hard confirmation. JOLTS sharpens that split: vacancy intentions rebound, but hiring and quits do not validate a true labor-cycle reacceleration. The labor regime remains stable enough to block an easing pivot, but transaction quality is weakening beneath the headline.
+
+HF Take — Strategist Layer
+
+This release is hawkish at the headline level but ambiguous for reaction-function trading.
+
+For the Fed, a +738k openings surprise reduces the odds that officials treat labor as already breaking. But the decline in hires and weak quits keep the forward labor signal softer than the headline. The correct rates read is therefore not “labor re-acceleration,” but “no clean labor cover for cuts yet.”
+
+For USD / front-end pricing, the release supports a hold-biased reaction function into payrolls. A strong payrolls / wage cluster would convert JOLTS into a hawkish confirmation. A weak payrolls / hours / unemployment mix would make the openings spike look like a posting-intentions artifact and shift attention back to the frozen-churn internals.
+
+WEDNESDAY 3 JUN 2026
+
+United States — MBA 30-Yr Mortgage Rate (w/e 25 May)
+Release Date: 3 Jun 2026 | Local Time: 13:00
+Importance: *
+
+Reuters Data
+
+MBA 30-Yr Mortgage Rate: 6,57% | Prior: 6,65%
+
+Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The MBA 30-year mortgage rate eased to 6.57% from 6.65%, after five consecutive weekly increases. The level remains restrictive, and the same source notes that mortgage demand stayed weak despite the modest rate relief, with total mortgage application volume down 2.5% on the week.
+
+Comment — Economist Layer
+
+This is a marginal easing inside a still-restrictive housing-finance regime.
+
+The signal hierarchy is:
+
+weekly rate: down 8bp
+level: still in the 6.5%+ zone
+demand read-through: applications still weak
+macro relevance: housing transmission channel marginally less tight, but not materially changed
+
+The print slightly softens the immediate mortgage-rate shock embedded in the construction-spending block, but it does not change the housing story. One weekly rate decline does not remove the affordability constraint, especially with mortgage applications still falling. The useful read is “less bad at the margin,” not a housing-financial-conditions turn.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD housing bucket was already rate-capped, with activity stabilizing only unevenly and mortgage rates acting as the binding constraint. The 8bp decline provides marginal relief but leaves the series in the same restrictive zone. Housing remains vulnerable to any renewed rise in long rates or inflation risk premia.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance.
+
+For rates and USD, the release only trims the edge of the housing-tightening signal. It does not create a dovish Fed input unless sustained declines in mortgage rates feed through to applications, housing demand and construction. The more relevant macro test remains whether housing indicators can stabilize while mortgage rates remain above 6.5%.
+
+United States — ADP National Employment (May)
+Release Date: 3 Jun 2026 | Local Time: 14:15
+Importance: ***
+
+Reuters Data
+
+ADP National Employment: 122k | Prior: 109k | Revised: 105k | Reuters Poll: 117k | Surprise: 5,0k
+
+Professional Market Commentary
+
+ADP reported private employment up 122k in May and annual pay up 4.4%. The official detail was broader than recent months: eight of ten supersectors gained, service-providing employment rose 114k, education / health added 57k, trade / transportation / utilities added 36k, and firms of all sizes hired. ADP also revised April from 109k to 105k.
+
+Nela Richardson framed the report as more broad-based hiring than in recent years, with sustained momentum into the summer hiring season. The pay detail was not a wage-breakout signal: job-stayer pay growth held at 4.4%, while job-changer pay growth slowed slightly to 6.5% from 6.6%.
+
+Comment — Economist Layer
+
+This is the first clean hiring-improvement signal of the week, but it conflicts with almost every other labor-quality indicator.
+
+Signal hierarchy:
+
+headline: small beat versus Reuters poll
+revision: April revised down, limiting the two-month acceleration
+breadth: unusually broad across sectors and firm sizes
+services: main hiring engine
+education / health: still a major contributor, so quality is not purely cyclical
+information: negative, consistent with white-collar / AI-displacement risk at the margin
+wages: steady job-stayer pay and slightly slower job-changer pay reduce wage-spiral risk
+
+JGM note: ADP was broadly in line with the NFP private-payroll signal. The services gain was the core of the report, with education and health care a large share, so the improvement is real but not necessarily a clean cyclical acceleration.
+
+The key issue is cross-release conflict. JOLTS showed openings up but hires down; quits remained weak; ISM manufacturing and services employment indexes were both below 50; S&P services reported steep job cuts. ADP therefore stands out as the hawkish labor outlier before payrolls. It cannot be ignored because it is payroll-based and broad. But it cannot be allowed to dominate the labor read until BLS payrolls confirm.
+
+The wage detail matters. A 122k ADP print with flat pay growth does not create a wage-pressure acceleration. If anything, the wage channel is less threatening than the activity / price survey channel.
+
+State transition: improvement.
+
+Context from prior regional live file: The prior USD labor bucket was stable but increasingly uneven, with claims contained while survey and confidence measures pointed to softer labor perception. ADP improves the hard hiring side of that map but does not erase the weak churn and survey-employment evidence. The labor signal is now openly conflicted and requires payroll confirmation.
+
+HF Take — Strategist Layer
+
+This is a hold-supportive labor input, but not a decisive hawkish trigger.
+
+For the Fed, ADP reduces the probability that labor is already breaking, especially because gains were broad by sector and firm size. But the small Reuters-poll beat, downward revision and contradiction with JOLTS hires / quits and PMI employment indexes argue against over-trading it. The release raises the hurdle for a payroll-led dovish turn, but payrolls still arbitrate.
+
+For USD / rates, the conditional mapping is clear: if NFP confirms ADP, the no-hire / no-fire deterioration thesis weakens and the hawkish-hold case strengthens. If NFP is weak, ADP becomes a noisy private-payroll outlier and the market should refocus on weak labor transactions and employment subindices.
+
+United States — S&P Global Services PMI Final / Composite PMI Final (May)
+Release Date: 3 Jun 2026 | Local Time: 15:45
+Importance: ***
+
+Reuters Data
+
+S&P Global Comp PMI Final: 51,5 | Prior: 51,7
+S&P Global Svcs PMI Final: 50,7 | Prior: 50,9
+
+Professional Market Commentary
+
+S&P Global reported the US Services Business Activity Index at 50.7 in May, down from 51.0 in April and only marginally above the no-change line, among the weakest readings of the past two-and-a-half years. The Composite PMI was 51.5, down from 51.7, with manufacturing strength partly offset by subdued services performance.
+
+The official commentary is materially softer than the same-day ISM services headline. S&P emphasized rising fuel, energy and supplier costs, the fastest job shedding since May 2020, subdued service growth, lower confidence, and selling-price inflation above its long-run average.
+
+Comment — Economist Layer
+
+This is the main measurement-conflict block of the week.
+
+Signal hierarchy:
+
+services headline: marginal expansion, near stall speed
+composite: weak growth, held up by manufacturing divergence
+employment: fastest service-sector job cuts since May 2020
+confidence: weak, reflecting geopolitical and inflation uncertainty
+prices: input and output inflation firm enough to keep the stagflation signal alive
+external demand: service export weakness adds to the demand-quality problem
+
+The release directly conflicts with ISM services. ISM says services accelerated to 54.5 with strong business activity and new orders. S&P says services are barely expanding at 50.7, with the sector acting as a drag on the composite. The resolution is not to choose one mechanically. The useful common signal is that both surveys agree on weak employment and price pressure; they disagree on activity momentum.
+
+That makes the S&P block important despite the lower calendar impact. It prevents the Wednesday tape from becoming a one-sided services-resilience story. The economy can be simultaneously price-pressured, employment-cautious and measurement-conflicted on real activity.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive had already identified a manufacturing-services split, with manufacturing strength flattered by inventories and services much closer to stall speed. The final S&P services print confirms that split and keeps the composite expansion fragile. The services bucket is not collapsing, but it is far weaker in S&P than in ISM and remains labor-negative.
+
+HF Take — Strategist Layer
+
+This block raises the burden of proof for a clean hawkish services read.
+
+For the Fed, the S&P survey is not enough to offset ISM services prices, but it matters because it shows weaker service momentum and faster labor shedding. The reaction-function implication is therefore not dovish, but more nuanced: price pressure keeps the Fed constrained, while activity / employment measurement conflict prevents a clean growth re-acceleration call.
+
+For USD / rates, the key is survey weighting. A market that trades only ISM services will see resilient growth and high prices. A market that incorporates S&P sees weaker services, job cuts and price pass-through. Payrolls now become the arbiter of whether the weak S&P labor signal or the stronger ADP hiring signal is closer to reality.
+
+United States — Factory Orders / Factory Ex-Transport / Durable Goods Revisions / Core Capex (Apr)
+Release Date: 3 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+Reuters Data
+
+Nondef Cap Ex-Air R MM: -1,0% | Prior: -1,1%
+Factory Ex-Transp MM: 1,3% | Prior: 1,6% | Revised: 1,8%
+Durables Ex-Def, R MM: 8,1% | Prior: 8,1%
+Durable Goods, R MM: 8,0% | Prior: 7,9%
+Factory Orders MM: 4,8% | Prior: 1,5% | Revised: 1,8% | Reuters Poll: 4,6% | Surprise: 0,20%
+Durables Ex-Transpt R MM: 1,1% | Prior: 1,1%
+
+Professional Market Commentary
+
+The Census M3 report confirmed a very strong headline orders month: factory orders rose 4.8% m/m to $662.7bn in April, ahead of consensus and after an upwardly revised 1.8% March increase. Durable-goods orders rose 8.0%, while the strength was heavily linked to transportation, including a large nondefense aircraft gain.
+
+The professional read is therefore less clean than the headline. The report confirms the factory-orders boom, but also keeps the focus on transportation concentration and the weaker core capex proxy. Ex-transportation factory orders rose 1.3%, while durable goods ex-transportation rose 1.1%, both much less dramatic than the headline.
+
+Comment — Economist Layer
+
+This is a headline boom with a soft core-investment signal.
+
+Signal hierarchy:
+
+total factory orders: very strong, +4.8% m/m
+durable goods: revised to +8.0%, confirming the headline surge
+transportation: primary source of the headline impulse
+ex-transport orders: positive but much less dramatic
+core capex: -1.0%, the cleanest business-equipment proxy and the key negative detail
+shipments: positive, preventing the report from being entirely hollow
+unfilled orders: still building, but heavily linked to transportation
+
+The release matters because it challenges the clean manufacturing-upcycle story. If the manufacturing survey strength were being driven mainly by durable organic AI capex, nondefense capital goods ex-aircraft should not be contracting. The -1.0% core capex print therefore supports the front-loading / transportation-concentration interpretation of the factory rebound.
+
+JGM note: the hard-data side remains difficult to reconcile with the stronger survey narrative. Productivity and activity data have slowed sharply across Q4 and Q1, which sits uneasily with a clean AI-boom interpretation. This keeps the “AI buildout” story viable only as a partial offset, not as a full-cycle explanation.
+
+This does not mean manufacturing is weak. It means the composition is not clean. Factory orders are strong, but the strongest parts are not the best proxies for broad business-investment momentum. The report strengthens the “headline activity up, underlying quality mixed” theme already visible in the PMIs.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive had already treated durable-goods strength as aircraft-heavy and quality-impaired, with core capex falling and housing / consumption quality weakening. The April M3 full report preserves that structure: the total orders headline is strong, but the core capex proxy remains negative. Manufacturing strength remains visible, but the investment pipeline is not confirming a broad organic acceleration.
+
+HF Take — Strategist Layer
+
+This is a challenge to the bullish manufacturing narrative, not a dovish shock.
+
+For the Fed, the strong headline keeps activity from looking recessionary, but the weak core capex detail limits the policy relevance of the factory boom. It does not justify easing because aggregate orders and shipments are firm, yet it argues against over-reading PMIs as a durable private-capex acceleration.
+
+For rates / USD, the key is the tension between survey strength and hard-order composition. If core capex turns positive for several months, the AI-capex / organic manufacturing story gains credibility. If core capex stays negative while PMIs stay high, the front-loading / transportation-distortion interpretation becomes the better trading framework.
+
+United States — ISM N-Mfg PMI / Business Activity / Employment / New Orders / Prices Paid (May)
+Release Date: 3 Jun 2026 | Local Time: 16:00
+Importance: ****
+
+Reuters Data
+
+ISM N-Mfg PMI: 54,5 | Prior: 53,6 | Reuters Poll: 53,8 | Surprise: 0,70
+ISM N-Mfg Bus Act: 57,7 | Prior: 55,9
+ISM N-Mfg Employment Idx: 47,9 | Prior: 48,0
+ISM N-Mfg New Orders Idx: 57,3 | Prior: 53,5
+ISM N-Mfg Price Paid Idx: 71,3 | Prior: 70,7
+
+Professional Market Commentary
+
+The ISM services release was the decisive Wednesday macro print. ISM reported Services PMI at 54.5, up 0.9pt from April; business activity rose to 57.7; new orders rose to 57.3; employment contracted for a third consecutive month at 47.9; prices paid rose to 71.3, the highest since August 2022; and inventories jumped to 62.5, up 9.4pts from April and matching May 2010 as the highest reading since Services PMI data collection began in 1997.
+
+Reuters framed the release as services growth picking up as businesses preemptively placed orders and rebuilt inventories in anticipation of shortages and higher prices linked to the war with Iran. Reuters also highlighted the new orders rise, inventory surge, prices paid increase, still-high supplier deliveries and subdued services employment.
+
+Comment — Economist Layer
+
+This is the strongest stagflationary release of the week so far.
+
+Signal hierarchy:
+
+headline PMI: clear upside surprise and 23rd month of expansion
+business activity: accelerating
+new orders: strong and above its 12-month average
+prices paid: highest since August 2022
+employment: third consecutive contraction
+inventories: extreme jump, the most important hidden detail
+supplier deliveries: still elevated, implying supply-chain strain remains relevant
+
+The report broadens the front-loading thesis from manufacturing into services. Monday’s manufacturing tape could still be debated as goods-specific stockpiling or AI-linked production strength. ISM services makes that harder: services inventories surged, new orders accelerated, prices rose to a cycle high, and employment remained in contraction. That is activity without labor confirmation and demand without price relief.
+
+JGM note: the services strength should be read alongside the Beige Book-style configuration of slight-to-moderate growth, widening consumer stress, sticky cost pressure and a more K-shaped consumer. That makes the ISM services beat less of a clean demand-acceleration signal and more of a mixed resilience / cost-pressure signal.
+
+The inflation detail is especially important because it offsets the small relief from Monday’s ISM manufacturing prices-paid downside surprise. Goods input pressure may have eased marginally, but services prices paid moved higher and petroleum-related products were cited again. This is not a disinflation-friendly services mix.
+
+State transition: escalation.
+
+Context from prior regional live file: The prior USD archive had already described a stagflationary hold regime: activity was not collapsing, inflation remained visible, and labor was stable enough to deny a clean pivot. ISM services intensifies that regime by extending price pressure and inventory front-loading into the services side. The macro mix is now broader than factory-specific: resilient activity is coming with weak employment internals and a stronger services-price impulse.
+
+HF Take — Strategist Layer
+
+This is the most policy-constraining release built so far.
+
+For the Fed, the release is difficult to look through. Services activity and orders are firm, prices paid are at the highest since August 2022, and the employment index is weak but not enough on its own to dominate the inflation signal. A services PMI beat with a 71.3 prices index supports a hold-biased reaction function unless payrolls deteriorate materially.
+
+For USD / rates, the print argues against chasing a dovish interpretation from isolated labor internals. It keeps front-end easing constrained and raises the burden of proof for a payroll-led dovish turn. The key next test is whether NFP validates the weak employment subindices or instead confirms that services activity remains labor-resilient despite survey hiring freezes.
+
+THURSDAY 4 JUN 2026
+
+United States — Challenger Layoffs (May)
+Release Date: 4 Jun 2026 | Local Time: 11:30
+Importance: **
+
+Reuters Data
+
+Challenger Layoffs: 97.006k | Prior: 83.387k
+
+Professional Market Commentary
+
+The Challenger report showed announced cuts rising to 97,006 in May from 83,387 in April, the highest May total since 2020 and the third consecutive monthly increase. The key tape point is attribution: AI was cited as the leading reason for cuts for a third straight month, while technology led by sector with 38,242 announced cuts. Public coverage also emphasized that YTD job cuts are still below the unusually high 2025 period affected by federal workforce reductions.
+
+The professional framing is therefore not a clean cyclical-layoff shock. It is a deterioration in announced cuts with a strong structural / AI-restructuring overlay. Andy Challenger’s framing was that AI is not yet a “jobpocalypse,” but companies are increasingly citing it in layoff announcements, which keeps the report important for forward labor risk but less straightforward for cyclical Fed mapping.
+
+Comment — Economist Layer
+
+This is a deterioration signal in the layoff-announcement channel, but with ambiguous cause.
+
+Signal hierarchy:
+
+headline cuts: up materially m/m
+time-series signal: third consecutive monthly rise
+historical signal: highest May since the pandemic shock
+sector signal: technology dominates
+cause signal: AI / restructuring is more prominent than demand weakness
+hiring signal: announced hiring remains low
+
+The macro read is therefore not simply “labor recession.” Challenger cuts lead actual separations, and they line up with the softer side of the week’s labor tape: weak JOLTS hires and quits, PMI employment contraction and claims softening. But the AI attribution matters. If layoffs are concentrated in AI-related restructuring and partly offset by reallocation hiring elsewhere, the Fed’s cyclical read should be more restrained than the headline number suggests.
+
+The report strengthens the forward-labor softening thesis, but it does not yet prove broad layoffs are breaking higher in the official labor market.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD labor bucket had been anchored by contained claims and stable separations, even as survey employment and confidence softened. Challenger weakens that anchor at the margin by showing announced cuts rising, but its AI-heavy composition keeps the deterioration from being a clean cyclical firing-wave signal. Labor remains stable in official separations but less reassuring in forward indicators.
+
+HF Take — Strategist Layer
+
+This is a useful labor-risk input, not a standalone Fed trigger.
+
+For the Fed, the report adds downside risk to the labor outlook but does not override claims or payrolls. The key reaction-function distinction is structural versus cyclical: AI restructuring may depress specific sectors and white-collar hiring without necessarily producing a broad demand-led unemployment shock. That argues for using the release as a warning flag rather than a pivot trigger.
+
+For USD / rates, Challenger belongs in the dovish-risk cluster with weak JOLTS churn and contracting PMI employment, but payrolls and claims remain higher-quality confirmation tests.
+
+United States — Initial Jobless Claims / Jobless Claims 4Wk Avg / Continuing Claims
+Release Date: 4 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Initial Jobless Clm: 225k | Prior: 212k | Reuters Poll: 213k | Surprise: 12.0k
+Jobless Clm 4Wk Avg: 214.75k | Prior: 208.25k
+Cont Jobless Clm: 1.777M | Prior: 1.785M | Reuters Poll: 1.780M | Surprise: -0.003M
+
+Professional Market Commentary
+
+The DOL report showed initial claims rising by 13k to 225k, with the prior week revised down to 212k. The four-week average rose to 214,750, while continuing claims fell to 1.777mn and the insured unemployment rate held at 1.2%.
+
+Reuters framed the rise as more than expected but still consistent with a stable labor market, with continuing claims easing and layoffs still low by recent standards. PNC’s read was similar: initial claims rose, but the level remained low; the four-week average rose, while continuing claims declined and the insured unemployment rate was unchanged.
+
+Comment — Economist Layer
+
+This is a mixed claims block, with the inflow signal softer but the stock signal still contained.
+
+Signal hierarchy:
+
+initial claims: worse than expected and highest since February
+four-week average: inflecting higher from low levels
+continuing claims: easing, not confirming a firing wave
+insured unemployment rate: unchanged
+timing: holiday distortion matters, but does not eliminate the softer direction
+
+The initial-claims move adds to the labor deterioration side of the week’s tape. It lines up with Challenger layoffs, weak JOLTS hires / quits and contracting PMI employment. But continuing claims are the counterweight: outstanding unemployment is not yet building. That prevents the release from becoming a clean labor-break signal.
+
+The four-week average is the cleaner detail than the single-week number. It suggests the claims channel is no longer improving, even if it remains low in level terms.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD labor sequence treated claims as the main stabilizing anchor against softer survey employment and weaker consumer labor perceptions. This print weakens that anchor because initial claims and the four-week average moved higher. The labor bucket is still not breaking, but it is less cleanly stabilizing than in the prior archive.
+
+HF Take — Strategist Layer
+
+This shifts the labor map slightly dovish, but not decisively.
+
+For the Fed, the release is not enough to dominate the activity and inflation tape because continuing claims are stable and the insured unemployment rate is unchanged. But it raises the burden of proof for the hawkish ADP / JOLTS-openings interpretation. A payroll print that confirms weaker hiring would make this claims move look like the start of a broader labor softening sequence.
+
+For USD / rates, claims now sit in the dovish-risk cluster. The front end should not overreact unless claims continue rising after holiday noise washes out or continuing claims start building above the recent range.
+
+United States — Productivity Revised / Unit Labor Costs Revised (Q1)
+Release Date: 4 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Productivity Revised: 0.3% | Prior: 0.8% | Reuters Poll: 0.5% | Surprise: -0.20%
+Unit Labor Costs Revised: 1.8% | Prior: 2.3% | Reuters Poll: 2.5% | Surprise: -0.70%
+
+Professional Market Commentary
+
+BLS revised Q1 nonfarm productivity down to 0.3% from 0.8%, while unit labor costs were revised down to 1.8% from 2.3%. BLS reported that unit labor costs reflected a 2.1% increase in hourly compensation and a 0.3% increase in productivity, with unit labor costs up only 0.5% over the last four quarters.
+
+Reuters framed the report as productivity and labor costs both revised lower, with the productivity downgrade linked to the earlier downward revision to GDP growth, while the labor-cost revision signaled more moderate compensation pressure. PNC similarly emphasized the dual revision: lower productivity growth, but also lower unit labor cost growth.
+
+Comment — Economist Layer
+
+This is the strongest disinflationary counterpoint to the ISM services price shock.
+
+Signal hierarchy:
+
+unit labor costs: clear downside surprise versus consensus
+four-quarter ULC: only +0.5%, a strong wage-cost disinflation signal
+compensation: revised lower
+productivity: also revised lower, so the growth-quality signal is not positive
+real compensation / labor share: points to squeezed labor income rather than overheating wages
+
+JGM note: the productivity slowdown is important beyond the cost arithmetic. It is difficult to reconcile the sharp slowdown in productivity data across late 2025 and Q1 2026 with a simple AI-driven productivity-boom narrative. That does not disprove AI capex support, but it weakens the idea that AI is already producing a broad macro productivity acceleration.
+
+The release is two-sided, but the policy-relevant inflation signal is important. ISM services prices and S&P selling prices show input-cost pass-through. ULC says the wage-cost channel is not validating a wage-price spiral. That distinction matters for the Fed: an energy / supply input shock is more ambiguous than an accelerating labor-cost shock.
+
+The weak productivity detail prevents the release from being a clean soft-landing positive. Productivity was revised down, and the softer output base implies weaker underlying demand quality. But for inflation persistence, the ULC undershoot is a meaningful dovish data point.
+
+State transition: improvement.
+
+Context from prior regional live file: The prior USD archive had shown inflation pressure rising through expectations, PMI prices and mortgage transmission rather than through a clear wage spiral. This release reinforces that distinction: cost pressure remains visible in input-price surveys, but labor-cost pressure is not accelerating. The inflation bucket remains constrained, but the source of pressure looks more supply / energy driven than wage driven.
+
+HF Take — Strategist Layer
+
+This is the cleanest dovish inflation input of the built week, but not enough to erase the services-price constraint.
+
+For the Fed, lower ULC growth helps preserve the underlying-disinflation thesis beneath the supply shock. It argues against overreacting to high ISM services prices as if they were already a wage-price spiral. However, the Fed cannot fully ignore services input prices, energy risk and resilient activity, so the release trims the hawkish inflation impulse rather than flipping the reaction function dovish.
+
+JGM note: this release is central to the rates debate because it supports the view that inflation pressure is not wage-driven. The Fed can remain on hold because labor demand is resilient, but the ULC / wage evidence argues against interpreting the week as a wage-price spiral.
+
+For USD / rates, the important split is wage-cost versus input-cost inflation. A market focused on ISM services prices sees policy constraint. A market incorporating ULC sees more room for the Fed to wait through a supply shock if labor softens. Payrolls and wage data now decide whether this ULC signal gets confirmation.
+
+FRIDAY 5 JUN 2026
+
+United States — Employment Situation: Non-Farm Payrolls / Unemployment / Earnings / Workweek / Participation / U6 (May)
+Release Date: 5 Jun 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+Non-Farm Payrolls: 172k | Prior: 115k | Revised: 179k | Reuters Poll: 85k | Surprise: 87.0k
+Private Payrolls: 120k | Prior: 123k | Revised: 177k | Reuters Poll: 85k | Surprise: 35.0k
+Manufacturing Payrolls: 7k | Prior: -2k | Revised: 0k | Reuters Poll: 2k | Surprise: 5.0k
+Government Payrolls: 52k | Prior: -8k | Revised: 2k
+Unemployment Rate: 4.3% | Prior: 4.3% | Reuters Poll: 4.3% | Surprise: 0.00
+Average Earnings MM: 0.3% | Prior: 0.2% | Reuters Poll: 0.3% | Surprise: 0.00
+Average Earnings YY: 3.4% | Prior: 3.6% | Reuters Poll: 3.4% | Surprise: 0.00
+Average Workweek Hrs: 34.3 | Prior: 34.3 | Reuters Poll: 34.3 | Surprise: 0.00
+Labor Force Partic: 61.8% | Prior: 61.8%
+U6 Underemployment: 8.1% | Prior: 8.2%
+
+Professional Market Commentary
+
+The May employment report was the week’s arbiter and landed stronger than expected at the headline level. BLS reported nonfarm payrolls up 172k, unemployment unchanged at 4.3%, and job gains concentrated in leisure and hospitality, local government and health care, while financial activities declined. Average hourly earnings rose 0.3% m/m and 3.4% y/y, and the workweek was unchanged at 34.3 hours.
+
+The revision profile reinforced the headline. March and April payroll gains were revised up by a combined 93k, with the unemployment rate unchanged for a third straight month; the market read was resilient labor demand, higher yields and less basis for near-term easing.
+
+The institutional tape split between “blowout / hold” and “headline masks slack.” Strategists framed the report as reducing the basis for Fed easing in a still-hot inflation backdrop, while slack-side commentary focused on the narrow composition, public / lower-wage concentration and rising long-term unemployment. The BLS detail supports both readings: the headline and revisions are strong, but long-term unemployment remained elevated and represented 27.5% of total unemployment.
+
+JGM note: the print should not be dismissed as a statistical artefact. It was not obviously flattered by birth-death adjustment, and the household survey did not contradict it. There may be some idiosyncratic support from state / local government and leisure / hospitality ahead of the World Cup, but payroll demand still exceeded expectations.
+
+Comment — Economist Layer
+
+This is a genuine labor improvement, but not a clean overheating print.
+
+Signal hierarchy:
+
+headline payrolls: strong beat versus consensus
+revisions: large upward two-month revision, strengthening the level signal
+three-month average: roughly 188k, materially stronger than the pre-release narrative
+household survey: confirms rather than contradicts establishment strength
+unemployment: stable at 4.3%, no deterioration
+participation: stable at 61.8%, no hidden rate improvement via participation loss
+U6: down to 8.1%, modestly supportive
+wages: y/y cooling to 3.4%, no wage-spiral confirmation
+hours: unchanged, no extra labor-input acceleration
+composition: leisure / hospitality, local government and health care carry the print
+private breadth: better than feared, but private payrolls at 120k only modestly above consensus and broadly consistent with ADP
+slack: long-term unemployment remains the main hidden weakness
+
+JGM note: the +93k revision is important because it lifts the recent labor run-rate materially. A three-month average around 188k means the labor market is much more resilient than the pre-release consensus assumed. This weakens the case that the Fed can lean on labor deterioration to justify near-term easing.
+
+JGM note: the composition is not perfect. The print was flattered by government, leisure / hospitality and health care, while some cyclically sensitive areas remained weaker. But private payrolls at +120k are still inconsistent with a labor-market break. The right read is strong labor demand with composition caveats, not a clean broad-based boom and not a deterioration.
+
+JGM note: there is still no sign of a tight labor market in the wage data. Average hourly earnings at +0.3% m/m and +3.4% y/y, together with the softer ULC data, show wage pressure is cooling. That is the main reason the report should be read as “labor resilience allowing the Fed to wait,” not “wage-driven overheating.”
+
+The report does not validate the softest labor interpretation from Challenger, claims and PMI employment. It also does not fully validate an overheating labor market. The best read is resilient hiring with cooling wage pressure and some composition-quality caveats. The two-survey confirmation matters: establishment payrolls and household employment both improved, which removes the usual “payroll beat but household survey weak” objection.
+
+The wage detail is crucial. Average hourly earnings at 3.4% y/y and ULC at only +0.5% over four quarters both support the same interpretation: the inflation problem is not being led by an accelerating wage-cost channel. That does not make the report dovish, because labor resilience gives the Fed time to wait. But it means the hawkish impulse is from growth resilience and input / services-price pressure, not wage-price spiral dynamics.
+
+The composition keeps the improvement conditional. Leisure / hospitality, local government and health care are not the highest-quality cyclical leadership trio; financial activities and transportation weakness remain visible; long-term unemployment is still high versus a year earlier. That prevents a clean “labor acceleration” label even though the headline and revisions are decisively stronger than expected.
+
+State transition: improvement.
+
+Context from prior regional live file: The prior USD labor bucket was bifurcated between resilient employment levels and soft forward indicators, with claims contained but survey employment and labor perceptions weakening. This payroll report resolves the immediate weekly tension in favor of resilience: strong payrolls, upward revisions, stable unemployment and steady participation outweigh the earlier deterioration signals. The labor regime is still cooling in quality and wages, but it is not breaking.
+
+HF Take — Strategist Layer
+
+This is the release that locks in the week’s hold-biased Fed interpretation.
+
+For the Fed, the report removes near-term labor cover for cuts. A 172k payroll gain, +93k revisions, stable unemployment and steady participation are enough to keep officials focused on inflation and geopolitical supply risk. The wage line prevents a more aggressive hawkish interpretation: 3.4% y/y earnings and softer ULC mean the Fed can frame the problem as supply / energy / input-price pressure rather than a wage spiral.
+
+JGM note: the Fed should remove any residual easing bias from June. A roughly 188k three-month payroll average, stable unemployment and no wage acceleration point to a resilient labor market with cooling wage pressure. That is a hold configuration, not an imminent-cut configuration.
+
+For rates, the cleanest mapping is bear-flattener / higher-front-end risk unless inflation data soften or geopolitical risk fades. The payroll report does not by itself argue for hikes, because wages and hours are not accelerating and composition is not pristine. But it strongly reduces the plausibility of near-term cuts.
+
+For USD, the release supports the dollar through relative growth / policy-rate support, especially against currencies where labor or activity data are softer. The caveat is that if oil / war risk drives a risk-off dollar bid, the policy signal and safe-haven signal may reinforce each other, but they should not be confused.
+
+The key forward test is whether June private payrolls and cyclically sensitive sectors confirm this strength. A reversal of local-government / leisure-led gains or renewed long-term unemployment acceleration would weaken the improvement label. A second strong payroll report with stable wages would extend the “resilient growth, non-wage inflation shock” regime.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: The week ends with resilient headline growth and labor data, but weak signal quality: PMIs and payrolls beat, while inventories, supplier delays, public / low-wage payroll composition, weak core capex, survey-employment contraction, low quits, rising long-term unemployment and softer wage-cost data all argue against a clean overheating narrative.
+Why it matters: The Fed reaction function depends on whether the dominant risk is resilient stagflation or supply-driven inflation with underlying labor-cost disinflation.
+Implication: The near-term reaction function is hold-biased and USD/rates supportive, but the case is not “wage-price spiral”; it is “growth resilient enough to wait while supply/input inflation remains unresolved.”
+
+5 KEY RELEASES TO DIG INTO
+
+**** Employment Situation / NFP / Wages / Unemployment (5 Jun 2026)
+Why it matters: Week’s arbiter. Strong payroll beat, +93k revisions, three-month average near 188k, stable unemployment, steady participation and lower U6 resolve the immediate labor tension in favor of resilience, while wage cooling and composition caveats prevent a clean overheating read.
+**** ISM N-Mfg PMI / Prices Paid / Employment / New Orders (3 Jun 2026)
+Why it matters: Broadens the stagflationary signal into services: stronger activity and orders, cycle-high prices, inventory surge, weak employment and Beige Book-style consumer stress / sticky-cost context.
+**** ISM Manufacturing PMI / Prices Paid / Employment / New Orders (1 Jun 2026)
+Why it matters: Confirms manufacturing strength but with high prices, weak employment and supplier-delivery distortion. JGM’s new-orders less inventories point keeps future production support alive, while supplier deliveries and hiring caution preserve the front-loading caveat.
+*** Productivity Revised / Unit Labor Costs Revised (4 Jun 2026)
+Why it matters: Strongest disinflationary counterpoint of the week. ULC undershot materially, challenging the idea that input-price pressure is becoming a wage-cost spiral, while weak productivity challenges a clean AI-productivity boom narrative.
+*** S&P Global Services PMI Final / Composite PMI Final (3 Jun 2026)
+Why it matters: Creates the week’s largest survey conflict versus ISM services: stall-speed services, fast job shedding and price pass-through versus ISM acceleration.
+
+RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
+
+Does the NFP composition — leisure / hospitality, local government, health care — materially weaken the “labor resilience” conclusion, or are the +93k revisions, 188k three-month average and two-survey confirmation enough to treat the print as genuinely strong?
+Should the week’s inflation interpretation be led by ISM / S&P input-price pressure, or by wage-cost disinflation from AHE y/y cooling and ULC undershoot?
+Is the ISM services strength mostly inventory / front-loading, or does it contain enough genuine final-demand signal to override the S&P services stall-speed read?
+Are Challenger layoffs primarily structural AI reallocation, or do they foreshadow broader cyclical labor weakness that will later show up in payrolls and continuing claims?
+Is the AI-capex / organic manufacturing-upcycle thesis still viable after negative core capex and weak productivity, or should the week lean more heavily toward transport / inventory / front-loading distortion?
+Does the preliminary QCEW / benchmark information imply that payrolls had been underestimated by roughly 24–30k per month over the prior benchmark window, and if so does that materially strengthen the resilient-labor baseline versus the Fed’s assumed labor cooling narrative?
+What would falsify the current hold-biased reaction-function map fastest: June payroll reversal, ISM services prices falling below the mid-60s, core capex turning positive, or a geopolitical supply-chain normalization?
+
+<<USD_WEEK_END>>
+
+
+
+<<USD_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 29 May 2026
 
 A. USD WEEK — MACRO SYNTHESIS
