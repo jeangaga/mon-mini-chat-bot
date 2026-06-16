@@ -1,3 +1,787 @@
+
+<<USD_WEEK_BEGIN>>
+DATA WINDOW: 8 Jun 2026 to 12 Jun 2026
+
+A. USD WEEK — MACRO SYNTHESIS
+
+The USD week closed as a stagflationary constraint regime with a meaningful central-bank dovish offset. Growth/activity evidence was mixed: trade, inventories, nominal retail and existing-home sales supported near-term GDP optics, but much of that strength was distorted by energy, front-loading, lagged housing closings and nominal price effects. Labor cooled at the margin through ETI, NFIB hiring plans and claims / continuing claims, but not enough to signal a layoff cycle. Inflation remained the decisive axis: CPI confirmed energy-led headline re-acceleration and PPI added upstream / ex-trade core pass-through risk, while Cleveland Fed gauges and UMich long-run expectations prevented a clean immediate-hike signal. The Fed scout shifts the policy read from simply “pinned” to “hawkish hold with the hawk tail losing fundamental support”: the roster was silent in blackout, but the combination of softer core CPI, lower long-run inflation expectations and crude / Hormuz unwind weakens the persistence case into the 16–17 Jun FOMC.
+
+B. USD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+International trade and wholesale inventories supported Q2 GDP arithmetic, with a narrower deficit, exports / imports rising and inventories building. Existing-home sales beat consensus and reached the best level since December, while Redbook stayed strong nominally. But the quality was weaker: trade strength was petroleum / capital-goods and energy-price distorted, inventories looked precautionary, Redbook was nominal, and housing closings likely predated the latest rate / energy shock.
+
+Labor: -
+Supporting evidence:
+ETI declined from the revised April base, NFIB showed weaker hiring intentions, initial claims rose above consensus to 229k, the 4-week average moved higher, and continuing claims rose to 1.795mn. The labor signal is deterioration through hiring appetite and reabsorption, not broad firing: claims levels remain low and seasonal caveats matter, so the regime is cooling, not breaking.
+
+Inflation: -
+Supporting evidence:
+CPI rose 0.5% m/m and 4.2% y/y, driven by energy and gasoline, with real weekly earnings still negative. PPI was the hawkish counterpoint: final demand rose 1.1% m/m and 6.5% y/y, goods PPI surged, and ex food / energy / trade accelerated. The offset is that core CPI slowed to 0.2% m/m, Cleveland Fed median / trimmed CPI cooled to 0.3%, and UMich 5-year expectations fell, leaving inflation constrained but not yet broad-core runaway.
+
+Financial Conditions: ~
+Supporting evidence:
+Mortgage rates edged up to 6.60%, preserving the rate-sensitive housing constraint despite the existing-home-sales beat. Inflation data should keep front-end cuts priced out, and PPI is front-end supportive relative to the CPI-only read. But lower UMich long-run expectations, softer labor-quality signals and the Fed scout’s lower hike-tail / crude-unwind framing temper the hawkish tail. USD support remains rate-differential-based, not clean growth-quality-based.
+
+Policy Constraint: ~
+Supporting evidence:
+The Fed remains boxed in by energy-led realized inflation, but the central-bank tape materially softens the hike-tail read. Headline CPI and PPI are too hot for cuts, and PPI challenges CPI-core comfort through upstream / ex-trade pressure. But core CPI, Cleveland Fed gauges, claims softness, lower UMich 5-year expectations and the crude / Hormuz unwind weaken the persistence case. The June FOMC base case remains hold with easing bias removed toward neutral; the probability of a clean hawkish-dot / hike-optionality outcome is lower than after CPI / PPI alone.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 8 JUN 2026
+
+United States — Employment Trends (May)
+Release Date: 8 Jun 2026 | Local Time: 16:00
+Importance: *
+
+Reuters Data
+
+Employment Trends: 107,01 | Prior: 105,77 | Revised: 107,88
+
+Professional Market Commentary
+
+The Employment Trends Index decreased to 107.01 in May from an upwardly revised 107.88 in April. The Conference Board frames ETI as a leading composite for payroll employment, where turning points can foreshadow shifts in job gains or losses.
+
+No dedicated Tier 1 market debate formed around the release. The useful tape point is mechanical: the headline looks higher versus the originally reported prior, but lower versus the revised base.
+
+Comment — Economist Layer
+
+This is a mild labor-leading deterioration, not a labor-break signal.
+
+The hierarchy is simple:
+
+May is lower than the revised April base.
+The apparent improvement versus the unrevised prior is a revision artifact.
+ETI remains a composite leading indicator, not a hard labor release.
+The signal becomes more useful only when paired with hiring-plan, claims, payrolls, or hours data.
+
+The release therefore reinforces a cooler hiring-appetite thread, but it does not by itself change the labor regime.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD sequence had treated ETI as a secondary labor-leading indicator inside a low-firing / low-hiring regime. April’s ETI had stabilized after prior weakness, but the May decline from the revised base removes the cleaner stabilization read. Labor remains cooling at the margin rather than breaking.
+
+HF Take — Strategist Layer
+
+Low standalone reaction-function value.
+
+For the Fed, ETI is a background labor-softening input, not a policy trigger. It matters because it lines up with small-business hiring-plan deterioration, but it needs confirmation from claims, payrolls, hours, unemployment, and income before it can become a genuine easing argument. The strategist read is: labor demand is losing momentum at the leading-indicator level, but layoffs have not yet delivered a decisive dovish signal.
+
+TUESDAY 9 JUN 2026
+
+United States — NFIB Business Optimism Index (May)
+Release Date: 9 Jun 2026 | Local Time: 12:00
+Importance: ***
+
+Reuters Data
+
+NFIB Business Optimism Idx: 95,3 | Prior: 95,9
+
+Professional Market Commentary
+
+The professional tape framed NFIB as a stagflationary small-business print: weaker optimism, higher uncertainty, rising selling-price pressure, and softer hiring intentions. NFIB reported the index down 0.6pt to 95.3, still below its 52-year average of 98.0, while the Uncertainty Index rose to 91, above its historical average of 68.
+
+Reuters and WSJ both emphasized the inflation / fuel-cost channel: planned and realized price increases rose, while hiring plans weakened. Reuters reported 34% of firms planning price increases, the highest since July 2022, and noted the link to oil-supply uncertainty from the Iran conflict.
+
+Comment — Economist Layer
+
+NFIB is more important than the headline index move.
+
+The macro signal is the internal mix:
+
+optimism weakens again and remains below long-run average;
+uncertainty rises materially;
+selling-price plans re-accelerate;
+actual price increases rise;
+hiring plans fall to weak post-2020 levels;
+the operating constraint shifts from “labor quality” toward cost / labor-cost pressure.
+
+This is not a clean demand-collapse print. It is a small-business margin-squeeze print: firms face higher input and fuel costs, are more willing or forced to raise prices, but are less willing to expand hiring. That is the relevant stagflationary fingerprint.
+
+The “AI-haves vs energy-have-nots” framing is useful but should remain secondary. The broad small-business signal is weaker operating confidence and stronger price-setting pressure, not a generalized productivity boom.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive had already treated NFIB as a Main Street stagflation channel, with price pressure staying firm while hiring and expansion signals failed to improve. May extends that pattern: the index falls again, uncertainty rises, price plans strengthen, and hiring plans weaken. The small-business bucket therefore deteriorates further rather than stabilizing.
+
+HF Take — Strategist Layer
+
+NFIB tightens the policy constraint despite weaker growth color.
+
+For rates, this is not a direct market mover, but it argues against interpreting soft small-business sentiment as dovish. The Fed does not get clean relief if firms are simultaneously reporting weaker hiring appetite and stronger price-setting behavior. The release supports a hawkish-hold / constrained-hold map: demand breadth weakens, but the inflation channel blocks an easy easing interpretation.
+
+The next confirmation tests are claims, payroll-quality measures, PPI, and UMich inflation expectations.
+
+United States — International Trade $ (Apr)
+Release Date: 9 Jun 2026 | Local Time: 14:30
+Importance: **
+
+Reuters Data
+
+International Trade $: -55,9B | Prior: -60,3B | Revised: -56,6B | Reuters Poll: -56,1B | Surprise: 0,20B
+
+Professional Market Commentary
+
+The official BEA / Census release showed the goods and services deficit at $55.9bn in April, down $0.7bn from a revised $56.6bn in March. Exports rose to $327.1bn and imports rose to $383.0bn.
+
+Reuters framed the improvement as record-export-led, with petroleum and capital goods prominent. The same tape cautioned that the petroleum export impulse was heavily linked to crude-price effects from the Iran-war energy shock, making the GDP arithmetic cleaner than the macro signal.
+
+Comment — Economist Layer
+
+The trade beat is GDP-supportive but compositionally fragile.
+
+The hierarchy:
+
+the deficit is slightly narrower than expected;
+the March base is revised narrower;
+exports and imports both rise;
+record exports flatter the headline;
+petroleum and capital-goods flows dominate the incremental story;
+the energy-price channel makes the export strength less clean as a real-demand signal.
+
+This is a useful Q2 GDP-accounting input, but not evidence of durable external rebalancing. The narrower deficit improves net-export arithmetic, yet the underlying drivers are tied to post-shock price effects, front-loading reversal, energy flows, and tech / capital-goods concentration.
+
+State transition: false dawn.
+
+Context from prior regional live file: The prior USD archive had already treated trade and inventory mechanics as secondary but relevant for Q2 GDP arithmetic, especially after weak Q1 composition. April’s full trade release confirms a narrower deficit, but the quality remains distorted by energy and front-loading effects. Net exports help tracking, not the underlying domestic-demand regime.
+
+HF Take — Strategist Layer
+
+Low direct Fed relevance, moderate GDP-tracking relevance.
+
+For markets, the narrower deficit can support Q2 growth optics, but it should not be traded as clean U.S. demand acceleration or durable external repair. The Fed will not trade a petroleum-flattered export improvement against still-elevated inflation and softer labor-leading data. The strategist read is: better GDP arithmetic, weak regime content.
+
+United States — Redbook YY (1 Jun, w/e)
+Release Date: 9 Jun 2026 | Local Time: 14:55
+Importance: *
+
+Reuters Data
+
+Redbook YY: 9,1% | Prior: 9,0%
+
+Professional Market Commentary
+
+Redbook rose to 9.1% y/y from 9.0%. Public calendar sources describe Redbook as a same-store retail sales growth measure across large U.S. retailers; the series is nominal, not volume-adjusted.
+
+No Tier 1 institutional debate detected.
+
+Comment — Economist Layer
+
+Redbook remains a nominal consumer-resilience cross-check, not a real-consumption signal.
+
+The hierarchy:
+
+weekly same-store growth remains elevated;
+the sequential acceleration is marginal;
+the series is nominal and can be price-flattered;
+it contains no income, savings, credit, or volume decomposition;
+it cannot resolve the consumer-confidence versus spending tension.
+
+The important point is that high-frequency nominal retail activity has not rolled over. But in the current energy / price-shock setting, this is compatible with price pass-through rather than real volume strength.
+
+State transition: continuation, with false-dawn risk.
+
+Context from prior regional live file: The prior USD consumer sequence already treated Redbook as nominal-spending resilience that offsets an immediate consumer-collapse story without proving real demand strength. The move from 9.0% to 9.1% preserves that interpretation. The consumer remains employment-supported but inflation-constrained.
+
+HF Take — Strategist Layer
+
+Low standalone policy relevance.
+
+Redbook prevents an overly bearish real-time consumer read, but it does not give the Fed a clean growth or inflation signal. If retail control, real PCE, income, and labor weaken, Redbook will look price-flattered. If hard spending stays firm, it will support the view that nominal consumption resilience is limiting Fed relief. For now: useful cross-check, not a reaction-function driver.
+
+United States — Existing Home Sales / Existing Home Sales % Chg (May)
+Release Date: 9 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+Reuters Data
+
+Existing Home Sales: 4,17M | Prior: 4,02M | Revised: 4,04M | Reuters Poll: 4,07M | Surprise: 0,100M
+Exist. Home Sales % Chg: 3,2% | Prior: 0,2% | Revised: 0,7%
+
+Professional Market Commentary
+
+NAR reported existing-home sales up 3.2% in May to a 4.17mn annualized pace, with m/m gains in the Northeast, Midwest and South and flat sales in the West. The broader release also showed higher inventory, a record median price, and affordability still constrained by mortgage rates and prices.
+
+Reuters framed the print as stronger than expected and the highest pace since December, but also emphasized that May closings reflect contracts signed earlier, before the latest rate / oil shock fully transmitted.
+
+Comment — Economist Layer
+
+The beat is real, but durability is not proven.
+
+The hierarchy:
+
+sales beat consensus;
+the level is the highest since December;
+regional breadth improves;
+inventory rises;
+first-time buyers and higher-income buyers appear more active;
+prices remain sticky;
+closings lag current financing conditions.
+
+The critical distinction is transaction timing. Existing-home sales are closings, not same-month demand origination. The print likely captures contracts signed before the full mortgage-rate and energy-price shock hit household affordability. That makes the release a stronger housing-activity print than April, but not yet a clean recovery signal.
+
+This is best read as a rate-sensitive false dawn risk: the level improves from a weak base, but the forward test is whether pending sales, mortgage applications, and later closings survive the higher-rate window.
+
+State transition: false dawn.
+
+Context from prior regional live file: The prior USD housing sequence had moved from tentative stabilization back into rate-capped pressure, with Case-Shiller, FHFA, MBA rates and new-home sales showing affordability stress. May existing-home sales interrupts that deterioration at the closing level, but does not overturn it because the timing predates the latest financing shock. Housing remains a fragile rate-sensitive pocket rather than a durable cyclical engine.
+
+HF Take — Strategist Layer
+
+Housing is less weak tactically, but not Fed-relieving.
+
+For rates, the release reduces immediate recession / housing-break pressure, but sticky prices and a delayed closings window prevent a clean dovish interpretation. The Fed sees activity resilience in a rate-sensitive sector, not fast price-clearing disinflation. The next housing test is whether the higher-rate / higher-energy period shows up in pending sales, MBA purchase applications, and June closings.
+
+For USD / front-end pricing, the release is mildly growth-supportive but not enough to offset the broader stagflationary configuration.
+
+United States — Wholesale Inventories / Wholesale Sales (Apr)
+Release Date: 9 Jun 2026 | Local Time: 16:00
+Importance: **
+
+Reuters Data
+
+Wholesale Invt(y), R MM: 0,6% | Prior: 0,5% | Reuters Poll: 0,5% | Surprise: 0,10%
+Wholesale Sales MM: 2,0% | Prior: 2,8% | Revised: 3,0% | Reuters Poll: 2,4% | Surprise: -0,40%
+
+Professional Market Commentary
+
+Census reported April wholesale inventories revised to +0.6% m/m from the +0.5% advance estimate. The release also showed merchant-wholesale sales up 2.0% m/m.
+
+Reuters framed the inventory increase as likely reflecting stock-building to hedge against shortages and high prices from the Iran-war shock. Inventories rose for a third consecutive month, durable goods led the build, and the inventory-to-sales ratio fell to 1.19 months, the lowest since December 2013.
+
+Comment — Economist Layer
+
+Wholesale trade extends the front-loading / stockpiling regime rather than signaling clean restocking.
+
+The hierarchy:
+
+inventories beat slightly;
+sales miss versus consensus but still rise;
+inventories continue to build;
+durable goods drive the inventory increase;
+the I/S ratio is very low;
+the Reuters interpretation is precautionary stock-building under supply and price risk.
+
+The GDP arithmetic can look constructive because inventories and sales are both positive, but the macro quality is weaker. In a normal cycle, inventory accumulation might signal confidence in final demand. In this cycle, the better interpretation is precautionary stockpiling against shortages, high prices, shipping disruption, and energy / commodity uncertainty.
+
+The low inventory-to-sales ratio is not a pure demand boom signal; it is also consistent with nominal sales being price-flattered and supply chains being managed defensively.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive had already treated trade and inventory mechanics as GDP-relevant but distorted by front-loading, war logistics and supply-chain management. April wholesale trade confirms that pattern: inventories keep rising, but the build looks precautionary rather than demand-led. The inventory channel supports near-term tracking without improving growth quality.
+
+HF Take — Strategist Layer
+
+Moderate GDP-accounting relevance, limited Fed signal.
+
+For the Fed, precautionary inventory building is not clean growth. It can support activity data in the short run while worsening the policy mix if it reflects supply stress and input-cost hedging. For markets, the risk is to overread inventories as cyclical recovery. The strategist read is: Q2 arithmetic may be flattered, but the regime remains supply-shock / front-loading distorted.
+
+WEDNESDAY 10 JUN 2026
+
+United States — MBA 30-Yr Mortgage Rate (1 Jun, w/e)
+Release Date: 10 Jun 2026 | Local Time: 13:00
+Importance: *
+
+Reuters Data
+
+MBA 30-Yr Mortgage Rate: 6,60% | Prior: 6,57%
+
+Professional Market Commentary
+
+MBA reported that the average contract rate for 30-year fixed mortgages with conforming loan balances increased to 6.60% in the latest weekly survey.
+
+No dedicated macro debate formed around this weekly rate print. Its role is as a housing-channel confirmation: mortgage rates continue to grind higher after the earlier existing-home-sales beat.
+
+Comment — Economist Layer
+
+This is a small but directionally important housing-affordability input.
+
+The hierarchy:
+
+the 30-year mortgage rate rises 3bp w/w;
+the move is small in isolation;
+the level remains restrictive;
+the direction reinforces the affordability caveat in the existing-home-sales block;
+the May existing-sales print was based on earlier contracts, while this rate captures the more current financing window.
+
+The release therefore does not change the macro dashboard by itself, but it strengthens the argument that the housing “rebound” needs confirmation from forward-looking demand indicators.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD housing bucket had already been rate-capped, with mortgage rates around the mid-6% area limiting affordability despite occasional activity bounces. The move to 6.60% preserves that constraint. Housing remains fragile because closings can look better even as current financing conditions deteriorate.
+
+HF Take — Strategist Layer
+
+Low standalone market relevance, but useful for falsifying the housing rebound.
+
+For rates, this does not generate a fresh signal. For housing, it raises the bar for treating May existing-home sales as a durable turn. If pending sales, applications and June closings soften, the May existing-home-sales beat should be treated as lagged rather than cyclical. The Fed read is limited: housing is not collapsing, but the rate-sensitive channel remains restrictive.
+
+United States — CPI / Core CPI / CPI Index / Core CPI Index / Real Weekly Earnings / CPI Wage Earner (May)
+Release Date: 10 Jun 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+CPI MM, SA: 0,5% | Prior: 0,6% | Reuters Poll: 0,5% | Surprise: 0,00%
+CPI YY, NSA: 4,2% | Prior: 3,8% | Reuters Poll: 4,2% | Surprise: 0,00%
+Core CPI MM, SA: 0,2% | Prior: 0,4% | Reuters Poll: 0,3% | Surprise: -0,10%
+Core CPI YY, NSA: 2,9% | Prior: 2,8% | Reuters Poll: 2,9% | Surprise: 0,00%
+CPI Index, NSA: 335,123 | Prior: 333,020 | Reuters Poll: 335,114 | Surprise: 0,0090
+Core CPI Index, SA: 336,121 | Prior: 335,423
+Real Weekly Earnings MM: -0,2% | Prior: -0,2%
+CPI Wage Earner: 328,829 | Prior: 326,541
+
+Professional Market Commentary
+
+The BLS release confirmed a split inflation print: headline CPI rose 0.5% m/m and 4.2% y/y, while core CPI rose only 0.2% m/m and 2.9% y/y. Energy rose 3.9% m/m and accounted for more than 60% of the monthly all-items increase; the 12-month energy increase reached 23.5%.
+
+Professional commentary broadly split into two camps. The inflation-scare camp focused on headline CPI above 4%, gasoline +7.0% m/m and +40.5% y/y, and real-income pressure. The more constructive camp focused on the softer core m/m, core goods deflation, shelter cooling, and the absence of immediate tariff-style goods pass-through. Reuters’ post-release framing captured the same tension: headline inflation surged on energy, but the bar for near-term Fed tightening remained high because core CPI slowed to 0.2%.
+
+Comment — Economist Layer
+
+This is the decisive release of the week because it validates the energy-shock regime while refusing to validate broad core inflation acceleration.
+
+The signal hierarchy is two-track:
+
+Headline / regime signal:
+
+CPI +0.5% m/m and +4.2% y/y confirms official inflation re-acceleration.
+Energy is the dominant driver, with energy +3.9% m/m and +23.5% y/y.
+Gasoline +7.0% m/m and +40.5% y/y makes the household-visible shock explicit.
+Food +0.2% m/m and +3.1% y/y adds to the cost-of-living pressure.
+CPI-W and negative real weekly earnings reinforce the squeeze on wage earners.
+
+Core / Fed-relevant signal:
+
+core CPI slows to 0.2% m/m versus 0.4% prior and 0.3% consensus;
+core CPI y/y rises to 2.9%, but the monthly impulse is contained;
+core commodities fall 0.1% m/m;
+shelter slows to 0.3% m/m after April’s 0.6%;
+transportation services fall 0.6%;
+motor vehicle insurance, household furnishings and new vehicles decline.
+
+The correct interpretation is not “inflation solved” and not “broad overheating.” It is a supply-shock CPI: headline inflation is high enough to block easing, but the softer core mix is not strong enough to force immediate tightening. That is why the release pins the Fed rather than moving the reaction function cleanly in either direction.
+
+The weak-real-income detail is important. A headline energy shock with real weekly earnings down 0.2% m/m is not reflationary in the benign sense; it is a household purchasing-power squeeze. That aligns with NFIB’s fuel-cost / margin-pressure read and the lower Ipsos sentiment print.
+
+State transition: escalation in headline inflation with core stabilization.
+
+Context from prior regional live file: The prior USD archive had ended in a hawkish-hold configuration: activity and payrolls were resilient enough to deny cuts, while ISM prices, supplier delays and Beige Book spillovers kept the inflation constraint alive. May CPI confirms the inflation side of that regime at the headline level, but the core detail prevents a clean upgrade to outright tightening pressure. The regime shifts from “policy constrained by inflation risk” to “policy pinned by realized energy-led inflation but still not broad core re-acceleration.”
+
+HF Take — Strategist Layer
+
+This is a Fed-pinning print.
+
+The reaction-function read:
+
+headline CPI at 4.2% forecloses a near-term dovish pivot;
+energy contribution makes the inflation shock visible to households and politics;
+softer core m/m prevents a clean hike signal;
+negative real earnings and weaker sentiment limit the benign-growth interpretation;
+the June FOMC remains a hold, but the communication risk shifts toward explaining why high headline inflation does not automatically imply a hike.
+
+For rates, the front-end should not price cuts off this release. But neither should it treat the print as a simple hike trigger unless PPI, core PCE mapping, UMich expectations and June CPI show broader pass-through. The key forward node is whether energy pressure migrates into core goods, services and expectations.
+
+For USD, the release is supportive through relative rate constraint, but the growth-quality caveat matters: this is not clean U.S. exceptionalism, it is energy-led stagflation with contained underlying core for now.
+
+United States — Cleveland Fed CPI (May)
+Release Date: 10 Jun 2026 | Local Time: 17:00
+Importance: **
+
+Reuters Data
+
+Cleveland Fed CPI: 0,3% | Prior: 0,4%
+
+Professional Market Commentary
+
+The Cleveland Fed reported both median CPI and 16% trimmed-mean CPI at +0.3% m/m in May, down from +0.4% in April. The Cleveland Fed describes these measures as designed to provide a better signal of the underlying inflation trend by focusing away from extreme monthly price changes.
+
+No separate Tier 1 market debate formed around the Cleveland release; it was interpreted through the CPI block.
+
+Comment — Economist Layer
+
+This corroborates the contained-core side of the CPI report.
+
+The hierarchy:
+
+median CPI cools from 0.4% to 0.3%;
+trimmed-mean CPI also cools from 0.4% to 0.3%;
+both remain above a comfortable 2% annualized pace;
+but the direction confirms that the May CPI acceleration is not broad-based in the same way as the headline;
+the release supports “underlying inflation stabilization,” not “underlying inflation collapse.”
+
+This matters because it reduces the risk of overreacting to the headline CPI. The energy shock is real, but the distribution-sensitive inflation gauges do not yet show generalized pass-through.
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior USD inflation bucket was already split between elevated input prices and contained wage / ULC pressure. Cleveland Fed median and trimmed-mean CPI now add evidence that the underlying inflation impulse is less severe than headline CPI. The inflation regime remains constrained, but not yet a broad core breakout.
+
+HF Take — Strategist Layer
+
+This is the dovish offset inside a hawkish headline week.
+
+For the Fed, Cleveland Fed CPI supports patience. It gives policymakers cover not to hike immediately despite headline CPI at 4.2%, because the trimmed and median gauges are cooling. It does not restore an easing bias: 0.3% m/m is still too firm and headline inflation is too visible. The strategist read is: hold, not cut; monitor pass-through before hiking.
+
+United States — LSEG IPSOS PCSI (Jun)
+Release Date: 10 Jun 2026 | Local Time: 17:00
+Importance: *
+
+Reuters Data
+
+LSEG IPSOS PCSI: 49,14 | Prior: 49,65
+
+Professional Market Commentary
+
+LSEG describes the Ipsos Primary Consumer Sentiment Index as a monthly consumer economic assessment built from survey questions covering current and future conditions, intentions and expectations across countries.
+
+The June U.S. print slipped to 49.14 from 49.65. No dedicated Tier 1 market debate formed around this low-tier sentiment release; the useful interpretation is as a cross-check against the CPI real-income squeeze.
+
+Comment — Economist Layer
+
+The PCSI print confirms consumer mood deterioration but does not independently move the macro regime.
+
+The hierarchy:
+
+the index falls below the prior month;
+it stays below the 50 neutral line;
+the decline is directionally consistent with headline CPI acceleration;
+real weekly earnings were negative in the CPI block;
+it aligns with soft small-business sentiment and consumer purchasing-power pressure.
+
+The release does not tell us whether spending volumes will break. It tells us that households are absorbing the energy-price shock through lower sentiment and real-income stress.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD consumer bucket was already split between resilient nominal spending and weak sentiment / affordability. Ipsos reinforces that split after CPI: the consumer is not yet collapsing in nominal activity, but confidence is eroding under the price shock. The consumer regime remains inflation-constrained.
+
+HF Take — Strategist Layer
+
+Low standalone reaction-function value, but useful in combination.
+
+For the Fed, weaker sentiment matters only if it spills into spending, labor, or inflation expectations. In this week’s configuration, the PCSI decline supports the stagflationary framing: headline inflation squeezes households while nominal activity remains sticky. The key market test is UMich, especially 1-year and 5-year inflation expectations.
+
+THURSDAY 11 JUN 2026
+
+United States — Initial Jobless Claims / Jobless Claims 4Wk Avg / Continuing Claims
+Release Date: 11 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Initial Jobless Clm: 229k | Prior: 225k | Reuters Poll: 219k | Surprise: 10,0k
+Jobless Clm 4Wk Avg: 219,00k | Prior: 214,75k
+Cont Jobless Clm: 1,795M | Prior: 1,771M | Reuters Poll: 1,780M | Surprise: 0,0150M
+
+Professional Market Commentary
+
+DOL reported initial claims at 229k for the week ended 6 Jun, up 4k from 225k, with the 4-week average rising to 219k. Continuing claims rose to 1.795mn for the week ended 30 May, while the insured unemployment rate held at 1.2%.
+
+Reuters framed the rise as marginal and still consistent with labor-market resilience, but acknowledged the higher claims level, the summer seasonal caveat around school-related filings, and the rise in continuing claims.
+
+Comment — Economist Layer
+
+Claims validate the direction of labor cooling, but not a labor break.
+
+The signal hierarchy:
+
+initial claims are above consensus;
+the 4-week average turns higher;
+continuing claims rise and exceed consensus;
+the level of initial claims remains low in absolute terms;
+the summer-school seasonal caveat reduces confidence in overreading the weekly move.
+
+The claims complex therefore confirms the softening pattern already visible in ETI and NFIB hiring intentions, but it does not yet signal outright labor-market stress. The more important detail is continuing claims: if reabsorption is slowing while initial claims remain only modestly higher, the labor market can shift from “low firing / low hiring” toward “still low firing, weaker re-employment.”
+
+This is a mild deterioration, not a recessionary claims print. In the current inflation context, that distinction matters: mild labor cooling does not give the Fed policy relief when CPI and PPI are still running hot.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD labor bucket had been defined by resilient payroll creation but softening labor-leading indicators and weaker hiring appetite. Claims now push the live file one step further in that direction without confirming a layoff cycle. Labor is cooling through hiring and reabsorption first, not yet through broad firing.
+
+HF Take — Strategist Layer
+
+Claims tighten the Fed box rather than opening an easing window.
+
+A clean dovish labor signal would require either a faster initial-claims move, a more persistent continuing-claims uptrend, or confirmation in payrolls / unemployment. This release is not enough. Instead, it reinforces the stagflation configuration: labor is no longer cleanly strong, but inflation is too high for the Fed to lean dovish.
+
+For rates, claims reduce the probability that markets can trade pure overheating, but they do not justify cuts. For USD, the signal is mixed: softer labor quality weakens the exceptionalism story, but the inflation constraint keeps rate support in place.
+
+United States — PPI Final Demand / Core PPI / PPI ex Food, Energy & Trade / PPI Machine Manufacturing (May)
+Release Date: 11 Jun 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+PPI Machine Manuf'ing: 197,4 | Prior: 197,0 | Revised: 196,9
+PPI Final Demand YY: 6,5% | Prior: 6,0% | Revised: 5,7% | Reuters Poll: 6,4% | Surprise: 0,10%
+PPI Final Demand MM: 1,1% | Prior: 1,4% | Revised: 1,1% | Reuters Poll: 0,7% | Surprise: 0,40%
+PPI exFood/Energy YY: 4,9% | Prior: 5,2% | Revised: 4,9% | Reuters Poll: 5,4% | Surprise: -0,50%
+PPI exFood/Energy MM: 0,4% | Prior: 1,0% | Revised: 0,7% | Reuters Poll: 0,5% | Surprise: -0,10%
+PPI ex Food/Energy/Tr YY: 5,1% | Prior: 4,4%
+PPI ex Food/Energy/Tr MM: 0,8% | Prior: 0,6% | Revised: 0,5%
+
+Professional Market Commentary
+
+BLS reported final-demand PPI +1.1% m/m in May and +6.5% y/y, the largest 12-month increase since November 2022. The official release showed a sharp split: final-demand goods rose 2.8%, while final-demand services rose 0.3%.
+
+The professional tape framed the print as the hawkish counterpoint to the prior day’s CPI. Axios and other market coverage emphasized energy as the main driver, with goods prices up sharply and producer inflation pressure spreading deeper into supply chains. The key institutional debate is not only headline PPI, but whether the PPI components feeding core PCE are hotter than CPI’s contained-core signal suggested.
+
+Comment — Economist Layer
+
+PPI materially changes the weekly inflation map.
+
+The signal hierarchy:
+
+Headline / energy signal:
+
+final-demand PPI +1.1% m/m is well above consensus;
+final-demand PPI +6.5% y/y extends the producer-side inflation acceleration;
+final-demand goods +2.8% is the dominant impulse;
+energy and gasoline are the core drivers of the goods shock;
+this confirms the upstream version of the CPI energy shock.
+
+Underlying / PCE-mapping signal:
+
+standard ex food / energy PPI is cooler than expected at 0.4% m/m and 4.9% y/y;
+but the no-trade core accelerates to 0.8% m/m and 5.1% y/y;
+trade-margin compression likely flatters the standard core measure;
+pipeline and intermediate-demand measures point to pass-through risk;
+machine-manufacturing prices edge higher, consistent with capital-goods cost pressure.
+
+The important tension is that standard core PPI looks less alarming, but the deeper ex food / energy / trade measure is not contained. That matters for PCE because trade margins and portfolio / transport / financial-services inputs can alter the CPI-to-PCE bridge. PPI therefore puts the CPI “contained core” thesis on watch.
+
+This is not just an energy headline print. It is an energy-led upstream inflation shock with enough underlying and pipeline firmness to raise the risk that core PCE will look firmer than CPI core suggested.
+
+State transition: escalation.
+
+Context from prior regional live file: The prior USD inflation bucket had moved from high input-price risk to a split CPI signal: headline CPI had escalated, but core CPI and Cleveland Fed gauges still looked contained. PPI changes that balance by showing upstream pressure and a firmer ex-trade core. The weekly inflation regime shifts from “headline energy shock with contained core” to “headline energy shock with upstream pass-through risk.”
+
+HF Take — Strategist Layer
+
+PPI is the hawkish inflation block of the week.
+
+For the Fed, the release does three things:
+
+it validates the energy-led producer-price shock;
+it challenges the idea that CPI core alone is enough to call underlying inflation contained;
+it makes the core-PCE bridge the decisive next inflation test.
+
+This is not a clean immediate-hike trigger because standard ex-food / energy PPI and CPI core are not uniformly hot. But it removes comfort from the soft core-CPI print. The reaction function becomes tighter: cuts are off the table, hold is still the base case, and the hike tail becomes more sensitive to PCE and the next CPI.
+
+For rates, PPI is front-end supportive relative to the CPI-only read. For USD, it supports rate differentials, but the growth-quality backdrop remains stagflationary rather than clean exceptionalism.
+
+FRIDAY 12 JUN 2026
+
+United States — University of Michigan Sentiment / Conditions / Expectations / Inflation Expectations Prelim (Jun)
+Release Date: 12 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+Reuters Data
+
+U Mich Sentiment Prelim: 48,9 | Prior: 44,8 | Reuters Poll: 46,0 | Surprise: 2,90
+U Mich Conditions Prelim: 48,4 | Prior: 45,8 | Reuters Poll: 46,2 | Surprise: 2,20
+U Mich Expectations Prelim: 49,3 | Prior: 44,1 | Reuters Poll: 44,3 | Surprise: 5,00
+U Mich 1Yr Inf Prelim: 4,6% | Prior: 4,8%
+U Mich 5-Yr Inf Prelim: 3,4% | Prior: 3,9%
+
+Professional Market Commentary
+
+The University of Michigan preliminary June survey showed sentiment rising to 48.9 from May’s record low of 44.8, with the rebound linked to lower gasoline prices and broad improvement across demographic groups. Long-run inflation expectations fell to 3.4% from 3.9%, while year-ahead inflation expectations eased to 4.6% from 4.8%. ([Reuters][1])
+
+Professional commentary did not treat the beat as a clean recovery. Reuters, Axios and Advisor Perspectives all framed the move as an off-the-floor rebound from extremely depressed levels, driven by gasoline relief, with sentiment still historically weak and inflation concerns still elevated. ([Reuters][1])
+
+Comment — Economist Layer
+
+UMich is a two-track release: weak level, better direction, important inflation-expectations relief.
+
+The signal hierarchy:
+
+headline sentiment beats consensus and rises for the first time in several months;
+expectations beat materially more than current conditions;
+the level remains extremely depressed and close to historical stress readings;
+the bounce is gasoline-relief-driven rather than broad demand recovery;
+the survey window is stale relative to the latest escalation and the 10–11 Jun CPI / PPI sequence;
+the 5-year inflation-expectations fall from 3.9% to 3.4% is the genuinely Fed-relevant positive.
+
+The false-dawn risk is high because the level remains bleak and the improvement is off a record-low base. The lower-income skew also matters: households most exposed to gasoline got relief as pump prices eased, but that is not the same as a broad recovery in real income expectations or spending power.
+
+The inflation-expectations detail is more important than the sentiment bounce. The 5-year measure erasing May’s jump partially offsets the hawkish PPI message. It does not remove the inflation constraint, because 3.4% remains above the 2024 range and the survey preceded the latest escalation. But it prevents the week from closing as an unambiguous inflation-psychology deterioration.
+
+State transition: false dawn, with inflation-expectations stabilization.
+
+Context from prior regional live file: The prior USD consumer bucket was split between resilient nominal spending and depressed confidence under inflation pressure. UMich confirms that structure: sentiment improves, but only from an extreme floor and largely because gasoline relief temporarily eases household stress. The inflation-expectations fall is a meaningful offset to CPI / PPI pressure, but not enough to change the weekly regime away from stagflationary constraint.
+
+HF Take — Strategist Layer
+
+UMich is the week’s dovish offset, but not a dovish pivot.
+
+For the Fed, the release does three things:
+
+it reduces near-term concern that household inflation psychology is unanchoring;
+it offsets part of the hawkish PPI / core-PCE-input risk;
+it does not create easing room because headline CPI and PPI are still too high.
+
+The market-relevant point is that the 5-year expectations drop lowers the probability of a near-term communication panic around inflation expectations. But the survey’s timing and level prevent a clean dovish interpretation. The Fed remains pinned: hold remains the base case, cuts remain blocked by realized inflation, and hikes require confirmation from PCE / June CPI / expectations persistence.
+
+For USD, the release mildly tempers the hawkish inflation story but does not reverse rate support. For risk assets, it is marginally supportive because it suggests households have not fully internalized the energy shock into long-run expectations, but the sentiment level remains recessionary-looking.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The Fed tape is speakerless by design because the June 6–18 blackout covered the whole roster, so the reaction-function update comes from data, geopolitics and pricing rather than communication. The scout’s policy state is “hawkish hold, but the hawk tail is losing fundamental support”: May CPI’s hot headline keeps cuts blocked, but soft core CPI, lower Michigan long-run expectations and the crude / Hormuz unwind weaken the persistence case into Warsh’s first FOMC. The June 17 base case remains hold at 3.50–3.75%, with easing-bias language likely removed toward neutral; the incremental change is lower confidence that the SEP median needs to pencil a 2026 hike rather than merely flag hike risk.
+
+Federal Reserve blackout / roster — Jun 7–13
+Importance: ***
+
+Key policy signal:
+No on-record Fed policy remarks in the window; Warsh, Williams, Powell, Waller, Jefferson, Barr, Bowman, Cook and regional voters were silent under blackout.
+
+Representative quote:
+“no on-record Fed policy remarks June 7–13.”
+
+Incremental reaction function:
+The absence of speakers makes the weekly state transition data-led. The committee cannot validate or push back against the dovish offsets until June 17, increasing the importance of Warsh’s debut statement, SEP framing and presser tone. The policy signal is therefore not communication drift, but a silent committee facing softer persistence evidence.
+
+May CPI — Jun 10
+Importance: ***
+
+Key policy signal:
+Headline CPI at 4.2% y/y and +0.5% m/m keeps the Fed constrained, but core CPI at +0.2% m/m, core commodities at −0.1% and energy accounting for the bulk of the monthly gain support the center’s one-time-energy-shock framing.
+
+Representative quote:
+“headline 4.2% on energy; core +0.2% MoM.”
+
+Incremental reaction function:
+CPI blocks cuts but does not force immediate hikes. It validates a hold / neutral-bias framework: headline inflation is too visible to ignore, but the core breadth needed for a clean hike signal is absent. CPI therefore weakens the hawkish persistence argument relative to headline-only optics.
+
+University of Michigan preliminary June survey — Jun 12
+Importance: ***
+
+Key policy signal:
+Inflation expectations eased: 1-year expectations fell to 4.6% from 4.8%, while 5–10-year expectations fell to 3.4% from 3.9%, relaxing the center’s stated expectations tripwire.
+
+Representative quote:
+“5–10yr exp 3.9%→3.4%; 1-yr 4.8%→4.6%.”
+
+Incremental reaction function:
+This is the key dovish offset to CPI / PPI. It lowers the probability that the June SEP needs to validate a near-term hike path on inflation-psychology grounds. The tripwire relaxed, but did not clear: 3.4% remains elevated enough to keep the Fed cautious.
+
+Crude / Hormuz tape — Jun 8–12
+Importance: ***
+
+Key policy signal:
+The energy shock source began to unwind in the scout tape, with crude at two-month lows and a reported draft deal involving Hormuz reopening. The hawk bloc’s persistence case loses its single most important input if the crude unwind holds.
+
+Representative quote:
+“the hawks’ single-factor dependency cracks.”
+
+Incremental reaction function:
+This validates the one-time-shock framing and reduces the probability that headline inflation persistence forces a hike. Durability is the caveat: an unsigned deal or renewed escalation would immediately re-arm the hawks and reverse the dovish drift.
+
+Market pricing — Jun 7–13
+Importance: **
+
+Key policy signal:
+Prediction-market pricing moved lower on the hike tail, with the scout noting Polymarket 2026-hike odds around 35% and Kalshi around 63% for a hike before mid-2027, while June 17 remained a near-certain hold.
+
+Representative quote:
+“2026-hike odds compressed.”
+
+Incremental reaction function:
+Pricing is now more aligned with the center’s hold / neutral framework, but the source quality is explicitly lower and should be refreshed against CME before import. The signal is directional rather than definitive: the market has partly unwound last week’s hawkish overshoot.
+
+Warsh — institutional setup / first FOMC as Chair
+Importance: ****
+
+Key policy signal:
+Warsh is silent in-window but is the dominant communication variable because June 17 is his first FOMC as Chair. The scout frames the meeting as a guidance-regime and credibility event, with bias-to-neutral widely anticipated.
+
+Representative quote:
+“June 17 is a guidance-regime and credibility event.”
+
+Incremental reaction function:
+Warsh can use softer persistence evidence to deliver a neutral debut without looking politically dovish. The larger surprise space is now a softer-than-feared statement / SEP rather than a hawkish shock, though committee hawks keep dissent risk alive.
+
+Williams — Jun 3 carry-over
+Importance: ***
+
+Key policy signal:
+Williams’ carry-over framework was “exactly in the right place,” with a persistence-not-level hike bar. The in-window data moved toward his framework: soft core CPI, lower expectations, and crude relief.
+
+Representative quote:
+“exactly in the right place.”
+
+Incremental reaction function:
+Williams becomes the center anchor for looking through the energy shock if expectations stay contained. The current week supports hold / neutral rather than hike-optionality, but persistence remains the test.
+
+Logan — Jun 3 carry-over
+Importance: ***
+
+Key policy signal:
+Logan remains the hawk-tail anchor, with carry-over hike optionality “later this year.” The scout notes that the fundamental support for that position eroded this week as energy and expectations moved the wrong way for hawks.
+
+Representative quote:
+“could be necessary later this year.”
+
+Incremental reaction function:
+Logan / hawk optionality remains live but more conditional. A re-escalation in crude, hotter June CPI or renewed expectations drift would re-arm the hike case; without that, hawkish dissent is possible but harder to convert into the median reaction function.
+
+Waller — May 22 carry-over
+Importance: **
+
+Key policy signal:
+Waller’s carry-over concern was 1–5-year expectations drift. Michigan’s long-run expectations decline directly relaxes that tripwire.
+
+Representative quote:
+“expectations drift ‘concerning’.”
+
+Incremental reaction function:
+The Waller tripwire did not disappear, but it moved away from immediate activation. That reduces the probability of a communication panic around inflation expectations at the June meeting.
+
+Bottom line — central bank tape
+
+The Fed remains on hold, but the scout lowers the hawkish tail embedded in the CPI / PPI-only read. The committee is silent and still hawk-tilted, but the data/geopolitics cluster moved toward Williams’ one-time-energy / expectations-contained framework. Policy Constraint therefore improves from outright tight constraint to unresolved / neutral constraint: cuts are still blocked, but hikes require fresh confirmation from core PCE, June CPI, expectations persistence or energy re-escalation.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: CPI core and Cleveland Fed gauges suggested contained underlying inflation, PPI ex food / energy / trade challenged that comfort, while UMich long-run inflation expectations re-anchored lower.
+Why it matters: The Fed is pinned by a supply shock: realized inflation is too hot to ease, but core CPI, softening labor and lower UMich long-run expectations make immediate tightening less clean.
+Implication: Core PCE is the next reconciliation node; June CPI and the UMich final decide whether energy pressure broadens or remains a headline / pipeline shock.
+
+5 KEY RELEASES TO DIG INTO
+
+**** CPI / Core CPI / CPI Index / Core CPI Index / Real Weekly Earnings / CPI Wage Earner (10 Jun)
+Why it matters: Flagship consumer-price release. Confirms energy-led headline inflation escalation while softer core prevents a clean immediate-hike signal.
+
+**** PPI Final Demand / Core PPI / PPI ex Food, Energy & Trade / PPI Machine Manufacturing (11 Jun)
+Why it matters: Hawkish counterpoint to CPI. Headline and goods PPI are hot, and the ex-trade core / pipeline detail challenges the “contained core” thesis.
+
+*** University of Michigan Sentiment / Inflation Expectations Prelim (12 Jun)
+Why it matters: Week-closing expectations release. Sentiment bounced from a record-low floor, but the key Fed-relevant signal is the 5-year expectations drop from 3.9% to 3.4%.
+
+*** Initial Jobless Claims / Continuing Claims (11 Jun)
+Why it matters: Labor validation test after ETI and NFIB hiring deterioration. Claims show mild deterioration, especially through the 4-week average and continuing claims, but levels remain low.
+
+*** NFIB Business Optimism Index (9 Jun)
+Why it matters: Best Main Street stagflation signal: weaker optimism, higher uncertainty, rising price plans, weaker hiring appetite.
+
+RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
+
+Does PPI ex food / energy / trade invalidate the CPI contained-core thesis, or is it still too narrow / pipeline-heavy to drive near-term core PCE?
+Are hot PPI core-PCE inputs enough to shift the Fed communication tone at the June FOMC?
+Is the UMich 5-year expectations decline a genuine re-anchoring signal, or a stale gasoline-relief artifact that could reverse in the final survey?
+Do claims mark a real reabsorption slowdown, or are they still mostly seasonal / low-level noise?
+Is the NFIB price-plan surge mostly fuel-cost pass-through, or broader small-business pricing power?
+Would lower energy prices be enough to restore a disinflationary narrative, or has the shock already broadened into upstream / pipeline prices?
+Does the housing false-dawn call survive if sentiment and labor data hold up better than expected?
+
+<<USD_WEEK_END>>
+
+
+
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 1 Jun 2026 to 5 Jun 2026
 
