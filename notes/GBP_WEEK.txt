@@ -1,12 +1,17 @@
 
 <<GBP_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 12 Jun 2026
+CENTRAL BANK TAPE WINDOW: 27 Apr 2026 to 22 May 2026
 
 A. GBP WEEK — MACRO SYNTHESIS
 
-GBP closes the concatenated window as a soft-growth / inflation-constrained file rather than a clean dovish easing story. The UK sequence begins with retail still deeply weak despite a bounce from April’s extreme CBI low, then moves into housing stabilisation only at depressed levels, and finally broadens into an April monthly GDP contraction led by services. The signal is not a collapse: the 3M/3M GDP trend remains positive and manufacturing beat expectations. But the direction of travel is clear — household-sensitive and services-led activity are fragile.
+GBP closes the concatenated window as a soft-growth / inflation-constrained file, with the BoE reaction function already carrying a hawkish-drifting hold from the pre-window policy tape. The UK data sequence begins with retail still deeply weak despite a bounce from April’s extreme CBI low, then moves into housing stabilisation only at depressed levels, and finally broadens into an April monthly GDP contraction led by services. The signal is not a collapse: the 3M/3M GDP trend remains positive and manufacturing beat expectations. But the direction of travel is clear — household-sensitive and services-led activity are fragile.
 
-The BoE problem is that the same external shock hurting activity also keeps imported inflation and energy pass-through risk alive. Retail selling-price growth in the CBI survey cooled, which helps at the margin, but RICS and GDP show that restrictive rates are already biting the domestic economy. GBP therefore trades a two-sided macro map: weaker UK real activity argues against hawkishness, but the BoE cannot treat the deterioration as a clean easing trigger while energy / import-cost pass-through remains a live risk.
+The BoE tape sharpens the tension. The April MPC / MPR cluster was a hawkish-drifting hold: 8–1 at 3.75%, with Huw Pill dissenting for a 25bp hike, the first hike vote since the prior tightening cycle ended. The committee’s reaction function became explicitly energy-shock dependent: look through direct imported inflation where possible, but act if second-round persistence shows up in services, expectations or wages. Mann and Pill defined the hawkish flank; Dhingra and Taylor anchored the dovish / slack-sensitive flank; Bailey and the centre held the line at state-contingent patience.
+
+The late BoE-window CPI undershoot — headline 2.8%, services 3.2%, core 2.5% — cut against the hawkish MPR, but did not fully settle the debate because the services drop was partly base-effect / Easter-airfare noise. The later GBP macro releases then added a growth-negative confirmation: RICS remained depressed, CBI stayed contractionary, and April GDP contracted through services. That means GBP does not get a clean hawkish rates story, but it also does not get a clean dovish easing story while energy / expectations / wage pass-through remain live.
+
+Final GBP state: growth-negative, policy-constrained, and committee-split. The market risk is two-sided: weak UK activity can re-open cuts if CPI/services/wages soften and energy reverses; but any services re-acceleration or expectations drift can widen hawkish dissent and keep the hike tail alive. GBP should therefore be read less as a simple weak-growth short and more as a currency sitting between domestic demand deterioration and an unresolved BoE persistence test.
 
 B. GBP MACRO SIGNAL SCOREBOARD
 
@@ -16,19 +21,19 @@ The growth signal deteriorated across the concatenated UK tape. CBI retail impro
 
 Labor: ~
 Supporting evidence:
-No UK labor-market release was included in the supplied GBP tape. Employment, wages, vacancies and unemployment therefore do not directly update the BoE reaction function in this concatenated window.
+No UK labor-market release was included in the supplied GBP release tape. Employment, wages, vacancies and unemployment therefore do not directly update the BoE reaction function in this concatenated release window. In the BoE tape, labour remains a threshold variable: faster loosening and pay deceleration support the look-through camp; resilient pay and 2027 settlement risk support the hawks.
 
 Inflation: ~
 Supporting evidence:
-There was no direct CPI or wage inflation release in the supplied UK tape. The CBI survey contained a helpful retail-price signal, with selling-price growth cooling to its slowest pace in over a year, but the broader macro backdrop still carries imported energy / pass-through risk. Inflation is therefore left neutral in the scoreboard, with the key point being constraint risk rather than new measured inflation evidence.
+There was no direct UK CPI release in the 26 May–12 Jun release archive, but the BoE tape included the 20 May April CPI undershoot: headline 2.8%, core 2.5%, services 3.2%. That was dovish versus the April MPR, but the signal is not clean because services softness was partly base-effect / Easter-airfare related. CBI also showed retail selling-price growth cooling, but the broader energy / import-cost pass-through risk remains alive. Inflation is therefore neutral-to-two-sided: near-term relief, unresolved persistence test.
 
 Financial Conditions: -
 Supporting evidence:
-RICS confirms that mortgage-rate sensitivity remains a live drag, with housing stabilising only at very weak levels. The GDP / services contraction makes the cost of restrictive rates more visible. GBP financial conditions therefore look growth-negative domestically, even though the BoE may not be able to validate easier conditions quickly if imported inflation risk remains alive.
+RICS confirms that mortgage-rate sensitivity remains a live drag, with housing stabilising only at very weak levels. The GDP / services contraction makes the cost of restrictive rates more visible. The BoE tape also flagged gilt-market fragility and tight market conditions: Mann warned that hikes could transmit rapidly through a price-sensitive gilt investor base. Net: financial conditions are already restrictive enough to cap the hawkish case, even if inflation persistence prevents a clean dovish pivot.
 
 Policy Constraint: -
 Supporting evidence:
-The BoE trade-off worsened. Activity weakened through retail, housing and services, but the inflation side is not resolved by this tape. The UK therefore does not get a clean dovish pivot signal: the central bank faces rising growth downside while still needing to guard against energy and imported-cost pass-through.
+The BoE policy constraint remains binding. The April MPC moved from a 9–0 March hold to an 8–1 April hold, with Pill voting for a hike and Mann remaining a hawkish holder. The April CPI undershoot and later weak activity data soften the case for tightening, but do not eliminate the upside tail while energy, household expectations, services inflation and wages remain unresolved. Base case: hold, with risk skew in the vote composition rather than an immediate cut.
 
 C. FULL RELEASE ARCHIVE
 
@@ -170,49 +175,234 @@ BoE / GBP read: growth-negative, but not enough to force a dovish reaction funct
 
 This release strengthens the UK growth downside and makes the cost of BoE caution more visible. It does not deliver a clean front-end easing signal because the same shock that hurts output also raises energy / import-cost pass-through risk. For GBP, the signal is mixed: domestic activity deteriorates, but BoE cuts remain constrained if inflation risk persists. The next falsification test is May GDP / services: a rebound would classify April as a front-loading / cancelled-events soft patch; a second contraction would move the UK closer to a genuine slowdown regime.
 
+CENTRAL BANK TAPE — BANK OF ENGLAND / GBP
+
+Window: 27 Apr 2026 to 22 May 2026
+Central bank: Bank of England
+Current policy rate: Bank Rate 3.75%
+Last meeting: 30 Apr 2026 — in-window for the BoE tape
+Next meeting: 18 Jun 2026
+
+1. Executive Policy Read
+
+The BoE moved from a settled committee to a hawkish-drifting hold. The April energy supply shock reframed the reaction function around how far to look through imported inflation versus pre-empt second-round persistence. The MPC held 8–1 at 3.75%, but the vote distribution shifted from the prior 9–0 hold to an 8–1 hold, with Huw Pill dissenting for a 25bp hike to 4.00%. That was the first hike vote since the prior tightening cycle ended.
+
+The April MPR was scenario-based rather than built around a single clean central path. It emphasized energy-shock uncertainty, upside inflation risk and household expectations. Bailey’s open-letter exchange formalized the inflation-target breach after March CPI printed 3.3%, while the MPR / press conference signalled CPI could run a little above 3.5% by year-end under the shock.
+
+The late-window April CPI release cut against the hawkish drift: headline CPI fell to 2.8%, core to 2.5%, and services to 3.2%. But the dovish signal was partly noisy because services softness was affected by Easter / airfares. Net policy state: hawkish hold with asymmetric upside risk, partially offset by a late CPI undershoot.
+
+Policy state:
+Hawkish hold with asymmetric upside risk; divided committee.
+
+State transition:
+Hawkish drift — 9–0 to 8–1, first hike vote since 2023 — partially offset by a late-window dovish CPI surprise.
+
+Confidence:
+High on the hawkish drift; medium on durability because of the CPI cross-current.
+
+2. Key Themes Since Last Meeting
+
+Look through, but stand ready:
+The BoE’s energy-shock reaction function is not a mechanical hike rule. Direct imported inflation can be looked through, but material second-round effects in services, wages or expectations would force action. Baseline is hold; the hike tail stays alive while energy risk is unresolved.
+
+Persistence versus slack:
+Pill and Mann define the persistence flank. Pill voted for a prompt but modest hike, and Mann argued that the MPR scenarios may underestimate firms’ pricing power and inflation expectations. The centre / doves emphasize slack, weak demand and the fact that much of 2026 private-sector wage bargaining was already completed before the shock.
+
+April CPI as a dovish cross-current:
+The 20 May CPI undershoot is the main counter-signal. Services inflation at 3.2% is potentially powerful if it persists, but the BoE will need confirmation because base effects and airfares distorted the month.
+
+Financial-conditions constraint:
+Mann’s 13 May speech added a financial-stability nuance: a price-sensitive gilt investor base and leveraged / overseas ownership could amplify the transmission of any hike. That makes the hike tail self-limiting if gilt yields and risk premia already tighten conditions.
+
+Scenario communication:
+The April MPR used scenario-based communication rather than a single clean path. That raises per-print repricing risk because markets are pricing a distribution, not a point forecast.
+
+3. Speaker / Document Table
+
+Date: 30 Apr
+Speaker / Document: April MPC decision + MPR + Bailey press conference
+Window status: In-window for BoE tape
+Bias: Hawkish / two-sided
+Key signal: 8–1 hold; one vote for +25bp to 4%; three-scenario MPR
+Reaction-function implication: Hawkish drift confirmed; hike bar below cut bar while energy risk is live
+Importance: ****
+
+Date: 30 Apr
+Speaker / Document: Huw Pill dissent rationale in minutes
+Window status: In-window for BoE tape
+Bias: Hawkish
+Key signal: Pre-emptive modest hike to mitigate upside persistence risk
+Reaction-function implication: Names the tightening case inside the committee
+Importance: ***
+
+Date: 30 Apr / 2 May
+Speaker / Document: Governor–Chancellor open letter exchange
+Window status: In-window for BoE tape
+Bias: Institutional / hawkish risk
+Key signal: March CPI 3.3% triggered open-letter regime; year-end CPI risk around 3.5%+
+Reaction-function implication: Formalizes the breach and reinforces upside-inflation communication
+Importance: ***
+
+Date: 13 May
+Speaker / Document: Catherine Mann — LSE speech
+Window status: In-window for BoE tape
+Bias: Hawkish with financial-conditions caveat
+Key signal: Future hikes could roil gilt markets through hedge-fund / overseas ownership
+Reaction-function implication: Hawk who held; rapid transmission can justify restraint even with upside risk
+Importance: ***
+
+Date: 14 May
+Speaker / Document: Huw Pill — NatWest fireside chat
+Window status: In-window for BoE tape
+Bias: Hawkish
+Key signal: Slides published; April dissenter reappeared publicly
+Reaction-function implication: Reinforces persistence flank, but substance beyond slides not independently verified
+Importance: **
+
+Date: 20 May
+Speaker / Document: ONS CPI April
+Window status: In-window for BoE tape
+Bias: Dovish
+Key signal: Headline 2.8%, core 2.5%, services 3.2%
+Reaction-function implication: Undercuts hawkish MPR, but partly base-effect / airfare noise
+Importance: ***
+
+Date: 20 May
+Speaker / Document: Treasury Select Committee oral evidence
+Window status: In-window for BoE tape
+Bias: Institutional
+Key signal: Bailey, Breeden, Dhingra, Mann on BoE MPRs
+Reaction-function implication: Treated as restatement of MPR framing; transcript not used as new signal
+Importance: **
+
+4. Thematic Policy Tape
+
+Policy outlook:
+The active margin is hike-vs-hold, not hold-vs-cut, while energy risk remains unresolved. Pill’s dissent makes the hike tail real; Dhingra and Taylor keep the cut tail latent only if the shock fades and slack widens.
+
+Inflation:
+The MPR was hawkish through near-term CPI risk and expectations sensitivity. The April CPI undershoot is a real dovish cross-current, but it needs confirmation. May CPI and services inflation are therefore the decisive next tests.
+
+Financial conditions:
+Mann’s framework creates an internal restraint on the hawkish case. If hikes transmit too violently through gilts, the committee can justify holding even while worried about inflation. That makes market pricing of hikes partly self-limiting.
+
+Committee split:
+Hawkish: Pill, Mann.
+Centre / look-through holders: Bailey, Breeden, Lombardelli, Ramsden.
+Dovish: Dhingra, Taylor.
+Unobserved / pivotal: Greene, silent in-window and the obvious candidate to widen hawkish dissent at the next meeting.
+
+5. Policy Outlook
+
+Base case for 18 Jun:
+Hold at 3.75% remains the most likely outcome. The larger risk is vote composition: the 8–1 split is more likely to widen toward additional hawkish dissent than to flip toward a cut unless the May CPI / labour data validate the April disinflation signal.
+
+Hawkish scenario:
+Services inflation re-accelerates, household inflation expectations remain elevated, energy stays high, or wage data remain too firm. The dissent broadens beyond Pill, and the hike tail becomes a live committee option rather than a one-member signal.
+
+Dovish scenario:
+Energy de-escalates, April services softness persists, wage growth slows and demand weakens further. The look-through camp regains control and H2 cuts reopen, with Dhingra / Taylor gaining allies.
+
+Market-pricing check:
+The BoE tape indicates OIS was ahead of the committee centre, pricing no 2026 cuts and at the extreme up to three hikes. That pricing is provisional and vulnerable to a dovish data / energy reversal repricing.
+
+6. Reaction-Function Map
+
+Inflation threshold:
+Sustained services re-acceleration plus household-expectations drift crystallizes hike risk. Clean services / core easing plus energy reversal reopens cuts.
+
+Labour threshold:
+Pay deceleration and faster labour-market loosening support the look-through camp. Resilient pay and 2027 settlement risk support the hawks.
+
+Growth threshold:
+Persistent output weakness and services contraction cap the hike case and strengthen the Bailey / Dhingra “avoid unnecessary contraction” logic.
+
+Financial-conditions threshold:
+Gilt yields and risk premia already matter. If a hike risks over-tightening through leveraged / price-sensitive gilt ownership, the BoE can hold despite upside inflation risk.
+
+Communication threshold:
+Scenario-based MPR plus “not on a pre-set path” creates high per-print repricing risk. The gap between OIS and the committee centre is the key market surface.
+
+7. Watchlist for Next Window
+
+18 Jun MPC:
+Does the 8–1 split widen, especially via Greene, or does the April CPI undershoot hold the committee together?
+
+May CPI:
+Does services inflation stay soft or reverse on base effects?
+
+May labour market / AWE:
+Does pay decelerate toward target-consistent rates or remain persistent?
+
+Middle East / energy path:
+De-escalation is the major dovish trigger; escalation reactivates the hawkish flank.
+
+OIS curve:
+Refresh whether pricing reflects genuine policy expectations or risk premia.
+
+8. Central-Bank Red-Team / Falsification Check
+
+Hawkish read wrong if:
+April CPI was the true signal, services softness persists, energy reverses, and Pill remains isolated.
+
+Dovish read wrong if:
+April services softness was mainly Easter / airfare noise, services re-accelerate, and dissent broadens.
+
+Biggest communication risk:
+Scenario-based MPR with no single path may cause markets to over-weight the hawkish tail.
+
+Biggest market mismatch:
+OIS may be pricing more hikes than the committee centre endorses, especially if the curve move is risk-premium driven.
+
+Source / gap risk:
+Pill 14 May substance and the TSC 20 May transcript were not independently verified in the supplied tape and should not drive conclusions beyond the confirmed broad policy map.
+
 SIGNAL TENSION CHECK
 
 Main contradiction:
-UK activity is deteriorating through retail, housing and services, but the inflation constraint has not disappeared. CBI price detail is softer, yet the broader energy / import-cost channel keeps the BoE from treating weak growth as a clean easing trigger.
+UK activity is deteriorating through retail, housing and services, but the BoE reaction function is still constrained by energy, expectations, wage and services-persistence risk. The April CPI undershoot and CBI price detail soften the inflation story, but the April MPC vote and MPR show a committee drifting hawkish before the later growth data arrived.
 
 Why it matters:
-GBP is not a simple short on weak data if BoE cuts remain constrained, but it is also not a rates-support story if the growth side keeps deteriorating.
+GBP is not a simple weak-growth short if BoE cuts remain constrained, but it is also not a clean rates-support story if domestic activity keeps deteriorating and gilt-market financial conditions already tighten. The key market variable is whether the June data sequence validates the dovish CPI/growth cross-current or reactivates the Pill/Mann persistence case.
 
 Implication:
-The UK should be read as a growth-negative / policy-constrained currency file. The next decisive tests are May GDP/services, CPI, wage data and whether imported energy pass-through fades or broadens.
+The UK should be read as a growth-negative / policy-constrained / committee-split currency file. The next decisive tests are May CPI/services, labour/AWE, June MPC vote composition, and whether energy de-escalation removes the shock that created the hawkish tail.
 
 5 KEY RELEASES TO DIG INTO
 
 **** United Kingdom — ONS Monthly GDP / Services / Production / Manufacturing / Goods Trade (12 Jun)
-Why it matters: Main GBP macro event in the concatenated tape. The monthly GDP contraction confirms broader activity deterioration beyond housing, while the positive 3M/3M trend prevents a full downturn call.
+Why it matters: Main GBP macro release in the concatenated archive. The monthly GDP contraction confirms broader activity deterioration beyond housing, while the positive 3M/3M trend prevents a full downturn call.
+
+**** Bank of England — April MPC Decision / MPR / Bailey Press Conference (30 Apr)
+Why it matters: Dominant reaction-function anchor. The 8–1 hold, Pill hike dissent and scenario-based MPR shifted the committee from settled hold to hawkish-drifting hold.
 
 *** United Kingdom — ONS Services Output inside Monthly GDP release (12 Jun)
-Why it matters: Services are the UK’s core domestic activity engine. The 0.2% m/m services contraction makes the activity deterioration more BoE-relevant than the headline alone.
+Why it matters: Services are the UK’s core domestic activity engine and the key BoE persistence category. A 0.2% m/m services output contraction matters more for the reaction function than the GDP headline alone.
 
-*** United Kingdom — ONS Goods Trade Balance inside Monthly GDP release (12 Jun)
-Why it matters: The goods deficit remained large and wider than expected. This matters for GBP because it keeps the external / import-cost channel in the reaction-function map even as domestic activity weakens.
+*** United Kingdom — April CPI inside BoE tape (20 May)
+Why it matters: The main dovish cross-current against the hawkish MPR. Headline CPI, core and services all softened, but the signal requires confirmation because of Easter / airfare base-effect noise.
 
 ** United Kingdom — RICS Residential Market Survey (11 Jun)
 Why it matters: Shows housing stabilising only at depressed levels. It reinforces the growth cost of restrictive financial conditions and makes the BoE trade-off more uncomfortable.
-
-** United Kingdom — CBI Distributive Trades (26 May)
-Why it matters: Retail improved from an extreme low but stayed deeply contractionary. The key macro detail is softer retail selling-price growth, which helps disinflation monitoring but does not repair weak consumer demand.
 
 RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
 
 Is the April GDP contraction a true post-shock slowdown, or mostly a one-off front-loading / cancelled-events payback after a strong Q1?
 
-Does services weakness matter more for the BoE than manufacturing resilience, given the UK’s domestic-demand structure?
+Does services output weakness matter more for the BoE than manufacturing resilience, given the UK’s domestic-demand structure?
 
-Is the goods-trade miss a meaningful GBP macro problem, or mostly a noisy monthly trade line inside the ONS release?
+Was the April CPI / services undershoot a genuine disinflation signal or mostly Easter / airfare noise?
 
-Is the retail-price cooling in the CBI survey enough to matter for the inflation story, or too narrow relative to imported energy risk?
+Does Pill’s hike dissent represent a broader committee drift, or will he remain isolated if May CPI and labour soften?
 
-Does RICS at -35 represent stabilization worth respecting, or simply confirmation that housing remains a persistent drag?
+Is Mann’s gilt-market fragility argument a hawkish signal or a constraint on actual hikes?
 
-What would falsify the GBP growth-negative / policy-constrained setup: May GDP rebound, softer CPI, weaker wages, or a clear retreat in energy pass-through?
+Does RICS at -35 show stabilization worth respecting, or simply confirm housing remains a persistent drag?
+
+What would falsify the GBP growth-negative / policy-constrained setup: May CPI softness, weaker AWE, unchanged 8–1 vote split, energy de-escalation, or another services-led GDP contraction?
 
 <<GBP_WEEK_END>>
+
 
 
 
