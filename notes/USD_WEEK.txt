@@ -1,4 +1,540 @@
+<<USD_WEEK_BEGIN>>
+DATA WINDOW: 23 Jun 2026 to 26 Jun 2026
 
+A. USD WEEK — MACRO SYNTHESIS
+
+USD finished the week in a policy-constrained bad-growth mix: inflation and nominal demand were too firm for Fed relief, while housing, savings, sentiment level and growth-quality details showed clear stress. May PCE was the decisive deterioration, with headline inflation re-accelerating to 4.1% y/y, core at 3.4%, nominal spending resilient and the savings rate low. Activity did not break — PMIs, durable ex-transport orders, core capex and the Q1 GDP upgrade kept the economy compatible with a 2%-ish growth path — but the quality was weak: manufacturing strength looked front-loaded / inventory-driven, private domestic demand was softer than GDP, and housing deteriorated sharply.
+
+The Fed tape confirms hawkish hold rather than a clean hike commitment: Warsh’s June regime keeps the 2026 penciled hike alive and maximizes incoming-data dependence, while Williams gives the center a look-through framework if the Hormuz / oil shock unwinds quickly. The backward-looking inflation data validate policy constraint, but the forward path is two-sided because crude has collapsed from the May shock peak and June inflation is now the decisive test. USD support remains tied to relative policy constraint and risk premium, not clean growth exceptionalism.
+
+B. USD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Flash PMIs beat on the headline, with manufacturing at 55.7, services at 51.3 and composite at 52.2, while durable goods ex-transport rose 1.3% and core capex rose 1.6%, supporting the “activity not breaking” read. But the growth quality was weak: PMI strength was tied to front-loading / inventories, Q1 GDP was flattered by lower imports while private demand softened, and new home sales fell to 580k with months’ supply at 10.3. Real PCE rose 0.3%, so consumption held, but not as a clean real-income acceleration.
+
+Labor: ~
+Supporting evidence:
+Initial claims fell to 215k, rejecting a hard layoff signal and keeping labor from becoming an easing trigger. Continuing claims rose to 1.821mn, and PMI factory employment deterioration kept the low-hiring / slower-reabsorption signal alive. The period therefore preserved the low-fire / low-hire labor regime rather than moving into either labor-break or labor-overheating territory.
+
+Inflation: -
+Supporting evidence:
+PCE was the decisive negative signal: headline PCE rose to 4.1% y/y, core PCE held at 3.4% y/y, and monthly core remained firm at 0.3%. Michigan long-run expectations improved to 3.3% from 3.9%, but one-year expectations stayed elevated at 4.6%. The inflation signal is therefore less de-anchoring-panic than May, but still too hot for a dovish read.
+
+Financial Conditions: -
+Supporting evidence:
+Housing showed the cleanest restrictive-transmission damage: new home sales missed sharply at 580k, inventories reached 496k, and months’ supply rose to 10.3 despite builder flexibility. The consumer buffer also looked weaker, with a 3.0% saving rate and sentiment still historically depressed at 49.5. Financial conditions are clearly biting in rate-sensitive sectors even though broader activity has not cracked.
+
+Policy Constraint: -
+Supporting evidence:
+The Fed remains in hawkish-hold / penciled-hike mode. May PCE validates the backward-looking inflation constraint: core PCE at 3.4% y/y, core services ex-housing around 3.7%, and claims at 215k deny an easing trigger. But Williams’s look-through framing and the crude collapse make the forward path genuinely data-dependent rather than pre-committed. July base case remains hold; the later-2026 hike remains contingent on June core inflation and the durability of the Iran / Hormuz de-escalation.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 23 JUN 2026
+
+United States — S&P Global Manufacturing / Services / Composite PMI Flash (Jun)
+Release Date: 23 Jun 2026 | Local Time: 15:45
+Importance: ****
+
+Reuters Data
+
+S&P Global Mfg PMI Flash: 55.7 | Prior: 55.1 | Poll: 54.8 | Surprise: 0.90
+S&P Global Svcs PMI Flash: 51.3 | Prior: 50.7 | Poll: 51.0 | Surprise: 0.30
+S&P Global Comp PMI Flash: 52.2 | Prior: 51.5
+
+Professional Market Commentary
+
+The headline PMI tape looked strong on the surface: manufacturing rose to a 49-month high, services improved modestly, and the composite rose to 52.2. But the professional read was not a clean growth upgrade. The key commentary cluster treated the manufacturing beat as front-loading / inventory insurance against supply disruption and price increases, with S&P Global’s own economist framing the strength as temporarily boosted by inventory building and flagging employment deterioration as the most worrying element.
+
+The tape therefore reads as “PMI beat, weak quality”: manufacturing output and orders are strong, but the source of strength is defensive; supplier delivery times lengthened; inventories rose sharply; factory employment fell again; and output-price inflation remained elevated despite some cooling in input costs. Services remained only modestly expansionary and did not validate a broad demand re-acceleration.
+
+Comment — Economist Layer
+
+This is one of the main releases of the week because it sharpens the USD regime contradiction rather than resolving it.
+
+Signal hierarchy:
+
+headline: clearly better than expected in manufacturing and positive in services
+quality: weaker than the headline because inventory accumulation and front-loading dominate the manufacturing improvement
+inflation: still uncomfortable because price pass-through and supplier-delay mechanics remain visible
+labor: negative beneath the headline, with manufacturing employment deteriorating despite stronger output
+services: positive but subdued, not strong enough to turn the composite into a clean demand acceleration signal
+
+The correct read is not “manufacturing boom.” It is “shock-related production / order front-loading with labor weakness.” That matters because the PMI can still support near-term activity and keep recession pricing contained, while simultaneously preserving inflation and supply-chain pressure. The release therefore strengthens the stagflationary-hold configuration: growth is not collapsing, but the growth that is visible is not clean.
+
+State transition: false dawn.
+
+Context from prior regional live file: The prior USD archive had already treated trade, inventories and manufacturing strength as GDP-supportive but distorted by front-loading, energy and supply-chain management. The June flash repeats that pattern rather than breaking it: manufacturing is expansionary, but the quality of the expansion is still defensive and inflation-sensitive. Growth quality remains weaker than headline activity.
+
+HF Take — Strategist Layer
+
+This is Fed-constraining, but not a clean hawkish-growth release.
+
+The PM-relevant implication is that the Fed cannot use the PMI as evidence of demand collapse, but it also cannot comfortably read it as benign growth resilience. Stronger manufacturing output and orders keep activity alive; falling factory employment, front-loaded demand and elevated price pressure keep the release in the “bad growth mix” bucket.
+
+Rates implication: supports higher-for-longer / hike-tail optionality more than a clean growth-reacceleration trade.
+USD implication: directionally supportive only through relative policy constraint and risk premium, not through a clean domestic demand story.
+Falsification test: final-demand new orders need to remain strong after stockpiling fades, employment needs to stabilize, and supplier delivery times need to normalize.
+
+WEDNESDAY 24 JUN 2026
+
+United States — Current Account (Q1)
+Release Date: 24 Jun 2026 | Local Time: 14:30
+Importance: **
+
+Reuters Data
+
+Current Account: -226.8B | Prior: -190.7B | Revised: -221.1B | Poll: -215.0B | Surprise: -11.80B
+
+Professional Market Commentary
+
+The current-account deficit widened more than expected to $226.8bn, or 2.9% of GDP, with the prior quarter revised materially to $221.1bn. No Tier 1 institutional debate detected. The release was treated as a backward-looking external-accounts print rather than a market-moving macro event.
+
+The key official composition point is that the widening was driven mainly by the income account, not by a worsening goods deficit. BEA reported a swing in primary income into deficit, while the goods deficit narrowed and the services surplus widened.
+
+Comment — Economist Layer
+
+This is an external-balance deterioration print, but the signal is modest and compositionally less negative than the headline.
+
+Signal hierarchy:
+
+headline: deficit wider than expected
+revision: Q4 was revised substantially, so the apparent change from the original prior is not a pure sequential deterioration
+composition: primary-income payments drove the widening
+goods: goods deficit narrowed, so the release is not yet evidence of a supply-shock import-cost blowout
+timing: Q1 is largely pre-current-regime evidence relative to the later Hormuz / energy transmission
+
+The release weakens the external-balance optic, but not in the way that would matter most for the current USD macro debate. A goods-deficit re-widening in Q2 would be more important because that would connect the external accounts directly to energy-import costs and supply-shock transmission.
+
+State transition: deterioration.
+
+Context from prior regional live file: The previous USD archive had treated the external account mainly as GDP arithmetic rather than a dominant macro-regime input. Q1 partially worsens the external-balance optic, but because the deterioration is income-account-led rather than goods-led, it does not yet become a central USD macro signal. The domestic inflation-growth tension remains the dominant regime axis.
+
+HF Take — Strategist Layer
+
+Low direct Fed value.
+
+For USD, this is marginally negative on the external-balance optic, but not large enough or compositionally clean enough to drive a currency view. The more important forward risk is Q2: if energy costs and supply disruption re-widen the goods deficit, the external account would move from accounting noise into live macro transmission.
+
+For rates, this release is not a reaction-function input. It does not change the Fed map because the policy constraint is still inflation, labor resilience and financial-conditions transmission, not the Q1 current-account balance.
+
+United States — New Home Sales (May)
+Release Date: 24 Jun 2026 | Local Time: 16:00
+Importance: ****
+
+Reuters Data
+
+New Home Sales-Units: 0.580M | Prior: 0.622M | Revised: 0.626M | Poll: 0.639M | Surprise: -0.0590M
+
+Professional Market Commentary
+
+This was a clear housing downside surprise. Census / HUD reported May new single-family sales at a 580k SAAR, down 7.3% m/m from revised April and 6.8% y/y, with inventory at 496k and months’ supply at 10.3. The official and wire framing was straightforward: elevated mortgage rates and affordability pressure are hitting even the new-home segment, which had previously been the relatively resilient part of housing because builders can use incentives.
+
+The professional tape was mostly deterioration-focused. The First American / Realtor.com / FWDBONDS commentary cluster framed the print as affordability-driven demand destruction, with prices still not adjusting enough to clear the market. The dissenting view from Oxford Economics treated the print as potentially near a bottom, but that is not the dominant tape until mortgage rates ease and sales re-accelerate.
+
+Comment — Economist Layer
+
+This is the cleanest real-economy downside signal in the built file.
+
+Signal hierarchy:
+
+sales: 580k is a broad miss and the second consecutive monthly decline
+revision: April revised up to 626k, but the May level is still meaningfully weaker
+inventory: 496k and 10.3 months’ supply are the strongest deterioration markers
+price: median price rose to $424,900 despite lower sales, so affordability repair is not occurring through clean price adjustment
+regional mix: West weakness is severe; South also weakens; Midwest and Northeast offsets are not enough to change the national read
+macro channel: higher mortgage rates and affordability stress are the transmission mechanism
+
+The critical point is that new homes are supposed to be the more flexible housing channel. Builders can use rate buydowns, incentives and product mix to support transactions. If that channel weakens while months’ supply rises, then the financing constraint is biting through the segment that should have had the most policy / builder flexibility.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD housing tape had already moved from tentative stabilization to renewed pressure as mortgage rates rose and single-family indicators weakened. April new-home sales had already confirmed that housing remained rate-capped and affordability-constrained rather than a growth stabilizer. May extends that deterioration, with weaker sales and higher months’ supply now reinforcing the rate-sensitive drag.
+
+HF Take — Strategist Layer
+
+This strengthens the housing-drag side of the USD map, but it is not a standalone Fed easing trigger.
+
+For rates, the release confirms that restrictive financial conditions are working through housing. The problem for a clean dovish trade is that the same week’s broader macro configuration still includes PMI price pressure, supply disruption, and a Fed reaction function constrained by inflation. Housing weakness is therefore growth-negative but not automatically policy-relieving.
+
+For USD, this is not a simple bearish signal. If housing deteriorates because mortgage rates remain high on inflation / term-premium / geopolitical risk, USD can still be supported by relative policy constraint even as domestic rate-sensitive demand weakens. The bearish USD version requires housing weakness to spill into labor, income and consumption strongly enough to shift the Fed reaction function.
+
+Falsification test: mortgage rates need to ease materially, sales need to re-accelerate, and months’ supply needs to stabilize before the housing block can move out of deterioration.
+
+THURSDAY 25 JUN 2026
+
+United States — Personal Income / Consumption / PCE (May)
+Release Date: 25 Jun 2026 | Local Time: 14:30
+Importance: ****
+
+Reuters Data
+
+Personal Income MM: 0.7% | Prior: 0.0% | Poll: 0.4% | Surprise: 0.30%
+Real PCE MM: 0.3% | Prior: 0.1% | Revised: 0.0%
+Consumption, Adjusted MM: 0.7% | Prior: 0.5% | Revised: 0.4% | Poll: 0.6% | Surprise: 0.10%
+Core PCE Price Index MM: 0.3% | Prior: 0.2% | Revised: 0.3% | Poll: 0.3% | Surprise: 0.00%
+Core PCE Price Index YY: 3.4% | Prior: 3.3% | Poll: 3.4% | Surprise: 0.00%
+PCE Price Index MM: 0.4% | Prior: 0.4% | Poll: 0.5% | Surprise: -0.10%
+PCE Price Index YY: 4.1% | Prior: 3.8% | Poll: 4.1% | Surprise: 0.00%
+
+Professional Market Commentary
+
+This is the week’s decisive inflation-consumption block. BEA reported personal income +0.7%, nominal PCE +0.7%, real PCE +0.3%, headline PCE +0.4% m/m and core PCE +0.3% m/m. The official detail confirms that spending remained resilient in nominal and real terms, while inflation stayed materially above target.
+
+The professional tape framed the report as “inflation still hot, spending still resilient, savings cushion eroding.” The named-voice cluster is clear: Heather Long tied the inflation spike to the Iran-war energy shock; Kathy Bostjancic and Chris Zaccarelli leaned toward a peak-inflation interpretation but conditioned it on Hormuz staying open and energy relief being sustained; Ellen Zentner read the combination of solid growth and above-target inflation as Fed-on-hold for an extended period.
+
+The forward debate is not whether May was hot; it was. The debate is whether May is the peak or the start of broader pass-through. The “peak” camp is explicitly contingent on oil / gasoline relief and physical normalization, not just diplomatic headlines. Chair Warsh’s supply-shock look-through instinct limits the automatic hike read, but it does not make the print dovish while core remains firm and spending is resilient.
+
+Comment — Economist Layer
+
+This is a deterioration in the inflation constraint, partly offset by resilient spending.
+
+Signal hierarchy:
+
+headline PCE y/y: 4.1%, highest since April 2023 and the fourth consecutive acceleration
+core PCE y/y: 3.4%, highest since October 2023, with core m/m in line at 0.3%
+headline-core gap: energy / supply-shock signature, with headline materially above core
+consumption: nominal PCE +0.7% and real PCE +0.3% show spending did not break in May
+income: personal income +0.7% beats poll and supports nominal spending
+savings: 3.0% saving rate signals limited cushion and makes the spending resilience lower quality
+real disposable income: +0.3%, first increase since January, but not enough to erase the broader squeeze
+
+JGM note:
+The May personal-income beat is not entirely clean because roughly 0.2pp may reflect FEMA-related support. But there is also upside risk to measured income because non-wage categories are harder to capture in real time and BLS income inputs can lag. Labor compensation may be the smoother and more reliable signal for consumer-spending fundamentals.
+
+The macro message is not a classic overheating boom. It is inflation-led nominal demand resilience with consumers absorbing the shock through income, savings and credit rather than a clean real-income upswing. The FEMA boost makes the May income beat less clean, but possible understatement in non-wage income and smoother labor compensation argue against treating the consumer as already broken. That keeps the Fed boxed in: inflation is too high to ease, spending is resilient enough to deny a growth-break signal, but the savings-rate signal warns that the consumer buffer is being consumed.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior USD archive had already shifted the inflation regime from risk to realized energy-led pressure after May CPI and PPI, while core CPI softness kept the hike signal less than automatic. May PCE confirms the Fed’s preferred inflation measure is now also showing the energy-led re-acceleration, with core still firm rather than explosive. The inflation constraint therefore strengthens, while the consumer remains resilient but increasingly buffer-dependent.
+
+HF Take — Strategist Layer
+
+This is hawkish-hold / hike-tail supportive.
+
+For the Fed, the release strengthens the argument that policy cannot ease into an energy-led inflation shock while consumption remains positive. The limiting factor for an outright hike signal is composition: headline is energy-led, core is in line rather than a fresh upside surprise, and several institutional voices treat May as potentially peak inflation if energy relief holds. Warsh’s supply-shock look-through framework is the key dovish offset, but it requires confidence that the shock is temporary and expectations remain anchored.
+
+For rates, front-end relief is hard to justify. The cleaner dovish setup would require June PCE to show material disinflation, gasoline relief to persist, and inflation expectations to remain contained. Until then, this print keeps the reaction function pinned.
+
+For USD, the release is supportive through relative policy constraint and real-rate repricing risk. The caveat is growth quality: USD support comes from inflation / Fed constraint, not from clean domestic-demand exceptionalism.
+
+United States — Durable Goods (May, Advance)
+Release Date: 25 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Durable Goods MM: -4.5% | Prior: 8.0% | Revised: 8.5% | Poll: -4.5% | Surprise: 0.00%
+Durables Ex-Transport MM: 1.3% | Prior: 1.1% | Revised: 1.4% | Poll: 0.6% | Surprise: 0.70%
+
+Professional Market Commentary
+
+The headline was ugly but expected: durable goods fell 4.5% after April’s revised +8.5%. Census reported that the decline was driven by transportation equipment, while ex-transport orders rose 1.3% and ex-defense orders fell 4.6%.
+
+The professional tape looked through the aircraft swing. The core-capex framing was stronger than the headline: nondefense capital goods excluding aircraft rose 1.6%, above expectations, suggesting business-equipment spending was still supporting activity. Commentary also cautioned that part of the rise may reflect higher prices, especially memory chips, and linked AI investment to demand for information-processing equipment.
+
+Comment — Economist Layer
+
+This is continuation, not deterioration.
+
+Signal hierarchy:
+
+headline: -4.5%, but fully expected and transportation-driven
+ex-transport: +1.3%, a clear beat
+core capex: +1.6%, positive business-investment proxy
+aircraft: payback after April’s nondefense-aircraft surge; headline not the clean signal
+overlay: core strength may still be front-loading / precautionary ordering rather than pure final-demand confirmation
+
+JGM note:
+The capital-equipment surge is important because it supports the “2%-ish GDP” economy interpretation. Core capital goods orders ex-aircraft remain the cleaner forward-looking capex signal than the aircraft-distorted headline.
+
+The durable goods release validates the PMI message only partially. It supports the idea that manufacturing / capex activity is not collapsing, especially in AI-linked and equipment categories. But it does not solve the quality question. In a supply-shock environment with inventory building, order strength can be pulled forward to hedge future price and delivery risk.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive had already treated inventories, trade and capital-goods strength as supportive for GDP tracking but potentially distorted by front-loading and supply-chain hedging. May durable goods preserve that pattern: headline aircraft payback is noise, while core capex is firm but not yet clean final-demand evidence. Manufacturing remains resilient, but quality is still contested.
+
+HF Take — Strategist Layer
+
+This is growth-supportive and reinforces the JGM “2%-ish GDP” economy point, but it is not Fed-relieving.
+
+Core capex and capital equipment remain strong enough to argue against a broad demand break, even if some of the strength may still reflect precautionary ordering under supply-chain risk. For rates, the release argues against recession pricing because core capex is still firm. But it also does not relieve the inflation constraint if order strength is partly price-driven or precautionary.
+
+For USD, it supports the “activity not breaking” leg of the bullish USD case, but the cleaner driver remains PCE / policy constraint. The release would become more bullish-growth if future data show core capex strength translating into shipments and final demand rather than inventory hedging.
+
+United States — GDP Final / GDP Deflator / Core PCE Prices Final (Q1)
+Release Date: 25 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+GDP Final: 2.1% | Prior: 1.6% | Poll: 1.6% | Surprise: 0.50%
+GDP Deflator Final: 3.6% | Prior: 3.5% | Surprise: 0.10%
+Core PCE Prices Final: 4.4% | Prior: 4.4% | Surprise: 0.00%
+
+Professional Market Commentary
+
+The final Q1 GDP revision beat the second estimate, with real GDP revised to 2.1% annualized. BEA’s release confirms that Q1 growth was positive and stronger than the prior estimate, while Q4 2025 growth had been only 0.5%.
+
+The professional tape treated the headline beat as lower quality. The named-voice cluster emphasized that the revision was import-mechanical, while private domestic demand weakened: Gregory Daco flagged softer final demand and a narrower foundation; Bill Adams emphasized dated downward revisions to consumer spending; Ellen Zentner treated the combination of solid growth and above-target inflation as Fed-on-hold.
+
+Comment — Economist Layer
+
+This is a GDP headline upgrade, but not a regime upgrade.
+
+Signal hierarchy:
+
+headline GDP: 2.1%, above the prior 1.6% estimate
+revision source: mostly lower imports, which mechanically add to GDP
+private demand: weaker than the headline because real final sales / private domestic demand were revised down
+consumption: soft at only 0.5% annualized in the scout / JGM detail
+business investment: strong, especially equipment / AI-related investment
+residential: weak, consistent with the broader housing deterioration
+prices: deflator 3.6%, core PCE prices 4.4%, still well above target
+
+JGM note:
+The Q1 GDP upgrade is not a clean demand upgrade. The improvement came from a lower import drag, while consumption was revised down sharply to 0.5% from roughly 1.4%, partly reflecting January weather weakness and services revisions. Private domestic final purchases give the more downbeat read, revised sharply lower from the earlier estimate, with the downgrade linked to QSS incorporation. The key nuance is that Q1 looks like a soft patch rather than a collapse: Q2 should reaccelerate, and the economy can still be consistent with a “2%-ish GDP” path if capital equipment continues to surge.
+
+The release matters less than PCE because it is Q1 vintage and partly pre-current shock. It improves backward-looking growth optics, but the underlying demand mix is weaker than the headline: import arithmetic flatters GDP, consumer spending was revised down, and private domestic final demand softened. The offset is that business equipment and core capex remain strong enough to keep the economy compatible with a 2%-ish growth regime if Q2 reaccelerates from the Q1 soft patch.
+
+State transition: no material change.
+
+Context from prior regional live file: The prior USD archive had already treated GDP arithmetic as vulnerable to trade, inventory and nominal distortions, with private-demand quality more important than headline tracking. The final Q1 estimate improves the headline but confirms the same quality caveat: growth is positive, but the foundation is narrower and less consumer-led. It does not overturn the current-week PCE / housing / PMI tension.
+
+HF Take — Strategist Layer
+
+Limited standalone market value; useful as a growth-floor input.
+
+For rates, the GDP beat reduces recession urgency, but the underlying demand revision and vintage limit its policy content. The Fed will care more about May PCE, claims, June inflation expectations and payrolls than a mechanically revised Q1 growth print.
+
+For USD, the release helps the relative-growth floor, but does not create clean U.S. exceptionalism because the quality is AI-capex-heavy and consumer / housing detail is weaker. The strategist read is: better headline GDP, softer guts, but still compatible with a 2%-ish economy if Q2 reaccelerates and capital equipment remains strong.
+
+United States — Jobless Claims (w/e 20 Jun / continuing w/e 13 Jun)
+Release Date: 25 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+Reuters Data
+
+Initial Jobless Claims: 215k | Prior: 226k | Revised: 227k | Poll: 225k | Surprise: -10.0k
+Continuing Jobless Claims: 1.821M | Prior: 1.810M | Revised: 1.800M | Poll: 1.800M | Surprise: 0.0210M
+
+Professional Market Commentary
+
+DOL reported initial claims at 215k, down 12k from the revised prior week, with continuing claims at 1.821mn. The official release confirms low layoffs, while the continuing-claims rise points to slower reabsorption.
+
+The professional tape framed the release as resilience in layoffs but caution in hiring: initial claims remained within this year’s normal range, while continuing claims suggested job seekers were taking longer to find work. Seasonal distortions from Juneteenth and school-year effects were flagged as possible noise.
+
+Comment — Economist Layer
+
+This is continuation of the low-fire / low-hire labor regime.
+
+Signal hierarchy:
+
+initial claims: stronger than expected, lowest in four weeks
+continuing claims: softer at the margin, back above 1.8mn
+hard-data labor read: no layoff shock
+hiring read: reemployment friction remains visible
+PMI contrast: survey-based factory employment weakness has not yet migrated into claims
+
+This block is important because it rejects the bearish labor interpretation of the PMI for now. The PMI employment signal is a warning, not hard confirmation. Initial claims at 215k are not consistent with a shock-driven layoff cycle. But continuing claims at 1.821mn keep the low-hiring / longer-duration problem alive.
+
+State transition: continuation.
+
+Context from prior regional live file: The prior USD archive had already described labor as cooling at the margin through hiring appetite and continuing-claims pressure, but not breaking into a layoff cycle. This claims print preserves that structure: initial claims improve, while continuing claims remain sticky. Labor stays a constraint against aggressive easing, not a clean hike driver.
+
+HF Take — Strategist Layer
+
+This is hawkish at the margin because it denies a labor-break easing impulse.
+
+For the Fed, low initial claims mean the labor market has not yet absorbed the shock through firing. Continuing claims keep the labor-market quality softer, but not enough to force a dovish pivot. The reaction function therefore remains inflation-led.
+
+For rates, this supports the front-end staying constrained after the PCE print. For USD, it supports the relative-policy argument: inflation is high and the labor market is not breaking. The dovish USD version requires initial claims to move toward 250k or continuing claims to break decisively higher.
+
+FRIDAY 26 JUN 2026
+
+United States — U Mich Consumer Sentiment Final (Jun)
+Release Date: 26 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+Reuters Data
+
+U Mich Sentiment Final: 49.5 | Prior: 48.9 | Poll: 50.0 | Surprise: -0.5
+
+Professional Market Commentary
+
+The final June sentiment print improved from the preliminary reading but still missed the poll and remained historically depressed. The University of Michigan final reading was 49.5 versus 48.9 preliminary and 44.8 in May, ending a three-month decline but leaving sentiment near record-low territory. The rebound was gasoline-relief-driven rather than a clean demand or income recovery.
+
+The professional tape treated the print as a fragile improvement. Joanne Hsu emphasized that lower gasoline prices helped but did not fully repair household psychology; consumers remained “fairly sour” and still focused on the cost of living. Mark Zandi’s standing caution was that months of high prices had already damaged consumer psychology. Goldman’s house read pushed against near-term Fed easing, citing energy pass-through and core inflation staying near 3% through year-end.
+
+The key nuance is expectations. One-year inflation expectations eased to 4.6% from 4.8%, while long-run expectations fell to 3.3% from 3.9% in May and 3.4% preliminary. That is directionally helpful for the Fed’s look-through case, but still not cleanly benign versus the pre-war / 2024 range.
+
+Comment — Economist Layer
+
+This is an improvement, but a conditional and fragile one.
+
+Signal hierarchy:
+
+headline sentiment: 49.5, up from 48.9 preliminary and 44.8 May
+level: still historically dire and second-lowest in survey history
+current conditions: 47.7, revised down from preliminary 48.4
+expectations: 50.7, revised up from preliminary 49.3 and materially above May 44.1
+one-year inflation expectations: 4.6%, down from 4.8% but still far above the pre-war February level
+long-run inflation expectations: 3.3%, down from 3.9% in May, but still above the 2024 comfort band
+driver: gasoline relief, not a broad improvement in real-income confidence
+
+This is important because it gives Warsh / the Fed a partial look-through argument: households appear to treat some of the Iran / gasoline damage as temporary, and the long-run expectations drift has partially reversed. But the level of sentiment remains extremely weak, cost-of-living pressure remains the dominant spontaneous complaint, and inflation expectations are still too elevated for a dovish read.
+
+The release therefore tempers, but does not neutralize, the PCE shock. It reduces the immediate de-anchoring risk at the long end, while leaving the near-term inflation psychology problem alive.
+
+State transition: improvement — conditional / fragile.
+
+Context from prior regional live file: The prior USD tape had treated the preliminary June rebound as a gasoline-relief bounce off the May record low, not a clean consumer recovery. The final print confirms the rebound and improves the long-run expectations detail, but the level of sentiment remains historically depressed. Consumer psychology is therefore less destabilizing than May, but still vulnerable to any reversal in gasoline relief.
+
+HF Take — Strategist Layer
+
+This is not dovish enough to break the hawkish-hold map, but it lowers the probability of an expectations-driven policy panic.
+
+For the Fed, the useful detail is the fall in long-run inflation expectations from 3.9% to 3.3%. That gives the committee some room to argue that the energy shock has not fully de-anchored longer-run inflation psychology. But one-year expectations at 4.6% and a still-dire sentiment level mean the Fed cannot claim the shock is harmless.
+
+For rates, this caps the most aggressive hike-tail interpretation of PCE but does not justify front-end relief. The dovish version needs another leg down in expectations and realized June inflation relief. For USD, the print is mixed: less de-anchoring risk weakens the panic-hike impulse, but sticky expectations and weak sentiment preserve the bad-growth / policy-constraint mix.
+
+Falsification test: gasoline re-spike or renewed Hormuz disruption reversing the sentiment gain, or inflation expectations re-accelerating in July.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The window’s data validated the committee’s June decision to keep a hawkish hold with a penciled 2026 hike: May core PCE accelerated to 3.4% y/y, broadened beyond energy, and landed alongside firm income / spending and low initial claims. But the same window strengthened the forward disinflation case because the energy shock itself was unwinding violently. Williams, the first verified post-FOMC center voice, framed the reaction function as conditional look-through: inflation can edge down if the Hormuz disruption resolves relatively soon, but the Middle East remains a significant and unpredictable risk. Net: the Fed remains constrained, but the July / September path is now genuinely two-sided. The next decisive input is June inflation, not this week’s communication.
+
+May PCE — June 25
+Importance: ****
+
+Key policy signal:
+Core PCE 3.4% y/y / +0.3% m/m, highest since October 2023, with broadening beyond energy and core services ex-housing around 3.7%. Headline PCE 4.1% y/y, a three-year high. Labor context remained firm, with jobless claims at 215k.
+
+Representative quote:
+(no quote — data)
+
+Incremental reaction function:
+Backward-looking confirmation of the committee’s hawkish lean. Core is sticky / broadening, not merely an energy headline story, and therefore supports the penciled hike. The caveat is timing: the print predates the June oil collapse, so it validates the constraint but may not describe the current inflation trend.
+
+Williams (NY Fed / FOMC VC, voter) — June 25
+Importance: ***
+
+Key policy signal:
+Williams expects inflation to edge down in coming quarters if the Hormuz disruption resolves relatively soon, with energy and energy-affected goods stabilizing and falling later this year. He still flags the Middle East as a continued source of risk.
+
+Representative quote:
+“significant and unpredictable risks”
+
+Incremental reaction function:
+The center’s post-meeting look-through doctrine. Williams keeps the penciled hike contingent rather than committed: a soft June inflation print gives him cover to fade the hike path, while renewed energy disruption keeps the hawkish tail alive.
+
+Iran / Hormuz + crude — June 17–26
+Importance: ***
+
+Key policy signal:
+MoU signed June 17; strait re-closed June 20 over Lebanon; mid-week Iranian strike on Hormuz, then flows recovering by June 26. Crude down around 38% from its May apex; Brent to two-month-plus lows.
+
+Representative quote:
+(no quote)
+
+Incremental reaction function:
+The dovish forward input. The oil collapse sets up the expected June inflation peak-and-roll, but the energy-relief case is not yet bankable because the window also included re-closure and strike risk. A durable breakdown re-arms the hawks and pulls the hike forward.
+
+Warsh debut + SEP — June 17
+Importance: ****
+
+Key policy signal:
+2026 median dot at 3.8%, implying one hike penciled; forward guidance abolished; Chair withheld own dot; explicit meeting-by-meeting, data-dependent framing.
+
+Representative quote:
+(covered in prior week’s tape)
+
+Incremental reaction function:
+This is the regime the current week’s data feed into: no pre-committed path, maximum weight on each incoming print. The June inflation data, rather than Fed communication, become the next decisive input.
+
+Bottom line — central bank tape
+
+For the Policy Constraint bucket: hawkish hold with a penciled 2026 hike remains intact, but the hike is a contingent base case, not a lock. May core PCE supports the hike on a backward look; the energy collapse sets up a probable June inflation peak that could relax the path by the September SEP. July base case is hold. The live swing variables into July are whether June core inflation actually decelerates as oil reverses, and whether Iran / Hormuz de-escalation holds after the June 20 re-closure.
+
+Final state transition
+
+State transition: continuation — hawkish hold + penciled hike intact; forward disinflation case strengthening against still-hot, broadening backward core; two-sided into July
+
+Falsification triggers:
+
+June core PCE/CPI decelerates materially as energy reverses → penciled hike fades at the Sept SEP with no intervening move
+
+Iran deal collapses / strait re-closes durably → energy re-spikes, hike pulls toward July
+
+Core services ex-housing keeps broadening despite falling energy → hike proceeds regardless of oil
+
+Labor cracks, with claims turning up sharply from 215k → reopens a cut conversation — not in evidence this window
+
+AUDIT TRAIL
+
+Scout version: Central Bank Chatterbox v1.3
+
+Currency / central bank: USD / Federal Reserve
+
+Window: June 22–26, 2026
+
+Source discipline: Official Fed (Waller, Williams); BEA / CNBC / CBS / Yahoo Finance (PCE); TradingEconomics / Al Jazeera / CNN / NBC (Iran/oil); Wikipedia chronology used for discovery only and corroborated against named reporting
+
+Confidence: High on the PCE print and the energy unwind; Medium on speaker breadth (verified in-window policy tape is effectively one voice, Williams)
+
+Known gaps:
+
+Hawk-voter and Warsh in-window remarks not verified — possible omissions; do not infer silence as signal
+
+June inflation data unavailable — the key test of the disinflation thesis is still ahead
+
+Import caution: May PCE is backward-looking and pre-dates the June oil collapse — do not import the hot 3.4% core as the current trend; consensus expects June lower. The Iran de-escalation is fragile (strait re-closed June 20), so treat the energy-relief input as provisional. The speaker sweep is thin/incomplete this window — flag for the finalization agent, not a reason to infer a quiet committee.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Inflation and nominal spending are too firm for Fed relief, while housing and consumer-quality indicators show financing, savings and sentiment stress.
+
+Why it matters: This is not clean reflation and not clean slowdown. It is a policy-constrained bad-growth mix: supply-driven inflation, resilient but lower-quality spending, rate-sensitive housing weakness, fragile sentiment relief, and no hard labor break.
+
+Implication: USD support remains tied to relative policy constraint and risk premium, not clean growth exceptionalism. The first falsification tests are June inflation, July Michigan expectations, payroll deterioration, mortgage-rate relief and the durability of Q2 growth reacceleration.
+
+5 KEY RELEASES TO DIG INTO
+
+**** Personal Income / Consumption / PCE (25 Jun)
+Why it matters: Decisive week release. It confirms the Fed’s preferred inflation measure is now in the energy-led re-acceleration regime while spending remains resilient and the saving rate is low.
+
+**** S&P Global Flash PMI (23 Jun)
+Why it matters: Strong headline beat, but the macro signal is distorted by stockpiling, front-loading, supplier delays and falling manufacturing employment. Best test of “growth resilience” versus “false dawn.”
+
+**** New Home Sales (24 Jun)
+Why it matters: Cleanest built downside signal. It shows mortgage-rate transmission hitting even the builder-supported new-home market, with sales down and months’ supply elevated.
+
+*** U Mich Consumer Sentiment Final (26 Jun)
+Why it matters: Confirms gasoline-relief sentiment improvement and a helpful fall in long-run inflation expectations, but the level remains historically dire and near-term expectations remain too high for a dovish Fed read.
+
+*** Durable Goods (25 Jun)
+Why it matters: Challenges the bearish manufacturing read via strong ex-transport / core-capex detail. JGM note raises its importance because capital equipment supports the “2%-ish GDP” economy interpretation.
+
+RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
+
+Is May PCE genuinely the peak, or are the “peak inflation” calls over-relying on diplomatic / price relief rather than physical Hormuz normalization?
+
+How much of the PCE consumption resilience is savings / credit drawdown versus sustainable labor-compensation support?
+
+Does the fall in Michigan long-run expectations give Warsh enough cover to look through the supply shock, or are one-year expectations still too high?
+
+Does durable-goods core capex reflect genuine AI-led investment demand, or precautionary pull-forward under supply-chain risk?
+
+Should PMI factory employment weakness be discounted because initial claims are still low, or is it an early warning claims have not yet captured?
+
+Is Q1 private-demand weakness just a weather / QSS / import-arithmetic soft patch, or the start of a broader consumer slowdown?
+
+What would falsify the current hawkish-hold / bad-growth-mix regime: June PCE disinflation, July Michigan expectations, payroll deterioration, mortgage-rate relief, or stronger Q2 real demand?
+
+<<USD_WEEK_END>>
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 8 Jun 2026 to 12 Jun 2026
 
