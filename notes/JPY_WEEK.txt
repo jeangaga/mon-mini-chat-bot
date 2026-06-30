@@ -37,17 +37,17 @@ Japan — Leading Indicator Revised (Mar)
 Release Date: 26 May 2026 | Local Time: 07:00
 Importance: *
 
-Reuters Data
+1. Reuters Data
 
 Leading Indicator Revised: 0.8 | Prior: 1.3
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 No Tier 1 institutional debate detected.
 
 The official Cabinet Office release confirms this was the revised March business-conditions release. The market relevance is low because the print is backward-looking, revised rather than preliminary, and not normally a standalone BoJ catalyst. The useful signal is narrow: forward-looking momentum softened versus the prior reading, consistent with the broader Japan growth-downgrade backdrop rather than with a new, independent macro shock.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 The signal is deterioration, but low-conviction.
 
@@ -55,17 +55,17 @@ The revised leading indicator stepped down from 1.3 to 0.8, so the direction is 
 
 The correct hierarchy is therefore:
 
-direction: weaker forward momentum
-timing: backward-looking March read
-policy relevance: low standalone
-macro use: background confirmation of Japan’s softer FY26 growth-risk narrative
+* direction: weaker forward momentum
+* timing: backward-looking March read
+* policy relevance: low standalone
+* macro use: background confirmation of Japan’s softer FY26 growth-risk narrative
 
 State transition: deterioration.
 
 Context from prior regional live file:
 Earlier DM tape had Japan as still expansionary but mixed, with activity resilience offset by energy and inflation pass-through risk. This revised leading-index downtick weakens the forward-growth side without overturning that broader split. Japan remains a resilience-with-downgrade-risk bucket.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 Low standalone market relevance.
 
@@ -77,16 +77,16 @@ Japan — Tokyo CPI / Tokyo CPI ex Fresh Food (May)
 Release Date: 29 May 2026 | Local Time: 01:30
 Importance: ****
 
-Reuters Data
+1. Reuters Data
 
 CPI Tokyo Ex Fresh Food YY: 1.3% | Prior: 1.7% | Poll: 1.6% | Surprise: -0.30%
 CPI Tokyo Overall YY: 1.4% | Prior: 1.8%
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 The professional framing was dovish at the margin for the near-term BoJ hike case. Tokyo core CPI slowed below consensus and moved further below the BoJ’s 2% target. The tape nevertheless treated the release as incomplete pass-through rather than a full disinflationary clearance, because services inflation and producer-price pressure had already been firm in the broader Japan file.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is a false dawn.
 
@@ -97,7 +97,7 @@ State transition: false dawn.
 Context from prior regional live file:
 Japan previously sat in a mixed inflation bucket, with services and producer prices keeping gradual BoJ normalization risk alive. Tokyo CPI breaks against that hawkish channel by showing consumer inflation still below target. Japan is now a sharper intra-country split: producer/services pressure firm, consumer CPI soft.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 JPY/rates implication is dovish at the margin, but not a full BoJ all-clear.
 
@@ -107,17 +107,17 @@ Japan — Unemployment Rate (Apr)
 Release Date: 29 May 2026 | Local Time: 01:30
 Importance: **
 
-Reuters Data
+1. Reuters Data
 
 Unemployment Rate: 2,5% | Prior: 2,7% | Poll: 2,7% | Surprise: -0,20%
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 The professional framing is tighter headline labour with a composition caveat.
 
 Japan’s unemployment rate fell to 2.5% in April, below expectations and below the prior 2.7%. Public data summaries point to lower unemployment and record-high employment/labour-force levels, while the scout tape adds the key caution that demographic and population effects can complicate the cyclical interpretation.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is a labour-tightness continuation, but not a clean demand acceleration.
 
@@ -125,17 +125,17 @@ The 0.2pp unemployment drop is material and directionally supports the BoJ’s l
 
 Signal hierarchy:
 
-unemployment: tighter than expected
-labour-demand confirmation: incomplete
-demographic/supply caveat: material
-BoJ relevance: supports wage-channel monitoring, but does not offset soft Tokyo CPI by itself
+* unemployment: tighter than expected
+* labour-demand confirmation: incomplete
+* demographic/supply caveat: material
+* BoJ relevance: supports wage-channel monitoring, but does not offset soft Tokyo CPI by itself
 
 State transition: continuation.
 
 Context from prior regional live file:
 Japan had already been a tight-labour / uncertain-inflation transmission case. The unemployment drop preserves the labour-tightness channel but does not resolve the CPI contradiction. Japan remains labour-tight, but consumer-price pass-through is not yet confirmed.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 BoJ relevance is supportive but secondary to CPI.
 
@@ -145,17 +145,17 @@ Japan — Jobs/Applicants Ratio (Apr)
 Release Date: 29 May 2026 | Local Time: 01:30
 Importance: *
 
-Reuters Data
+1. Reuters Data
 
 Jobs/Applicants Ratio: 1,18 | Prior: 1,18 | Poll: 1,18 | Surprise: 0,000
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 No Tier 1 institutional debate detected.
 
 The print was exactly in line and unchanged. It confirms that job availability remains tight in level terms, but it does not show incremental labour-demand acceleration. That distinction matters because the unemployment rate improved at the same timestamp.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is no material change.
 
@@ -163,17 +163,17 @@ A 1.18 jobs/applicants ratio still implies a tight labour market, but the lack o
 
 Signal hierarchy:
 
-level: tight
-momentum: flat
-surprise: none
-role in Japan read: confirms tight labour conditions, but not acceleration
+* level: tight
+* momentum: flat
+* surprise: none
+* role in Japan read: confirms tight labour conditions, but not acceleration
 
 State transition: no material change.
 
 Context from prior regional live file:
 Japan’s labour story had already been tight but not enough by itself to settle the inflation debate. The flat jobs/applicants ratio preserves that structure. It supports the wage-channel thesis only as background, not as a fresh impulse.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 Low standalone JPY/BoJ relevance.
 
@@ -183,17 +183,17 @@ Japan — Industrial O/P Prelim MM SA (Apr)
 Release Date: 29 May 2026 | Local Time: 01:50
 Importance: ***
 
-Reuters Data
+1. Reuters Data
 
 Industrial O/P Prelim MM SA: 0,8% | Prior: -0,4% | Poll: -0,9% | Surprise: 1,70%
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 The professional framing is upside activity resilience despite external shock risk.
 
 The release surprised strongly versus a negative consensus and followed a prior monthly contraction. The tape treated the print as hard-data evidence that Japan activity was not breaking immediately, but still flagged external-demand and energy-import risks as constraints on extrapolating a durable production upturn.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is an activity improvement, but not a full regime upgrade.
 
@@ -201,17 +201,17 @@ The 0.8% m/m rise beats the -0.9% poll by 1.7pp and reverses the prior decline. 
 
 Signal hierarchy:
 
-headline production: positive surprise
-monthly direction: rebound after prior contraction
-external risk: still relevant
-BoJ relevance: reduces growth-delay argument, but does not decide inflation transmission
+* headline production: positive surprise
+* monthly direction: rebound after prior contraction
+* external risk: still relevant
+* BoJ relevance: reduces growth-delay argument, but does not decide inflation transmission
 
 State transition: improvement.
 
 Context from prior regional live file:
 Japan had entered the late-May window with softer forward signals and unresolved inflation pass-through. Industrial production supports the resilience side of the file, but the same day’s Tokyo CPI softness keeps the BoJ trade-off unresolved.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 JPY/rates read is mildly supportive, but conditional.
 
@@ -221,18 +221,18 @@ Japan — Retail Sales / Large Scale Retail Sales (Apr)
 Release Date: 29 May 2026 | Local Time: 01:50
 Importance: **
 
-Reuters Data
+1. Reuters Data
 
 Retail Sales YY: 2,1% | Prior: 1,7% | Revised: 1,4% | Poll: 1,3% | Surprise: 0,80%
 Large Scale Retail Sales YY: 2% | Prior: 2%
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 The professional framing is consumption resilience, with base/revision caveat.
 
 Japan retail sales rose 2.1% y/y in April, above the 1.3% market expectation and above the downwardly revised prior. Public summaries also note that the pace was the fastest since April 2025 and was supported by policy efforts aimed at cushioning household price pressure.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is a consumption improvement, but not a clean acceleration.
 
@@ -240,11 +240,11 @@ The beat is real: retail sales exceeded the Reuters poll by 0.8pp. But the prior
 
 Signal hierarchy:
 
-headline retail: positive surprise
-revision: prior lowered
-large-scale retail: steady
-consumer read: resilient
-BoJ relevance: supports real-demand resilience, but less decisive than CPI and wage data
+* headline retail: positive surprise
+* revision: prior lowered
+* large-scale retail: steady
+* consumer read: resilient
+* BoJ relevance: supports real-demand resilience, but less decisive than CPI and wage data
 
 Together with industrial production, retail sales push against a hard-landing Japan read. But together with Tokyo CPI, they create the opposite policy problem: activity is fine enough not to block normalization, while consumer inflation is too soft to force it.
 
@@ -253,7 +253,7 @@ State transition: improvement.
 Context from prior regional live file:
 Japan’s earlier activity read was mixed, with forward indicators softer but hard data not yet collapsing. Retail sales support the resilience side of that split. The consumer sector is not breaking, but it is also not generating the inflation pass-through the BoJ needs.
 
-HF Take — Strategist Layer
+4. HF Take — Strategist Layer
 
 Supportive of Japan activity, but not a standalone JPY catalyst.
 
@@ -263,17 +263,17 @@ Japan — Housing Starts YY (Apr)
 Release Date: 29 May 2026 | Local Time: 07:00
 Importance: *
 
-Reuters Data
+1. Reuters Data
 
 Housing Starts YY: 11,4% | Prior: -29,3% | Poll: 15,5% | Surprise: -4,10%
 
-Professional Market Commentary
+2. Professional Market Commentary
 
 No Tier 1 institutional debate detected.
 
 The headline is positive, but the release missed consensus and follows an extremely weak prior. The signal is therefore dominated by base effects rather than a clean construction-cycle recovery. Public calendar data around the release also show the prior month’s deep contraction, which reinforces the base-effect caution.
 
-Comment — Economist Layer
+3. Comment — Economist Layer
 
 This is a false dawn.
 
@@ -281,11 +281,11 @@ The y/y swing from -29.3% to +11.4% looks optically strong, but the print missed
 
 Signal hierarchy:
 
-headline direction: positive
-consensus comparison: miss
-base effect: dominant
-macro relevance: low standalone
-construction signal: not enough to change Japan activity read
+* headline direction: positive
+* consensus comparison: miss
+* base effect: dominant
+* macro relevance: low standalone
+* construction signal: not enough to change Japan activity read
 
 State transition: false dawn.
 
@@ -1133,6 +1133,7 @@ Why it matters: The key post-hike validation test. Headline/core looked dovish a
 Why it matters: Highest-value chatterbox follow-through after the hike. The Summary of Opinions anchored continued gradual hikes and a below-neutral gap, while Tamura defined the hawkish cadence toward ~2%; oil relief and composition drift are the timing counterweights.
 
 <<JPY_WEEK_END>>
+
 
 
 
