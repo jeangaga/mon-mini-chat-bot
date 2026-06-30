@@ -1,4 +1,602 @@
+<<NZD_WEEK_BEGIN>>
+DATA WINDOW: 12 June 2026 to 22 June 2026
 
+A. NZD WEEK — MACRO SYNTHESIS
+
+NZD over the supplied window was a split “pre-shock growth better / Q2 shock arriving / RBNZ premise partially falsified” file. Q1 GDP was genuinely stronger than expected on the starting point, with production GDP +0.8% q/q and expenditure GDP +1.0% q/q, while card spending rebounded strongly and the current-account ratio was stable at -3.6% of GDP. That prevents a simple recession / RBNZ-easing narrative.
+
+But the forward-looking and external-quality tape deteriorated. Manufacturing PMI slipped just below 50, services PSI stayed in contraction, GDT softened from elevated levels, and May trade showed the energy-import shock arriving hard: imports jumped to NZ$8.08bn, the monthly surplus narrowed to NZ$800mn, and petroleum imports surged 104% y/y. The RBNZ chatterbox sharpens the policy interpretation: the official tape was silent, but the May hawkish-hold premise was tested by two in-window inputs moving in opposite directions. Q1 GDP kept hikes defensible, but the US–Iran framework / Hormuz reopening and Brent’s fall toward ~$77 directly weakened the “sustained high oil → second-round inflation” argument behind the external hawks. Final regime: NZD has support from stale Q1 growth, resilient exports and still-elevated dairy, but the live Q2 signal is weaker domestic demand plus energy-import terms-of-trade damage, while the July hike call migrates toward hold / September unless oil re-escalates.
+
+B. NZD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Growth is internally conflicted. Q1 GDP was strong, with production GDP +0.8% q/q and expenditure GDP +1.0% q/q, confirming better starting momentum. Electronic card retail sales rose 1.7% m/m and 3.3% y/y, with core retail up 2.2% m/m. But forward indicators weakened: manufacturing PMI fell to 49.9 and the services PSI stayed in contraction at 45.8 on the Reuters feed / 47.5 on the official BusinessNZ vintage. The RBNZ chatterbox adds that firm Q1 GDP undercuts the internal bloc’s weak-demand argument, but GDP is stale relative to the Q2 shock window. Growth is therefore not collapsing, but the live Q2 demand signal is softer than the backward-looking GDP print.
+
+Labor: ~
+Supporting evidence:
+No standalone New Zealand labour-market release was present in the supplied 12–22 Jun archive. The labour read is indirectly softer through PMI/PSI employment sub-components remaining weak or sub-50, but that is not enough for a full labour-bucket downgrade. The RBNZ chatterbox also notes no in-window labour print and keeps the official unemployment path as a later watch item. Labour is neutral for the July call.
+
+Inflation: ~
+Supporting evidence:
+No New Zealand CPI or PPI release was present in the selected archive. Inflation risk appears indirectly through the imported-energy / fuel channel: manufacturing PMI commentary flagged high fuel costs, services weakness was tied partly to weak discretionary demand and cost pressure, and the May trade release showed petroleum imports rising 104% y/y, mostly price-driven. The RBNZ tape adds the key policy nuance: oil relief inside the window lowered the likely near-term inflation peak and partially falsified the external hawks’ sustained-oil second-round argument, while medium-term expectations remained anchored in carry-over survey evidence. Inflation therefore remains unresolved, but the timing pressure for a July hike eased.
+
+Financial Conditions: -
+Supporting evidence:
+NZD financial conditions are pressured by the external-account quality shift. The current-account-to-GDP ratio was stable and slightly better than poll at -3.6%, but the goods balance deteriorated underneath. GDT eased 2.8% from a still-elevated level, trimming one terms-of-trade cushion, and May trade showed the fuel-import bill eroding the monthly surplus. The chatterbox adds a partial offset: NZD firmed through the window on oil relief / risk-on, doing some disinflationary work against the May MPS’s weaker-TWI imported-inflation channel. Net financial conditions are still less supportive for NZD because the live trade-quality signal deteriorated.
+
+Policy Constraint: ~
+Supporting evidence:
+The RBNZ signal is balanced but has drifted dovishly on timing. Q1 GDP and card spending argue against urgent dovish repricing, while PMI/PSI weakness and the fuel-import shock argue against hawkish extrapolation. The central-bank tape confirms no RBNZ speaker or official monetary document landed in-window, so the official reaction function did not change by communication. But the in-window oil de-escalation fired the prior dovish falsification trigger: the external hawks’ urgency premise lost force, even as firm GDP kept the medium-term hiking bias alive. Policy is therefore “hawkish hold with hiking bias, July less likely, September still live,” not easing and not a mechanical hike.
+
+C. FULL RELEASE ARCHIVE
+
+FRIDAY 12 JUN 2026
+
+New Zealand — BNZ–BusinessNZ Manufacturing PMI (May)
+Release Date: 12 Jun 2026 | Local Time: 10:30 NZST
+Importance: **
+
+Reuters Data
+
+Manufacturing PMI: Actual 49,9 | Prior 50,5
+
+Professional Market Commentary
+
+The PMI slipped into contraction. The scout flags a mechanical discrepancy: the Reuters feed prior is 50.5, while the official BusinessNZ / BNZ release reports April at 50.4. The official prior is used analytically, while the Reuters feed value is preserved in Section 1.
+
+The scout frames the release as a winter flat patch rather than a confirmed slump, but with weak customer demand, high fuel prices and Middle East conflict pressures as explicit drags.
+
+Comment — Economist Layer
+
+This is deterioration, but still a flat-patch signal rather than a confirmed downturn.
+
+Key hierarchy:
+
+PMI slips just below 50
+this is the third monthly decline from the March level
+demand is the weak point, not supply strength
+inventory-heavy / weak-order internals suggest soft final demand
+employment is not providing an offset
+fuel costs and Middle East uncertainty are explicit drags
+the signal is forward-looking for Q2, while Q1 GDP is still expected to be solid
+
+NZ now joins Canada and UK housing in the soft-real-economy bucket. The difference is that the NZ signal is manufacturing-specific and modest in level, not a broad activity collapse.
+
+State transition: deterioration.
+
+Context from prior regional live file: New Zealand had already been a weak-growth / policy-constrained file after the RBNZ’s hawkish hold. The PMI confirms that the growth side remains fragile into Q2, especially for manufacturing and SMEs. The RBNZ constraint therefore remains uncomfortable: weak demand is visible, but the policy path still depends on whether imported inflation persists.
+
+HF Take — Strategist Layer
+
+NZD/rates read: growth-negative, but not enough to force an RBNZ repricing alone.
+
+The print adds to the argument that the recovery is vulnerable to energy and demand shocks. It does not automatically dominate next week’s GDP or inflation evidence. For NZD, the signal is softer activity with an imported-cost drag: negative for growth beta, but not cleanly dovish if the RBNZ remains focused on inflation persistence. A June PMI rebound above 50 plus solid Q1 GDP would reclassify this as a winter flat patch.
+
+MONDAY 15 JUN 2026
+
+New Zealand — BusinessNZ Performance of Services Index (May)
+Release Date: 15 Jun 2026 | Local Time: 00:30
+Importance: ***
+
+Reuters Data
+
+Business PSI: 45.8 | Prior: 46.0
+
+Professional Market Commentary
+
+The scout tape and official BusinessNZ release agree on the directional message: New Zealand services remained in contraction in May, with weak discretionary categories and subdued consumer confidence driving the tone. The mechanical Reuters feed reports 45.8 / 46.0, while BusinessNZ’s official PSI release reports 47.5 for May and 48.7 for April; the discrepancy is preserved as a data-quality issue, but both versions remain sub-50 and point to continued services weakness.
+
+Professional commentary was restrained rather than sensational. BusinessNZ framed the weakness around cafés/restaurants and recreational/personal services, while BNZ noted the PSI had dipped again after oscillating in contraction territory. All five PSI sub-indices were below 50, with Activity/Sales at 44.7 and New Orders/Business also sub-50 at 47.6.
+
+Comment — Economist Layer
+
+This is not a fresh collapse; it is confirmation that the early-year services lift has failed.
+
+Signal hierarchy:
+
+headline: sub-50 services activity persists under both Reuters and official BusinessNZ vintages
+breadth: all five PSI sub-components below 50
+quality: Activity/Sales weakest at 44.7; New Orders/Business also sub-50 at 47.6
+demand channel: discretionary services are the weak point
+labour channel: employment remains sub-50, so the survey does not validate a near-term labour rebound
+data caveat: Reuters level is materially below BusinessNZ official level, but the contraction conclusion is invariant
+
+The useful macro signal is the split between forward-looking services weakness and later goods/retail resilience. This keeps the New Zealand activity read soft, but not one-dimensional, because the next card-spending block leans in the opposite direction.
+
+State transition: continuation with deterioration sub-trend.
+
+Context from prior regional live file: New Zealand had already been classified as weak domestic demand with external-income offsets, not a clean RBNZ easing signal. The prior tape also showed PSI and card-spending weakness sitting against PPI/pass-through risk, leaving the bucket stagflationary rather than simply weak-growth. This PSI print confirms the domestic-demand side of that split.
+
+HF Take — Strategist Layer
+
+RBNZ implication: dovish on growth, but not sufficient on its own to dominate the inflation/pass-through constraint.
+
+The release supports lower real-growth assumptions and weak NZ domestic-demand momentum. It does not automatically validate a clean easing trade because the broader NZ setup has already carried imported-cost and producer-price risks. The correct mapping is conditional: PSI weakness argues against further tightening if inflation allows it, but inflation and external-cost data remain the binding verification tests.
+
+NZD/rates: negative for NZD at the domestic-demand margin; supportive for lower front-end real-growth assumptions; not enough to turn the full NZD story one-way because dairy, trade and retail offsets still matter.
+
+New Zealand — Electronic Card Retail Sales MM / YY (May)
+Release Date: 15 Jun 2026 | Local Time: 00:45
+Importance: ***
+
+Reuters Data
+
+Electronic Card Retail Sales MM: 1.7% | Prior: -1.3% | Revised: -1.2%
+Electronic Card Retail Sales YY: 3.3% | Prior: 2.0%
+
+Professional Market Commentary
+
+Stats NZ reported that retail-industry card spending rose 1.7% m/m in May, or NZ$121mn, while core retail rose 2.2% m/m, or NZ$137mn. Retail commentary framed the print as the strongest year-on-year core retail growth in more than two years, with durables strength central to the positive read.
+
+The scout tape correctly flags a narrative tension: the benign “retail turning” interpretation is plausible, but the composition is goods/durables-heavy and therefore vulnerable to a front-loading read under the geopolitical/fuel-cost shock overlay.
+
+Comment — Economist Layer
+
+This is a strong nominal retail print, but not a clean real-consumption upgrade.
+
+Signal hierarchy:
+
+headline: +1.7% m/m after revised -1.2% prior = clear sequential rebound
+annual: +3.3% y/y, faster than prior +2.0%
+core retail: +2.2% m/m in Stats NZ release
+composition: durables/big-ticket categories drive the positive read
+measurement: electronic-card data are nominal value data, not real retail volumes
+regime caveat: if prices/import costs are elevated, nominal strength can overstate real demand
+
+The false-dawn risk matters because the PSI release points to services contraction at the same time. A genuine household-demand recovery should show broader spending breadth, especially non-durables and services-linked consumption, not only goods categories that can be pulled forward by discounting, supply concerns or replacement cycles.
+
+State transition: improvement, but false-dawn risk.
+
+Context from prior regional live file: New Zealand had been weak on services and domestic-demand surveys, but not uniformly collapsing. The card-spending rebound reinforces the “not one-way weak” message. However, because it is nominal and goods/durables-heavy, it does not neutralize the services contraction or imported-cost shock.
+
+HF Take — Strategist Layer
+
+RBNZ implication: reduces urgency of a dovish growth downgrade, but low real-demand confidence.
+
+NZD/rates: modestly supportive at the domestic-demand margin, but conditional. The release is not enough to override PSI weakness or external energy-import pressure. A confirmed real retail-volume rebound would matter more; a reversal in June would relabel May as front-loading / temporary strength.
+
+TUESDAY 16 JUN 2026
+
+New Zealand — GDT Milk Auction (w/e 9 Jun)
+Release Date: 16 Jun 2026 | Local Time: 14:00
+Importance: **
+
+Reuters Data
+
+Milk Auctions: 3 979 | Prior: 4 021
+
+Professional Market Commentary
+
+The latest GDT event summary shows the weighted average price at US$3,979 per tonne and the overall GDT Price Index down 2.8% from the previous event, with WMP, SMP, butter and cheddar all lower. The scout tape frames the move as cooling from elevated levels rather than a collapse in the dairy terms-of-trade cushion.
+
+Comment — Economist Layer
+
+This is a marginal softening in an still-elevated dairy-price regime.
+
+Signal hierarchy:
+
+level: US$3,979/tonne remains a meaningful rural-income support
+direction: down from 4 021 in the Reuters feed
+index context: GDT Price Index down 2.8% at the latest event
+composition: broad product softness, not just one category
+macro role: terms-of-trade cushion is cooling, not disappearing
+
+The macro point is second-order but relevant. Dairy prices have been one of the offsetting supports to weak New Zealand domestic demand. A single softer auction trims that offset but does not remove it.
+
+State transition: no material change.
+
+Context from prior regional live file: Prior DM history had already logged dairy pricing as a partial offset to weak New Zealand services and retail demand. Earlier auctions had supported rural-income resilience, while subsequent softening was treated as a modest correction rather than a wholesale reversal. The latest auction keeps that same structure: dairy support is less incremental, but still present.
+
+HF Take — Strategist Layer
+
+RBNZ implication: low standalone relevance.
+
+NZD implication: mildly less supportive at the terms-of-trade margin, but not a decisive bearish signal. A series of further declines would matter more because it would remove one of the cleaner external offsets to weak domestic demand. For now, dairy prices remain a cushion, not a new negative catalyst.
+
+WEDNESDAY 17 JUN 2026
+
+New Zealand — Balance of Payments / Current Account / Current Account-to-GDP (Q1)
+Release Date: 17 Jun 2026 | Local Time: 00:45
+Importance: ***
+
+Reuters Data
+
+Current Account - Qtrly: -1.008B | Prior: -5.984B
+Current Account - Annual: -16.300B | Prior: -16.347B
+Current Account/GDP: -3.6% | Prior: -3.7% | Poll: -3.7% | Surprise: 0.10%
+
+Professional Market Commentary
+
+Stats NZ’s March-quarter balance-of-payments release, relayed by Mirage News, reported a seasonally adjusted current-account deficit of NZ$4.6bn, around NZ$100mn wider than the December quarter, while the annual current-account deficit was NZ$16.3bn, or 3.6% of GDP. The key composition was a wider goods deficit, partly offset by a narrower primary-income deficit; goods exports rose, but imports rose more.
+
+The scout tape’s SA / NSA reconciliation is important. The Reuters quarterly line of -1.008B is the unadjusted quarterly balance, while the official headline focuses on the seasonally adjusted deficit. Both can be internally consistent, but they should not be mixed when interpreting the sequential signal.
+
+Comment — Economist Layer
+
+This is a stable external-ratio print with weaker goods-balance quality underneath.
+
+Signal hierarchy:
+
+annual external ratio: -3.6% of GDP, slightly better than the -3.7% poll
+quarterly Reuters NSA balance: less negative than prior, but seasonally flattered by March-quarter export seasonality
+official SA balance: deficit widened only marginally, by roughly NZ$100mn
+composition: goods deficit widened by NZ$323mn
+offset: primary-income deficit narrowed by NZ$219mn
+forward relevance: Q1 is partly pre-shock / early-shock and may understate the Q2 import-cost channel
+
+The headline GDP ratio is not alarming. The issue is quality: the stable annual ratio masks goods-balance deterioration at the quarterly margin. That makes the release less NZD-negative than a clean external deterioration, but also less reassuring than the headline ratio alone suggests.
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior New Zealand external-account tape had already shown trade-flow support and dairy strength offsetting weak domestic activity. That earlier external cushion remains visible in the stable annual current-account ratio, but the goods-deficit widening limits the upgrade. The external bucket is stabilizing, not strengthening decisively.
+
+HF Take — Strategist Layer
+
+NZD implication: marginally supportive versus expectations on the current-account-to-GDP ratio, but not a clean external-balance upgrade.
+
+RBNZ implication: limited direct reaction-function impact. The print matters more for NZD vulnerability and funding quality than for near-term OCR pricing. The strategist risk is overreacting to the better annual ratio while ignoring the lagged import-cost risk. Confirmation needs the June-quarter balance-of-payments and monthly trade data.
+
+THURSDAY 18 JUN 2026
+
+New Zealand — GDP Production / Expenditure (Q1)
+Release Date: 18 Jun 2026 | Local Time: 00:45
+Importance: ***
+
+Reuters Data
+
+GDP Prod-based QQ, SA: 0.8% | Prior: 0.2% | Revised: 0.5% | Poll: 0.8% | Surprise: 0.00%
+GDP Prod-based YY, SA: 1.5% | Prior: 1.3% | Revised: 1.5% | Poll: 1.1% | Surprise: 0.40%
+GDP Prod-based, Ann Avg: 0.8% | Prior: 0.2% | Revised: 0.3% | Poll: 0.6% | Surprise: 0.20%
+GDP Exp-based QQ, SA: 1.0% | Prior: 0.1% | Revised: 0.4% | Poll: 0.8% | Surprise: 0.20%
+
+Professional Market Commentary
+
+Stats NZ reported New Zealand GDP rose 0.8% q/q in the March 2026 quarter after a revised 0.5% increase in the December 2025 quarter. The release confirms genuine Q1 momentum, but it is explicitly backward-looking for policy because Q1 predates the bulk of the Middle East / fuel-price shock that later hit activity and confidence.
+
+The scout tape’s professional frame is aligned: strong but stale. Westpac read the print as evidence that the economy entered 2026 with more momentum than expected, while still flagging that Q2 is the shock quarter. RBNZ relevance is therefore limited: the July OCR decision will be governed by forward inflation and Q2 conflict damage, not by a clean Q1 rebound.
+
+Comment — Economist Layer
+
+This is a real improvement print, but vintage matters more than the upside surprise.
+
+Signal hierarchy:
+
+production q/q: 0.8%, in line with poll but materially stronger after Q4 was revised up to 0.5%
+production y/y: 1.5%, above 1.1% poll
+annual average: 0.8%, above 0.6% poll
+expenditure q/q: 1.0%, above 0.8% poll
+production composition: services and manufacturing improve; construction/mining weaker
+expenditure composition: consumption, investment and trade volumes all positive
+policy vintage: Q1 is pre-shock; Q2/Q3 carry the actual conflict transmission
+inflation relevance: GDP volume strength does not directly measure the fuel/import price shock
+
+The release improves the underlying New Zealand growth baseline. It weakens a pure recession narrative and helps explain why card spending could rebound even while services surveys were weak. But it does not neutralize the forward-looking PSI deterioration, because PSI is closer to the shock window than GDP.
+
+State transition: improvement, pre-shock and provisional.
+
+Context from prior regional live file: New Zealand had been a split file: weak forward services demand, retail-card resilience, dairy support and a stable-but-lagged external ratio. Q1 GDP confirms that the economy entered the shock with more momentum than the services survey alone implied. The forward state remains unresolved because Q2, not Q1, is the relevant shock quarter.
+
+HF Take — Strategist Layer
+
+RBNZ implication: less dovish on the starting point, but still forward-data dependent.
+
+The GDP print lowers the probability that the RBNZ needs to respond to a growth break immediately. It does not eliminate the imported-cost / confidence shock because the release is stale relative to the conflict. NZD implication is initially supportive through growth surprise and external resilience, but not cleanly bullish because the market must discount Q2 fuel/import-price damage.
+
+FRIDAY 19 JUN 2026
+
+New Zealand — Overseas Merchandise Trade: Imports / Exports / Trade Balance / Annual Balance (May)
+Release Date: 19 Jun 2026 | Local Time: 00:45
+Importance: ***
+
+Reuters Data
+
+Imports: 8.08B | Prior: 6.70B | Revised: 6.67B
+Trade Balance: 800.0M | Prior: 1,920.0M | Revised: 1,598.0M
+Annual Trade Balance: -3.37B | Prior: -2.76B | Revised: -3.07B
+Exports: 8.88B | Prior: 8.62B | Revised: 8.27B
+
+Professional Market Commentary
+
+Stats NZ reported that total exports were NZ$8.9bn in May, up 18% y/y, while imports were NZ$8.1bn, up 26% y/y. The crucial detail is the import side: petroleum and petroleum products imports increased NZ$834mn, or 104%, to NZ$1.6bn, accounting for almost half of the rise in total imports; Stats NZ said the rising value of fuel imports was predominantly price-driven.
+
+The release therefore confirms the Q2 energy-import shock that the earlier Q1 GDP block could not capture. Exports were resilient, with dairy, aluminium, fruit and meat contributing positively, but the fuel bill halved the monthly surplus and widened the annual trade deficit.
+
+Comment — Economist Layer
+
+This is the clearest New Zealand Q2 shock-confirmation block so far.
+
+Signal hierarchy:
+
+monthly balance: surplus falls to NZ$800mn from revised NZ$1.598bn
+imports: NZ$8.08bn, sharply higher
+exports: NZ$8.88bn, still firm
+petroleum imports: +104% y/y, the dominant driver of the import surge
+unit-value logic: fuel import value rise is mostly price, not volume
+annual balance: deficit widens to NZ$3.37bn
+policy vintage: unlike Q1 GDP, this is inside the shock window
+
+The release resolves part of the NZ tension. Q1 GDP showed that the economy entered the shock with better momentum. The May trade data show the shock arriving through the external account: higher fuel import values erode the surplus even while exports remain strong. This supports the PSI / forward-damage narrative more than the Q1 GDP optimism.
+
+State transition: deterioration, energy-import-driven.
+
+Context from prior regional live file: New Zealand had been split between stale Q1 growth strength, weak forward services, current-account stabilization and dairy/export support. May trade shifts the balance toward shock damage because the fuel-import bill is now visible in hard data. The NZ bucket becomes less “pre-shock improvement” and more “energy-import deterioration with export offsets.”
+
+HF Take — Strategist Layer
+
+NZD/RBNZ implication: negative at the external-account margin and supportive of caution on the growth outlook.
+
+The release is not a domestic-demand collapse, because exports remain strong. But for NZD, the deterioration in the fuel-import bill weakens the terms-of-trade and current-account story at the margin. For RBNZ, it reinforces the forward-looking caution: Q1 GDP is stale, while Q2 trade is already absorbing the imported-energy hit.
+
+Falsification map: a durable Hormuz reopening that collapses fuel unit values would stabilize the trade account; the 20 Jun re-closure instead keeps the deterioration thesis live.
+
+CENTRAL BANK TAPE
+
+Central Bank Chatterbox — RBNZ / NZD
+Window: 12–22 June 2026
+Central bank: Reserve Bank of New Zealand — Te Pūtea Matua
+Current policy rate: OCR 2.25% — held 27 May; unchanged since Nov 2025
+Last meeting: 27 May 2026 — full MPS
+Next meeting: 8 July 2026 — Monetary Policy Review, no projections
+Mode: Live policy-reaction-function monitor — intermeeting window 2 of channel
+
+Reference point re-verification
+
+OCR: 2.25%, confirmed.
+Next update: 8 Jul.
+Roster: six-member MPC; Deputy Governor seat still vacant. Breman, Governor / Chair; Silk, Assistant Governor; Conway, Chief Economist; Hansen, Gourley and Gai as external members.
+Quiet period: no blackout in-window; quiet period begins around early July ahead of the 8 Jul MPR.
+Latest official bias: hawkish hold + hikes signalled in the 27 May MPS.
+Projection status: no new projections since the May MPS.
+
+Window sweep log
+
+Spoke in window — policy-relevant:
+None. No MPC member delivered an on-record monetary speech, interview, panel or testimony in 12–22 Jun. Officials went quiet after the late-May MPS / FEC blitz; the next scheduled communication is the 8 Jul MPR.
+
+Official documents released in window:
+None monetary. No minutes, MPR, speech, or Survey of Expectations published in-window. The Q2 Survey of Expectations was 13 May, pre-window carry-over.
+
+Spoke but not policy-relevant:
+None identified.
+
+Did not speak / nothing found — full roster:
+Breman — no in-window public monetary remarks found.
+Silk — no in-window public remarks found.
+Conway — no in-window public remarks found; his “Purchasing power” speech was 25 Mar, out of window.
+Hansen — no in-window public remarks found.
+Gourley — no in-window public remarks found.
+Gai — no in-window public remarks found.
+
+In-window data / geopolitical inputs — context to the reaction function, not central-bank communication:
+
+Q1 2026 GDP — 18 Jun — +0.8% q/q; Q4 revised up to +0.5%; +1.5% y/y versus around 1.1% consensus; broad-based, with manufacturing +1.9%, wholesale +2.4%; primary -0.5%, mining -11.6%. Importance: High.
+
+US–Iran interim framework / MoU — 18–19 Jun, signed Switzerland 19 Jun — Hormuz reopening announced; Brent around ~$77, from ~$92 end-May and versus ~$120 April peak. Importance: High.
+
+Unverified / possible gaps:
+
+A “Breman: growth hinges on conflict resolution” item carried a 17 Jun tag on one aggregator, but content references the April MPR — “the RBNZ’s pause,” “dampen April” — and is almost certainly mis-dated April commentary, not a fresh in-window speech. Not used as in-window tape.
+
+No clean primary in-window OIS snapshot captured; July-hike odds inferred from bank commentary.
+
+Carry-over context used:
+
+27 May MPS package — hawkish hold, 3–3 split, steep OCR track, Sep-26 2.51%, terminal 3.28% — the state being tested in this window.
+
+Q2 Survey of Expectations — 13 May — 1yr 3.41%, highest since 2023; 2yr 2.53%; 5yr / 10yr eased to 2.22% / 2.19%, long-end anchor intact.
+
+External members’ minuted rationale — second-round risk from sustained high oil, with Hansen optionality argument.
+
+MPC transparency Charter — votes / differences now attributed.
+
+Just-post-window / watchlist — after 22 Jun, not in-window:
+
+June ANZ Business Outlook — around 25–30 Jun — year-ahead inflation expectations 3.63% to 3.36%, fewer firms planning price rises, wage-growth expectations subdued, confidence recovering on oil relief — dovish-confirming.
+
+Bank July-call migration — ASB drops July-hike call to hold post-MoU; Westpac / BNZ reaffirm September start; ANZ / UBS still July-hike.
+
+Brent to pre-war ~$72 on 25 Jun — extends the in-window move.
+
+Sweep verdict
+
+An empty official tape over a hard-moving backdrop. The RBNZ said nothing while the two pillars of its May hawkish hold both shifted in-window: the oil shock that justified the hawkish track partially reversed through the US–Iran framework, Brent around ~$77 and Hormuz reopening; while Q1 GDP printed firmer and broader than the “early-stage recovery” framing. These pull the July call in opposite directions but, on net, the external members’ urgency premise — sustained high oil leading to second-round risk — lost force, and market / bank conviction on a July hike eroded. With no official steer, the next RBNZ communication is the decision itself. This is the window where the prior dovish falsification trigger fired on inputs, not on communication.
+
+Executive policy read
+
+The RBNZ stayed silent through a materially shifting fortnight, so there is no in-window change to official communication — but the inputs the May hold was conditioned on moved hard. The US–Iran interim framework on 18–19 Jun drove Brent to around ~$77 and put Hormuz reopening on the table, partially falsifying the “sustained high oil → second-round” premise that gave the three external hawks their conviction. In parallel, the 18 Jun Q1 GDP print — +0.8% q/q, +1.5% y/y, broad-based — undercut the internal bloc’s weak-demand / spare-capacity patience argument. The two crosscurrents do not cancel for the July decision: oil relief directly lowers the near-term inflation peak, which is the variable the externals were defending against, while firmer growth is a slower-burning, less time-sensitive input. Net effect: the July hike that looked near-live after the 3–3 May split has swung back toward a still-split hold, with lift-off migrating to September. The reaction function is unchanged on paper; its inputs have moved dovish on the axis that matters most for timing.
+
+Policy state: Hawkish hold with hiking bias — premise partially falsified in-window; official tape silent.
+State transition: Dovish drift — input-driven, partial — on the inflation / oil axis, offset by growth; not a communication-driven shift.
+Confidence: Medium-High on the input read; official reaction-function read unchanged but unverified due to silence.
+
+Key themes since last meeting
+
+Theme 1 — The oil premise partially falsifies
+Read: US–Iran interim MoU signed 19 Jun; Hormuz reopening announced; Brent around ~$77 mid-month versus ~$92 end-May and ~$120 April peak, then around ~$72 just-post-window. The exact shock the May MPS was built around is unwinding.
+Policy implication: Lowers the near-term inflation peak and directly defuses the external members’ “second-round from sustained high oil” case. Single most important input for the July timing call; pushes toward hold / September.
+Evidence base: in-window geopolitical / energy.
+Confidence: High on the move; Medium on durability.
+
+Theme 2 — Q1 GDP firmer and broader than the RBNZ’s framing
+Read: +0.8% q/q; Q4 revised up to +0.5%; +1.5% y/y versus around 1.1% expected; manufacturing +1.9%, wholesale +2.4%, services broad; only primary soft, with mining -11.6%.
+Policy implication: Erodes the weak-demand scenario that was the internal bloc’s patience justification and cleanest dovish off-ramp. Keeps a July hike defensible for the hawkish interpretation, even as oil relief argues the other way.
+Evidence base: in-window data.
+Confidence: High.
+
+Theme 3 — Inflation expectations: front-end hot, long-end anchored
+Read: Carry-over Q2 Survey of Expectations had 1yr at 3.41% but 5yr / 10yr easing to 2.22% / 2.19%. Just-post-window ANZBO shows year-ahead expectations rolling over with pricing intentions softening.
+Policy implication: The internal bloc’s core threshold — medium-term expectations un-anchoring — is not being met. Long-end anchors and near-end rollover support the look-through camp.
+Evidence base: mixed carry-over survey + just-post-window ANZBO.
+Confidence: Medium-High.
+
+Theme 4 — Official silence through a premise reversal is itself material
+Read: No member spoke while the May premise partially falsified. Under the new Charter members are encouraged to communicate; none did. The market repriced July without any steer.
+Policy implication: The next communication is the 8 Jul decision / Record. Communication risk is elevated because there has been no opportunity to guide expectations between a hawkish MPS and a backdrop that has moved dovish.
+Evidence base: in-window absence.
+Confidence: High on silence; Medium on materiality.
+
+Speaker / document table
+
+12–22 Jun — RBNZ MPC, all members — In-window — Institutional / procedural
+Key signal: silent; no speeches, minutes or publications.
+Reaction-function implication: no official steer between hawkish MPS and dovish-shifting backdrop; July guidance risk.
+Importance: ***
+
+18 Jun — Q1 2026 GDP — In-window — Hawkish-leaning
+Key signal: +0.8% q/q, +1.5% y/y, broad-based.
+Reaction-function implication: undercuts weak-demand scenario; keeps July hike defensible.
+Importance: ***
+
+18–19 Jun — US–Iran interim MoU / Brent around ~$77 — In-window — Dovish-leaning
+Key signal: Hormuz reopening; oil down roughly 20% from May.
+Reaction-function implication: lowers inflation peak; defuses external members’ urgency; shifts July toward hold / September.
+Importance: ****
+
+27 May — May MPS package — Carry-over — Hawkish
+Key signal: 3–3 split; steep OCR track; peak around 4.3% in scout framing.
+Reaction-function implication: state under test; premise now partially falsified.
+Importance: ****
+
+13 May — Q2 Survey of Expectations — Carry-over — Two-sided
+Key signal: 1yr 3.41%; 5yr / 10yr eased to 2.22% / 2.19%.
+Reaction-function implication: long-end anchored; internal members’ threshold unmet.
+Importance: ***
+
+Late Jun — June ANZ Business Outlook — Just-post-window — Dovish
+Key signal: year-ahead inflation expectations down; pricing intentions softer.
+Reaction-function implication: confirms expectations rolling over; July hold.
+Importance: *** — patch item, not in-window driver.
+
+Thematic speaker tape
+
+No central-bank speaker tape this window — the MPC was silent. The reaction-function inputs are therefore organized below by theme; all are data / geopolitical context, explicitly not RBNZ communication.
+
+Geopolitical / Energy Shock — dominant axis
+
+18–19 Jun — US–Iran interim MoU; Hormuz reopening; Brent around ~$77 — In-window
+Signal: the May-MPS oil premise partially reverses.
+Bias: Dovish.
+Importance: ****
+
+25 Jun — Brent around ~$72, pre-war low — Just-post-window
+Signal: move extends; durability still fragile.
+Bias: Dovish.
+Importance: *** — watchlist.
+
+Implication: This is the variable that re-balances July. The external members voted hike in May explicitly fearing sustained high oil feeding second-round effects. With oil down sharply and the conflict de-escalating in-window, that fear loses its anchor. Caveat: reopening is partial / fragile, so this is partial falsification, not full all-clear.
+
+Growth / Activity — offsetting axis
+
+18 Jun — Q1 GDP +0.8% q/q, +1.5% y/y — In-window
+Signal: broad-based and stronger than “early-stage recovery.”
+Bias: Hawkish.
+Importance: ***
+
+Implication: The firm print weakens the internal bloc’s spare-capacity argument and keeps a July hike tail alive. But growth is a slower-burning input than the inflation peak, so it does less to defend a July move than oil relief does to defuse one. Net of the two: timing skews to September.
+
+Inflation / Expectations
+
+13 May — Survey of Expectations — Carry-over
+Signal: 1yr 3.41% hot; 5yr / 10yr eased.
+Bias: Two-sided.
+Importance: ***
+
+Late Jun — ANZBO year-ahead expectations — Just-post-window
+Signal: front-end expectations rolling over.
+Bias: Dovish.
+Importance: ***
+
+Implication: The internal members’ decisive threshold is medium-term expectations. The long end is anchored and the near end is rolling over — the look-through camp is being validated, reinforcing the July-hold tilt.
+
+Policy outlook
+
+Base case — 8 Jul MPR: Hold at 2.25%, still likely a split vote, with lift-off migrating to September. The in-window oil relief and softening near-term expectations have defused the external members’ core argument, while firm Q1 GDP is not, by itself, a July-hike trigger. Cleanest read: another contested hold, with the external bloc possibly reduced from three to two, and a September start now the modal first hike. The risk is asymmetric toward hold relative to the post-MPS market.
+
+Hawkish scenario: Oil reverses, reopening stalls, transit / demining risk persists, Brent returns toward ~$90–100, and the firm-growth read dominates. In that case the May hawkish track is vindicated and July delivers a hike, plausibly with an internal defection given GDP strength.
+
+Dovish scenario: Oil holds at pre-war lows, Q2 CPI prints at or below the lowered peak, expectations keep rolling over, and Q2 activity stalls. Lift-off slips past September and the September MPS track endpoint is cut toward a lower terminal.
+
+Market-pricing check: Post-MPS pricing was set before the in-window oil relief. Through the window, bank conviction migrated: ANZ / UBS remained in the July-hike camp; ASB / Westpac / BNZ shifted to July hold with September start. No clean primary in-window OIS snapshot was captured; front-OIS needs refresh before import. July-hike odds have been marked down materially since 27 May.
+
+Reaction-function map
+
+Inflation threshold: Headline peak is now lower on oil relief, subtracting from the hike case. The decisive condition remains second-round transmission — core, wages and medium-term expectations. The in-window / just-post evidence says it is not occurring. Tilts hold.
+
+Labour threshold: No in-window labour print. June-quarter HLFS in early August is the next read. Neutral for July.
+
+Growth threshold: Firm Q1 weakens the dovish weak-demand off-ramp and keeps hikes on the medium-term agenda, but it is not a July trigger on its own. The RBNZ’s pencilled small Q2 contraction is the swing; Q2 partials are the watch.
+
+Financial-conditions / FX threshold: NZD firmer through the window on oil relief / risk-on. The May MPS had already assumed a weaker TWI as an imported-inflation channel; kiwi strength on oil relief does some disinflationary work, reinforcing hold.
+
+Political / institutional constraint: Vacant Deputy Governor seat remains the latent pivot; casting-vote dependency persists. 2026 election backdrop unchanged. Communication risk is elevated because silence through a premise reversal means the 8 Jul decision / Record carries the full burden of re-guiding expectations.
+
+Committee split — carry-over inference, no in-window update:
+Hawks: Hansen, Gourley, Gai — external bloc, but their central premise weakened in-window; conviction may have softened, unverified.
+Cautious centre: Breman, Silk, Conway — data has moved their way on expectations and oil, but against them on Q1 GDP.
+Pivotal: Breman, casting vote. The external bloc’s willingness to keep dissenting after oil relief is the key unknown into July.
+
+Communication risk: High and one-sided. The market has repriced toward hold with zero official input since a hawkish MPS. Any pre-blackout member comment would be high-signal; absent that, the 8 Jul Record is the first read on whether the external members fold.
+
+Watchlist to 8 July
+
+8 Jul MPR — hold versus hike; watch whether the external bloc shrinks from three and whether the Record reframes the oil premise.
+Oil / Hormuz durability — partial, fragile reopening; reversal toward ~$90–100 re-arms the hawks.
+June ANZ Business Outlook and expectations gauges — confirmation the front-end is rolling over.
+Q2 CPI — mid-July, post-meeting — real arbiter of the inflation-peak call; informs September.
+Any pre-blackout MPC speech — first chance for an official to react to the falsified premise; high-signal if it comes.
+Deputy Governor appointment — institutional pivot for casting-vote fragility.
+
+Red team / falsification check
+
+What makes the dovish-drift read wrong: Oil reopening is partial and fragile. If oil snaps back and Q1’s growth strength carries into Q2, the May hawkish track is vindicated and July delivers; the in-window relief was a head-fake.
+
+What makes a July hike wrong: Front-end expectations are already rolling over, the long end never un-anchored, and the oil-driven inflation peak is being cut in real time. The internal members’ look-through stance looks correct, and hiking into falling expectations plus a cooling oil shock would look like a policy error.
+
+Biggest interpretation trap: Treating a silent window as “no change.” The official reaction function is unchanged on communication, but its key input — oil — materially shifted. Reporting no transition would miss that the prior dovish trigger fired.
+
+Biggest data-dependency: July hinges on Q2 CPI and oil durability, neither fully visible at the 8 Jul meeting. The MPR is being asked to decide before the decisive inflation print, which itself argues for hold.
+
+Source weakness: Zero in-window central-bank tape. The entire read rests on data, oil and bank commentary, with committee positioning inferred from the carry-over May Record. If an external member publicly held firm post-window, the split is less softened than this reads. Market-pricing anchor is provisional and pre-relief; refresh before import.
+
+Audit trail
+
+Scout version: Central Bank Chatterbox v1.3
+Currency / CB: NZD / RBNZ
+Window: 12–22 Jun 2026
+Source discipline: official / named-wire only
+Confidence: Medium-High on input read; Low-Medium on official reaction-function read due to silence.
+
+Known gaps: no in-window central-bank communication; no clean primary in-window OIS snapshot; one aggregator “Breman 17 Jun” item appears mis-dated April and was excluded; June ANZBO and bank-call migration land just-post-window and are routed to watchlist, not in-window state.
+
+Import caution: This is a silent-official, input-driven window. The dovish drift is driven by in-window oil de-escalation and firm Q1 GDP, not by RBNZ communication. The May hawkish premise is partially falsified, not dead; oil durability is the swing.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Q1 GDP and card spending argue that New Zealand entered the shock with better momentum than the weak survey tape implied, but the Q2-sensitive releases show the shock arriving and the RBNZ’s oil premise partially unwinding. GDP production +0.8% q/q and expenditure +1.0% q/q make a pure recession narrative too bearish; electronic card spending confirms nominal household resilience. Against that, manufacturing PMI slipped below 50, PSI stayed in contraction, GDT softened, and May trade showed petroleum imports up 104% y/y, halving the monthly surplus despite strong exports. The central-bank overlay adds the key policy tension: firm GDP supports hikes, but oil relief directly weakens the external hawks’ July-timing argument.
+
+Why it matters: The RBNZ cannot rely on Q1 growth as a current-state guide, but it also cannot treat weak PSI/PMI as proof of an immediate growth break. The policy fork is timing: a July hike requires the external members to look through oil relief and emphasize GDP / inflation-expectation risk; a July hold requires the committee to acknowledge that the second-round oil premise weakened before the decisive Q2 CPI print.
+
+Implication: Treat NZD as a two-sided currency: growth-starting-point and exports/dairy provide support, but Q2 energy-import damage and weak services/manufacturing cap upside. The policy read has shifted from near-live July hike to contested hold / September migration. A bullish NZD/RBNZ-hike read needs oil re-escalation and Q2 activity resilience; a bearish NZD/read-through needs continued trade-balance deterioration plus services/PMI weakness broadening into labour and consumption volumes.
+
+5 KEY RELEASES TO DIG INTO
+
+**** Central Bank Chatterbox — RBNZ / NZD (12–22 Jun)
+Why it matters: Policy-timing anchor. Official tape was silent, but the May hawkish premise partially falsified as oil fell and Hormuz reopening was announced, while firm Q1 GDP kept the hike path alive beyond July.
+
+*** New Zealand — GDP Production / Expenditure (Q1) (18 Jun)
+Why it matters: Best starting-point anchor. GDP confirmed real Q1 momentum, but it is stale relative to the Q2 fuel/import shock and cannot be used as a clean RBNZ hawkish signal.
+
+*** New Zealand — Overseas Merchandise Trade (May) (19 Jun)
+Why it matters: Clearest Q2 shock-confirmation block. The monthly surplus narrowed to NZ$800mn as petroleum imports rose 104% y/y, proving the energy-import hit that Q1 GDP could not capture.
+
+*** New Zealand — BusinessNZ Performance of Services Index (May) (15 Jun)
+Why it matters: Forward domestic-demand warning. Both Reuters and official BusinessNZ versions stayed sub-50, with all five sub-components below 50 and Activity/Sales weakest.
+
+*** New Zealand — Electronic Card Retail Sales (May) (15 Jun)
+Why it matters: Main domestic offset. The +1.7% m/m rebound challenges a one-way weak-demand narrative, but nominal / durables-heavy composition creates false-dawn risk.
+
+<<NZD_WEEK_END>>
 <<NZD_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 12 Jun 2026
 
