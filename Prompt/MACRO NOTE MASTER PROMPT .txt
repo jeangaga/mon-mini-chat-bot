@@ -238,9 +238,8 @@ IMPORTANT:
 
 The ARC section must appear before Trigger Map
 The 5 Key Releases section must appear before ARC
-If ARC is available, present it in data-window block format
-If ARC is not available, omit the ARC section rather than inventing one
-If the previous Macro Note is not available, do not mention its absence; simply proceed
+
+If the previous Macro Note is not available,  mention its absence; simply proceed
 8) SECTION RULES
 A) 4-WEEK MACRO SIGNAL BOARD
 
@@ -364,7 +363,6 @@ prioritize signal hierarchy, not chronology
 do not simply pick the five largest surprises; pick the five most important for the current regime and reaction function
 J) ARC
 
-Use this section only if ARC is available.
 
 The ARC must be written in data-window split format, for example:
 
@@ -380,7 +378,7 @@ and explain how the current setup emerged.
 Do not turn ARC into a second executive summary.
 Do not make it a long essay.
 Use compact sequential regime blocks.
-
+DO not build  the ARC too mechanically as a week-by-week bridge. It should be YTD regime narrative, reusing the previous ARC as the continuity spine, then extending it with the new regime shift if any. The master prompt says ARC is a medium-horizon regime map to preserve continuity and show how the current setup emerged, not a recap of weekly notes
 K) Trigger Map
 
 This section is mandatory.
@@ -451,7 +449,7 @@ Latest central-bank meeting is mandatory
 Current policy assumption is mandatory
 Political / policy section is mandatory
 5 Key Releases section is mandatory
-ARC section is mandatory only if ARC is provided
+ARC section is mandatory 
 12) DEFAULT INSTRUCTION
 
 Produce the Macro Note now, using the latest validated WEEK notes as the primary analytical corpus.
@@ -459,7 +457,7 @@ Produce the Macro Note now, using the latest validated WEEK notes as the primary
 Ingestion priority
 Latest 8 WEEK notes minimum
 Previous Macro Note if available
-ARC if available
+
 
 Assume the WEEK notes are already substantially audited and Reuters-based.
 Use only limited official/public anchoring if strictly needed.
