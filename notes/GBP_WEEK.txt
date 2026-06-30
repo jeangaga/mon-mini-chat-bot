@@ -1,4 +1,812 @@
 <<GBP_WEEK_BEGIN>>
+DATA WINDOW: 15 Jun 2026 to 26 Jun 2026
+
+A. GBP WEEK — MACRO SYNTHESIS
+
+GBP over the supplied window was a clear growth-slack confirmation tape, but not a clean BoE dovish-pivot tape. The sequence started with housing weakness through Rightmove, then May CPI cooled versus the going-in narrative while services inflation re-accelerated to 3.7%; PPI showed the upstream monthly impulse cresting, and labour softened underneath despite headline wage hooks. The 18 Jun MPC then crystallised the policy bind: hold at 3.75%, but a wider 7–2 hawkish dissent as Greene joined Pill, while the majority retained an active-hold / wait frame because CPI/PPI, energy and labour demand were less hawkish than the vote split alone implied.
+
+The central-bank tape is the key overlay: the 7–2 vote looked hawkish, but the majority’s reaction function drifted dovishly. The Bank marked down its short-term inflation path after the US–Iran/oil collapse and the downside May CPI surprise; Lombardelli rejected pre-emptive tightening; Taylor later endorsed an extended hold rather than an immediate cut, and emphasized that policy is already above neutral. The second week then turned the growth signal more decisive: GfK stayed weak, the retail-sales beat looked weather/promotions/base-flattered, the flash PMI confirmed a second month of private-sector contraction led by services, CBI orders hit the weakest level since 2020, and CBI distributive trades confirmed retail/distribution weakness. Final regime: GBP has deteriorating domestic-growth quality and stronger slack evidence, but BoE cuts remain gated by services CPI, wages and expectations credibility.
+
+B. GBP MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+Growth deteriorated across the full window. Rightmove asking prices fell 0.6% m/m and 0.5% y/y; GfK stayed at -23 with weak major-purchase intentions; retail sales beat strongly but were weather/promotions/base-flattered and contradicted by weak confidence; the June composite PMI fell to 49.4, with services at 48.7, a 41-month low; CBI orders deteriorated to -45, the weakest since 2020; and CBI distributive trades fell to -54. The activity signal is broadening from housing into services, goods orders and retail/distribution.
+
+Labor: -
+Supporting evidence:
+The official labour block was mixed on headline but softer underneath. ILO unemployment was 4.9%, better than the 5.0% poll, and employment rose 100k versus 75k expected, but claimant count rose 31.2k, payrolls were only +2k after the prior was revised to -53k, vacancies fell to 707k, the lowest since early 2021, and youth unemployment remained high. Wages stayed a hook — total pay 4.4% and ex-bonus 3.4% beat poll — but the better-quality demand signal was labour-market softening.
+
+Inflation: ~
+Supporting evidence:
+Inflation moved less hawkish than the pre-print narrative but did not clear the BoE gate. May headline CPI held at 2.8% versus 3.0% poll, m/m CPI was 0.2% versus 0.4%, core CPI was 2.6% versus 2.7% poll, and RPI was softer than expected. PPI reinforced a pipeline crest: input prices rose only 0.2% m/m versus 0.5% poll after a revised 2.6% prior. But services CPI re-accelerated to 3.7% from 3.2%, regular pay was firmer than expected, and Greene/Pill remained concerned about second-round effects. Inflation is therefore stabilizing, not benign.
+
+Financial Conditions: ~
+Supporting evidence:
+GBP/rates signal is two-sided. Softer CPI/PPI, weaker labour demand, services PMI contraction and CBI weakness all argue for front-end relief and reduce the urgency of hikes. The BoE tape also shows a sharp dovish repricing: by 17 Jun, market pricing had moved toward roughly one 2026 hike versus as many as four at the March peak, with the residual OIS slope described as mostly risk premium. But the 7–2 vote split, services CPI re-acceleration, wage upside and credibility concerns prevent a clean rates-dovish read. GBP loses domestic-growth support, but rates do not receive a clean cut signal unless services/wage persistence also rolls over.
+
+Policy Constraint: -
+Supporting evidence:
+The BoE constraint remains negative, though more divided. The MPC held at 3.75%, but Greene joined Pill in voting for a 25bp hike to 4.00%. The majority can cite cooler CPI/PPI, lower short-term inflation guidance, weaker vacancies, payroll softness and services/activity deterioration to wait; the hawks can cite services CPI at 3.7%, wage surprises and second-round expectations risk. Taylor’s post-decision speech confirms the dovish wing is not yet pushing immediate cuts, but sees an extended hold and eventual lower-rate path if the energy resolution holds. The policy state is therefore active hold / divided committee, not a dovish pivot.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 15 JUN 2026
+
+United Kingdom — Rightmove House Price Index MM / YY (Jun)
+Release Date: 15 Jun 2026 | Local Time: 01:01
+Importance: **
+
+Reuters Data
+
+House Price Rightmove MM: -0.6% | Prior: 1.2%
+House Price Rightmove YY: -0.5% | Prior: -0.3%
+
+Professional Market Commentary
+
+Rightmove reported the largest June fall in UK asking prices in 14 years, with average newly listed asking prices down 0.6% m/m to £376,191 and down 0.5% y/y. The drop reversed May’s 1.2% rise and was attributed to high housing supply, price-sensitive buyers, economic uncertainty, heatwave / seasonal distortions and a softer summer market. The scout’s warning on narrative hygiene matters: at least one commentary source sign-inverted the y/y move into a false bullish inflection. The correct mechanical read is a deeper annual decline, not a return to annual growth.
+
+Comment — Economist Layer
+
+This is a housing-cooling signal, but the quality is moderate because Rightmove is asking-price rather than transaction-price data.
+
+Signal hierarchy:
+
+headline: -0.6% m/m is unusually weak for June
+annual: -0.5% y/y deepens the prior -0.3% decline
+market mechanism: supply competition and buyer price sensitivity are forcing more realistic listing prices
+distortion: heatwave / holiday timing / World Cup distraction can pull forward the summer slowdown
+mortgage channel: easing mortgage quotes soften the outright affordability shock but do not remove the price ceiling
+data type: asking prices lead sentiment but are not completed transaction prices
+
+The release fits the UK activity-softening bucket but should not be treated as a standalone BoE trigger. The more important read is that housing is not offsetting the broader UK demand slowdown, even with some mortgage-rate relief.
+
+State transition: deterioration.
+
+Context from prior regional live file: The prior UK DM tape had already deteriorated through weak housing sentiment and a services-led monthly GDP contraction. Rightmove extends that housing weakness from survey balance into asking-price behaviour. The UK growth bucket therefore stays soft, though still not a clean policy-easing signal because inflation/pass-through risk remains unresolved.
+
+HF Take — Strategist Layer
+
+BoE implication: marginally dovish on domestic demand, but low force versus CPI, services inflation and wages.
+
+GBP/rates read: modestly GBP-negative and front-end supportive at the margin if confirmed by labour/retail weakness. But the energy-import shock keeps the BoE reaction function asymmetric: softer housing can argue against tightening, yet it does not automatically justify cuts if CPI/services or wages remain sticky.
+
+This block belongs in the UK growth-deterioration file, not as a decisive policy block.
+
+WEDNESDAY 17 JUN 2026
+
+United Kingdom — CPI / Core CPI / CPI Services / RPI / RPIX (May)
+Release Date: 17 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Core CPI YY: 2.6% | Prior: 2.5% | Poll: 2.7% | Surprise: -0.10%
+CPI MM: 0.2% | Prior: 0.7% | Poll: 0.4% | Surprise: -0.20%
+CPI YY: 2.8% | Prior: 2.8% | Poll: 3.0% | Surprise: -0.20%
+RPI MM: 0.2% | Prior: 0.7% | Poll: 0.5% | Surprise: -0.30%
+RPI YY: 3.1% | Prior: 3.0% | Poll: 3.3% | Surprise: -0.20%
+RPIX YY: 3.0% | Prior: 3.0%
+CPI Services MM: 0.4% | Prior: 0.9% | Poll: 0.4% | Surprise: 0.00%
+CPI Services YY: 3.7% | Prior: 3.2% | Poll: 3.7% | Surprise: 0.00%
+
+Professional Market Commentary
+
+ONS reported CPI at 2.8% y/y in May, unchanged from April, with CPI up 0.2% m/m; core CPI rose to 2.6% from 2.5%, while CPI services rose to 3.7% from 3.2% and goods inflation slowed to 2.0% from 2.4%. Transport made the largest upward contribution, while food and non-alcoholic beverages made the largest partially offsetting downward contribution.
+
+The professional policy frame is dovish-leaning versus the going-in narrative, but not cleanly dovish. Reuters framed the BoE as set to hold at 3.75%, with the downside inflation surprise giving the majority of the MPC room to wait, while second-round inflation concerns and possible dissent still mattered.
+
+Comment — Economist Layer
+
+This is a cooler-than-feared inflation print with a services holdout.
+
+Signal hierarchy:
+
+headline: 2.8% y/y versus 3.0% poll = downside surprise
+monthly: 0.2% m/m versus 0.4% poll = soft sequential pressure
+core: 2.6% y/y, up slightly from 2.5% but below the 2.7% poll
+services: 3.7% y/y, re-accelerated from 3.2% and matched poll; this is the hawkish domestic-price strand
+goods: slowed to 2.0%, helping the headline mix
+food: 2.2% from 3.0%, strongest disinflationary offset
+transport / motor fuel: upward contribution, preserving the Hormuz energy channel
+RPI: also softer than expected, reducing broad inflation-index pressure
+
+The important shift is narrative versus print. The going-in story was that UK inflation was heading back above 3% and pushing the BoE toward a hawkish stance. Instead, the actual print undershot expectations across headline, m/m CPI and RPI. Services inflation prevents a clean easing signal, but the overall mix undercuts the idea that the BoE must lean harder hawkish immediately.
+
+State transition: stabilization.
+
+Context from prior regional live file: The prior UK file had combined weak activity data with renewed energy-driven inflation risk, leaving the BoE in a stagflationary trade-off. Rightmove added housing weakness earlier this week, and this CPI print now softens the inflation side of that trade-off. The UK still has a services-inflation constraint, but the balance is less hawkish than the pre-print narrative implied.
+
+HF Take — Strategist Layer
+
+BoE implication: hold still the base case, but the forward tilt is less hawkish than before the release.
+
+GBP/rates: dovish-leaning at the margin because the headline, monthly and RPI surprises all lean cooler, and because Rightmove already pointed to softer domestic demand. But services at 3.7% keeps the MPC from pivoting quickly to cuts. The release narrows the near-term hike case more than it opens an immediate easing case.
+
+Reaction-function map:
+
+if services stays sticky and the July energy-cap / fuel impulse re-accelerates CPI, the hawkish camp stays alive
+if the Hormuz de-escalation becomes operational and goods / transport pressure fades, the BoE’s energy-driven inflation projection looks too high
+if labour softens alongside cooler CPI, the next-move debate shifts back toward eventual cuts
+
+This block belongs high in the UK hierarchy because it reframes the BoE meeting from “inflation panic / hike risk” toward “wait-and-see with services caveat.”
+
+United Kingdom — Producer Price Inflation: Input / Output / Core Output (May)
+Release Date: 17 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+PPI Input Prices MM NSA: 0.2% | Prior: 2.4% | Revised: 2.6% | Poll: 0.5% | Surprise: -0.30%
+PPI Input Prices YY NSA: 8.7% | Prior: 7.7% | Revised: 7.9% | Poll: 8.8% | Surprise: -0.10%
+PPI Output Prices MM NSA: 0.5% | Prior: 1.4% | Revised: 1.5% | Poll: 0.5% | Surprise: 0.00%
+PPI Output Prices YY NSA: 4.0% | Prior: 4.0% | Revised: 4.1% | Poll: 4.0% | Surprise: 0.00%
+PPI Core Output MM NSA: 0.8% | Prior: 0.7% | Revised: 0.9%
+PPI Core Output YY NSA: 2.3% | Prior: 2.4% | Revised: 2.6%
+
+Professional Market Commentary
+
+The scout tape frames the PPI release as a pipeline-pressure crest: input prices remain elevated on a y/y basis at 8.7%, but the monthly input gain decelerated sharply to 0.2% from a revised 2.6%, while output-price monthly inflation slowed to 0.5% from a revised 1.5%.
+
+This fits the CPI mix: annual energy-related pressure is still visible, but the marginal monthly impulse is easing. The release therefore adds forward-disinflation evidence rather than confirming a fresh upstream acceleration.
+
+Comment — Economist Layer
+
+This is improvement in the pipeline, despite elevated annual input inflation.
+
+Signal hierarchy:
+
+input prices y/y: still high at 8.7%
+input prices m/m: sharp slowdown versus revised prior and below poll
+output prices m/m: slower after a hot revised April
+output prices y/y: stable at 4.0%
+core output y/y: eased to 2.3% after revised 2.6%
+policy relevance: pipeline crest, not an all-clear
+cross-release link: supports CPI downside surprise but does not resolve services CPI
+
+The PPI release strengthens the case that the energy / imported-cost shock may be cresting at the margin. It does not eliminate the BoE’s concern because annual input inflation is still high and CPI services is still the domestic-price gate. But it makes an immediate hawkish reaction less compelling.
+
+State transition: improvement.
+
+Context from prior regional live file: The UK had entered this window with Rightmove housing weakness and CPI downside surprise against a services holdout. PPI confirms that the marginal pipeline impulse is no longer accelerating. That weakens the urgency of the hawkish BoE case, even as services and wages remain unresolved.
+
+HF Take — Strategist Layer
+
+BoE implication: reinforces hold / wait-and-see.
+
+GBP/rates: mildly dovish for the front end because input-price momentum slowed sharply and core output inflation eased. But the release should not be treated as a clean cut signal: services CPI and wage persistence remain the binding variables.
+
+THURSDAY 18 JUN 2026
+
+United Kingdom — Labour Market Report (Apr / May)
+Release Date: 18 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Claimant Count Unem Chng: 31.2k | Prior: 26.5k | Revised: 8.3k
+ILO Unemployment Rate: 4.9% | Prior: 5.0% | Poll: 5.0% | Surprise: -0.10%
+Employment Change: 100k | Prior: 148k | Poll: 75k | Surprise: 25.0k
+Avg Wk Earnings 3M YY: 4.4% | Prior: 4.1% | Revised: 4.4% | Poll: 4.0% | Surprise: 0.40%
+Avg Earnings Ex-Bonus: 3.4% | Prior: 3.4% | Poll: 3.2% | Surprise: 0.20%
+HMRC Payrolls Change: 2k | Prior: -100k | Revised: -53k
+
+Professional Market Commentary
+
+The UK labour report was mixed at headline level but softer underneath. Reuters reported that pay excluding bonuses rose 3.4% y/y in the three months to April, above the 3.2% forecast, while unemployment edged down to 4.9%; however, Reuters also noted that the broader labour market remained softer than a year earlier, youth unemployment was high, private-sector wage growth slowed, and vacancies were at their lowest since 2021.
+
+ONS vacancy data sharpen the softness signal: March–May vacancies fell by 19,000 to 707,000, the lowest level since February–April 2021. The House of Commons Library also highlights that real regular wage growth was only 0.3%, with nominal wages at 4.4% including bonuses and 3.4% excluding bonuses.
+
+Comment — Economist Layer
+
+This is underlying labour deterioration with a headline wage hook.
+
+Signal hierarchy:
+
+LFS unemployment: 4.9%, better than poll, but not the highest-quality short-term signal
+employment: +100k, above poll, but still slower than prior +148k
+claimant count: +31.2k, softer
+payrolls: May +2k after April revised to -53k; stabilization but not a labour rebound
+vacancies: 707k, five-year low, the clearest demand signal
+total pay: 4.4%, hot versus poll, but bonus-influenced
+regular pay: 3.4%, firm versus poll but real regular pay barely positive
+youth unemployment: high, confirming labour slack at the margin
+
+The release gives both sides of the MPC something. Hawks can point to upside wage surprises and services CPI at 3.7%. Doves can point to vacancies, payroll softness, claimant count and weak real regular pay. The better-quality signal is softer labour demand, not a renewed wage-price spiral.
+
+State transition: deterioration, headline-flattered.
+
+Context from prior regional live file: The UK had already softened through Rightmove housing, CPI headline downside and a pipeline PPI crest. Labour now adds slack evidence, but the wage upside prevents a clean dovish classification. The UK policy mix therefore moves from “stagflation risk” toward “activity/labour softening with services/wage caveat.”
+
+HF Take — Strategist Layer
+
+BoE implication: majority hold logic strengthened, but dissent risk not killed.
+
+The labour report supports the MPC majority’s wait-and-see stance. It is hard to justify an urgent hike if vacancies are at a five-year low and payrolls are only stabilizing after a large downward revision. But wages are still too firm for an immediate cutting narrative, and services CPI re-acceleration gives Greene/Pill a reason to dissent.
+
+Market map:
+
+gilts: front-end relief if wage upside fades in the next print
+GBP: mixed — weaker labour demand is growth-negative but can reduce hike risk
+BoE: hold with hawkish dissent, not pivot
+key test: private-sector regular pay and vacancies next month
+
+United Kingdom — BoE MPC Decision / Bank Rate / Vote Split (Jun)
+Release Date: 18 Jun 2026 | Local Time: 13:00
+Importance: ****
+
+Reuters Data
+
+BOE MPC Vote Hike: 2 | Prior: 1 | Poll: 2
+BOE MPC Vote Unchanged: 7 | Prior: 8 | Poll: 7
+BOE MPC Vote Cut: 0 | Prior: 0 | Poll: 0
+BOE Bank Rate: 3.75% | Prior: 3.75% | Poll: 3.75% | Surprise: 0.000%
+
+Professional Market Commentary
+
+The BoE held Bank Rate at 3.75% by a 7–2 vote. Megan Greene joined Huw Pill in voting for a 25bp hike to 4.0%, while seven members voted to hold. The BoE minutes state that the dissenters were less confident in the pace of underlying disinflation and were more concerned about second-round effects from the energy shock.
+
+Reuters framed the decision as expected but internally split: the MPC held, but the hawkish dissent grew from 1 to 2. Reuters also noted that most other MPC members remained closer to Bailey’s “active hold” framing than to an immediate hike, despite acknowledging further inflation risk.
+
+Comment — Economist Layer
+
+This is a hawkish hold by vote, but a more two-sided reaction function by forecast and data flow.
+
+Signal hierarchy:
+
+rate: hold at 3.75%, zero surprise
+vote: 7–2, hawkish dissent increased from 1 to 2
+dissenters: Greene and Pill wanted 4.0%
+majority: still willing to wait because uncertainty around second-round effects remains high
+inflation data: May CPI/PPI came in cooler than the going-in hawkish narrative
+services/wages: services CPI 3.7% and wage upside keep the hawkish hook alive
+labour demand: vacancies/payrolls/claimant data soften the domestic-demand case
+forecast: energy price path revised down versus the prior hawkish projection
+overlay: Hormuz false dawn means the energy shock cannot be retired, but the forecast path is now more contingent
+
+The MPC message is not simple. The vote shift is hawkish, but the data context is less hawkish than the vote alone implies: headline CPI undershot, PPI m/m decelerated, labour demand softened, and the oil path briefly moved lower after the framework deal. The correct interpretation is a widened fork, not a clean hawkish regime shift.
+
+State transition: continuation, hawkish hold and energy-contingent.
+
+Context from prior regional live file: The UK had been stuck between weak domestic activity and renewed energy/services inflation risk. This decision preserves that regime but sharpens the internal split: two members now prefer insurance tightening, while the majority can cite cooler CPI/PPI and labour-demand softness to wait. The UK remains one of the most Hormuz-sensitive DM reaction functions.
+
+HF Take — Strategist Layer
+
+BoE / GBP read: vote split hawkish, reaction-function distribution wider.
+
+The 7–2 vote prevents a dovish GBP/rates interpretation, but the surrounding CPI/PPI/labour data prevent a clean hawkish read. The decision is best traded as conditional convexity: upside services / wages / energy can pull the front end hawkish, but growth/labour downside and lower oil can re-open the cut debate.
+
+Market map:
+
+GBP: supported by dissent versus pure dovish hold, but capped by soft growth/labour data
+gilts: two-way; services/wages vs labour/growth softness
+BoE: active hold with hawkish dissent
+next test: June PMI, retail and whether energy de-escalation survives
+
+FRIDAY 19 JUN 2026
+
+United Kingdom — GfK Consumer Confidence (Jun)
+Release Date: 19 Jun 2026 | Local Time: 01:01
+Importance: **
+
+Reuters Data
+
+GfK Consumer Confidence: -23 | Prior: -23 | Poll: -24 | Surprise: 1.0
+
+Professional Market Commentary
+
+GfK’s Consumer Confidence Index held at -23 in June, marginally better than the -24 Reuters poll, but Reuters flagged the composition as weaker than the flat headline. GfK’s Neil Bellamy said the lack of movement in the headline was misleading because there were signs of weakening below the surface; confidence among 16–29 year-olds fell sharply to the weakest level in two years, and major-purchase intentions stayed at -20, the joint-lowest since January 2025.
+
+Comment — Economist Layer
+
+This is weak-but-stable confidence, not a recovery signal.
+
+Signal hierarchy:
+
+headline: unchanged at -23
+poll: slightly better than feared
+level: still deeply negative
+youth: 16–29 confidence weakest in two years
+major purchases: joint-lowest since January 2025
+timing: survey ran 29 May to 10 Jun, before the 14–15 Jun framework and before the 20 Jun false dawn
+cross-signal: contrasts sharply with the same-day retail-sales beat
+
+The useful signal is not the one-point surprise versus poll. It is the gap between weak confidence and stronger retail volumes. That gap can persist if households smooth through a shock they believe is temporary; it breaks if the shock becomes persistent and forces belt-tightening.
+
+State transition: no material change.
+
+Context from prior regional live file: The UK already had weak housing, softer labour demand, cooler CPI/PPI and a conditional hawkish BoE hold. GfK confirms that household confidence has not improved despite the retail bounce. The UK consumer file remains fragile rather than genuinely recovering.
+
+HF Take — Strategist Layer
+
+BoE implication: low standalone signal, but useful as a check on the retail-sales beat.
+
+The flat confidence line does not force policy. But the weak major-purchase and youth components argue against treating the retail-sales beat as clean demand strength. For GBP/rates, the block caps the hawkish interpretation of retail sales and supports the “false dawn / smoothing” interpretation.
+
+United Kingdom — Retail Sales / Retail Sales Ex-Fuel (May)
+Release Date: 19 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Retail Sales MM: 1.2% | Prior: -1.3% | Revised: -1.0% | Poll: 0.5% | Surprise: 0.70%
+Retail Sales Ex-Fuel MM: 1.2% | Prior: -0.4% | Revised: -0.1% | Poll: 0.4% | Surprise: 0.80%
+Retail Sales YY: 3.2% | Prior: 0.0% | Revised: 0.1% | Poll: 1.9% | Surprise: 1.30%
+Retail Sales Ex-Fuel YY: 4.6% | Prior: 1.1% | Poll: 3.3% | Surprise: 1.30%
+
+Professional Market Commentary
+
+ONS reported that retail sales volumes rose 1.2% m/m in May after a revised 1.0% fall in April, while the three-month trend rose only 0.4%. ONS explicitly cautioned that monthly retail growth is volatile and should be read alongside the three-month measure.
+
+The composition is weather- and online-heavy. Non-store retailers rose 6.1% m/m, the largest monthly rise since February 2025, while non-food stores and department stores benefited from promotions and hot weather; the Met Office said May 2026 was the joint-third warmest May on record.
+
+Comment — Economist Layer
+
+This is a strong beat, but not a clean household-demand upgrade.
+
+Signal hierarchy:
+
+headline: +1.2% m/m versus +0.5% poll = large upside surprise
+ex-fuel: +1.2% m/m versus +0.4% poll = broad enough to matter
+annual: +3.2% y/y, above poll
+three-month trend: +0.4%, much less impressive than the monthly print
+composition: online / non-store and department-store strength dominate
+driver: hot weather, promotions and a weak April base
+confidence check: GfK remains -23, with weak major-purchase intentions
+
+The beat matters, but the narrative weight should be controlled. A genuine consumer rebound would show improving confidence, stronger high-street breadth, and a rising three-month trend. Instead, May looks like weather, promotions and consumer smoothing after a war-depressed April. That makes it a false-dawn candidate.
+
+State transition: false dawn.
+
+Context from prior regional live file: The UK consumer file had been soft through housing, labour-demand weakness and weak confidence. Retail sales provide a positive counter-signal, but the weather/base composition means it does not overturn the broader consumer-fragility classification. The BoE can note resilient spending, but should not treat this as clean demand overheating.
+
+HF Take — Strategist Layer
+
+BoE implication: superficially hawkish, but low durability.
+
+The retail beat gives the hawks one more argument that demand has not collapsed. But the three-month trend and GfK split cap the signal. It is better treated as “consumers are smoothing through the energy shock” than “consumers are accelerating.”
+
+TUESDAY 23 JUN 2026
+
+United Kingdom — Flash Composite / Manufacturing / Services PMI (June)
+Release Date: 23 Jun 2026 | Local Time: 10:30
+Importance: ****
+
+Reuters Data
+
+Flash Composite PMI: 49.4 | Prior: 49.7 | Poll: 50.6 | Surprise: -1.20
+Flash Manufacturing PMI: 53.1 | Prior: 53.9 | Poll: 53.5 | Surprise: -0.40
+Flash Services PMI: 48.7 | Prior: 49.3 | Poll: 50.1 | Surprise: -1.40
+
+Professional Market Commentary
+
+The institutional read is a services-led UK contraction with temporary manufacturing support.
+
+S&P Global reported that the UK composite PMI fell to 49.4 from 49.7, a 14-month low, while services fell to 48.7, a 41-month low. Manufacturing output rose to 53.6, a 21-month high, but the headline manufacturing PMI slipped to 53.1 from 53.9. The release explicitly says private-sector output contracted for a second month and that service-sector weakness outweighed a temporary manufacturing boost.
+
+The release attributes services weakness to rising costs and lower customer confidence, with firms citing the Middle East war and domestic political uncertainty. Manufacturing was supported by strategic stockpiling as clients anticipated higher goods prices, while new business volumes overall declined at the fastest rate in 14 months.
+
+Chris Williamson’s commentary was stagflation-lite rather than recession-panic: the economy contracted for a second successive month and effectively flat-lined in Q2, but price pressures had started to moderate as energy prices eased and labour-market slack limited wage-bargaining power.
+
+Comment — Economist Layer
+
+This is the strongest built UK deterioration signal of the week so far.
+
+The mechanical miss is concentrated in services, not manufacturing. That matters for BoE mapping because UK services are more important for domestic slack, wages and services inflation persistence than the headline manufacturing PMI. A composite below 50 for a second month, with services at a 41-month low, confirms that the May services shock was not a one-month aberration.
+
+The manufacturing offset is poor-quality. Manufacturing output growth reflects precautionary stockpiling, not clean end-demand. New business deteriorating fastest in 14 months also means the PMI split is internally fragile: production is being supported by front-loaded orders while underlying demand is weakening.
+
+Signal hierarchy:
+
+composite: second month below 50
+services: core deterioration, 41-month low
+manufacturing output: positive headline, weak quality
+manufacturing PMI: still expansionary but down from May
+new business: fastest fall in 14 months
+labour: headcount trimming reinforces slack
+prices: easing from April peak, but still elevated
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The prior DM archive had already flagged the May UK flash PMI as a services shock, with composite at 48.5 and services at 47.9. June does not fully recover that damage: the composite remains below 50 and services deteriorate further versus consensus, while manufacturing strength is again contaminated by stockpiling. The UK growth signal therefore remains in deterioration despite some easing in the price-pressure impulse.
+
+HF Take — Strategist Layer
+
+BoE implication: growth/slack arguments strengthen, but inflation credibility still prevents a simple dovish read.
+
+The release lowers the hurdle for BoE patience on rates because services activity is contracting and headcount is being cut. It also weakens GBP’s domestic-growth support. But it is not a clean cut signal because the price level remains elevated, and the UK reaction function is still governed by services inflation and wage persistence rather than headline activity alone.
+
+Market map:
+
+gilts: front-end relief bias if the services contraction is confirmed by labour / retail / GDP data
+GBP: negative via growth deterioration and political-confidence channel, unless offset by relative USD moves
+BoE: reinforces hold / cautious-bias rather than hike pressure
+policy risk: over-interpreting manufacturing strength would be wrong unless new orders recover on non-stockpiling demand
+next test: CBI retail, labour/wage data and CPI services persistence
+
+United Kingdom — CBI Trends Orders (June)
+Release Date: 23 Jun 2026 | Local Time: 12:00
+Importance: ***
+
+Reuters Data
+
+CBI Trends — Orders: -45 | Prior: -41
+
+Professional Market Commentary
+
+The CBI release corroborated weak UK goods demand beneath the PMI manufacturing-output headline.
+
+Reuters reported that the CBI total order-books balance fell to -45 in June from -41 in May, the weakest since September 2020. The expected-output gauge for the next three months fell to its lowest since December 2024.
+
+Cameron Martin, CBI senior economist, described manufacturers as facing an increasingly difficult trading environment, with order books at their weakest since 2020 and output continuing to fall. Reuters also noted that CBI price pressures eased but remained elevated, broadly consistent with the S&P Global PMI price message.
+
+Comment — Economist Layer
+
+This release matters because it validates the weak-quality read of the UK PMI manufacturing beat.
+
+The CBI orders balance at -45 is not just weak in level; it extends the May deterioration and sits far below normal. The combination of weaker order books and falling expected output argues that the PMI manufacturing-output strength is likely a stockpiling / frontloading artefact rather than a durable manufacturing upswing.
+
+Signal hierarchy:
+
+orders: deterioration from already-weak May
+level: weakest since pandemic period
+expected output: negative into Q3
+prices: easing, but not normalized
+macro role: confirms weak underlying goods demand
+BoE role: reinforces growth/slack, but secondary to services CPI and wages
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The archive had already shown UK CBI orders weakening to -41 in May, with the note treating the release as evidence of manufacturing weakness beneath the PMI headline. June deepens that same path to -45 and confirms that the goods-side demand base is not improving. The UK survey complex is therefore shifting from “services shock with manufacturing offset” to “services weakness plus fragile goods demand.”
+
+HF Take — Strategist Layer
+
+This is a BoE growth-risk add-on, not a standalone rates trigger.
+
+The CBI orders print strengthens the case that UK activity is fragile and that the manufacturing PMI should not be read as a positive demand signal. For GBP, the release adds to the domestic-growth drag already visible in the flash PMI. For gilts, the signal is directionally dovish through growth/slack, but not decisive because the BoE still needs evidence that wage and services-inflation persistence is easing.
+
+Market map:
+
+BoE: growth risk higher, but policy still constrained by services inflation and wages
+gilts: supports front-end relief if confirmed by labour / retail weakness
+GBP: domestic-growth drag reinforced
+next test: CBI Distributive Trades and whether household demand also confirms the survey deterioration
+
+THURSDAY 25 JUN 2026
+
+United Kingdom — CBI Distributive Trades / Reported Retail Sales (June)
+Release Date: 25 Jun 2026 | Local Time: 12:00
+Importance: ***
+
+Reuters Data
+
+CBI Distributive Trades: -54 | Prior: -46
+
+Professional Market Commentary
+
+The CBI retail tape corroborated the week’s UK demand deterioration.
+
+The reported retail-sales balance fell to -54 from -46, below the -41 consensus referenced in the scout tape. Sales for the time of year were judged poor, with the weakest seasonal reading since January 2024. The weakness extended the deterioration already visible in the UK flash PMI and CBI industrial orders.
+
+Martin Sartorius at CBI described a gloomy start to summer, with sales disappointing relative to seasonal norms amid depressed consumer sentiment and rising cost pressures. The survey also noted weakness across the distribution sector, while online sales growth stalled after prior growth.
+
+Comment — Economist Layer
+
+This release turns the UK deterioration from survey-specific into broad demand confirmation.
+
+The earlier UK flash PMI showed a services-led contraction. CBI industrial orders showed weak goods demand beneath the manufacturing-output headline. CBI distributive trades now adds the household/retail channel. That matters because it reduces the chance that the UK weakness is only a PMI or manufacturing-stockpiling artefact.
+
+Signal hierarchy:
+
+reported retail sales: sharp deterioration
+seasonal sales assessment: weakest in over two years
+distribution breadth: broad weakness
+online sales: stalled
+macro read: household demand weakening
+BoE relevance: growth/slack signal strengthened
+inflation caveat: cost pressures still prevent a clean dovish read
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The UK file already had two deterioration blocks: services-led PMI contraction and CBI orders at their weakest since 2020. CBI distributive trades adds retail confirmation, turning the UK signal from “survey activity weakness” into a broader demand-slack story. The BoE growth argument is therefore stronger, even though inflation persistence still limits policy relief.
+
+HF Take — Strategist Layer
+
+BoE implication: the growth/slack case is now materially stronger.
+
+This is the third UK confirmation point in the week: PMI services, industrial orders, and retail/distribution sales are all weak. That should lower the bar for BoE patience and increase sensitivity to future labour and wage downside. But the release does not automatically create a cutting signal because the UK still has services-inflation credibility issues and elevated costs.
+
+Market map:
+
+BoE: growth/slack case stronger, but no cut signal without services/wage confirmation
+gilts: reinforces front-end relief bias if CPI services and wage data soften
+GBP: domestic-growth drag deepens
+next test: whether June retail volumes and labour data confirm the survey deterioration
+
+CENTRAL BANK TAPE
+
+Central Bank Chatterbox — Bank of England / GBP
+Window: 15 Jun 2026 to 26 Jun 2026
+Central bank: Bank of England
+Current policy rate: Bank Rate 3.75%
+Last meeting: 18 Jun 2026 — meeting ended 17 Jun — in-window anchor
+Next meeting: 30 Jul 2026 — MPR meeting
+Mode: Live policy-reaction-function monitor
+
+Reference point
+
+Bank Rate: 3.75%.
+Decision: 7–2 hold at 3.75%; Greene and Pill dissented for +25bp to 4.00%.
+Meeting type: June was a non-MPR meeting — Summary + minutes only, no press conference, no new forecast round.
+APF / QT: APF around £523bn; QT £70bn/year to September 2026.
+Roster: unchanged, nine voters.
+Quiet period: ended with the 18 Jun decision; members free to speak from 19 Jun.
+
+Window sweep log
+
+Spoke in window — policy-relevant:
+
+MPC collective — 18 Jun — Monetary Policy Summary & Minutes — 7–2 hold; Greene and Pill dissent for +25bp to 4.00% — High.
+
+Alan Taylor — External MPC voter — 23 Jun — Barclays/CEPR “Central reservations” — arch-dove backs an “extended hold”; critiques the April MPR’s missing central forecast — High.
+
+Official data / documents released in window:
+
+ONS CPI, May 2026 — 17 Jun — headline held at 2.8%; services rose to 3.7% from 3.2%; core 2.6% from 2.5%; food 2.2% — High.
+
+June minutes individual rationales — 18 Jun — full member-by-member reasoning — High.
+
+Spoke but not policy-relevant:
+
+Swati Dhingra — around 24–25 Jun — London Climate Action Week panel on fossil fragility / energy security — climate / energy-security theme, not a direct rates signal.
+
+Shoib Khan, David Bailey / David Chaplin — non-MPC markets / prudential / legal appearances.
+
+Did not speak / nothing found in-window post-decision:
+
+Bailey, Breeden, Lombardelli, Ramsden, Mann, Greene, Pill — no separate in-window policy speech found post-decision; their stances are on record in the 18 Jun minutes. Pill’s dissent rationale is captured via the minutes.
+
+Unverified / possible gaps:
+
+Huw Pill — Tashkent / Uzbekistan central-bank panel — listed around the weeks of 22/29 Jun; timing ambiguous and possibly just-post-window; generic international monetary-policy dialogue, not used to drive conclusions.
+
+Carry-over context used:
+
+2 Jun Greene Derby “Scenario M” speech — explains her move into the dissent camp.
+30 Apr 8–1 hold + April MPR three scenarios — live framework.
+
+Just-post-window / watchlist — not driving in-window state:
+
+29 Jun–1 Jul ECB Sintra Forum — Bailey on policy panel with Warsh, Lagarde and Macklem; Breeden on AI / financial-stability panel.
+30 Jul MPC — MPR meeting, first full forecast round since April.
+
+Sweep verdict
+
+Rich anchor window. The 18 Jun decision is the centrepiece, and uniquely informative because the full individual rationales were published. The defining feature is a divergence between the vote tally and the underlying reaction function: the split widened hawkishly to 7–2, with Greene joining Pill as her 2 Jun speech had telegraphed, yet the seven-strong majority’s reasoning turned more dovish — energy falling, a downside-surprising headline CPI, a lower short-term inflation forecast, widening slack, and Taylor openly flagging future cuts if the resolution holds. Market pricing collapsed toward roughly one 2026 hike. Strict discipline: Sintra and the 30 Jul MPR belong to the next window.
+
+1. Executive policy read
+
+The headline 7–2 hold looks more hawkish than April’s 8–1, but it is partly a mirage. The two dissenters, Greene and Pill, dug in on second-round / expectations risk, while the majority’s reasoning shifted dovishly. Energy fell sharply on the US–Iran framework, Brent moved to around a three-month low, May headline CPI undershot the Bank’s path at 2.8%, services were the lone hawkish offset at 3.7%, the short-term inflation forecast was marked down, and the Bank cut near-term guidance — CPI now below the prior April path for Q3/Q4. Lombardelli explicitly rejected pre-emptive hikes; Taylor endorsed an extended hold and noted policy sits well above his neutral estimate. Market pricing repriced hard, to roughly one 2026 hike from as many as four at the March peak. Net: a divided committee where the hawkish vote tally masks dovish drift in the centre.
+
+Policy state: hawkish-looking hold overlaying a dovish drift in the majority’s reaction function; divided committee.
+State transition: hawkish drift in the vote, from 8–1 to 7–2, but dovish drift in the backdrop — energy, CPI path and market pricing. This is a bifurcation.
+Confidence: High on vote and data; Medium-High on the “centre turning dovish” read.
+
+2. Key themes since last meeting
+
+Theme 1 — The dissent widened to 7–2, but for an unchanged reason
+Read: Greene and Pill preferred +25bp. Both fear households’ and firms’ greater attention to inflation produces larger second-round effects for a given energy path, and that tightening in financial conditions could reverse without a hike. Greene’s 2 Jun “Scenario M” was the pre-trail.
+Policy implication: A persistent two-vote hawkish minority raises the bar to cuts and keeps a hike tail formally alive, but the hawkish bloc did not grow beyond two.
+Evidence base: In-window.
+Confidence: High.
+
+Theme 2 — The majority’s reasoning turned dovish
+Read: The short-term inflation forecast was lower than at the previous meeting on energy news and the downside May CPI surprise; members agreed slack had continued to emerge, including in the labour market, with subdued demand and weak sentiment. Lombardelli saw no compelling case for a pre-emptive hike; Taylor flagged cuts if the resolution holds.
+Policy implication: The centre of gravity is shifting back toward the eventual-easing camp as the energy tail deflates.
+Evidence base: In-window.
+Confidence: Medium-High.
+
+Theme 3 — Energy collapse on the US–Iran framework
+Read: Brent fell to around a three-month low as the US and Iran signed an interim peace framework; but the MPC judged energy risks still skewed upside given possible logistical delays in restoring production.
+Policy implication: Removes the acute upside-energy scenario that motivated the April hawkish turn; supports look-through, but does not retire the energy risk completely.
+Evidence base: In-window.
+Confidence: High.
+
+Theme 4 — May CPI: a two-sided print
+Read: Headline held at 2.8%, a downside surprise versus the Bank’s path, and food eased to 2.2%, but services re-accelerated to 3.7% and core rose to 2.6%.
+Policy implication: Both camps receive ammunition: the majority cites soft headline / lower short-term inflation path; hawks cite sticky services as second-round evidence.
+Evidence base: In-window.
+Confidence: High.
+
+Theme 5 — Sharp dovish repricing
+Read: As of 17 Jun, traders priced roughly one 2026 hike, down from as many as four at the March peak; the peace deal shifted the OIS curve to the bottom of its recent range, with about 30bp upward slope by end-2026, driven largely by risk premia.
+Policy implication: The market has unwound most of the hawkish tail; the residual slope is risk premium, not expected hikes.
+Evidence base: In-window.
+Confidence: Medium-High.
+
+3. Speaker / document table
+
+18 Jun — MPC 7–2 hold + minutes — In-window — Two-sided
+Key signal: hold 3.75%; two dissenters for +25bp; guidance cut.
+Reaction-function implication: vote hawkish, centre dovish; bar to cuts still up.
+Importance: ****
+
+18 Jun — Pill dissent — In-window — Hawkish
+Key signal: +25bp is the “most robust” response; Gulf upside risks rose.
+Reaction-function implication: pre-emptive-hike anchor.
+Importance: ***
+
+18 Jun — Greene dissent — In-window — Hawkish
+Key signal: “Why wait?”; proactive hike anchors expectations.
+Reaction-function implication: confirms her move into dissent.
+Importance: ***
+
+18 Jun — Lombardelli hold rationale — In-window — Neutral / centre
+Key signal: no compelling case to increase Bank Rate pre-emptively.
+Reaction-function implication: centre resists hikes absent a new first-round shock.
+Importance: ***
+
+17 Jun — May CPI — In-window — Two-sided
+Key signal: headline 2.8%, services 3.7%.
+Reaction-function implication: soft headline versus sticky services.
+Importance: ***
+
+16–18 Jun — oil collapse / peace framework — In-window — Dovish
+Key signal: Brent around a three-month low.
+Reaction-function implication: removes acute upside-energy tail.
+Importance: ***
+
+23 Jun — Taylor, Barclays/CEPR — In-window — Dovish
+Key signal: extended hold; policy above neutral.
+Reaction-function implication: dove not pushing cuts yet, but flags them if resolution holds.
+Importance: ***
+
+Market pricing — 17 Jun — In-window — Dovish
+Key signal: roughly one hike priced versus four at March peak.
+Reaction-function implication: hawkish tail largely unwound.
+Importance: ***
+
+2 Jun — Greene “Scenario M” — Carry-over — Hawkish
+Key signal: more-inflationary scenario.
+Reaction-function implication: basis for her dissent.
+Importance: **
+
+Around 24 Jun — Dhingra climate panel — In-window — n/a
+Key signal: non-policy.
+Reaction-function implication: excluded from policy read.
+Importance: *
+
+4. Thematic speaker tape
+
+The Committee Split — in-window from the 18 Jun minutes
+
+Pill — vote +25bp — dissent — hawkish
+Key signal: forceful hike has quick effect on inflation / expectations.
+
+Greene — vote +25bp — dissent — hawkish
+Key signal: risk-management case; expectations less solidly anchored.
+
+Mann — hold — hawk who held — hawkish
+Key signal: private-sector pay near target-consistent; whole-economy pay up.
+
+Bailey — hold — centre — two-sided
+Key signal: tolerate temporarily above-target inflation as part of return.
+
+Breeden — hold — centre — two-sided
+Key signal: content holding; curve slope is risk premia, not expected rates.
+
+Lombardelli — hold — centre — neutral
+Key signal: no compelling case for a pre-emptive hike.
+
+Ramsden — hold — centre/dove — dovish-leaning
+Key signal: holding keeps options open; less weight on Scenario C.
+
+Dhingra — hold — dove — dovish
+Key signal: absent the shock, policy too restrictive; risks upside prices / downside activity.
+
+Taylor — hold — dove — dovish
+Key signal: absent worse news, no case for tightening; if resolution holds, lower rates could be preferred.
+
+Implication: This is a genuinely two-poled committee. The two hawks are entrenched but isolated; the seven-strong majority spans a centrist look-through core and an increasingly vocal dovish wing — Ramsden, Dhingra, Taylor — eyeing cuts once the energy resolution beds in. Mann is the swing: a hawk currently holding on rapid-transmission / private-pay grounds.
+
+Energy / Inflation
+
+16–18 Jun — Brent around a three-month low — In-window — Dovish with caveat
+Signal: energy has fallen, but risks remain skewed upside because of logistics and restoration uncertainty.
+
+17 Jun — services CPI 3.7% — In-window — Hawkish
+Signal: sticky domestic inflation.
+
+18 Jun — guidance cut — In-window — Dovish
+Signal: near-term CPI path lower than April.
+
+Implication: The near-term path was marked down even as the dissent grew. That is the clearest sign the vote and the forecast are pointing in opposite directions.
+
+5. Policy outlook
+
+Base case — 30 Jul MPR meeting: Hold at 3.75% remains most likely. The 30 Jul meeting is the first full forecast round since April and the key test. If energy stays lower and services soften, the majority’s dovish drift could begin to re-open the cut path into H2; the 7–2 split is more likely to narrow than widen if energy normalises.
+
+Hawkish scenario: Services stay sticky around or above 3.7% and expectations firm. The dissent holds or Mann joins, shifting to 6–3 and pushing a hike back onto the agenda. Energy re-escalation would accelerate this.
+
+Dovish scenario: Peace holds, energy keeps falling, services ease and slack widens. The majority pivots toward cuts; Taylor, Dhingra and Ramsden lead, and an autumn cut comes into view.
+
+Market-pricing check: Roughly one 2026 hike priced as of 17 Jun, from up to four in March; OIS at the bottom of its recent range, residual upward slope mostly risk premium. Market sits closer to the centre now than in April, but a small hike tail lingers. Anchor is current as of the decision; refresh around 30 Jul.
+
+6. Reaction-function map
+
+Inflation threshold: Sustained services above roughly 3.5% plus firm expectations keeps the dissent alive and risks a hike. Services easing plus lower short-term inflation forecast confirmed re-opens cuts.
+
+Labour threshold: Widening slack and subdued demand support the doves; pay re-acceleration would revive the hawkish wage-spiral case, especially for Mann.
+
+Growth threshold: Weak consumption and sentiment reinforce the centre’s caution against over-tightening and Taylor’s downside-risk emphasis.
+
+Financial-conditions threshold: Taylor’s point is that the yield curve shows the BoE has tightened a lot just by holding. Passive tightening reduces the need to act; Mann’s rapid-transmission view points the same way.
+
+Political / institutional constraint: Open-letter regime live; energy remains the swing variable for the medium-term path.
+
+Committee split: Hawks — Pill and Greene — entrenched but only two. Hawk-who-held — Mann — pivotal. Dovish wing — Taylor, Dhingra, Ramsden — increasingly vocal within the majority.
+
+Communication risk: Non-MPR meeting with no presser meant the message came through minutes only. The “hawkish 7–2 headline versus dovish substance” split is exactly the kind of nuance markets can misread. The 30 Jul MPR / presser is the next chance to reconcile vote and forecast.
+
+7. Watchlist for next window
+
+ECB Sintra — 29 Jun–1 Jul — Bailey policy panel with Warsh, Lagarde and Macklem; first read on how Bailey frames the post-deal path.
+30 Jul MPC + MPR — first full forecast round since April; does the Bank restore a central projection and how is the 7–2 split evolving?
+June CPI — mid-Jul — services is the decisive variable; another 3.7%+ keeps hawks engaged.
+June labour / pay — mid-Jul — pay deceleration versus Mann’s whole-economy pay concern.
+Energy durability — does the ceasefire hold and Brent stay near the lower level, or rebound?
+Mann / Ramsden / Dhingra speeches — first post-decision signals on whether the swing and dovish wing are moving.
+
+8. Red team / falsification check
+
+What makes the “centre turning dovish” read wrong: Services at 3.7% is the true signal, energy rebounds, and the 7–2 hardens toward 6–3. The dovish drift in the minutes then proves transient.
+
+What makes the hawkish read wrong: The peace deal holds, energy keeps falling, the lower short-term inflation forecast is confirmed, and the majority moves to cuts by autumn. The 7–2 then looks, in hindsight, like peak hawkishness.
+
+Biggest misread risk: Treating the 7–2 tally at face value. The vote widened hawkishly while the forecast and majority reasoning softened — a classic vote-versus-reaction-function divergence.
+
+Biggest market mismatch: Even roughly one hike priced may be too hawkish if energy normalises; the residual OIS slope is risk premium, not expected rates, per the minutes.
+
+Source / gap risk: Pill’s Tashkent panel timing is ambiguous and possibly post-window; Dhingra’s in-window appearance was a non-policy climate panel. Neither drives the read.
+
+Gaps to carry forward: Pill Tashkent timing; refresh market-pricing anchor around 30 Jul.
+
+Window-discipline note: Sintra, 29 Jun–1 Jul, and the 30 Jul MPR are quarantined as watchlist. They belong to the next window.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: GBP’s inflation and pipeline data became less hawkish, and growth/slack evidence broadened materially, but the BoE vote split moved more hawkish. May CPI undershot the headline/core/RPI narrative and PPI monthly pressure cooled; labour demand weakened via vacancies, claimant count and payrolls; PMI services, CBI orders and CBI retail confirmed broad demand deterioration. Yet services CPI re-accelerated to 3.7%, pay beat expectations, and Greene/Pill dissented for a hike.
+
+Why it matters: The UK reaction function is now a widened fork. The majority has more evidence to wait — cooler CPI/PPI, weaker labour demand, lower short-term inflation guidance and deteriorating surveys — but the hawkish minority has enough services/wage/expectations material to keep the credibility constraint alive. A pure growth-negative GBP read is justified; a pure rates-dovish BoE read is premature.
+
+Implication: Treat GBP as growth-negative and policy-binary. Sterling domestic support is weaker after PMI/CBI/GfK/Rightmove, while gilts get relief only if services CPI and wages soften. The next regime shift requires either services/wage persistence to validate Greene/Pill, or labour/services-demand deterioration plus durable lower energy to overpower the hawkish dissent and re-open the cut debate.
+
+5 KEY RELEASES TO DIG INTO
+
+**** United Kingdom — BoE MPC Decision / Bank Rate / Vote Split + Central Bank Tape (18–23 Jun)
+Why it matters: Reaction-function anchor. The hold was expected, but the 7–2 vote widened hawkish dissent while the majority’s reasoning, short-term inflation guidance, energy path and Taylor’s later speech all point to a dovish drift beneath the headline vote.
+
+**** United Kingdom — Flash Composite / Manufacturing / Services PMI (23 Jun)
+Why it matters: Clearest growth-slack confirmation. Composite stayed below 50 for a second month, services fell to a 41-month low, and manufacturing strength was stockpiling-contaminated.
+
+*** United Kingdom — CPI / Core CPI / CPI Services / RPI / RPIX (17 Jun)
+Why it matters: Reframed the BoE meeting. Headline/core/RPI were cooler than expected, but services CPI re-accelerated to 3.7%, leaving the policy gate unresolved.
+
+*** United Kingdom — Labour Market Report (18 Jun)
+Why it matters: Better-quality signal was labour-demand deterioration — vacancies lowest since 2021, payroll softness, claimant count up — but wage upside prevented a clean dovish pivot.
+
+*** United Kingdom — CBI Distributive Trades / Reported Retail Sales (25 Jun)
+Why it matters: Retail/distribution confirmed the PMI and CBI orders deterioration. The -54 balance broadened the UK weakness from surveys/goods orders into household demand.
+
+<<GBP_WEEK_END>>
+
+
+
+
+<<GBP_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 12 Jun 2026
 
 A. GBP WEEK — MACRO SYNTHESIS
