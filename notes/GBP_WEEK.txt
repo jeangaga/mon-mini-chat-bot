@@ -1,3 +1,477 @@
+<<GBP_WEEK_BEGIN>>
+DATA WINDOW: 26 May 2026 to 12 Jun 2026
+
+A. GBP WEEK — MACRO SYNTHESIS
+
+GBP over the supplied window was a weak-demand / policy-constrained file with a hawkish-flank BoE tape. The first data signal was not recovery but false-dawn stabilization: CBI retail improved sharply from an extreme April low, but stayed deeply contractionary, while Halifax and RICS confirmed housing remained a rate-sensitive drag even if the pace of deterioration was no longer accelerating. The 12 Jun ONS block then broadened the weakness beyond housing: April GDP fell 0.1% m/m, services contracted 0.2%, and the goods trade deficit remained wider than expected, even though manufacturing output surprised positively.
+
+The BoE chatterbox adds an important committee-balance overlay. The official tape was thin because the MPC entered pre-meeting purdah, but Megan Greene’s 2 Jun Derby speech was a clear hawkish in-window signal: her “Scenario M” framed the energy shock as more inflationary than the April Report and moved her closer to Pill’s pre-emptive-hike camp. The cross-current is that energy de-escalation was already building in-window, while the decisive oil collapse, May CPI and 7–2 MPC vote sit just outside the window. Net regime: GBP loses domestic-growth support, but the BoE easing read is not clean because hawkish dissent risk, services inflation, wage/expectations sensitivity and imported-cost pass-through remain the reaction-function gate.
+
+B. GBP MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+The growth signal deteriorated across the window. CBI Distributive Trades improved from -68 to -46 but remained deeply contractionary; Halifax prices fell 0.1% m/m for a second consecutive monthly decline; RICS stayed at -35, missing consensus and confirming weak-level housing stabilization; and April ONS GDP fell 0.1% m/m, with services down 0.2%. Manufacturing output beat poll at +0.4% m/m, but the archive treats that as an offset inside a broader services-led deterioration, not a clean growth upgrade.
+
+Labor: ~
+Supporting evidence:
+The release archive selected for 26 May–12 Jun does not contain a full UK labour block, but the BoE chatterbox flags an in-window ONS labour release around 10–11 Jun as a dovish input: unemployment edging toward 4.9% and pay easing toward target-consistent rates. Timing confidence is medium in the tape, so the scoreboard stays neutral rather than decisively dovish. The labour direction supports the look-through centre, but it is not the dominant validated archive signal.
+
+Inflation: ~
+Supporting evidence:
+No UK CPI / wage block was present in the release archive. The inflation constraint nevertheless remains embedded in the BoE tape and release commentary. Greene’s “Scenario M” explicitly raises second-round and expectations risk; CBI retail noted cooling selling-price growth but not enough to erase broader cost risks; RICS connects housing weakness to BoE energy-pass-through caution; and the ONS GDP block states that energy/geopolitical disruption is hitting real activity while the BoE remains constrained by pass-through risk. Inflation is unresolved by new in-window CPI data, but still binding for policy.
+
+Financial Conditions: -
+Supporting evidence:
+Rate-sensitive channels remained under pressure. Halifax showed a second consecutive m/m house-price decline, RICS stayed deeply negative at -35, and the ONS GDP block broadened weakness from housing into services-led activity deterioration. GBP receives no clean domestic-growth support from the window. The BoE chatterbox adds that in-window OIS stayed elevated and upward-sloping before the just-post-window peace-deal/oil repricing, so weaker growth does not mechanically translate into a clean front-end easing signal.
+
+Policy Constraint: -
+Supporting evidence:
+The BoE constraint remains negative because the UK file combines weak activity quality with still-live inflation credibility risk. CBI retail, Halifax, RICS and April GDP strengthen the growth/slack side, but Greene’s 2 Jun speech moved the hawkish flank closer to Pill and widened dissent risk into the next meeting. Energy de-escalation was building, but the decisive peace-deal/oil-collapse evidence sits outside the window. The policy state is therefore hawkish hold / divided committee, not a dovish pivot.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 26 MAY 2026
+
+United Kingdom — CBI Distributive Trades (May)
+Release Date: 26 May 2026 | Local Time: 12:00
+Importance: **
+
+1. Reuters Data
+
+CBI Distributive Trades: -46 | Prior: -68
+
+2. Professional Market Commentary
+
+The professional framing is “less bad, not good.”
+
+CBI reported that retail selling-price growth cooled to its slowest rate in over a year, while sales volumes remained poor relative to seasonal norms and annual sales volumes continued to fall, albeit at a slower pace. Reuters similarly framed the May balance as a recovery from April’s record low, but still consistent with weak consumer demand. The key tape tension is therefore between a sharp bounce from extreme weakness and a level that remains deeply contractionary.
+
+3. Comment — Economist Layer
+
+This is a false-dawn survey improvement.
+
+The move from -68 to -46 is large, but the level is still deeply negative. The data say the pace of decline eased; they do not say retail demand recovered. The selling-price detail is more useful for the BoE than the headline balance because it points to weaker pricing power in retail, even as broader UK inflation risk remains exposed to energy and imported-cost shocks.
+
+Signal hierarchy:
+
+* headline balance: sharp improvement from extreme low
+* level: still contractionary
+* pricing detail: disinflationary retail impulse
+* demand signal: weak, but less abruptly worsening
+* policy signal: mixed — softer demand and prices, but not enough to erase broader cost risks
+
+State transition: false dawn.
+
+Context from prior regional live file:
+The prior DM tape had the UK trapped in a sectoral stagflation mix, with weak construction and labour-quality signals offset by services resilience and cost pressure. CBI retail improves from an extreme low but keeps the weak-demand diagnosis intact. The UK remains a weak-demand / cost-sensitive policy bucket rather than a clean recovery case.
+
+4. HF Take — Strategist Layer
+
+This is not a GBP-positive recovery signal.
+
+FRIDAY 5 JUN 2026
+
+United Kingdom — Halifax House Prices MM / YY (May)
+
+Release Date: 5 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+Reuters Data
+
+Halifax House Prices MM: Actual -0,1% | Prior -0,1% | Poll 0,1% | Surprise -0,20%
+Halifax House Prices YY: Actual 0,5% | Prior 0,4% | Poll 1,0% | Surprise -0,50%
+
+Professional Market Commentary
+
+The Halifax release confirmed a second consecutive monthly decline in house prices, but with a more gradual cooling signal than Nationwide. The tape frames the release as “stable but soft”: y/y growth edged up, while the monthly price level slipped again and affordability remained stretched by elevated mortgage costs.
+
+Comment — Economist Layer
+
+This is a gradual deterioration block.
+
+State transition: deterioration.
+
+HF Take — Strategist Layer
+
+GBP / BoE read remains policy-bind.
+
+THURSDAY 11 JUN 2026
+
+United Kingdom — RICS Residential Market Survey (May)
+Release Date: 11 Jun 2026 | Local Time: 00:01 BST
+Importance: **
+
+Reuters Data
+
+RICS Housing Survey: Actual -35 | Prior -34 | Revised -35 | Poll -31 | Surprise -4,0
+
+Professional Market Commentary
+
+The RICS block is a weak-level stabilisation signal, not a recovery signal. The scout notes that the house-price net balance stayed at -35 after April was revised down, missing the -31 consensus, while new buyer enquiries stopped deteriorating further but remained deeply negative.
+
+RICS commentary framed the market as possibly beginning to stabilise, but still too weak to call a recovery. The relevant macro transmission is mortgage-rate uncertainty and BoE energy-pass-through caution: higher energy costs and inflation risk keep the UK housing recovery capped.
+
+Comment — Economist Layer
+
+This is stabilisation, but at a depressed level.
+
+Key hierarchy:
+
+price balance is unchanged after the prior was revised down
+the print missed consensus
+buyer enquiries no longer deteriorated further, which is the stabilisation cue
+agreed sales remain weak
+the survey is rate-sensitive and therefore connects directly to BoE pass-through / mortgage-rate risk
+stabilisation at -35 is still a housing drag, not an activity upgrade
+
+The macro signal is that UK housing weakness is no longer accelerating on this survey, but the level remains bad. In a BoE context, the survey is not a reason to tighten, but it does illustrate why energy-driven inflation pass-through is damaging: it delays rate relief into a rate-sensitive housing market.
+
+State transition: stabilization.
+
+Context from prior regional live file: The UK had already been a soft-growth / inflation-constrained file, with rate-sensitive domestic demand vulnerable to BoE caution. RICS confirms that housing remains a drag even if the pace of deterioration is levelling off. The UK activity bucket remains fragile before the broader GDP / services block.
+
+HF Take — Strategist Layer
+
+GBP/rates read: low standalone rate signal, but relevant to the growth side of the BoE trade-off.
+
+This does not argue for a dovish BoE pivot by itself because the inflation/pass-through problem still dominates the policy debate. It does, however, reinforce the downside cost of keeping rates restrictive: housing is stabilising only at a weak level. The next UK GDP/services block matters more for whether this housing weakness is isolated or part of a broader demand slowdown.
+
+FRIDAY 12 JUN 2026
+
+United Kingdom — ONS Monthly GDP / Services / Production / Manufacturing / Goods Trade (Apr)
+Release Date: 12 Jun 2026 | Local Time: 07:00 BST
+Importance: ****
+
+Reuters Data
+
+GDP Est 3M/3M: Actual 0,7% | Prior 0,6% | Poll 0,7% | Surprise 0,00%
+GDP Estimate MM: Actual -0,1% | Prior 0,3% | Poll -0,1% | Surprise 0,00%
+GDP Estimate YY: Actual 1,2% | Prior 1,2% | Poll 1,3% | Surprise -0,10%
+
+Services MM: Actual -0,2% | Prior 0,3% | Poll -0,1% | Surprise -0,10%
+Services YY: Actual 1,7% | Prior 1,5% | Poll 1,7% | Surprise 0,00%
+
+Industrial Output MM: Actual 0,0% | Prior -0,2% | Poll 0,1% | Surprise -0,10%
+Industrial Output YY: Actual -0,2% | Prior 0,0% | Poll -0,1% | Surprise -0,10%
+Manufacturing Output MM: Actual 0,4% | Prior 1,2% | Poll -0,2% | Surprise 0,60%
+Manufacturing Output YY: Actual 1,0% | Prior 1,2% | Poll 0,4% | Surprise 0,60%
+
+Goods Trade Balance GBP: Actual -26,046B | Prior -27,218B | Revised -27,218B | Poll -22,500B | Surprise -3,5460B
+
+Professional Market Commentary
+
+This is the main UK activity block of the week. ONS reported that monthly real GDP fell 0.1% in April after +0.3% in March and +0.4% in February, the first monthly decline since August 2025. The contraction was services-led: services output fell 0.2%, production showed no growth, and construction rose 0.1%. (Office for National Statistics)
+
+The professional tape treats the print as a course correction off a strong / partly front-loaded Q1 rather than a confirmed downturn. Reuters similarly framed the April contraction as the first clear UK growth impact from the Iran war, with cancellations of major sporting events hitting the entertainment sector; separate Reuters market coverage noted that sterling looked through the soft GDP print as investors focused on possible Middle East peace developments. (Reuters)
+
+Comment — Economist Layer
+
+This is deterioration, but not yet a confirmed UK downturn.
+
+Key hierarchy:
+
+monthly GDP falls for the first time since August 2025
+services drive the contraction, which matters because services are the UK’s core domestic activity engine
+the 3M/3M trend remains +0.7%, so the level story is not yet a recession signal
+manufacturing is the offset, beating materially versus poll on both m/m and y/y lines
+production is flat rather than collapsing
+goods trade deficit remains large and wider than expected, consistent with external / import-cost drag
+the release links directly to RICS: housing was weak-level stabilisation, now broader monthly activity also softens
+
+The internal signal is a classic stagflationary growth-quality deterioration. Energy and geopolitical disruption hit services and real-income-sensitive activity, while the BoE remains constrained by pass-through risk. Manufacturing resilience prevents a simple “UK slump” label, but the services-led monthly contraction means the UK joins the soft-real-economy side of the DM map.
+
+State transition: deterioration.
+
+Context from prior regional live file: The UK had already been a soft-growth / inflation-constrained file, with housing fragile and BoE caution limiting rate-relief transmission. April GDP confirms that weakness is broader than housing, but the positive 3M trend and manufacturing resilience prevent a full downturn classification. The UK shifts from housing-fragile to broader post-shock activity deterioration.
+
+HF Take — Strategist Layer
+
+BoE / GBP read: growth-negative, but not enough to force a dovish reaction function while imported inflation risk remains alive.
+
+This release strengthens the UK growth downside and makes the cost of BoE caution more visible. It does not deliver a clean front-end easing signal because the same shock that hurts output also raises energy / import-cost pass-through risk. For GBP, the signal is mixed: domestic activity deteriorates, but BoE cuts remain constrained if inflation risk persists. The next falsification test is May GDP / services: a rebound would classify April as a front-loading / cancelled-events soft patch; a second contraction would move the UK closer to a genuine slowdown regime.
+
+CENTRAL BANK TAPE
+
+Central Bank Chatterbox — Bank of England / GBP
+Window: 26 May 2026 to 12 Jun 2026
+Central bank: Bank of England
+Current policy rate: Bank Rate 3.75%
+Last meeting: 30 Apr 2026 — 8–1 hold — carry-over
+Next meeting: 18 Jun 2026 — meeting ends 17 Jun — just outside window
+Mode: Live policy-reaction-function monitor
+
+Reference point
+
+Bank Rate: 3.75%, held since the 18 Dec 2025 cut from 4.00%.
+APF: reduced to £523bn on 10 Jun; QT running at £70bn/year to Sep 2026.
+Framework: April MPR three-scenario framework still live.
+Roster: unchanged, nine voters.
+Quiet period: ahead of 18 Jun announcement, begins in the second week of June, roughly 9–10 Jun; confidence medium on exact start.
+
+Window sweep log
+
+Spoke in window — policy-relevant:
+
+Megan Greene — External MPC voter — 2 Jun — University of Derby Business School, “Here we go again? Assessing the inflation risks of the recent energy shock.”
+Signal: introduced “Scenario M,” more inflationary than the April Report; hawkish escalation.
+Importance: High.
+
+Andrew Bailey — Governor — 29 May — Reykjavík 2026 economic conference.
+Signal: in-window, but substantive text not retrieved in the run. Not used to drive conclusions.
+Importance: Low/Medium.
+
+Official documents / data released in window:
+
+ONS labour market release — around 10–11 Jun — further loosening: unemployment edging up toward 4.9%, pointing to loosening that could contain wage pressure; three-months-to-April AWE 2.9%, private-sector regular pay near target-consistent.
+Importance: Medium; timing confidence medium.
+
+APF milestone — 10 Jun — stock reduced to £523bn. Procedural QT, low signal.
+Importance: Low.
+
+Final May PMIs — early June — market context only.
+
+Spoke but not policy-relevant:
+
+No MPC monetary-policy speeches found 3–12 Jun, consistent with the approaching quiet period.
+
+Did not speak / nothing found:
+
+Pill, Mann, Breeden, Lombardelli, Ramsden, Dhingra, Taylor — no in-window policy remarks found. Their stances are carried over from the 30 Apr minutes; next MPC speeches resume post-meeting. Silence here is purdah-driven, not a signal.
+
+Unverified / possible gaps:
+
+Bailey 29 May Reykjavík text not retrieved; not used to drive conclusions.
+In-window labour-release exact date placed around 10–11 Jun; if later, reclassifies to just-post-window.
+
+Carry-over context used:
+
+30 Apr — 8–1 hold, Pill dissent, April MPR three scenarios — live framework.
+13–14 May — Mann and Pill prior-window hawk tape.
+20 May — April CPI 2.8% / services 3.2% — prior-window dovish data that hawks are discounting.
+
+Just-post-window / watchlist — not in-window state drivers:
+
+14 Jun — US–Iran peace deal announced; Brent fell to around $79 from roughly $100 average since the April MPR, but remained above the roughly $66 pre-conflict level.
+17 Jun — May CPI: headline held at 2.8%, services rose to 3.7% from 3.2%.
+18 Jun — MPC 7–2 hold; Greene and Pill dissented for +25bp to 4.00%; peace-deal news shifted the OIS curve toward the bottom of its recent range, with roughly 30bps upward slope by end-2026, driven largely by risk premia.
+
+Sweep verdict
+
+Thin, speaker-light, document-light window dominated by one pivotal in-window event — Greene’s 2 Jun “Scenario M” — and one macro current: de-escalation building after the US lifted its Iranian-port blockade around 29 May. The committee entered purdah early in June, so the tape goes quiet after 2 Jun. The defining feature is timing irony: the hawkish flank consolidated precisely as the energy tail underpinning the hawkish case began to deflate. That setup resolved into the 7–2 June dissent and lower energy path just after the window closed. Strict window discipline applies: the 14–18 Jun peace deal, oil collapse, May CPI and 7–2 vote are watchlist items, not in-window state-drivers.
+
+1. Executive policy read
+
+In-window, the BoE story is committee-balance hawkish drift without a rate move. Greene used her 2 Jun Derby speech to lay out “Scenario M,” a more inflationary path than the April Report’s scenarios, on second-round / expectations grounds — aligning her rhetorically with Pill’s pre-emptive-hike camp and foreshadowing a wider dissent. This consolidation occurred against a cross-cutting dovish impulse: energy de-escalation built through the window, the US port blockade was lifted around 29 May, in-window labour data confirmed further loosening, and the April CPI undershoot still sat on the tape. The committee centre — Bailey, Lombardelli, Breeden, Ramsden, Taylor and Dhingra — was silent in-window under purdah, with its “look-through, stand ready” stance carried over from the April minutes. Market pricing stayed elevated / upward-sloping pre-collapse.
+
+Policy state: hawkish hold; divided committee with widening dissent risk, cross-cut by an emerging dovish energy impulse.
+State transition: continuation of hawkish drift at the committee-balance level, partially offset by de-escalation building in-window.
+Confidence: Medium-High — Greene shift high; net direction medium because the energy resolution was the live offset.
+
+2. Key themes since last meeting
+
+Theme 1 — Greene’s hawkish escalation: “Scenario M”
+Read: Greene’s 2 Jun speech argued the April Report scenarios understated the risk. She introduced a self-authored more-inflationary scenario, stressing that firms update CPI perceptions very quickly and that long-horizon expectations are co-moving with near-term news. Her 2011-versus-2022 comparison concedes today’s looser labour market dampens wage feedback, but emphasizes expectations attentiveness.
+Policy implication: Moves Greene from “wait and see” toward the pre-emptive-hike camp — the in-window tell for a wider dissent at the next meeting.
+Evidence base: In-window.
+Confidence: High.
+
+Theme 2 — Energy de-escalation building, the dovish cross-current
+Read: The US port blockade of Iran ran 13 Apr–29 May and lifted within the window; talks progressed, presaging the mid-June framework. Oil stayed elevated in-window, but the tail risk that motivated the hawks began to narrow.
+Policy implication: Undercuts the hawkish case in real time — the energy spike hawks are extrapolating is starting to reverse.
+Evidence base: In-window de-escalation; resolution itself just-post-window.
+Confidence: Medium-High.
+
+Theme 3 — Labour-market loosening confirmed
+Read: The in-window labour release reinforced the cooling story: unemployment ticking up toward 4.9% and private-sector regular pay near target-consistent rates, though whole-economy / public-sector pay and bonuses kept some upside noise.
+Policy implication: Supports the look-through centre and the doves; weakens the wage-spiral leg of the hawkish case.
+Evidence base: In-window.
+Confidence: Medium.
+
+Theme 4 — Market pricing still elevated, pre-collapse
+Read: Through the window, the UK OIS curve remained consistently materially higher than the pre-conflict curve, upward-sloping over the year ahead, pricing no 2026 cuts and a hike tail. The shift toward the bottom of the range came only mid-June on the peace deal.
+Policy implication: Market aligned with the hawkish tail in-window; dovish repricing is a watchlist event, not yet realized.
+Evidence base: In-window, provisional / pre-peace-deal.
+Confidence: Medium.
+
+3. Speaker / document table
+
+2 Jun — Megan Greene, Derby — In-window — Hawkish
+Key signal: “Scenario M,” more inflationary than the April Report.
+Reaction-function implication: Greene moves toward pre-emptive hike; foreshadows wider dissent.
+Importance: ****
+
+29 May — Andrew Bailey, Reykjavík — In-window — n/a
+Key signal: text not retrieved.
+Reaction-function implication: gap; not used.
+Importance: **
+
+~10–11 Jun — ONS labour release — In-window — Dovish
+Key signal: unemployment around 4.9%; pay easing.
+Reaction-function implication: supports look-through centre / doves.
+Importance: **
+
+~29 May — US lifts Iran port blockade — In-window — Dovish
+Key signal: blockade ended 29 May; de-escalation building.
+Reaction-function implication: narrows energy tail underpinning hawks.
+Importance: ***
+
+10 Jun — APF £523bn — In-window — Institutional
+Key signal: QT on track.
+Reaction-function implication: no policy-path signal.
+Importance: *
+
+30 Apr — 8–1 hold + April MPR — Carry-over — Hawkish
+Key signal: first hike vote since 2023; three scenarios.
+Reaction-function implication: framework within which hawks and doves argue.
+Importance: ***
+
+14 Jun — US–Iran peace deal / oil collapse — Just-post-window — Dovish
+Key signal: Brent around three-month low.
+Reaction-function implication: watchlist; drives next-window state.
+Importance: ***
+
+17 Jun — May CPI — Just-post-window — Two-sided
+Key signal: headline 2.8%, services up to 3.7%.
+Reaction-function implication: watchlist; services re-accelerate.
+Importance: ***
+
+18 Jun — MPC 7–2 hold — Just-post-window — Hawkish
+Key signal: Greene and Pill vote +25bp to 4.00%.
+Reaction-function implication: confirms in-window Greene signal.
+Importance: ****
+
+4. Thematic speaker tape
+
+The Policy Outlook / Committee Split
+
+2 Jun — Greene — In-window
+Signal: Scenario M; risk-management case for tightening.
+Bias: Hawkish.
+Importance: ****
+
+Pill — Carry-over
+Signal: pre-emptive modest hike through April dissent.
+Bias: Hawkish.
+Importance: ***
+
+Mann — Carry-over
+Signal: hawk who held; rapid gilt-market transmission.
+Bias: Hawkish.
+Importance: ***
+
+Dhingra / Taylor — Carry-over
+Signal: policy too restrictive absent shock.
+Bias: Dovish.
+Importance: **
+
+Implication: The in-window movement is on the hawkish flank — Greene closing toward Pill. The doves and centre did not speak because of purdah, so their position is inferred from April. Net: dissent risk widened heading into 18 Jun, which the 7–2 vote then confirmed.
+
+Inflation / Expectations
+
+2 Jun — Greene — In-window
+Signal: firms update inflation perceptions very quickly; long-horizon expectations risk de-anchoring.
+Bias: Hawkish.
+Importance: ***
+
+Implication: Greene’s expectations-attentiveness thesis is the analytical core of the hawkish case. It makes second-round effects more likely for a given energy profile, justifying a pre-emptive move even as the energy spike fades.
+
+Geopolitical / Energy
+
+~29 May — US port blockade lifted — In-window
+Signal: de-escalation building.
+Bias: Dovish.
+Importance: ***
+
+14 Jun — peace deal / oil collapse — Just-post-window
+Signal: Brent to around three-month low.
+Bias: Dovish.
+Importance: *** — watchlist.
+
+Implication: The single most important cross-current. In-window it is a building dovish impulse; the decisive collapse and OIS repricing are watchlist items that drove the 18 Jun setup, not this window’s state.
+
+5. Policy outlook
+
+Base case for 18 Jun, just outside window: Hold at 3.75%, with the vote split widening as Greene joins Pill. Within-window, the read was hold near-certain, dissent risk rising, no cut on the table.
+
+Hawkish scenario: Services re-accelerate and expectations stay unanchored — the May CPI services jump to 3.7%, a watchlist item, leans this way — so dissent broadens further and a hike becomes a live committee option at a later meeting.
+
+Dovish scenario: Durable peace holds and energy keeps falling — the post-window collapse leans this way — allowing the look-through centre to regain primacy and reopening Dhingra/Taylor’s latent cut case into H2.
+
+Market-pricing check: In-window, OIS sloped up over the year ahead, materially above the pre-conflict curve, pricing no 2026 cuts and a hike tail, largely risk-premium-driven. Anchor is provisional / pre-peace-deal; it shifted toward the bottom of its range on 14–18 Jun and must be refreshed before import.
+
+6. Reaction-function map
+
+Inflation threshold: Sustained services re-acceleration plus expectations de-anchoring broadens dissent toward a hike. Clean services/core easing plus energy reversal re-opens cuts.
+
+Labour threshold: In-window loosening — unemployment around 4.9%, pay near target-consistent — caps the wage-spiral leg of the hawkish case. Pay re-acceleration would revive it.
+
+Growth threshold: Continued demand weakness reinforces the centre’s caution against over-tightening.
+
+Financial-conditions threshold: Elevated gilt yields and upward OIS slope were already tightening in-window; Mann’s carry-over point that hikes transmit fast through a fragile gilt market remains a constraint.
+
+Political / institutional constraint: Open-letter regime live after the March 3.3% breach; fiscal-monetary interaction and UK-debt premium frame the backdrop.
+
+Committee split:
+Hawkish in-window: Greene, escalating to Scenario M; Pill as carry-over dissent.
+Hawk who held: Mann, carry-over.
+Centre / look-through: Bailey, Lombardelli, Breeden, Ramsden — silent, purdah.
+Dovish: Dhingra, Taylor — silent, purdah.
+Pivotal in-window: Greene — her shift is the single most decision-relevant development of the window.
+
+Communication risk: Purdah silenced the centre, leaving Greene’s hawkish speech as the loudest in-window voice and tilting perceived balance hawkish into the meeting. This is a communication-asymmetry risk that markets partly faded once the centre’s hold/look-through stance reasserted just after the window.
+
+7. Watchlist for next window
+
+18 Jun MPC — resolved 7–2 — confirm Greene + Pill dissent and parse whether a third voter, Mann, is moving.
+Energy path post-peace-deal — durability of ceasefire; whether Brent holds the lower level or rebounds.
+May CPI services at 3.7% — whether re-acceleration persists or fades.
+OIS repricing — confirm the shift to the bottom of the range and whether it is risk premia or expected rates.
+Mann / Taylor / Dhingra — first post-purdah remarks to re-read committee balance.
+30 Jul MPR meeting — next full forecast round; first chance to refresh the central path post-shock.
+
+8. Red team / falsification check
+
+What makes the hawkish read wrong: in-window de-escalation proves to be the real signal; peace holds, oil keeps falling, and the April/May headline softness dominates. Greene’s Scenario M becomes moot and the committee skips back toward cuts in H2.
+
+What makes the dovish read wrong: services inflation at 3.7% proves the April services dip was base-effect noise, vindicating Greene/Pill and pulling a third dissenter across.
+
+Biggest in-window distortion: purdah. With the centre silent, Greene’s hawkish speech is over-weighted; the true committee balance revealed on 18 Jun as still seven-strong for hold is more dovish than the in-window tape alone implies.
+
+Biggest market mismatch: in-window OIS priced a hike tail the committee centre never endorsed; the June minutes later attributed the slope mostly to risk premia, not expected rates.
+
+Source / gap risk: Bailey’s 29 May Reykjavík text was not retrieved; the in-window labour-release date is placed around 10–11 Jun with medium confidence. Neither drives the conclusion.
+
+Gaps to carry forward: Bailey 29 May text; labour-release exact date; market-pricing anchor is pre-peace-deal and must be refreshed.
+
+Window-discipline note: the 14–18 Jun peace deal, oil collapse, May CPI and 7–2 vote are deliberately quarantined as watchlist items. They belong to the next window’s state transition.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: GBP’s activity tape deteriorated across housing, retail/distribution and monthly GDP, but the BoE reaction function did not receive a clean dovish release valve. CBI retail improved from an extreme low but remained deeply contractionary; Halifax and RICS kept housing weak; and ONS GDP confirmed services-led monthly contraction. Yet Greene’s Scenario M raised the hawkish-flank risk, and the same energy/geopolitical shock that damages real activity also keeps imported-cost and expectations risk alive.
+
+Why it matters: A pure growth-deterioration read would overstate the case for BoE easing. The UK’s policy problem is still persistence versus credibility: weaker services activity and housing argue for patience, but services inflation, wages, energy/imported-cost pass-through and expectations remain the gates for a genuine dovish pivot. The BoE tape is thin, but it is not dovish: the loudest in-window voice was Greene hawkish, even as energy de-escalation was beginning.
+
+Implication: GBP should be treated as domestically growth-negative but not cleanly rates-negative. Sterling loses support from activity quality, while gilts can take some relief from softer growth only if later CPI services and wage data validate the slack story and if the energy reversal durably neutralizes Greene’s Scenario M.
+
+5 KEY RELEASES TO DIG INTO
+
+**** United Kingdom — ONS Monthly GDP / Services / Production / Manufacturing / Goods Trade (12 Jun)
+Why it matters: Main regime block. April GDP fell 0.1% m/m, services contracted 0.2%, and the goods trade deficit was wider than expected, broadening UK weakness beyond housing.
+
+**** Central Bank Chatterbox — Bank of England / GBP (26 May–12 Jun)
+Why it matters: The committee-balance overlay. Greene’s 2 Jun Scenario M moved the hawkish flank toward Pill and widened dissent risk, while energy de-escalation was already building as the dovish counter-current.
+
+*** United Kingdom — Halifax House Prices MM / YY (5 Jun)
+Why it matters: Rate-sensitive housing checkpoint. A second consecutive m/m decline confirmed gradual deterioration and kept the BoE policy-bind visible through mortgage affordability pressure.
+
+** United Kingdom — RICS Residential Market Survey (11 Jun)
+Why it matters: Housing stabilization at a depressed level. The -35 balance stopped worsening but missed consensus and remained too weak to call a recovery.
+
+** United Kingdom — CBI Distributive Trades (26 May)
+Why it matters: False-dawn consumer signal. The bounce from -68 to -46 showed less rapid deterioration, not a retail recovery; selling-price cooling helped the disinflation side but did not erase broader cost risks.
+
+<<GBP_WEEK_END>>
 
 <<GBP_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 12 Jun 2026
