@@ -1,3 +1,1343 @@
+
+<<USD_WEEK_BEGIN>>
+DATA WINDOW: 30 Jun 2026 to 9 Jul 2026
+
+A. USD WEEK — MACRO SYNTHESIS
+
+U.S. growth remained positive but increasingly narrow across the period. ISM services stayed above trend and core capital-goods orders rebounded, while manufacturing remained expansionary but was partly sustained by precautionary ordering, inventory insurance and concentrated AI/data-center investment. Net trade, wholesale inventories, housing turnover and private construction weakened, leaving a services- and capex-supported growth floor rather than a broad reacceleration.
+
+Labor shifted into clearer hiring-flow deterioration: payrolls and ADP slowed sharply, prior payrolls were revised down, participation fell and continuing claims drifted higher, even as initial claims stayed low and wages remained firm. Upstream price pressure eased materially in both manufacturing and services but remained elevated and broad. The Fed reaction function nevertheless shifted further toward a hawkish hold: Waller’s move from swing dove to inflation-focused hike-permissive voter and the June FOMC minutes’ confirmation that several participants contemplated tightening outweighed the Chair’s refusal to pre-commit. The resulting regime is positive but job-light and increasingly narrow, with near-term hike pressure reduced by labor weakness but a live inflation-contingent hike bias retained for July or, more plausibly, September.
+B. USD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+ISM Services remained expansionary at 54.0, S&P services stabilized at 51.2 and core capital-goods orders rebounded 1.6%, preserving a services- and investment-led floor. Against that, the trade deficit widened to $77.6bn, wholesale inventory growth slowed to 0.1%, existing-home sales fell 2.4% and private nonresidential construction remained weak. Growth is positive but narrow and increasingly dependent on services, backlogs and concentrated technology investment.
+
+Labor: -
+Supporting evidence:
+Non-farm payrolls rose only 57k, private payrolls 49k and the prior two months were revised down by 74k. ADP slowed to 98k, participation fell to 61.5% and continuing claims rose to 1.814mn. Initial claims near 215k and firm wage growth at 3.5% y/y show adjustment through weaker hiring and slower re-employment rather than broad layoffs, but the labor-flow signal deteriorated materially.
+
+Inflation: ~
+Supporting evidence:
+ISM Manufacturing Prices Paid fell from 82.1 to 73.0 and ISM Services Prices Paid from 71.3 to 67.7, confirming that the shock-driven cost impulse is easing. Both levels remain historically elevated, price diffusion is still broad and wages held at 0.3% m/m and 3.5% y/y. Inflation direction improved, but the period did not establish a clean disinflation regime.
+
+Financial Conditions: -
+Supporting evidence:
+Mortgage rates near 6.5% continued to suppress housing turnover, existing-home sales fell to 4.09mn and construction remained dependent on public spending while private nonresidential activity declined. Record home prices and negligible distressed sales prevented a disorderly housing correction, but restrictive rates continued to weaken interest-sensitive demand and market breadth.
+
+Policy Constraint: -
+Supporting evidence:
+Weak payrolls, downward revisions, falling participation and easing survey price pressure materially reduced the case for an immediate hike. However, Waller’s assessment that risks had “completely flipped around,” Warsh’s continued emphasis on excessive prices and June minutes showing that “a few” participants saw a case for tightening confirm that the committee remains inflation-focused and hike-permissive. Low initial claims, resilient services, positive core capex, firm wages and elevated price indices leave the Fed in a hawkish-hold configuration: July is genuinely two-sided, September is the more plausible hike venue, and rapid easing requires a further labor deterioration or clean core-inflation break.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 30 JUN 2026
+
+UNITED STATES — S&P Cotality Case-Shiller 20-City Home Price Index (Apr)
+
+Release Date: 30 Jun 2026 | Local Time: 15:00
+Importance: **
+
+1. Reuters Data
+
+CaseShiller 20 MM SA: 0,0% | Prior: -0,2% | Reuters Poll: -0,1% | Surprise: 0,10%
+
+CaseShiller 20 YY NSA: 1,1% | Prior: 0,9% | Reuters Poll: 0,9% | Surprise: 0,20%
+
+2. Professional Market Commentary
+
+The professional tape framed the release as nominal stabilization rather than a housing-price recovery.
+
+The 20-city index was essentially flat after seasonal adjustment, while annual growth accelerated modestly to 1.1%. The national index rose only 0.8% y/y, leaving inflation-adjusted home values lower for an eleventh consecutive month.
+
+Regional dispersion remained extreme. Midwest and Northeast markets continued to appreciate, while several Sun Belt and Western cities remained in outright annual decline.
+
+Official commentary emphasized that normal spring seasonal gains were masking weak underlying momentum. Mortgage rates around 6.3% continued to constrain affordability, leaving housing prices broadly flat in nominal terms and negative in real terms.
+
+3. Comment — Economist Layer
+
+The small upside surprise improves the immediate housing-price momentum signal, but does not overturn the restrictive-financial-conditions story.
+
+Signal hierarchy:
+
+* the seasonally adjusted 20-city index stabilized after two monthly declines
+* annual 20-city growth accelerated from 0.9% to 1.1%
+* the national seasonally adjusted index still declined 0.1%
+* inflation continued to exceed national home-price appreciation by roughly 3 percentage points
+* regional breadth remained highly uneven, with Chicago at +6.5% y/y versus Seattle at -2.3%
+* the spring NSA increase remained weaker than its pre-pandemic seasonal norm
+* Detroit data quality was impaired by transaction-recording delays in Wayne County
+
+The distinction between stabilization and recovery is important. Sequential national momentum remains slightly negative, real housing wealth is still eroding, and affordability has not materially improved.
+
+The annual acceleration therefore reflects a pause in deterioration rather than a renewed national house-price cycle.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+March had extended the housing-price slowdown through a second seasonally adjusted decline, softer annual appreciation and weaker metropolitan breadth. April interrupts the sequential deterioration in the 20-city measure but retains negative real returns and pronounced regional divergence. Housing therefore moves from broadening deterioration to fragile stabilization, not recovery.
+
+4. HF Take — Strategist Layer
+
+The release has limited immediate reaction-function value.
+
+For the Fed, housing prices are responding to restrictive rates, but too slowly and unevenly to generate a near-term policy signal. Nominal prices are not falling rapidly enough to provide a fast shelter-disinflation channel, while negative real housing returns and weak affordability remain medium-term growth drags.
+
+For rates, the print modestly reduces the probability of an accelerating housing-price downturn, but does not challenge the restrictive-financial-conditions narrative.
+
+For USD, the signal is neutral. Housing stabilization becomes strategically relevant only if it feeds into firmer transactions and consumption, while renewed price weakness becomes dovish only if it broadens into labor and household-income deterioration.
+
+The next verification tests are mortgage applications, pending sales, transaction volumes and June home-sales data.
+
+UNITED STATES — Chicago PMI (Jun)
+
+Release Date: 30 Jun 2026 | Local Time: 15:45
+Importance: **
+
+1. Reuters Data
+
+Chicago PMI: 56,7 | Prior: 62,7 | Reuters Poll: 56,0 | Surprise: 0,70
+
+2. Professional Market Commentary
+
+The tape treated the release as a cooling from May’s exceptional spike while retaining a clearly expansionary regional manufacturing level.
+
+New Orders fell sharply and Production nearly reversed its May increase. Supplier Deliveries, Order Backlogs and Employment provided offsets, allowing the headline to remain above 50 for a second consecutive month.
+
+The Reuters poll showed a modest beat, although conflicting consensus vintages produced mixed “beat” and “miss” headlines in secondary coverage. The more useful professional interpretation was therefore based on the composition and large decline from May rather than the small surprise versus consensus.
+
+3. Comment — Economist Layer
+
+The June decline is consistent with partial normalization after May’s extreme front-loading and supply-insurance pulse.
+
+Signal hierarchy:
+
+* the headline remains solidly expansionary at 56.7
+* the six-point decline materially weakens the sequential momentum signal
+* New Orders fell 11.7 points, partially reversing their May surge
+* Production nearly unwound the previous month’s increase
+* higher Supplier Deliveries may partly reflect longer lead times rather than stronger final demand
+* Order Backlogs and Employment prevented a more severe headline reversal
+
+The release therefore contains two different signals. The level remains constructive, but the flow indicators most closely linked to future production weakened.
+
+This is not yet a fresh regional contraction. It is evidence that May’s four-year-high reading overstated the sustainable run-rate.
+
+The manufacturing pulse remains consistent with precautionary ordering, stock-building and supply-chain protection following the energy and geopolitical shock. June suggests that this support is fading, but not yet disappearing.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+May’s 62.7 reading had been classified as a front-loaded manufacturing false dawn, supported by defensive stockpiling and supply-chain precaution rather than clean final demand. June’s decline and sharp New Orders giveback validate the caution around that spike, while the still-expansionary level prevents a reversal call. Regional manufacturing remains temporarily firm but quality-impaired.
+
+4. HF Take — Strategist Layer
+
+The release is not a standalone Fed signal.
+
+It reduces the risk that May’s surge should be extrapolated into a manufacturing boom, but the index remains too strong to support an immediate growth-break narrative.
+
+The policy implication is conditional:
+
+* a similar loss of orders in national ISM would strengthen the manufacturing-downshift case
+* resilient national orders would leave Chicago as normalization after an unusually strong regional print
+* continued Supplier Deliveries pressure would preserve the supply-side inflation constraint even as output momentum cools
+
+For rates and USD, the release is broadly neutral ahead of ISM Manufacturing. It weakens the growth-positive interpretation of May without generating a sufficiently broad deterioration signal to support dovish repricing.
+
+UNITED STATES — JOLTS Job Openings (May)
+
+Release Date: 30 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+1. Reuters Data
+
+JOLTS Job Openings: 7,594M | Prior: 7,618M | Revised: 7,585M | Reuters Poll: 7,300M | Surprise: 0,2940M
+
+2. Professional Market Commentary
+
+The professional tape split between resilient labor demand and continued weakness in actual labor-market turnover.
+
+Job openings remained around 7.6mn, materially above consensus, while hires stayed at 5.2mn, quits at roughly 3.1mn and layoffs at 1.7mn. Openings increased in wholesale trade, but the aggregate report showed little movement in hiring, quitting or separations.
+
+The more bullish interpretation was that the spring labor slowdown was ending and vacancy demand was broadening. The more cautious institutional interpretation emphasized that openings were stable rather than accelerating, the quits rate remained at 1.9%, and rising vacancies had not yet translated into materially stronger hiring or worker mobility.
+
+3. Comment — Economist Layer
+
+The large consensus beat is genuine, but it is primarily an expectations surprise rather than a strong month-on-month acceleration.
+
+Signal hierarchy:
+
+* openings held near April’s elevated level instead of retracing the prior surge
+* the openings rate remained at 4.6%
+* hires were unchanged at 5.2mn and the hiring rate remained at 3.3%
+* quits were little changed and the quits rate stayed at 1.9%
+* layoffs remained low at 1.7mn
+* openings per unemployed returned to roughly one-to-one
+* April openings were revised modestly lower, while hires and separations were revised higher
+
+The main improvement is persistence. April’s jump in vacancies was not immediately reversed, reducing the probability that it was entirely noise or a one-sector distortion.
+
+The limitation is conversion. Employers are advertising more positions, but hiring remains subdued and workers are not quitting at rates associated with a genuinely tight or accelerating labor market.
+
+The report therefore strengthens labor-demand resilience without resolving the low-hire / low-mobility structure.
+
+The correct signal is not labor reacceleration. It is a more stable labor-market freeze: vacancies have recovered, layoffs remain contained, but turnover remains weak.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+April JOLTS had produced a large vacancy rebound while hires and quits remained weak, establishing a split between improved labor-demand intentions and frozen transactions. May confirms that the vacancy increase was not immediately reversed, but still shows little conversion into hiring or mobility. The labor regime stabilizes above its winter trough while remaining low-hire and low-churn.
+
+4. HF Take — Strategist Layer
+
+JOLTS pushes against a clean labor-break or near-term easing narrative.
+
+For the Fed:
+
+* persistent vacancies and low layoffs reduce urgency to support employment
+* weak hires and quits prevent the release from becoming a clean overheating or wage-pressure signal
+* the report raises the threshold for dovish interpretation of softer sentiment surveys
+* payrolls, participation, hours and unemployment remain more important for determining whether labor supply-demand balance is genuinely tightening
+
+For front-end rates, the release is modestly hawkish relative to expectations because the vacancy level did not retrace. However, it does not independently justify aggressive hike repricing while churn indicators remain subdued.
+
+For USD, the signal is supportive through labor resilience, but less powerful than the headline beat suggests. A stronger strategic conclusion requires confirmation from ADP and the June employment report.
+
+UNITED STATES — Consumer Confidence (Jun)
+
+Release Date: 30 Jun 2026 | Local Time: 16:00
+Importance: ***
+
+1. Reuters Data
+
+Consumer Confidence: 91,2 | Prior: 90,6 | Reuters Poll: 94,8 | Surprise: -3,60
+
+2. Professional Market Commentary
+
+The professional tape framed the report as relief-driven stabilization rather than a broad household recovery.
+
+Confidence rose only because May was revised materially lower. The Present Situation Index fell to 116.4, while Expectations rose to 74.4 but remained below the Conference Board’s 80 recession-warning threshold.
+
+Falling oil prices and reduced geopolitical concern helped inflation expectations and forward income views, but perceptions of the current labor market deteriorated materially.
+
+The key tape detail was the labor-market differential. The share reporting jobs as “hard to get” rose to 22.5%, the highest since January 2021, while the plentiful-minus-hard-to-get differential declined to only +2.4%.
+
+Institutional coverage therefore focused less on the 0.6-point headline increase and more on the divergence between energy-related relief and worsening employment perceptions.
+
+3. Comment — Economist Layer
+
+The headline stabilization is compositionally fragile.
+
+Signal hierarchy:
+
+* the index rose only from a sharply downward-revised May base
+* the level remained among the weakest of the past year
+* current-condition assessments deteriorated
+* Expectations improved, but remained below 80 for a seventeenth consecutive month
+* household perceptions of labor availability weakened sharply
+* business and income expectations improved
+* inflation fears eased alongside lower oil prices
+* family current-financial assessments deteriorated for a third month
+* buying intentions improved only marginally
+
+The internal split is unusually clear. Consumers feel somewhat better about future inflation, business conditions and income because energy and geopolitical pressures have eased, but they simultaneously report that current employment conditions are becoming more difficult.
+
+This creates a direct contradiction with JOLTS. Employer-reported vacancies remain elevated, while household-reported job availability is deteriorating.
+
+The two surveys can coexist if vacancies are slow to convert into actual hiring, recruitment is concentrated, or job searches are taking longer.
+
+The release is therefore not evidence of an autonomous consumption recovery. It is an energy-relief bounce layered over weaker labor confidence and still-subdued overall sentiment.
+
+State transition: false dawn.
+
+Context from prior regional live file:
+
+May confidence had already shown weaker current business and labor perceptions beneath a modest expectations improvement. June preserves that structure: lower oil prices lift forward sentiment, but the labor differential and current-financial assessments deteriorate further. Consumer confidence remains inflation-sensitive and increasingly exposed to softer labor-market perceptions.
+
+4. HF Take — Strategist Layer
+
+Consumer Confidence is a dovish labor-quality cross-check, but not a standalone policy trigger.
+
+For the Fed, deterioration in the labor differential matters because it can lead payrolls, unemployment and consumption. However, simultaneous JOLTS strength prevents a clean conclusion that the labor market is already breaking.
+
+The strategic interpretation is conditional:
+
+* weak NFP, falling hours or higher unemployment would validate the confidence survey as an early warning
+* resilient payrolls would imply household perceptions are lagging or responding to low hiring mobility rather than broad employment losses
+* renewed oil-price pressure would likely reverse the expectations improvement and deepen the household real-income squeeze
+
+For rates, the release offsets part of the JOLTS hawkish impulse rather than dominating it.
+
+For USD, the combined signal is mixed: employer demand remains resilient, but household confidence in labor availability is deteriorating. The decisive verification point is the June employment report.
+
+WEDNESDAY 1 JUL 2026
+
+UNITED STATES — ADP National Employment (Jun)
+
+Release Date: 1 Jul 2026 | Local Time: 14:15
+Importance: ***
+
+1. Reuters Data
+
+ADP National Employment: 98k | Prior: 122k | Reuters Poll: 118k | Surprise: -20,0k
+
+2. Professional Market Commentary
+
+The professional tape framed the report as a further slowdown in hiring rather than the beginning of a broad layoff cycle.
+
+Private employers added 98k jobs, with 96k of the gain coming from services. Education and health services contributed 48k, almost half the total, while leisure and hospitality added only 2k for a sixth consecutive month of weak hiring.
+
+Small establishments generated 53k jobs, providing some breadth by company size despite narrow sector concentration.
+
+ADP characterized the overall result as a slowdown in job creation caused by a mixture of weaker demand and labor-supply constraints.
+
+Pay growth for job-stayers remained at 4.4% y/y, while pay growth for job-changers accelerated to 6.6%. The wage detail therefore remained firmer than the employment headline.
+
+3. Comment — Economist Layer
+
+The downside surprise strengthens the hiring-side deterioration signal, but composition and conflicting private indicators limit confidence in the precise pace.
+
+Signal hierarchy:
+
+* employment growth slowed from 122k to 98k
+* education and health accounted for almost half of total hiring
+* goods-producing industries added only 2k
+* construction and professional/business services each added only 2k
+* leisure and hospitality remained unusually weak
+* small establishments continued to hire
+* job-stayer wage growth remained stable
+* stronger job-changer wage growth indicates that labor-market pricing power has not disappeared completely
+
+The central issue is concentration. A positive headline is being sustained increasingly by education and health, while more cyclically sensitive sectors are generating little employment.
+
+This is consistent with a labor market in which layoffs remain low but employers outside a narrow set of service industries are reluctant to expand headcount.
+
+The report sharpens the contradiction with JOLTS. The stock of vacancies remains elevated, but the flow from vacancies into hiring is weakening.
+
+This supports a low-fire, weak-hire regime rather than a renewed labor-demand expansion.
+
+Private-data dispersion remains unusually wide, so ADP should be treated as a directional hiring signal rather than a precise forecast of BLS private payrolls.
+
+State transition: deterioration on the hiring side.
+
+Context from prior regional live file:
+
+May ADP had shown a moderate 122k increase, stable wage growth and continued hiring concentration rather than a broad labor acceleration. June loses momentum and becomes still more dependent on education and health. The private-hiring trajectory is therefore shifting from stabilization toward gradual deterioration.
+
+4. HF Take — Strategist Layer
+
+The release increases downside risk around the official employment report but is not sufficient on its own to trigger a labor-break interpretation.
+
+For the Fed:
+
+* slower and more concentrated hiring adds weight to the softer Conference Board labor signal
+* low layoffs and elevated JOLTS vacancies still argue against an abrupt employment collapse
+* stable job-stayer pay and faster job-changer pay prevent a clean wage-disinflation conclusion
+* policy relevance depends on whether BLS payrolls, hours and unemployment confirm the hiring slowdown
+
+For rates, the print is modestly dovish relative to expectations, but the signal is weakened by ADP–BLS volatility and the firm wage detail.
+
+For USD, the release reduces the labor-resilience premium at the margin. A broader repricing requires confirmation from private payrolls, revisions, hours worked and the household survey.
+
+UNITED STATES — S&P Global Manufacturing PMI Final (Jun)
+
+Release Date: 1 Jul 2026 | Local Time: 15:45
+Importance: ****
+
+1. Reuters Data
+
+S&P Global Mfg PMI Final: 53,9 | Prior: 55,7
+
+2. Professional Market Commentary
+
+The professional tape focused on the sharp downgrade from the 55.7 flash estimate rather than the still-expansionary final level.
+
+The final PMI registered 53.9, down from May’s 55.1 final reading and representing the weakest improvement in operating conditions for three months.
+
+Manufacturing remained in expansion, but domestic orders slowed, exports remained weak and business confidence deteriorated.
+
+S&P Global’s own framing directly linked part of the recent output and order growth to the Middle East conflict, precautionary inventory building and orders placed ahead of expected price increases.
+
+Employment was cut sharply as manufacturers sought to offset higher energy and raw-material costs. The decline was the largest outside the pandemic since October 2009.
+
+3. Comment — Economist Layer
+
+The final report materially weakens the quality of the apparent manufacturing acceleration.
+
+Signal hierarchy:
+
+* the final PMI was revised down 1.8 points from the flash estimate
+* output and new orders continued to expand, but at slower rates
+* domestic orders remained the primary source of growth
+* export orders declined for a twelfth consecutive month
+* some customers ordered early to protect against price increases and supply disruption
+* firms used existing inventories to meet orders
+* manufacturing employment contracted at an exceptionally rapid pace
+* business optimism fell again
+* input-cost pressure remained elevated even as energy-related pressure began to moderate
+
+The headline-versus-composition divergence is substantial. A PMI of 53.9 normally indicates healthy manufacturing expansion, but employment, exports, confidence and the motivation behind new orders all weaken the organic-demand interpretation.
+
+The provider’s explicit reference to conflict-related inventory building is particularly important. It converts the prior front-loading hypothesis into source-attributed evidence: part of the manufacturing growth spurt reflects defensive ordering and supply insurance rather than a clean acceleration in final demand.
+
+The employment decline also indicates that firms are protecting margins by reducing labor costs while continuing to produce against an existing order pipeline.
+
+This is a late-cycle or shock-management configuration, not a conventional manufacturing boom.
+
+State transition: false dawn.
+
+Context from prior regional live file:
+
+May and the June flash had already shown strong manufacturing headlines supported by safety-stock building, precautionary orders and supply-chain protection. The final June revision validates that caution and adds a much sharper employment deterioration signal. Manufacturing activity remains expansionary, but its durability and employment quality have weakened materially.
+
+4. HF Take — Strategist Layer
+
+The release creates a mixed reaction-function signal.
+
+For growth, current manufacturing output remains positive and prevents a near-term goods-sector contraction call.
+
+For labor, the scale of factory job shedding is materially dovish if confirmed by official manufacturing payrolls and aggregate hours.
+
+For inflation, firms are still facing high input costs and attempting to preserve margins, so weaker employment does not automatically translate into immediate price relief.
+
+For rates, the report argues against extrapolating the flash PMI into a hawkish growth impulse. It instead supports a stagflationary interpretation: activity temporarily resilient, employment weak and costs still elevated.
+
+For USD, the print removes some of the growth premium attached to the flash release.
+
+The next verification tests are ISM composition, official manufacturing employment and whether orders remain firm after energy and shipping conditions normalize.
+
+UNITED STATES — Construction Spending (May)
+
+Release Date: 1 Jul 2026 | Local Time: 16:00
+Importance: **
+
+1. Reuters Data
+
+Construction Spending MM: 0,1% | Prior: 0,4% | Revised: 0,3% | Reuters Poll: 0,1% | Surprise: 0,00%
+
+2. Professional Market Commentary
+
+The professional tape treated the in-line headline as aggregate stability masking continued private nonresidential weakness.
+
+Total spending rose 0.1% m/m to a $2,210.2bn annualized rate, but remained 1.5% below its year-earlier level.
+
+Private construction was virtually unchanged, residential spending rose 0.3%, private nonresidential spending fell 0.3%, and public construction increased 0.5%.
+
+Institutional construction commentary emphasized the lack of broad private-sector momentum outside data centers and selected infrastructure categories.
+
+Private nonresidential spending remained materially lower than a year earlier, with the earlier manufacturing-construction boom continuing to unwind.
+
+3. Comment — Economist Layer
+
+The headline contains little positive macro information.
+
+Signal hierarchy:
+
+* the 0.1% monthly increase matched consensus
+* the Census confidence interval includes zero by a wide margin
+* total construction was down 1.5% y/y
+* spending during the first five months of the year was down 2.7%
+* private construction was essentially flat
+* residential spending provided a small positive contribution
+* private nonresidential construction continued to decline
+* public education and highway spending provided the main aggregate stabilization
+
+The composition remains weak. Public construction is cushioning the total, while private nonresidential activity continues to lose momentum and residential construction remains capped by mortgage rates and soft single-family demand.
+
+The data-center boom also creates a concentration problem. Strong investment in power and digital infrastructure can coexist with falling office, warehouse and manufacturing-related expenditure, making aggregate investment appear more resilient than the median construction sector.
+
+The 0.1% headline should therefore be treated as statistical stagnation rather than renewed fixed-investment growth.
+
+State transition: continuation of the downtrend.
+
+Context from prior regional live file:
+
+April construction spending had produced a temporary aggregate bounce, but the prior analysis already identified downward revisions, private nonresidential weakness and a rate-capped residential trend. May falls back toward stagnation and leaves public spending as the principal stabilizer. Construction remains constrained rather than recessionary, with private investment quality continuing to deteriorate.
+
+4. HF Take — Strategist Layer
+
+The release has low standalone market relevance but remains useful as hard-data confirmation of weak private investment breadth.
+
+For the Fed, the report shows restrictive financing conditions transmitting into construction without producing an abrupt aggregate collapse.
+
+For rates, weak private nonresidential spending and public-sector support are mildly negative for underlying private demand but not sufficient to generate material dovish repricing.
+
+For USD, the signal is neutral to marginally negative through domestic-investment quality.
+
+The key verification test is whether private nonresidential spending can turn positive once the manufacturing-project unwind and elevated borrowing-cost effects begin to fade.
+
+UNITED STATES — ISM Manufacturing PMI / Prices Paid (Jun)
+
+Release Date: 1 Jul 2026 | Local Time: 16:00
+Importance: ****
+
+1. Reuters Data
+
+ISM Manufacturing PMI: 53,3 | Prior: 54,0 | Reuters Poll: 54,0 | Surprise: -0,70
+
+ISM Mfg Prices Paid: 73,0 | Prior: 82,1 | Reuters Poll: 78,0 | Surprise: -5,00
+
+2. Professional Market Commentary
+
+The professional tape characterized the report as continued manufacturing expansion with a substantial but incomplete easing of the input-price shock.
+
+The headline remained above 50 for a sixth consecutive month. New Orders eased to 56.0, Production fell to 52.2, Employment improved to 49.7 but remained in contraction, and New Export Orders returned below 50.
+
+Customer inventories remained very low, while manufacturers’ own inventories moved into expansion.
+
+Prices Paid fell 9.1 points to 73.0, the largest monthly decline since July 2022, but remained consistent with broad raw-material inflation.
+
+Fifteen of eighteen industries continued to report higher input prices, with respondents citing petroleum products, metals, tariffs and the Middle East conflict.
+
+3. Comment — Economist Layer
+
+The release improves the inflation direction while leaving the price level and manufacturing-demand quality problematic.
+
+Activity hierarchy:
+
+* the headline declined modestly but remained clearly expansionary
+* New Orders at 56.0 continued to signal positive demand
+* Production slowed more visibly to 52.2
+* Backlogs remained marginally expansionary
+* Employment improved but remained below 50
+* exports returned to contraction
+* manufacturers’ inventories expanded for the first time in thirteen months
+* customer inventories remained unusually lean
+
+Inflation hierarchy:
+
+* Prices Paid fell by 9.1 points
+* the decline was substantially larger than expected
+* the index nevertheless remained at 73.0
+* raw-material prices increased for a twenty-first consecutive month
+* fifteen industries still reported rising costs
+* petroleum-related, metals and tariff effects remained active
+
+The input-price shock is deflating at the margin, not disappearing.
+
+The fall from 82.1 to 73.0 is meaningful for the inflation trajectory, but the remaining level is still incompatible with a clean upstream-disinflation regime.
+
+Low customer inventories create two possible interpretations. They may generate legitimate future restocking demand, but they may also reflect the same defensive ordering and inventory-management effects identified by S&P Global.
+
+The rise in manufacturers’ inventories alongside slowing production and exports makes the second interpretation increasingly relevant.
+
+The contrast with S&P Global is concentrated in employment. ISM employment improved toward 50, while S&P reported the sharpest non-pandemic job shedding since 2009.
+
+The combined signal is weaker than the ISM employment index alone, but not yet broad enough to establish a national factory-employment collapse.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+May ISM had shown the strongest manufacturing headline since 2022, New Orders at 56.8 and Prices Paid at 82.1, reinforcing the front-loaded and inflationary manufacturing regime. June retains expansion but slows activity and delivers the first material reversal in the cost shock. Manufacturing remains resilient, but the configuration is moving from accelerating stagflation toward conditional stabilization.
+
+4. HF Take — Strategist Layer
+
+The report is less hawkish than May but not dovish in absolute terms.
+
+For the Fed:
+
+* slower activity and the sharp Prices Paid decline reduce the risk of continued manufacturing-cost acceleration
+* Prices Paid at 73.0 remains too high to establish genuine supply-side normalization
+* employment below 50 and weaker exports add to downside growth and labor risks
+* positive New Orders and very low customer inventories keep near-term production support alive
+
+For front-end rates, the release should remove part of the May inflation premium but does not justify aggressive easing while price diffusion remains broad.
+
+For USD, the immediate signal is mixed: weaker inflation momentum is negative at the margin, but ongoing activity expansion and lean customer inventories prevent a clean growth downgrade.
+
+The key conditional branch is energy and shipping normalization. Continued improvement should push Prices Paid materially lower; renewed disruption would make the June decline temporary and restore the hawkish stagflation tail.
+
+THURSDAY 2 JUL 2026
+
+UNITED STATES — Employment Situation: Non-Farm Payrolls / Private Payrolls / Unemployment / Average Earnings / Workweek (Jun)
+
+Release Date: 2 Jul 2026 | Local Time: 14:30
+Importance: ****
+
+1. Reuters Data
+
+Non-Farm Payrolls: 57k | Prior: 172k | Revised: 129k | Reuters Poll: 110k | Surprise: -53,0k
+
+Private Payrolls: 49k | Prior: 120k | Revised: 97k | Reuters Poll: 110k | Surprise: -61,0k
+
+Unemployment Rate: 4,2% | Prior: 4,3% | Reuters Poll: 4,3% | Surprise: -0,10%
+
+Average Earnings MM: 0,3% | Prior: 0,3% | Reuters Poll: 0,3% | Surprise: 0,00%
+
+Average Earnings YY: 3,5% | Prior: 3,4% | Reuters Poll: 3,5% | Surprise: 0,00%
+
+Average Workweek Hrs: 34,3 | Prior: 34,3 | Reuters Poll: 34,3 | Surprise: 0,00
+
+2. Professional Market Commentary
+
+The professional tape treated the report as a clear hiring slowdown beneath a superficially stable unemployment rate.
+
+Payrolls increased by only 57k, private employment rose by 49k and the previous two months were revised down by a combined 74k.
+
+Employment gains were concentrated in professional and business services, social assistance and health care, while leisure and hospitality lost 61k jobs.
+
+The unemployment rate declined to 4.2%, but the labor-force participation rate fell by 0.3 percentage point to 61.5% and the employment-population ratio declined to 59.0%.
+
+The decline in unemployment therefore did not represent an improvement in labor-market demand.
+
+Institutional commentary characterized the report as weak enough to challenge the recent labor-resilience narrative, but not sufficiently weak to establish an immediate recession or force rapid Fed easing.
+
+Markets reduced expectations for a near-term rate increase, Treasury yields fell and the dollar weakened.
+
+3. Comment — Economist Layer
+
+This is a material deterioration in hiring flows, partly concealed by labor-force contraction.
+
+Signal hierarchy:
+
+* headline payrolls missed consensus by 53k
+* private payrolls missed by 61k
+* April and May were revised down by a combined 74k
+* the three-month payroll trajectory weakened materially
+* household employment fell sharply
+* participation declined to its lowest level since March 2021
+* the unemployment-rate decline was driven by labor-force exit rather than stronger employment
+* long-term unemployment remained at 1.9mn and was 286k higher than a year earlier
+* average hourly earnings remained firm at 0.3% m/m and 3.5% y/y
+* the aggregate workweek was unchanged, but the production and nonsupervisory workweek declined
+* leisure and hospitality weakness may contain seasonal noise, but breadth elsewhere was also limited
+
+The composition rejects a benign reading of the lower unemployment rate.
+
+The household survey, participation rate, payroll revisions and establishment headline all point in the same direction: firms are adding fewer workers, while labor supply is contracting.
+
+The report also resolves much of the earlier ADP–JOLTS tension. ADP’s weak and concentrated hiring signal is confirmed, while JOLTS vacancies increasingly look like a stock of intended or unconverted demand rather than evidence of strong realized hiring.
+
+Wages are the principal offset. Earnings growth did not decelerate, suggesting weaker labor quantity is not yet producing clean wage disinflation.
+
+This keeps the report from becoming an unambiguously dovish reaction-function release.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+
+May payrolls had indicated genuine labor improvement, with a 172k headline, stable participation and large upward revisions. June reverses that improvement through a large hiring miss, downward revisions and a participation-led decline in unemployment. The labor regime moves from low-hire stabilization into clearer hiring-flow deterioration, while layoffs and wage growth remain comparatively resilient.
+
+4. HF Take — Strategist Layer
+
+The report materially reduces the case for near-term Fed tightening, but does not yet create a clean easing signal.
+
+For the Fed:
+
+* weak payrolls and negative revisions reduce confidence in renewed labor acceleration
+* falling participation weakens the informational content of the lower unemployment rate
+* stable wage growth and a 4.2% unemployment rate prevent an immediate labor-emergency interpretation
+* low claims indicate deterioration remains hiring-led rather than firing-led
+* elevated inflation still constrains the ability to respond pre-emptively to softer employment
+
+For front-end rates, the report should remove part of the near-term hike premium. A sustained dovish repricing requires another weak payroll print, rising claims or material cooling in wages and inflation.
+
+For USD, the immediate signal is negative through reduced relative-rate support. The medium-term implication remains conditional on whether weak hiring evolves into higher unemployment or is offset by structurally slower labor-force growth.
+
+The next verification tests are July payrolls, participation, aggregate hours, jobless claims and the preliminary benchmark revision.
+
+UNITED STATES — Initial / Continuing Jobless Claims (w/e 22 Jun / 15 Jun)
+
+Release Date: 2 Jul 2026 | Local Time: 14:30
+Importance: ***
+
+1. Reuters Data
+
+Initial Jobless Claims: 217k | Prior: 216k | Reuters Poll: 220k | Surprise: -3,0k
+
+Continuing Jobless Claims: 1,806M | Prior: 1,812M | Reuters Poll: 1,810M | Surprise: -0,0040M
+
+2. Professional Market Commentary
+
+The claims tape remained consistent with low layoffs despite deterioration in payroll hiring.
+
+Initial claims stayed in the low-200k range and were slightly better than consensus. Continuing claims remained above 1.8mn, indicating that displaced workers were still taking longer to return to employment.
+
+The following DOL publication confirmed that the initial-claims level for this week was subsequently revised to 217k and the continuing-claims level to 1.806mn.
+
+Professional coverage continued to describe the labor market as slow-hire and slow-fire: hiring is weakening, but the separation channel has not yet moved into a broad layoff cycle.
+
+3. Comment — Economist Layer
+
+Claims confirm that labor deterioration remains concentrated in hiring and re-employment rather than firing.
+
+Signal hierarchy:
+
+* initial claims remained historically low
+* the weekly level was slightly better than consensus
+* the initial-claims trend does not show broad layoff acceleration
+* continuing claims remain above 1.8mn
+* the continuing-claims trend implies slower reabsorption
+* the release does not validate the severe employment deterioration suggested by some manufacturing surveys
+* it does validate the low-hire component of the weaker payroll and ADP reports
+
+The distinction between stocks and flows is critical.
+
+Payroll growth can weaken sharply without claims rising if employers reduce recruitment, leave vacancies unfilled or rely on attrition rather than dismissals.
+
+The report therefore does not contradict NFP. It identifies the mechanism of the slowdown: fewer additions and slower re-employment, not widespread job destruction.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+The preceding claims release had shown initial claims at 215k alongside continuing claims at 1.821mn, preserving the low-fire / slower-reabsorption regime. The latest release leaves both dimensions broadly unchanged. Claims remain the main counterweight to an outright labor-break interpretation, but no longer offset the increasingly broad evidence of weak hiring.
+
+4. HF Take — Strategist Layer
+
+The release limits the dovish tail generated by the payroll report.
+
+For the Fed, low initial claims indicate employment deterioration has not entered a self-reinforcing firing cycle. The committee can remain patient while assessing whether hiring weakness broadens into unemployment.
+
+For rates, claims prevent the NFP miss from becoming an immediate recession trade. The front end can remove near-term hike risk without pricing rapid easing solely from the employment report.
+
+For USD, the signal is marginally supportive relative to the weak NFP headline, but insufficient to restore the previous labor-resilience premium.
+
+The key deterioration thresholds remain a sustained move in initial claims above roughly 235k or continuing claims above 1.85mn.
+
+UNITED STATES — Factory Orders (May)
+
+Release Date: 2 Jul 2026 | Local Time: 16:00
+Importance: ***
+
+1. Reuters Data
+
+Factory Orders MM: -1,3% | Prior: 4,8% | Revised: 5,3% | Reuters Poll: -1,8% | Surprise: 0,50%
+
+2. Professional Market Commentary
+
+The professional tape looked through the negative headline because the decline was driven by transportation equipment and reversal of April’s aircraft-order surge.
+
+Total factory orders declined 1.3% after four consecutive increases, but the fall was smaller than expected.
+
+Durable-goods orders declined 4.5%, with transportation equipment down 14.0%, while orders excluding transportation increased 1.3%.
+
+Shipments increased 1.6%, unfilled orders rose 0.6% and inventories increased 0.2%.
+
+Core capital-goods orders excluding aircraft rebounded and remained strongly higher than a year earlier, preserving the business-equipment investment signal beneath aircraft volatility.
+
+3. Comment — Economist Layer
+
+The negative headline is noise-heavy, while the underlying capital-expenditure signal improved materially.
+
+Signal hierarchy:
+
+* factory orders declined 1.3%
+* April was revised up from 4.8% to 5.3%
+* nondefense aircraft orders reversed part of April’s exceptional surge
+* orders excluding transportation increased
+* nondefense capital goods excluding aircraft rose 1.6%
+* core capital-goods orders were 10.5% higher than a year earlier
+* shipments rose strongly
+* unfilled orders increased for a twenty-second month out of twenty-three
+* inventories continued to rise
+* computer, electronic and electrical-equipment demand remained positive
+
+The aircraft reversal explains more of the headline decline than any broad weakness in final capital demand.
+
+This is the mirror image of April: the prior headline boom overstated underlying strength, while May’s headline contraction understates it.
+
+The most important transition is in core capex. April’s full report had shown the clean business-equipment proxy contracting, creating tension with strong manufacturing surveys.
+
+May’s 1.6% rebound and 10.5% annual growth resolve part of that tension and suggest the investment cycle remains intact.
+
+However, concentration risk remains. AI, data-center, power and selected technology investment can support aggregate core capex while traditional manufacturing, commercial-property and consumer-facing investment remain weak.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+April factory orders were dominated by aircraft while core capex declined, leaving manufacturing strength compositionally weak. May reverses both distortions: aircraft orders fall sharply, but the clean core-capex measure rebounds. The business-investment pipeline therefore looks more durable than the headline contraction suggests, although it remains concentrated in a narrow set of capital-intensive sectors.
+
+4. HF Take — Strategist Layer
+
+The release provides a growth offset to the weak employment report.
+
+For the Fed, resilient core capex reduces the probability that softer hiring already reflects an economy-wide demand contraction. It supports a configuration of narrower, investment-led growth alongside weaker household and labor-market breadth.
+
+For rates, the report limits the duration-positive interpretation of NFP but has less reaction-function weight than labor and inflation data.
+
+For USD, the positive core-capex signal preserves part of the U.S. relative-investment advantage, particularly through technology and AI infrastructure. It does not fully offset the loss of front-end rate support caused by weaker payrolls.
+
+The next verification test is whether core capex remains positive for a second month and translates into shipments rather than continued backlog accumulation.
+
+MONDAY 6 JUL 2026
+
+UNITED STATES — S&P Global Composite / Services PMI Final (Jun)
+
+Release Date: 6 Jul 2026 | Local Time: 15:45
+Importance: ***
+
+1. Reuters Data
+
+S&P Global Comp PMI Final: 51,9 | Prior: 52,2
+
+S&P Global Svcs PMI Final: 51,2 | Prior: 51,3
+
+2. Professional Market Commentary
+
+The professional tape treated the final release as confirmation of modest service-sector growth rather than a meaningful reacceleration.
+
+Services activity rose at its fastest pace in four months and new business strengthened, supported by new project wins and demand related to the FIFA World Cup.
+
+However, the final services and composite readings were both revised marginally below their flash estimates, export demand declined again and the rate of expansion remained below its post-pandemic norm.
+
+S&P Global’s framing remained cautious: activity had improved from the immediate post-war period, but growth and business expectations remained weaker than before the Middle East shock.
+
+The survey was consistent with only modest underlying economic expansion.
+
+3. Comment — Economist Layer
+
+The release confirms a services growth floor, but not a strong domestic-demand regime.
+
+Signal hierarchy:
+
+* services activity improved from 50.7 in May to 51.2
+* the final reading was revised slightly below the 51.3 flash estimate
+* the composite was revised from 52.2 to 51.9
+* new orders grew at their fastest pace since February
+* domestic demand remained the primary support
+* World Cup-related activity provided a temporary demand boost
+* export orders declined for a seventh consecutive month
+* business expectations improved but remained subdued
+* service-sector employment remained weak
+* the survey was consistent with roughly 1.2% annualized GDP growth
+
+The improvement is real but narrow. Demand is being supported by domestic projects and event-related spending, while external demand, employment and confidence remain weak.
+
+The World Cup contribution also raises a persistence question. Activity generated by tourism, accommodation and event services supports current output, but does not necessarily indicate a durable acceleration in household or corporate demand.
+
+The composite’s downward revision reinforces the broader pattern already visible in manufacturing: flash surveys overstated final June activity.
+
+This is not a contraction signal, but it lowers confidence in a clean Q2 growth reacceleration.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+May S&P services had remained close to stall speed at 50.7, with weak employment and a large activity gap versus ISM. June improves the services level and order flow, but the final downward revision, weak exports and temporary event support leave the expansion fragile. The S&P services regime moves from deterioration to modest stabilization, not acceleration.
+
+4. HF Take — Strategist Layer
+
+The release is mildly growth-positive but does not materially reverse the dovish labor impulse from NFP.
+
+For the Fed:
+
+* services remain in expansion, reducing immediate recession risk
+* weak employment and modest aggregate growth remain consistent with slower labor demand
+* World Cup-related demand should not be extrapolated mechanically
+* subdued confidence and falling exports limit durability of the activity signal
+* the release does not contain enough strength to restore a near-term tightening bias
+
+For rates, the report limits the downside-growth tail but does not challenge the post-payroll reduction in hike expectations.
+
+For USD, the activity floor is marginally supportive, but the downward revision and weak employment prevent a meaningful restoration of the U.S. growth premium.
+
+The key verification test is whether July services orders remain positive after temporary event effects fade.
+
+UNITED STATES — ISM Services PMI (Jun)
+
+Release Date: 6 Jul 2026 | Local Time: 16:00
+Importance: ****
+
+1. Reuters Data
+
+ISM N-Mfg PMI: 54,0 | Prior: 54,5 | Reuters Poll: 54,0 | Surprise: 0,00
+
+2. Professional Market Commentary
+
+The professional tape framed the release as continued trend-plus services expansion, accompanied by slower activity and orders, stronger employment and easing—but still elevated—price pressure.
+
+The headline declined modestly to 54.0. Business Activity fell to 55.4 and New Orders to 55.1, while Employment rose 3.3 points to 51.2, returning to expansion for the first time in four months.
+
+Backlogs increased and all four components of the headline index remained above their twelve-month averages.
+
+Prices Paid declined to 67.7, the lowest since February, but remained above 60 for a nineteenth consecutive month.
+
+ISM also reported that all commodities listed as being in short supply were connected to data-center construction, highlighting a concentrated AI and infrastructure bottleneck beneath the broader services-price signal.
+
+3. Comment — Economist Layer
+
+The report preserves services resilience while showing partial normalization from May’s front-loaded, high-inventory configuration.
+
+Activity hierarchy:
+
+* Services PMI remained above its twelve-month average
+* Business Activity and New Orders declined by more than two points
+* both remained clearly expansionary
+* Employment returned above 50
+* Backlogs accelerated to 54.9
+* exports remained marginally expansionary
+* imports returned to contraction
+* inventories fell sharply from May’s sixteen-year high
+* fourteen of eighteen industries reported growth
+
+Inflation hierarchy:
+
+* Prices Paid fell 3.6 points
+* the index moved below 70 for the first time since February
+* the level remained historically elevated at 67.7
+* petroleum-related costs continued to move in both directions
+* tariff effects remained visible
+* copper, aluminum, memory components, transformers and data-center equipment remained supply-constrained
+
+The inventory decline is an important confirmation that the advance-ordering impulse is fading.
+
+May’s exceptionally high inventory index reflected precautionary buying and supply insurance; June’s normalization suggests firms are now working through those buffers.
+
+The rise in backlogs indicates demand has not disappeared as inventories normalize. However, the simultaneous slowdown in Business Activity and New Orders shows the services sector is losing momentum from a strong level rather than accelerating.
+
+Employment is the key counter-signal to the weak payroll report. ISM indicates a return to services hiring, while S&P, ADP and BLS point to weaker labor demand.
+
+The correct combined signal is not to reject NFP deterioration, but to recognize that service-sector labor conditions remain heterogeneous and may be stronger than goods-sector and hospitality employment.
+
+Prices provide genuine directional relief, but not regime exit. A reading of 67.7 remains too high to support a clean services-disinflation conclusion.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+May ISM services had accelerated to 54.5, with strong activity, strong orders, contracting employment and Prices Paid at 71.3. June retains above-trend expansion, reverses the employment contraction and reduces the price impulse, while the sharp inventory drawdown confirms that part of May’s strength reflected front-loading. The services regime shifts from escalating stagflation toward conditional stabilization.
+
+4. HF Take — Strategist Layer
+
+ISM Services is the strongest growth counterweight to the weak employment report, but it does not restore a clean hawkish policy signal.
+
+For the Fed:
+
+* services demand remains too resilient to justify a rapid easing response
+* the employment rebound reduces the risk of an immediate broad service-sector labor break
+* the decline in Prices Paid lowers the marginal inflation impulse
+* the absolute price level remains high enough to preserve the inflation constraint
+* declining inventories and imports suggest earlier precautionary purchasing is unwinding
+* strong backlogs keep near-term activity supported
+
+For front-end rates, the report should limit aggressive dovish repricing after NFP, but weaker orders and lower Prices Paid are not sufficient to revive near-term hike expectations.
+
+For USD, services resilience is supportive relative to the weak payroll headline. The effect is capped by the continued S&P–ISM measurement gap and by prices easing rather than accelerating.
+
+The critical conditional branch remains energy and shipping normalization. A sustained Prices Paid move below 60 would support genuine services disinflation; renewed supply disruption would risk reversing June’s improvement.
+
+TUESDAY 7 JUL 2026
+
+UNITED STATES — International Trade (May)
+
+Release Date: 7 Jul 2026 | Local Time: 14:30
+Importance: ***
+
+1. Reuters Data
+
+International Trade $: -77,6B | Prior: -55,9B | Revised: -54,6B | Reuters Poll: -78,5B | Surprise: 0,90B
+
+2. Professional Market Commentary
+
+The professional tape focused on the sharp widening in the deficit and its likely drag on second-quarter GDP, while noting that the result was close to consensus.
+
+The deficit widened by $23.0bn to $77.6bn as exports declined 3.2% and imports increased 3.3%.
+
+The goods deficit rose to $106.5bn, while the services surplus increased modestly to $28.9bn.
+
+The composition was heavily affected by nonmonetary gold, petroleum flows and capital-goods imports. Consequently, the headline deterioration contains more nominal and category-specific volatility than a simple domestic-demand-versus-external-demand interpretation would suggest.
+
+3. Comment — Economist Layer
+
+The release reverses April’s unusually narrow deficit and restores a more structurally negative net-trade configuration.
+
+Signal hierarchy:
+
+* the deficit widened by 42.2%
+* exports fell by $10.5bn
+* imports increased by $12.3bn
+* the real goods deficit increased by 18.7%
+* goods exports declined sharply
+* goods imports increased across consumer goods, autos, petroleum and capital goods
+* the services surplus improved modestly
+* the three-month average deficit widened
+* the year-to-date deficit remained substantially narrower than in 2025 because of last year’s tariff-front-running base effects
+
+The export decline was distorted by a $6.2bn fall in nonmonetary gold shipments. BEA does not feed these gross gold movements directly into GDP in the same way as ordinary goods trade, limiting the national-accounts implication of the headline export fall.
+
+Nevertheless, deterioration was not exclusively gold-related. Natural-gas, computer, computer-accessory and pharmaceutical exports declined, while imports increased across consumer goods, passenger vehicles, petroleum products, computer accessories and semiconductors.
+
+The import mix contains both demand and investment signals. Higher consumer and auto imports point to firmer domestic absorption, while semiconductor and computer-accessory imports are consistent with the continuing AI and data-center investment cycle.
+
+Energy flows remain unusually difficult to interpret. Crude-oil exports increased while petroleum imports also rose, reflecting changes in price, refinery demand, sourcing and product mix rather than a simple directional energy-demand signal.
+
+For GDP tracking, the real-goods deficit is the most relevant component. Its widening suggests a negative net-export contribution to second-quarter growth, partly reversing support provided by April’s narrow deficit.
+
+State transition: reversal.
+
+Context from prior regional live file:
+
+April’s deficit had narrowed to $55.9bn as exports strengthened and imports rose more slowly, providing a modest positive signal for Q2 GDP arithmetic. May reverses that improvement through weaker exports and stronger imports, with the real-goods deficit widening materially. Trade returns to its structural-deficit trajectory, although gold and energy flows amplify the monthly movement.
+
+4. HF Take — Strategist Layer
+
+The release is primarily a GDP-tracking input rather than a direct Fed reaction-function event.
+
+For the Fed:
+
+* the wider real deficit weakens Q2 growth arithmetic
+* stronger imports also indicate domestic demand has not collapsed
+* AI- and capital-goods-related imports support the narrow investment-growth floor
+* category distortions reduce reliability of the headline as a broad demand signal
+* the release does not directly resolve the labor-versus-inflation trade-off
+
+For rates, the net-export drag is marginally duration-positive, but the effect is limited by resilient import demand and strong services surveys.
+
+For USD, the wider deficit is mechanically negative through growth and external-balance channels. However, strong capital-goods imports and the absence of a demand-collapse signal limit the strategic bearish implication.
+
+The next verification test is the advance Q2 GDP contribution from net exports and whether June trade reverses gold and petroleum distortions.
+
+WEDNESDAY 8 JUL 2026
+
+UNITED STATES — Wholesale Inventories (May)
+
+Release Date: 8 Jul 2026 | Local Time: 16:00
+Importance: **
+
+1. Reuters Data
+
+Wholesale Invt(y), R MM: 0,1% | Prior: 0,3% | Reuters Poll: 0,3% | Surprise: -0,20%
+
+2. Professional Market Commentary
+
+The professional tape treated the downward revision as a reduction in expected inventory support for second-quarter growth rather than evidence of outright destocking.
+
+Wholesale inventories rose only 0.1% m/m to $941.8bn, revised down from the 0.3% advance estimate.
+
+Sales increased by 3.4% m/m and 18.1% y/y, pushing the inventory-to-sales ratio down to 1.15 from 1.19 in April and 1.31 one year earlier.
+
+The Census confidence interval around the monthly inventory change included zero.
+
+The tape therefore split between weaker current inventory accumulation and a potential future restocking requirement.
+
+Extremely lean stocks relative to nominal sales could support later production, but the May release itself provides less direct Q2 inventory contribution than the advance estimate suggested.
+
+3. Comment — Economist Layer
+
+The central signal is that sales are running materially faster than stock accumulation.
+
+Signal hierarchy:
+
+* inventories rose only 0.1% and were revised down from the advance estimate
+* the monthly change was not statistically distinguishable from zero
+* inventory growth slowed for a third consecutive month
+* wholesale sales accelerated sharply
+* the inventory-to-sales ratio fell to its lowest level since 2012
+* durable and nondurable inventories both increased only marginally
+* computer-equipment inventories rose strongly
+* petroleum inventories fell sharply
+* nominal sales strength may be partly flattered by energy and other price effects
+
+The low inventory-to-sales ratio is not automatically a negative demand signal. It can indicate strong final sales and create a future need to rebuild stocks.
+
+However, that potential restocking cycle has not yet begun in the hard inventory data.
+
+This also modifies the earlier front-loading narrative. March and April showed firms building stocks against supply, freight and price risks.
+
+May suggests subsequent sales and withdrawals are now running faster than replenishment, reducing the direct inventory contribution to Q2 GDP.
+
+The computer-equipment increase remains consistent with concentrated AI and data-center demand. By contrast, the petroleum drawdown, alongside volatile trade and energy flows, indicates the aggregate ratio is being influenced by sector-specific shock management rather than a uniform demand cycle.
+
+State transition: deterioration in inventory support.
+
+Context from prior regional live file:
+
+April wholesale inventories rose 0.6% while sales increased 2.0%, extending precautionary stock-building and lowering the inventory-to-sales ratio to 1.19. May slows the inventory build to 0.1% while sales accelerate, pushing the ratio down to 1.15. The inventory channel is no longer providing the same near-term GDP support, although lean stocks preserve later restocking potential.
+
+4. HF Take — Strategist Layer
+
+The release is mildly negative for Q2 GDP tracking but has limited direct Fed relevance.
+
+For the Fed:
+
+* weaker inventory accumulation reduces near-term growth arithmetic
+* strong nominal sales argue against an abrupt demand collapse
+* the exceptionally low inventory-to-sales ratio preserves a possible future restocking impulse
+* price and energy distortions reduce confidence in reading sales as real-volume strength
+* concentrated computer-equipment accumulation remains consistent with narrow AI-led investment resilience
+
+For rates, the release is marginally duration-positive through weaker inventory contribution, but too low-tier to drive policy repricing.
+
+For USD, the signal is modestly negative through GDP arithmetic, partially offset by the possibility that lean inventories support later production.
+
+The next verification test is whether June inventories accelerate materially or wholesalers continue meeting sales through stock drawdowns.
+
+UNITED STATES — Overall Comprehensive Risk (Q3)
+
+Release Date: 8 Jul 2026 | Local Time: 19:00
+Importance: *
+
+1. Reuters Data
+
+Overall Comprehensive Risk: 7,88 | Prior: 7,88 | Revised: 7,87
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The series is distributed through proprietary Reuters/LSEG channels, and no public release containing the Q3 methodology, component scores or interpretation of the 7.88 level could be verified.
+
+LSEG’s public country-risk materials confirm that broader products combine multiple political, economic, regulatory and security inputs, but do not provide a public decomposition of this specific indicator.
+
+3. Comment — Economist Layer
+
+The only defensible inference is mechanical.
+
+The score was unchanged from the initially reported prior-quarter value and increased by 0.01 relative to the revised value.
+
+Without a verified scale direction, historical distribution or component breakdown, the movement cannot be classified as a meaningful improvement or deterioration.
+
+The indicator should remain outside the macro-regime core and should not influence the dashboard, policy mapping or market interpretation.
+
+State transition: no material change.
+
+Context from prior regional live file:
+
+The Q2 score was 7.90 and was also assessed as essentially unchanged. The Q3 reading of 7.88 remains within the same narrow quarterly range. The series therefore identifies no material change but remains unusable for deeper macro interpretation.
+
+4. HF Take — Strategist Layer
+
+No actionable rates, FX or Fed signal should be derived from this release.
+
+The series should remain tracker-only unless a source document becomes available that explains:
+
+* whether a higher score indicates more or less risk
+* the relative weights of economic, political and security components
+* the historical volatility of the index
+* whether revisions reflect new information or methodology changes
+
+THURSDAY 9 JUL 2026
+
+UNITED STATES — Initial / Continuing Jobless Claims (w/e 29 Jun / 22 Jun)
+
+Release Date: 9 Jul 2026 | Local Time: 14:30
+Importance: ***
+
+1. Reuters Data
+
+Initial Jobless Claims: 215k | Prior: 217k | Reuters Poll: 218k | Surprise: -3,0k
+
+Continuing Jobless Claims: 1,814M | Prior: 1,806M | Reuters Poll: 1,815M | Surprise: -0,0010M
+
+2. Professional Market Commentary
+
+The professional tape continued to characterize the labor market as low-fire but weak-hire.
+
+Initial claims declined to 215k and remained below consensus, while the four-week average fell to 218.75k.
+
+Continuing claims increased to 1.814mn, their highest level since late March, and the four-week average rose to 1.808mn.
+
+The insured unemployment rate remained at 1.2%.
+
+The combination indicates employers are not broadly accelerating dismissals, but workers already unemployed are taking longer to find new positions.
+
+3. Comment — Economist Layer
+
+The release confirms labor adjustment is occurring through weaker hiring and slower re-employment rather than a firing cycle.
+
+Signal hierarchy:
+
+* initial claims declined and remained historically contained
+* the four-week initial-claims average also fell
+* continuing claims increased for the latest reported week
+* the continuing-claims average continued to drift higher
+* the insured unemployment rate remained unchanged
+* the report does not validate an economy-wide layoff shock
+* it does validate re-employment weakness visible in payrolls, ADP and household labor perceptions
+
+The initial-versus-continuing divergence is now persistent enough to define the labor regime.
+
+Employers are retaining existing staff but have reduced recruitment and replacement hiring. That produces weak payroll flows and longer unemployment duration without generating a sharp increase in first-time claims.
+
+This explains why the weak employment report can coexist with apparently benign layoffs.
+
+The adjustment mechanism is hiring freezes, attrition and slower vacancy conversion rather than widespread redundancies.
+
+The low initial-claims level remains the principal argument against an imminent recession call. The rise in continuing claims is the slow-burn risk because it indicates declining labor-market absorption.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+The previous claims release showed initial claims at 217k and continuing claims at 1.806mn, already indicating low firing alongside slower re-employment. Initial claims now edge lower while continuing claims rise to 1.814mn. The low-fire / weak-hire regime therefore remains intact, with deterioration concentrated in job finding rather than job loss.
+
+4. HF Take — Strategist Layer
+
+Claims limit the extent of dovish labor repricing generated by the weak payroll report.
+
+For the Fed:
+
+* low initial claims reduce urgency for an employment-support response
+* higher continuing claims confirm hiring demand has weakened
+* the data support removing near-term hike risk without establishing a rapid-cut case
+* a broader policy shift requires layoffs to rise, unemployment to increase through employment losses, or wage growth to cool materially
+
+For front-end rates, the release preserves a patient Fed reaction function: less tightening pressure, but no labor emergency.
+
+For USD, contained initial claims are mildly supportive relative to the weak NFP headline, although the continuing-claims trend prevents a full restoration of the labor-resilience premium.
+
+The principal deterioration thresholds remain initial claims above approximately 235k or continuing claims above 1.85mn for more than one week.
+
+UNITED STATES — Existing Home Sales (Jun)
+
+Release Date: 9 Jul 2026 | Local Time: 16:00
+Importance: ***
+
+1. Reuters Data
+
+Existing Home Sales: 4,09M | Prior: 4,17M | Revised: 4,19M | Reuters Poll: 4,20M | Surprise: -0,110M
+
+Existing Home Sales % Chg: -2,4% | Prior: 3,2% | Revised: 3,7%
+
+2. Professional Market Commentary
+
+The professional tape framed the release as a continuation of the frozen-volume, record-price housing regime.
+
+Sales declined 2.4% m/m to a 4.09mn annualized pace, reversing part of May’s increase and missing consensus.
+
+Sales remained 2.8% above their year-earlier level, but the national median price reached a record $440,600 and increased 1.8% y/y for a thirty-sixth consecutive annual gain.
+
+Inventory declined 0.6% m/m to 1.56mn units but remained 1.3% above the previous year.
+
+Months’ supply increased to 4.6, while the average thirty-year mortgage rate rose to 6.49% from 6.44% in May.
+
+NAR emphasized that small mortgage-rate changes continued to produce substantial monthly volatility in buyer activity.
+
+3. Comment — Economist Layer
+
+The May rebound failed its first durability test.
+
+Signal hierarchy:
+
+* sales fell below consensus
+* May was revised higher, making the June reversal larger
+* activity remained trapped close to the 4mn annualized level
+* three of four regions recorded monthly sales declines
+* transactions remained modestly higher than one year earlier
+* the median price reached a record high
+* inventory stopped expanding on the month
+* months’ supply increased only because sales weakened
+* mortgage rates remained close to 6.5%
+* distressed sales remained negligible
+
+The defining feature is price-quantity divergence. The market is clearing through persistently low transaction volumes rather than broad price adjustment.
+
+There is no distress-driven supply release comparable with the post-2008 cycle.
+
+Owners with low existing mortgage rates remain reluctant to sell, while new buyers remain constrained by financing costs and record nominal prices.
+
+Limited supply supports prices even though affordability suppresses turnover.
+
+Affordability improved modestly from a year earlier because wages rose faster than prices and mortgage rates were below their 2025 level. That improvement remains insufficient to generate a sustained transaction recovery.
+
+June also validates the caveat attached to May’s stronger report. The May increase reflected contracts agreed before the full higher-rate window reached closings.
+
+Once mortgage rates moved back toward 6.5%, sales returned to the established range.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+May sales rose to a revised 4.19mn pace and were treated as a possible rate-sensitive false dawn because closings predated the latest increase in mortgage costs. June falls back to 4.09mn while prices reach a new record and inventory stalls. Housing therefore remains trapped in a low-volume, price-supported and affordability-constrained equilibrium.
+
+4. HF Take — Strategist Layer
+
+The release is mildly growth-negative but not cleanly disinflationary.
+
+For the Fed:
+
+* weak transaction volumes confirm restrictive monetary transmission
+* continued price appreciation limits the shelter and household-wealth disinflation channel
+* negligible distressed sales reduce the probability of a rapid housing-price correction
+* weak turnover affects commissions, renovations, furnishings and related consumption
+* the report does not imply systemic housing stress
+
+For rates, the release supports the view that current mortgage costs are suppressing activity, but sticky prices prevent a forceful dovish interpretation.
+
+For USD, the signal is modestly negative through housing activity and domestic breadth, though not sufficient to imply a broad U.S. growth break.
+
+A durable housing improvement requires sales to move above the 3.9–4.2mn range while inventory expands and price growth remains contained.
+
+A break below 3.9mn would indicate more serious transmission from high mortgage rates.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The Fed tape materially tightens the week’s policy interpretation. The weak June employment report reduced the probability of an immediate hike, but Waller’s hawkish migration and the June FOMC minutes confirm that the committee’s center of gravity has moved toward inflation control. The relevant reaction function is no longer whether the Fed might hike, but whether core inflation remains firm enough to overcome the new labor-market constraint. Warsh continues to avoid forward guidance, leaving July genuinely live but making September the more natural venue for a data-confirmed hike.
+
+Kevin Warsh — 1 Jul 2026
+Importance: ****
+
+Key policy signal:
+In his first substantive public policy remarks as Chair, Warsh maintained that the price level remained unacceptably high and that restoring price stability was the Fed’s primary objective. He acknowledged greater openness to AI and productivity as potential disinflationary forces, but did not use that argument to justify easier policy and declined to hint at the July decision.
+
+Representative quote:
+“Prices are too high.”
+
+Incremental reaction function:
+Warsh preserved a hawkish institutional baseline while withholding meeting-specific guidance. The Chair is not actively leading the committee toward easing despite the payroll slowdown. His refusal to pre-signal materially increases event risk around CPI, testimony and the July meeting because a hike or hawkish hold could arrive with limited preparatory communication.
+
+Christopher Waller — 6 Jul 2026
+Importance: ****
+
+Key policy signal:
+Waller stated that the balance of risks had shifted decisively away from labor-market weakness and toward inflation. The governor previously viewed as the Board’s swing dove now considers high inflation the chief policy risk and regards the labor market as stabilizing.
+
+Representative quote:
+“Risks have completely flipped around.”
+
+Incremental reaction function:
+The move removes the most credible Board-level source of resistance to a 2026 hike. A rate increase no longer requires only the established hawk bloc; it can command support from a pivotal governor if core inflation fails to decline. Waller did not endorse a specific meeting move, leaving timing conditional on CPI and subsequent labor data, but July and September are now committee-plausible rather than tail scenarios.
+
+June FOMC Minutes — 8 Jul 2026
+Importance: ****
+
+Key policy signal:
+The minutes showed a genuinely divided committee. A few participants saw a case for increasing the policy rate in June, inflation risks remained tilted to the upside and concern about labor-market downside risks had diminished modestly. At the same time, many participants expected the year-end rate to be at or slightly below the current range, while many others expected it to be above.
+
+Representative quote:
+“A few participants saw a case for increasing the target range.”
+
+Incremental reaction function:
+The minutes confirm a hawkish tilt without establishing a tightening consensus. The June dot implying a higher year-end rate represents a majority view among submitters rather than a unified committee commitment. Policy remains meeting-by-meeting, with core inflation, expectations and the durability of labor deterioration determining whether the hawkish bloc converts its bias into an actual hike.
+
+Bottom line — central bank tape
+
+The central-bank tape prevents the weak payroll report from becoming a clean dovish pivot. The Fed ends the period in a hawkish-hold regime with a live hike bias: July is two-sided but constrained by deteriorating hiring, while September becomes the more credible tightening venue if core inflation remains firm and labor weakness does not broaden into rising layoffs or unemployment. Conversely, another weak payroll report or a clean core-inflation decline would neutralize Waller’s flip and remove the penciled hike.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Services output and selected capital investment remain resilient, while payroll hiring, re-employment, housing turnover and inventory contribution are deteriorating.
+
+Why it matters: The economy is sustaining production through backlogs, productivity, temporary demand and concentrated investment without generating broad labor or interest-sensitive-sector strength.
+
+Implication: The regime is positive but job-light and increasingly narrow, allowing the Fed to remove near-term hike pressure without gaining sufficient evidence for rapid easing.
+
+3 KEY RELEASES TO DIG INTO
+
+**** Employment Situation: NFP / Unemployment / Earnings / Workweek (2 Jul 2026)
+
+Why it matters: Payrolls missed sharply, prior months were revised down and the decline in unemployment was participation-driven. This is the clearest evidence that labor flows have moved into deterioration.
+
+**** ISM Manufacturing PMI / Prices Paid (1 Jul 2026)
+
+Why it matters: Manufacturing remained expansionary while the upstream price shock eased sharply but incompletely. The report defines the goods-sector balance between resilient activity and persistent inflation.
+
+**** S&P Global Manufacturing PMI Final (1 Jul 2026)
+
+Why it matters: The final downgrade, explicit front-loading evidence and exceptional employment cuts materially weaken the quality and durability of the manufacturing expansion.
+
+<<USD_WEEK_END>>
+
+
+
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 23 Jun 2026 to 26 Jun 2026
 
