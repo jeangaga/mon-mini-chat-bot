@@ -1,5 +1,2422 @@
 
+<<DM_WEEK_BEGIN>>
+DATA WINDOW: 29 Jun 2026 to 10 Jul 2026
 
+A. DM WEEK — MACRO SYNTHESIS
+
+Across 29 June–10 July, DM activity improved at the headline level but became more internally and cross-country dispersed. Japan delivered the clearest cumulative hawkish transition: retail sales, household spending, employment, the Tankan and manufacturing surveys strengthened the domestic-demand and corporate-resilience case, while CGPI inflation accelerated to 7.1% and yen-basis import prices to 29.7%. Sweden moved into a favourable positive-supply regime, with strong manufacturing followed by consecutive monthly GDP gains and firmer private production, while CPIF excluding energy fell to only 0.4%. Canada exited immediate recession risk through April GDP, a large trade surplus and labour-market stabilization, but the rebound remained commodity-, price- and service-heavy rather than a broad industrial recovery. New Zealand combined weakening dairy terms of trade with a unanimous RBNZ hike and a sharp manufacturing rebound.
+
+The downside remained concentrated in rate-sensitive domestic channels. UK mortgage approvals, remortgaging, construction, civil engineering and housing activity deteriorated despite stable house prices and backward-looking Q1 GDP resilience. Australia’s strong credit impulse contrasted with weak underlying manufacturing output and orders, while Switzerland combined better leading and retail indicators with softer industrial momentum, elevated unemployment and a possible shift toward active CHF intervention. Norway’s completed CPI-ATE data showed broader disinflation than initially reported. The final regime is therefore not a common DM acceleration but a widening reaction-function split: BoJ and RBNZ normalization risk is rising; the Riksbank retains substantial flexibility; Norges Bank’s hike case has weakened; the BoE remains growth-constrained; and the SNB appears more likely to use its balance sheet than rates against excessive currency strength.
+
+B. DM MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Japan’s Tankan, retail sales and household spending strengthened materially, Sweden’s GDP rose 0.6% and then 0.9% m/m, New Zealand’s manufacturing PMI reached 59.7 and Canada’s April GDP rebounded 0.5%. Against this, UK construction remained at 38.4, mortgage approvals collapsed, Australian manufacturing output and orders stayed contractionary, and Canadian export volumes were essentially flat. The period shows improving aggregate activity but no uniform demand acceleration.
+
+Labor: ~
+Supporting evidence:
+Japan maintained 2.5% unemployment, record employment and rising participation, while Canada’s unemployment rate declined to 6.5%. However, Japanese vacancies softened, Canadian hiring was concentrated in youth, part-time and accommodation services, UK construction employment fell for an eighteenth consecutive month, and Swiss unemployment remained at 3.1%. Labour markets stabilized without producing a broad renewed tightening cycle.
+
+Inflation: ~
+Supporting evidence:
+Japan’s corporate inflation expectations rose and CGPI accelerated to 7.1%, with yen-basis import prices near 30%, creating a clear upstream pass-through risk. In contrast, Swedish CPIF fell to 1.3% and CPIF excluding energy to 0.4%, while Norway’s completed CPI-ATE measure declined to 2.7%. Australia and parts of Europe showed easing supply-cost pressure. Inflation dispersion widened rather than converged.
+
+Financial Conditions: ~
+Supporting evidence:
+Australian private credit remained strong, Swedish housing expectations improved and UK house prices stabilized as fixed mortgage rates eased. Yet UK approvals, lending and construction showed restrictive-rate transmission, the RBNZ tightened policy, and the CHF47.9bn reserve increase raised a credible intervention watch. Conditions are easing selectively but remain restrictive or actively managed in several economies.
+
+Policy Constraint: ~
+Supporting evidence:
+The BoJ received stronger domestic-demand, corporate and inflation-pipeline evidence, while the RBNZ initiated a tightening cycle and retained a further-hike bias. Sweden’s near-zero underlying inflation preserves Riksbank flexibility, Norway’s softer core print lowers the probability of another hike, weak UK activity strengthens the BoE easing argument, and the SNB retains FX intervention as an alternative to negative rates. Relative policy divergence is the dominant regional constraint.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 29 JUN 2026
+
+JAPAN — RETAIL SALES / LARGE-SCALE RETAIL SALES (MAY)
+
+Release Date: 29 Jun 2026 | Local Time: 01:50
+Importance: ***
+
+1. Reuters Data
+
+Retail Sales YY: 5,3% | Prior: 2,8% | Poll: 3,2% | Surprise: +2,10%
+Large-Scale Retail Sales YY: 5% | Prior: 2%
+
+2. Professional Market Commentary
+
+The professional tape framed the release as a broad consumption upside surprise, with retail sales recording their strongest annual rise since November 2023 and beating the full forecast range.
+
+Key tape focus:
+
+* third consecutive monthly increase
+* sharp upward revision to April
+* strength in autos, machinery and department stores
+* continued tourist-spending support
+* appliance purchases boosted by regulatory pull-forward
+* weakness in non-store retail, fuel and clothing
+
+The print strengthens the domestic-demand side of the BoJ normalisation case, but the appliance surge and nominal-data basis limit the clean read-through to real consumption. ([Ministère de l'Économie][1])
+
+3. Comment — Economist Layer
+
+The primary signal is a meaningful consumption improvement, but the composition contains temporary support.
+
+Autos and machinery provide better demand-quality evidence than a food- or subsidy-only increase. Department-store gains also indicate continued tourism support. However, appliance sales were materially boosted by purchases ahead of new efficiency standards, while the figures are not adjusted for inflation.
+
+The signal hierarchy is therefore:
+
+* broad headline and monthly momentum: strong
+* discretionary durable categories: constructive
+* appliance component: partly front-loaded
+* real-volume interpretation: less certain
+* policy relevance: supportive, but secondary to wages and underlying inflation
+
+State transition: improvement.
+
+Context from prior regional live file:
+April retail sales had already exceeded expectations and supported the resilience side of Japan’s mixed activity profile. May materially extends that sequence, with stronger breadth and a third consecutive monthly gain. Household demand is no longer the obvious weak link in the near-term BoJ normalisation case. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release gives the BoJ more confidence that tighter policy would not immediately break consumption.
+
+For JPY, the domestic-demand signal is supportive because it reduces the policy-divergence argument against the currency. The reaction should nevertheless remain conditional: June sales must avoid a reversal in autos, machinery and appliances once regulatory pull-forward fades.
+
+The next verification tests are household spending, real wages and whether retail volumes remain firm after the appliance distortion normalises.
+
+UNITED KINGDOM — BOE MONEY & CREDIT (MAY)
+
+Release Date: 29 Jun 2026 | Local Time: 10:30
+Importance: ***
+
+1. Reuters Data
+
+Consumer Credit: 1,662B | Prior: 1,713B | Poll: 1,800B | Surprise: −0,1380B
+Mortgage Lending: 2,889B | Prior: 4,439B | Poll: 4,550B | Surprise: −1,6610B
+Mortgage Approvals: 56,205k | Prior: 66,034k | Poll: 62,900k | Surprise: −6,6950k
+
+2. Professional Market Commentary
+
+The tape interpreted the report as a sharp correction in the housing-finance pipeline after earlier rate-locking and refinancing activity.
+
+Key points:
+
+* house-purchase approvals fell to their lowest level since December 2023
+* remortgaging approvals nearly halved
+* mortgage lending fell to a one-year low
+* the effective rate on newly drawn mortgages increased
+* consumer credit remained comparatively resilient
+* business borrowing slowed sharply
+
+The dominant institutional explanation is that earlier mortgage demand had been pulled forward ahead of expected rate increases and has now faded. ([Bank of England][3])
+
+3. Comment — Economist Layer
+
+This is a clear deterioration in the forward housing channel.
+
+The collapse in approvals is more informative than the lending stock because approvals lead future transactions and borrowing. The remortgaging decline reinforces the signal that rate-locking activity has faded rather than merely shifted between purchaser types.
+
+Consumer credit provides a partial offset, but not enough to challenge the central conclusion:
+
+* mortgage approvals: strong negative
+* remortgaging: strong negative
+* net mortgage borrowing: negative
+* new mortgage rates: tighter
+* unsecured credit: still resilient
+* corporate borrowing: softer
+
+State transition: deterioration.
+
+Context from prior regional live file:
+March money-and-credit data had shown approvals and mortgage borrowing holding up better than feared, preserving the distinction between weak surveys and a functioning credit channel. May reverses that signal decisively. Housing finance now aligns more closely with the weak RICS and broader domestic-demand evidence. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release strengthens the growth downside of the BoE reaction function but does not independently validate immediate easing.
+
+For UK front-end rates, it weakens the argument that households can absorb a prolonged restrictive-rate regime without a material activity cost. For GBP, the signal is negative through domestic demand, although energy-driven inflation and policy uncertainty still constrain a straightforward dovish trade.
+
+A recovery in June approvals above roughly 62k would be required to classify May as a one-month unwind rather than a durable tightening in housing finance.
+
+TUESDAY 30 JUN 2026
+
+JAPAN — LABOUR FORCE SURVEY (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 01:30
+Importance: **
+
+1. Reuters Data
+
+Unemployment Rate: 2,5% | Prior: 2,5% | Poll: 2,5% | Surprise: 0,00%
+
+2. Professional Market Commentary
+
+The headline was stable and received limited standalone market attention.
+
+The official detail showed:
+
+* employment at a record level
+* labour-force participation continuing to rise
+* the population outside the labour force at a record low
+* employment increasing for a fourth consecutive year-on-year period
+* non-regular employment accounting for much of the annual increase
+
+The professional interpretation remains “tight at the aggregate level,” with more forward-looking hiring indicators needed to identify any genuine turning point. ([stat.go.jp][4])
+
+3. Comment — Economist Layer
+
+The full-employment regime remains intact.
+
+Stable unemployment alongside higher participation and record employment is a stronger result than a flat unemployment rate viewed in isolation. Labour supply is continuing to expand without causing a rise in unemployment.
+
+The weaker-quality element is the concentration of annual employment growth in non-regular work. That matters for wage transmission because non-regular jobs may provide less durable bargaining power than full-time permanent employment.
+
+Signal hierarchy:
+
+* unemployment rate: stable
+* employment level: strong
+* participation: strong
+* employment quality: mixed
+* inflation transmission: still conditional on wages
+
+State transition: continuation.
+
+Context from prior regional live file:
+Japan’s previous labour and wage evidence had maintained a tight-market narrative but had not produced a decisive acceleration in household inflation. May preserves labour-market tightness and removes an immediate growth objection to further BoJ normalisation. The key unresolved issue remains whether tight employment converts into durable wage and services-price pressure.
+
+4. HF Take — Strategist Layer
+
+The release is modestly supportive of further BoJ tightening, but it is not a standalone catalyst.
+
+JPY and JGB implications depend on whether wage settlements, scheduled earnings and services inflation validate the strong employment base. A rise in unemployment above 2.7% or a stall in participation would be needed to create a clearer dovish labour signal.
+
+JAPAN — JOBS-TO-APPLICANTS RATIO (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 01:30
+Importance: **
+
+1. Reuters Data
+
+Jobs/Applicants Ratio: 1,17 | Prior: 1,18 | Poll: 1,18 | Surprise: −0,010
+
+2. Professional Market Commentary
+
+The ratio slipped to a five-month low as growth in active applicants exceeded growth in available openings.
+
+Official and professional attention centred on:
+
+* a continued ratio above 1.0
+* applicants increasing faster than openings
+* job-switching for improved conditions
+* greater labour-force participation by older workers
+* a pronounced annual decline in new vacancies
+* weakness in entertainment, accommodation, food services and construction
+
+The tape therefore distinguishes between a still-tight labour-market stock and a softer vacancy-flow signal. 
+
+3. Comment — Economist Layer
+
+The jobs ratio is the forward-softening counterpart to the stable unemployment rate.
+
+The level still indicates more openings than applicants, but the directional signal is weaker. The 8.9% annual fall in new openings is particularly relevant because vacancy creation normally turns before employment and unemployment.
+
+The internal hierarchy is:
+
+* jobs ratio level: tight
+* monthly direction: softer
+* new vacancy flow: materially weaker
+* labour supply: increasing
+* sector breadth: consumer-facing softness
+
+State transition: stabilization with a soft edge.
+
+Context from prior regional live file:
+Japan’s labour regime had remained tight enough to support the BoJ’s normalisation bias, while forward indicators were less uniform. May sharpens that divergence: realised employment is strong, but vacancy creation is cooling. The labour file remains supportive, though no longer unambiguously accelerating.
+
+4. HF Take — Strategist Layer
+
+The release argues against extrapolating the record employment level into an increasingly tight labour market.
+
+For the BoJ, persistent vacancy weakness would slow the expected wage-price transmission mechanism even if unemployment remains low. A ratio returning above 1.19 with new openings turning positive year on year would neutralise the concern.
+
+JAPAN — INDUSTRIAL PRODUCTION PRELIMINARY (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 01:50
+Importance: ***
+
+1. Reuters Data
+
+Industrial Output Preliminary MM SA: 0,5% | Prior: 0,5% | Poll: 1,1% | Surprise: −0,60%
+
+2. Professional Market Commentary
+
+The tape viewed the print as a consensus miss but not an industrial reversal.
+
+Key points:
+
+* second consecutive monthly production increase
+* shipments also rising
+* inventories declining
+* transport equipment and chemicals leading the gain
+* annual production still contracting
+* manufacturers projecting a strong June increase and flat July
+* energy-supply concerns appearing contained so far
+
+Professional commentary gave more weight to the consecutive monthly gains and firm Q2 trajectory than to the miss versus the poll. METI characterised industrial production as fluctuating indecisively and reported an expected June increase followed by flat July output. ([Ministère de l'Économie][5])
+
+3. Comment — Economist Layer
+
+The hard-data signal is gradual recovery rather than acceleration.
+
+The monthly increase confirms that March’s industrial weakness did not persist, while falling inventories reduce the risk that production is merely accumulating unsold output. However, the negative annual rate and repeated tendency for realised production to underperform forecast surveys limit confidence.
+
+Transport-equipment strength is constructive, but the June forecast must be treated cautiously given the supply shock and recent forecast errors.
+
+State transition: continuation.
+
+Context from prior regional live file:
+The prior Japan production sequence had shifted from a sharp March miss to an April gain, leaving the industrial sector in a fragile recovery rather than a clean expansion. May adds a second positive month but again falls short of expectations. The trajectory is improving, while the strength and durability of the recovery remain unproven. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The print prevents an immediate growth-based dovish shift in the BoJ reaction function.
+
+It is not strong enough to generate an aggressive hawkish repricing because annual output remains lower and forecast optimism has not yet been realised. June production is the decisive test: a material undershoot of the projected 3.7% increase, particularly with transport equipment reversing, would weaken the resilience narrative.
+
+AUSTRALIA — FINANCIAL AGGREGATES (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 03:30
+Importance: ***
+
+1. Reuters Data
+
+Private-Sector Credit MM: 0,7% | Prior: 0,7%
+Housing Credit MM: 0,5% | Prior: 0,6%
+
+2. Professional Market Commentary
+
+No Tier 1 standalone debate was detected.
+
+The official data nevertheless showed a robust credit impulse:
+
+* total credit rose 0.7% for a third consecutive month
+* annual credit growth accelerated to 8.2%
+* business credit increased 1.0% m/m and 9.9% y/y
+* housing credit remained firm
+* investor-housing credit outpaced owner-occupier lending
+* personal credit also expanded
+
+The RBA’s own financial-conditions framing has characterised credit growth as well above longer-run averages. ([Reserve Bank of Australia][6])
+
+3. Comment — Economist Layer
+
+The primary signal is that financial transmission remains unusually resilient despite higher policy rates.
+
+Business credit is the strongest component and argues against an imminent investment or working-capital collapse. Housing credit remains firm enough to maintain demand and asset-price sensitivity, with investor credit stronger than owner-occupier credit.
+
+The late-cycle tension is important: credit is accelerating while the RBA is trying to restrain inflation and has already delivered substantial tightening.
+
+State transition: continuation.
+
+Context from prior regional live file:
+Australia’s earlier DM sequence had combined persistent domestic inflation, resilient credit and a weakening real-activity margin. May credit reinforces the policy-constrained side of that profile. The economy is not yet exhibiting the broad credit retrenchment normally associated with a near-term easing cycle.
+
+4. HF Take — Strategist Layer
+
+The release keeps the RBA reaction function asymmetric toward further restraint rather than relief.
+
+It does not mechanically require another hike, but it raises the bar for a dovish pivot while business and housing credit remain strong. For AUD rates, the front end should remain sensitive to inflation and activity confirmation rather than pricing an early policy reversal.
+
+JAPAN — HOUSING STARTS (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 07:00
+Importance: **
+
+1. Reuters Data
+
+Housing Starts YY: 33,9% | Prior: 11,4% | Poll: 31,8% | Surprise: +2,10%
+
+2. Professional Market Commentary
+
+The headline exceeded expectations and marked the second consecutive annual increase.
+
+Strength was broad across:
+
+* owner-occupied housing
+* rental construction
+* built-for-sale housing
+* two-by-four construction
+
+The tape nevertheless emphasised a favourable comparison against the post-April 2025 regulatory disruption and earlier pull-forward activity. The annual growth rate therefore overstates the clean underlying construction acceleration. 
+
+3. Comment — Economist Layer
+
+This is an improvement signal with a large base-effect qualification.
+
+The breadth of the increase is constructive, particularly because owner-occupied, rental and built-for-sale categories all expanded. However, the comparison period was depressed by the introduction of new building standards, making the annual rate mechanically strong.
+
+The release is best interpreted as housing activity normalising after regulatory distortion rather than entering a 30%-plus structural boom.
+
+State transition: improvement, base-effect qualified.
+
+Context from prior regional live file:
+March housing starts had collapsed under regulatory timing and base effects rather than a conventional demand shock. May’s surge represents the mirror image of that distortion. The housing signal is improving, but the level must be assessed after comparison effects normalise. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release is marginally BoJ-hawkish through construction resilience but remains secondary to inflation, wages and Tankan evidence.
+
+A June annual rate below roughly 10% would confirm that May was largely a comparison effect. Persistent double-digit growth after normalisation would provide more credible evidence of domestic-demand strength.
+
+SWEDEN — RETAIL TRADE (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Retail Sales MM: −0,2% | Prior: 0,2%
+Retail Sales YY: 8,0% | Prior: 4,7%
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate was detected.
+
+Statistics Sweden reported:
+
+* a 0.2% monthly decline in retail volumes
+* unchanged durable-goods volumes
+* a 0.5% fall in consumables excluding Systembolaget
+* current-price turnover rising 3.9% year on year
+* strong nominal durable-goods turnover
+
+The large Reuters annual figure should be treated cautiously given base effects and the April change to VAT-based administrative collection for smaller enterprises. ([Statistikmyndigheten SCB][7])
+
+3. Comment — Economist Layer
+
+The monthly volume signal dominates the annual headline.
+
+Retail demand is essentially flat-to-weaker, with no increase in durable volumes and softer consumables. The annual acceleration does not align with the current monthly momentum and is less reliable around the collection-method change.
+
+The correct hierarchy is:
+
+* monthly real volumes: mildly negative
+* durable volumes: flat
+* consumables: weaker
+* annual growth: base- and methodology-sensitive
+* household-demand implication: no clear acceleration
+
+State transition: no material change.
+
+Context from prior regional live file:
+April retail sales were flat after a strong but downwardly revised March and had already suggested that household momentum was levelling off. May extends that flat-to-soft sequence despite the striking annual comparison. Sweden’s domestic-demand recovery remains fragile rather than self-sustaining. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The print is mildly dovish for the Riksbank through domestic demand but should not drive policy pricing.
+
+SEK implications remain secondary to CPIF, wages and the manufacturing cycle. June must produce a positive monthly volume gain before the annual acceleration can be treated as a genuine household-demand signal.
+
+SWITZERLAND — KOF ECONOMIC BAROMETER (JUNE)
+
+Release Date: 30 Jun 2026 | Local Time: 09:00
+Importance: ***
+
+1. Reuters Data
+
+KOF Indicator: 101,2 | Prior: 98,6 | Poll: 99,1 | Surprise: +2,10
+
+2. Professional Market Commentary
+
+The official release described a noticeable improvement in the Swiss economic outlook.
+
+The barometer:
+
+* increased 2.6 points
+* moved above its long-term average of 100
+* reached a four-month high
+* received strong support from manufacturing indicators
+* showed improving construction signals
+* recorded favourable foreign-demand and private-consumption bundles
+
+Professional house views remained somewhat more cautious, arguing that the Swiss cycle may still lose momentum later in the year. ([KOF Institut][8])
+
+3. Comment — Economist Layer
+
+This is a genuine leading-indicator improvement, though not yet a hard-data regime shift.
+
+The breadth across production, foreign demand and consumption is more encouraging than a single-sector rebound. Moving above 100 also changes the level signal from below-trend stabilisation to modest above-trend momentum.
+
+The main caveat is that manufacturing indicators may contain front-loading or inventory protection against the energy and supply shock.
+
+State transition: improvement, conditional.
+
+Context from prior regional live file:
+KOF had remained below 100 through April and May, preserving a muted Swiss growth outlook despite tentative stabilisation. June breaks that sequence and provides the first above-trend reading in several months. The Swiss cycle moves from sub-trend stability toward a conditional re-acceleration signal. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release marginally reduces pressure for SNB support but does not justify a tightening signal by itself.
+
+The SNB remains more sensitive to inflation, CHF strength and external risk than to one leading survey. For CHF, the growth improvement is supportive at the margin, although safe-haven flows and the global rates backdrop remain higher-order forces.
+
+SWITZERLAND — OFFICIAL RESERVE ASSETS (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 09:00
+Importance: *
+
+1. Reuters Data
+
+Official Reserve Assets CHF: 841 194,55M | Prior: 848 533,09M
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Official reserve assets declined by approximately CHF7.3bn during May. The release does not provide a clean decomposition between:
+
+* valuation effects
+* changes in the gold price
+* currency translation
+* portfolio flows
+* active foreign-exchange intervention
+
+The SNB’s reserve data are therefore insufficient by themselves to infer a new currency-policy operation. ([data.snb.ch][9])
+
+3. Comment — Economist Layer
+
+This is a low-information balance-sheet movement.
+
+A single monthly decline is consistent with normal valuation and portfolio effects. A credible intervention signal would require either a sustained directional reserve move or corroboration from sight deposits, transaction data or explicit SNB communication.
+
+State transition: no material change.
+
+Context from prior regional live file:
+Earlier reserve movements had not provided clear evidence of active intervention and were treated primarily as valuation-sensitive. May remains consistent with that interpretation. Switzerland’s policy signal continues to come from inflation, CHF behaviour and SNB communication rather than the reserve headline.
+
+4. HF Take — Strategist Layer
+
+The release has little standalone CHF relevance.
+
+A multi-month reserve build during renewed CHF appreciation would be more consistent with active intervention. Until then, the correct strategy is to avoid treating monthly reserve changes as a directional SNB signal.
+
+UNITED KINGDOM — GDP QUARTERLY NATIONAL ACCOUNTS (Q1)
+
+Release Date: 30 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+1. Reuters Data
+
+GDP QQ: 0,6% | Prior: 0,6% | Poll: 0,6% | Surprise: 0,00%
+GDP YY: 0,9% | Prior: 1,1% | Poll: 1,1% | Surprise: −0,20%
+Business Investment QQ: 0,9% | Prior: 0,7%
+Business Investment YY: −1,3% | Prior: −1,8%
+
+2. Professional Market Commentary
+
+The final estimate confirmed 0.6% quarterly growth, led by services, while revising Q4 2025 growth down to 0.1%.
+
+The tape emphasised:
+
+* growth across all three output sectors
+* services as the main contributor
+* positive real GDP per head
+* business investment improving quarterly but remaining lower annually
+* real household disposable income per head declining
+* imports rising faster than exports
+* the data predating the full Middle East energy shock
+
+The official release confirms robust Q1 activity but also shows that household purchasing power weakened during the quarter. ([Office for National Statistics][10])
+
+3. Comment — Economist Layer
+
+The headline remains strong, but its current policy information content is limited.
+
+Services growth and positive GDP per head are constructive. The more important weakness is the 0.8% decline in real household disposable income per head, caused by flat nominal income against a rising deflator and higher taxes.
+
+The internal hierarchy is:
+
+* Q1 headline growth: strong but backward-looking
+* services: broad support
+* GDP per head: positive
+* household real income: negative
+* business investment: sequential improvement, annual contraction
+* trade: growth drag
+* post-shock relevance: low
+
+State transition: continuation, backward-looking.
+
+Context from prior regional live file:
+The UK had already moved into a softer post-Q1 profile through weak housing, monthly GDP and services evidence. Confirmation of strong Q1 growth does not reverse that transition because it largely predates the conflict and tighter financial conditions. The Q1 level is better than the live Q2 momentum signal.
+
+4. HF Take — Strategist Layer
+
+The report does not materially shift the BoE reaction function.
+
+It reduces the risk that the economy entered the shock from an outright recessionary base, but household-income weakness and subsequent forward indicators argue against extrapolating the headline. GBP and gilt pricing should remain more responsive to current inflation, employment and monthly-activity releases.
+
+UNITED KINGDOM — BALANCE OF PAYMENTS (Q1)
+
+Release Date: 30 Jun 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Current Account GBP: −22,134B | Prior: −18,392B | Revised: −27,178B | Poll: −20,700B | Surprise: −1,4340B
+
+2. Professional Market Commentary
+
+The current-account deficit narrowed from a materially worse revised Q4 position but remained wider than expected.
+
+Official composition showed:
+
+* improvement in the primary-income balance
+* a wider trade deficit
+* a very large goods deficit
+* a substantial services surplus
+* continued reliance on net financial inflows
+* a prospective terms-of-trade risk from higher energy-import costs
+
+The professional narrative is external stabilisation from a weak revised base rather than a structural improvement. ([Office for National Statistics][11])
+
+3. Comment — Economist Layer
+
+The better primary-income balance is the main positive signal.
+
+It offsets part of the wider trade deficit, but the UK remains structurally dependent on the services surplus and external capital inflows to finance a large goods gap. The energy shock creates a particularly relevant risk because the UK is a net energy importer and higher oil and gas costs can widen the goods deficit before demand adjusts.
+
+State transition: stabilization, revision qualified.
+
+Context from prior regional live file:
+The UK’s earlier file had already combined weak domestic momentum with sensitivity to imported energy inflation. Q1’s external deficit narrowed only relative to a sharply revised deterioration in Q4. The external-financing vulnerability therefore remains active rather than resolved.
+
+4. HF Take — Strategist Layer
+
+The report is mildly GBP-negative at the structural level but not a near-term trading catalyst.
+
+The vulnerability becomes more market-relevant if Q2 energy imports re-widen the deficit while gilt risk premia or political uncertainty rise. A deficit moving beyond 3.5% of GDP would make the external constraint more prominent in the UK reaction-function map.
+
+CANADA — GDP BY INDUSTRY (APRIL)
+
+Release Date: 30 Jun 2026 | Local Time: 14:30
+Importance: ***
+
+1. Reuters Data
+
+GDP MM: 0,5% | Prior: −0,1% | Poll: 0,4% | Surprise: +0,10%
+
+2. Professional Market Commentary
+
+The tape framed the release as ending the immediate recession debate without establishing a durable recovery.
+
+Key points:
+
+* fastest monthly growth since July 2025
+* 14 of 20 sectors expanding
+* goods output outperforming services
+* oil sands rebounding after maintenance
+* pipeline activity increasing
+* manufacturing and construction contributing
+* May’s advance estimate slowing to approximately 0.1%
+
+Institutional economists treated the rebound partly as a correction from winter and maintenance weakness, while continuing to see activity below the Bank of Canada’s desired trajectory. ([Statistique Canada][12])
+
+3. Comment — Economist Layer
+
+The breadth of the April rebound is better than a pure oil-price or single-sector increase.
+
+Construction, manufacturing and services all improved. Nevertheless, the largest contribution came from mining, oil and gas, particularly the rebound in oil-sands production after maintenance. The refined-products export surge also reflects the global energy shock rather than an autonomous domestic-demand acceleration.
+
+The May flash estimate is therefore important because it immediately points to slower momentum.
+
+State transition: improvement, conditional.
+
+Context from prior regional live file:
+Q1 GDP had contracted and March activity had declined, making Canada the clearest DM growth-break candidate in the prior sequence. April materially reduces the risk of a continuing recession, but the energy and maintenance contribution prevents a full domestic-growth upgrade. Canada moves from contraction risk to a “not recession, not yet recovery” configuration. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release reduces the probability of a near-term BoC cut driven purely by recession risk, but it does not support a hike baseline.
+
+The Bank can remain patient while excess capacity, trade uncertainty and weak H1 average growth persist. CAD receives some support from the oil and external-income channel, although confirmation requires the May final release to remain positive after the maintenance rebound fades.
+
+WEDNESDAY 1 JUL 2026
+
+JAPAN — TANKAN SURVEY (Q2)
+
+Release Date: 1 Jul 2026 | Local Time: 01:50
+Importance: ****
+
+1. Reuters Data
+
+Big Manufacturing Index: 22 | Prior: 17 | Poll: 16 | Surprise: +6,0
+Big Manufacturing Outlook: 17 | Prior: 14 | Poll: 13 | Surprise: +4,0
+Big Non-Manufacturing Index: 37 | Prior: 36 | Poll: 35 | Surprise: +2,0
+Big Non-Manufacturing Outlook: 28 | Prior: 29 | Poll: 30 | Surprise: −2,0
+All Big Capex Estimate: 11,5% | Prior: 3,3% | Poll: 10,5% | Surprise: +1,00%
+Small Manufacturing Index: 9 | Prior: 7 | Poll: 4 | Surprise: +5,0
+Small Manufacturing Outlook: 2 | Prior: 4 | Poll: 1 | Surprise: +1,0
+Small Non-Manufacturing Index: 15 | Prior: 16 | Poll: 14 | Surprise: +1,0
+Small Non-Manufacturing Outlook: 8 | Prior: 8 | Poll: 9 | Surprise: −1,0
+All Small Capex Estimate: −8,3% | Prior: −8,1% | Poll: −4,5% | Surprise: −3,80%
+
+2. Professional Market Commentary
+
+The Tankan materially exceeded expectations and overturned the pre-release consensus for conflict-driven deterioration.
+
+Key tape focus:
+
+* large-manufacturer sentiment at its highest since March 2018
+* fifth consecutive quarterly improvement
+* large non-manufacturers at a multi-decade high
+* small manufacturers also beating sharply
+* large-firm capex plans remaining strong despite expected profit contraction
+* corporate inflation expectations rising across one-, three- and five-year horizons
+* small-firm capex remaining deeply negative
+* corporate USD/JPY assumptions materially stronger than the prevailing spot exchange rate
+
+The official survey confirms broad corporate resilience but also exposes a clear large-versus-small-firm divide. ([Banque du Japon][13])
+
+3. Comment — Economist Layer
+
+This is the week’s strongest policy-relevant DM release.
+
+The primary signal is not simply better corporate sentiment. It is the conjunction of:
+
+* sustained manufacturing improvement
+* record non-manufacturing conditions
+* double-digit large-firm capex plans
+* rising medium-term inflation expectations
+* resilience despite the energy and geopolitical shock
+
+That combination directly supports the BoJ’s argument that inflation is becoming more embedded and that firms can continue investing through margin pressure.
+
+The internal weakness is concentrated in smaller firms. Their negative capex plans and weaker outlooks show that the cost shock is not being absorbed evenly. The assumed exchange rate also understates actual yen weakness, implying either future earnings upgrades for exporters or greater import-cost stress for unhedged firms.
+
+State transition: improvement.
+
+Context from prior regional live file:
+The Q1 Tankan had already shown resilient large firms alongside negative small-firm capex, while the June Reuters Tankan pointed to improving manufacturing sentiment. Q2 strengthens the large-firm and inflation-expectation signals substantially without resolving the SME divide. Japan’s corporate regime shifts from resilient-but-bifurcated to strongly resilient with a more explicit inflation-entrenchment risk. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The Tankan increases the probability that the BoJ continues normalisation if incoming CPI and wage data remain consistent.
+
+It is supportive for JPY through rates and domestic resilience, although the currency’s extreme weakness and intervention risk complicate the immediate transmission. The stronger reaction-function read is higher confidence in an additional hike, not an unconditional acceleration of the cycle.
+
+The main falsification test is the September Tankan: large-manufacturer conditions falling toward the projected 17, inflation expectations dropping below 2.5%, or SME weakness spreading into large-firm capex would challenge the hawkish interpretation.
+
+JAPAN — S&P GLOBAL MANUFACTURING PMI FINAL (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 02:30
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI Final SA: 54,8 | Prior: 54,9
+
+2. Professional Market Commentary
+
+The final PMI confirmed a strong manufacturing quarter.
+
+The survey showed:
+
+* the strongest quarterly performance in more than 12 years
+* new orders growing at their fastest rate since January 2022
+* employment growth near an eight-year high
+* rapid accumulation of backlogs
+* continued strength in AI, technology and semiconductor demand
+* elevated input and output inflation
+* substantial client inventory-building against price and supply risks
+
+The compiler explicitly warned that part of the strength was driven by stockpiling and may not extend into the second half. ([pmi.spglobal.com][14])
+
+3. Comment — Economist Layer
+
+The expansion is real, but its demand quality is mixed.
+
+Strong employment and backlogs indicate genuine capacity pressure. AI and semiconductor demand provide an identifiable final-demand channel. However, the fastest new-order growth partly reflects precautionary buying and inventory accumulation ahead of potential disruption.
+
+The correct hierarchy is:
+
+* headline expansion: strong
+* employment and backlogs: constructive
+* AI/semiconductor demand: genuine positive
+* general new orders: partly front-loaded
+* inflation pressure: elevated
+* H2 sustainability: uncertain
+
+State transition: continuation, front-loading qualified.
+
+Context from prior regional live file:
+Japan manufacturing had already recovered from the March industrial shock, with April and May production stabilising and the earlier PMI sequence improving. June extends the survey expansion but introduces a clearer stockpiling distortion. The manufacturing regime is strong in the short term, while the durability of end-demand remains the key unresolved question.
+
+4. HF Take — Strategist Layer
+
+The PMI reinforces the Tankan’s near-term BoJ-hawkish message but should receive less policy weight because of its inventory component.
+
+The relevant test is whether July new orders and output hold after stock-building slows. A rapid fall in orders with inventories remaining elevated would convert the current strength into a classic front-loading false dawn.
+
+AUSTRALIA — S&P GLOBAL MANUFACTURING PMI FINAL (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 01:00
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI Final: 51,5 | Prior: 51,2
+
+2. Professional Market Commentary
+
+The headline rose to a five-month high and remained above 50 for a third consecutive month.
+
+The underlying detail was materially weaker:
+
+* output contracted for a fifth consecutive month
+* new orders declined for a fourth month
+* exports returned to growth
+* employment increased
+* pre-production inventories rose sharply
+* delivery times lengthened
+* input and output inflation eased substantially from May but remained elevated
+
+The compiler’s interpretation was that geopolitical disruption continued to weigh on activity, while softer price growth provided conditional relief. ([pmi.spglobal.com][15])
+
+3. Comment — Economist Layer
+
+The PMI headline overstates current demand conditions.
+
+The index is being lifted by employment, inventories and longer supplier-delivery times rather than expanding output and orders. In a supply shock, longer delivery times mechanically raise the PMI even though they represent worsening production conditions.
+
+The best interpretation is “positioning for recovery rather than experiencing recovery.”
+
+Positive elements:
+
+* order contraction is becoming less severe
+* exports are recovering
+* inflation pressure is easing
+* firms are retaining or adding labour
+
+Negative elements:
+
+* output remains in contraction
+* domestic orders remain weak
+* inventories are precautionary
+* supply delays distort the headline
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+Australia had previously combined weak real-activity surveys with persistent inflation and robust credit. June manufacturing preserves that split: the headline improves, but realised production and demand remain weak. The activity bucket is stabilising, not yet recovering.
+
+4. HF Take — Strategist Layer
+
+The release is not a clean argument for either an RBA hike or cut.
+
+Slower cost inflation reduces the need for additional restraint, but strong credit and continued supply-chain disruption prevent a dovish conclusion. July output and orders must move above 50 before the headline PMI can be treated as a genuine industrial rebound.
+
+AUSTRALIA — BUILDING APPROVALS (MAY)
+
+Release Date: 1 Jul 2026 | Local Time: 03:30
+Importance: ***
+
+1. Reuters Data
+
+Building Approvals MM: −1,1% | Prior: −3,4% | Revised: −0,2% | Poll: 2,0% | Surprise: −3,10%
+Building Approval Total YY: 10,3% | Prior: 23,1% | Revised: 24,4%
+
+2. Professional Market Commentary
+
+The official release showed a further decline in total approvals, driven entirely by non-house dwellings.
+
+Key points:
+
+* total approvals fell to 17,019
+* detached-house approvals increased to their highest level since September 2021
+* apartment and other non-house approvals dropped sharply
+* total residential-building value declined
+* non-residential approvals reached a record value
+* large data-centre projects drove the non-residential increase
+* the official annual dwelling increase differed from the Reuters annual field
+
+The mechanical Reuters line is preserved, while the official composition indicates a detached-housing recovery and an apartment-pipeline contraction. ([Australian Bureau of Statistics][16])
+
+3. Comment — Economist Layer
+
+The aggregate miss conceals two separate construction regimes.
+
+Detached houses are stabilising strongly, particularly in Western Australia and New South Wales. Apartments are deteriorating and remain far below their recent average, which is more relevant for medium-density urban housing supply.
+
+The record non-residential value does not signal a broad commercial-construction boom. It is concentrated in a small number of large data-centre approvals.
+
+Signal hierarchy:
+
+* total dwellings: weak
+* detached houses: improving
+* apartments: deteriorating
+* residential value: weaker
+* data-centre capex: strong but lumpy
+
+State transition: no material change in totals; deterioration in apartments and stabilization in detached housing.
+
+Context from prior regional live file:
+Australian approvals had been highly volatile, with February’s apartment surge followed by sharp March and April declines. May confirms that the aggregate series remains driven by the unstable multi-unit segment. The detached-house pipeline is improving, but the broad housing-supply recovery is incomplete. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The report has limited immediate RBA relevance because the internal signals offset.
+
+Detached-housing strength may support activity and construction costs, while weak apartments imply a future supply constraint and softer near-term building activity. The more strategic read is that AI and data-centre capex are becoming a meaningful non-residential investment offset.
+
+UNITED KINGDOM — NATIONWIDE HOUSE PRICE INDEX (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Nationwide House Prices MM: 0,0% | Prior: −0,6% | Poll: 0,0% | Surprise: 0,00%
+Nationwide House Prices YY: 2,2% | Prior: 1,7% | Poll: 2,4% | Surprise: −0,20%
+
+2. Professional Market Commentary
+
+Nationwide characterised the market as stabilising after the May decline.
+
+Key themes:
+
+* prices unchanged on the month
+* annual growth edging higher
+* significant regional dispersion
+* Northern Ireland remaining the strongest region
+* southern England materially weaker than northern regions
+* higher energy prices and mortgage rates having restrained demand
+* the retreat in oil and fixed-mortgage rates offering conditional support
+
+The professional tape remains cautious because mortgage approvals have already fallen sharply and political uncertainty may affect sentiment. ([nationwidehousepriceindex.co.uk][17])
+
+3. Comment — Economist Layer
+
+The price data are stabilising, but the housing-activity pipeline is weaker.
+
+Flat monthly prices after a 0.6% decline prevent an immediate negative acceleration. The higher annual rate reflects base effects and regional strength rather than a broad nationwide rebound.
+
+The contradiction with BoE approvals is crucial: current prices are sticky, but future transactions and lending are deteriorating.
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+Nationwide had shown strong March and April price gains before falling in May, while Halifax and RICS pointed to a softer and rate-constrained market. June arrests the price decline but does not repair the collapse in mortgage approvals. UK housing remains functional at the price level and fragile at the activity level. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The report is neutral for the BoE on its own.
+
+Stable prices reduce the urgency of a housing-driven easing response, while weak financing and transaction indicators keep the domestic-demand downside active. July prices and mortgage approvals must improve together before a durable housing recovery can be identified.
+
+UNITED KINGDOM — S&P GLOBAL MANUFACTURING PMI (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 10:30
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI: 52,5 | Prior: 53,1 | Poll: 53,1 | Surprise: −0,60
+
+2. Professional Market Commentary
+
+Manufacturing remained in expansion, but the compiler and economists agreed that the upturn was increasingly fragile.
+
+Key tape focus:
+
+* output rising at its fastest rate in 21 months
+* new orders slowing to their weakest pace since December 2025
+* client stockpiling supporting production
+* temporary hiring contributing to employment growth
+* supply delays lengthening sharply
+* input-price inflation easing from May
+* output charges remaining elevated
+* confidence restrained by geopolitics and domestic policy uncertainty
+
+The professional narrative is a textbook front-loaded production cycle rather than a durable end-demand acceleration. ([pmi.spglobal.com][18])
+
+3. Comment — Economist Layer
+
+The output-versus-orders divergence is the decisive signal.
+
+Factories are producing strongly because clients previously accelerated purchases and firms are working through the resulting pipeline. New work is already slowing, inventories are being drawn down and some employment growth is explicitly temporary.
+
+Longer delivery times also flatter the headline PMI by contributing positively to the index despite representing supply disruption.
+
+State transition: false dawn at the sector level.
+
+Context from prior regional live file:
+The UK manufacturing sequence had already shown strong headlines alongside worsening costs and supply delays, while services and domestic demand weakened more materially. June confirms that manufacturing’s apparent resilience is partly a timing effect. The sector remains an offset to services weakness, but not a reliable independent growth engine.
+
+4. HF Take — Strategist Layer
+
+The release should not be interpreted as BoE-hawkish evidence of broad demand strength.
+
+The inflation pipeline remains relevant because selling prices are still rising, but the weakening order book points to slower summer production. July new orders must re-accelerate without renewed stockpiling before the sector can be upgraded from false dawn to genuine expansion.
+
+SWITZERLAND — RETAIL SALES (MAY)
+
+Release Date: 1 Jul 2026 | Local Time: 08:30
+Importance: **
+
+1. Reuters Data
+
+Retail Sales YY: 3,5% | Prior: 1,7%
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The acceleration is directionally consistent with the stronger private-consumption component of the June KOF barometer. Full real-versus-nominal and food-versus-non-food composition was not available in the supplied tape. 
+
+3. Comment — Economist Layer
+
+The signal is an improvement, but conviction is limited by the absence of detailed composition and a monthly rate.
+
+An annual acceleration from 1.7% to 3.5% suggests better consumer activity. It cannot yet distinguish between real spending, price effects and favourable comparisons.
+
+State transition: improvement.
+
+Context from prior regional live file:
+Earlier Swiss retail releases had shown only tentative stabilisation and remained subordinate to the weaker KOF growth message. May retail sales now align with KOF’s improved consumption bundle. The domestic-demand side of the Swiss file is becoming more constructive, though confirmation remains incomplete.
+
+4. HF Take — Strategist Layer
+
+The release marginally reduces the case for SNB support through weak domestic demand.
+
+Its standalone CHF impact is low. June retail composition and CPI are needed to establish whether consumption is strengthening in real terms without generating a material inflation constraint.
+
+SWITZERLAND — PROCURE.CH / UBS MANUFACTURING PMI (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 09:30
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI: 54,3 | Prior: 57,3 | Poll: 56,5 | Surprise: −2,20
+
+2. Professional Market Commentary
+
+The PMI declined more than expected but remained clearly above the expansion threshold.
+
+Composition showed:
+
+* production remaining strong
+* order books weakening materially
+* purchasing volumes only marginally above 50
+* employment falling below 50
+* supply delays easing
+* purchasing-price inflation dropping sharply but remaining high
+* finished-goods inventories still below 50
+
+The official procure.ch framing was continued manufacturing growth at a slower pace. ([procure.ch][19])
+
+3. Comment — Economist Layer
+
+The release signals slower momentum from an elevated level rather than renewed contraction.
+
+Production remains robust, but the fall in orders and sub-50 employment indicate that firms do not expect the recent pace to persist. The sharp decline in purchasing prices and delivery delays suggests the acute supply-shock phase may be passing.
+
+This creates an important contrast with KOF:
+
+* KOF: forward outlook improving
+* PMI production: still strong
+* PMI orders and employment: weakening
+* costs and supply stress: easing
+
+State transition: deterioration in the rate of change from an elevated level.
+
+Context from prior regional live file:
+Swiss manufacturing PMI had moved above 50 in March and accelerated through April and May, while KOF remained below trend. June partially resolves that contradiction by showing peak PMI momentum passing just as KOF improves. Switzerland’s industrial sector remains expansionary, but the trajectory is no longer accelerating. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The report reduces any case for an SNB tightening response to manufacturing strength.
+
+Easing supply pressure and slower orders are disinflationary at the margin, while the PMI level prevents a strong growth-dovish interpretation. For CHF, the net signal is broadly neutral.
+
+SWEDEN — SWEDBANK / SILF MANUFACTURING PMI (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 08:30
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI: 58,3 | Prior: 57,4
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The headline accelerated from an already strong level and was the highest manufacturing PMI among the DM releases in the supplied batch. Detailed sub-index composition was not available, preventing a firm distinction between:
+
+* genuine new-order strength
+* defence- and industrial-cycle support
+* export competitiveness
+* supply delays
+* precautionary inventory accumulation
+
+Precautionary-stockpiling discipline therefore remains active. 
+
+3. Comment — Economist Layer
+
+The headline indicates a strong manufacturing expansion, but the absence of composition materially limits interpretation.
+
+The release is consistent with earlier improvement in industrial production and export-linked activity. It contrasts sharply with flat retail volumes, reinforcing the divide between Sweden’s external industrial sector and its softer domestic household sector.
+
+State transition: improvement.
+
+Context from prior regional live file:
+Swedish industrial production had rebounded strongly in April but remained partly value-based and export-led, while domestic orders and household demand were weaker. June PMI strengthens the industrial side of that split. Sweden is becoming a clearer external-manufacturing improvement story without yet establishing a broad domestic recovery. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release is SEK-supportive at the margin but cannot drive a Riksbank shift without composition and inflation confirmation.
+
+If new orders and production account for the strength, the activity downside should be reduced. If supplier delays and inventory accumulation dominate, the headline could fade rapidly once disruption eases.
+
+This is now the locked in-chat baseline for the week; subsequent scout batches should be patched chronologically without compressing these validated blocks.
+
+[1]: https://www.meti.go.jp/english/statistics/index.html?utm_source=chatgpt.com "Statistics/METI Ministry of Economy, Trade and Industry"
+[2]: https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt "raw.githubusercontent.com"
+[3]: https://www.bankofengland.co.uk/statistics/money-and-credit/2026/may-2026?utm_source=chatgpt.com "Money and Credit - May 2026"
+[4]: https://www.stat.go.jp/english/data/roudou/result.html?utm_source=chatgpt.com "Home Statistics Labour Force Survey The Survey Results"
+[5]: https://www.meti.go.jp/english/statistics/tyo/iip/index.html?utm_source=chatgpt.com "Indices of Industrial Production"
+[6]: https://www.rba.gov.au/statistics/frequency/fin-agg/2026/fin-agg-0526.html?utm_source=chatgpt.com "Financial Aggregates May 2026"
+[7]: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities-and-foreign-trade/business-production-sales-and-finances--short-term-statistics/turnover-in-the-service-sector/pong/statistical-news/turnover-in-retail-trade-may-2026/?utm_source=chatgpt.com "Volume of retail trade nearly unchanged in May 2026"
+[8]: https://kof.ethz.ch/en/news-and-events/media/press-releases/2026/06/kof-economic-barometer-economic-outlook-improves-noticeably.html?utm_source=chatgpt.com "KOF Economic Barometer - KOF Institut - ETH Zürich"
+[9]: https://data.snb.ch/en/topics/cross/cube/sddsilv7m?utm_source=chatgpt.com "IMF SDDS Plus ‒ Official reserve assets | SNB data portal"
+[10]: https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/januarytomarch2026?utm_source=chatgpt.com "GDP quarterly national accounts, UK: January to March 2026"
+[11]: https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments?utm_source=chatgpt.com "Balance of payments"
+[12]: https://www150.statcan.gc.ca/n1/daily-quotidien/260630/dq260630a-eng.htm?utm_source=chatgpt.com "The Daily — Gross domestic product by industry, April 2026"
+[13]: https://www.boj.or.jp/en/statistics/tk/yoshi/tk2606.htm?utm_source=chatgpt.com "Tankan Outline (June 2026)"
+[14]: https://www.pmi.spglobal.com/Public/Home/PressRelease/cf9e4165606042458c4a0b17af83606a?utm_source=chatgpt.com "S&P Global Japan Manufacturing PMI"
+[15]: https://www.pmi.spglobal.com/Public/Home/PressRelease/6b29bc31e6f040a78398b29a9e72cf10?utm_source=chatgpt.com "S&P Global Australia Manufacturing PMI"
+[16]: https://www.abs.gov.au/statistics/industry/building-and-construction/building-approvals-australia/latest-release?utm_source=chatgpt.com "Building Approvals, Australia, May 2026"
+[17]: https://www.nationwidehousepriceindex.co.uk/?utm_source=chatgpt.com "Nationwide HPI News - Home"
+[18]: https://www.pmi.spglobal.com/Public/Home/PressRelease/f1f57e739ff54287b52097b490d1522d?utm_source=chatgpt.com "S&P Global UK Manufacturing PMI"
+[19]: https://www.procure.ch/?utm_source=chatgpt.com "procure.ch - Fachverband für Einkauf und Supply Management"
+
+MONDAY 6 JUL 2026
+
+SWEDEN — SEB HOUSING PRICE INDICATOR (JULY)
+
+Release Date: 6 Jul 2026 | Local Time: 06:30
+Importance: **
+
+1. Reuters Data
+
+Housing Price Net Balance: 47,0% | Prior: 44,0%
+Expecting Increase: 55,0% | Prior: 53,0%
+Expecting Decrease: 8,0% | Prior: 9,0%
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The indicator improved for a third consecutive month:
+
+* the net balance rose to 47
+* the share expecting higher prices increased
+* the share expecting lower prices declined
+* household housing expectations continued to respond to easier rate expectations
+
+The direction is consistent with an improving Swedish industrial cycle and a gradual easing in household financial conditions, although SEB’s detailed economist commentary was not available in the supplied tape. 
+
+3. Comment — Economist Layer
+
+The release signals a continued improvement in housing sentiment rather than a renewed housing boom.
+
+The breadth is constructive: optimism increased because more households expect gains and fewer expect declines. This matters because housing expectations can transmit easier policy into consumption, mortgage demand and household confidence before transaction volumes recover.
+
+The signal remains survey-based and highly sensitive to mortgage-rate headlines. It should therefore be treated as an early financial-conditions indicator rather than hard evidence of stronger housing activity.
+
+State transition: improvement.
+
+Context from prior regional live file:
+The SEB indicator had risen to 41 in May after improving from 38, while the broader Sweden file remained split between soft households and stronger industry. July extends the housing-expectations recovery and suggests that the Riksbank easing channel is gaining traction. It does not yet resolve the weakness in realised retail demand. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release marginally reduces the case for an aggressive Riksbank easing path.
+
+It is not independently hawkish because inflation and labour-market slack remain more important. The relevant policy question is whether improving housing expectations translate into credit, transactions and consumption.
+
+A decline in the net balance below 40, particularly alongside a more hawkish Riksbank signal, would challenge the improvement.
+
+SWITZERLAND — UNEMPLOYMENT RATE (JUNE)
+
+Release Date: 6 Jul 2026 | Local Time: 09:00
+Importance: **
+
+1. Reuters Data
+
+Unemployment Rate Adjusted: 3,1% | Prior: 3,1% | Poll: 3,0% | Surprise: +0,10%
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The seasonally adjusted rate remained at 3.1%, slightly above consensus. This preserves the decade-high plateau reached after a gradual rise in Swiss labour slack.
+
+The result is consistent with the employment component of the June manufacturing PMI remaining below 50. 
+
+3. Comment — Economist Layer
+
+Swiss labour-market deterioration has stopped accelerating, but it has not reversed.
+
+The distinction between level and momentum is important:
+
+* monthly momentum: stable
+* unemployment level: materially softer than the earlier cycle
+* surprise: marginally negative
+* evidence of renewed hiring: absent
+* recession signal: not yet present
+
+The release reinforces subdued domestic price pressure because firms face less labour scarcity than during the earlier low-unemployment phase.
+
+State transition: stabilization at a softened level.
+
+Context from prior regional live file:
+Adjusted unemployment had risen from 2.9% in February to 3.0% in March and April, establishing a gradual loosening trend. June’s 3.1% reading indicates that slack remains elevated rather than continuing to build rapidly. This is consistent with Switzerland’s low-core-inflation and below-trend employment configuration. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The print is mildly dovish for the SNB but is not a standalone policy trigger.
+
+It strengthens the argument that stronger KOF and retail indicators have not yet produced a tight domestic economy. An increase to 3.3% or above would make labour weakness more relevant to SNB growth forecasts and the policy mix.
+
+UNITED KINGDOM — S&P GLOBAL CONSTRUCTION PMI / ALL-SECTOR COMPOSITE (JUNE)
+
+Release Date: 6 Jul 2026 | Local Time: 10:30
+Importance: ****
+
+1. Reuters Data
+
+Construction PMI: 38,4 | Prior: 38,2 | Poll: 40,0 | Surprise: −1,60
+MSC Composite Output: 48,4 | Prior: 48,7
+
+2. Professional Market Commentary
+
+The construction downturn remained exceptionally deep despite a marginal increase from May’s six-year low.
+
+Key tape focus:
+
+* output has fallen every month since January 2025
+* the contraction was the second sharpest since the pandemic
+* commercial construction was the only segment showing a slower decline
+* housebuilding fell more sharply
+* civil engineering dropped to its weakest level since April 2020
+* employment declined for an eighteenth consecutive month
+* subcontractor demand weakened
+* new orders remained negative but deteriorated less rapidly
+* input-cost inflation eased
+* business optimism improved on expectations of future infrastructure awards
+
+The all-sector index fell to 48.4, confirming that construction is amplifying the contraction already visible in UK services. The official S&P calendar confirms the 6 July construction release. ([pmi.spglobal.com][2])
+
+3. Comment — Economist Layer
+
+This is a continuation of a construction depression, not a conventional one-month slowdown.
+
+The hierarchy is unusually negative:
+
+* civil engineering: extreme contraction
+* housebuilding: accelerating weakness
+* employment: persistent retrenchment
+* subcontractor use: falling
+* all-sector activity: below 50
+* new-order rate of decline: improving slightly
+* expectations: less negative
+
+The modest improvement in commercial activity and optimism affects the rate of change but not the level. Firms appear to anticipate future public and infrastructure projects, while current tenders and activity remain absent.
+
+The civil-engineering reading is particularly important because it exposes a gap between prospective government investment plans and actual project execution during the political transition.
+
+State transition: deterioration in level; stabilization in rate of change. Net: continuation of the construction depression.
+
+Context from prior regional live file:
+UK construction had already fallen to 39.7 in April after remaining contractionary through the first quarter. The prior file identified high borrowing costs, weak demand and supply disruption as a structural sector constraint. June confirms that the downturn has deepened and is now dragging the broader all-sector indicator below 50. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release is materially BoE-dovish through growth and employment.
+
+It does not remove the inflation constraint because wages, transport and material costs are still rising. However, the combination of contracting services, collapsing construction and prolonged job shedding substantially weakens the case for relying on backward-looking Q1 GDP resilience.
+
+A construction PMI above 43, led by civil engineering and housebuilding rather than sentiment alone, would be needed to establish a meaningful turning point.
+
+TUESDAY 7 JUL 2026
+
+JAPAN — HOUSEHOLD SPENDING (MAY)
+
+Release Date: 7 Jul 2026 | Local Time: 01:30
+Importance: ***
+
+1. Reuters Data
+
+All Household Spending YY: −0,4% | Prior: −0,5% | Poll: −2,5% | Surprise: +2,10%
+All Household Spending MM: 3,7% | Prior: 1,6% | Poll: 1,4% | Surprise: +2,30%
+
+2. Professional Market Commentary
+
+The report materially exceeded expectations and corroborated the earlier retail-sales improvement.
+
+Key tape focus:
+
+* the strongest monthly spending increase in the recent sequence
+* the mildest annual contraction in six months
+* furniture and household goods rising sharply
+* education spending rebounding
+* clothing, healthcare and food spending increasing
+* transport and communication remaining a major drag
+* household nominal income increasing only modestly
+* wage growth falling slightly short of expectations
+
+The professional interpretation was that the consumption floor is holding despite continued pressure on real household income. 
+
+3. Comment — Economist Layer
+
+The release materially improves the Japan household-demand signal, but it does not yet establish a full real-income recovery.
+
+The 3.7% monthly increase and large consensus beat are too strong to dismiss as noise. The improvement is also reasonably broad across household goods, education, clothing, healthcare and food.
+
+The composition nonetheless contains volatility:
+
+* education reversed an unusually sharp previous decline
+* durable replacement and subsidy effects likely supported household goods
+* transport and communications remained very weak
+* nominal income growth was insufficient to remove the real-income squeeze
+
+The macro significance comes from cross-release confirmation. Retail sales, Tankan, services PMI and household spending now point in the same direction: domestic consumption is proving more resilient than expected.
+
+State transition: improvement.
+
+Context from prior regional live file:
+February and March household spending had reinforced the weak-consumption side of Japan’s macro file, even as retail indicators offered partial offsets. May narrows the annual contraction to almost zero and delivers a strong sequential rise. The income-to-spending channel is no longer clearly broken, though negative real-income pressure remains a constraint. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release supports further BoJ normalisation by strengthening the household-demand condition.
+
+The policy read remains conditional on wages. If nominal earnings continue to lag inflation, spending resilience may depend on subsidies, savings drawdown or temporary durable purchases rather than a self-sustaining wage-consumption cycle.
+
+A renewed annual decline beyond 1.5% in June would raise the probability that May reflected temporary support.
+
+NEW ZEALAND — RESERVE ASSETS (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 05:00
+Importance: **
+
+1. Reuters Data
+
+Reserve Assets Total: 52 039M | Prior: 54 697M
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Reserve assets declined by approximately NZ$2.66bn, or almost 5%, during June.
+
+The supplied tape did not provide a decomposition between:
+
+* currency-valuation effects
+* bond-price movements
+* maturing securities
+* liquidity-management operations
+* active foreign-exchange transactions
+
+No RBNZ intervention announcement was identified. 
+
+3. Comment — Economist Layer
+
+The monthly movement is large enough to monitor but insufficient to infer active NZD defence.
+
+Reserve assets are valuation-sensitive and can move materially when the New Zealand dollar, foreign bond prices or portfolio composition change. A single drawdown without transaction detail is therefore ambiguous.
+
+State transition: no material change pending decomposition.
+
+Context from prior regional live file:
+New Zealand’s policy signal had been driven primarily by weak domestic activity, labour-market slack and export-price developments rather than reserve management. June’s reserve decline is larger than routine noise but does not yet alter that hierarchy. Confirmation would require persistence or explicit operational evidence.
+
+4. HF Take — Strategist Layer
+
+The release has limited standalone NZD relevance.
+
+Continued multi-billion-dollar declines during renewed NZD weakness would increase the probability of an active reserve-management or intervention story. Until then, the correct classification is high-watch rather than confirmed policy action.
+
+UNITED KINGDOM — LLOYDS HOUSE PRICE INDEX (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+House Prices MM: 0,2% | Prior: −0,1% | Poll: 0,1% | Surprise: +0,10%
+House Prices YY: 0,6% | Prior: 0,5% | Poll: 0,8% | Surprise: −0,20%
+
+2. Professional Market Commentary
+
+The index recorded its first monthly increase in four months, while the second-quarter change remained negative.
+
+Key tape focus:
+
+* average price of £299,330
+* annual growth of 0.6%
+* quarterly prices down 0.4%
+* first-time-buyer prices increasing modestly
+* Northern Ireland remaining the strongest region
+* mortgage rates retreating from their earlier highs
+* the earlier collapse in approvals interpreted partly as an unwind of the rate spike
+
+The index was rebranded from Halifax to Lloyds in July 2026, with the methodology unchanged. 
+
+3. Comment — Economist Layer
+
+The price level is stabilising, but the activity pipeline remains weak.
+
+A first monthly increase in four months supports the idea that lower mortgage rates are beginning to arrest the price decline. However, the quarterly fall and weak mortgage approvals argue against calling a renewed housing expansion.
+
+The divergence across indicators remains central:
+
+* Lloyds prices: marginal improvement
+* Nationwide prices: flat
+* mortgage approvals: sharply lower
+* housebuilding PMI: collapsing
+* transaction outlook: fragile
+
+Prices are bottoming more clearly than housing activity.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+UK housing had already been classified as functional at the price level but fragile in financing and transaction activity. The earlier Nationwide print was flat, while mortgage approvals fell to 56,205 and construction weakened sharply. Lloyds confirms the price-floor thesis without repairing the forward housing pipeline.
+
+4. HF Take — Strategist Layer
+
+The release is neutral for the BoE.
+
+Stable house prices reduce the probability of an immediate negative housing-wealth shock, but approvals and construction indicate that restrictive rates are still suppressing activity.
+
+A sustained recovery requires both positive monthly prices and approvals returning above approximately 60k.
+
+SWITZERLAND — FOREIGN-EXCHANGE RESERVES (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 09:00
+Importance: ****
+
+1. Reuters Data
+
+Foreign-Exchange Reserves CHF: 758 794,00M | Prior: 710 818,00M | Revised: 710 900,00M
+
+2. Professional Market Commentary
+
+Swiss foreign-exchange reserves increased by approximately CHF47.9bn, or 6.7%, in one month.
+
+The move is far larger than recent monthly changes. The professional tape interpreted it as potentially consistent with renewed franc-selling intervention after the SNB had already intervened against safe-haven CHF strength during the first quarter.
+
+The inference is not yet confirmed because:
+
+* a stronger dollar can increase the CHF value of foreign assets
+* bond-price changes can affect the portfolio
+* the monthly reserve series does not isolate transactions
+* official second-quarter intervention data are not yet available
+
+Institutional commentary nevertheless views foreign-exchange intervention as a more likely SNB tool than a return to materially negative rates. 
+
+3. Comment — Economist Layer
+
+The scale of the increase changes the reserve signal from routine valuation noise to a credible intervention watch.
+
+The sequence matters:
+
+* March reserves had risen by roughly CHF11bn
+* April and May reserves subsequently declined
+* June reserves increased by nearly CHF48bn
+* the SNB has publicly retained the option to intervene
+* Switzerland simultaneously has very low underlying inflation
+
+The policy logic is coherent. With the policy rate at zero and core inflation extremely low, the SNB can use balance-sheet intervention to resist excessive CHF appreciation without relying immediately on negative rates.
+
+However, the monthly reserve stock cannot prove that the SNB bought foreign currency. Valuation, reinvestment and market-price effects must be separated before calling the increase confirmed intervention.
+
+State transition: escalation, conditional.
+
+Context from prior regional live file:
+Earlier reserve releases were treated as inconclusive because monthly declines of roughly CHF5bn were compatible with ordinary valuation effects. June is different in scale and occurs after the SNB had already increased its stated willingness to intervene. The Swiss policy regime may be shifting from passive CHF tolerance toward more active exchange-rate management. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release is CHF-negative at the margin through the intervention channel.
+
+The strongest relative-value interpretation is not SNB tightening, but a preference for FX intervention while rates remain at zero. Confirmation in the quarterly transaction data would materially strengthen that view.
+
+If the increase is later attributed predominantly to valuation effects, the intervention interpretation should be downgraded immediately.
+
+CANADA — LEADING INDEX (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 12:00
+Importance: **
+
+1. Reuters Data
+
+Leading Index MM: 0,14% | Prior: 0,11% | Revised: 0,15%
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The index posted a third consecutive modest positive increase. Subcomponent details were not available in the supplied tape.
+
+The direction is consistent with an economy moving out of its earlier contraction phase but continuing to expand below potential. 
+
+3. Comment — Economist Layer
+
+The index indicates weak positive forward momentum rather than a strong cyclical acceleration.
+
+Its value comes from sequence consistency:
+
+* April GDP rebounded
+* manufacturing PMI remained above 50
+* the leading index stayed positive
+* the magnitude of improvement remained small
+* underlying domestic demand remained less convincing than the energy and external sectors
+
+State transition: continuation.
+
+Context from prior regional live file:
+Canada had moved from recession risk toward a “not recession, not yet recovery” configuration after April GDP. The leading index supports that middle path. It confirms stabilization without establishing an above-potential growth regime.
+
+4. HF Take — Strategist Layer
+
+The release supports BoC patience.
+
+Two consecutive negative prints would reopen the forward-growth downside ahead of subsequent policy meetings. At present, the index neither validates rate cuts nor provides a strong case for tightening.
+
+NEW ZEALAND — GLOBAL DAIRY TRADE AUCTION (7 JULY EVENT)
+
+Release Date: 7 Jul 2026 | Local Time: 14:00
+Importance: ***
+
+1. Reuters Data
+
+Milk Auctions: 3 793 | Prior: 3 979
+
+2. Professional Market Commentary
+
+The average auction price declined by approximately 4.7% from the previous event.
+
+The fall is material for New Zealand’s dominant export sector. The supplied tape did not contain a full whole-milk-powder, skim-milk-powder and fat-product split.
+
+The Global Dairy Trade results page confirms a 7 July 2026 event and an average winning price of US$3,793 per metric tonne. ([globaldairytrade.info][3])
+
+3. Comment — Economist Layer
+
+The release is a negative terms-of-trade signal for New Zealand.
+
+Lower dairy prices affect:
+
+* expected farmgate milk payouts
+* rural income
+* agricultural investment
+* export receipts
+* NZD’s commodity-income support
+
+The missing product split limits the assessment of whether the weakness is concentrated in one product or is broadly based. The direction is nevertheless unambiguously weaker than the previous event.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+The April GDT event had already fallen to US$4,143 from US$4,228, extending an earlier decline. The July result at US$3,793 indicates that the dairy-price correction has continued and become more material. New Zealand’s external-income support is weakening while domestic activity remains soft. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release is NZD-negative and supports an easier RBNZ reaction function at the margin.
+
+One auction does not determine the milk-payout cycle. A second consecutive decline led by whole milk powder would make the rural-income and current-account implications more durable.
+
+CANADA — INTERNATIONAL MERCHANDISE TRADE (MAY)
+
+Release Date: 7 Jul 2026 | Local Time: 14:30
+Importance: ****
+
+1. Reuters Data
+
+Trade Balance C$: 4,24B | Prior: 2,72B | Revised: 3,41B | Poll: 2,85B | Surprise: +1,390B
+
+2. Professional Market Commentary
+
+Canada recorded its largest merchandise-trade surplus in four years and a third consecutive monthly surplus.
+
+Key tape focus:
+
+* exports rose to a record C$77.1bn
+* exports increased for a fourth consecutive month
+* imports declined marginally
+* metal ores and non-metallic minerals led the gain
+* sulphur and gold-related exports were strong
+* unwrought-aluminium exports surged
+* energy exports declined
+* export volumes were essentially flat
+* the US bilateral surplus increased
+* non-US export diversification continued
+
+Institutional economists described the result as a likely high-water mark because much of the improvement reflected prices and supply substitution associated with the Hormuz disruption rather than stronger real export volumes. Statistics Canada confirms exports rising 0.9%, imports falling 0.2% and the surplus widening to C$4.2bn. ([Statistique Canada][4])
+
+3. Comment — Economist Layer
+
+The trade surplus is large and growth-supportive, but its quality is weaker than the headline.
+
+The decisive distinction is value versus volume:
+
+* export value: record high
+* export volume: essentially flat
+* commodity and shortage premia: major positive contribution
+* energy exports: weaker
+* imports: only marginally lower
+* bilateral US position: stronger
+* non-US diversification: genuine but secondary
+
+Canada benefited from supply substitution in sulphur and aluminium while global shipping through Hormuz remained constrained. Those flows are economically real, but they are regime-dependent and likely to fade as transport and commodity markets normalise.
+
+Net exports should add firmly to second-quarter GDP. The release should not be interpreted as evidence that underlying Canadian end-demand or productivity has accelerated.
+
+State transition: improvement, backward-looking and regime-dependent.
+
+Context from prior regional live file:
+April had already produced a C$2.72bn surplus and established Canada as the oil-exporter and commodity-income beneficiary of the global supply shock. May extends that improvement substantially, but with even clearer price and substitution effects. The external sector is supporting growth while the domestic recovery remains less decisive. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release is CAD-positive and reduces near-term BoC easing pressure.
+
+It does not provide a clean hiking signal because the export record is price-led and may reverse as the ceasefire and partial shipping normalisation reduce shortage premia.
+
+A June surplus below C$2bn would confirm that May represented the high-water mark of the war-related external windfall rather than falsify the current analysis.
+
+CANADA — IVEY PMI (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 16:00
+Importance: **
+
+1. Reuters Data
+
+Ivey PMI NSA: 59,7 | Prior: 61,3
+Ivey PMI SA: 56,2 | Prior: 58,2
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+Both adjusted and unadjusted indices remained clearly above 50 but declined from May:
+
+* seasonally adjusted activity remained expansionary
+* the pace of expansion slowed
+* the public and private purchasing cycle remained positive
+* detailed employment, inventories, prices and supplier-delivery indices were unavailable in the supplied tape
+
+The missing price component is important because the S&P manufacturing survey had shown the strongest Canadian input-cost pressure since July 2022. 
+
+3. Comment — Economist Layer
+
+The Ivey survey confirms expansion but not acceleration.
+
+The decline from 58.2 to 56.2 is consistent with Canada’s broader configuration:
+
+* recession risk has receded
+* activity remains positive
+* external income is strong
+* growth momentum is not broadening rapidly
+* price and supply distortions remain important
+
+The release neither invalidates the positive Canadian activity sequence nor confirms a new high-growth regime.
+
+State transition: continuation.
+
+Context from prior regional live file:
+Ivey had risen sharply from a sub-50 March reading to 57.7 in April and 58.2 in May. June remains well above 50 but marks the first clear loss of momentum in that recovery. Canada continues to expand, with the pace becoming less exceptional. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release supports BoC patience rather than a directional policy shift.
+
+A seasonally adjusted reading below 52 alongside weaker employment would signal that the rebound is losing broader domestic support. For now, activity remains firm enough to resist a growth-led easing repricing.
+
+## WEDNESDAY 8 JUL 2026
+
+### JAPAN — BALANCE OF PAYMENTS (MAY)
+
+Release Date: 8 Jul 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Current Account NSA JPY: 3 968,3B | Prior: 3 907,8B | Poll: 4 121,3B | Surprise: −153,00B
+Current Account Balance SA: 3 064 500M | Prior: 4 211 100M
+Trade Balance Customs Basis SA: 204 491,00M | Prior: 469 637,00M
+
+#### 2. Professional Market Commentary
+
+The current-account surplus remained large but missed expectations, while the seasonally adjusted balance fell sharply.
+
+The professional tape focused on:
+
+* the customs trade surplus more than halving
+* elevated imported energy costs
+* extreme yen weakness amplifying the import bill
+* investment income continuing to support the overall surplus
+* the external account remaining healthier than the trade account alone
+
+The Ministry of Finance confirmed the May preliminary balance-of-payments release. ([mof.go.jp][1])
+
+#### 3. Comment — Economist Layer
+
+The primary signal is a deterioration in the trade and terms-of-trade leg, not a breakdown in Japan’s overall external position.
+
+Japan continues to generate a large current-account surplus because its foreign-asset income remains substantial. However, the decline in the seasonally adjusted balance and the smaller customs trade surplus show the pressure created by the combination of expensive energy and a weak yen.
+
+Signal hierarchy:
+
+* current-account level: still strong
+* monthly momentum: weaker
+* trade balance: deteriorating
+* foreign-investment income: main buffer
+* yen-import-price transmission: adverse
+
+The external surplus therefore remains structurally supportive for Japan, but its current composition is increasingly dependent on income earned abroad rather than goods trade.
+
+State transition: mild deterioration — trade leg weakening, income leg continuing.
+
+Context from prior regional live file:
+Japan’s external position had remained supported by investment income even when energy imports weakened the goods balance. May intensifies that divergence as the trade surplus narrows materially. The current account remains robust, but the domestic terms-of-trade burden is increasing.
+
+#### 4. HF Take — Strategist Layer
+
+The report does not create a direct BoJ policy signal, but it reinforces the weak-yen inflation channel.
+
+A weaker trade balance reduces the fundamental support ordinarily associated with Japan’s external surplus, while the strong income account prevents a conventional balance-of-payments stress interpretation.
+
+A recovery in the seasonally adjusted trade surplus above ¥400bn as oil prices normalise would reduce the concern. Persistent deterioration would increase the policy pressure surrounding JPY weakness and imported inflation.
+
+---
+
+### NEW ZEALAND — RBNZ MONETARY POLICY REVIEW
+
+Release Date: 8 Jul 2026 | Local Time: 04:00
+Importance: ****
+
+#### 1. Reuters Data
+
+Cash Rate: 2,50% | Prior: 2,25% | Poll: 2,50% | Surprise: 0,000%
+
+#### 2. Professional Market Commentary
+
+The RBNZ unanimously increased the OCR by 25bp to 2.50% and retained a tightening bias.
+
+Key official messages:
+
+* the OCR remained below or at the bottom of the estimated neutral range
+* partial reopening of the Strait of Hormuz had lowered oil prices
+* the inflation consequences of the supply shock had not fully disappeared
+* further increases appeared likely
+* the timing of subsequent hikes was highly uncertain
+* easier wholesale rates and a weaker NZD risked loosening financial conditions prematurely
+
+The RBNZ confirmed both the increase and the guidance that further rises appeared likely. ([Banque de Réserve de Nouvelle-Zélande][2])
+
+The market reaction was conventionally hawkish: NZD strengthened and front-end rates increased. 
+
+#### 3. Comment — Economist Layer
+
+This is a clear policy-regime transition.
+
+The RBNZ is no longer debating whether to begin removing stimulus. It has initiated tightening and is guiding toward neutral, even though the immediate oil shock has partially reversed.
+
+The reaction-function hierarchy is:
+
+* current policy stance: still judged stimulatory
+* headline inflation: likely near peak
+* medium-term inflation risk: still too high
+* financial conditions: easing more than desired
+* exchange rate: potential inflation amplifier
+* growth momentum: softer but not weak enough to block tightening
+* future hike timing: highly data-dependent
+
+The decision is important because the RBNZ did not treat lower oil prices as sufficient to abandon the tightening case. The concern has migrated from the first-round energy shock toward price-setting behaviour, margin rebuilding and the risk that easier financial conditions sustain inflation.
+
+State transition: escalation — tightening cycle initiated.
+
+Context from prior regional live file:
+The May decision had exposed an evenly divided committee, with the governor’s casting vote preserving the hold. July resolves that division in favour of a unanimous hike. New Zealand has moved from an easing legacy into an explicit normalisation cycle.
+
+#### 4. HF Take — Strategist Layer
+
+The decision is NZD-supportive and should maintain upward pressure on the short end of the New Zealand curve.
+
+The central scenario is additional tightening, but not necessarily at every meeting. A roughly gradual path toward neutral is more consistent with the guidance than an accelerated sequence.
+
+The hawkish interpretation would be falsified by:
+
+* a September hold
+* removal of the “further increases likely” language
+* Q3 inflation materially below the RBNZ’s 3.3% projection
+* renewed deterioration in employment and domestic demand
+
+---
+
+### SWEDEN — CPI / CPIF FLASH (JUNE)
+
+Release Date: 8 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+#### 1. Reuters Data
+
+CPI MM Flash: 0,4% | Prior: 1,0%
+CPI YY Flash: 0,7% | Prior: 0,8% | Poll: 0,7% | Surprise: 0,00%
+
+CPIF MM Flash: 0,3% | Prior: 0,9%
+CPIF YY Flash: 1,3% | Prior: 1,5% | Poll: 1,2% | Surprise: +0,10%
+
+CPIF Ex Energy MM: 0,6% | Prior: 0,7%
+CPIF Ex Energy YY: 0,4% | Prior: 0,5% | Poll: 0,3% | Surprise: +0,10%
+
+#### 2. Professional Market Commentary
+
+Swedish inflation remained substantially below the Riksbank’s 2% target.
+
+The flash release showed:
+
+* CPI inflation easing to 0.7%
+* CPIF inflation falling to 1.3%
+* CPIF excluding energy at only 0.4%
+* modest upside surprises relative to low expectations
+* no evidence of broad domestic price pressure
+
+Statistics Sweden confirmed the 0.7% CPI rate and the 1.3% CPIF result. ([Statistikmyndigheten SCB][3])
+
+#### 3. Comment — Economist Layer
+
+Sweden is the clearest DM example of strong activity coexisting with very weak underlying inflation.
+
+The 0.4% CPIF ex-energy rate is the decisive line. Unlike economies where lower headline inflation is driven primarily by energy, Sweden’s core measure is also significantly below target.
+
+The configuration is:
+
+* headline inflation: low
+* CPIF: below target
+* CPIF ex-energy: exceptionally weak
+* activity momentum: accelerating
+* long-term expectations: anchored
+* immediate Riksbank inflation constraint: limited
+
+The modest upside surprise does not alter the regime because the level remains extremely low. The main future risk is not current inflation persistence but whether stronger growth, housing expectations and SEK weakness eventually generate domestic or imported price pressure.
+
+State transition: continuation — sub-target disinflation entrenched.
+
+Context from prior regional live file:
+Swedish inflation had already fallen well below target while manufacturing and housing sentiment improved. June confirms that the growth recovery has not yet generated core-price pressure. Sweden remains in a favourable positive-supply configuration rather than a conventional overheating phase.
+
+#### 4. HF Take — Strategist Layer
+
+The release preserves room for an accommodative Riksbank stance.
+
+A near-term hawkish shift would require evidence that faster activity is transmitting into services, wages or imported inflation. Current CPIF ex-energy does not provide that evidence.
+
+For SEK, the policy implication is two-sided: stronger growth is supportive, but persistent inflation undershooting limits the relative-rate advantage.
+
+---
+
+### SWEDEN — MONTHLY GDP INDICATOR (MAY)
+
+Release Date: 8 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+#### 1. Reuters Data
+
+GDP MM: 0,9% | Prior: 0,6%
+
+#### 2. Professional Market Commentary
+
+Sweden’s monthly GDP indicator accelerated for a second consecutive month.
+
+Statistics Sweden reported:
+
+* GDP increasing 0.9% month on month
+* April growth of 0.6%
+* calendar-adjusted GDP 3.9% above May 2025
+* continued recovery after the weak opening to the year
+
+The official release described growth as continuing in May. ([Statistikmyndigheten SCB][4])
+
+#### 3. Comment — Economist Layer
+
+The GDP indicator provides hard-data confirmation of the strong Swedish survey sequence.
+
+The 0.9% increase is large enough to matter, particularly following the 0.6% April gain. It reduces the probability that the elevated manufacturing PMI and improving housing expectations are merely confidence or inventory signals.
+
+The main limitation is the absence of detailed expenditure and sector composition. The release cannot yet identify how much growth came from:
+
+* exports and defence-linked manufacturing
+* household consumption
+* inventories
+* public demand
+* volatile monthly production components
+
+State transition: improvement.
+
+Context from prior regional live file:
+Sweden entered the quarter with strong manufacturing surveys but less convincing household demand. Consecutive April and May GDP gains materially strengthen the real-activity signal. The recovery is becoming visible in hard data rather than surveys alone.
+
+#### 4. HF Take — Strategist Layer
+
+The release is SEK-supportive through growth but not automatically Riksbank-hawkish because inflation remains very weak.
+
+The combination of faster activity and 0.4% CPIF ex-energy is favourable for Swedish assets: stronger nominal growth without an immediate policy tightening requirement.
+
+A negative June GDP print or a reversal in industrial production would challenge the interpretation.
+
+---
+
+### SWEDEN — PRODUCTION VALUE INDEX (MAY)
+
+Release Date: 8 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+#### 1. Reuters Data
+
+Private Production YY: 5,2% | Prior: 4,1% | Revised: 4,0%
+Private Production MM: 0,6% | Prior: 1,7% | Revised: 1,5%
+
+Industrial Production Value YY: 6,9% | Prior: 7,1% | Revised: 6,9%
+Industrial Production Value MM: 0,2% | Prior: 4,2%
+
+#### 2. Professional Market Commentary
+
+Private-sector production increased further, while industrial production remained at a high annual level but slowed materially on the month.
+
+Statistics Sweden confirmed:
+
+* private production rising 0.6% m/m
+* private production rising 5.2% y/y
+* continued expansion after April’s strong gain
+
+The official production-value release supports the broader recovery signal. ([Statistikmyndigheten SCB][5])
+
+#### 3. Comment — Economist Layer
+
+The release confirms growth but also shows a moderation in marginal industrial momentum.
+
+Private production is broad enough to support the GDP signal. Industrial production value, however, rose only 0.2% after April’s 4.2% surge. The annual 6.9% rate therefore partly reflects the elevated level established earlier.
+
+Signal hierarchy:
+
+* private production level: strong
+* private production monthly momentum: positive
+* industrial annual growth: strong
+* industrial monthly momentum: slowing
+* survey confirmation: broadly positive
+* evidence of an accelerating industrial boom: incomplete
+
+State transition: improvement, with industrial rate-of-change moderation.
+
+Context from prior regional live file:
+April had produced a sharp industrial rebound and raised the risk that subsequent data would reflect payback. May avoided a reversal and maintained positive production growth. Sweden’s industrial recovery remains intact, though no longer accelerating at April’s pace.
+
+#### 4. HF Take — Strategist Layer
+
+The production figures reinforce the growth-positive Swedish configuration but do not justify aggressive policy repricing.
+
+SEK should benefit more directly than Swedish front-end rates because the inflation side remains benign. The next test is whether June production remains positive without renewed inventory or supply-chain distortion.
+
+---
+
+## THURSDAY 9 JUL 2026
+
+### NEW ZEALAND — BUSINESSNZ MANUFACTURING PMI (JUNE)
+
+Release Date: 9 Jul 2026 | Local Time: 00:30
+Importance: ***
+
+#### 1. Reuters Data
+
+Manufacturing PMI: 59,7 | Prior: 49,9
+
+#### 2. Professional Market Commentary
+
+The official publication confirmed a broad manufacturing acceleration rather than an isolated headline spike.
+
+BusinessNZ and BNZ reported:
+
+* headline PMI at 59.7
+* May officially revised to 51.3
+* production at 59.4
+* employment at 55.8
+* new orders at 64.1
+* finished stocks at 56.9
+* deliveries at 57.3
+
+The Reuters mechanical prior remains 49.9 in Section 1, while the official revision reduces the month-on-month increase from 9.8 points to 8.4 points. The result was still the strongest since July 2021. ([BusinessNZ][6])
+
+#### 3. Comment — Economist Layer
+
+The magnitude is now better validated by the official sub-indices.
+
+New orders are the strongest internal signal. A reading of 64.1 suggests an actual pipeline of future work rather than an index driven solely by supplier delays or employment.
+
+Production and employment also expanded materially, making the release compositionally stronger than the Australian and UK PMI rebounds earlier in the tape.
+
+Caveats remain:
+
+* one-month survey volatility
+* possible post-disruption restocking
+* potential front-loading around shipping risks
+* unusually large revision and monthly move
+* weaker dairy export prices
+
+State transition: improvement — magnitude verified but sustainability unproven.
+
+Context from prior regional live file:
+New Zealand manufacturing had been oscillating around the expansion threshold and lacked a durable recovery signal. June represents a clear break higher across production, employment and orders. It materially improves the near-term growth backdrop accompanying the RBNZ’s tightening decision.
+
+#### 4. HF Take — Strategist Layer
+
+The release supports the RBNZ’s decision to begin tightening.
+
+It reduces the risk that the hike was delivered into an economy already entering contraction. However, policy conclusions should not extrapolate a single PMI observation into a sustained boom.
+
+A July reversion below 53, particularly led by new orders, would classify June as a restart or front-loading spike.
+
+---
+
+### UNITED KINGDOM — RICS HOUSING SURVEY (JUNE)
+
+Release Date: 9 Jul 2026 | Local Time: 01:01
+Importance: **
+
+#### 1. Reuters Data
+
+RICS Housing Survey: −33 | Prior: −35 | Revised: −34 | Poll: −30 | Surprise: −3,0
+
+#### 2. Professional Market Commentary
+
+The housing downturn eased marginally but remained broad and significant.
+
+The RICS survey showed:
+
+* headline price balance at −33
+* buyer enquiries at −29
+* newly agreed sales at −32
+* near-term sales expectations improving to −16
+* twelve-month sales expectations near flat
+* rental demand strengthening
+* landlord instructions remaining negative
+
+RICS described the improvement as tentative and insufficient to signal a genuine turnaround. ([RICS][7])
+
+#### 3. Comment — Economist Layer
+
+The survey confirms stabilization at a depressed level.
+
+The less-negative buyer and sales balances suggest the pace of deterioration is moderating. However, every major current-activity measure remains contractionary.
+
+The broader housing stack is internally consistent:
+
+* Lloyds prices: marginally positive
+* Nationwide prices: flat
+* RICS balances: deeply negative
+* mortgage approvals: depressed
+* housebuilding PMI: extremely weak
+* forward sales expectations: improving modestly
+
+The market is finding a price floor before achieving an activity recovery.
+
+State transition: no material change — tentative stabilization at the bottom.
+
+Context from prior regional live file:
+UK house prices had stopped falling rapidly, but mortgage approvals and construction remained severely depressed. RICS confirms that the activity side has not followed the price stabilization. Housing is no longer deteriorating as quickly, but it remains a drag on domestic growth.
+
+#### 4. HF Take — Strategist Layer
+
+The release is mildly BoE-dovish but less negative than the construction and services surveys.
+
+An improvement toward −15, accompanied by approvals above 60k, would represent a meaningful recovery. Until then, housing remains part of the restrictive-rate transmission channel.
+
+---
+
+### JAPAN — M2 / BROAD MONEY (JUNE)
+
+Release Date: 9 Jul 2026 | Local Time: 01:50
+Importance: **
+
+#### 1. Reuters Data
+
+M2: 1 291 809 700M | Prior: 1 292 450 700M | Revised: 1 292 433 100M
+Broad Money: 2 327,9T | Prior: 2 328,6T | Revised: 2 328,2T
+
+#### 2. Professional Market Commentary
+
+The outstanding levels were marginally lower on the month, but the official growth rates remained positive.
+
+The BoJ’s completed release showed:
+
+* M2 growth of 2.2% y/y
+* M3 growth of 1.5% y/y
+* broadly defined liquidity growth of 4.5% y/y
+* M2 falling at a 0.6% seasonally adjusted annualised monthly rate
+* M3 falling at a 1.0% annualised rate
+
+The result is therefore not an outright broad-money contraction. ([Banque du Japon][8])
+
+#### 3. Comment — Economist Layer
+
+Japan is displaying a conventional policy-normalisation distinction between the monetary base and broad private-sector liquidity.
+
+The monetary base is contracting rapidly as the BoJ reduces reserves and accommodation. M2 and broad liquidity are still expanding year on year because bank deposits, credit creation and other financial assets continue to grow.
+
+The correct configuration is:
+
+* monetary base: sharply contracting
+* monthly broad-money momentum: softer
+* M2 annual growth: positive
+* broadly defined liquidity: still firm
+* evidence of credit-system stress: absent
+
+State transition: continuation — quantitative tightening without broad monetary contraction.
+
+Context from prior regional live file:
+The shrinking monetary base had raised the question of whether BoJ tightening was beginning to restrict private liquidity. June money-stock data show no such break yet. Broad money continues to expand even as reserve-based liquidity contracts.
+
+#### 4. HF Take — Strategist Layer
+
+The release allows the BoJ to continue normalisation without evidence of acute monetary transmission stress.
+
+A sustained outright decline in M2 over several months, accompanied by weaker lending and deposits, would be a more meaningful dovish signal. Current data do not meet that threshold.
+
+---
+
+## FRIDAY 10 JUL 2026
+
+### JAPAN — CORPORATE GOODS PRICE INDEX (JUNE)
+
+Release Date: 10 Jul 2026 | Local Time: 01:50
+Importance: ****
+
+#### 1. Reuters Data
+
+Corporate Goods Price Index MM: 0,4% | Prior: 0,9% | Revised: 1,1% | Poll: 0,3% | Surprise: +0,10%
+Corporate Goods Price Index YY: 7,1% | Prior: 6,3% | Revised: 6,6% | Poll: 6,8% | Surprise: +0,30%
+
+#### 2. Professional Market Commentary
+
+Wholesale inflation accelerated to its highest annual rate since March 2023 and exceeded expectations.
+
+Official detail showed:
+
+* producer-price index at 135.4
+* yen-basis import prices rising 29.7% y/y
+* yen-basis export prices rising 20.7%
+* contract-currency import prices increasing only 0.1% m/m
+* contract-currency export prices falling 0.4% m/m
+* a major contribution from fuel and non-ferrous metals
+* the weak yen acting as the dominant import-price amplifier
+
+The BoJ confirmed the 0.4% monthly producer-price increase and the 29.7% rise in yen-basis import prices. ([Banque du Japon][9])
+
+Professional commentary focused on the risk that wholesale pressure would pass into consumer prices faster than in previous cycles. 
+
+#### 3. Comment — Economist Layer
+
+This is Japan’s clearest inflation-pipeline escalation.
+
+The headline is reinforced by three features:
+
+* May was revised materially higher
+* import inflation accelerated further
+* the price shock extends beyond oil into metals and industrial inputs
+
+The yen basis versus contract-currency distinction is critical. Much of the inflation acceleration is not generated by foreign suppliers raising underlying contract prices; it is generated by the currency conversion into an exceptionally weak yen.
+
+The domestic inflation regime now contains several mutually reinforcing elements:
+
+* wholesale prices at 7.1%
+* yen import prices near 30%
+* wage settlements above 5%
+* elevated Tankan inflation expectations
+* strong domestic services demand
+* government subsidies temporarily restraining measured consumer inflation
+
+The wedge between wholesale and consumer inflation is therefore partly artificial. It may represent delayed pass-through rather than genuine upstream disinflation.
+
+State transition: escalation.
+
+Context from prior regional live file:
+Tankan expectations, services input costs and household demand had already strengthened the domestic-inflation case. June CGPI adds a powerful upstream and currency channel. Japan is moving from an oil-shock story toward a broader wage, expectations and import-price inflation regime.
+
+#### 4. HF Take — Strategist Layer
+
+The release materially strengthens the case for another BoJ hike, with October remaining a plausible live meeting if consumer-price and wage transmission continue.
+
+The release is not unambiguously JPY-positive because extreme yen weakness is itself creating the inflation problem and may raise political pressure around policy coordination.
+
+The hawkish signal would weaken if:
+
+* CGPI falls below 6% for two consecutive months
+* yen-basis import-price inflation drops below 20%
+* services inflation fails to accelerate
+* firms absorb costs through margins rather than consumer-price increases
+
+---
+
+### SWEDEN — FIVE-YEAR MONEY-MARKET CPIF EXPECTATIONS (JULY)
+
+Release Date: 10 Jul 2026 | Local Time: 08:00
+Importance: **
+
+#### 1. Reuters Data
+
+CPIF Five-Year Expectations: 2,1% | Prior: 2,0%
+
+#### 2. Professional Market Commentary
+
+No Tier 1 standalone debate was detected.
+
+Long-term money-market inflation expectations edged above the Riksbank’s target despite current CPIF inflation of only 1.3% and CPIF excluding energy at 0.4%.
+
+The survey therefore indicates that market participants view the present inflation undershoot as temporary rather than a loss of Riksbank credibility. 
+
+#### 3. Comment — Economist Layer
+
+The expectation series remains well anchored.
+
+A 2.1% five-year reading is not evidence of upside de-anchoring. It is arguably constructive because expectations remain near target even while current inflation is materially below it.
+
+The combination gives the Riksbank room to tolerate the current undershoot without creating an immediate concern that expectations will follow realised inflation downward.
+
+State transition: no material change.
+
+Context from prior regional live file:
+Swedish spot inflation had fallen far below target while economic activity improved. Five-year expectations have not followed the current undershoot. The Riksbank retains credibility on the medium-term inflation objective.
+
+#### 4. HF Take — Strategist Layer
+
+The release limits the case for emergency easing in response to current low inflation.
+
+A decline toward 1.7% would raise a downside credibility concern. A rise beyond 2.4% would suggest stronger growth or SEK weakness was creating an upside expectation problem. The current reading implies neither.
+
+---
+
+### NORWAY — CPI (JUNE)
+
+Release Date: 10 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+#### 1. Reuters Data
+
+CPI MM: −0,2% | Prior: 0,2% | Poll: 0,3% | Surprise: −0,50%
+CPI YY: 2,7% | Prior: 3,1% | Poll: 3,2% | Surprise: −0,50%
+
+#### 2. Professional Market Commentary
+
+The headline CPI delivered a large downside surprise.
+
+The initial scout tape treated CPI-ATE as unchanged at 3.4%. That line is superseded by the completed official release: Statistics Norway’s final June tables show CPI-ATE at **2.7% y/y and −0.1% m/m**, down from 3.4% in May.
+
+The completed release therefore shows:
+
+* headline CPI at 2.7%
+* CPI-ATE also at 2.7%
+* food inflation slowing to 2.3%
+* transport inflation slowing to 1.7%
+* information and communication inflation slowing sharply
+* restaurants and accommodation remaining elevated at 6.0%
+
+Statistics Norway noted that only selected figures were available initially because of operational issues and published the complete CPI-ATE data on 15 July. ([SSB][10])
+
+#### 3. Comment — Economist Layer
+
+The official completion materially changes the macro interpretation.
+
+This is no longer a textbook divergence between falling headline inflation and sticky 3.4% core inflation. Headline and CPI-ATE both fell to 2.7%, indicating that disinflation broadened beyond the energy channel.
+
+The composition is still not uniformly benign:
+
+* restaurants and accommodation: sticky
+* labour-intensive services excluding administered prices: elevated
+* housing costs: firmer
+* wage settlement: still high
+* aggregate core measure: materially softer
+
+The correct signal is therefore broad disinflation with residual services pockets, not continued core stagnation.
+
+State transition: improvement — disinflation broadening into the core measure.
+
+Context from prior regional live file:
+Norway had combined energy-driven headline pressure with a persistent underlying inflation constraint. June materially weakens that configuration because CPI-ATE also falls. The case for another Norges Bank hike is less secure than the initial selected-data release suggested.
+
+#### 4. HF Take — Strategist Layer
+
+The release lowers the probability of an August hike.
+
+Norges Bank may still emphasise wages, services inflation and NOK weakness, but the burden of proof has shifted. A further hike now requires evidence that the June core decline is temporary rather than simply confirmation of broader disinflation.
+
+A CPI-ATE rebound above 3% would restore the hawkish case. A second reading near or below 2.7% would favour a hold and a lower projected policy path.
+
+---
+
+### CANADA — BUILDING PERMITS (MAY)
+
+Release Date: 10 Jul 2026 | Local Time: 14:30
+Importance: **
+
+#### 1. Reuters Data
+
+Building Permits MM: −1,7% | Prior: −7,6% | Revised: −6,6% | Poll: 2,4% | Surprise: −4,10%
+
+#### 2. Professional Market Commentary
+
+Permits declined for a second month and missed expectations materially.
+
+The final official composition corrects the initial scout interpretation:
+
+* total permits fell 1.7%
+* non-residential permits declined 6.1%
+* residential permits increased 1.2%
+* the total permit value fell to C$12.4bn
+* constant-dollar permits fell 1.6% m/m and 7.0% y/y
+
+The decline was therefore driven by non-residential construction intentions, not by a contraction in the residential permit pipeline. ([Statistique Canada][11])
+
+#### 3. Comment — Economist Layer
+
+The headline is weak, but its internal message is less negative for housing than initially assumed.
+
+The two-month decline in total permits indicates softer construction intentions. However, May’s residential increase provides a partial offset and prevents the release from confirming a broad housing retrenchment.
+
+Signal hierarchy:
+
+* total permits: negative
+* non-residential: clear deterioration
+* residential: modest improvement
+* real permit value: weak
+* construction outlook: softer, but uneven
+
+State transition: deterioration in non-residential construction; stabilization in residential permits.
+
+Context from prior regional live file:
+Canadian growth had been supported by energy, trade and a partial improvement in housing-related activity. May permits weaken the investment pipeline but do not show a renewed residential collapse. The construction drag is concentrated more clearly in non-residential projects.
+
+#### 4. HF Take — Strategist Layer
+
+The release is mildly BoC-dovish through business investment and future construction activity.
+
+It does not provide a strong housing-led easing signal because residential permits increased. Confirmation would require June weakness across both residential and non-residential permits.
+
+---
+
+### CANADA — LABOUR FORCE SURVEY (JUNE)
+
+Release Date: 10 Jul 2026 | Local Time: 14:30
+Importance: ***
+
+#### 1. Reuters Data
+
+Employment Change: 18,2k | Prior: 87,8k | Poll: 10,0k | Surprise: +8,20k
+Unemployment Rate: 6,5% | Prior: 6,6% | Poll: 6,6% | Surprise: −0,10%
+
+#### 2. Professional Market Commentary
+
+The headline beat expectations and the unemployment rate fell to a six-month low, but the professional tape discounted the composition.
+
+Statistics Canada reported:
+
+* employment broadly unchanged at +18k
+* participation steady at 65.0%
+* unemployment declining to 6.5%
+* youth employment rising by 33k, mainly in part-time work
+* accommodation and food services adding 15k
+* manufacturing losing approximately 17k
+* manufacturing employment down 61k from its January 2025 peak
+* average hourly wages increasing 3.3% y/y
+
+The official release confirms a stable aggregate labour market alongside continued industrial weakness. ([Statistique Canada][12])
+
+Institutional economists argued that event-related service hiring and weak population growth made the unemployment-rate decline look stronger than the underlying employment impulse. 
+
+#### 3. Comment — Economist Layer
+
+The report signals stabilization, not a renewed labour boom.
+
+The unemployment rate fell because employment held up while labour-force and population growth remained restrained. That is a valid improvement in labour-market balance, but not equivalent to strong labour demand.
+
+The composition is weaker than the headline:
+
+* employment gain: modest
+* part-time and youth concentration: low quality
+* accommodation and food services: likely temporary support
+* manufacturing: persistent contraction
+* construction: weak
+* wage growth: still above 3%
+* participation: unchanged
+
+The services-versus-goods split remains important. Canada’s trade and commodity sectors are generating income, but tariff-exposed manufacturing continues to shed employment.
+
+State transition: stabilization, event qualified.
+
+Context from prior regional live file:
+May had produced an exceptionally large employment gain after several weak months. June avoids a reversal and lowers unemployment further, but the composition is materially less convincing. Canada’s labour market has stopped deteriorating without yet returning to broad-based expansion.
+
+#### 4. HF Take — Strategist Layer
+
+The report supports a BoC hold rather than either an immediate cut or a hike.
+
+The unemployment decline and wage growth reduce the urgency to ease. Industrial job losses, part-time concentration and temporary service hiring prevent a hawkish interpretation.
+
+July is the decisive test. Employment growth above 15k after event-related hiring fades, combined with an end to manufacturing losses, would establish a more durable improvement.
+
+[1]: https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt "raw.githubusercontent.com"
+[2]: https://www.pmi.spglobal.com/Public/Release/PressReleases?language=en&utm_source=chatgpt.com "PMI Releases - S&P Global"
+[3]: https://www.globaldairytrade.info/en/product-results/?utm_source=chatgpt.com "GDT Events Results"
+[4]: https://www.statcan.gc.ca/o1/en/plus/9235-weekly-review-july-6-10-2026 "The Weekly Review, July 6 to 10, 2026 - Statistics Canada"
+
+[1]: https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/bp202605.pdf?utm_source=chatgpt.com "令和8年5月中 国際収支状況 (速報)"
+[2]: https://www.rbnz.govt.nz/news-and-events/news/2026/07/ocr-increased-to-2-50-to-return-inflation-to-2-percent?utm_source=chatgpt.com "OCR increased to 2.50% to return inflation to 2%"
+[3]: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-economic-trends/price-statistics/consumer-price-index-cpi/pong/statistical-news/cpi-flash-estimate-june-2026/?utm_source=chatgpt.com "Flash CPI: Inflation rate 0.7 percent in June 2026"
+[4]: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/national-accounts/ovrigt/national-accounts-other/pong/statistical-news/national-accounts-monthly-gdp-indicator-may-2026/?utm_source=chatgpt.com "GDP growth continued in May"
+[5]: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities-and-foreign-trade/business-production-sales-and-finances--short-term-statistics/production-value-index/?utm_source=chatgpt.com "Production value index (PVI)"
+[6]: https://businessnz.org.nz/pmi?utm_source=chatgpt.com "PMI"
+[7]: https://www.rics.org/content/dam/ricsglobal/documents/market-surveys/UK-Residential-Market-Survey-June-2026.pdf?utm_source=chatgpt.com "UK Residential Market Survey"
+[8]: https://www.boj.or.jp/en/statistics/money/ms/index.htm?utm_source=chatgpt.com "Money Stock : 日本銀行 Bank of Japan"
+[9]: https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2606.pdf?utm_source=chatgpt.com "Monthly Report on the Corporate Goods Price Index(June ..."
+[10]: https://www.ssb.no/en/priser-og-prisindekser/konsumpriser/statistikk/konsumprisindeksen "Consumer price index  –  SSB"
+[11]: https://www150.statcan.gc.ca/n1/daily-quotidien/260710/dq260710b-eng.htm?utm_source=chatgpt.com "The Daily — Building permits, May 2026"
+[12]: https://www150.statcan.gc.ca/n1/daily-quotidien/260710/dq260710a-eng.pdf "Labour Force Survey, June 2026"
+
+SIGNAL TENSION CHECK
+
+Main contradiction: DM growth resilience strengthened across Japan, Sweden, New Zealand and parts of Canada, but the same activity improvement is producing opposite inflation and policy outcomes. Japan faces escalating wage, expectations and import-price pressure; Sweden is accelerating with underlying inflation near zero; Norway is disinflating more broadly; and the UK remains trapped in a rate-sensitive domestic contraction.
+
+Why it matters: A common DM duration or FX narrative is increasingly unreliable. Similar headline growth prints imply different policy paths depending on whether inflation is domestically embedded, currency-imported, absent or already fading.
+
+Implication: Relative-value policy divergence is the core signal—BoJ and RBNZ normalization versus Riksbank flexibility, a weaker Norges hike case, a growth-constrained BoE and an SNB preference for balance-sheet intervention.
+
+3 KEY RELEASES TO DIG INTO
+
+**** Japan — Tankan Survey (1 Jul)
+Why it matters: Broad sentiment beats, double-digit large-firm capex plans and higher medium-term inflation expectations materially strengthened the BoJ normalization case and established Japan as the clearest hawkish transition in the first half of the period.
+
+**** New Zealand — RBNZ Monetary Policy Review (8 Jul)
+Why it matters: The RBNZ unanimously initiated a tightening cycle, judged the prior stance stimulative and retained guidance that further increases were likely despite lower oil prices and uncertain growth momentum.
+
+**** Japan — Corporate Goods Price Index (10 Jul)
+Why it matters: Wholesale inflation rose to 7.1%, yen-basis import prices accelerated to 29.7% and May was revised higher, materially increasing the risk that weak-yen and input-cost pressure passes into consumer prices.
+
+<<DM_WEEK_END>>
 
 
 <<DM_WEEK_BEGIN>>
