@@ -1248,7 +1248,71 @@ When adding new scout or JGM material, do not compress prior validated blocks.
 
 10.2. The live macro file should remain analytically complete and parser-stable.
 
+
+
+REMAINING SCOUT BLOCKS — COPY-PASTE OUTPUT RULE
+
+When the user asks:
+
+* “List remaining blocks to scout”
+* “What remains to scout?”
+* “Prepare the remaining scout calls”
+* or an equivalent request
+
+use the complete Reuters mechanical feed already ingested at the beginning of the current chat and the latest locked in-chat weekly file.
+
+Instructions:
+
+1. Identify all official-publication blocks that remain:
+   RELEASED — AWAITING SCOUT / NOT YET BUILT
+
+2. Exclude every release that is already:
+
+   * RELEASED — BUILT
+   * covered by a validated scout
+   * included in an existing release block
+
+3. Do not ask the user to paste the Reuters feed again unless it is genuinely unavailable in the current chat.
+
+4. Consolidate Reuters rows only when they belong to the same official publication:
+
+   * same source agency
+   * same release timestamp
+   * same official bulletin, survey or press release
+
+5. Keep institutionally separate publications in separate blocks, even when they occur on the same day or cover related subjects.
+
+6. Return every remaining publication as a separate copy-paste-ready scout input.
+
+7. For each block:
+
+   * add a numbered title:
+     `## [Number]. [Country/Region] — [Release name or consolidated release names]`
+   * reproduce the complete Reuters CSV header
+   * include only the Reuters rows belonging to that publication
+   * preserve all Reuters fields exactly as originally pasted
+   * do not correct, translate, normalize, round or recompute any value
+   * use a separate `text` code block
+
+8. Do not browse.
+
+9. Do not analyse the releases.
+
+10. Do not write release commentary.
+
+11. Do not reproduce releases that are already built.
+
+At the end, state exactly:
+
+`Remaining scout scope: [X] official-publication blocks, representing [Y] Reuters rows.`
+
+Return only:
+
+* the numbered copy-paste scout blocks
+* the final scope count
+
 END APPLICATION RULE — CHAT REQUEST EXECUTION DISCIPLINE
 
+-----ENF OF FILE--------------
 
 
