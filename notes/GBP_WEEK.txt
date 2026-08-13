@@ -1,3 +1,1112 @@
+
+<<GBP_WEEK_BEGIN>>
+DATA WINDOW: 29 Jun 2026 to 24 Jul 2026
+
+A. GBP WEEK — MACRO SYNTHESIS
+
+The UK moved from a clearly rate-constrained domestic-growth configuration into a late-window stabilisation, but the improvement was neither broad nor clean. Early-period housing finance and construction were exceptionally weak: mortgage approvals collapsed, remortgaging and lending fell sharply, construction remained in a deep contraction and RICS activity stayed depressed even as house prices found a tentative floor. May hard data subsequently showed greater resilience, with three-month GDP growth stronger than expected, services expanding and the monthly goods balance improving. By late July, retail volumes, consumer confidence and the composite PMI had strengthened materially, reducing immediate recession risk. The upgrade was nevertheless partly weather-, World Cup-, promotion- and stockbuilding-assisted, while CBI order books remained at a joint-pandemic low, investment intentions weakened and employment indicators remained soft.
+
+Inflation moved in the opposite direction to growth risk but did not resolve the BoE constraint. Headline CPI slowed to 2.6%, wages moderated and producer input costs fell sharply, while Bailey’s in-window communication reinforced the view that underlying disinflation remained intact after much of the initial energy shock unwound. However, core CPI remained unchanged, services inflation exceeded consensus, monthly services prices strengthened and core producer/output cost pressure persisted. The committee reaction function also became more explicitly bifurcated: Mann argued that easier financial conditions could themselves justify an activist hike if expectations failed to normalise, while Bailey anchored the majority’s look-through stance. The cumulative regime therefore shifted from **growth-constrained inflation persistence toward fragile activity stabilisation with improving headline disinflation but a wider policy distribution**. The central case remains an extended BoE hold, but with both an eventual-cut tail and a non-trivial activist-hike tail alive.
+
+B. GBP MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+The period began with collapsing mortgage approvals, deeply contractionary construction, weak housing activity and a manufacturing PMI whose output strength was partly stockbuilding-driven. May GDP then rose 0.1% m/m with three-month growth at 0.7%, services increased 0.3%, June retail volumes beat sharply and July composite PMI rebounded to 52.1. The improvement materially reduces near-term contraction risk, but weak CBI order books, falling employment, poor investment intentions and temporary event effects prevent a broad growth upgrade.
+
+Labor: -
+Supporting evidence:
+The LFS showed a strong 147k employment increase and unemployment held at 4.9%, but administrative and forward indicators remained materially softer. HMRC payrolls declined, vacancies fell, construction employment contracted for an eighteenth consecutive month, PMI employment continued falling and CBI manufacturers expected further job losses. Wage growth also moderated. The labour regime therefore remains soft despite the stronger LFS headline.
+
+Inflation: ~
+Supporting evidence:
+Headline CPI slowed to 2.6% and producer input prices fell 2.0% m/m, while average weekly earnings eased. Against this, core CPI remained at 2.6%, services inflation was 3.6% versus a 3.5% poll, monthly services prices rose 0.5%, core output PPI accelerated and business surveys reported strong unit-cost pressure. Inflation is improving at the headline level without yet delivering clean domestic disinflation.
+
+Financial Conditions: -
+Supporting evidence:
+Mortgage approvals fell to 56.2k, remortgaging nearly halved, mortgage lending weakened and construction remained deeply contractionary. House prices stabilised modestly as fixed mortgage rates eased, but RICS buyer enquiries and agreed sales remained negative and Rightmove asking prices fell 1.0% m/m. Market conditions eased materially from the June shock, however, with oil falling sharply from its conflict peak, gilt yields retreating and OIS removing a 2026 hike. That easing improves household and corporate transmission but, under Mann’s reaction function, also reduces the financial-conditions restraint previously substituting for a policy hike.
+
+Policy Constraint: ~
+Supporting evidence:
+The constraint became more two-sided rather than simply less hawkish. Bailey’s 1 and 14 July communication, softer June CPI and weaker wage momentum reinforced the six-member look-through/hold logic and kept an eventual easing option alive. Mann moved the other way: she explicitly argued that easier financial conditions had weakened the justification for her June hold and that an “activist” hike could be required if H2 inflation expectations remained unfavourable. Late-window renewed energy volatility and potential fiscal loosening added upside tails. The base case is therefore an extended hold, but the committee distribution is unusually wide and single-print sensitivity is high.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 29 JUN 2026
+
+UNITED KINGDOM — BOE MONEY & CREDIT (MAY)
+
+Release Date: 29 Jun 2026 | Local Time: 10:30
+Importance: ***
+
+1. Reuters Data
+
+Consumer Credit: 1,662B | Prior: 1,713B | Poll: 1,800B | Surprise: −0,1380B
+Mortgage Lending: 2,889B | Prior: 4,439B | Poll: 4,550B | Surprise: −1,6610B
+Mortgage Approvals: 56,205k | Prior: 66,034k | Poll: 62,900k | Surprise: −6,6950k
+
+2. Professional Market Commentary
+
+The tape interpreted the report as a sharp correction in the housing-finance pipeline after earlier rate-locking and refinancing activity.
+
+Key points:
+
+* house-purchase approvals fell to their lowest level since December 2023
+* remortgaging approvals nearly halved
+* mortgage lending fell to a one-year low
+* the effective rate on newly drawn mortgages increased
+* consumer credit remained comparatively resilient
+* business borrowing slowed sharply
+
+The dominant institutional explanation is that earlier mortgage demand had been pulled forward ahead of expected rate increases and has now faded. ([Bank of England][3])
+
+3. Comment — Economist Layer
+
+This is a clear deterioration in the forward housing channel.
+
+The collapse in approvals is more informative than the lending stock because approvals lead future transactions and borrowing. The remortgaging decline reinforces the signal that rate-locking activity has faded rather than merely shifted between purchaser types.
+
+Consumer credit provides a partial offset, but not enough to challenge the central conclusion:
+
+* mortgage approvals: strong negative
+* remortgaging: strong negative
+* net mortgage borrowing: negative
+* new mortgage rates: tighter
+* unsecured credit: still resilient
+* corporate borrowing: softer
+
+State transition: deterioration.
+
+Context from prior regional live file:
+March money-and-credit data had shown approvals and mortgage borrowing holding up better than feared, preserving the distinction between weak surveys and a functioning credit channel. May reverses that signal decisively. Housing finance now aligns more closely with the weak RICS and broader domestic-demand evidence. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The release strengthens the growth downside of the BoE reaction function but does not independently validate immediate easing.
+
+For UK front-end rates, it weakens the argument that households can absorb a prolonged restrictive-rate regime without a material activity cost. For GBP, the signal is negative through domestic demand, although energy-driven inflation and policy uncertainty still constrain a straightforward dovish trade.
+
+A recovery in June approvals above roughly 62k would be required to classify May as a one-month unwind rather than a durable tightening in housing finance.
+
+TUESDAY 30 JUN 2026
+
+UNITED KINGDOM — GDP QUARTERLY NATIONAL ACCOUNTS (Q1)
+
+Release Date: 30 Jun 2026 | Local Time: 08:00
+Importance: ***
+
+1. Reuters Data
+
+GDP QQ: 0,6% | Prior: 0,6% | Poll: 0,6% | Surprise: 0,00%
+GDP YY: 0,9% | Prior: 1,1% | Poll: 1,1% | Surprise: −0,20%
+Business Investment QQ: 0,9% | Prior: 0,7%
+Business Investment YY: −1,3% | Prior: −1,8%
+
+2. Professional Market Commentary
+
+The final estimate confirmed 0.6% quarterly growth, led by services, while revising Q4 2025 growth down to 0.1%.
+
+The tape emphasised:
+
+* growth across all three output sectors
+* services as the main contributor
+* positive real GDP per head
+* business investment improving quarterly but remaining lower annually
+* real household disposable income per head declining
+* imports rising faster than exports
+* the data predating the full Middle East energy shock
+
+The official release confirms robust Q1 activity but also shows that household purchasing power weakened during the quarter. ([Office for National Statistics][10])
+
+3. Comment — Economist Layer
+
+The headline remains strong, but its current policy information content is limited.
+
+Services growth and positive GDP per head are constructive. The more important weakness is the 0.8% decline in real household disposable income per head, caused by flat nominal income against a rising deflator and higher taxes.
+
+The internal hierarchy is:
+
+* Q1 headline growth: strong but backward-looking
+* services: broad support
+* GDP per head: positive
+* household real income: negative
+* business investment: sequential improvement, annual contraction
+* trade: growth drag
+* post-shock relevance: low
+
+State transition: continuation, backward-looking.
+
+Context from prior regional live file:
+The UK had already moved into a softer post-Q1 profile through weak housing, monthly GDP and services evidence. Confirmation of strong Q1 growth does not reverse that transition because it largely predates the conflict and tighter financial conditions. The Q1 level is better than the live Q2 momentum signal.
+
+4. HF Take — Strategist Layer
+
+The report does not materially shift the BoE reaction function.
+
+It reduces the risk that the economy entered the shock from an outright recessionary base, but household-income weakness and subsequent forward indicators argue against extrapolating the headline. GBP and gilt pricing should remain more responsive to current inflation, employment and monthly-activity releases.
+
+UNITED KINGDOM — BALANCE OF PAYMENTS (Q1)
+
+Release Date: 30 Jun 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Current Account GBP: −22,134B | Prior: −18,392B | Revised: −27,178B | Poll: −20,700B | Surprise: −1,4340B
+
+2. Professional Market Commentary
+
+The current-account deficit narrowed from a materially worse revised Q4 position but remained wider than expected.
+
+Official composition showed:
+
+* improvement in the primary-income balance
+* a wider trade deficit
+* a very large goods deficit
+* a substantial services surplus
+* continued reliance on net financial inflows
+* a prospective terms-of-trade risk from higher energy-import costs
+
+The professional narrative is external stabilisation from a weak revised base rather than a structural improvement. ([Office for National Statistics][11])
+
+3. Comment — Economist Layer
+
+The better primary-income balance is the main positive signal.
+
+It offsets part of the wider trade deficit, but the UK remains structurally dependent on the services surplus and external capital inflows to finance a large goods gap. The energy shock creates a particularly relevant risk because the UK is a net energy importer and higher oil and gas costs can widen the goods deficit before demand adjusts.
+
+State transition: stabilization, revision qualified.
+
+Context from prior regional live file:
+The UK’s earlier file had already combined weak domestic momentum with sensitivity to imported energy inflation. Q1’s external deficit narrowed only relative to a sharply revised deterioration in Q4. The external-financing vulnerability therefore remains active rather than resolved.
+
+4. HF Take — Strategist Layer
+
+The report is mildly GBP-negative at the structural level but not a near-term trading catalyst.
+
+The vulnerability becomes more market-relevant if Q2 energy imports re-widen the deficit while gilt risk premia or political uncertainty rise. A deficit moving beyond 3.5% of GDP would make the external constraint more prominent in the UK reaction-function map.
+
+WEDNESDAY 1 JUL 2026
+
+UNITED KINGDOM — NATIONWIDE HOUSE PRICE INDEX (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Nationwide House Prices MM: 0,0% | Prior: −0,6% | Poll: 0,0% | Surprise: 0,00%
+Nationwide House Prices YY: 2,2% | Prior: 1,7% | Poll: 2,4% | Surprise: −0,20%
+
+2. Professional Market Commentary
+
+Nationwide characterised the market as stabilising after the May decline.
+
+Key themes:
+
+* prices unchanged on the month
+* annual growth edging higher
+* significant regional dispersion
+* Northern Ireland remaining the strongest region
+* southern England materially weaker than northern regions
+* higher energy prices and mortgage rates having restrained demand
+* the retreat in oil and fixed-mortgage rates offering conditional support
+
+The professional tape remains cautious because mortgage approvals have already fallen sharply and political uncertainty may affect sentiment. ([nationwidehousepriceindex.co.uk][17])
+
+3. Comment — Economist Layer
+
+The price data are stabilising, but the housing-activity pipeline is weaker.
+
+Flat monthly prices after a 0.6% decline prevent an immediate negative acceleration. The higher annual rate reflects base effects and regional strength rather than a broad nationwide rebound.
+
+The contradiction with BoE approvals is crucial: current prices are sticky, but future transactions and lending are deteriorating.
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+Nationwide had shown strong March and April price gains before falling in May, while Halifax and RICS pointed to a softer and rate-constrained market. June arrests the price decline but does not repair the collapse in mortgage approvals. UK housing remains functional at the price level and fragile at the activity level. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The report is neutral for the BoE on its own.
+
+Stable prices reduce the urgency of a housing-driven easing response, while weak financing and transaction indicators keep the domestic-demand downside active. July prices and mortgage approvals must improve together before a durable housing recovery can be identified.
+
+UNITED KINGDOM — S&P GLOBAL MANUFACTURING PMI (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 10:30
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI: 52,5 | Prior: 53,1 | Poll: 53,1 | Surprise: −0,60
+
+2. Professional Market Commentary
+
+Manufacturing remained in expansion, but the compiler and economists agreed that the upturn was increasingly fragile.
+
+Key tape focus:
+
+* output rising at its fastest rate in 21 months
+* new orders slowing to their weakest pace since December 2025
+* client stockpiling supporting production
+* temporary hiring contributing to employment growth
+* supply delays lengthening sharply
+* input-price inflation easing from May
+* output charges remaining elevated
+* confidence restrained by geopolitics and domestic policy uncertainty
+
+The professional narrative is a textbook front-loaded production cycle rather than a durable end-demand acceleration. ([pmi.spglobal.com][18])
+
+3. Comment — Economist Layer
+
+The output-versus-orders divergence is the decisive signal.
+
+Factories are producing strongly because clients previously accelerated purchases and firms are working through the resulting pipeline. New work is already slowing, inventories are being drawn down and some employment growth is explicitly temporary.
+
+Longer delivery times also flatter the headline PMI by contributing positively to the index despite representing supply disruption.
+
+State transition: false dawn at the sector level.
+
+Context from prior regional live file:
+The UK manufacturing sequence had already shown strong headlines alongside worsening costs and supply delays, while services and domestic demand weakened more materially. June confirms that manufacturing’s apparent resilience is partly a timing effect. The sector remains an offset to services weakness, but not a reliable independent growth engine.
+
+4. HF Take — Strategist Layer
+
+The release should not be interpreted as BoE-hawkish evidence of broad demand strength.
+
+The inflation pipeline remains relevant because selling prices are still rising, but the weakening order book points to slower summer production. July new orders must re-accelerate without renewed stockpiling before the sector can be upgraded from false dawn to genuine expansion.
+
+MONDAY 6 JUL 2026
+
+UNITED KINGDOM — S&P GLOBAL CONSTRUCTION PMI / ALL-SECTOR COMPOSITE (JUNE)
+
+Release Date: 6 Jul 2026 | Local Time: 10:30
+Importance: ****
+
+1. Reuters Data
+
+Construction PMI: 38,4 | Prior: 38,2 | Poll: 40,0 | Surprise: −1,60
+MSC Composite Output: 48,4 | Prior: 48,7
+
+2. Professional Market Commentary
+
+The construction downturn remained exceptionally deep despite a marginal increase from May’s six-year low.
+
+Key tape focus:
+
+* output has fallen every month since January 2025
+* the contraction was the second sharpest since the pandemic
+* commercial construction was the only segment showing a slower decline
+* housebuilding fell more sharply
+* civil engineering dropped to its weakest level since April 2020
+* employment declined for an eighteenth consecutive month
+* subcontractor demand weakened
+* new orders remained negative but deteriorated less rapidly
+* input-cost inflation eased
+* business optimism improved on expectations of future infrastructure awards
+
+The all-sector index fell to 48.4, confirming that construction is amplifying the contraction already visible in UK services. The official S&P calendar confirms the 6 July construction release. ([pmi.spglobal.com][2])
+
+3. Comment — Economist Layer
+
+This is a continuation of a construction depression, not a conventional one-month slowdown.
+
+The hierarchy is unusually negative:
+
+* civil engineering: extreme contraction
+* housebuilding: accelerating weakness
+* employment: persistent retrenchment
+* subcontractor use: falling
+* all-sector activity: below 50
+* new-order rate of decline: improving slightly
+* expectations: less negative
+
+The modest improvement in commercial activity and optimism affects the rate of change but not the level. Firms appear to anticipate future public and infrastructure projects, while current tenders and activity remain absent.
+
+The civil-engineering reading is particularly important because it exposes a gap between prospective government investment plans and actual project execution during the political transition.
+
+State transition: deterioration in level; stabilization in rate of change. Net: continuation of the construction depression.
+
+Context from prior regional live file:
+UK construction had already fallen to 39.7 in April after remaining contractionary through the first quarter. The prior file identified high borrowing costs, weak demand and supply disruption as a structural sector constraint. June confirms that the downturn has deepened and is now dragging the broader all-sector indicator below 50. ([GitHub][1])
+
+4. HF Take — Strategist Layer
+
+The release is materially BoE-dovish through growth and employment.
+
+It does not remove the inflation constraint because wages, transport and material costs are still rising. However, the combination of contracting services, collapsing construction and prolonged job shedding substantially weakens the case for relying on backward-looking Q1 GDP resilience.
+
+A construction PMI above 43, led by civil engineering and housebuilding rather than sentiment alone, would be needed to establish a meaningful turning point.
+
+TUESDAY 7 JUL 2026
+
+UNITED KINGDOM — LLOYDS HOUSE PRICE INDEX (JUNE)
+
+Release Date: 7 Jul 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+House Prices MM: 0,2% | Prior: −0,1% | Poll: 0,1% | Surprise: +0,10%
+House Prices YY: 0,6% | Prior: 0,5% | Poll: 0,8% | Surprise: −0,20%
+
+2. Professional Market Commentary
+
+The index recorded its first monthly increase in four months, while the second-quarter change remained negative.
+
+Key tape focus:
+
+* average price of £299,330
+* annual growth of 0.6%
+* quarterly prices down 0.4%
+* first-time-buyer prices increasing modestly
+* Northern Ireland remaining the strongest region
+* mortgage rates retreating from their earlier highs
+* the earlier collapse in approvals interpreted partly as an unwind of the rate spike
+
+The index was rebranded from Halifax to Lloyds in July 2026, with the methodology unchanged.
+
+3. Comment — Economist Layer
+
+The price level is stabilising, but the activity pipeline remains weak.
+
+A first monthly increase in four months supports the idea that lower mortgage rates are beginning to arrest the price decline. However, the quarterly fall and weak mortgage approvals argue against calling a renewed housing expansion.
+
+The divergence across indicators remains central:
+
+* Lloyds prices: marginal improvement
+* Nationwide prices: flat
+* mortgage approvals: sharply lower
+* housebuilding PMI: collapsing
+* transaction outlook: fragile
+
+Prices are bottoming more clearly than housing activity.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+UK housing had already been classified as functional at the price level but fragile in financing and transaction activity. The earlier Nationwide print was flat, while mortgage approvals fell to 56,205 and construction weakened sharply. Lloyds confirms the price-floor thesis without repairing the forward housing pipeline.
+
+4. HF Take — Strategist Layer
+
+The release is neutral for the BoE.
+
+Stable house prices reduce the probability of an immediate negative housing-wealth shock, but approvals and construction indicate that restrictive rates are still suppressing activity.
+
+A sustained recovery requires both positive monthly prices and approvals returning above approximately 60k.
+
+## THURSDAY 9 JUL 2026
+
+### UNITED KINGDOM — RICS HOUSING SURVEY (JUNE)
+
+Release Date: 9 Jul 2026 | Local Time: 01:01
+Importance: **
+
+#### 1. Reuters Data
+
+RICS Housing Survey: −33 | Prior: −35 | Revised: −34 | Poll: −30 | Surprise: −3,0
+
+#### 2. Professional Market Commentary
+
+The housing downturn eased marginally but remained broad and significant.
+
+The RICS survey showed:
+
+* headline price balance at −33
+* buyer enquiries at −29
+* newly agreed sales at −32
+* near-term sales expectations improving to −16
+* twelve-month sales expectations near flat
+* rental demand strengthening
+* landlord instructions remaining negative
+
+RICS described the improvement as tentative and insufficient to signal a genuine turnaround. ([RICS][7])
+
+#### 3. Comment — Economist Layer
+
+The survey confirms stabilization at a depressed level.
+
+The less-negative buyer and sales balances suggest the pace of deterioration is moderating. However, every major current-activity measure remains contractionary.
+
+The broader housing stack is internally consistent:
+
+* Lloyds prices: marginally positive
+* Nationwide prices: flat
+* RICS balances: deeply negative
+* mortgage approvals: depressed
+* housebuilding PMI: extremely weak
+* forward sales expectations: improving modestly
+
+The market is finding a price floor before achieving an activity recovery.
+
+State transition: no material change — tentative stabilization at the bottom.
+
+Context from prior regional live file:
+UK house prices had stopped falling rapidly, but mortgage approvals and construction remained severely depressed. RICS confirms that the activity side has not followed the price stabilization. Housing is no longer deteriorating as quickly, but it remains a drag on domestic growth.
+
+#### 4. HF Take — Strategist Layer
+
+The release is mildly BoE-dovish but less negative than the construction and services surveys.
+
+An improvement toward −15, accompanied by approvals above 60k, would represent a meaningful recovery. Until then, housing remains part of the restrictive-rate transmission channel.
+
+THURSDAY 16 JUL 2026
+
+UNITED KINGDOM — GDP Monthly Estimate / Services / Production / Manufacturing (May)
+
+Release Date: 16 Jul 2026 | Local Time: 08:00
+Importance: ****
+
+1. Reuters Data
+
+GDP Est 3M/3M: 0,7% | Prior: 0,7% | Revised: 0,8% | Poll: 0,5% | Surprise: 0,20%
+GDP Estimate MM: 0,1% | Prior: -0,1% | Poll: 0,1% | Surprise: 0,00%
+GDP Estimate YY: 1,3% | Prior: 1,2% | Revised: 1,1% | Poll: 1,4% | Surprise: -0,10%
+Services MM: 0,3% | Prior: -0,2% | Revised: -0,1% | Poll: 0,1% | Surprise: 0,20%
+Services YY: 1,7% | Prior: 1,7% | Revised: 1,6% | Poll: 1,7% | Surprise: 0,00%
+Industrial Output MM: -0,5% | Prior: 0,0% | Revised: 0,2% | Poll: -0,1% | Surprise: -0,40%
+Industrial Output YY: 1,0% | Prior: -0,2% | Revised: 0,0% | Poll: 1,2% | Surprise: -0,20%
+Manufacturing Output MM: 0,1% | Prior: 0,4% | Revised: 0,5% | Poll: -0,2% | Surprise: 0,30%
+Manufacturing Output YY: 2,3% | Prior: 1,0% | Poll: 1,9% | Surprise: 0,40%
+
+2. Professional Market Commentary
+
+Monthly GDP rose 0.1%, matching consensus, while three-month growth of 0.7% exceeded expectations and followed an upwardly revised 0.8% in the three months to April.
+
+Services grew 0.3%, while:
+
+* production fell 0.5%
+* construction fell 0.8%
+* manufacturing increased 0.1%
+
+The official interpretation was resilient aggregate growth but weak sector breadth, with services doing the heavy lifting.
+
+3. Comment — Economist Layer
+
+The principal signal is stronger trend momentum than the monthly headline suggests, but with a narrow and uneven composition.
+
+Signal hierarchy:
+
+* three-month momentum: above poll
+* prior trend revision: positive
+* monthly GDP: exactly in line
+* services: clear monthly driver
+* production: meaningful contraction
+* manufacturing: modest positive surprise
+* construction: renewed weakness
+
+Manufacturing composition was constructive at the margin, including machinery, electronics and pharmaceuticals. However, the data do not establish that the increase was specifically defence-led.
+
+The correct interpretation is services-carried resilience with weak production and construction breadth—not broad-based reacceleration.
+
+State transition: improvement — trend growth strengthened while monthly breadth remained fragile.
+
+Context from prior regional live file:
+April GDP had fallen 0.1%, but the three-month measure remained positive and manufacturing had been comparatively resilient. May reverses the monthly contraction and upgrades the earlier trend through revisions. The UK avoids an activity break, although its expansion remains narrow and services-dependent.
+
+4. HF Take — Strategist Layer
+
+The release reduces the strength of the growth-based objection to tighter BoE policy, but it does not determine the next decision.
+
+The June MPC voted 7–2 to hold Bank Rate at 3.75%, with two members preferring a 25bp increase. Resilient GDP leaves inflation, wages and energy pass-through as the binding inputs rather than near-term recession risk.
+
+Conditional mapping:
+
+* firm CPI and wages plus resilient activity strengthen the hawkish minority
+* weak June consumer indicators would expose the narrowness of May’s improvement
+* further production and construction weakness would limit bearish long-end growth interpretation
+
+Market mapping:
+
+* UK front end: modestly hawkish versus a growth-scare baseline
+* GBP: supported conditionally through relative rates
+* gilts: front end vulnerable, but long-end growth implications remain limited
+
+UNITED KINGDOM — Goods Trade Balance GBP (May)
+
+Release Date: 16 Jul 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Goods Trade Balance GBP: -18,660B | Prior: -26,046B | Revised: -24,583B | Poll: -23,550B | Surprise: 4,8900B
+
+2. Professional Market Commentary
+
+The Reuters balance was substantially better than expected and improved sharply from the revised prior reading.
+
+The official ONS series excluding precious metals showed a smaller monthly improvement:
+
+* goods exports: +£1.5bn
+* goods imports: +£0.5bn
+* monthly goods balance: improved by approximately £1.1bn
+* real exports: +5.2%
+* real imports: +1.4%
+
+Exports increased to both EU and non-EU destinations. Non-EU export strength was led by chemicals, material manufactures, machinery and transport equipment. Fuel imports shifted toward crude and refined products from Nigeria, Norway and the United States.
+
+3. Comment — Economist Layer
+
+The Reuters surprise is positive, but the official composition argues against interpreting the full mechanical improvement as a clean underlying external rebalancing.
+
+Signal hierarchy:
+
+* Reuters headline: large improvement
+* ONS underlying monthly balance: smaller improvement
+* export values: stronger
+* export volumes: stronger
+* imports: also increased
+* non-EU chemicals and machinery: constructive
+* fuel-import composition: shock-sensitive
+* three-month trend: still deteriorating
+
+The three-month goods deficit excluding precious metals widened by £3.1bn to £60.9bn because imports increased by more than exports over the broader period.
+
+The correct signal is therefore a positive May flow inside a still-weak external trend.
+
+State transition: improvement — monthly export growth strengthened, but the three-month external position remained deteriorative.
+
+Context from prior regional live file:
+The UK entered the period with a large structural goods deficit and acute exposure to imported-energy costs. May provides a monthly export-led improvement but does not reverse the wider three-month deterioration. The external constraint remains active rather than resolved.
+
+4. HF Take — Strategist Layer
+
+The trade release is a secondary positive for May GDP arithmetic, not a standalone GBP signal.
+
+Conditional interpretation:
+
+* continued real export growth would improve the quality of the adjustment
+* another rise in imports would preserve the wider deficit
+* higher replacement-energy costs could shift the shock toward inflation
+* the Reuters/ONS balance-basis difference limits aggressive extrapolation
+
+The policy relevance is mainly through the interaction between net trade, imported inflation and the BoE’s energy-shock assessment.
+
+MONDAY 20 JUL 2026
+
+United Kingdom — Rightmove House Price Index (Jul)
+
+Release Date: 20 Jul 2026 | Local Time: 01:01
+Importance: **
+
+1. Reuters Data
+
+House Price Rightmove MM: -1,0% | Prior: -0,6%
+
+House Price Rightmove YY: -0,4% | Prior: -0,5%
+
+2. Professional Market Commentary
+
+Official commentary framed the report as a larger-than-normal seasonal asking-price adjustment in a supply-heavy and rate-sensitive housing market.
+
+The average asking price of newly listed homes fell 1.0% m/m to £372,359. The fall was substantially larger than a normal July decline, while available supply remained elevated and buyers retained considerable negotiating power.
+
+The broader tape was less severe than the monthly headline:
+
+* first-half transaction activity was weaker than in 2025
+* most completed transactions had not required a prior asking-price reduction
+* mortgage rates had eased modestly from June
+* borrowing costs nevertheless remained restrictive
+
+3. Comment — Economist Layer
+
+The release confirms renewed seller-price adjustment, but it is not equivalent to a 1.0% decline in realised transaction prices.
+
+Important measurement hierarchy:
+
+* Rightmove measures asking prices when properties first enter the market
+* it captures seller expectations before mortgage approval or completion
+* the July decline is seasonally normal in direction but unusually large in magnitude
+* the index has declined for two consecutive months
+* annual asking-price growth remains negative
+
+Elevated inventory is forcing sellers to compete through initial pricing. Slight mortgage-rate relief has not yet generated enough demand urgency to absorb available supply without concessions.
+
+Some of the monthly move is temporary because summer holidays, unusually hot weather and major sporting events disrupted buyer traffic. Those distortions are nevertheless occurring on top of a genuine affordability and financing constraint.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+
+UK housing had previously stabilised at a depressed level, with activity surveys remaining weak despite tentative improvement in expectations. The July Rightmove decline shows that seller pricing has resumed adjusting downward. It does not establish a renewed housing collapse, but it weakens the tentative stabilisation signal.
+
+4. HF Take — Strategist Layer
+
+The report is modestly dovish through the domestic-growth channel but is not a decisive BoE release.
+
+BoE interpretation:
+
+* weaker asking prices confirm that restrictive mortgage conditions are transmitting into housing
+* wages outpacing house prices are gradually improving affordability
+* asking-price disinflation does not directly resolve services inflation, wage persistence or imported-energy pressure
+* the reaction function remains driven primarily by CPI, wages, activity and realised household spending
+
+GBP and rates interpretation:
+
+The release is neutral to mildly GBP-negative at the margin. It is insufficient by itself to justify aggressive front-end easing because the monthly decline is partly seasonal.
+
+TUESDAY 21 JUL 2026
+
+United Kingdom — Labour Market / Earnings / HMRC Payrolls (May–Jun)
+
+Release Date: 21 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+1. Reuters Data
+
+Claimant Count Unem Chng: 6,7k | Prior: 31,2k | Revised: 1,3k
+
+ILO Unemployment Rate: 4,9% | Prior: 4,9% | Poll: 5,0% | Surprise: -0,10%
+
+Employment Change: 147k | Prior: 100k | Poll: 80k | Surprise: 67,0k
+
+Avg Wk Earnings 3M YY: 4,3% | Prior: 4,4% | Poll: 4,5% | Surprise: -0,20%
+
+Avg Earnings Ex-Bonus: 3,4% | Prior: 3,4% | Poll: 3,4% | Surprise: 0,00%
+
+HMRC Payrolls Change: -4k | Prior: 2k | Revised: 3k
+
+2. Professional Market Commentary
+
+The institutional tape is “stable but weak,” rather than either a renewed labour boom or an accelerating employment collapse.
+
+The headline LFS data were firmer than expected, but administrative and forward-looking indicators remained softer:
+
+* HMRC payrolls declined
+* payrolled employment remained below its year-earlier level
+* vacancies fell
+* regular-pay growth remained moderate
+* private-sector wage growth was softer than public-sector wage growth
+
+3. Comment — Economist Layer
+
+The report contains a significant source-divergence problem.
+
+The LFS quantity signal is superficially firm:
+
+* employment increased strongly
+* unemployment held at 4.9%
+* inactivity declined slightly
+
+The administrative signal is softer:
+
+* payrolls declined
+* vacancies continued falling
+* the Claimant Count increased
+* the previously reported Claimant Count rise was revised sharply lower
+
+The upside employment surprise should be discounted until corroborated by administrative payroll measures.
+
+Signal hierarchy:
+
+1. Wage pressure is moderating.
+2. Administrative payrolls remain soft.
+3. Unemployment is stabilising.
+4. The LFS employment increase is the least reliable major signal.
+5. Youth labour-market conditions remain weaker than the aggregate rate suggests.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+The UK labour bucket had already shifted from outright softening toward soft-but-stable. This release maintains that transition: payrolls, vacancies and private-sector wages remain weak enough to prevent a genuine labour upgrade.
+
+4. HF Take — Strategist Layer
+
+The report reduces immediate UK recession risk but is mildly dovish for the BoE through the wage and payroll channels.
+
+This is a “hold with less wage anxiety” report, not a decisive easing trigger.
+
+WEDNESDAY 22 JUL 2026
+
+United Kingdom — CPI / Core CPI / Services CPI / RPI / RPIX (Jun)
+
+Release Date: 22 Jul 2026 | Local Time: 08:00
+Importance: ****
+
+1. Reuters Data
+
+Core CPI YY: 2,6% | Prior: 2,6% | Poll: 2,5% | Surprise: 0,10%
+
+CPI MM: 0,1% | Prior: 0,2% | Poll: 0,1% | Surprise: 0,00%
+
+CPI YY: 2,6% | Prior: 2,8% | Poll: 2,7% | Surprise: -0,10%
+
+RPI MM: 0,3% | Prior: 0,2% | Poll: 0,3% | Surprise: 0,00%
+
+RPI YY: 3,0% | Prior: 3,1% | Poll: 3,0% | Surprise: 0,00%
+
+RPIX YY: 2,9% | Prior: 3,0%
+
+CPI Services MM: 0,5% | Prior: 0,4%
+
+CPI Services YY: 3,6% | Prior: 3,7% | Poll: 3,5% | Surprise: 0,10%
+
+2. Professional Market Commentary
+
+The institutional framing is headline disinflation with a persistent services caveat.
+
+Headline CPI slowed below consensus. Core CPI remained unchanged, while services inflation eased only marginally and exceeded the Reuters poll.
+
+3. Comment — Economist Layer
+
+This is a genuine headline improvement but only a modest improvement in policy-relevant domestic inflation.
+
+Signal hierarchy:
+
+1. Headline CPI declined.
+2. Goods and food inflation slowed.
+3. Services inflation remained above consensus.
+4. Core CPI was unchanged.
+5. Monthly services inflation strengthened.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+June extends headline improvement while leaving domestic-services persistence unresolved.
+
+4. HF Take — Strategist Layer
+
+The release buys the BoE more time but does not create a strong near-term cutting signal.
+
+This is a hold-with-reduced-hawkish-tail report.
+
+United Kingdom — Producer Price Inflation / Services Producer Prices (Jun/Q2)
+
+Release Date: 22 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+1. Reuters Data
+
+PPI Input Prices MM NSA: -2,0% | Prior: 0,2% | Revised: 0,6% | Poll: -0,6% | Surprise: -1,40%
+
+PPI Input Prices YY NSA: 7,3% | Prior: 8,7% | Revised: 9,3% | Poll: 8,6% | Surprise: -1,30%
+
+PPI Output Prices MM NSA: 0,0% | Prior: 0,5% | Revised: 0,3% | Poll: -0,4% | Surprise: 0,40%
+
+PPI Output Prices YY NSA: 3,5% | Prior: 4,0% | Revised: 3,7% | Poll: 3,5% | Surprise: 0,00%
+
+PPI Core Output MM NSA: 0,5% | Prior: 0,8% | Revised: 0,7%
+
+PPI Core Output YY NSA: 2,6% | Prior: 2,3%
+
+2. Professional Market Commentary
+
+The professional framing is easing headline pipeline pressure but firmer domestic and core producer-price persistence.
+
+3. Comment — Economist Layer
+
+Input prices fell sharply, but annual input inflation remained elevated. Core output inflation and services producer-price inflation accelerated.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+The UK pipeline has shifted from broad energy escalation toward a narrower but persistent domestic-price problem.
+
+4. HF Take — Strategist Layer
+
+The PPI release reinforces the BoE hold case by preventing the headline CPI improvement from becoming a clean dovish signal.
+
+THURSDAY 23 JUL 2026
+
+United Kingdom — CBI Industrial Trends / Business Optimism (Jul/Q3)
+
+Release Date: 23 Jul 2026 | Local Time: 12:00
+Importance: ***
+
+1. Reuters Data
+
+CBI Industrial Orders: -45 | Prior: -45
+
+CBI Business Optimism: -36 | Prior: -65
+
+2. Professional Market Commentary
+
+The monthly order-books balance remained at -45, its joint-weakest reading since September 2020. The quarterly CBI survey showed that output, total orders, domestic orders, export orders, employment and investment intentions all remained in contraction.
+
+The CBI reported:
+
+* total new orders fell at the fastest pace in six years
+* domestic orders fell more sharply than export orders
+* output declined across 13 of 17 manufacturing subsectors
+* firms expected output and employment to fall again
+* unit costs rose at their fastest pace since October 2022
+* selling prices increased more slowly than costs
+* internal-finance constraints reached a six-year high
+* manufacturers planned to reduce investment in buildings, machinery, innovation and training ptimism series improved from -65 to -36, but remained deeply negative. The official CBI narrative also described business and export optimism as deteriorating, indicating that series definitions or comparison periods differ. The common signal is that sentiment remained extremely weak.
+
+3. Comment — Economist Layer
+
+The release directly challenges the stronger manufacturing picture in the July PMI.
+
+PMI signal:
+
+* headline manufacturing PMI remained above 50
+* output and new orders strengthened
+* AI demand, exports and precautionary stockbuilding supported activity
+
+CBI signal:
+
+* order books remained at a pandemic-era low
+* quarterly orders fell at the fastest pace in six years
+* investment intentions weakened
+* employment continued to decline
+* most subsectors reported falling output
+* costs rose faster than selling prices
+
+The surveys are not necessarily irreconcilable. The PMI asks firms about changes from the previous month and can respond quickly to stockbuilding and selected export strength. The CBI survey measures order-book adequacy and quarterly balances across a wider industrial horizon. Manufacturing can therefore experience a short-term output rebound while absolute order-book conditions remain exceptionally weak.
+
+The key macro signal is that the manufacturing rebound is narrow and margin-destructive:
+
+* output may have been temporarily supported by inventory accumulation
+* weak final orders constrain durability
+* rising costs and limited pricing power squeeze profitability
+* falling employment and investment indicate low confidence in sustained demand
+
+State transition: deterioration.
+
+Context from prior regional live file:
+
+The UK archive had moved toward a stronger near-term activity signal through retail sales and PMIs, while housing and payroll data remained weak. The CBI release prevents that improvement from becoming a broad industrial upgrade. The economy has stronger current services and selected manufacturing output, but industrial order books, margins and investment remain deeply impaired.
+
+4. HF Take — Strategist Layer
+
+The release is dovish for UK growth but ambiguous for the BoE because weak demand coexists with intensifying business costs.
+
+BoE interpretation:
+
+* deep order-book weakness limits sustainable industrial growth
+* falling employment and investment reinforce the weak supply-and-demand outlook
+* rapid unit-cost growth presents a margin and pass-through risk
+* firms’ limited ability to raise selling prices reduces immediate consumer-inflation transmission
+* the survey supports a prolonged hold rather than a renewed hike or near-term cut
+
+GBP / rates interpretation:
+
+* the release offsets part of the positive PMI and retail impulse
+* GBP’s domestic-growth support is weaker than the composite PMI suggests
+* gilt front-end dovishness is limited by cost pressure and services inflation
+* UK industrial and domestically exposed cyclicals remain vulnerable
+
+A durable manufacturing upgrade would require the CBI order-books balance to improve materially, employment expectations to stabilise and the PMI rebound to persist without stockbuilding.
+
+FRIDAY 24 JUL 2026
+
+United Kingdom — GfK/NIM Consumer Confidence (Jul)
+
+Release Date: 24 Jul 2026 | Local Time: 01:01
+Importance: **
+
+1. Reuters Data
+
+GfK/NIM Consumer Confidence: -17 | Prior: -23 | Poll: -21 | Surprise: 4,0
+
+2. Professional Market Commentary
+
+Consumer confidence rose six points, with all five components improving.
+
+The survey was completed before the new prime minister formally took office and therefore captures political anticipation, weather, football and de-escalation hopes rather than realised government delivery.
+
+3. Comment — Economist Layer
+
+This is a genuine breadth improvement in sentiment, but not yet a high-confidence household-demand regime shift.
+
+The simultaneous rise in the savings index indicates continued precautionary behaviour.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+The level remains too weak and the drivers too event-sensitive to establish a durable household-demand regime change.
+
+4. HF Take — Strategist Layer
+
+The release modestly reduces UK downside-growth risk but is not independently hawkish for the BoE.
+
+United Kingdom — Retail Sales / Retail Sales ex-fuel (Jun)
+
+Release Date: 24 Jul 2026 | Local Time: 08:00
+Importance: ***
+
+1. Reuters Data
+
+Retail Sales MM: 1,0% | Prior: 1,2% | Poll: -0,3% | Surprise: 1,30%
+
+Retail Sales Ex-Fuel MM: 1,1% | Prior: 1,2% | Poll: -0,4% | Surprise: 1,50%
+
+Retail Sales YY: 4,2% | Prior: 3,2% | Revised: 3,5% | Poll: 2,3% | Surprise: 1,90%
+
+Retail Sales Ex-Fuel YY: 5,4% | Prior: 4,6% | Revised: 4,9% | Poll: 3,2% | Surprise: 2,20%
+
+2. Professional Market Commentary
+
+Retail volumes delivered large upside surprises across all four Reuters measures.
+
+Warm weather, promotions, online sales and World Cup spending boosted the print.
+
+3. Comment — Economist Layer
+
+This is a strong consumer-demand print, but it should not be extrapolated at face value into H2.
+
+The ex-fuel strength and quarterly volume increase provide genuine macro content. The category composition nevertheless contains substantial temporary effects.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+Two consecutive retail-volume gains require a meaningful upgrade to realised consumption, conditional on event-related payback.
+
+4. HF Take — Strategist Layer
+
+The release reduces immediate UK recession risk and strengthens the case for a BoE hold.
+
+United Kingdom — Flash Composite / Manufacturing / Services PMI (Jul)
+
+Release Date: 24 Jul 2026 | Local Time: 10:30
+Importance: ****
+
+1. Reuters Data
+
+Flash Composite PMI: 52,1 | Prior: 49,3 | Poll: 49,7 | Surprise: 2,40
+
+Flash Manufacturing PMI: 52,8 | Prior: 52,5 | Poll: 52,0 | Surprise: 0,80
+
+Flash Services PMI: 51,8 | Prior: 48,8 | Poll: 49,4 | Surprise: 2,40
+
+2. Professional Market Commentary
+
+UK private-sector output returned to growth after two months of contraction.
+
+The improvement reflected stronger manufacturing, services, tourism, technology and financial activity, but also weather, World Cup demand, staycations and precautionary stockbuilding.
+
+3. Comment — Economist Layer
+
+This is a genuine current-activity rebound but not yet a durable private-sector acceleration.
+
+Employment continued to decline, and several demand drivers were temporary.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+July materially reduces near-term downturn risk without establishing a durable regime change.
+
+4. HF Take — Strategist Layer
+
+The release reinforces a prolonged BoE hold and weakens the case for near-term cuts.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The in-window BoE tape resolves the June vote-versus-substance tension into a more explicit institutional split. Disinflation strengthened as the initial energy shock unwound and June CPI fell to 2.6%, while Bailey continued to frame underlying inflation as moving back toward target. But Mann’s 2 July intervention showed that easier financial conditions could themselves revive the case for an “activist” hike if inflation expectations failed to normalise. The result is not a simple dovish transition: the majority remains anchored around an extended hold with an eventual easing option, while a credible hawkish tail survives through expectations, financial conditions, energy and fiscal risk. 
+
+Mann — 2 Jul
+Importance: ****
+
+Key policy signal:
+Mann’s reaction function became materially more activist. The easing in market and financial conditions after the June meeting reduced the restraint that had helped justify her hold vote. She indicated that an explicit rate increase could again become appropriate if second-half inflation expectations remained inconsistent with a return to 2%, with one-year-ahead expectations and their influence on 2027 wage bargaining a key trigger. She also treated the labour market as less weak than the 4.9% headline unemployment rate suggested and flagged fiscal surprises as an upside-inflation risk.
+
+Representative quote:
+“an activist move can bring inflation expectations and outcomes toward the 2% target”
+
+Incremental reaction function:
+The pivotal hawk moves from “hawk who held” toward “hawk prepared to move.” Easier market pricing is partly self-negating under her framework because looser financial conditions increase the required policy restraint. This preserves a meaningful hike tail even as headline inflation falls.
+
+Bailey — 1 Jul / 14 Jul
+Importance: ***
+
+Key policy signal:
+Bailey remained on the less-hawkish side of the committee distribution. At Sintra he emphasised meeting-by-meeting policy rather than forward guidance and highlighted financial-stability risks from leverage in gilt markets, hedge funds, ETFs and private credit. At Mansion House he judged that much of the energy shock had unwound and that recent inflation evidence reinforced his expectation that inflation would otherwise have returned toward target.
+
+Representative quote:
+“the evidence we have seen over recent months has tended to reinforce my view”
+
+Incremental reaction function:
+Bailey anchors the look-through majority. The governor shows no near-term appetite to add restraint simply because headline inflation remains above target, but equally gives no immediate cut signal. Financial-stability fragility raises the cost of unnecessary over-tightening and reinforces a scenario-based, meeting-by-meeting communication regime.
+
+BoE Financial Stability Report / FPC Record — 7 Jul
+Importance: ***
+
+Key policy signal:
+The BoE highlighted increased leverage across core government-bond markets, hedge-fund and ETF equity exposures and private credit, leaving financial-market transmission more vulnerable to abrupt repricing.
+
+Representative quote:
+No additional short representative quote supplied in the validated scout.
+
+Incremental reaction function:
+Financial-stability considerations do not determine Bank Rate, but they increase the potential cost of excessive tightening and strengthen the case for calibrated rather than mechanical policy adjustment. This is particularly relevant with gilt-market leverage already elevated.
+
+ONS — June CPI — 22 Jul
+Importance: ***
+
+Key policy signal:
+Headline CPI slowed to 2.6% from 2.8%, core CPI remained 2.6% and services eased to 3.6%. Monthly CPI was only 0.1%. The print extended the disinflation sequence immediately before the next MPR meeting, although services remained above target-consistent levels and mid-July pump-price increases created a renewed near-term headline risk.
+
+Representative quote:
+No additional representative quote supplied.
+
+Incremental reaction function:
+The print validates the majority’s look-through stance and lowers the threshold for an eventual return to easing. It does not remove the dissenters’ case because services inflation and second-round expectations remain too high to declare the domestic inflation problem solved.
+
+Energy / market-pricing arc — 29 Jun to 24 Jul
+Importance: ***
+
+Key policy signal:
+The Strait of Hormuz reopening and sharp fall in oil prices removed much of the initial energy shock, while household one-year inflation expectations eased and OIS shifted toward no 2026 hike. Late in the window, renewed Middle East conflict pushed oil and pump prices higher again.
+
+Representative quote:
+No representative quote applicable.
+
+Incremental reaction function:
+Energy moved from the primary hawkish catalyst toward a two-sided swing factor. De-escalation strengthens the majority’s disinflation case; renewed energy pressure can rapidly re-arm the activist flank. The earlier dovish market repricing also matters independently because Mann explicitly treats easier financial conditions as part of the policy reaction function.
+
+Political / fiscal context — Jul
+Importance: **
+
+Key policy signal:
+The prime-ministerial transition introduced a possible fiscal-loosening tail. Mann explicitly identified unexpected fiscal expansion as an inflation risk after previous forecast misses associated with stronger spending.
+
+Representative quote:
+No additional representative quote supplied.
+
+Incremental reaction function:
+Fiscal policy becomes a potential upside inflation and gilt-term-premium channel. It does not change the base case without concrete policy measures, but it raises the probability that the BoE may have to offset unexpectedly loose fiscal settings.
+
+Bottom line — central bank tape
+
+The BoE tape hardens the policy constraint in both directions. Softer headline inflation, easing wages, weaker labour-market internals and Bailey’s communication support the majority’s extended-hold configuration and preserve an eventual easing path. Mann’s financial-conditions framework simultaneously keeps a live hike tail: if expectations fail to normalise, easier market pricing can itself become an argument for renewed restraint. Late-window energy re-escalation and possible fiscal loosening reinforce that asymmetry. The correct GBP rates regime is therefore **institutional bifurcation rather than dovish resolution**—a broad hold majority facing an increasingly explicit activist flank, with unusually high sensitivity to inflation expectations, services prices, energy and fiscal news.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: UK current activity moved from a deeply rate-constrained early-period configuration toward a meaningful late-July rebound, while the forward-quality indicators remained much weaker. GDP, retail sales, confidence and the composite PMI improved, but mortgage approvals and housing activity remained depressed, CBI order books stayed at a joint-pandemic low, employment indicators softened and investment intentions deteriorated. At the same time, headline inflation eased while services, core producer prices and business unit costs remained persistent.
+
+Why it matters: The growth improvement is sufficient to reduce near-term recession and easing risk, but not broad enough to establish a self-sustaining acceleration. Equally, headline disinflation is sufficient to reduce the hawkish tail, but not broad enough to validate a clean cutting cycle. BoE communication adds a second tension: Bailey’s majority-style look-through stance coexists with Mann’s explicit argument that easier financial conditions can revive the need for an activist hike.
+
+Implication: The dominant GBP macro configuration is a prolonged BoE hold with a wider-than-usual committee distribution. A durable dovish shift requires clearer services/wage/core-price disinflation and normalising expectations; a hawkish shift requires renewed energy or fiscal pressure, firmer expectations or sufficiently loose financial conditions to activate the dissenters’ reaction function.
+
+3 KEY RELEASES TO DIG INTO
+
+**** United Kingdom — S&P Global Construction PMI / All-Sector Composite (6 Jul)
+
+Why it matters: Construction remained in an exceptionally deep contraction, employment fell for an eighteenth consecutive month and the all-sector index stayed below 50. It established the strongest early-period evidence that restrictive rates were still transmitting materially into domestic activity.
+
+**** United Kingdom — CPI / Core CPI / Services CPI (22 Jul)
+
+Why it matters: Headline CPI improved to 2.6%, but core inflation remained unchanged and services inflation exceeded consensus. The release materially reduced the immediate hawkish tail without producing the broad domestic disinflation required for a clean BoE easing signal.
+
+**** United Kingdom — Flash Composite / Manufacturing / Services PMI (24 Jul)
+
+Why it matters: The composite PMI rebounded to 52.1 and services returned to expansion, materially reducing near-term downturn risk. The key question is whether the improvement survives the fading of weather, World Cup, staycation and precautionary-stockbuilding effects while employment and CBI order books remain weak.
+
+<<GBP_WEEK_END>>
+
+
+
 <<GBP_WEEK_BEGIN>>
 DATA WINDOW: 15 Jun 2026 to 26 Jun 2026
 
