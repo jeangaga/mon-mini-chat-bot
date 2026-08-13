@@ -1,3 +1,905 @@
+<<JPY_WEEK_BEGIN>>
+DATA WINDOW: 27 Jul 2026 to 7 Aug 2026
+
+A. JPY WEEK — MACRO SYNTHESIS
+
+Japan ended the period in a stagflation-adjacent configuration rather than a clean overheating cycle. Industrial production and manufacturing PMI strengthened materially, but part of that resilience reflected defensive stockbuilding, while June retail sales, household spending and July services new business all weakened sharply. The labour market remained tight at the headline level but softened in composition, with lower employment and participation offset by a firmer jobs-to-applicants ratio. Inflation pressure remained persistent and increasingly broad: domestic service costs stayed elevated, Tokyo underlying CPI re-accelerated despite energy subsidies, and survey selling prices approached record rates.
+
+The policy regime nevertheless shifted materially more hawkish. The 31 July hold at 1.00% was accompanied by Takata’s dissent for an immediate 1.25% hike, an Outlook Report projecting CPI “clearly above” 2% from H2 FY26, and Ueda explicitly keeping a September hike live. The absence of a dovish dissent weakened the slower-cadence committee thesis. In parallel, the 30 July yen-buying intervention activated the MoF/FX defence channel just before the decision. The result is a clearer structural JPY support regime — BoJ normalisation plus active FX defence — but with the hiking cadence increasingly constrained by weak household demand and an incomplete wages-to-consumption transmission mechanism.
+
+B. JPY MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+Industrial production rose 1.3% m/m and the July manufacturing PMI remained exceptionally strong at 54.5, with output, orders and backlogs accelerating. But some of that strength reflected precautionary inventory accumulation, while June retail sales slowed to 0.5% y/y, large-scale retail sales contracted, household spending fell 3.3% y/y and 6.4% m/m, and July services new-business momentum weakened to the softest pace of the current expansion. The net growth signal is therefore mixed, with tradable-sector resilience offset by a clear household-demand crack.
+
+Labor: ~
+Supporting evidence:
+Unemployment stayed at 2.5% and the jobs-to-applicants ratio improved to 1.18, preserving evidence of still-firm labour demand. However, employment fell roughly 360k, the labour force declined roughly 350k and participation slipped to 64.4%, so the quality of the labour signal softened even though the headline unemployment rate remained tight.
+
+Inflation: -
+Supporting evidence:
+Services PPI remained elevated at 3.2% y/y, with domestic labour-intensive services around 2.7%. Tokyo underlying inflation re-accelerated, including ex-fresh-food-and-energy inflation around 2.0%, while PMI input costs remained near a four-year high and selling prices rose at nearly the fastest pace on record. The main unresolved dovish counter-signal is weak CPI services inflation around 1.1%, but the period clearly intensified rather than eased the inflation concern.
+
+Financial Conditions: -
+Supporting evidence:
+The BoJ maintained the policy rate at 1.00% while the monetary base contracted roughly 13.8% y/y, current-account balances fell around 16.6% and reserve balances around 15.3%. The balance-sheet signal is continued quantitative tightening alongside higher rates, although broad private liquidity had not yet shown a comparable break, limiting the case for a generalized credit contraction.
+
+Policy Constraint: -
+Supporting evidence:
+The July meeting converted prior sourced hawkish guidance into on-record institutional policy. Takata dissented for an immediate hike to 1.25%, the Outlook Report projected CPI “clearly above” 2% from H2 FY26, and Ueda explicitly kept September in play while describing inflation risks as meaningfully skewed upward and financial conditions as accommodative. No dovish dissent materialized, including from Sato on her debut vote. The 30 July FX intervention simultaneously demonstrated that MoF is prepared to defend the yen rather than leave the entire adjustment burden to rates. Direction therefore shifted more decisively toward further tightening, but weak retail, household spending and services demand leave timing contingent on whether the projected inflation acceleration survives without a durable consumption cycle.
+
+C. FULL RELEASE ARCHIVE
+
+## MONDAY 27 JUL 2026
+
+### JAPAN — SERVICES PPI (JUNE)
+
+Release Date: 27 Jul 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Service PPI YY: 3,20% | Prior: 3,40%
+
+#### 2. Professional Market Commentary
+
+The professional tape treated the moderation from 3.4% to 3.2% as insufficient to establish meaningful services disinflation.
+
+Key focus:
+
+* headline prices remained well above 2%
+* international freight remained exceptionally inflationary
+* ocean freight was +52.8% y/y
+* international air freight was +48.0%
+* the broader international-transport aggregate was +46.3%
+* domestic labour-intensive services remained around 2.7%
+* software development, worker dispatching and passenger transport continued to show persistent price increases
+
+The principal distinction is between an extreme, potentially reversible international-transport shock and a substantially less volatile domestic-services inflation floor. Reuters therefore continued to frame the release as consistent with further BoJ normalisation even though the headline decelerated.
+
+#### 3. Comment — Economist Layer
+
+The headline deceleration overstates the degree of improvement.
+
+The 0.2pp decline from May was concentrated in advertising, hotels and freight rather than in the more labour-sensitive service categories. Excluding international transportation, the index still rose 2.8% y/y, while high-labour-cost services remained around 2.7%.
+
+The signal hierarchy is:
+
+* headline direction: softer
+* underlying domestic services: sticky
+* international freight: extreme but decelerating
+* wage-sensitive service inflation: above target
+* policy relevance: still hawkish
+
+The first monthly decline since January matters, but it is not yet evidence that the wage-services inflation mechanism is reversing.
+
+State transition: stabilization at an elevated inflation rate.
+
+Context from prior regional live file:
+Japan’s earlier inflation file had already shifted toward a broader upstream-price problem, with June CGPI at 7.1% and yen-basis import prices close to 30%. Services PPI shows that part of that pressure is also present domestically rather than being exclusively an imported-energy phenomenon. The inflation regime remains supportive of BoJ normalisation.
+
+#### 4. HF Take — Strategist Layer
+
+The release does not independently force an earlier hike, but it removes a potential dovish argument from the services-cost side.
+
+For the BoJ, the key distinction is whether domestic labour-linked service inflation remains around 2.5–3% after international freight normalises. If so, the inflation regime survives a reversal in war-related transport costs.
+
+JPY implications remain conditionally supportive through policy divergence, but the freight component argues against extrapolating the full 3.2% headline into the reaction function.
+
+---
+
+### JAPAN — LEADING INDICATOR REVISED (MAY)
+
+Release Date: 27 Jul 2026 | Local Time: 07:00
+Importance: *
+
+#### 1. Reuters Data
+
+Leading Indicator Revised: 0,4 | Prior: 0,7
+
+#### 2. Professional Market Commentary
+
+The May leading index was revised down to 116.5 from 116.8 preliminary, leaving the monthly point increase at +0.4 rather than +0.7.
+
+The revision was generally treated as marginal:
+
+* the index remained near its strongest level since 2021
+* fiscal support and energy-cost measures were providing a cushion
+* labour-market conditions remained supportive
+* the downward revision reduced momentum but did not reverse the forward signal
+
+No meaningful institutional policy debate developed around the revision.
+
+#### 3. Comment — Economist Layer
+
+The revision lowers the strength of the preliminary signal without changing its direction.
+
+The correct interpretation is therefore neither acceleration nor reversal. Forward activity indicators remain reasonably firm, but the resilience partly reflects fiscal support and policy cushioning rather than an unambiguous private-demand upswing.
+
+State transition: no material change.
+
+Context from prior regional live file:
+Earlier Japan activity data had shown gradual industrial recovery rather than a broad acceleration, with May industrial production rising for a second month while METI continued to describe output as fluctuating indecisively. The revised leading index remains compatible with that moderate-resilience regime.
+
+#### 4. HF Take — Strategist Layer
+
+This is not a meaningful BoJ or JPY catalyst.
+
+The release simply preserves a moderate forward-activity floor. Its information content is dominated by harder consumption, production, inflation and labour releases later in the week.
+
+## FRIDAY 31 JUL 2026
+
+### JAPAN — TOKYO CPI (JULY)
+
+Release Date: 31 Jul 2026 | Local Time: 01:30
+Importance: ****
+
+#### 1. Reuters Data
+
+Tokyo CPI Ex Fresh Food YY: 1,7% | Prior: 1,5% | Poll: 1,7% | Surprise: 0,00%
+Tokyo CPI Overall YY: 1,9% | Prior: 1,6%
+
+#### 2. Professional Market Commentary
+
+The supplied Reuters mechanical rows are inconsistent with the series mapping confirmed by the broader release coverage.
+
+The analytical tape consistently identified:
+
+* headline Tokyo CPI around 2.0% y/y
+* ex-fresh-food CPI at 1.9%, versus 1.7% consensus and 1.6% previously
+* ex-fresh-food-and-energy CPI at 2.0%, from 1.9%
+* services inflation remaining only 1.1%
+
+The important professional interpretation was therefore more hawkish than the supplied Reuters surprise field implies.
+
+Food and daily necessities remained firm, while fuel subsidies continued to suppress measured energy inflation. This means the increase in the ex-food-and-energy measure carries more information than the subsidised headline.
+
+The principal counter-signal is services: at 1.1%, the wage-to-services channel remains materially less convincing than goods/import-price passthrough.
+
+#### 3. Comment — Economist Layer
+
+The core analytical signal is an inflation re-acceleration beneath a mechanically suppressed energy component.
+
+This matters because the configuration is no longer simply:
+
+war shock → energy → headline CPI.
+
+Instead:
+
+* energy inflation is partly suppressed by government measures
+* food and necessities remain firm
+* ex-food-and-energy inflation has reached around 2%
+* upstream producer/import inflation remains exceptionally high
+* services inflation remains the principal weak link
+
+The sticky bucket is therefore strengthening, but not yet broad enough to establish a fully endogenous wage-services inflation cycle.
+
+State transition: escalation.
+
+Context from prior regional live file:
+The prior Japan file had already identified a large wedge between wholesale inflation and subsidised consumer inflation: June CGPI was 7.1%, yen-basis import prices were 29.7%, while government fuel measures restrained CPI. July Tokyo CPI begins to close that wedge through broader consumer-price passthrough, although services inflation remains incomplete.
+
+#### 4. HF Take — Strategist Layer
+
+The print supports further BoJ tightening and makes a purely transitory-inflation interpretation harder to sustain.
+
+However, the policy read should remain conditional on two tests:
+
+1. whether nationwide CPI confirms the Tokyo acceleration;
+2. whether wage-sensitive services move materially above the current 1.1% pace.
+
+The CPI print is therefore JPY-supportive through the rate differential, but its clean market impact was obscured by the BoJ decision and FX-intervention dynamics on the same session.
+
+---
+
+### JAPAN — JOBS-TO-APPLICANTS RATIO (JUNE)
+
+Release Date: 31 Jul 2026 | Local Time: 01:30
+Importance: **
+
+#### 1. Reuters Data
+
+Jobs/Applicants Ratio: 1,18 | Prior: 1,17 | Poll: 1,17 | Surprise: 0,010
+
+#### 2. Professional Market Commentary
+
+The ratio unexpectedly improved to 1.18.
+
+The demand-side labour signal therefore remained firm:
+
+* 118 openings per 100 applicants
+* ratio above 1.0
+* slight improvement from May
+* no evidence of a collapse in labour demand
+
+The release nevertheless sits beside weaker employment and participation details in the separate Labour Force Survey, creating a genuine cross-series tension.
+
+#### 3. Comment — Economist Layer
+
+The June ratio interrupts the deterioration visible in May.
+
+May had shown:
+
+* ratio falling to 1.17
+* applicants growing faster than vacancies
+* new job openings down sharply y/y
+* softness in consumer-facing sectors
+
+The return to 1.18 therefore stabilises the forward labour signal, but without detailed new-vacancy data it is premature to call a renewed tightening cycle.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+May had marked a softening edge in Japan’s still-tight labour market, with the jobs ratio at a five-month low even as realised employment remained strong. June recovers the ratio to 1.18, partially reversing that concern but not yet establishing renewed vacancy acceleration.
+
+#### 4. HF Take — Strategist Layer
+
+The release preserves the labour-demand pillar of the BoJ normalisation case.
+
+For policy, the more important confirmation would be a sustained improvement in new vacancies alongside stronger wage-sensitive services inflation. Without that, the ratio is supportive but not a standalone hike trigger.
+
+---
+
+### JAPAN — LABOUR FORCE SURVEY / UNEMPLOYMENT RATE (JUNE)
+
+Release Date: 31 Jul 2026 | Local Time: 01:30
+Importance: **
+
+#### 1. Reuters Data
+
+Unemployment Rate: 2,5% | Prior: 2,5% | Poll: 2,5% | Surprise: 0,00%
+
+#### 2. Professional Market Commentary
+
+The headline unemployment rate remained at 2.5% for a third month.
+
+The composition was weaker than the flat headline:
+
+* employment fell roughly 360k
+* labour force fell roughly 350k
+* unemployed increased slightly
+* participation fell to 64.4% from 64.6%
+* people outside the labour force increased materially
+
+The unchanged unemployment rate therefore partly reflected labour-force withdrawal rather than stronger hiring.
+
+At the same time, the separately produced jobs-to-applicants ratio increased to 1.18, preventing a simple labour-deterioration interpretation.
+
+#### 3. Comment — Economist Layer
+
+The headline remains tight; the composition is softer.
+
+Signal hierarchy:
+
+* unemployment level: tight
+* employment quantity: weaker
+* participation: softer
+* job openings ratio: resilient
+* wage-pressure implication: mixed
+
+This is a deterioration in labour-market quality rather than a clear break in labour demand.
+
+State transition: stabilization with a soft edge.
+
+Context from prior regional live file:
+May unemployment was also 2.5%, but employment and labour-force participation had reached record levels, supporting a full-employment interpretation. June keeps the low unemployment rate but reverses part of that composition strength. Japan’s labour regime remains tight, but it is no longer improving cleanly.
+
+#### 4. HF Take — Strategist Layer
+
+This does not invalidate the BoJ tightening path, but it weakens the argument that the labour market itself is becoming progressively hotter.
+
+The relevant policy test is whether the decline in employment persists into July. A continued fall in participation and employment would increase the weight of the consumption/growth brake in the reaction function.
+
+---
+
+### JAPAN — INDUSTRIAL PRODUCTION PRELIMINARY (JUNE)
+
+Release Date: 31 Jul 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Industrial Output Preliminary MM SA: 1,3% | Prior: 0,1% | Poll: 0,7% | Surprise: 0,60%
+
+#### 2. Professional Market Commentary
+
+Industrial production materially exceeded expectations.
+
+Key tape focus:
+
+* +1.3% m/m
+* third consecutive monthly increase
+* strongest monthly pace since January
+* annual growth around +4.2%
+* manufacturers projected further gains in coming months
+
+Reuters framed the release as evidence that Japanese manufacturing was weathering high oil prices and supply disruption.
+
+METI itself remained more cautious and retained its assessment that production was fluctuating indecisively.
+
+That divergence matters: the hard data are improving, but the statistical producer does not yet regard the improvement as a durable industrial regime shift.
+
+#### 3. Comment — Economist Layer
+
+June extends the industrial recovery and strengthens the sequential signal.
+
+May had already recorded a second monthly gain. June accelerates materially and beats consensus.
+
+However, three caveats limit the read-through:
+
+* weak prior-year base lifts the y/y comparison
+* manufacturer forecasts have historically been optimistic
+* conflict-related supply risks can generate front-loading and inventory accumulation
+
+The later July PMI evidence confirms that defensive stock-building was occurring. Some of the industrial strength should therefore be classified as precautionary rather than final-demand driven.
+
+State transition: improvement, stockpiling-qualified.
+
+Context from prior regional live file:
+May industrial production had risen 0.5% m/m for a second consecutive increase despite missing consensus, and METI already described the sector as fluctuating indecisively. June materially strengthens the momentum leg but does not resolve the demand-versus-inventory question.
+
+#### 4. HF Take — Strategist Layer
+
+The release gives the BoJ more growth cover to normalise, but the signal should not be extrapolated one-for-one into GDP or private demand.
+
+For JPY, the industrial resilience is supportive mainly because it reduces the probability that tighter policy immediately breaks the tradable sector.
+
+The July inventory/order composition is the key falsification test.
+
+---
+
+### JAPAN — RETAIL SALES / LARGE-SCALE RETAIL SALES (JUNE)
+
+Release Date: 31 Jul 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Retail Sales YY: 0,5% | Prior: 5,0% | Poll: 3,1% | Surprise: -2,60%
+Large-Scale Retail Sales YY: -1% | Prior: 5%
+
+#### 2. Professional Market Commentary
+
+Retail sales sharply undershot expectations and slowed from May’s very strong, downwardly revised 5.0% y/y increase.
+
+Key tape focus:
+
+* headline sales only +0.5% y/y
+* weakest annual increase in four months
+* large-scale retail sales turned negative
+* reported sequential sales dropped sharply
+* price pressures remained elevated
+
+The release therefore provided the first clear hard-data counterpoint to industrial resilience.
+
+The poor print also retrospectively weakens the interpretation of May’s retail surge, which had included regulatory pull-forward, durable-goods purchases and other potentially temporary support.
+
+#### 3. Comment — Economist Layer
+
+June is a significant household-demand warning.
+
+The contradiction is unusually clear:
+
+* industrial production: accelerating
+* manufacturing expectations: positive
+* retail sales: nearly flat y/y
+* large retailers: contracting
+* consumer prices: rising
+
+Because the retail figures are nominal, weak nominal growth against positive inflation implies an even weaker underlying real-volume signal.
+
+May had appeared to repair the weak-consumption side of Japan’s macro file, with broad strength in autos, machinery and department stores. June reverses much of that improvement.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+May retail sales had risen more than 5% y/y and were interpreted as a meaningful consumption improvement, albeit with appliance pull-forward and nominal-price distortions. June’s +0.5% print indicates that the apparent acceleration was not durable. Household demand again becomes a material constraint on the BoJ outlook.
+
+#### 4. HF Take — Strategist Layer
+
+The release is the principal domestic-demand counterweight to the inflation and industrial signals.
+
+A single weak month does not force a dovish BoJ pivot, but continued weakness would make the tightening path increasingly dependent on inflation rather than balanced growth.
+
+This is particularly important because the BoJ’s medium-term inflation framework assumes sustained wage-income-demand transmission.
+
+---
+
+### JAPAN — BOJ RATE DECISION / OUTLOOK REPORT (31 JUL)
+
+Release Date: 31 Jul 2026 | Local Time: No fixed feed time
+Importance: ****
+
+#### 1. Reuters Data
+
+BoJ Rate Decision: 1,00% | Prior: 1,00% | Poll: 1,00% | Surprise: 0,000%
+
+#### 2. Professional Market Commentary
+
+The BoJ held the policy rate at 1.00% by an 8–1 vote.
+
+Hajime Takata dissented in favour of an immediate increase to 1.25%.
+
+The substantive event was the inflation outlook rather than the mechanical hold.
+
+Key elements:
+
+* underlying inflation projected to strengthen further
+* core inflation expected to move clearly above 2% during the second half of FY2026
+* wage increases increasingly passed into selling prices
+* higher crude oil prices remain an inflation driver
+* yen depreciation adds to import costs
+* the BoJ explicitly recognised upside risk that underlying inflation itself could exceed target
+* Takata’s dissent showed a live case for faster normalisation
+
+The institutional debate centred on timing rather than direction.
+
+Capital Economics retained a materially hawkish terminal-rate view; Sompo Institute Plus saw increased probability of an earlier move; SMBC emphasised yen depreciation as a potential catalyst for accelerated tightening. Nomura provided the principal counterweight, stressing political constraints and limited breadth of hawkish support on the board.
+
+#### 3. Comment — Economist Layer
+
+This is a meaningful escalation of the BoJ reaction function.
+
+Previously, the main argument for higher rates could still be framed as:
+
+weak yen + imported inflation + wage gains → gradual normalisation.
+
+The July Outlook Report adds something stronger:
+
+underlying inflation itself may move above target.
+
+That matters because it shifts the internal policy debate from merely withdrawing extraordinary accommodation toward actively preventing an inflation overshoot.
+
+The inflation forecast nevertheless contains two separate buckets:
+
+**Potentially reversible**
+
+* oil
+* international freight
+* yen-import-price shock
+
+**Potentially persistent**
+
+* wage-to-price passthrough
+* corporate pricing behaviour
+* inflation expectations
+* underlying CPI above 2%
+
+The policy question is therefore not whether inflation is high; it is how much of the expected overshoot remains after the external shock normalises.
+
+State transition: hawkish escalation within the normalisation cycle.
+
+Context from prior regional live file:
+The BoJ had already raised the policy rate to 1.00% in June as wholesale inflation and yen-based import costs accelerated sharply. The prior file showed CGPI at 7.1%, import prices near 30% and a market increasingly focused on another hike. July moves the central bank’s own forecast framework closer to that market interpretation.
+
+#### 4. HF Take — Strategist Layer
+
+Direction is clearly toward further tightening; timing remains conditional.
+
+The reaction function now has three competing forces:
+
+* inflation and pricing behaviour → earlier hike
+* weak yen / FX intervention pressure → earlier hike
+* household demand and political constraints → slower hike
+
+For JPY, this is structurally supportive because the BoJ is no longer merely defending a one-off imported inflation spike.
+
+However, the cleaner trade is conditional on domestic demand not deteriorating rapidly enough to challenge the forecast.
+
+---
+
+### JAPAN — HOUSING STARTS (JUNE)
+
+Release Date: 31 Jul 2026 | Local Time: 07:00
+Importance: **
+
+#### 1. Reuters Data
+
+Housing Starts YY: 18,6% | Prior: 33,9% | Poll: 12,8% | Surprise: 5,80%
+
+#### 2. Professional Market Commentary
+
+Housing starts exceeded expectations but slowed sharply from May.
+
+Major segments remained positive:
+
+* owner-occupied housing
+* rental housing
+* built-for-sale housing
+
+However:
+
+* growth rates decelerated substantially
+* two-by-four construction contracted
+* the y/y comparison remained heavily flattered by weak 2025 base effects
+
+The release therefore represents continued construction resilience, but not a second acceleration.
+
+#### 3. Comment — Economist Layer
+
+The headline beat is real but optically strong.
+
+May had already recorded +33.9% y/y after the building-standards disruption depressed the comparison base. June remains elevated at +18.6%, but the deceleration is consistent with that base effect gradually fading.
+
+The weak two-by-four segment also suggests import-cost and construction-material pressure is not uniformly supportive.
+
+State transition: continuation of a base-effect-qualified recovery.
+
+Context from prior regional live file:
+May housing starts had jumped 33.9% with broad segment strength but a large post-regulation base effect. June remains stronger than consensus but slows materially, confirming that part of the apparent boom was optical.
+
+#### 4. HF Take — Strategist Layer
+
+Housing remains a secondary growth support rather than a core BoJ trigger.
+
+The release mildly reduces growth downside risk, but it should carry substantially less weight than consumption, wages, inflation and industrial activity.
+
+## MONDAY 3 AUG 2026
+
+### JAPAN — S&P GLOBAL MANUFACTURING PMI FINAL (JULY)
+
+Release Date: 3 Aug 2026 | Local Time: 02:30
+Importance: ***
+
+#### 1. Reuters Data
+
+S&P Global Manufacturing PMI Final SA: 54,5 | Prior: 54,7
+
+#### 2. Professional Market Commentary
+
+The final PMI remained exceptionally strong despite a small downward revision from the flash estimate.
+
+Survey internals showed:
+
+* seventh consecutive month of expansion
+* fastest output growth since early 2014
+* strongest new-order growth in roughly 4½ years
+* employment rising
+* backlogs increasing rapidly
+* purchasing activity accelerating
+* exporters reporting firmer demand
+
+But S&P Global also explicitly identified defensive stock-building.
+
+Manufacturers reported accumulating raw materials and finished goods because of supply-chain disruption and higher conflict-related costs.
+
+That is a critical qualification: the exceptional PMI is partly a war-stockpiling signal, not simply a final-demand boom.
+
+#### 3. Comment — Economist Layer
+
+The PMI confirms the industrial-production improvement but explains part of its strength.
+
+The combined hard/soft industrial signal is:
+
+* production: strong
+* orders: strong
+* backlogs: strong
+* purchasing: strong
+* inventories: rising defensively
+* confidence: constrained by conflict uncertainty
+
+The central analytical error would be to book the whole PMI surge as domestic or external final demand.
+
+The stockpiling evidence indicates that supply-risk hedging is pulling production and purchasing forward.
+
+State transition: continuation of manufacturing acceleration, with significant defensive-stockbuilding distortion.
+
+Context from prior regional live file:
+The July flash PMI had already shown manufacturing output growing at its fastest rate since 2014 and prices charged approaching survey records. The final 54.5 reading confirms that broad industrial strength while adding direct evidence that precautionary inventories are amplifying the cycle.
+
+#### 4. HF Take — Strategist Layer
+
+Manufacturing resilience gives the BoJ room to tighten, but its durability depends heavily on the conflict path.
+
+A normalisation in shipping and energy risks that produces falling inventories and softer new orders would expose how much of the present boom is temporary.
+
+The print is therefore JPY-positive at the margin, but less so than an equivalent PMI generated by clean final-demand acceleration.
+
+## TUESDAY 4 AUG 2026
+
+### JAPAN — MONETARY BASE (JULY)
+
+Release Date: 4 Aug 2026 | Local Time: 01:50
+Importance: *
+
+#### 1. Reuters Data
+
+Monetary Base YY: -13,87% | Prior: -13,71%
+
+#### 2. Professional Market Commentary
+
+No meaningful independent institutional debate developed around the release.
+
+The BoJ data showed continued rapid balance-sheet contraction:
+
+* monetary base around -13.8% y/y
+* current-account balances down around 16.6%
+* reserve balances down around 15.3%
+* sequential annualised contraction slower than in June
+
+The main signal is continued quantitative tightening alongside higher policy rates.
+
+#### 3. Comment — Economist Layer
+
+The y/y contraction deepens, but the sequential pace of runoff has slowed.
+
+This creates a useful distinction:
+
+* stock of reserve-based liquidity: contracting rapidly
+* sequential runoff: less aggressive than June
+* broad money: previously still positive y/y
+* evidence of private-credit stress: absent
+
+The correct interpretation remains normalisation of the BoJ balance sheet rather than a general monetary contraction.
+
+State transition: continuation.
+
+Context from prior regional live file:
+June M2 and broadly defined liquidity remained positive year on year even as the monetary base contracted sharply. July therefore extends the established regime: quantitative tightening at the central-bank balance-sheet level without evidence that broad private liquidity has broken.
+
+#### 4. HF Take — Strategist Layer
+
+This reinforces the direction of policy normalisation but is not a meaningful standalone JPY catalyst.
+
+The relevant risk would be a transition from reserve contraction to sustained broad-money and bank-credit weakness. That is not yet visible.
+
+## WEDNESDAY 5 AUG 2026
+
+### JAPAN — S&P GLOBAL SERVICES / COMPOSITE PMI FINAL (JULY)
+
+Release Date: 5 Aug 2026 | Local Time: 02:30
+Importance: ***
+
+#### 1. Reuters Data
+
+S&P Global Composite Output Final SA: 52,7 | Prior: 53,1
+S&P Global Services PMI Final SA: 51,2 | Prior: 51,9
+
+#### 2. Professional Market Commentary
+
+Both final readings were below their flash estimates.
+
+The service-sector internals were notably weaker than the composite headline:
+
+* services growth slowed
+* new business grew only marginally
+* new-business momentum was the weakest in the 25-month expansion sequence
+* foreign services demand contracted again
+* employment growth was marginal
+* backlogs fell to a 17-month low
+* confidence remained historically weak
+
+At the same time, pricing signals were exceptionally strong:
+
+* input-cost inflation remained close to a four-year high
+* firms cited Middle East disruption, staff costs and yen weakness
+* selling prices rose at the second-fastest rate in the series
+* composite selling-price inflation was also near a series high
+
+Manufacturing strength kept the composite at 52.7 despite the services slowdown.
+
+#### 3. Comment — Economist Layer
+
+This is the clearest survey representation of Japan’s current macro tension.
+
+**Demand side**
+
+* services new business fading
+* household-facing activity weakening
+* confidence poor
+* retail already weak
+
+**Price side**
+
+* input costs elevated
+* selling prices near record pace
+* upstream producer/import inflation strong
+* Tokyo underlying CPI firming
+
+The resulting configuration is stagflation-adjacent rather than a straightforward overheating cycle.
+
+The composite headline hides the divergence because exceptionally strong manufacturing offsets weak household-facing services.
+
+State transition: deterioration in demand quality with continued inflation escalation.
+
+Context from prior regional live file:
+The July flash survey had already shown unusually strong manufacturing alongside elevated prices charged. The final release materially lowers the services side while retaining near-record selling-price inflation, sharpening the distinction between factory resilience and domestic-demand fragility.
+
+#### 4. HF Take — Strategist Layer
+
+This is a difficult configuration for the BoJ.
+
+The inflation side argues for continued tightening; the household-facing activity side argues against an aggressive cadence.
+
+For JPY, the medium-term support from policy normalisation remains intact, but the risk shifts from “BoJ cannot hike because inflation is too low” toward “BoJ may need to hike into weakening consumption.”
+
+That distinction increases policy-error risk and JGB volatility.
+
+## FRIDAY 7 AUG 2026
+
+### JAPAN — HOUSEHOLD SPENDING (JUNE)
+
+Release Date: 7 Aug 2026 | Local Time: 01:30
+Importance: ***
+
+#### 1. Reuters Data
+
+All Household Spending YY: -3,3% | Prior: -0,4% | Poll: 1,0% | Surprise: -4,30%
+All Household Spending MM: -6,4% | Prior: 3,7% | Poll: -3,1% | Surprise: -3,30%
+
+#### 2. Professional Market Commentary
+
+Household spending delivered a severe downside surprise.
+
+Key tape focus:
+
+* real spending -3.3% y/y
+* seventh consecutive annual decline
+* -6.4% m/m
+* widespread category weakness
+* food -2.5%
+* utilities -7.1%
+* furniture/household goods -11.4%
+* clothing -19.9%
+* transport/communication -5.7%
+
+The official explanation materially qualifies the headline.
+
+June was affected by:
+
+* typhoons and heavy rainfall
+* cooler weather
+* weaker travel and dining-out demand
+* an unwind of precautionary purchases made earlier in the Middle East conflict
+
+Most importantly, consumable-goods spending fell as households reduced stockpiling of plastic bags and wrapping products that had begun in March.
+
+This provides direct official confirmation that some apparent spring consumption resilience represented defensive hoarding rather than recurring demand.
+
+At the same time, real wages reportedly continued to improve, making the failure of income gains to translate into spending economically important.
+
+#### 3. Comment — Economist Layer
+
+The June retail warning is confirmed.
+
+The sequential chronology is revealing:
+
+* May retail: very strong
+* May household spending: +3.7% m/m, near-flat y/y
+* June retail: sharp miss
+* June household spending: -6.4% m/m / -3.3% y/y
+* July services new business: weakest in a 25-month expansion sequence
+
+The consumption deterioration is therefore no longer a single-indicator phenomenon.
+
+However, June is not a clean structural collapse.
+
+The official stockpiling-unwind explanation changes the interpretation of both sides of the sequence:
+
+* spring strength was overstated by defensive purchases
+* June weakness is overstated by their reversal
+
+Weather adds a second temporary drag.
+
+The underlying message is consequently weaker than the raw -3.3% headline but materially softer than the spring data suggested.
+
+State transition: deterioration, partly distorted by stockpiling unwind and weather.
+
+Context from prior regional live file:
+May household spending had risen 3.7% m/m and narrowed its annual contraction to only 0.4%, leading the prior tape to judge that the consumption floor was improving. The prior note explicitly warned that a renewed June annual decline beyond roughly 1.5% would challenge that interpretation. June at -3.3% decisively triggers that falsification condition.
+
+#### 4. HF Take — Strategist Layer
+
+This is the strongest growth-side challenge to the BoJ’s hawkish July message.
+
+The central bank needs wage gains to generate:
+
+wages → income → consumption → pricing power → durable 2% inflation.
+
+June shows that the middle part of that mechanism remains unreliable.
+
+That does not eliminate further tightening because:
+
+* part of the weakness is temporary
+* inflation pressure remains elevated
+* manufacturing remains resilient
+* the BoJ has explicitly identified upside underlying-inflation risks
+
+But it argues strongly against treating the hiking cycle as unconstrained.
+
+For JPY, the medium-term policy support remains, while near-term hike timing becomes more sensitive to July consumption and nationwide inflation confirmation.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The 31 July meeting ratified the hawkish path guidance that had been circulating before the decision. The policy rate remained at 1.00%, but the reaction function moved clearly tighter: Takata voted for 1.25%, the Outlook Report projected CPI “clearly above” 2% from H2 FY26, and Ueda explicitly kept a September move live while describing financial conditions as accommodative and inflation risks as meaningfully skewed upward. No dovish dissent materialized. In parallel, the 30 July MoF yen-buying operation demonstrated that FX defence is now an active policy channel rather than merely verbal optionality. The combined regime is therefore further BoJ normalisation plus active yen defence, with household-demand weakness — rather than insufficient inflation — becoming the principal brake on cadence.
+
+BoJ Monetary Policy Meeting Statement — 31 Jul
+Importance: ****
+
+Key policy signal:
+The BoJ held at 1.00% by an 8–1 vote, but the hold was hawkish in composition. Underlying inflation was described as approaching 2%, upside deviation risk remained live, and the only dissent was for tighter policy. Sato’s debut vote and Asada’s vote both remained with the majority, so no dovish counter-dissent emerged.
+
+Representative quote:
+“Underlying inflation approaching 2%.”
+
+Incremental reaction function:
+The committee distribution shifted right relative to June. The relevant debate is increasingly the timing of the next hike rather than whether normalisation continues. The absence of a dovish dissent weakens the prior two-dissenter / slower-cadence thesis, although Sato remains untested in an actual majority hike vote.
+
+BoJ Outlook Report — 31 Jul
+Importance: ****
+
+Key policy signal:
+The central projection strengthened materially, with CPI expected to accelerate to a level clearly above 2% from H2 FY26 before moving back toward roughly 2% later in the projection period. The report also reduced the April tail-risk framing around significant growth downside and significant price upside.
+
+Representative quote:
+“Clearly above 2%.”
+
+Incremental reaction function:
+The Bank is now explicitly looking through the current sub-2% inflation prints toward pipeline inflation and pass-through. Monthly CPI therefore becomes a direct test of the BoJ’s own projection. A confirming acceleration supports an earlier hike; repeated misses would force the Bank to defend a hawkish path against its own realised data.
+
+Governor Kazuo Ueda — 31 Jul
+Importance: ****
+
+Key policy signal:
+Ueda personally owned the hawkish message at the post-meeting presser. He kept a hike as soon as September in play, stressed meaningful upside inflation risks and continued to describe financial conditions as accommodative.
+
+Representative quote:
+“Meaningful upside risks.”
+
+Incremental reaction function:
+The policy signal moved from sourced guidance to on-record Governor communication. September becomes a genuine decision window rather than a market extrapolation, with the bar defined by confirmation of the inflation pipeline and the absence of a sufficiently severe domestic-demand deterioration.
+
+Hajime Takata — 31 Jul
+Importance: ****
+
+Key policy signal:
+Takata proposed an immediate increase to 1.25%, arguing that the inflation environment had shifted into a new phase and required a more nimble response to overseas-driven upside price risks.
+
+Representative quote:
+“Shifted to a new phase.”
+
+Incremental reaction function:
+The hawkish pole is now expressing itself through the vote rather than speeches alone. Takata establishes 1.25% as an immediately defensible policy setting and pulls the center’s timing debate forward. The next question is when the majority joins him, not whether his direction of travel is institutionally admissible.
+
+MoF / FX Intervention — 30 Jul
+Importance: ****
+
+Key policy signal:
+MoF intervened to buy yen after USDJPY had reached roughly 163.99, driving the pair toward 157.96. The scout identifies a US rate check alongside the operation with Medium-High confidence on the US-role characterization. The operation was the first confirmed intervention since May and occurred immediately before the BoJ decision.
+
+Representative quote:
+“Zone around 162–165.”
+
+Incremental reaction function:
+The FX channel is now demonstrated rather than hypothetical. Intervention can buy the BoJ time and reduce the need to use the policy rate solely as an emergency yen-defence instrument, but the sequencing also creates pressure for monetary-policy follow-through. A renewed break toward the demonstrated intervention zone would raise the probability of additional MoF action and strengthen the argument for an earlier hike.
+
+Bottom line — central bank tape
+
+The July meeting is a hawkish ratification event, not a neutral hold. The vote, the Outlook and Ueda’s presser all move the reaction function toward another hike, while the FX intervention adds a second institutional support channel for JPY. The unresolved constraint is increasingly domestic demand: weak retail, household spending and services activity argue against treating September as mechanically guaranteed. The direction is tighter; the timing depends on whether realised CPI validates the projected H2 inflation acceleration without a deeper consumption break.
+
+# SIGNAL TENSION CHECK
+
+Main contradiction: Japan has strong manufacturing/output momentum and persistent inflation passthrough, while household-facing demand is weakening sharply.
+
+Why it matters: The BoJ is increasingly being asked to normalise policy because inflation risks are rising even though the wage-to-consumption mechanism needed for a durable domestic inflation cycle remains incomplete.
+
+Implication: The hiking direction remains intact, but the optimal cadence is increasingly constrained by weak consumption and a growing risk of tightening into a stagflation-adjacent demand slowdown.
+
+# 3 KEY RELEASES TO DIG INTO
+
+**** **BoJ Rate Decision / Outlook Report (31 Jul)**
+Why it matters: The hold itself was expected, but the first explicit acknowledgement that underlying inflation could overshoot 2%, together with Takata’s dissent for 1.25%, materially shifts the reaction function toward faster normalisation. The central question is how much survives if oil, freight and yen-import pressure normalise.
+
+**** **Tokyo CPI (31 Jul)**
+Why it matters: Verified underlying inflation accelerated despite fuel subsidies suppressing the energy bucket. The remaining weakness in 1.1% services inflation is the critical test of whether Japan is moving from imported inflation toward a self-sustaining wage-price cycle.
+
+*** **Household Spending (7 Aug)**
+Why it matters: The -3.3% y/y / -6.4% m/m collapse confirms the retail/services demand crack, but official evidence that prior stockpiling unwound in June means both the earlier strength and current weakness were distorted. This is the key growth-side challenge to the BoJ path.
+
+<<JPY_WEEK_END>>
 
 <<JPY_WEEK_BEGIN>>
 DATA WINDOW: 29 June 2026 to 24 July 2026
