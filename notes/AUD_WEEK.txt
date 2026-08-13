@@ -1,3 +1,431 @@
+<<AUD_WEEK_BEGIN>>
+DATA WINDOW: 29 June 2026 to 24 July 2026
+
+A. AUD WEEK — MACRO SYNTHESIS
+
+Australia moved from a **policy-constrained, weak-activity configuration toward firmer current growth without a clean overheating signal**. Early in the period, private credit remained unusually strong—particularly business credit—while June manufacturing showed that the headline PMI overstated underlying demand because output and new orders were still contracting and inventories and supplier delays were lifting the index. Building approvals reinforced the uneven picture: detached housing improved, but the apartment pipeline remained weak and aggregate approvals missed expectations.
+
+The late-window data produced a clearer near-term upgrade. June employment beat consensus by 61k, participation rose sharply and July flash PMIs showed a services-led acceleration in private-sector activity with improving domestic orders. The quality of the strength nevertheless remained mixed: most employment growth was part-time, underemployment increased, an ABS rotation-group adjustment reduced confidence in the monthly magnitude, manufacturing output remained approximately flat and the Westpac leading index continued to signal below-trend medium-term momentum. The RBA tape sharpens the policy read: the 30 June minutes were firmer than the June statement, describing conditions as **“probably somewhat restrictive”**, expecting underlying inflation to rise in Q2 and explicitly retaining the hike option; Sarah Hunter’s 8 July speech supplied the intellectual case for leaning against second-round effects from supply shocks. With no voting Board member speaking during the window, the stance remained institutionally hawkish but deliberately data-dependent into Q2 CPI. The cumulative regime is therefore **resilient current demand and credit, weak forward growth, rising labour supply and a firmed hawkish hold**. Inflation remains the decisive arbiter for August.
+
+B. AUD MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+Current activity improved materially by the end of the period. July flash composite PMI rose to 52.6 from 50.4 and services PMI to 53.0 from 50.5, while employment growth was exceptionally strong. Earlier manufacturing data were materially weaker beneath the headline, however: June output contracted for a fifth consecutive month and new orders for a fourth, while the Westpac leading index remained below trend. Building approvals also showed weak apartments despite firmer detached housing. The period therefore ends with a clear current-activity upgrade but unresolved durability.
+
+Labor: +
+Supporting evidence:
+Employment rose 76.3k versus 15.3k expected and participation increased to 67.0%, while unemployment remained at 4.4%. The strength was diluted by composition: most job gains were part-time, unemployed persons increased, underemployment rose and trend employment was materially weaker than the seasonally adjusted headline. Labour demand is resilient, but the rise in labour supply and underutilisation argues against interpreting the print as unambiguous overheating.
+
+Inflation: ~
+Supporting evidence:
+The supplied period contained no major Australian CPI release capable of resolving the inflation regime. June manufacturing surveys showed input and output inflation easing substantially from May, and July flash PMIs again reported softer input costs. Against this, the RBA minutes explicitly expected underlying inflation to rise in Q2 and described labour and non-labour cost pressures as widespread. Hunter’s supply-shock framework reinforced the risk that second-round effects require policy restraint. The period therefore leaves inflation unresolved rather than clearly improving or deteriorating.
+
+Financial Conditions: -
+Supporting evidence:
+Private-sector credit rose 0.7% m/m for a third consecutive month, annual credit growth accelerated to 8.2%, business credit rose 1.0% m/m and housing credit remained firm. Investor housing credit outpaced owner-occupier lending. At the same time, the RBA judged conditions “probably somewhat restrictive,” highlighting the tension between restrictive policy rates and still-resilient private credit transmission.
+
+Policy Constraint: -
+Supporting evidence:
+The RBA entered the period in a **hawkish hold** and the in-window tape firmed that configuration. The 30 June minutes retained the hike option, expected Q2 underlying inflation to rise and judged cost pressures widespread. Hunter’s 8 July speech argued that supply shocks worsen the inflation-employment trade-off and that policy should limit second-round effects rather than simply look through them. June employment then removed labour deterioration as an immediate dovish trigger. Against that, higher participation and underemployment, weak manufacturing output and orders, below-trend leading indicators and softer survey input-cost pressure prevent a mechanically forced hike. With all nine voting members silent throughout the window, the Board deliberately left the August decision to the forthcoming CPI. The reaction function is therefore **firmed hawkish hold / genuinely live August decision**, not an unconditional tightening call.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 30 JUN 2026
+
+AUSTRALIA — FINANCIAL AGGREGATES (MAY)
+
+Release Date: 30 Jun 2026 | Local Time: 03:30
+Importance: ***
+
+1. Reuters Data
+
+Private-Sector Credit MM: 0,7% | Prior: 0,7%
+Housing Credit MM: 0,5% | Prior: 0,6%
+
+2. Professional Market Commentary
+
+No Tier 1 standalone debate was detected.
+
+The official data nevertheless showed a robust credit impulse:
+
+* total credit rose 0.7% for a third consecutive month
+* annual credit growth accelerated to 8.2%
+* business credit increased 1.0% m/m and 9.9% y/y
+* housing credit remained firm
+* investor-housing credit outpaced owner-occupier lending
+* personal credit also expanded
+
+The RBA’s own financial-conditions framing has characterised credit growth as well above longer-run averages. ([Reserve Bank of Australia][6])
+
+3. Comment — Economist Layer
+
+The primary signal is that financial transmission remains unusually resilient despite higher policy rates.
+
+Business credit is the strongest component and argues against an imminent investment or working-capital collapse. Housing credit remains firm enough to maintain demand and asset-price sensitivity, with investor credit stronger than owner-occupier credit.
+
+The late-cycle tension is important: credit is accelerating while the RBA is trying to restrain inflation and has already delivered substantial tightening.
+
+State transition: continuation.
+
+Context from prior regional live file:
+Australia’s earlier DM sequence had combined persistent domestic inflation, resilient credit and a weakening real-activity margin. May credit reinforces the policy-constrained side of that profile. The economy is not yet exhibiting the broad credit retrenchment normally associated with a near-term easing cycle.
+
+4. HF Take — Strategist Layer
+
+The release keeps the RBA reaction function asymmetric toward further restraint rather than relief.
+
+It does not mechanically require another hike, but it raises the bar for a dovish pivot while business and housing credit remain strong. For AUD rates, the front end should remain sensitive to inflation and activity confirmation rather than pricing an early policy reversal.
+
+WEDNESDAY 1 JUL 2026
+
+AUSTRALIA — S&P GLOBAL MANUFACTURING PMI FINAL (JUNE)
+
+Release Date: 1 Jul 2026 | Local Time: 01:00
+Importance: ***
+
+1. Reuters Data
+
+Manufacturing PMI Final: 51,5 | Prior: 51,2
+
+2. Professional Market Commentary
+
+The headline rose to a five-month high and remained above 50 for a third consecutive month.
+
+The underlying detail was materially weaker:
+
+* output contracted for a fifth consecutive month
+* new orders declined for a fourth month
+* exports returned to growth
+* employment increased
+* pre-production inventories rose sharply
+* delivery times lengthened
+* input and output inflation eased substantially from May but remained elevated
+
+The compiler’s interpretation was that geopolitical disruption continued to weigh on activity, while softer price growth provided conditional relief. ([pmi.spglobal.com][15])
+
+3. Comment — Economist Layer
+
+The PMI headline overstates current demand conditions.
+
+The index is being lifted by employment, inventories and longer supplier-delivery times rather than expanding output and orders. In a supply shock, longer delivery times mechanically raise the PMI even though they represent worsening production conditions.
+
+The best interpretation is “positioning for recovery rather than experiencing recovery.”
+
+Positive elements:
+
+* order contraction is becoming less severe
+* exports are recovering
+* inflation pressure is easing
+* firms are retaining or adding labour
+
+Negative elements:
+
+* output remains in contraction
+* domestic orders remain weak
+* inventories are precautionary
+* supply delays distort the headline
+
+State transition: stabilization, conditional.
+
+Context from prior regional live file:
+Australia had previously combined weak real-activity surveys with persistent inflation and robust credit. June manufacturing preserves that split: the headline improves, but realised production and demand remain weak. The activity bucket is stabilising, not yet recovering.
+
+4. HF Take — Strategist Layer
+
+The release is not a clean argument for either an RBA hike or cut.
+
+Slower cost inflation reduces the need for additional restraint, but strong credit and continued supply-chain disruption prevent a dovish conclusion. July output and orders must move above 50 before the headline PMI can be treated as a genuine industrial rebound.
+
+AUSTRALIA — BUILDING APPROVALS (MAY)
+
+Release Date: 1 Jul 2026 | Local Time: 03:30
+Importance: ***
+
+1. Reuters Data
+
+Building Approvals MM: −1,1% | Prior: −3,4% | Revised: −0,2% | Poll: 2,0% | Surprise: −3,10%
+Building Approval Total YY: 10,3% | Prior: 23,1% | Revised: 24,4%
+
+2. Professional Market Commentary
+
+The official release showed a further decline in total approvals, driven entirely by non-house dwellings.
+
+Key points:
+
+* total approvals fell to 17,019
+* detached-house approvals increased to their highest level since September 2021
+* apartment and other non-house approvals dropped sharply
+* total residential-building value declined
+* non-residential approvals reached a record value
+* large data-centre projects drove the non-residential increase
+* the official annual dwelling increase differed from the Reuters annual field
+
+The mechanical Reuters line is preserved, while the official composition indicates a detached-housing recovery and an apartment-pipeline contraction. ([Australian Bureau of Statistics][16])
+
+3. Comment — Economist Layer
+
+The aggregate miss conceals two separate construction regimes.
+
+Detached houses are stabilising strongly, particularly in Western Australia and New South Wales. Apartments are deteriorating and remain far below their recent average, which is more relevant for medium-density urban housing supply.
+
+The record non-residential value does not signal a broad commercial-construction boom. It is concentrated in a small number of large data-centre approvals.
+
+Signal hierarchy:
+
+* total dwellings: weak
+* detached houses: improving
+* apartments: deteriorating
+* residential value: weaker
+* data-centre capex: strong but lumpy
+
+State transition: no material change in totals; deterioration in apartments and stabilization in detached housing.
+
+Context from prior regional live file:
+Australian approvals had been highly volatile, with February’s apartment surge followed by sharp March and April declines. May confirms that the aggregate series remains driven by the unstable multi-unit segment. The detached-house pipeline is improving, but the broad housing-supply recovery is incomplete. ([GitHub][2])
+
+4. HF Take — Strategist Layer
+
+The report has limited immediate RBA relevance because the internal signals offset.
+
+Detached-housing strength may support activity and construction costs, while weak apartments imply a future supply constraint and softer near-term building activity. The more strategic read is that AI and data-centre capex are becoming a meaningful non-residential investment offset.
+
+WEDNESDAY 22 JUL 2026
+
+Australia — Westpac–Melbourne Institute Composite Leading Index (Jun)
+
+Release Date: 22 Jul 2026 | Local Time: 03:00
+Importance: **
+
+1. Reuters Data
+
+Composite Leading Idx MM: 0,04% | Prior: -0,04% | Revised: -0,08%
+
+2. Professional Market Commentary
+
+The one-month Reuters reading improved slightly, but Westpac’s six-month annualised growth measure remained below trend and weakened further.
+
+Key drivers included:
+
+* narrowing yield spread
+* weaker dwelling approvals
+* weaker consumer expectations
+* softer hours worked
+
+3. Comment — Economist Layer
+
+The Reuters and Westpac readings capture different measurement windows.
+
+The one-month positive reading constitutes local stabilization, not a reversal of the below-trend forward-growth signal.
+
+State transition: deterioration.
+
+Context from prior regional live file:
+
+Australia’s leading index had already moved below trend. June extends that weakness even though the latest monthly movement has stabilised.
+
+4. HF Take — Strategist Layer
+
+The release is a dovish growth counterweight to the RBA’s inflation concern, not an independent easing trigger.
+
+THURSDAY 23 JUL 2026
+
+Australia — Employment / Unemployment / Participation (Jun)
+
+Release Date: 23 Jul 2026 | Local Time: 03:30
+Importance: ****
+
+1. Reuters Data
+
+Employment: 76,3k | Prior: 40,3k | Revised: 44,0k | Poll: 15,3k | Surprise: 61,00k
+
+Participation Rate: 67,0% | Prior: 66,7% | Poll: 66,7% | Surprise: 0,30%
+
+Unemployment Rate: 4,4% | Prior: 4,4% | Poll: 4,4% | Surprise: 0,00%
+
+2. Professional Market Commentary
+
+Employment was much stronger than expected, but the result was part-time-heavy and labour supply also rose sharply.
+
+The ABS weighting adjustment lowers confidence in the monthly magnitude.
+
+3. Comment — Economist Layer
+
+This is a strong labour-demand print, but not evidence that labour-market slack disappeared.
+
+Offsetting signals include:
+
+* part-time jobs accounted for most of the gain
+* participation rose sharply
+* unemployed persons increased
+* underemployment rose
+* trend employment was materially weaker than the seasonally adjusted headline
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+The labour file shifts toward resilient-with-mixed-quality demand.
+
+4. HF Take — Strategist Layer
+
+The release strengthens the RBA’s ability to maintain restrictive policy, but the internals do not independently require another hike.
+
+FRIDAY 24 JUL 2026
+
+Australia — S&P Global Flash Composite / Manufacturing / Services PMI (Jul)
+
+Release Date: 24 Jul 2026 | Local Time: 01:00
+Importance: ***
+
+1. Reuters Data
+
+S&P Global Mfg PMI Flash: 51,7 | Prior: 51,5
+
+S&P Global Svs PMI Flash: 53,0 | Prior: 50,5
+
+S&P Global Comp PMI Flash: 52,6 | Prior: 50,4
+
+2. Professional Market Commentary
+
+The professional framing is a services-led improvement in private-sector activity, accompanied by recovering domestic orders and hiring, but not a broad manufacturing-output boom.
+
+The manufacturing output index remained slightly below 50 even though the headline manufacturing PMI was above 50.
+
+3. Comment — Economist Layer
+
+The release challenges the leading index’s near-term “stalling” message but does not invalidate its medium-term warning.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+The current economy is firmer than the leading indicator alone suggested, but the broader forward signal remains weak.
+
+4. HF Take — Strategist Layer
+
+The release is mildly hawkish for the RBA through stronger current demand, but softer input costs and weak manufacturing output limit the signal.
+
+CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The RBA tape confirms a **firmed hawkish hold rather than an already-decided August hike**. The strongest in-window institutional signal came from the 30 June minutes: financial conditions were judged “probably somewhat restrictive,” underlying inflation was expected to rise in Q2, cost pressures remained widespread and the Board explicitly preserved the option of further tightening. Sarah Hunter’s 8 July speech supplied the policy doctrine for that asymmetry, arguing that adverse supply shocks worsen the inflation-employment trade-off and that monetary policy should limit indirect and second-round effects rather than simply look through them. June labour data subsequently removed labour deterioration as an immediate dovish trigger, but part-time composition and higher underemployment prevented the print from becoming a clean tightening catalyst. Critically, **none of the nine voting Board members spoke publicly during the full 29 June–24 July window**, leaving the Board deliberately pre-positioned but uncommitted ahead of Q2 CPI.
+
+RBA Monetary Policy Board Minutes — 30 Jun 2026
+Importance: ****
+
+Key policy signal:
+The minutes were firmer than the June statement. The Board judged financial conditions “probably somewhat restrictive,” expected underlying inflation to rise in Q2, described labour and non-labour cost pressures as widespread and explicitly retained the possibility of another rate increase.
+
+Representative quote:
+“Probably somewhat restrictive.”
+
+Incremental reaction function:
+The minutes remove a dovish interpretation of the unanimous June hold. They establish a clear conditional structure: policy is restrictive enough to wait for evidence, but not restrictive enough to rule out another hike if underlying inflation rises as forecast. The Q2 CPI therefore became unusually decisive because the Board had explicitly pre-positioned around an expected increase in underlying inflation.
+
+Sarah Hunter — Australian Conference of Economists — 8 Jul 2026
+Importance: ***
+
+Key policy signal:
+Hunter argued that supply shocks shift the Phillips curve outward, worsening the inflation-unemployment trade-off, and that monetary policy can and should limit indirect and second-round inflation effects even though it cannot eliminate the initial supply shock.
+
+Representative quote:
+“Some economic cost is unavoidable.”
+
+Incremental reaction function:
+The speech provides the intellectual case for front-loading restraint into an adverse supply shock rather than automatically looking through it. It strengthens the conditional hawkish interpretation of the minutes: if inflation expectations, wages or domestic price-setting validate second-round effects, the hurdle for another hike falls. Because Hunter is non-voting staff, the signal supports but does not substitute for Board guidance.
+
+ABS Labour Force — June 2026 — 16 Jul 2026
+Importance: ***
+
+Key policy signal:
+Employment increased 76,000, participation rose 0.3pp to 67.0% and unemployment remained 4.4%, while underemployment increased to 6.5% and most of the employment gain was part-time.
+
+Representative quote:
+“Employment +76,000; participation 67.0%; unemployment 4.4%.”
+
+Incremental reaction function:
+The labour release removes a rapidly deteriorating labour market as an argument for near-term policy relief. Rising participation alongside strong employment growth supports the RBA’s confidence that the real economy can tolerate restrictive settings. However, higher underemployment, youth unemployment and the part-time skew prevent the release from independently forcing a hike. Inflation remains the binding decision variable.
+
+Christopher Kent — Additional Monetary Policy Tools framework — 29 Jun 2026
+Importance: **
+
+Key policy signal:
+Kent set out the RBA’s institutional framework for unconventional policy tools that could be used in a future low-rate environment.
+
+Representative quote:
+“Additional monetary policy tools.”
+
+Incremental reaction function:
+No near-term stance change. The document is institutional preparedness rather than easing guidance and should not be interpreted as evidence that the RBA is preparing to reverse the current restrictive stance.
+
+RBA Monetary Policy Board — full window
+Importance: ***
+
+Key policy signal:
+No public policy remarks were identified from Bullock, Hauser or any of the other seven voting members during 29 June–24 July.
+
+Representative quote:
+“No in-window voter remarks.”
+
+Incremental reaction function:
+The absence of voter guidance is itself material because the Board had already pre-positioned hawkishly through the minutes and then waited for the decisive Q2 CPI. Committee dispersion therefore remained unobservable after the June 9–0 hold. The institutional message was clear—hike optionality remained alive—but no individual voter committed to an August move before the inflation data.
+
+Bottom line — central bank tape
+
+The RBA entered the end of the window in a **hawkish hold with a genuinely live August decision**. The minutes and Hunter framework pushed the reaction function toward pre-emptive restraint if underlying inflation validated the Board’s forecast, while strong June employment reduced the probability that labour weakness would block tightening. At the same time, the Board itself remained completely silent, financial conditions were already judged restrictive and labour composition retained meaningful slack. The central unresolved variable was therefore Q2 CPI: an upside or persistence confirmation would materially strengthen the hike case; a downside miss would undermine the very inflation assumption on which the in-window hawkish positioning rested.
+
+SIGNAL TENSION CHECK
+
+Main contradiction: Australia’s late-period employment and services data strengthened materially while forward indicators and manufacturing internals remained substantially weaker.
+
+Activity tension:
+
+* employment rose 76.3k against 15.3k expected
+* participation reached 67.0%
+* composite PMI rose to 52.6
+* services PMI rose to 53.0
+* manufacturing headline PMI remained above 50
+* manufacturing output nevertheless remained approximately flat / slightly contractionary
+* the Westpac leading index remained below trend
+
+Labour tension:
+
+* headline employment growth was exceptionally strong
+* most gains were part-time
+* participation increased sharply
+* underemployment rose
+* trend employment was materially weaker than the seasonally adjusted headline
+* ABS weighting changes reduce confidence in the monthly magnitude
+
+Financial-conditions tension:
+
+* private and business credit remain strong
+* detached-housing approvals improved
+* apartment approvals remain weak
+* restrictive monetary policy has not produced broad credit retrenchment
+* forward growth indicators remain soft despite resilient financing
+
+Why it matters: Australia can sustain stronger current activity without eliminating labour slack or proving that medium-term growth has reaccelerated. The RBA therefore risks over-reading volatile employment and headline PMI strength while equally risking underestimating demand resilience embedded in credit and services.
+
+Implication: The tightening contingency remains live, but CPI and the breadth of domestic inflation should dominate the next policy decision. Strong activity raises the hurdle for easing; weak forward growth and rising underutilisation raise the hurdle for another hike.
+
+3 KEY RELEASES TO DIG INTO
+
+**** Australia — Employment / Unemployment / Participation (23 Jul)
+
+Why it matters: Employment beat consensus by 61k and participation rose sharply, materially improving the current labour-demand signal. The part-time skew, higher underemployment and ABS weighting adjustment prevent a clean overheating interpretation.
+
+*** Australia — S&P Global Flash Composite / Manufacturing / Services PMI (24 Jul)
+
+Why it matters: Services drove a clear rebound in current private-sector activity and domestic orders, challenging the leading index’s near-term weakness. Manufacturing output remaining below 50 and softer costs limit the hawkish read-through.
+
+*** Australia — Financial Aggregates (30 Jun)
+
+Why it matters: Credit growth remained unusually strong despite restrictive policy, with business credit up 1.0% m/m and 9.9% y/y. The absence of meaningful credit retrenchment keeps the RBA reaction function asymmetric against an early dovish pivot.
+
+<<AUD_WEEK_END>>
 
 <<AUD_WEEK_BEGIN>>
 DATA WINDOW: 26 May 2026 to 26 June 2026
