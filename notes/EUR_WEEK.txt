@@ -1,3 +1,4 @@
+
 <<EUR_WEEK_BEGIN>>
 
 DATA WINDOW: 27 July 2026 to 8 August 2026
@@ -1757,7 +1758,7 @@ No ECB, OAT or EUR trading signal.
 
 Included for Reuters-feed completeness only.
 
-# CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 ## Summary — Policy reaction function
 
@@ -1819,7 +1820,7 @@ The centre of the Council was still conditional immediately after the meeting, b
 
 The central-bank tape upgrades the macro-only conclusion from **September tightening optionality** to **September hike as the loaded base case**. A 25bp move to a 2.50% deposit rate is the modal outcome in the supplied scout, with the case driven by pre-emption against inflation persistence and enabled by stronger growth rather than by evidence of broad demand overheating. The strongest falsifiers are now specific: a material downward Q2 GDP revision, further wage deceleration, durable energy retracement and an August flash showing core/services rolling back. Absent that combination, the burden of proof has shifted toward the hold camp.
 
-# SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 **Main contradiction:** the euro area is simultaneously producing **stronger-than-feared aggregate growth and improving July surveys**, while **household demand, construction and labour breadth remain weak**, and inflation remains above target for largely energy-driven and highly heterogeneous reasons.
 
@@ -1850,7 +1851,7 @@ On prices:
 
 **Live implication:** September tightening optionality has increased materially. A further hike becomes compelling only if August confirms that services/core pressure persists after seasonal effects and beyond the direct energy shock.
 
-# 3 KEY RELEASES TO DIG INTO
+F. 5 KEY RELEASES TO DIG INTO
 
 ### **** EURO ZONE — HICP FLASH (JUL)
 
@@ -1863,6 +1864,141 @@ Why it matters: +0.4% q/q versus +0.2% expected materially reduces recession ris
 ### **** SPAIN — GDP FLASH (Q2)
 
 Why it matters: +0.7% q/q with strong consumption, investment, employment, services and construction is the euro area's cleanest domestic-demand expansion. Combined with core inflation around 3%, Spain represents the conventionally hawkish tail of the ECB distribution.
+
+G. RED TEAM QUESTIONS
+
+1. Does the +0.4% Q2 GDP print survive revision once Ireland and other volatile national components are updated, or does the growth floor revert closer to the ~0.2–0.3% pace implied by the median large economy?
+
+2. Does July HICP mark the start of a persistent core/services reacceleration, or do August data show that the move was predominantly energy- and seasonality-driven with no synchronized second-round effects?
+
+3. Is Spain’s combination of +0.7% GDP, sub-10% unemployment and ~3% core inflation representative of an emerging bloc-wide demand problem, or an increasingly isolated hawkish national tail?
+
+4. Can Germany’s manufacturing/export rebound broaden into retail, services above 50 and stabilizing employment before household weakness and construction contraction undermine the recovery?
+
+5. Does France’s July services-inflation acceleration persist despite weak manufacturing, soft labor breadth and marginally contracting PMIs, or prove to be tourism / seasonal noise?
+
+6. Are softer survey selling-price expectations and stabilizing PPI/import-price momentum strong enough to offset energy and intermediate-goods pressure before it reaches consumer core inflation?
+
+7. Does Kazimir’s pre-emptive doctrine become the Governing Council center, or does the absence of broad second-round effects and uneven demand keep September closer than the current tape implies?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: EUR/USD, where a higher pair is a stronger EUR.
+
+The fortnight began with a tactical EUR-negative bias inherited from the prior week, when higher energy prices and stronger U.S. real-rate support had pushed EUR/USD toward the mid-1.13s despite a hawkish ECB hold. That near-term bearish view was then challenged by the end-July data sequence: euro-area Q2 GDP surprised at +0.4% q/q, July HICP reaccelerated to 2.9%, and the ECB September-hike case strengthened. EUR/USD closed July at 1.1509, up from 1.1422 at end-June.
+
+The decisive in-window forecast revision came from MUFG on 3 August. MUFG cut its Q3 EUR/USD forecast to 1.14, below its displayed market-consensus level of 1.15, while keeping 1.16 for Q4, 1.18 for Q1 2027 and 1.20 for Q2 2027. Its message was explicit: the dollar should remain supported for longer because Fed hike pricing would persist, while EUR upside was constrained by Europe’s energy exposure even though MUFG expected one more ECB hike in September.
+
+The Reuters FX poll conducted 31 July–5 August broadly confirmed that short-horizon shift. Strategists expected the dollar to remain firm in coming months, with EUR/USD around 1.15 over the next three months before rising to 1.16 by end-January and 1.18 in a year. Nearly half of respondents expected existing long-dollar positioning to remain unchanged through end-August, while only a small minority expected further additions.
+
+The 7 August U.S. payroll shock then challenged that fresh stronger-dollar consensus almost immediately. EUR/USD rose to 1.1568 after U.S. payrolls fell 23k, June was revised sharply lower and markets moved to a 56% probability of a September Fed hold. The fortnight therefore ends with a notable inversion: public near-term forecasts had just been revised lower toward 1.14–1.15, but spot finished above that cluster as the U.S. labor shock weakened the Fed-rate leg of the stronger-dollar case.
+
+**Public-bank / strategist Q3–3M range:** EUR/USD 1.14–1.15 for the central short-horizon public forecast cluster visible during the window.
+
+**Constructive EUR cluster:** EUR/USD 1.16 by Q4 / end-January and 1.18 on the Q1-2027 / 12M horizon, with the medium-term appreciation story deferred rather than abandoned.
+
+**More cautious / tactical view:** MUFG at 1.14 for Q3, with Reuters survey medians around 1.15 over three months as persistent U.S. rate support and European energy exposure limit near-term EUR upside.
+
+**Bias at window close:** Tactical EUR recovery / medium-term constructive EUR, but with forecast lag. Spot at 1.1568 stood above the newly revised 1.14–1.15 short-horizon cluster after payrolls materially weakened the September Fed-hike case.
+
+### What changed through the data window
+
+The first phase improved the euro’s own policy and growth foundations. The 30 July Q2 GDP surprise materially reduced euro-area recession risk, while the 31 July HICP print raised headline, core and services inflation and strengthened expectations of a September ECB hike. MUFG nevertheless judged that this was not enough to produce a strong near-term EUR appreciation call because the same energy shock supporting ECB tightening also damaged Europe’s terms of trade.
+
+The second phase was a formal forecast downgrade. MUFG’s 3 August Q3 target moved to 1.14, while its displayed consensus was 1.15. The bank argued that Fed hike expectations were overdone but would remain in the market for longer, keeping USD supported, while EUR gains would become more of a 2027 story. The 5 August Reuters poll independently placed EUR/USD around 1.15 on a three-month horizon and described the dollar as likely to remain firm in coming months.
+
+The third phase arrived on 7 August. The negative U.S. payroll print and large backward revisions pushed the Fed tightening path out, drove U.S. yields lower and lifted EUR/USD to 1.1568. That move was not driven by a new euro-area data surprise; it came through the dollar side of the relative-rate equation.
+
+The window therefore contains both a genuine downward revision to near-term EUR forecasts and an immediate market challenge to that revision. The structural debate becomes whether the U.S. labor slowdown closes the Fed-hike window faster than European energy pressure forces the ECB to tighten.
+
+### Main consensus drivers
+
+**ECB / Fed relative path:**
+Euro-area GDP and HICP increased the probability of a September ECB hike, while the 7 August payroll shock reduced the probability of a September Fed hike. This is the cleanest late-window EUR-positive shift.
+
+**Energy / terms of trade:**
+Higher oil and gas remained the main EUR-specific headwind. The shock raises ECB tightening risk but simultaneously damages real income, external balances and growth quality in an energy-importing region.
+
+**Relative growth:**
+Q2 GDP and July PMIs improved the euro-area growth floor materially. Spain was especially strong, Germany showed credible industrial recovery and Italy remained resilient, reducing the asymmetry between U.S. and euro-area activity.
+
+**Positioning / dollar resilience:**
+The August Reuters poll still showed substantial long-dollar conviction. That left the dollar vulnerable to negative U.S. data surprises but also meant that one payroll report did not automatically create a new structural EUR bull regime.
+
+### Where consensus could be wrong
+
+**Consensus too bullish EUR after payrolls:**
+If U.S. inflation reaccelerates and rebuilds Fed hike pricing while European energy remains elevated, the 7 August EUR rally could reverse and the MUFG 1.14 Q3 target could become relevant again.
+
+**Consensus too cautious EUR:**
+If weak U.S. hiring persists, Fed tightening is pushed decisively beyond September and euro-area growth remains near the Q2/PMI pace while the ECB delivers one additional hike, EUR/USD could stay above 1.15 and converge earlier toward 1.16–1.18.
+
+**Key falsification:**
+Whether the next U.S. inflation and euro-area wage/inflation sequence confirms a widening ECB-over-Fed tightening differential rather than merely a one-day payroll repricing.
+
+Sources used for this historical scan: MUFG Monthly Foreign Exchange Outlook, 3 Aug 2026; Reuters FX poll, 5 Aug 2026; Reuters FX market report, 7 Aug 2026.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Confirmed but uneven euro-area resilience with above-target, energy-heavy inflation and a more pre-emptive ECB reaction function.
+* **Change:** Q2 GDP +0.4% and July HICP 2.9% / core 2.5% materially reduced the growth objection to another hike and shifted September toward a loaded 25bp base case.
+
+### Scoreboard
+
+* **Growth:** + | Q2 GDP +0.4%; July composite 52.0 / services 51.7; Spain broad, Germany industrially stronger, France lagging.
+* **Labor:** ~ | Aggregate unemployment 6.3% and Spain strong, but German / French breadth weakens.
+* **Inflation:** - | HICP 2.9%, core 2.5%, services 3.3%; Spain sticky and France firmer, Germany / Italy less alarming.
+* **Financial Conditions:** ~ | M3 / lending stable; no renewed credit contraction and no credit boom.
+* **Policy Constraint:** - | Kazimir pre-emption + stronger GDP + firmer HICP load the September hike case.
+
+### Major Release Tape
+
+* **** **Euro Zone GDP Flash** — +0.4% q/q vs +0.2% → materially higher regional growth floor, albeit Ireland-inflated.
+* **** **Euro Zone HICP Flash** — 2.9%; core 2.5%; services 3.3% → September inflation threshold remains active.
+* **** **Spain GDP** — +0.7% q/q → cleanest domestic-demand expansion in the bloc.
+* **** **Euro Zone Services / Composite PMI Final** — 51.7 / 52.0 → fresh demand broadens the recovery beyond manufacturing.
+* **** **Germany Manufacturing PMI Final** — 52.2 → strongest large-country factory demand / export rebound.
+
+### Minor Tape
+
+* **Minor:** Retail sales -0.3% m/m; Germany retail -0.7%; Italy IP -1.0%; construction remains contracting; PPI / import-price momentum stabilizing.
+
+### Central Bank
+
+* **Bias:** Loaded September hike / conditional one-more-and-done.
+* **Reaction function:** Growth is an enabler; pre-emption against inflation propagation is the justification. Hold requires softer August core/services, wages and energy plus no adverse GDP revision.
+* **Key tape:** Kazimir argued to act before second-round effects become visible; no in-window dovish counter-tape during recess.
+
+### Signal Tension
+
+* **Tension:** Stronger GDP / PMIs versus weak household, construction and labor breadth; inflation above target but heterogeneous and energy-heavy.
+* **What resolves it:** GDP revision, August HICP, wages and persistence of the energy shock.
+
+### Key Releases
+
+1. **Euro Zone HICP Flash** — keeps the September threshold alive.
+2. **Euro Zone GDP Flash** — removes much of the recession objection.
+3. **Spain GDP** — represents the conventionally hawkish domestic-demand tail.
+
+### Red Team
+
+* Does Q2 GDP survive revision?
+* Does August inflation confirm persistent core / services pressure?
+* Does Kazimir’s pre-emptive doctrine represent the Governing Council center?
+
+### FX Consensus
+
+* **Consensus:** Near-term EUR forecasts were revised lower, then payrolls challenged them.
+* **Public-bank range:** EUR/USD 1.14–1.15 Q3 / 3M central cluster.
+* **Constructive cluster:** 1.16 Q4 / end-Jan; 1.18 Q1-27 / 12M.
+* **Cautious / tactical:** MUFG 1.14 Q3; Reuters ~1.15 3M.
+* **At window close:** EUR/USD 1.1568 after weak U.S. payrolls, above the revised short-horizon cluster.
+* **Drivers:** ECB/Fed differential; energy terms of trade; relative growth; positioning.
+* **Consensus wrong if:** U.S. inflation re-arms the Fed or, conversely, weak hiring plus a September ECB hike brings forward the EUR appreciation path.
 
 <<EUR_WEEK_END>>
 
@@ -2933,7 +3069,7 @@ Falsification would come from:
 
 Next verification test: final July PMIs, Q2 GDP, HICP and the August flash survey.
 
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Window: 20 July 2026 to 26 July 2026
 
@@ -3005,7 +3141,7 @@ Bottom line — central bank tape
 
 The July hold did not close the tightening cycle. Meeting-week communication shifted the hawkish tail higher: an internal hike discussion became public, the Council retained an upside-inflation/downside-growth configuration and post-meeting speakers kept September open as the energy shock intensified. The reaction function remains conditional rather than pre-committed. A persistent oil shock, worsening medium-term expectations or renewed inflation propagation would support a September hike; energy retracement, continued core disinflation, softer wages and weaker activity would keep June as a one-and-done move. Because the post-meeting sample contains no dovish counter-voice and the cited two-hike market pricing was not independently verified, the correct archive read is hawkish drift, not a confirmed committee-wide tightening consensus.
 
-SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 Main contradiction: Euro-area activity, orders and business expectations rebounded sharply in July while households, employment and parts of services demand remained fragile; surveyed price pressure eased even as the ECB retained a hawkish bias because of renewed energy risk.
 
@@ -3013,7 +3149,7 @@ Why it matters: The configuration determines whether July marks a durable recove
 
 Implication: The regional growth floor has risen and recession pricing should be restrained, but the evidence does not justify a clean pro-cyclical or aggressively hawkish regime call until hard data, employment and August surveys confirm the turn.
 
-5 KEY RELEASES TO DIG INTO
+F. 5 KEY RELEASES TO DIG INTO
 
 **** ECB Refinancing Rate / ECB Deposit Rate (23 Jul)
 
@@ -3035,10 +3171,138 @@ Why it matters: Reform optimism and stronger domestic and export expectations pr
 
 Why it matters: France moved from acute services-led contraction toward near-stabilization, with new services demand improving. Continued employment losses, falling backlogs and weak export orders prevent the country from joining Germany as a clear positive growth engine.
 
+G. RED TEAM QUESTIONS
+
+1. Does the July composite PMI remain above 50 once front-loading and the temporary geopolitical-relief window fade, or does August reveal that the recovery was timing-driven?
+
+2. Can Germany’s manufacturing rebound broaden into services, employment and household demand before weaker income expectations and elevated precautionary saving cap the cycle?
+
+3. Do softer PMI selling prices and headline German PPI ultimately dominate the inflation signal, or do services costs, intermediate-goods inflation and renewed energy pressure re-steepen underlying inflation?
+
+4. Is the first increase in euro-area payrolls in 2026 the start of genuine labor stabilization, or a marginal services-led improvement that fails to reverse job losses in Germany, France and manufacturing?
+
+5. Does the ECB’s September hike branch survive if oil remains high but wages, expectations and underlying inflation do not show second-round effects?
+
+6. Can Spain’s tourism model continue supporting growth if volumes weaken while hotel pricing remains strong, or is the shift from volume-led to price-led resilience an early deterioration signal?
+
+7. Does stronger euro-area activity improve EUR fundamentals enough to offset the adverse terms-of-trade effect of higher energy and the larger rise in U.S. real rates?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: EUR/USD, where a higher pair is a stronger EUR.
+
+The medium-term public-bank baseline entering 20–24 July remained constructive EUR. MUFG’s 1 July outlook still targeted EUR/USD 1.16 for Q3 and 1.18 for Q4, with the displayed consensus also at 1.16 for Q3. The underlying thesis was that Fed tightening expectations would ultimately fade faster than ECB tightening risk, allowing EUR/USD to recover from the 1.1422 end-June spot level.
+
+The tactical picture deteriorated materially during this window. On 20 July EUR/USD traded near 1.1417 as higher oil and renewed Middle East tension supported the dollar. By 21 July it was around 1.1402. Ahead of the ECB meeting, ING expected a hawkish hold to preserve euro rate support and initially looked for only a limited move lower toward 1.1380 if geopolitical news failed to improve.
+
+The 23 July meeting then exposed the core EUR problem. The ECB delivered the expected hawkish hold and markets retained strong September-hike pricing, but EUR/USD still fell to 1.1372 as Brent moved above $100. The euro therefore failed to benefit from a more restrictive ECB path because the same energy shock that supported rate expectations simultaneously worsened Europe’s growth and terms-of-trade outlook, while the U.S. economy was viewed as relatively insulated.
+
+On 24 July ING hardened its tactical bearish view. It argued that U.S. real-rate adjustment had moved more strongly in the dollar’s favor than the euro-area adjustment and expected EUR/USD to press the low-1.13s while energy prices continued to reinforce Fed tightening expectations. Historical market data place the 24 July close around 1.1368.
+
+**Public-bank / strategist range:** EUR/USD roughly 1.13–1.16 across the visible tactical-to-Q3 public views; horizons differ, with low-1.13s a near-term ING call and 1.16 the MUFG / consensus Q3 anchor.
+
+**Constructive EUR cluster:** EUR/USD around 1.16 by end-Q3, rising toward 1.18 later as relative rate spreads eventually move back in EUR’s favor.
+
+**More cautious / tactical view:** EUR/USD 1.1380 initially, then low-1.13s after the ECB as higher energy, stronger U.S. real rates and USD safe-haven demand dominated the hawkish ECB signal.
+
+**Bias at window close:** Tactical bearish EUR / medium-term constructive EUR. Spot around 1.137 was materially below the 1.16 Q3 anchor, and the week moved the market away from rather than toward that target.
+
+### What changed through the data window
+
+The week began with markets already rebuilding ECB tightening expectations. By 20 July, money markets had fully priced a September ECB hike and roughly two additional hikes by early 2027 as energy prices rose again. This should ordinarily have supported EUR through rates, but the currency weakened because oil simultaneously improved the relative case for USD.
+
+On 23 July, the ECB confirmed the hold and Lagarde disclosed that some governors had considered an immediate hike. Markets maintained heavy September pricing, yet EUR/USD fell to 1.1372. That divergence is the key cross-asset signal of the week: higher euro front-end rates were no longer sufficient to offset deteriorating energy terms of trade and stronger U.S. real-rate support.
+
+The 24 July PMI rebound improved the domestic-growth leg of the EUR story. Composite activity rose to 51.9, new orders improved and Germany returned to expansion. But the FX reaction remained constrained because the survey’s price relief was potentially stale relative to renewed energy escalation, while ING judged the U.S.-euro real-rate spread to be moving against EUR/USD.
+
+The week therefore produced no formal medium-term target capitulation, but it did produce a clear tactical downgrade. The 1.16 Q3 constructive cluster survived; the near-term path moved toward the low-1.13s instead.
+
+### Main consensus drivers
+
+**ECB / Fed relative path:**
+A September ECB hike remained strongly priced, but the Fed tightening premium also rebuilt. EUR needed the relative spread to move in its favor, not merely both central banks to become more hawkish.
+
+**Energy / terms of trade:**
+This was the dominant EUR-specific negative. Higher oil and gas improve the ECB-hike case but weaken euro-area real income, external balances and growth quality.
+
+**Relative real rates:**
+ING highlighted that two-year real EUR/USD swap differentials had widened toward levels last seen when EUR/USD traded below 1.10. This became the clearest tactical argument for further EUR downside.
+
+**Growth quality:**
+The July PMI rebound reduced the euro-area hard-landing tail and supported the medium-term EUR thesis, but Germany remained manufacturing-heavy, France only near stabilization and household / labor breadth weak.
+
+### Where consensus could be wrong
+
+**Consensus too bullish EUR:**
+If energy remains elevated and the Fed tightens alongside the ECB, EUR/USD can stay in the low-1.13s or move lower despite stronger euro-area activity.
+
+**Consensus too bearish EUR tactically:**
+If oil retraces, U.S. real yields fall and the July PMI recovery broadens into hard data, the relative-rate and terms-of-trade channels could reverse quickly and restart convergence toward 1.16.
+
+**Key falsification:**
+Whether EUR can begin rising while September ECB pricing remains high; failure to do so would confirm that energy / U.S. real-rate forces dominate the nominal ECB-rate advantage.
+
+Sources used for this historical scan: MUFG Monthly Foreign Exchange Outlook, 1 Jul 2026; Reuters FX market reports, 20–24 Jul 2026; ING ECB Cheat Sheet, 21 Jul 2026; ING FX Daily, 23–24 Jul 2026.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Conditional euro-area recovery with a hawkish-energy policy constraint. July PMIs moved activity, orders and marginal employment back into expansion, but households and labor breadth remained weak.
+* **Change:** The ECB hold confirmed tightening optionality rather than an easing pivot; higher energy simultaneously raised September-hike risk and damaged EUR terms of trade.
+
+### Scoreboard
+
+* **Growth:** + | Composite 51.9; Germany 51.2; France near stabilization.
+* **Labor:** ~ | Euro-area payrolls edged higher, but Germany / France and manufacturing still shed jobs.
+* **Inflation:** ~ | Survey prices and headline German PPI eased; ex-energy, services and intermediate-goods pressure remained.
+* **Financial Conditions:** - | ECB at 2.25%, balance-sheet runoff and tighter credit keep conditions restrictive.
+* **Policy Constraint:** - | September hike remains live if energy, expectations or inflation propagation persist.
+
+### Major Release Tape
+
+* **** **ECB** — unanimous hold, but some governors considered hiking; upside inflation / downside growth risks preserved.
+* **** **Euro Zone Flash PMI** — composite 51.9; orders fastest since Apr-23; employment up marginally.
+* **** **Germany Flash PMI** — composite 51.2; manufacturing output 54.7; services still sub-50.
+* *** **ZEW** — expectations 26.3 vs 17.5 poll, but current conditions -77.6.
+* *** **France Flash PMI** — composite 49.6; strong services rebound, weak employment / exports.
+
+### Central Bank
+
+* **Bias:** Hawkish hold / September optionality.
+* **Reaction function:** Persistent energy or expectations deterioration can trigger another hike; softer wages, core inflation and activity would keep June one-and-done.
+
+### Signal Tension
+
+* **Tension:** Better activity and softer surveyed prices versus fragile households / jobs and renewed external energy inflation.
+
+### Key Releases
+
+1. ECB decision.
+2. Euro Zone Flash PMI.
+3. Germany Flash PMI.
+4. Germany ZEW.
+5. France Flash PMI.
+
+### Red Team
+
+* Does the PMI rebound survive front-loading?
+* Can German industry broaden into households and employment?
+* Does September tightening survive without second-round inflation?
+
+### FX Consensus
+
+* **Consensus:** Medium-term constructive EUR, tactical bearish shift.
+* **Range:** EUR/USD ~1.13–1.16 across tactical / Q3 public views.
+* **Constructive cluster:** ~1.16 Q3, ~1.18 later.
+* **Tactical:** ING moved from 1.1380 toward low-1.13s.
+* **Window close:** ~1.1368, below the Q3 cluster.
+* **Drivers:** ECB/Fed spreads, energy terms of trade, U.S. real rates, recovery breadth.
+* **Consensus wrong if:** Energy and U.S. real-rate pressure reverse quickly, allowing PMIs to drive renewed convergence toward 1.16.
+
 <<EUR_WEEK_END>>
-
-
-
 
 <<EUR_WEEK_BEGIN>>
 DATA WINDOW: 15 Jul 2026 to 17 Jul 2026
@@ -3408,7 +3672,7 @@ Policy mapping:
 
 Verification tests: ECB decision and guidance on 23 July, July flash HICP on 31 July, negotiated-wage and services momentum data, and TTF/Brent pass-through into the August energy component.
 
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Summary — Policy reaction function
 
@@ -3502,7 +3766,7 @@ Bottom line — central bank tape
 
 The ECB enters 23 July with the rate outcome effectively settled but the policy path unresolved. Final June inflation validates a hold and raises the hurdle for another hike, while the accounts, the unreconciled committee split and the renewed energy shock prevent a dovish pivot. The highest-probability outcome is a neutral-to-hawkish hold that declines to pre-commit and transfers the next decision to July and August inflation, negotiated wages and the persistence of the geopolitical energy shock.
 
-SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 Main contradiction: Current domestic data support an ECB pause — broad disinflation, softer Italian inflation, weak industrial production and a deteriorating trade balance — while the renewed energy shock threatens both future inflation and the euro area’s terms of trade.
 
@@ -3510,7 +3774,156 @@ Why it matters: The energy channel is simultaneously growth-negative and inflati
 
 Implication: The expected July pause is increasingly validated by current data, but September guidance remains conditional on whether the energy shock stays in headline inflation or spreads into services, wages and underlying prices.
 
+F. 5 KEY RELEASES TO DIG INTO
+
+*** EURO ZONE — HICP Final / Core HICP Final (Jun) (17 Jul 2026)
+
+Why it matters: The final release confirmed headline at 2.8%, core at 2.4% and services at 3.2%, with marginally softer component detail and broad member-state participation. It functionally settles the July hold while shifting the next policy test to whether renewed energy pressure contaminates services, wages and underlying inflation.
+
+*** EURO ZONE — Industrial Production (May) (15 Jul 2026)
+
+Why it matters: Output fell 0.2% m/m and 1.2% y/y, reversing April’s tentative stabilization. Capital-goods resilience and the concentrated Irish drag prevent a capitulation call, but the release weakens the domestic-growth case for consecutive tightening.
+
+*** EURO ZONE — Total Trade Balance SA (May) (16 Jul 2026)
+
+Why it matters: The adjusted balance moved from a revised €0.8bn surplus to a €5.0bn deficit as imports materially outpaced exports, while the January–May surplus almost disappeared. The release captures the euro area’s simultaneous growth-quality and terms-of-trade vulnerability to renewed energy pressure.
+
+*** ITALY — CPI Final / HICP Final (Jun) (16 Jul 2026)
+
+Why it matters: HICP was revised down to 3.0%, while food and services inflation softened even as energy accelerated. Italy therefore became less useful as a hawkish outlier and reinforced the pause-consistent broadening of June disinflation.
+
+G. RED TEAM QUESTIONS
+
+1. Does the June disinflation break survive July once the renewed energy shock re-enters the HICP basket, or was the final June print the low point of a temporary relief window?
+
+2. Can services inflation remain at or below 3.2% if energy and transport costs rise again, or does the shock begin to spread into the sticky domestic bucket?
+
+3. Is the May industrial-production weakness materially overstated by Ireland, or does the fall in intermediate and durable-consumer goods signal a broader manufacturing relapse?
+
+4. Does the move into an adjusted trade deficit reflect temporary energy and import timing, or has the euro area’s structural external cushion weakened enough to become a persistent EUR headwind?
+
+5. Can the ECB retain a neutral-to-hawkish September option if growth remains weak and the energy shock stays concentrated in headline inflation rather than wages and services?
+
+6. Does Spain’s continued 3.6% HICP outlier status become more policy-relevant during peak tourism season, or does easing core CPI keep national dispersion from changing the aggregate reaction function?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: EUR/USD, where a higher pair is a stronger EUR.
+
+The public institutional baseline entering 15–17 July remained moderately constructive EUR over the medium term, but the tactical distribution had widened materially. The Reuters 26 June–1 July strategist poll still had EUR/USD at 1.16 by end-Q3, 1.17 at year-end and 1.18 in twelve months. MUFG’s 1 July outlook was aligned at 1.16 for Q3 and 1.18 for Q4. The common premise was that the June dollar rebound would eventually fade as Fed hike expectations receded.
+
+By the start of this window, ING had moved to an even more constructive tactical EUR view. Its 13 July G10 FX outlook argued that unchanged Fed policy, particularly in September, could take EUR/USD back toward 1.17. That view depended primarily on the U.S. rate leg rather than on an aggressively hawkish ECB. The domestic euro-area data released during 15–17 July were mixed for the currency: final June HICP strengthened the July ECB-hold case, while weak industrial production and a deteriorating trade balance reduced euro-area growth and external-quality support.
+
+The spot path remained two-sided. Softer U.S. PPI on 15 July lifted EUR/USD to 1.1479, its highest since 19 June. On 16 July, renewed U.S.–Iran tensions, firmer oil and safe-haven demand reversed part of that move, with EUR/USD falling to 1.1437. The pair ended 17 July at 1.1436, up only about 0.2% on the week. The central conclusion is therefore unchanged-target / failed-convergence: the public medium-term EUR-positive cluster remained in force, but spot did not move materially toward 1.16–1.17 during the window.
+
+**Public-bank / strategist Q3–3M range:** EUR/USD 1.16–1.17 for the central constructive public views visible around the window.
+
+**Constructive EUR cluster:** Reuters / MUFG around 1.16 by end-Q3, with ING seeing scope for a move back toward 1.17 if the Fed remains on hold.
+
+**More cautious / tactical view:** EUR/USD around the low-1.14s while energy, safe-haven USD demand and ECB hold pricing cap the upside; earlier stronger-USD views remained a material tactical counterweight.
+
+**Bias at window close:** Medium-term constructive EUR, near-term range-bound / two-sided. Spot at 1.1436 remained materially below the 1.16–1.17 constructive cluster.
+
+### What changed through the data window
+
+The 15 July move initially favored EUR through the dollar leg. Softer-than-expected U.S. producer prices reduced Fed-hike expectations and pushed EUR/USD to 1.1479. The euro-area industrial-production miss released the same day was growth-negative, but it did not dominate the cross because U.S. rate repricing was the stronger immediate FX driver.
+
+On 16 July, the relative-rate story became more balanced. Euro-area yields rose as higher Gulf energy prices increased expectations that the ECB could still tighten again in September, while U.S. yields were comparatively restrained by softer CPI and PPI. That narrowed the German-U.S. yield gap in EUR’s favor. Yet EUR/USD still fell to 1.1437 because renewed geopolitical stress strengthened the dollar’s safe-haven bid and worsened Europe’s energy / terms-of-trade outlook.
+
+The 17 July final HICP did not change the forecast distribution. It confirmed a July ECB hold rather than a dovish end-of-cycle signal, while EUR/USD closed at 1.1436. The window therefore sharpened the distinction between rates support and terms-of-trade risk: ECB optionality could support EUR yields, but the same energy shock threatening additional ECB tightening was simultaneously negative for the currency through imported-energy exposure.
+
+### Main consensus drivers
+
+**Fed / ECB relative path:**
+The constructive EUR case was driven mainly by the expectation that Fed tightening would ultimately prove less durable than ECB tightening risk. Softer U.S. inflation supported that view, while final euro-area HICP kept the immediate ECB move on hold.
+
+**Energy / terms of trade:**
+Renewed Gulf disruption was the principal EUR-specific downside. Higher oil and gas prices raise euro-area inflation but simultaneously weaken real income, trade balances and the external terms of trade.
+
+**Euro-area growth quality:**
+Weak industrial production and the move into a seasonally adjusted trade deficit prevented the currency from receiving a clean domestic-growth tailwind. Better inflation quality was therefore not accompanied by an equally strong activity story.
+
+**USD safe-haven demand:**
+Geopolitical stress continued to give the dollar a non-rate source of support, limiting the ability of narrower U.S.-German yield spreads to translate directly into a higher EUR/USD.
+
+### Where consensus could be wrong
+
+**Consensus too bullish EUR:**
+If the energy shock persists, the external balance deteriorates further and ECB tightening becomes a response to imported inflation rather than strong domestic demand, EUR/USD could remain trapped near the low-1.14s despite higher euro-area yields.
+
+**Consensus too cautious EUR:**
+If Gulf tensions ease, the terms-of-trade drag reverses and softer U.S. inflation removes the Fed hike branch while the ECB retains September optionality, EUR/USD could converge rapidly toward the 1.16–1.17 constructive cluster.
+
+**Key falsification:**
+Whether the next energy move improves the euro area’s terms of trade at the same time that U.S.-euro rate differentials continue to move in EUR’s favor.
+
+Sources used for this historical scan: Reuters FX strategist poll, 1 Jul 2026; MUFG Monthly Foreign Exchange Outlook, 1 Jul 2026; ING G10 FX Talking, 13 Jul 2026; Reuters FX market reports, 15–17 Jul 2026; Reuters euro-area rates report, 16 Jul 2026.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Genuine euro-area disinflation versus weaker industrial / external growth quality; the July ECB hold is effectively settled but September remains energy-gated.
+* **Change:** Domestic data became more pause-consistent while renewed Gulf energy risk kept the policy path neutral-to-hawkish rather than decisively dovish.
+
+### Scoreboard
+
+* **Growth:** - | Industrial production -0.2% m/m / -1.2% y/y and the adjusted trade balance moved to -€5.0bn.
+* **Labor:** ~ | No fresh labor release in the supplied window.
+* **Inflation:** + | HICP 2.8%, core 2.4%, services 3.2%; Italy softened and Spain core eased despite high headline inflation.
+* **Financial Conditions:** ~ | No direct credit release; energy / terms-of-trade risk is the main external constraint.
+* **Policy Constraint:** ~ | July hold data-settled; September remains conditional on energy pass-through, services and wages.
+
+### Major Release Tape
+
+* *** **Euro Zone Industrial Production** — -0.2% m/m vs +0.2% poll; -1.2% y/y → renewed industrial fragility, partly Ireland-concentrated, with capital goods still resilient.
+* *** **Euro Zone Trade Balance** — SA balance -€5.0bn from revised +€0.8bn → import-led deterioration and sharply weaker external cushion.
+* *** **Italy CPI / HICP Final** — HICP revised to 3.0%; services / food softer → reduced hawkish outlier pressure.
+* *** **Euro Zone HICP Final** — headline 2.8%, core 2.4%, services 3.2% → broad disinflation confirmed immediately before the ECB decision.
+
+### Minor Tape
+
+* **Minor:** Spain final HICP held at 3.6% but core eased to 2.9%; reserve-asset decline reflected quarterly gold revaluation rather than funding stress.
+
+### Central Bank
+
+* **Bias:** Neutral-to-hawkish hold.
+* **Reaction function:** July hold is functionally settled; September requires persistent energy pressure spreading beyond headline inflation into services, wages or underlying prices.
+* **Key tape:** June accounts retained upside risks and neutral communication; Stournaras kept the energy tail live; quiet period left the committee split unresolved.
+
+### Signal Tension
+
+* **Tension:** Current inflation supports a pause while the same renewed energy shock threatens future inflation and worsens growth / terms of trade.
+* **What resolves it:** July HICP, services / wage pass-through and persistence of the energy shock.
+
+### Key Releases
+
+1. **Euro Zone HICP Final** — confirmed broad disinflation and settled the July hold.
+2. **Euro Zone Industrial Production** — renewed hard-data fragility.
+3. **Euro Zone Trade Balance** — external cushion moved into deficit.
+4. **Italy CPI / HICP Final** — reduced the hawkish national-outlier signal.
+
+### Red Team
+
+* Does the June disinflation break survive the renewed energy shock?
+* Is industrial weakness mainly Ireland noise or a broader manufacturing relapse?
+* Can ECB September optionality survive if energy remains headline-only while growth weakens?
+
+### FX Consensus
+
+* **Consensus:** Medium-term constructive EUR, but near-term convergence failed.
+* **Public-bank range:** EUR/USD 1.16–1.17 constructive Q3 / 3M cluster.
+* **Constructive cluster:** Reuters / MUFG ~1.16 Q3; ING toward 1.17 if Fed holds.
+* **Cautious / tactical:** Low-1.14s while energy and USD safe-haven demand cap upside.
+* **At window close:** EUR/USD 1.1436, materially below the constructive target cluster.
+* **Drivers:** Fed/ECB relative path; energy / terms of trade; euro-area growth quality; USD safe haven.
+* **Consensus wrong if:** Energy fails to normalize or, conversely, de-escalation plus softer Fed pricing unlocks rapid convergence toward 1.16–1.17.
+
 <<EUR_WEEK_END>>
+
+
 <<EUR_WEEK_BEGIN>>
 DATA WINDOW: 29 June 2026 to 10 July 2026
 
@@ -6041,7 +6454,7 @@ Neutral to mildly negative for Italian growth expectations.
 Next verification test:
 June production must avoid a decline greater than 0.5% and converge toward the PMI signal.
 
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Summary — Policy reaction function
 
@@ -6123,7 +6536,7 @@ Bottom line — central bank tape
 
 The ECB is in a post-hike pause, not a settled dovish pivot. A 23 July hold at a 2.25% deposit rate is the base case, but the Council has deliberately refused to define the next move. Durable energy normalization plus core and services inflation at or below the June pace would make the hike one-and-done; renewed Hormuz disruption, a persistent oil re-spike or summer inflation re-acceleration would validate a September move. The policy path is therefore less a domestic-growth call than a geopolitically gated energy reaction function.
 
-SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 Main contradiction: Consumer inflation and aggregate activity are improving simultaneously, but producer-price pressure, construction contraction and forward labor indicators remain materially weak.
 
@@ -6131,7 +6544,7 @@ Why it matters: The region may be entering a benign soft-landing phase, or merel
 
 Implication: Upgrade the regime to disinflationary stabilization, but keep the recovery conditional and retain an explicit false-dawn branch.
 
-3 KEY RELEASES TO DIG INTO
+F. 5 KEY RELEASES TO DIG INTO
 
 **** Euro Zone — HICP Flash (1 Jul)
 
@@ -6144,6 +6557,139 @@ Why it matters: Orders improved both in the headline and excluding large contrac
 **** Germany — Industrial Production (7 Jul)
 
 Why it matters: Production delivered the strongest hard-data confirmation of German stabilization and made a Q2 recession less likely. The auto contribution and weak three-month trend remain the main caveats.
+
+G. RED TEAM QUESTIONS
+
+1. Does the simultaneous fall in headline, core and services HICP survive July once temporary energy relief, German support-measure reversals and renewed US–Iran hostilities feed back into the inflation basket?
+
+2. Is Germany’s orders / production improvement broad enough to survive the large defence, transport-equipment and auto contributions, or does the recovery fade when large contracts and precautionary purchasing normalize?
+
+3. Does the euro-area composite moving to 50.0 represent the start of a durable expansion, or merely a temporary offset from Spain / Italy and late-month German stabilization while France and construction remain deeply contractionary?
+
+4. Do weaker EC employment expectations, falling German social-security employment and manufacturing job cuts eventually show up in aggregate unemployment, or can labor remain a lagging stabilizer through the summer?
+
+5. Is the acceleration in NFC lending evidence of productive investment demand, or mainly working-capital, inventory and precautionary financing generated by the energy / supply shock?
+
+6. Can producer and import-price pressure remain elevated without reappearing in consumer core inflation, or will firms eventually pass those costs through once margins become binding?
+
+7. Does renewed oil / Hormuz stress merely delay disinflation, or is it strong enough to move the Governing Council from a July hold toward an actual September hike despite weak construction and French domestic demand?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: EUR/USD, where a higher pair is a stronger EUR.
+
+The public institutional consensus entering the 29 June–10 July window was moderately constructive EUR on a medium-term horizon but increasingly cautious tactically. The Reuters FX poll conducted 26 June–1 July showed EUR/USD at 1.16 by end-September, 1.17 at year-end and 1.18 in twelve months. MUFG’s 1 July outlook was aligned, with EUR/USD at 1.16 for Q3 and 1.18 for Q4 versus a 30 June spot close of 1.1422. Both therefore expected the euro to recover from the June selloff rather than extend materially lower.
+
+Conviction was not strong. Reuters reported that roughly one-third of strategists expected EUR/USD to stay flat or fall over three months, Bank of America had revised toward further dollar appreciation through Q3, and Citi saw a high-risk downside scenario toward 1.11 if U.S. inflation and Fed hawkishness surprised higher. MUFG’s constructive EUR view was also conditional: it expected relative rate spreads to move back in the euro’s favor as Fed hike expectations receded, while still allowing for one further ECB hike.
+
+Through the data window, the euro-area domestic signal became more supportive in growth quality but less supportive in near-term rates. The 1 July HICP downside surprise strengthened the July ECB-hold case even as German orders and production later improved. At the same time, weak U.S. payrolls reduced Fed tightening expectations, helping EUR on the dollar side. Renewed U.S.–Iran hostilities and higher oil then reintroduced a negative euro terms-of-trade / ECB-policy asymmetry. By 8 July EUR/USD was 1.1425, essentially unchanged from MUFG’s 30 June spot close and still materially below the 1.16 Q3 target.
+
+**Public-bank / strategist Q3–3M range:** EUR/USD 1.11–1.16 across the visible public distribution, with 1.11 a downside risk scenario rather than the central case.
+
+**Constructive EUR cluster:** EUR/USD around 1.16 by end-Q3, with 1.17–1.18 on the year-end / 12M horizon.
+
+**More cautious / tactical view:** Flat-to-lower EUR/USD from the prevailing ~1.14 spot; Bank of America favored additional USD appreciation through Q3 and Citi highlighted 1.11 as the hawkish-Fed downside tail.
+
+**Bias at window close:** Medium-term constructive EUR, tactically two-sided. Spot remained around the low-1.14s and had not converged materially toward the 1.16 Q3 cluster; softer ECB near-term pricing and renewed energy risk capped the benefit from stronger German data and weaker U.S. payrolls.
+
+### What changed through the data window
+
+The starting point was a euro already weakened by the removal of excessive ECB-tightening expectations. MUFG noted that EUR/USD had fallen from 1.1683 at the end of May to 1.1422 on 30 June as the oil-price collapse reduced expectations of additional ECB hikes. The 1 July HICP downside surprise reinforced that move in the rates channel: euro-area inflation fell to 2.8%, core to 2.4% and services inflation to 3.2%, making a July ECB hold the cleaner baseline.
+
+The dollar side then became less supportive. The weak 2 July U.S. payroll report reduced Fed-hike expectations and weakened USD, giving EUR/USD some support without changing the medium-term target distribution. Better German hard data on 6–9 July also improved the euro-area relative-growth story.
+
+The window then turned more two-sided as U.S.–Iran tensions re-escalated. On 8 July Brent jumped above $78 and EUR/USD traded at 1.1425 while Fed hike probabilities rebuilt. The same energy shock was comparatively adverse for the euro area because it worsened imported inflation and terms of trade while simultaneously reopening the ECB tightening branch. The net result was not a formal forecast revision but a failure of spot to move meaningfully toward the existing constructive EUR targets.
+
+### Main consensus drivers
+
+**Relative ECB / Fed path:**
+The constructive EUR case depended on Fed hike expectations fading faster than ECB tightening expectations. Softer euro-area HICP weakened the ECB leg, while weak U.S. payrolls weakened the Fed leg; renewed inflation risk kept both paths live.
+
+**Energy / terms of trade:**
+Lower oil supported EUR through better real income and reduced imported inflation. Renewed Iran / Hormuz stress reversed that asymmetry because the euro area is more exposed to imported energy than the U.S.
+
+**Relative growth:**
+German orders, production and trade improved materially, while the euro-area composite reached 50.0. That strengthened the medium-term EUR-quality case, but France, construction and labor-forward indicators prevented a clean cyclical re-rating.
+
+**Positioning / USD resilience:**
+Reuters showed long-dollar positioning remained crowded and a large majority expected those positions to persist through July. That created correction risk for USD but also showed that the market was not yet positioned for an uncomplicated EUR rally.
+
+### Where consensus could be wrong
+
+**Consensus too bullish EUR:**
+If renewed oil / shipping disruption persists, the euro-area terms-of-trade shock re-intensifies and the ECB is forced to tighten into weaker domestic demand while the Fed remains comparatively hawkish, EUR/USD could remain near 1.14 or revisit the 1.11 downside tail.
+
+**Consensus too cautious EUR:**
+If energy normalizes again, German stabilization broadens and U.S. labor weakness removes Fed hike pricing faster than ECB tightening risk, EUR/USD could converge toward or through the 1.16 Q3 target cluster.
+
+**Key falsification:**
+Whether energy normalization and relative rate spreads move sustainably in EUR’s favor before weaker French / construction / labor data undermine the region’s emerging growth stabilization.
+
+Sources used for this historical scan: Reuters foreign-exchange strategist poll, 1 Jul 2026; MUFG Monthly Foreign Exchange Outlook, 1 Jul 2026; Reuters euro-area inflation report, 1 Jul 2026; Reuters FX market report, 8 Jul 2026.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Disinflationary stabilization: aggregate activity stops contracting, German industry turns and credit improves, but France / construction / labor-forward signals remain weak.
+* **Change:** June inflation relief consolidated a July ECB hold before renewed Iran / Hormuz stress re-opened the September tightening branch.
+
+### Scoreboard
+
+* **Growth:** + | Composite 50.0; German orders +1.9% and production +0.9%; Spain services 54.2, but France / construction weak.
+* **Labor:** ~ | Unemployment 6.2% resilient; hiring intentions and German employment weaken.
+* **Inflation:** + | HICP 2.8%, core 2.4%, services 3.2%; France core 1.0%, though PPI / import pipeline remains hot.
+* **Financial Conditions:** ~ | M3 / NFC credit accelerate, but construction and domestic demand still show restrictive transmission.
+* **Policy Constraint:** ~ | July hold base case; September oil-, services- and wage-gated.
+
+### Major Release Tape
+
+* **** **France CPI Flash** — HICP 2.0% vs 2.3% poll → broad national disinflation, strongest dovish country signal.
+* **** **Germany CPI Flash** — HICP 2.4% vs 2.5% → headline relief, core / services still sticky.
+* **** **Euro Zone HICP Flash** — 2.8% vs 3.0%; core 2.4% → decisive aggregate disinflation, July follow-up hike less likely.
+* **** **Euro Zone Services / Composite PMI Final** — 49.4 / 50.0 → contraction ends at aggregate level, but demand / employment remain soft.
+* **** **Germany Orders** — +1.9% → hard-data industrial turn, partly defence / transport-driven.
+* **** **Germany Industrial Production** — +0.9% vs +0.2% → strongest confirmation German stabilization is real.
+* **** **France CPI Final** — core 1.0% → France confirmed as the bloc’s clearest disinflation outlier.
+
+### Minor Tape
+
+* **Minor:** M3 3.2% and NFC loans 4.0%; Spain services 54.2 but manufacturing 49.7; construction PMIs deeply contractionary; euro-area PPI 5.9%.
+
+### Central Bank
+
+* **Bias:** Post-hike pause / two-sided beyond July.
+* **Reaction function:** Durable energy normalization + softer core / services makes June one-and-done; renewed Hormuz / oil pressure or summer inflation reacceleration reactivates September.
+* **Key tape:** Lagarde removed forward guidance; Moulin rejected a new hike cycle; June accounts preserved upside risk; Stournaras said “back to square one.”
+
+### Signal Tension
+
+* **Tension:** Better consumer inflation and activity versus hot upstream prices, weak construction and softer labor intentions.
+* **What resolves it:** July inflation / energy plus whether German recovery broadens beyond policy-sensitive industry.
+
+### Key Releases
+
+1. **Euro Zone HICP Flash** — decisive inflation turn.
+2. **Germany Orders** — strongest orders evidence of industrial stabilization.
+3. **Germany Industrial Production** — hard-data confirmation of the German turn.
+
+### Red Team
+
+* Does broad HICP disinflation survive renewed energy pressure?
+* Is Germany’s recovery durable beyond defence / autos / large contracts?
+* Do weak hiring intentions eventually break aggregate labor resilience?
+
+### FX Consensus
+
+* **Consensus:** Medium-term constructive EUR, tactical conviction limited.
+* **Public-bank range:** EUR/USD 1.11–1.16 visible Q3 / 3M distribution.
+* **Constructive cluster:** ~1.16 Q3; 1.17–1.18 later.
+* **Cautious / tactical:** Flat-to-lower from ~1.14; 1.11 hawkish-Fed downside tail.
+* **At window close:** EUR/USD remained around the low-1.14s, still below the 1.16 Q3 target cluster.
+* **Drivers:** ECB/Fed spread; energy / terms of trade; German relative growth; USD positioning.
+* **Consensus wrong if:** Energy / rates fail to turn in EUR’s favor, or conversely normalization plus weaker U.S. labor accelerates convergence toward 1.16.
 
 <<EUR_WEEK_END>>
 <<EUR_WEEK_BEGIN>>
