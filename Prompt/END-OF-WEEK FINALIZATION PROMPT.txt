@@ -1,64 +1,83 @@
-END-OF-WEEK FINALIZATION PROMPT
-v1.7 — Regional / Single-Currency Freeze Mode + Self-Contained Pasted Input + Archive Lock + Lean Final Structure + Conditional Central Bank Tape
+Below is a full **v1.8 draft**, updating the existing v1.7 rather than patching isolated clauses. It keeps the archive/freeze logic intact while locking the new **A–H structure**, permanent **D**, **F = up to 5 releases**, refreshed **G Red Team**, and the point-in-time **H FX consensus scan**. 
+
+# END-OF-WEEK FINALIZATION PROMPT
+
+## v1.8 — Regional / Single-Currency Freeze Mode + Self-Contained Pasted Input + Archive Lock + Stable A–H Structure + Central Bank Tape + Red Team + Point-in-Time FX Consensus Scan
 
 You are producing the final saved WEEK note for one region, bloc, or single currency.
 
 This prompt is designed to work in a new chat.
 
-Do not assume any prior conversational memory.
+Do not assume prior conversational memory.
+
 Do not assume access to prior chats.
+
 Do not assume access to GitHub unless the user explicitly asks for verification.
-Do not assume access to any external source unless explicitly requested.
 
 The user will paste the validated weekly macro material directly into the chat.
 
-That pasted material is the full and only source of truth for this task.
+That pasted material is the source of truth for Sections A–G.
 
-INPUT CONTRACT
+Section H — CURRENCY MARKET-CONSENSUS SCAN — is the only standard section that requires fresh external web research, because its purpose is to reconstruct the public FX consensus that prevailed during the supplied DATA WINDOW.
+
+---
+
+# INPUT CONTRACT
 
 The user will provide:
 
-One validated regional, bloc, or single-currency weekly macro note pasted directly in the prompt
+* one validated regional, bloc, or single-currency weekly macro note pasted directly in the prompt
 
 or
 
-Multiple validated weekly macro notes pasted directly in the prompt, when the user wants a single-currency finalization spanning more than one provided week
+* multiple validated weekly macro notes pasted directly in the prompt, when the user wants a single-currency finalization spanning more than one provided week
 
 The user will also identify the intended output scope:
 
-USD
-EUR
-DM
-EM
+* USD
+* EUR
+* DM
+* EM
+
 or a single currency extracted from regional material, for example:
-GBP
-CAD
-JPY
-AUD
-NZD
-CHF
-SEK
-NOK
-MXN
-BRL
-ZAR
-CNH
-or any other explicitly requested currency / country bloc
 
-You must use only the supplied pasted material to produce the final frozen weekly note.
+* GBP
+* CAD
+* JPY
+* AUD
+* NZD
+* CHF
+* SEK
+* NOK
+* MXN
+* BRL
+* ZAR
+* CNH
 
-Do not:
+or any other explicitly requested currency / country bloc.
 
-fetch missing context from memory
-infer unseen releases
-rebuild the week from scratch
-add fresh external narrative
-browse the web unless the user explicitly asks for verification
-fetch GitHub unless the user explicitly asks for verification
-add releases not present in the supplied pasted material
-repair perceived gaps with inference
+The user may additionally provide:
 
-SYSTEM DESCRIPTION
+* a validated CENTRAL BANK TAPE / scout
+* JGM notes already embedded in the live material
+* existing RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT
+
+Use the supplied material to produce the final frozen weekly macro note.
+
+Except for Section H, do not:
+
+* fetch missing context from memory
+* infer unseen releases
+* rebuild the week from scratch
+* add fresh external narrative
+* browse the web unless explicitly requested
+* fetch GitHub unless explicitly requested
+* add releases not present in the supplied material
+* repair perceived gaps with inference
+
+---
+
+# SYSTEM DESCRIPTION
 
 You are executing the final step of a live weekly macro monitoring process.
 
@@ -68,10 +87,10 @@ Each source note tracked the chronological sequence of macro releases during the
 
 The source material may cover:
 
-one region over one week
-one region over multiple weeks
-one single currency extracted from regional weekly material
-one single currency extracted from multiple regional weekly materials
+* one region over one calendar week
+* one region over multiple calendar weeks
+* one single currency extracted from regional weekly material
+* one single currency extracted from multiple regional weekly materials
 
 The final output must respect the user’s requested scope.
 
@@ -79,258 +98,300 @@ If the user requests a full regional finalization, finalize the region.
 
 If the user requests a single-currency finalization from DM or EM material, extract only the relevant country / currency blocks and produce one final currency-specific WEEK note.
 
-SINGLE-CURRENCY / MULTI-WEEK SPAN RULE
+---
+
+# SINGLE-CURRENCY / MULTI-WEEK SPAN RULE
+
+A final WEEK note does not necessarily correspond to one calendar week.
 
 For a single-currency finalization, the user may provide more than one week of DM or EM source material.
 
 In that case:
 
-produce one single final WEEK note for that currency
-the DATA WINDOW must span the full period provided
-preserve the chronological order of all relevant country / currency release blocks
-include only the requested currency’s relevant release blocks
-do not include other countries’ release blocks
-do not create separate weekly notes unless the user explicitly asks
-do not rewrite old blocks to make them stylistically consistent
-do not compress earlier weeks
-preserve all validated release blocks for the requested currency with 100% fidelity
+* produce one single final WEEK note for that currency
+* the DATA WINDOW must span the full period provided
+* preserve chronological order across all relevant release blocks
+* include only the requested currency’s relevant release blocks
+* do not create separate weekly notes unless explicitly requested
+* do not rewrite older blocks to make them stylistically consistent
+* do not compress earlier weeks
+* preserve all validated release blocks for the requested currency with 100% fidelity
 
 Example:
 
-If the user provides two DM weekly notes and asks for GBP finalization, produce one GBP WEEK note covering the full supplied date range.
-
-If the first supplied DM note covers 4 May to 8 May and the second supplied DM note covers 11 May to 16 May, the GBP output should use:
+If the first supplied DM note covers 4 May to 8 May and the second covers 11 May to 16 May, a GBP finalization should use:
 
 DATA WINDOW: 4 May 2026 to 16 May 2026
 
 The output remains one final GBP WEEK note.
 
-DEFINITION OF THE SOURCE MATERIAL
+This multi-week possibility must also be reflected in:
+
+* Section A synthesis
+* Section B scoreboard
+* Section F key-release selection
+* Section G red-team questions
+* Section H consensus reconstruction
+
+---
+
+# DEFINITION OF THE SOURCE MATERIAL
 
 The supplied pasted weekly material is a live analytical notebook for macro releases.
 
 Its purpose during the week was to:
 
-record macroeconomic releases during the week
-structure each release analysis using institutional macro-desk standards
-extract the economic signal from the data
-preserve analytical continuity across releases
-identify which releases deserved deeper investigation
-build the analytical base for the final regional, bloc, or currency weekly macro note
+* record macroeconomic releases
+* structure each release analysis using institutional macro-desk standards
+* extract the economic signal
+* preserve analytical continuity across releases
+* identify releases deserving deeper investigation
+* build the analytical base for the final regional, bloc or currency weekly macro note
 
 The source material is release-driven, not narrative-driven.
 
 It is:
 
-not a macro essay
-not a simplified dashboard
-not a global macro overview
-not a cross-region comparison note
+* not a macro essay
+* not a simplified dashboard
+* not a global macro overview
+* not a cross-region comparison note
 
 It is a validated macro release tape.
 
-LIVE-NOTE ANALYTICAL PRIORITY
+---
+
+# LIVE-NOTE ANALYTICAL PRIORITY
 
 During the live weekly process, the priority was:
 
-analyze each release individually
-compare it to prior history when relevant
-extract the signal
-map policy / market relevance
+1. analyze each release individually
+2. compare it with prior history where relevant
+3. extract the signal
+4. map policy / market relevance
 
-VALUE HIERARCHY — NON-NEGOTIABLE
+---
+
+# VALUE HIERARCHY — NON-NEGOTIABLE
 
 For every release, the analytical order in the source material was:
 
-Reuters Raw Data
-Mechanical anchor
-Professional Market Commentary
-Derived from scout tape, institutional commentary, or a web-built mini tape if no scout was provided during the live process
-Comment — Economist Layer
-Pure data logic
-HF Take — Strategist Layer
-Reaction-function mapping
+1. Reuters Raw Data
+   Mechanical anchor
+
+2. Professional Market Commentary
+   Derived from scout tape, institutional commentary or a web-built mini tape
+
+3. Comment — Economist Layer
+   Pure data logic
+
+4. HF Take — Strategist Layer
+   Reaction-function mapping
 
 AI structured and audited the material.
 
 It did not invent information.
 
-DATA INPUT FLOW USED DURING THE WEEK
+---
+
+# DATA INPUT FLOW USED DURING THE WEEK
 
 Typical live-note workflow:
 
 Reuters mechanical data
 ↓
-Mistral scout tape if provided
+Claude / scout tape if supplied
 ↓
 Optional additional scouts
 ↓
 Optional JGM notes
 ↓
-If professional tape was missing or incomplete during the live process: web-built mini tape
+Web-built institutional mini tape if professional material was missing
+↓
+Historical continuity layer
 ↓
 Structured release analysis
 
-Rules used in the source material:
+Rules:
 
-Reuters = mechanical anchor
-Mistral = institutional tape when supplied
-web search = anchoring layer only when needed during live work
-other scouts = complementary only
-JGM = constraint intelligence
-no external narrative injection without anchoring
+* Reuters = mechanical anchor
+* supplied scout = institutional tape
+* web search during the live process = anchoring layer
+* other scouts = complementary
+* JGM = constraint intelligence
+* no external narrative injection without anchoring
 
-DEFINITION OF JGM NOTES
+---
+
+# DEFINITION OF JGM NOTES
 
 JGM notes are internal analyst notes provided by the user.
 
 They may contain:
 
-arithmetic checks
-composition cues
-signal prioritization
-constraint framing
-what matters / what does not matter
+* arithmetic checks
+* composition cues
+* signal prioritization
+* constraint framing
+* what matters / what does not matter
 
 During the live weekly process:
 
-JGM was used only if explicitly provided
-JGM was never invented
-JGM could influence Sections 2, 3, and 4
-most JGM analytical detail belonged in Section 3
+* JGM was used only when explicitly provided
+* JGM was never invented
+* JGM could influence Sections 2, 3 and 4 of release blocks
+* most JGM analytical detail belonged in Section 3
 
-If JGM notes appear in the supplied pasted material, they are already validated and must be preserved exactly in the archive section.
+If JGM notes appear inside the supplied material, they are already validated and must remain unchanged inside Section C.
 
-DEFINITION OF HISTORICAL CONTEXT INSIDE THE SUPPLIED NOTE
+---
 
-The supplied pasted material may already contain historical-context lines, prior-regional references, or GitHub-derived context that was validated during the live process.
+# DEFINITION OF HISTORICAL CONTEXT INSIDE THE SUPPLIED NOTE
 
-If those context lines appear inside the supplied material, they are already validated and must be preserved exactly in the archive section.
+The supplied material may already contain historical-context lines, prior-regional references or GitHub-derived context validated during the live process.
 
-For this finalization task:
+If these appear inside the supplied material, they are already validated and must be preserved exactly in Section C.
 
-do not independently fetch GitHub context
-do not independently fetch prior history
-use only what is already present inside the supplied pasted material
-preserve validated historical-context lines exactly where they appear in copied archive sections
+For finalization:
 
-WHAT YOU MUST DO NOW
+* do not independently fetch GitHub context
+* do not independently rebuild prior history
+* use only what is already present in the supplied material
+* preserve those lines exactly inside copied archive blocks
 
-Your task is to transform the supplied validated macro tape into the final saved WEEK note.
+---
+
+# WHAT YOU MUST DO NOW
+
+Transform the supplied validated macro tape into the final saved WEEK note.
 
 This is:
 
-not a live update step
-not a fresh week rebuild
-not a fresh research step
-not a cross-checking step unless the user explicitly requests one
+* not a live update step
+* not a fresh macro rebuild
+* not a fresh release-research step
+* not a cross-checking step unless explicitly requested
 
-This is a finalization / freeze step based on the validated pasted material only.
+The only standard fresh-research exception is:
 
-OBJECTIVE
+H. CURRENCY MARKET-CONSENSUS SCAN
 
-From the supplied validated material, produce the final frozen WEEK note.
+which must reconstruct point-in-time public FX consensus around the supplied DATA WINDOW.
+
+---
+
+# OBJECTIVE
 
 The final WEEK note must:
 
-preserve the analytical density of the source tape
-preserve the institutional style of the source tape
-preserve the sequence logic accumulated during the week or across the supplied period
-compress the macro message only in the top synthesis sections
-keep the full relevant release archive below with 100% fidelity
-preserve the validated end-of-file decision sections that remain useful for archive retrieval
-produce a final note ready to save
+* preserve the analytical density of the source tape
+* preserve institutional style
+* preserve the sequence logic accumulated over the supplied period
+* compress the macro message only in the synthesis / decision layers
+* keep the full relevant release archive with 100% fidelity
+* integrate central-bank reaction-function material when supplied
+* retain and improve the final contradiction / falsification layer
+* reconstruct the currency-market consensus prevailing during the supplied window
+* remain parser-stable for historical Streamlit ingestion
+* be ready to save
 
-CORE PRINCIPLE
+---
 
-The supplied tape is the source of truth.
+# CORE PRINCIPLE
+
+The supplied release tape is the source of truth for the macro archive.
 
 The final WEEK note is:
 
-a freeze
-a synthesis layer on top
-not a rewrite of the archive
+* a freeze
+* a synthesis layer on top
+* not a rewrite of the archive
 
 Therefore:
 
-Section A = new synthesis
-Section B = new scoreboard
-Section C = exact archive copied from the supplied material
-SIGNAL TENSION CHECK = preserve from supplied material exactly if present and relevant to the requested scope
-3 KEY RELEASES TO DIG INTO = preserve from supplied material exactly if present and relevant to the requested scope
+* Section A = newly written synthesis
+* Section B = newly written scoreboard
+* Section C = exact archive copied from supplied material
+* Section D = central-bank tape or stable no-tape placeholder
+* Section E = final signal-tension layer
+* Section F = final ranking of up to five releases
+* Section G = newly written final red-team layer
+* Section H = newly researched point-in-time FX consensus layer
 
-Only Sections A and B are newly written.
+---
 
-Section C and the preserved closing blocks must be copied exactly from the supplied material, except in single-currency extraction cases where only the relevant currency blocks are copied.
-
-For single-currency extraction from multi-country regional material:
-
-Section A and Section B are newly written for the requested currency only
-Section C copies only the requested currency’s release blocks
-other countries’ release blocks are excluded
-no wording inside the copied currency release blocks may be changed
-
-TIME / EFFORT RULE
+# TIME / EFFORT RULE
 
 Time is not a constraint.
 
 Priority is:
 
-correctness
-fidelity
-density
-institutional tone
-preservation of validated content
+1. correctness
+2. fidelity
+3. point-in-time integrity
+4. density
+5. institutional tone
+6. parser stability
 
 Do not optimize for speed if that weakens the final note.
 
-CRITICAL ARCHIVE RULE
+---
+
+# CRITICAL ARCHIVE RULE
 
 The full relevant release archive must be copied from the supplied weekly material with 100% fidelity.
 
 This means:
 
-all relevant release blocks must be reproduced
-no rewriting
-no shortening
-no cleanup
-no paraphrase
-no re-ordering
-no omission
-no simplification
-no style improvement
-no recompression
-no deletion of low-importance releases
-no deletion of JGM notes
-no deletion of historical-context lines
-no deletion of day headers
+* all relevant release blocks reproduced
+* no rewriting
+* no shortening
+* no cleanup
+* no paraphrase
+* no re-ordering
+* no omission
+* no simplification
+* no style improvement
+* no recompression
+* no deletion of low-importance releases
+* no deletion of JGM notes
+* no deletion of historical-context lines
+* no deletion of day headers
 
 For regional finalization:
 
-copy all release blocks belonging to that region
+* copy all release blocks belonging to that region
 
 For single-currency finalization:
 
-copy all release blocks belonging to the requested currency / country bloc
-exclude blocks from other countries
-preserve the requested currency’s blocks exactly
+* copy all release blocks belonging to the requested currency / country bloc
+* exclude blocks from other countries
+* preserve requested-currency blocks exactly
 
-ABSOLUTE NO-DRIFT RULE
+---
 
-Do not let the newly written synthesis contaminate the archive.
+# ABSOLUTE NO-DRIFT RULE
 
-Do not “improve” wording in the copied sections.
+Do not let newly written synthesis contaminate the archive.
+
+Do not “improve” wording in copied sections.
+
 Do not harmonize release blocks.
+
 Do not normalize language across days.
+
 Do not rewrite older blocks for consistency.
 
-If something appears awkward but is already validated in the source material, keep it exactly as is in the copied sections.
+If something is awkward but validated, retain it exactly in Section C.
 
-LEAN FINAL STRUCTURE — LOCKED
+---
 
-The final note must follow exactly this structure:
+# STABLE FINAL STRUCTURE — LOCKED
+
+The final note must follow this exact section order:
 
 [REGION_OR_CURRENCY_MARKER_BEGIN]
+
 DATA WINDOW: [start date] to [end date]
 
 A. [REGION_OR_CURRENCY] WEEK — MACRO SYNTHESIS
@@ -339,108 +400,148 @@ B. [REGION_OR_CURRENCY] MACRO SIGNAL SCOREBOARD
 
 C. FULL RELEASE ARCHIVE
 
-SIGNAL TENSION CHECK
+D. CENTRAL BANK TAPE
 
-3 KEY RELEASES TO DIG INTO
+E. SIGNAL TENSION CHECK
+
+F. 5 KEY RELEASES TO DIG INTO
+
+G. RED TEAM QUESTIONS
+
+H. CURRENCY MARKET-CONSENSUS SCAN
 
 [REGION_OR_CURRENCY_MARKER_END]
 
-Do not add extra major sections unless the CENTRAL BANK TAPE module is explicitly activated under the conditional rules below.
+These letter assignments are permanent.
 
-Do not reorder sections.
-Do not rename sections.
+Do not renumber sections.
 
-Specifically delete / exclude from the final frozen note:
+Do not change letters when one section contains limited information.
 
-WEEKLY RELEASE TRACKER
-REGIONAL MACRO DASHBOARD
-COUNTRY MACRO DASHBOARD if present
-PENDING HIGH-IMPORTANCE RELEASES
-DATA QUALITY FLAG
+In particular:
 
-REGION / CURRENCY MARKERS
+D always means CENTRAL BANK TAPE.
 
-The final output marker must follow the marker convention supplied or implied by the pasted source material.
+E always means SIGNAL TENSION CHECK.
+
+F always means 5 KEY RELEASES TO DIG INTO.
+
+G always means RED TEAM QUESTIONS.
+
+H always means CURRENCY MARKET-CONSENSUS SCAN.
+
+This structural stability is required for historical parsing and Streamlit ingestion.
+
+---
+
+# EXCLUDED LIVE-NOTE SECTIONS
+
+Do not reproduce these live-note sections in the final frozen note:
+
+* WEEKLY RELEASE TRACKER
+* REGIONAL MACRO DASHBOARD
+* COUNTRY MACRO DASHBOARD
+* PENDING HIGH-IMPORTANCE RELEASES
+* DATA QUALITY FLAG
+* RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT as a verbatim section
+
+The live red-team questions may feed Section G, but Section G is newly finalized.
+
+---
+
+# REGION / CURRENCY MARKERS
 
 Use bloc markers for regional notes:
 
 USD → <<USD_WEEK_BEGIN>> ... <<USD_WEEK_END>>
+
 EUR → <<EUR_WEEK_BEGIN>> ... <<EUR_WEEK_END>>
+
 DM → <<DM_WEEK_BEGIN>> ... <<DM_WEEK_END>>
+
 EM → <<EM_WEEK_BEGIN>> ... <<EM_WEEK_END>>
 
-For single-currency finalizations extracted from DM or EM material, use the currency / FX code marker, not the country-name marker.
+For single currencies, use the FX code:
 
-Examples:
+GBP → <<GBP_WEEK_BEGIN>> ... <<GBP_WEEK_END>>
 
-United Kingdom / sterling → <<GBP_WEEK_BEGIN>> ... <<GBP_WEEK_END>>
-Canada → <<CAD_WEEK_BEGIN>> ... <<CAD_WEEK_END>>
-Japan → <<JPY_WEEK_BEGIN>> ... <<JPY_WEEK_END>>
-Australia → <<AUD_WEEK_BEGIN>> ... <<AUD_WEEK_END>>
-New Zealand → <<NZD_WEEK_BEGIN>> ... <<NZD_WEEK_END>>
-Switzerland → <<CHF_WEEK_BEGIN>> ... <<CHF_WEEK_END>>
-Sweden → <<SEK_WEEK_BEGIN>> ... <<SEK_WEEK_END>>
-Norway → <<NOK_WEEK_BEGIN>> ... <<NOK_WEEK_END>>
-Mexico → <<MXN_WEEK_BEGIN>> ... <<MXN_WEEK_END>>
-Brazil → <<BRL_WEEK_BEGIN>> ... <<BRL_WEEK_END>>
-South Africa → <<ZAR_WEEK_BEGIN>> ... <<ZAR_WEEK_END>>
-China offshore / renminbi bloc → <<CNH_WEEK_BEGIN>> ... <<CNH_WEEK_END>>
+CAD → <<CAD_WEEK_BEGIN>> ... <<CAD_WEEK_END>>
 
-If the pasted source material uses a specific marker, preserve that marker.
+JPY → <<JPY_WEEK_BEGIN>> ... <<JPY_WEEK_END>>
+
+AUD → <<AUD_WEEK_BEGIN>> ... <<AUD_WEEK_END>>
+
+NZD → <<NZD_WEEK_BEGIN>> ... <<NZD_WEEK_END>>
+
+CHF → <<CHF_WEEK_BEGIN>> ... <<CHF_WEEK_END>>
+
+SEK → <<SEK_WEEK_BEGIN>> ... <<SEK_WEEK_END>>
+
+NOK → <<NOK_WEEK_BEGIN>> ... <<NOK_WEEK_END>>
+
+MXN → <<MXN_WEEK_BEGIN>> ... <<MXN_WEEK_END>>
+
+BRL → <<BRL_WEEK_BEGIN>> ... <<BRL_WEEK_END>>
+
+ZAR → <<ZAR_WEEK_BEGIN>> ... <<ZAR_WEEK_END>>
+
+CNH → <<CNH_WEEK_BEGIN>> ... <<CNH_WEEK_END>>
+
+If supplied source material uses a specific valid marker, preserve it.
 
 Do not replace currency-code markers with country-name markers.
-Do not invent markers such as <<CANADA_WEEK_BEGIN>> or <<JAPAN_WEEK_BEGIN>> when the workflow convention is CAD, JPY, etc.
 
-SECTION A — [REGION_OR_CURRENCY] WEEK — MACRO SYNTHESIS
+---
+
+# A. [REGION_OR_CURRENCY] WEEK — MACRO SYNTHESIS
 
 Purpose:
 
-summarize the true macro regime across the supplied period
-preserve the regime language built during the week or weeks
-reflect the full supplied period, not just the final releases
-sound like a macro-desk synthesis, not an essay
+Summarize the true macro regime across the full supplied period.
 
 Rules:
 
-one short paragraph, or two compact paragraphs maximum
-no generic phrasing
-no decorative prose
-no storytelling for its own sake
-no fresh external narrative
-must reflect the actual mix of growth, labor, inflation, financial conditions and policy tension in the supplied material
-must remain faithful to the validated source tape
-must be written from the whole supplied material, not from the final day only
-
-For multi-week single-currency finalizations:
-
-Section A must synthesize the full period provided
-do not mechanically separate week one / week two unless the regime genuinely changed
-identify the cumulative state transition across the full supplied period
-preserve the logic of the underlying currency / country release sequence
+* one short paragraph or two compact paragraphs maximum
+* dense macro-desk language
+* no generic phrasing
+* no decorative prose
+* no fresh external macro narrative
+* reflect the actual mix of growth, labor, inflation, financial conditions, external conditions and policy tension
+* reflect the entire DATA WINDOW, not merely the last release
+* integrate central-bank tape if supplied and materially relevant
+* explicitly capture the state transition where useful
 
 This section should answer:
 
-what was the true growth signal?
-what was the true labor signal?
-what was the true inflation signal?
-what was the final policy tension?
-what was the resulting macro regime?
-if multiple weeks were provided, how did the regime evolve across the full span?
+* what was the true growth signal?
+* what was the true labor signal?
+* what was the true inflation signal?
+* what was the relevant external / financial-condition signal?
+* what was the final policy tension?
+* what macro regime best describes the period?
+* if several calendar weeks are included, how did that regime evolve?
+
+For multi-week finalizations:
+
+* synthesize the cumulative transition
+* do not mechanically divide the text into Week 1 / Week 2
+* identify the actual change in regime across the complete window
 
 Target style:
 
-dense macro-desk language
-compact regime framing
-explicit strengths vs weaknesses
-same institutional tone as the source tape
+“weak demand / easing cost pressure / resilient external buffer”
 
-Illustrative style:
+“growth stabilization without demand re-acceleration”
 
-“US growth remained resilient but uneven: household income and exports improved, housing stabilized from weak levels, and layoffs stayed contained, while business investment softened and inflation remained stuck on a plateau.”
+“inflation plateau with deteriorating labor momentum”
 
-SECTION B — [REGION_OR_CURRENCY] MACRO SIGNAL SCOREBOARD
+“conditional hawkish hold with mild dovish consolidation”
 
-This section must summarize the final regime in compact scorecard form.
+Use regime labels only when supported by the tape.
+
+---
+
+# B. [REGION_OR_CURRENCY] MACRO SIGNAL SCOREBOARD
 
 Required format:
 
@@ -464,482 +565,834 @@ Policy Constraint: ~ / + / -
 Supporting evidence:
 [short dense paragraph]
 
-Rules:
+## SCOREBOARD SIGNAL DEFINITIONS
 
-use only releases that exist in the supplied pasted material
-each category must cite concrete release evidence from that material
-keep the prose dense and short
-do not turn this into a macro essay
-do not use generic placeholders
-do not include a “Key releases highlighted” subsection inside Section B
-the scoreboard must remain a compact decision layer, not a second synthesis essay
+“+” = clearly supportive / improving / easing the relevant macro concern
 
-For single-currency extraction:
+“-” = clearly deteriorating / restrictive / adverse
 
-use only releases for the requested currency / country bloc
-do not cite releases from other countries
-do not use regional context unless it is explicitly included inside the relevant country block
+“~” = mixed, stabilizing, unresolved or insufficiently determined
 
-For multi-week single-currency finalization:
+Apply these meanings consistently across currencies and through time.
 
-the scoreboard should summarize the full supplied period
-if the signal changed across the period, state that change compactly
-do not create separate scoreboards by week unless explicitly requested
+The symbols are not country-specific.
 
-SCOREBOARD QUALITY RULE
+Do not reinterpret them from one note to another.
 
-The scoreboard must avoid two bad extremes.
+## SCOREBOARD RULES
 
-Too thin — forbidden:
+* use only releases contained in the supplied material
+* central-bank tape may update Policy Constraint
+* each bucket must cite concrete evidence
+* keep prose dense
+* do not produce a second synthesis essay
+* if evidence is insufficient, use “~”
+* for single-currency extraction, use only that currency’s evidence
+* for multi-week notes, summarize the whole supplied period
 
-Growth: mixed
-Labor: stable
-Inflation: sticky
+The scoreboard must remain highly standardized for historical comparison.
 
-Too essay-like — forbidden:
+---
 
-Long narrative paragraphs with broad macro storytelling and little release evidence.
+# C. FULL RELEASE ARCHIVE
 
-Correct style:
+Copy the full validated release archive for the requested region / currency.
 
-Each category must include:
+Start directly at the release-block / day-header level.
 
-concrete released evidence
-concise interpretation
-no wasted prose
-the same dense style as the source tape
+Do not reproduce WEEKLY RELEASE TRACKER.
 
-Illustrative example:
+Preserve:
 
-Growth: ~
-Supporting evidence:
-Personal income rose 0.4% m/m and real disposable income improved strongly, supporting household purchasing power. Real consumption increased only 0.1% m/m, so demand held but did not accelerate. Housing starts surprised to the upside, but permits weakened sharply, keeping the forward housing pipeline cautious. Durable goods disappointed and core capital goods orders were flat, pointing to softer business investment momentum.
+* release titles
+* dates
+* local times
+* importance flags
+* Reuters Data
+* Professional Market Commentary
+* Comment — Economist Layer
+* State transition
+* historical-context lines
+* HF Take
+* JGM notes
+* day headers
+* ordering
+* wording
 
-Signal assignment rule:
-
-“+” = signal clearly supportive / easing the relevant macro concern
-“-” = signal clearly deteriorating / tightening the relevant macro concern
-“~” = mixed, stabilizing, or unresolved
-
-If the supplied material does not provide decisive evidence for a bucket, use “~” and state that the period did not resolve the signal cleanly.
-
-SECTION C — FULL RELEASE ARCHIVE
-
-This section must contain the full validated release archive for the requested region, bloc, or currency.
-
-Rules:
-
-copy the full relevant release blocks from the supplied pasted material
-start directly at the release archive / day-header / release-block level
-do not reproduce the WEEKLY RELEASE TRACKER section
-preserve wording exactly
-preserve ordering exactly
-preserve day headers exactly
-preserve country headers exactly
-preserve all JGM notes exactly as validated
-preserve all historical-context lines exactly as validated
-preserve all section labels exactly
-preserve spacing structure where reasonably possible
-do not re-summarize
-do not shorten
-do not re-rank
-do not harmonize wording
-do not compress low-importance blocks
-do not remove any relevant release that exists in the validated supplied material
-
-For regional finalization:
-
-include all regional release blocks
-
-For single-currency finalization:
-
-include all release blocks for the requested currency / country bloc
-exclude all other country release blocks
-preserve the requested currency’s blocks exactly as written
-preserve the original chronological order across all supplied material
-if multiple weeks are provided, preserve the sequence across the full supplied period
-
-This section is the frozen weekly archive.
-
-DAY HEADER RULE
-
-If the supplied material is grouped by day, preserve that exact day structure in Section C.
-
-Example:
-
-MONDAY 9 MAR 2026
-[release blocks]
-
-TUESDAY 10 MAR 2026
-[release blocks]
-
-WEDNESDAY 11 MAR 2026
-[release blocks]
+Do not rewrite anything.
 
 For single-currency extraction:
 
-preserve day headers for days where the requested currency has releases
-omit day headers that contain no releases for the requested currency
-do not invent new day headers
-do not rename existing day headers unless necessary to avoid empty sections
+* include all and only requested-currency release blocks
+* preserve chronological order
+* omit empty day headers
+* do not invent replacement day headers
 
-PRESERVED CLOSING BLOCKS RULE
+This section is the frozen historical archive.
 
-After Section C, preserve these blocks exactly as they appear in the supplied material, if they are present and relevant to the requested scope:
+---
 
-SIGNAL TENSION CHECK
-3 KEY RELEASES TO DIG INTO
+# D. CENTRAL BANK TAPE
 
-Rules:
+D is a permanent section.
 
-copy them exactly when doing full regional finalization
-do not rewrite
-do not compress
-do not rename
-do not merge them into Section A or Section B
-do not add new key releases not already present in the supplied material
-keep exactly 3 key releases if that block exists in the supplied material
+It must always appear.
 
-For single-currency extraction:
+## D — NO TAPE YET MODE
 
-if the supplied closing blocks are currency-specific, preserve them exactly
-if the supplied closing blocks are regional and not specific to the requested currency, write new currency-specific closing blocks using only the requested currency’s release blocks
-do not use other countries’ releases in the currency-specific closing blocks
-keep the same style, density and decision-useful tone
+If no validated central-bank tape has been supplied, write exactly:
 
-If one of these blocks is absent from the supplied material, omit it rather than inventing it, unless the user explicitly requests a newly written currency-specific closing block.
+D. CENTRAL BANK TAPE
 
-CONDITIONAL CENTRAL BANK TAPE MODULE
+No validated central-bank tape supplied for this window.
 
-Default rule:
+Do not invent central-bank communication.
 
-Do not add a CENTRAL BANK TAPE section in the normal finalization.
+Do not browse for central-bank tape unless explicitly requested.
 
-Normal finalization must run first using the lean structure:
+Do not infer missing speakers.
 
-A. WEEK — MACRO SYNTHESIS
-B. MACRO SIGNAL SCOREBOARD
-C. FULL RELEASE ARCHIVE
-SIGNAL TENSION CHECK
-3 KEY RELEASES TO DIG INTO
+## D — VALIDATED TAPE MODE
 
-CENTRAL BANK TAPE is a conditional module.
+If the user supplies a validated central-bank scout / chatterbox, integrate it here.
 
-It is activated only if:
+Required structure:
 
-The user explicitly asks to add central-bank tape
-
-or
-
-The user supplies a validated central-bank scout together with the weekly material and explicitly indicates that it should be included
-
-or
-
-The user later supplies a validated central-bank scout after the normal finalization
-
-or
-
-The supplied weekly material already contains validated central-bank material and the user asks to preserve or structure it
-
-Do not activate CENTRAL BANK TAPE automatically for DM or EM aggregate finalizations.
-
-DM / EM RULE
-
-For DM or EM aggregate finalization:
-
-do not run CENTRAL BANK TAPE by default
-do not create a generic DM central-bank tape
-do not create a generic EM central-bank tape
-do not insert central-bank coverage for every country
-do not add central-bank material unless the user explicitly asks for a currency-specific central-bank update
-
-If the user later asks for a specific currency inside DM or EM, such as GBP, CAD, AUD, JPY, BRL or MXN, then CENTRAL BANK TAPE may be added for that currency only if a validated scout is supplied.
-
-SINGLE-CURRENCY CENTRAL BANK UPDATE MODE
-
-For single-currency week finalizations, the default workflow is two-step.
-
-Step 1 — Normal finalization
-
-Produce the final WEEK note using the standard lean structure.
-
-Do not wait for central-bank tape unless the user has already supplied it and explicitly asks to include it.
-
-Step 2 — Conditional central-bank update
-
-If the user later provides a validated central-bank scout, update the existing finalized note rather than rebuilding the week from scratch.
-
-When updating:
-
-preserve Section C release archive with 100% fidelity
-insert CENTRAL BANK TAPE above SIGNAL TENSION CHECK
-update Section A only if the policy regime meaningfully changes
-update Section B Policy Constraint if the central-bank scout changes or clarifies the reaction function
-do not rewrite unrelated sections
-do not rewrite the archive
-do not add new macro releases
-return the full updated note, not a patch, unless the user explicitly asks for patch-only output
-
-When activated, the structure becomes:
-
-C. FULL RELEASE ARCHIVE
-
-CENTRAL BANK TAPE
-
-SIGNAL TENSION CHECK
-
-3 KEY RELEASES TO DIG INTO
-
-CENTRAL BANK TAPE — REQUIRED FORMAT
-
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Summary — Policy reaction function
 
-[Compact paragraph explaining how the central-bank tape changes, confirms or falsifies the weekly policy constraint.]
+[compact paragraph]
 
 [Central bank / speaker / document] — [date]
 Importance: * / ** / *** / ****
 
 Key policy signal:
-[Dense summary of the policy message.]
+[dense summary]
 
 Representative quote:
-“[short quote only]”
+“[short quote]”
 
 Incremental reaction function:
-[Explain what changed in the policy path, cut / hold / hike bar, inflation threshold, labor threshold, communication regime, market pricing implication, or policy asymmetry.]
+[what changes / confirms / falsifies the rate path or reaction function]
 
-[Repeat for each validated speaker / document.]
+[repeat as needed]
 
 Bottom line — central bank tape
 
-[Compact conclusion linking the central-bank tape back to the weekly macro regime and the Policy Constraint bucket.]
+[compact conclusion]
 
-CENTRAL BANK TAPE RULES
+## CENTRAL BANK RULES
 
-use only the supplied validated central-bank scout or central-bank material already present in the pasted material
-do not browse unless the user explicitly requests verification
-do not add speakers, quotes or central-bank events not present in the supplied material
-keep quotes short
-include speaker name, date, importance and incremental reaction function
-link the central-bank tape to the scoreboard’s Policy Constraint bucket
-if the central-bank tape materially changes the week’s policy read, update Policy Constraint in Section B
-if it materially changes the regime framing, update Section A
-do not alter Section C release archive when adding this module
-do not run this module automatically for DM or EM aggregate finalizations
+Use only supplied validated central-bank material.
 
-STYLE PRESERVATION RULE
+Do not independently add:
 
-The final note must preserve the style of the source tape.
+* speakers
+* quotes
+* meetings
+* market pricing
+* scenarios
 
-Specifically:
+unless explicitly requested.
 
-dense macro-desk language
-compact analytical phrasing
-no narrative drift
-no simplification of validated content
-no softening of technical detail
-no replacement of strong release-level analysis with vague top-down prose
+Keep quotes short.
 
-The finalization step must preserve the quality logic of the live weekly process:
+Central-bank tape should clarify:
 
-Reuters data remains mechanical in the archived blocks
-institutional commentary remains tape-like in the archived blocks
-economist interpretation remains analytical in the archived blocks
-HF Take remains reaction-function focused in the archived blocks
-historical framing remains preserved in the copied sections exactly as validated
+* cut / hold / hike bar
+* inflation threshold
+* labor / growth threshold
+* FX or commodity sensitivity where relevant
+* communication asymmetry
+* committee split where supplied
+* policy destination vs immediate policy path
 
-NO NEW RESEARCH RULE
+When D materially changes the policy interpretation:
 
-For this finalization task:
+* update Section A
+* update Section B Policy Constraint
+* update Sections E and G where relevant
 
-do not browse
-do not fetch GitHub
-do not add new releases
-do not verify outside the supplied material
-do not repair perceived gaps with inference
+Do not modify Section C.
 
-If the supplied material lacks something, finalize from that material as provided.
+---
 
-Do not invent what might be missing.
+# E. SIGNAL TENSION CHECK
 
-OUTPUT RULE
+This is a newly finalized decision layer.
+
+If a relevant currency-specific tension block already exists in the live material, use it as the starting point.
+
+It may be sharpened using:
+
+* the full supplied archive
+* final synthesis
+* scoreboard
+* central-bank tape
+
+Required format:
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction:
+[1–2 lines]
+
+Why it matters:
+[1 concise line]
+
+Implication:
+[1 concise line]
+
+Rules:
+
+* identify the dominant unresolved contradiction
+* avoid listing several unrelated tensions
+* focus on the contradiction most relevant to macro regime / policy / FX
+* use only supplied validated macro information
+* do not browse
+* keep concise
+
+---
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+The heading is permanently:
+
+F. 5 KEY RELEASES TO DIG INTO
+
+Five is a maximum, not a quota.
+
+Select **up to five** releases from the entire DATA WINDOW.
+
+If only three or four genuinely deserve inclusion, include only three or four.
+
+Never pad the section with weak releases merely to reach five.
+
+## SELECTION CRITERIA
+
+Prioritize:
+
+1. importance rating
+2. macro signal strength
+3. policy relevance
+4. contradiction versus prior regime
+5. composition / subcomponent value
+6. regime-transition value
+7. FX / rates decision usefulness
+8. usefulness for later falsification
+
+Use the whole supplied DATA WINDOW, including when it spans several calendar weeks.
+
+## FORMAT
+
+F. 5 KEY RELEASES TO DIG INTO
+
+**** [RELEASE] ([DATE])
+Why it matters: [1–3 dense lines]
+
+*** [RELEASE] ([DATE])
+Why it matters: [1–3 dense lines]
+
+[...]
+
+Rules:
+
+* maximum 5
+* no minimum
+* do not invent releases
+* do not include central-bank speeches as “releases” unless they were themselves part of the original release archive
+* D separately handles central-bank tape
+* select the most decision-relevant releases rather than mechanically reproducing the live-note ranking
+
+---
+
+# G. RED TEAM QUESTIONS
+
+Purpose:
+
+Create the final intellectual challenge layer for the frozen weekly note.
+
+This section tests whether the regime interpretation in A and B is robust and identifies what could invalidate it.
+
+G is newly written during finalization.
+
+## SOURCE HIERARCHY
+
+1. RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT from the supplied live material
+2. full validated release archive
+3. CENTRAL BANK TAPE if supplied
+4. SIGNAL TENSION CHECK
+5. final synthesis and scoreboard
+
+## RULES
+
+Write 3–7 questions.
+
+Questions must be:
+
+* short
+* concrete
+* release-specific or regime-specific
+* relevant to the requested currency / region
+* focused on unresolved questions
+* useful for future monitoring
+
+Prioritize:
+
+* *** and **** releases
+* reaction-function uncertainty
+* data-quality / composition uncertainty
+* alternative interpretations
+* regime falsification
+* market-vs-macro tension
+* what future data would confirm or reject the current interpretation
+
+Do not answer the questions.
+
+Do not browse.
+
+Do not introduce facts outside the supplied macro material and supplied central-bank tape.
+
+## REUSE RULE
+
+If the live source contains RED TEAM QUESTIONS FOR JGM OR SECOND PASS SCOUT:
+
+* use them as the starting point
+* keep questions that remain relevant
+* remove questions resolved by later data
+* sharpen questions where later releases changed the issue
+* enrich with central-bank tape where relevant
+* add new questions if the completed period creates new uncertainty
+
+Do not preserve the live red-team block verbatim simply for fidelity.
+
+G is a final stress test, not part of the immutable archive.
+
+## CENTRAL-BANK ENRICHMENT
+
+When D contains central-bank tape, test where appropriate:
+
+* whether the inferred policy bias exceeds what communication actually supports
+* whether the conclusion depends excessively on one speaker
+* what threshold could flip the committee
+* whether growth weakness or inflation persistence is actually binding
+* whether FX, commodities, fiscal or external conditions could invalidate the inferred path
+
+Prefer observable confirmation / falsification questions.
+
+---
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+Purpose:
+
+Reconstruct the public institutional FX consensus that prevailed **during the DATA WINDOW**, including the directional bias, representative forecast range, main pricing drivers and where the prevailing consensus could be wrong.
+
+This is a point-in-time historical market-consensus layer.
+
+Unlike Sections A–G, Section H requires fresh web research unless the user explicitly provides a complete validated consensus scan and instructs you not to rerun it.
+
+## CORE TEMPORAL RULE
+
+The objective is **not today’s consensus**.
+
+The objective is:
+
+* consensus at the beginning of the DATA WINDOW
+* relevant changes occurring during the DATA WINDOW
+* consensus / bias at the end of the DATA WINDOW
+
+Do not add a post-window evolution section.
+
+Do not contaminate the historical WEEK state with later market developments.
+
+A source published after the DATA WINDOW should generally not be used to establish the point-in-time consensus unless it explicitly and reliably documents a forecast or strategist view that was already in force during the DATA WINDOW.
+
+Prefer contemporaneous sources.
+
+## RESEARCH TARGET
+
+Search for public material from:
+
+* major banks
+* brokers
+* institutional FX strategy teams
+* Reuters consensus / strategist surveys where available
+* reputable market commentary carrying named bank strategists
+* official monetary-policy information only where needed to interpret the FX consensus
+
+The section is a synthesis of public institutional views.
+
+It is not intended to be an exhaustive broker database.
+
+## NO BROKER-MAP RULE
+
+Do not create a broker / strategist table by default.
+
+Do not produce a long list of individual houses.
+
+Individual institutions may be cited in the analytical text when necessary to establish the forecast distribution or explain an important disagreement.
+
+The output should synthesize the consensus rather than catalogue every forecast.
+
+## TARGET / RANGE RULE — MANDATORY
+
+Where credible public forecasts are available, quantify the consensus.
+
+Include:
+
+**Public-bank [relevant horizon] range:** [range]
+
+**Constructive [currency] cluster:** [range / target]
+
+**More cautious / tactical view:** [range / target]
+
+**Bias at window close:** [one-line interpretation]
+
+The relevant horizon should reflect the most comparable public forecast horizon available around the DATA WINDOW.
+
+Examples:
+
+* Q3
+* Q4
+* year-end
+* 6M
+* 12M
+
+Do not mechanically use calendar year-end if that is not the meaningful comparison horizon.
+
+Do not fabricate a range from one forecast.
+
+If insufficient comparable public forecasts exist, state that the public target sample is too thin for a robust numerical range and provide only the available anchored targets.
+
+## PAIR CONVENTION
+
+Use the market-standard FX pair relevant to the currency.
+
+Examples:
+
+ZAR → USD/ZAR
+
+BRL → USD/BRL
+
+MXN → USD/MXN
+
+JPY → USD/JPY
+
+CAD → USD/CAD
+
+CHF → USD/CHF where appropriate
+
+GBP → GBP/USD where appropriate
+
+EUR → EUR/USD
+
+SEK / NOK may be discussed versus EUR when that is the dominant local-market convention, or versus USD when appropriate.
+
+Make the pair convention explicit if ambiguity matters.
+
+Interpret bullish / bearish currency views correctly relative to pair direction.
+
+## REQUIRED STRUCTURE
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+[2–4 compact paragraphs maximum]
+
+Must include:
+
+* prevailing consensus direction
+* how strong / weak conviction was
+* whether spot had already moved toward the target cluster
+* whether consensus changed materially during the DATA WINDOW
+
+Then include:
+
+**Public-bank [horizon] range:** [...]
+
+**Constructive [currency] cluster:** [...]
+
+**More cautious / tactical view:** [...]
+
+**Bias at window close:** [...]
+
+### What changed through the data window
+
+Explain the evolution of public FX thinking from the start to the end of the DATA WINDOW.
+
+Focus on:
+
+* what changed in spot / positioning backdrop
+* what macro or policy information changed the view
+* whether a formerly clean trade became capped / two-sided
+* whether consensus strengthened, weakened or merely moved in price
+
+Do not create a post-window section.
+
+### Main consensus drivers
+
+Keep this section short and FX-reaction-function oriented.
+
+Use approximately 3–4 drivers maximum.
+
+Avoid naïve one-variable descriptions.
+
+Preferred style:
+
+**Carry / policy credibility:**
+[compact description of marginal carry / real-rate / central-bank credibility implications]
+
+**Terms of trade / external buffer:**
+[compact external-balance / commodity / import-price asymmetry]
+
+**Global USD / risk beta:**
+[how the currency loads on USD, global rates, volatility and risk appetite]
+
+**Domestic risk premium:**
+[when weak growth, fiscal risk, politics or institutional credibility become FX-relevant]
+
+Adapt these categories to the currency.
+
+Do not force irrelevant drivers.
+
+For JPY, CHF, EUR, GBP, etc., use the appropriate dominant FX transmission channels.
+
+### Where consensus could be wrong
+
+Required:
+
+**Consensus too bullish [currency]:**
+[compact challenge]
+
+**Consensus too cautious [currency]:**
+[compact challenge]
+
+**Key falsification:**
+[one compact observable condition or combination that would invalidate / strengthen the consensus]
+
+## H SECTION STYLE
+
+The section should feel like a professional FX consensus scan, not a macro explainer.
+
+Focus on:
+
+* valuation relative to targets
+* carry
+* policy differentials
+* external / commodity asymmetry
+* global USD regime
+* risk beta
+* political / fiscal premium where relevant
+* positioning or flow information when publicly supported
+* what is actually driving the pair
+
+Avoid:
+
+* naïve lists of macro variables
+* generic textbook FX explanations
+* excessive broker-by-broker detail
+* long forecast tables
+* post-window hindsight
+* presenting a single strategist as “consensus”
+
+---
+
+# H — DATA WINDOW INTEGRITY
+
+If the DATA WINDOW spans multiple calendar weeks, Section H must cover the entire span.
+
+It should identify:
+
+* starting consensus
+* important revisions / changes during the supplied period
+* final consensus at window close
+
+If an institution changed its published target during the window, that evolution is highly relevant.
+
+If forecasts did not materially change but spot moved substantially, state that the **price moved toward / away from consensus** even though forecasts remained stable.
+
+Distinguish:
+
+* forecast change
+  from
+* spot convergence to existing forecasts
+
+This distinction is important.
+
+---
+
+# H — SOURCE QUALITY RULE
+
+Prefer:
+
+1. bank / broker primary research pages
+2. Reuters articles quoting named strategists or surveys
+3. institutional investment-house material
+4. reputable financial press reporting explicit bank forecasts
+
+Avoid using:
+
+* anonymous retail blogs
+* unsupported forecast aggregators
+* model-generated FX forecast websites
+* stale forecasts with no date
+* social-media commentary as the primary anchor
+
+If using a secondary source to relay a bank target, make clear that it is reporting the bank’s view.
+
+---
+
+# H — NO FALSE CONSENSUS RULE
+
+Do not label a narrow sample as a broad consensus.
+
+Use language such as:
+
+* “public-bank forecast cluster”
+* “publicly visible institutional range”
+* “available public strategist sample”
+
+when appropriate.
+
+A formal Reuters survey may be called consensus if it genuinely represents a survey.
+
+Otherwise distinguish the synthesized public forecast cluster from formal survey consensus.
+
+---
+
+# H — SPOT / TARGET INTERPRETATION
+
+Where useful, state whether spot at the end of the DATA WINDOW was:
+
+* outside the public forecast range
+* near the consensus midpoint
+* already near the constructive target cluster
+* still far from strategist targets
+
+This is important because a fundamentally constructive consensus can have poor tactical asymmetry if spot has already moved substantially.
+
+Do not convert a medium-term target directly into a short-term trading signal without qualification.
+
+---
+
+# H — FINALIZATION RESEARCH EXCEPTION
+
+The normal “no new research” rule does not apply to Section H.
+
+For H only:
+
+* browse the web
+* search contemporaneous public institutional forecasts
+* retrieve relevant point-in-time spot context
+* reconstruct the market view during the DATA WINDOW
+* cite the public sources used
+
+Do not use this exception to rewrite A–G with new external macro information.
+
+Sections A–G remain grounded in the supplied validated material.
+
+---
+
+# CROSS-SECTION CONSISTENCY RULE
+
+The final note must be internally coherent without forcing agreement.
+
+Examples:
+
+* B may show weak domestic growth while H remains constructive the currency because carry / external balances dominate.
+* D may show a hawkish policy tail while H says the FX consensus is only moderately constructive because spot has already appreciated.
+* E may identify an unresolved inflation tension even when H says the public FX bias is bullish.
+* G should explicitly challenge such tensions where useful.
+
+Do not artificially make all sections tell the same story.
+
+The purpose is to preserve genuine macro / policy / market tension.
+
+---
+
+# STYLE PRESERVATION RULE
+
+Use:
+
+* dense macro-desk language
+* compact analytical phrasing
+* explicit dates
+* state-transition logic
+* reaction-function framing
+* FX-market language where appropriate
+
+Avoid:
+
+* narrative drift
+* generic macro prose
+* decorative language
+* simplistic causal claims
+* unsupported probabilities
+* invented market levels
+* unnecessary repetition between A, B, D and H
+
+---
+
+# NO NEW MACRO RESEARCH RULE
+
+For Sections A–G:
+
+* do not browse
+* do not fetch GitHub
+* do not add new releases
+* do not repair perceived gaps with external inference
+* do not verify already validated archive blocks unless explicitly requested
+
+For Section H only:
+
+* fresh web research is mandatory by default
+* research is restricted to reconstructing the point-in-time currency-market consensus
+
+---
+
+# OUTPUT RULE
 
 Return the full final WEEK note in one piece.
 
 Do not return:
 
-instructions
-comments about the process
-a patch
-partial sections
-a summary without the archive
-an explanation of what you changed
+* instructions
+* a patch
+* an explanation of changes
+* a summary without the archive
+* process notes
 
-Return only the final frozen WEEK note.
+The final note must contain Sections A through H in order.
 
-If the task is a central-bank update after an already-finalized note, return the full updated note, not a patch, unless the user explicitly requests patch-only output.
+If no validated central-bank tape exists, D remains present with the locked placeholder.
 
-INTERNAL CONSISTENCY CHECKS — MANDATORY
+If the user later supplies central-bank tape:
+
+* update D
+* update A if materially necessary
+* update B Policy Constraint if materially necessary
+* update E / G if materially necessary
+* preserve C unchanged
+* return the full updated note unless patch-only output was explicitly requested
+
+---
+
+# INTERNAL CONSISTENCY CHECKS — MANDATORY
 
 Before finalizing, verify:
 
-The opening and closing markers are correct.
-The DATA WINDOW matches the supplied material.
-If multiple weeks are supplied for a single-currency note, the DATA WINDOW spans the full provided period.
-Section A reflects the whole supplied period, not only the final release.
-Section B uses only evidence from the supplied material.
-For single-currency extraction, Section B uses only evidence from the requested currency / country bloc.
-Section C starts at the release archive level and does not include WEEKLY RELEASE TRACKER.
-Section C reproduces the relevant supplied release archive with 100% fidelity.
-For single-currency extraction, Section C includes all and only the requested currency’s release blocks.
-Day headers are preserved if they exist in the source material.
-No relevant release block has been omitted.
-No wording in the copied sections has been rewritten.
-REGIONAL MACRO DASHBOARD, COUNTRY MACRO DASHBOARD, PENDING HIGH-IMPORTANCE RELEASES, and DATA QUALITY FLAG do not appear in the final output.
-SIGNAL TENSION CHECK and 3 KEY RELEASES TO DIG INTO are preserved exactly if present and relevant to the requested scope.
-If currency-specific closing blocks are required, they use only the requested currency’s releases.
-CENTRAL BANK TAPE is omitted unless explicitly activated.
-CENTRAL BANK TAPE is not run automatically for DM or EM aggregate finalizations.
-If CENTRAL BANK TAPE is activated for a single currency, it is inserted above SIGNAL TENSION CHECK.
-If CENTRAL BANK TAPE is activated, Policy Constraint is updated only if the scout changes or clarifies the policy reaction function.
-The final note preserves density, structure and institutional tone.
+1. Opening and closing markers are correct.
 
-FINAL RESULT
+2. DATA WINDOW matches the full supplied period.
 
-The final output must be a saved weekly note that:
+3. Multi-week single-currency notes use one continuous DATA WINDOW.
 
-opens with a dense regional, bloc, or currency macro synthesis
-provides a compact final scoreboard
-preserves the full validated release archive below
-retains the validated closing decision blocks that matter for archive retrieval
-optionally includes CENTRAL BANK TAPE only when activated
-is ready to store as the final WEEK note
+4. A reflects the entire supplied period.
 
-OPTIONAL POST-FINALIZATION PM VERSION PROPOSAL
+5. B uses only evidence from the supplied macro material and D where applicable.
 
-After returning the full final WEEK note, you may add one short line outside the frozen note proposing an optional second output.
+6. B signal meanings are consistent with the standardized + / ~ / - convention.
 
-Use this exact style:
+7. C begins at release archive level and excludes WEEKLY RELEASE TRACKER.
 
-“Optional next step: I can also produce a VERY COMPRESSED PM VERSION keeping only *** and **** releases, in PM-style format.”
+8. C reproduces the relevant archive with 100% fidelity.
 
-Do not produce that PM version automatically unless the user asks for it.
+9. For single-currency extraction, C includes all and only the requested currency’s blocks.
 
-Only propose it.
+10. Day headers are preserved where relevant.
 
-If the user accepts, produce a second standalone output using the following locked format:
+11. No release block has been accidentally omitted.
 
-<<[REGION_OR_CURRENCY]_WEEK_PM_STYLE_BEGIN>>
-DATA WINDOW: [start date] to [end date]
+12. No wording inside C has been rewritten.
 
-[REGION_OR_CURRENCY] — VERY COMPRESSED PM VERSION
+13. REGIONAL MACRO DASHBOARD does not appear.
 
-Regime:
-[1 short line]
+14. COUNTRY MACRO DASHBOARD does not appear.
 
-Read: [1 short line]
+15. PENDING HIGH-IMPORTANCE RELEASES does not appear.
 
-Scoreboard:
+16. DATA QUALITY FLAG does not appear.
 
-Growth: [~ / + / -]
-[one short comment line]
+17. D always exists.
 
-Labor: [~ / + / -]
-[one short comment line]
+18. If no central-bank tape was supplied, D uses the locked no-tape placeholder.
 
-Inflation: [~ / + / -]
-[one short comment line]
+19. If central-bank tape was supplied, D uses only that validated material.
 
-Financial Conditions: [~ / + / -]
-[one short comment line]
+20. E captures the final dominant contradiction.
 
-Policy Constraint: [~ / + / -]
-[one short comment line]
+21. F is titled exactly “F. 5 KEY RELEASES TO DIG INTO”.
 
-[DAY HEADER]
+22. F contains no more than five releases.
 
-[Country/Region] — [Release Name] | [*** or ****]
-[short data line]
-Read: [very short line]
-Signal: [very short line]
-Policy: [very short line]
+23. F is not padded merely to reach five.
 
-[repeat only for releases rated *** or ****]
+24. F selection reflects the entire DATA WINDOW.
 
-Signal Tension:
-[one short line]
+25. G contains 3–7 final red-team questions.
 
-3 Releases That Mattered:
+26. G removes live questions already resolved by later evidence.
 
-[Release 1] — [very short why-it-mattered line]
-[Release 2] — [very short why-it-mattered line]
-[Release 3] — [very short why-it-mattered line]
+27. G incorporates central-bank reaction-function uncertainty where relevant.
 
-Bottom line:
-[2 short lines max]
+28. H is present for currency notes.
 
-<<[REGION_OR_CURRENCY]_WEEK_PM_STYLE_END>>
+29. H reconstructs the consensus during the DATA WINDOW, not today’s consensus.
 
-PM VERSION RULES
+30. H does not contain a post-window evolution section.
 
-Purpose:
+31. H includes a numerical public-bank target / range when the public sample supports one.
 
-produce a very compressed portfolio-manager version of the week or supplied period
-make it readable in under one minute
-keep only the releases rated *** or ****
-preserve the regime logic of the full week note
-do not rewrite the week from scratch
-do not add external narrative
-do not browse
-do not add releases not present in the supplied material
+32. H does not fabricate a consensus range from insufficient evidence.
 
-Style:
+33. H distinguishes forecast changes from spot moving toward existing forecasts.
 
-PM-style
-very compressed
-no long paragraphs
-no decorative prose
-no full macro essay
-dense, decision-useful, quick-read format
-short lines preferred
-“Read / Signal / Policy” framing required for each kept release
+34. H Main Consensus Drivers is compact and FX-specific.
 
-Selection rule:
+35. H includes both “consensus too bullish” and “consensus too cautious” challenges.
 
-include only releases explicitly rated *** or **** in the source material
-exclude * and ** releases entirely
-if fewer than 3 releases qualify, include only those that qualify and do not invent more
+36. H contains a clear key falsification condition.
 
-For single-currency extraction:
+37. H does not default to a broker-by-broker table.
 
-include only *** or **** releases for the requested currency
-exclude other countries entirely
+38. New external research used for H has not contaminated A–G.
 
-Fidelity rule:
+39. No parser-hostile section renaming or letter drift has occurred.
 
-the PM version is a compression layer, not a new research product
-it must remain faithful to the final frozen week note
-regime, scoreboard, signal tension and bottom line must reflect the supplied material only
+40. The final note remains dense, institutional and ready for historical Streamlit ingestion.
 
-Marker examples:
+---
 
-USD → <<USD_WEEK_PM_STYLE_BEGIN>> ... <<USD_WEEK_PM_STYLE_END>>
-EUR → <<EUR_WEEK_PM_STYLE_BEGIN>> ... <<EUR_WEEK_PM_STYLE_END>>
-DM → <<DM_WEEK_PM_STYLE_BEGIN>> ... <<DM_WEEK_PM_STYLE_END>>
-EM → <<EM_WEEK_PM_STYLE_BEGIN>> ... <<EM_WEEK_PM_STYLE_END>>
-GBP → <<GBP_WEEK_PM_STYLE_BEGIN>> ... <<GBP_WEEK_PM_STYLE_END>>
-CAD → <<CAD_WEEK_PM_STYLE_BEGIN>> ... <<CAD_WEEK_PM_STYLE_END>>
-JPY → <<JPY_WEEK_PM_STYLE_BEGIN>> ... <<JPY_WEEK_PM_STYLE_END>>
-AUD → <<AUD_WEEK_PM_STYLE_BEGIN>> ... <<AUD_WEEK_PM_STYLE_END>>
-NZD → <<NZD_WEEK_PM_STYLE_BEGIN>> ... <<NZD_WEEK_PM_STYLE_END>>
-CHF → <<CHF_WEEK_PM_STYLE_BEGIN>> ... <<CHF_WEEK_PM_STYLE_END>>
-SEK → <<SEK_WEEK_PM_STYLE_BEGIN>> ... <<SEK_WEEK_PM_STYLE_END>>
-NOK → <<NOK_WEEK_PM_STYLE_BEGIN>> ... <<NOK_WEEK_PM_STYLE_END>>
-MXN → <<MXN_WEEK_PM_STYLE_BEGIN>> ... <<MXN_WEEK_PM_STYLE_END>>
-BRL → <<BRL_WEEK_PM_STYLE_BEGIN>> ... <<BRL_WEEK_PM_STYLE_END>>
-ZAR → <<ZAR_WEEK_PM_STYLE_BEGIN>> ... <<ZAR_WEEK_PM_STYLE_END>>
-CNH → <<CNH_WEEK_PM_STYLE_BEGIN>> ... <<CNH_WEEK_PM_STYLE_END>>
+# FINAL RESULT
 
------END of PROMPT--------
+The final output must function simultaneously as:
+
+* a frozen weekly macro archive
+* a compact macro regime synthesis
+* a standardized historical signal scoreboard
+* a central-bank reaction-function record
+* a contradiction / falsification layer
+* a ranked release-selection layer
+* a final red-team layer
+* a point-in-time FX market-consensus record
+
+The final note should therefore answer four distinct questions without mixing them:
+
+**What did the macro data say?**
+→ A, B, C
+
+**What did the central bank reaction function say?**
+→ D
+
+**What remains unresolved or could falsify the interpretation?**
+→ E, F, G
+
+**What did the FX market / public strategist consensus believe during that same historical window?**
+→ H
+
+The resulting document must be stable enough for long-run archive retrieval and Streamlit comparison across currencies and across time.
+
+-----END OF PROMPT-----
