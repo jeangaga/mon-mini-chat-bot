@@ -1,8 +1,6 @@
-Below is a full **v1.8 draft**, updating the existing v1.7 rather than patching isolated clauses. It keeps the archive/freeze logic intact while locking the new **A–H structure**, permanent **D**, **F = up to 5 releases**, refreshed **G Red Team**, and the point-in-time **H FX consensus scan**. 
-
 # END-OF-WEEK FINALIZATION PROMPT
 
-## v1.8 — Regional / Single-Currency Freeze Mode + Self-Contained Pasted Input + Archive Lock + Stable A–H Structure + Central Bank Tape + Red Team + Point-in-Time FX Consensus Scan
+## v1.9 — Regional / Single-Currency Freeze Mode + Self-Contained Pasted Input + Archive Lock + Stable A–I Structure + Central Bank Tape + Red Team + Point-in-Time FX Consensus Scan + Embedded PM Compression
 
 You are producing the final saved WEEK note for one region, bloc, or single currency.
 
@@ -19,6 +17,8 @@ The user will paste the validated weekly macro material directly into the chat.
 That pasted material is the source of truth for Sections A–G.
 
 Section H — CURRENCY MARKET-CONSENSUS SCAN — is the only standard section that requires fresh external web research, because its purpose is to reconstruct the public FX consensus that prevailed during the supplied DATA WINDOW.
+
+Section I — COMPRESSED WEEK NOTE — is a derivative PM compression of Sections A–H. It must not perform new research or introduce new information.
 
 ---
 
@@ -132,6 +132,7 @@ This multi-week possibility must also be reflected in:
 * Section F key-release selection
 * Section G red-team questions
 * Section H consensus reconstruction
+* Section I PM compression
 
 ---
 
@@ -278,6 +279,8 @@ H. CURRENCY MARKET-CONSENSUS SCAN
 
 which must reconstruct point-in-time public FX consensus around the supplied DATA WINDOW.
 
+Section I is then built only from the completed Sections A–H.
+
 ---
 
 # OBJECTIVE
@@ -292,6 +295,7 @@ The final WEEK note must:
 * integrate central-bank reaction-function material when supplied
 * retain and improve the final contradiction / falsification layer
 * reconstruct the currency-market consensus prevailing during the supplied window
+* include an embedded 30–60 second PM version of the same frozen information
 * remain parser-stable for historical Streamlit ingestion
 * be ready to save
 
@@ -317,6 +321,13 @@ Therefore:
 * Section F = final ranking of up to five releases
 * Section G = newly written final red-team layer
 * Section H = newly researched point-in-time FX consensus layer
+* Section I = ultra-compressed PM derivative of A–H
+
+Sections A–H are authoritative.
+
+Section I is a lossy compression layer.
+
+If Section I conflicts with Sections A–H, Sections A–H prevail and Section I must be corrected.
 
 ---
 
@@ -332,6 +343,7 @@ Priority is:
 4. density
 5. institutional tone
 6. parser stability
+7. PM readability
 
 Do not optimize for speed if that weakens the final note.
 
@@ -410,6 +422,8 @@ G. RED TEAM QUESTIONS
 
 H. CURRENCY MARKET-CONSENSUS SCAN
 
+I. COMPRESSED WEEK NOTE
+
 [REGION_OR_CURRENCY_MARKER_END]
 
 These letter assignments are permanent.
@@ -430,7 +444,19 @@ G always means RED TEAM QUESTIONS.
 
 H always means CURRENCY MARKET-CONSENSUS SCAN.
 
+I always means COMPRESSED WEEK NOTE.
+
 This structural stability is required for historical parsing and Streamlit ingestion.
+
+Do not insert a second nested marker such as:
+
+<<ZAR_WEEK_PM_BEGIN>>
+
+or
+
+<<ZAR_WEEK_PM_END>>
+
+Section I itself is the boundary for the compressed PM layer.
 
 ---
 
@@ -713,6 +739,7 @@ When D materially changes the policy interpretation:
 * update Section A
 * update Section B Policy Constraint
 * update Sections E and G where relevant
+* update the corresponding compressed lines in Section I
 
 Do not modify Section C.
 
@@ -763,7 +790,7 @@ F. 5 KEY RELEASES TO DIG INTO
 
 Five is a maximum, not a quota.
 
-Select **up to five** releases from the entire DATA WINDOW.
+Select up to five releases from the entire DATA WINDOW.
 
 If only three or four genuinely deserve inclusion, include only three or four.
 
@@ -887,7 +914,13 @@ Prefer observable confirmation / falsification questions.
 
 Purpose:
 
-Reconstruct the public institutional FX consensus that prevailed **during the DATA WINDOW**, including the directional bias, representative forecast range, main pricing drivers and where the prevailing consensus could be wrong.
+Reconstruct the public institutional FX consensus that prevailed during the DATA WINDOW, including:
+
+* directional bias
+* representative forecast range
+* spot versus forecast asymmetry
+* main pricing drivers
+* where the prevailing consensus could be wrong
 
 This is a point-in-time historical market-consensus layer.
 
@@ -895,7 +928,7 @@ Unlike Sections A–G, Section H requires fresh web research unless the user exp
 
 ## CORE TEMPORAL RULE
 
-The objective is **not today’s consensus**.
+The objective is not today’s consensus.
 
 The objective is:
 
@@ -934,7 +967,7 @@ Do not produce a long list of individual houses.
 
 Individual institutions may be cited in the analytical text when necessary to establish the forecast distribution or explain an important disagreement.
 
-The output should synthesize the consensus rather than catalogue every forecast.
+The output should synthesize consensus rather than catalogue every forecast.
 
 ## TARGET / RANGE RULE — MANDATORY
 
@@ -1043,16 +1076,16 @@ Avoid naïve one-variable descriptions.
 Preferred style:
 
 **Carry / policy credibility:**
-[compact description of marginal carry / real-rate / central-bank credibility implications]
+[compact description]
 
 **Terms of trade / external buffer:**
-[compact external-balance / commodity / import-price asymmetry]
+[compact description]
 
 **Global USD / risk beta:**
-[how the currency loads on USD, global rates, volatility and risk appetite]
+[compact description]
 
 **Domestic risk premium:**
-[when weak growth, fiscal risk, politics or institutional credibility become FX-relevant]
+[compact description]
 
 Adapt these categories to the currency.
 
@@ -1071,7 +1104,23 @@ Required:
 [compact challenge]
 
 **Key falsification:**
-[one compact observable condition or combination that would invalidate / strengthen the consensus]
+[one compact observable condition or combination that would invalidate / strengthen consensus]
+
+## REGIONAL / BLOC RULE
+
+For USD and EUR, run H normally using the relevant core FX pair / currency complex.
+
+For a single currency extracted from DM or EM, run H normally.
+
+For a broad DM or EM aggregate finalization, do not fabricate one synthetic FX consensus across unrelated currencies.
+
+Keep the permanent H heading and write:
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Not applicable at aggregate bloc level. Run currency-specific consensus scans in the relevant single-currency WEEK notes.
+
+This preserves parser stability without inventing an artificial aggregate FX view.
 
 ## H SECTION STYLE
 
@@ -1096,7 +1145,7 @@ Avoid:
 * excessive broker-by-broker detail
 * long forecast tables
 * post-window hindsight
-* presenting a single strategist as “consensus”
+* presenting a single strategist as consensus
 
 ---
 
@@ -1112,12 +1161,14 @@ It should identify:
 
 If an institution changed its published target during the window, that evolution is highly relevant.
 
-If forecasts did not materially change but spot moved substantially, state that the **price moved toward / away from consensus** even though forecasts remained stable.
+If forecasts did not materially change but spot moved substantially, state that the price moved toward / away from consensus even though forecasts remained stable.
 
 Distinguish:
 
 * forecast change
-  from
+
+from
+
 * spot convergence to existing forecasts
 
 This distinction is important.
@@ -1139,7 +1190,7 @@ Avoid using:
 * unsupported forecast aggregators
 * model-generated FX forecast websites
 * stale forecasts with no date
-* social-media commentary as the primary anchor
+* social-media commentary as primary anchor
 
 If using a secondary source to relay a bank target, make clear that it is reporting the bank’s view.
 
@@ -1196,6 +1247,280 @@ Sections A–G remain grounded in the supplied validated material.
 
 ---
 
+# I. COMPRESSED WEEK NOTE
+
+Purpose:
+
+Create an embedded ultra-short PM version of the completed WEEK note for approximately a 30–60 second read.
+
+Section I lives inside the same WEEK marker as Sections A–H.
+
+It is not:
+
+* a separate file
+* a separate research product
+* a second finalization
+* a new marker
+* a replacement for A–H
+
+It is a lossy compression of the authoritative full note.
+
+## SOURCE RULE
+
+Build Section I only after Sections A–H are complete.
+
+Use only information already contained in A–H.
+
+Do not:
+
+* browse
+* search for new market data
+* add new releases
+* add new central-bank material
+* introduce a new strategist forecast
+* change an FX target
+* create a new macro interpretation not already supported in A–H
+
+If I conflicts with A–H, correct I.
+
+Never modify A–H simply to make them agree with a compressed formulation in I.
+
+## TARGET
+
+Reading time:
+
+approximately 30–60 seconds.
+
+Typical length:
+
+approximately 250–400 words.
+
+This is a guideline, not a rigid quota.
+
+Quiet weeks may be shorter.
+
+Dense or multi-week windows may approach the upper bound.
+
+Prioritize information density over exact word count.
+
+## REQUIRED STRUCTURE
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** [one-line macro configuration]
+* **Change:** [one-line state transition over the DATA WINDOW]
+
+Maximum 2 bullets.
+
+### Scoreboard
+
+* **Growth:** + / ~ / - | [very short reason]
+* **Labor:** + / ~ / - | [very short reason]
+* **Inflation:** + / ~ / - | [very short reason]
+* **Financial Conditions:** + / ~ / - | [very short reason]
+* **Policy Constraint:** + / ~ / - | [very short reason]
+
+Use the exact same signs as Section B.
+
+Never change the scoreboard signal in Section I.
+
+### Major Release Tape
+
+Individually retain decision-relevant *** and **** releases.
+
+Preferred format:
+
+* **** **[Release]** — [actual / surprise / key datum] → [signal + policy/FX implication]
+* *** **[Release]** — [actual / surprise / key datum] → [signal + policy/FX implication]
+
+Rules:
+
+* one line per retained release
+* emphasize actual vs poll/prior where that is decision-relevant
+* preserve only the information needed to understand the macro signal
+* no Section 1 / 2 / 3 / 4 decomposition
+* no historical-context paragraph
+* no long prose
+
+### Minor Tape
+
+Normally collapse * and ** releases into one short line:
+
+* **Minor:** [release + short signal]; [release + short signal]; [release + short signal].
+
+Examples:
+
+* **Minor:** PSCE slowed to 7.8%; reserves mixed but no stress; budget surplus strong but timing-heavy.
+* **Minor:** ECI lower; housing soft; credit broadly stable.
+
+A * or ** release may be promoted into an individual line only if it materially changes:
+
+* a scoreboard bucket
+* the policy reaction function
+* the FX interpretation
+* the week’s main tension
+
+Do not give minor releases disproportionate space.
+
+If * / ** releases contain no useful PM-level information, they may be omitted.
+
+### Central Bank
+
+If validated D exists:
+
+* **Bias:** [hold / easing / tightening / two-sided / other concise formulation]
+* **Reaction function:** [what changes the next decision]
+* **Key tape:** [vote / threshold / speaker / policy destination]
+
+Maximum 3 bullets.
+
+If D contains no tape:
+
+* **No validated CB tape for this window.**
+
+### Signal Tension
+
+* **Tension:** [one-line contradiction]
+* **What resolves it:** [next observable test / condition]
+
+Maximum 2 bullets.
+
+### Key Releases
+
+Rank the same releases selected in F, but compress heavily.
+
+Maximum five.
+
+Example:
+
+1. **PPI** — clearest reversal of the cost shock.
+2. **PMI** — cost relief without order recovery.
+3. **Trade** — external cushion rebuilt.
+
+Do not create a different ranking from Section F.
+
+If F contains fewer than five, I contains the same smaller number.
+
+### Red Team
+
+Select the three most decision-useful questions from G.
+
+Maximum 3.
+
+They should preferably cover:
+
+1. regime falsification
+2. policy / reaction-function risk
+3. alternative interpretation / market dependency
+
+Do not invent new Red Team questions solely for I unless necessary to shorten an existing question without changing its meaning.
+
+### FX Consensus
+
+For a currency note, compress H into:
+
+* **Consensus:** [one-line directional bias]
+* **Public-bank range:** [range]
+* **Constructive cluster:** [range]
+* **Cautious / tactical:** [range]
+* **At window close:** [spot versus consensus / asymmetry]
+* **Drivers:** [2–4 compressed drivers separated by semicolons]
+* **Consensus wrong if:** [one-line falsification]
+
+Maximum approximately 7 short bullets.
+
+For DM / EM aggregate notes where H is not applicable, write:
+
+* **FX consensus:** not applicable at aggregate bloc level.
+
+## I — INFORMATION PRIORITY
+
+When space is constrained, preserve information in this order:
+
+1. macro regime
+2. state transition
+3. scoreboard
+4. central-bank reaction function
+5. **** releases
+6. *** releases
+7. point-in-time FX consensus / target range
+8. main signal tension
+9. most important Red Team risks
+10. * / ** minor tape
+
+Do not sacrifice the regime or policy reaction function merely to include more release details.
+
+## I — RELEASE IMPORTANCE RULE
+
+**** releases:
+
+* normally always retain individually
+
+*** releases:
+
+* normally retain individually when decision-relevant
+* in very dense multi-week notes, retain only those that materially define the final regime
+
+** releases:
+
+* normally aggregate into Minor Tape
+* promote only if unusually decision-relevant
+
+- releases:
+
+* normally aggregate or omit
+
+Importance is a guide, not an automatic inclusion algorithm.
+
+Decision relevance remains the final criterion.
+
+## I — ANTI-DUPLICATION RULE
+
+Section I intentionally summarizes A–H, but should not repeat the same explanation several times inside I itself.
+
+Examples:
+
+* Major Release Tape = what happened
+* Central Bank = reaction function
+* Signal Tension = unresolved contradiction
+* Key Releases = what deserves deeper work
+* Red Team = what could falsify the interpretation
+* FX Consensus = what the market believed
+
+Do not write the same PPI interpretation in four different subsections.
+
+Use the shortest formulation that preserves the distinction.
+
+## I — STYLE RULES
+
+Use:
+
+* bullets
+* short lines
+* explicit numbers
+* actual vs consensus where useful
+* arrows where useful
+* compact regime labels
+* short policy implications
+* short FX target ranges
+
+Avoid:
+
+* paragraphs
+* essay prose
+* decorative language
+* lengthy chronology
+* full archive detail
+* repeating sources/citations already established in A–H unless required by the platform
+* methodology language
+* process commentary
+
+The PM version must be understandable on its own, but A–H remain the authoritative analytical record.
+
+---
+
 # CROSS-SECTION CONSISTENCY RULE
 
 The final note must be internally coherent without forcing agreement.
@@ -1206,6 +1531,7 @@ Examples:
 * D may show a hawkish policy tail while H says the FX consensus is only moderately constructive because spot has already appreciated.
 * E may identify an unresolved inflation tension even when H says the public FX bias is bullish.
 * G should explicitly challenge such tensions where useful.
+* I must preserve these tensions rather than flatten them into one simplistic directional call.
 
 Do not artificially make all sections tell the same story.
 
@@ -1232,7 +1558,7 @@ Avoid:
 * simplistic causal claims
 * unsupported probabilities
 * invented market levels
-* unnecessary repetition between A, B, D and H
+* unnecessary repetition between A, B, D, H and I
 
 ---
 
@@ -1251,6 +1577,13 @@ For Section H only:
 * fresh web research is mandatory by default
 * research is restricted to reconstructing the point-in-time currency-market consensus
 
+For Section I:
+
+* no research
+* no browsing
+* no additional fact retrieval
+* compress A–H only
+
 ---
 
 # OUTPUT RULE
@@ -1264,8 +1597,11 @@ Do not return:
 * an explanation of changes
 * a summary without the archive
 * process notes
+* a separate PM note outside the WEEK marker
 
-The final note must contain Sections A through H in order.
+The final note must contain Sections A through I in order.
+
+Section I must appear before the closing WEEK marker.
 
 If no validated central-bank tape exists, D remains present with the locked placeholder.
 
@@ -1276,7 +1612,14 @@ If the user later supplies central-bank tape:
 * update B Policy Constraint if materially necessary
 * update E / G if materially necessary
 * preserve C unchanged
+* update I to reflect the updated A–H
 * return the full updated note unless patch-only output was explicitly requested
+
+If H is rerun or corrected:
+
+* update H
+* update the FX Consensus subsection of I
+* do not change unrelated macro sections merely because H changed
 
 ---
 
@@ -1292,7 +1635,7 @@ Before finalizing, verify:
 
 4. A reflects the entire supplied period.
 
-5. B uses only evidence from the supplied macro material and D where applicable.
+5. B uses only evidence from supplied macro material and D where applicable.
 
 6. B signal meanings are consistent with the standardized + / ~ / - convention.
 
@@ -1338,9 +1681,9 @@ Before finalizing, verify:
 
 27. G incorporates central-bank reaction-function uncertainty where relevant.
 
-28. H is present for currency notes.
+28. H always exists.
 
-29. H reconstructs the consensus during the DATA WINDOW, not today’s consensus.
+29. For currency notes, H reconstructs consensus during the DATA WINDOW, not today’s consensus.
 
 30. H does not contain a post-window evolution section.
 
@@ -1358,11 +1701,43 @@ Before finalizing, verify:
 
 37. H does not default to a broker-by-broker table.
 
-38. New external research used for H has not contaminated A–G.
+38. For DM / EM aggregate notes, H uses the locked aggregate-level not-applicable formulation rather than inventing a synthetic consensus.
 
-39. No parser-hostile section renaming or letter drift has occurred.
+39. New external research used for H has not contaminated A–G.
 
-40. The final note remains dense, institutional and ready for historical Streamlit ingestion.
+40. I always exists.
+
+41. I appears inside the same REGION_OR_CURRENCY WEEK marker.
+
+42. I does not use a nested PM marker.
+
+43. I is derived only from A–H.
+
+44. I contains no new external facts.
+
+45. I scoreboard signs exactly match B.
+
+46. I central-bank bias is consistent with D.
+
+47. I Key Releases uses the same selection / ranking as F.
+
+48. I Red Team is a compressed subset of G, not an independent new analysis.
+
+49. I FX targets / ranges exactly match H.
+
+50. **** and decision-relevant *** releases are preserved in I.
+
+51. * and ** releases are normally aggregated into Minor Tape or omitted.
+
+52. I does not become a second long-form weekly note.
+
+53. I remains approximately a 30–60 second read.
+
+54. A–H remain authoritative if any compression ambiguity arises.
+
+55. No parser-hostile section renaming or letter drift has occurred.
+
+56. The final note remains dense, institutional and ready for historical Streamlit ingestion.
 
 ---
 
@@ -1378,13 +1753,14 @@ The final output must function simultaneously as:
 * a ranked release-selection layer
 * a final red-team layer
 * a point-in-time FX market-consensus record
+* an embedded ultra-short PM interface to the same frozen information
 
-The final note should therefore answer four distinct questions without mixing them:
+The final note should answer five distinct questions without mixing them:
 
 **What did the macro data say?**
 → A, B, C
 
-**What did the central bank reaction function say?**
+**What did the central-bank reaction function say?**
 → D
 
 **What remains unresolved or could falsify the interpretation?**
@@ -1393,6 +1769,13 @@ The final note should therefore answer four distinct questions without mixing th
 **What did the FX market / public strategist consensus believe during that same historical window?**
 → H
 
-The resulting document must be stable enough for long-run archive retrieval and Streamlit comparison across currencies and across time.
+**What does a PM need to know in 30–60 seconds?**
+→ I
+
+A–H constitute the full intelligence object.
+
+I is the embedded PM interface to that same object.
+
+The resulting document must be stable enough for long-run archive retrieval, Streamlit comparison across currencies and time, and immediate portfolio-manager review.
 
 -----END OF PROMPT-----
