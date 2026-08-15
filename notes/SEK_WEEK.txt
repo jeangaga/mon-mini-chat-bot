@@ -1,3 +1,4 @@
+
 <<SEK_WEEK_BEGIN>>
 DATA WINDOW: 29 July 2026 to 6 August 2026
 
@@ -447,7 +448,7 @@ But the case is strongest versus currencies where growth is deteriorating; it is
 
 The next high-level arbitration is now the Riksbank. Its next monetary-policy decision is due **20 Aug 2026**, following the 19 Aug meeting. ([Riksbank](https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2026/monetary-policy-decision-june-2026/?utm_source=chatgpt.com "Monetary policy decision | Sveriges Riksbank"))
 
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Summary — Policy reaction function
 
@@ -517,7 +518,7 @@ Bottom line — central bank tape
 
 The central-bank layer upgrades the confidence in the weekly **hold / hawkish-tail** regime but does not turn it into an immediate hike call. The June upward path tilt survived an eight-week communication vacuum and is now better supported by domestic data: Q2 growth materially outperformed and core inflation firmed, while the headline collapse is largely energy-driven. The principal counterweights remain labour slack, the exceptionally low CPIF level and the risk of over-reading a single CPIF-XE rebound. The August MPU therefore becomes an adjudication of whether the Bank **maintains the June path** rather than whether it actually hikes.
 
-# SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 Main contradiction: Swedish growth has broadened decisively while the inflation basket is splitting in opposite directions — policy-suppressed energy/headline inflation sharply lower, ex-energy inflation unexpectedly firmer.
 
@@ -525,22 +526,158 @@ Why it matters: The same weekly tape removes much of the growth argument for eas
 
 Implication: The Riksbank reaction function shifts toward **hold with greater hawkish optionality**, with labour slack and the durability of core inflation determining whether that tail becomes actionable.
 
-# 3 KEY RELEASES TO DIG INTO
+F. 5 KEY RELEASES TO DIG INTO
 
-**** CPI / CPIF / CPIF Ex-Energy Flash (6 Aug)
+**** **CPI / CPIF / CPIF Ex-Energy Flash (6 Aug)**
 
 Why it matters: The week's main policy release. Headline CPIF collapses with energy/administered-price effects while ex-energy inflation accelerates and beats expectations materially. It creates the decisive level-versus-momentum tension for the Riksbank.
 
-**** GDP Prelim / GDP Indicator (29 Jul)
+**** **GDP Prelim / GDP Indicator (29 Jul)**
 
 Why it matters: Q2 growth of 1.4% q/q reverses the Q1 contraction and significantly upgrades Sweden's relative-growth profile, but June's -0.2% exit and missing expenditure composition limit extrapolation.
 
-**** Riksbank June path tilt + eight-week communication vacuum
+*** **Retail Sales (30 Jul)**
 
-Why it matters: The last operative policy communication already increased the probability of a later-2026 hike. With no subsequent Board remarks, the stronger GDP/core combination now tests whether that tilt survives the headline CPIF collapse; the August MPU becomes the first official adjudication.
+Why it matters: Real retail volumes rose 1.0% m/m with both durable and consumable volumes strengthening, providing the cleanest evidence that the recovery is broadening beyond industrial surveys and reducing the risk that the Q2 GDP rebound is purely external or inventory-driven.
+
+*** **NIER Overall Sentiment / Consumer Confidence (30 Jul)**
+
+Why it matters: Overall sentiment rose to 104.7 with improvement across manufacturing, trade, construction and consumers. The breadth materially strengthens the recovery thesis while the still-subnormal consumer component preserves a domestic-demand qualification.
+
+*** **Swedbank / SILF Manufacturing PMI (3 Aug)**
+
+Why it matters: PMI slowed from 58.0 to 55.8 but remained firmly expansionary, while easing supplier input prices improved the growth/inflation mix. It is the key test of whether the industrial recovery is merely losing rate-of-change momentum or beginning a genuine rollover.
+
+G. RED TEAM QUESTIONS
+
+1. Does the Q2 GDP rebound survive the final expenditure breakdown, or is a material share explained by inventories, front-loading or other volatile components?
+
+2. Does June retail strength persist strongly enough to establish a durable household recovery, or was the 1.0% monthly gain another high-frequency rebound inside a still-fragile consumption regime?
+
+3. Is the July CPIF-XE acceleration the beginning of genuine domestic inflation transmission, or merely a one-month reversal from an exceptionally depressed level?
+
+4. Can the Riksbank credibly maintain its upward rate-path tilt while headline CPIF remains below 1% and labour slack stays elevated?
+
+5. Does the slowdown in manufacturing PMI remain a benign normalization from an exceptional level, or do orders and production subsequently converge toward the weaker June GDP exit signal?
+
+6. If the August MPU maintains the June rate path but EUR/SEK fails to strengthen SEK further, does that imply relative rates and structural capital outflows still dominate Sweden’s improved domestic macro profile?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+**Pair convention: EUR/SEK — lower EUR/SEK means a stronger Swedish krona.**
+
+The publicly visible institutional view entering the window was **highly dispersed but, in aggregate, more constructive SEK than Danske Bank’s own cautious forecast**. Danske’s 16 July FX update expected EUR/SEK to consolidate in **11.00–11.10 through the summer**, with its own path at **11.00 in 1M, 11.10 in 3M, 11.20 in 6M and 11.30 in 12M**. Yet the same report showed a broader consensus curve of **10.94 / 10.79 / 10.74 / 10.68** across those horizons, illustrating how unusually wide the disagreement was. Danske’s caution rested on adverse relative rates, structural foreign-asset flows and valuation models that still justified EUR/SEK above 11.00.
+
+The constructive camp remained centred much lower. BNP Paribas Wealth Management had a **10.60 12M EUR/SEK target** in its 2 July FX outlook, while ING’s operative June view was neutral tactically but retained **10.70 for H2**, based on stronger Swedish relative growth and less adverse energy exposure offsetting the wider rate differential.
+
+An important new in-window anchor arrived on 3 August. MUFG’s published EUR/USD and USD/SEK projections imply EUR/SEK of roughly **11.00 for Q3 and 10.90 for Q4**, falling toward about 10.80–10.70 subsequently. This is an inference from MUFG’s published cross-rate forecasts rather than a separately printed EUR/SEK target. MUFG also judged an August Riksbank move unlikely, confirming that its gradual SEK appreciation path did not require an immediate Swedish hike.
+
+Spot itself did more of the adjustment than forecast revisions during the short window. ECB reference rates show EUR/SEK moving from **11.0530 on 29 July to 10.9240 on 6 August**. By the window close, SEK had therefore already traded through Danske’s 11.00 one-month target and roughly to the top of the more constructive MUFG/ING target area, reducing the tactical asymmetry even though the medium-term institutional distribution still favoured some additional appreciation.
+
+**Public-bank 6–12M range:** EUR/SEK approximately **10.60–11.30** across the contemporaneously visible BNP, ING, MUFG-implied and Danske profiles.
+
+**Constructive SEK cluster:** EUR/SEK **10.60–10.90** — BNP 10.60 at 12M, ING 10.70 in H2 and MUFG-implied ~10.90 for Q4.
+
+**More cautious / tactical view:** EUR/SEK **11.00–11.10 through summer**, with Danske projecting 11.20 at 6M and 11.30 at 12M.
+
+**Bias at window close:** **moderately constructive SEK, but with diminished short-term asymmetry after the move to 10.924**. Spot had already moved materially toward the constructive forecast distribution, while the most cautious house still expected that appreciation to reverse.
+
+### What changed through the data window
+
+At the start of the window, EUR/SEK was around 11.05 and the dominant disagreement was already established: **growth/valuation bulls versus rates/flows bears**. ING saw stronger Swedish growth as capable of offsetting wider relative rates and retained a lower EUR/SEK profile; Danske believed relative monetary policy and structural foreign-equity purchases justified levels above 11.00.
+
+The in-window Swedish data strengthened the macro leg of the bullish case: the supplied tape delivered the 1.4% Q2 GDP surprise, stronger real retail volumes and broader confidence before the 6 August core-inflation upside. The important point for the historical consensus reconstruction is that the available public target set did **not** visibly converge around a new single forecast. MUFG’s 3 August profile remained gradual — roughly 11.00 Q3 and 10.90 Q4 on an implied EUR/SEK basis — rather than extrapolating the better Swedish macro data into an aggressive SEK call.
+
+The larger adjustment occurred in price. EUR/SEK fell from 11.0530 on 29 July to 10.9240 by 6 August. This brought spot close to the short-horizon broader-consensus level shown in Danske’s survey chart and close to MUFG’s Q4 implied target, while still leaving room to BNP/ING’s stronger 10.60–10.70 medium-term SEK view.
+
+The window therefore closed with **stronger tactical SEK price action but continuing strategic disagreement**. Forecast dispersion, rather than a uniform revision in targets, remained the defining feature.
+
+### Main consensus drivers
+
+**Relative Swedish growth:**
+The constructive case rested heavily on Sweden’s recovery outperforming the euro area rather than on an imminent Riksbank hike. ING explicitly paired stronger Swedish relative growth with a constructive H2 SEK profile, while Danske also judged the cyclical outlook neutral-to-slightly SEK-positive even though its overall FX call remained cautious.
+
+**Riksbank / ECB relative rates:**
+This was the main dividing line. Danske viewed a prolonged Riksbank wait-and-see stance against a widening ECB rate gap as a material SEK headwind; ING believed the wider differential could be offset by Sweden’s stronger growth and energy backdrop.
+
+**Global risk / energy regime:**
+SEK retained its high-beta exposure to general risk sentiment, the dollar and Middle East developments. Danske explicitly expected summer SEK trading to take its cue largely from the USD, geopolitics and general risk conditions rather than domestic catalysts.
+
+**Structural flows / valuation:**
+Danske identified continued Swedish purchases of foreign assets and renewed household buying of USD/global equities as a medium-term SEK headwind, while its valuation models regarded EUR/SEK above 11.00 as fundamentally justified. The opposing constructive views effectively required stronger growth and valuation convergence to dominate those flow effects.
+
+### Where consensus could be wrong
+
+**Consensus too bullish SEK:**
+If the Riksbank uses sub-1% headline CPIF and labour slack to flatten the June rate path, while the ECB maintains a higher-rate profile and Swedish foreign-asset outflows persist, the move below 11.00 can prove temporary and EUR/SEK can rotate back toward the 11.10–11.30 cautious range.
+
+**Consensus too cautious SEK:**
+If the strong GDP/retail recovery broadens further, CPIF-XE continues to firm and the Riksbank maintains its upward-path optionality, SEK can reach the **10.60–10.80** constructive zone faster than the gradual forecast profiles assume. BNP and ING represented the public versions of that stronger appreciation thesis.
+
+**Key falsification:**
+The clean test is whether **SEK can hold below 11.00 while the Riksbank merely maintains — rather than executes — its hawkish tail**. Persistent appreciation without an actual rate hike would validate the growth/valuation thesis; a rapid EUR/SEK recovery above roughly 11.10 despite strong Swedish activity would favour the carry/flow framework.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Broader Swedish recovery without overheating — strong GDP/retail/sentiment, persistent labour slack and a split headline-versus-core inflation signal.
+* **Change:** Growth moved decisively from fragile stabilization toward recovery; policy shifted toward a better-supported hawkish hold.
+
+### Scoreboard
+
+* **Growth:** + | Q2 GDP +1.4% q/q, retail +1.0% m/m, sentiment above normal.
+* **Labor:** ~ | No fresh release; persistent slack remains the principal constraint.
+* **Inflation:** ~ | Headline CPIF ~0.7%, but CPIF-XE rose to 0.6% and beat materially.
+* **Financial Conditions:** ~ | Housing optimism remains high but stopped improving.
+* **Policy Constraint:** + | Stronger growth/core reduced the case for flattening the June path.
+
+### Major Release Tape
+
+* **** **GDP Q2** — +1.4% q/q vs +0.7% → major recovery upgrade; June exit -0.2%.
+* **** **CPI/CPIF Jul** — headline collapsed on energy, CPIF-XE +0.4% m/m / 0.6% y/y → hawkish composition from a low level.
+* *** **Retail Jun** — +1.0% real m/m → household recovery broadens.
+* *** **NIER Jul** — 104.7 → recovery breadth strengthened.
+* *** **Manufacturing PMI Jul** — 55.8 → expansion intact, momentum/cost pressure softer.
+
+### Central Bank
+
+* **Bias:** Hawkish-leaning hold / maintained upward-path optionality.
+* **Reaction function:** Core persistence plus growth can keep the hike tail alive; labour slack and sub-1% CPIF prevent an automatic move.
+* **Key tape:** No Board remarks; August MPU must adjudicate the GDP/core upgrade.
+
+### Signal Tension
+
+* **Tension:** Stronger growth and firmer ex-energy inflation versus exceptionally weak headline inflation and labour slack.
+* **What resolves it:** Core persistence, labour improvement and the August Riksbank path.
+
+### Key Releases
+
+1. **CPI / CPIF / CPIF-XE** — decisive level-versus-momentum inflation split.
+2. **GDP** — strongest recovery upgrade.
+3. **Retail** — household breadth confirmation.
+4. **NIER** — recovery breadth.
+5. **Manufacturing PMI** — expansion survives but rate of change slows.
+
+### Red Team
+
+* Is Q2 GDP genuine final demand or partly inventory/front-loading?
+* Does CPIF-XE firmness persist enough to justify the June path?
+* Can SEK stay below 11 without an actual Riksbank hike?
+
+### FX Consensus
+
+* **Consensus:** Moderately constructive SEK, but unusually wide house dispersion.
+* **Public-bank range:** EUR/SEK **10.60–11.30** at 6–12M horizons.
+* **Constructive cluster:** **10.60–10.90**.
+* **Cautious / tactical:** **11.00–11.10 summer; 11.20–11.30 medium term**.
+* **At window close:** **10.924** — spot had already moved toward the constructive cluster, reducing tactical upside for SEK.
+* **Drivers:** Relative growth; Riksbank/ECB rates; global risk/energy; structural foreign-asset flows.
+* **Consensus wrong if:** Riksbank flattening plus persistent outflows pushes EUR/SEK back above 11.10; sustained sub-11 trading without a hike validates the growth/valuation bull case.
 
 <<SEK_WEEK_END>>
-
 
 
 <<SEK_WEEK_BEGIN>>
@@ -961,7 +1098,7 @@ Sweden’s labour market had remained a weak component of the Nordic picture. Ju
 
 The release preserves a dovish labour-market input for the Riksbank but is not a fresh policy shock.
 
-CENTRAL BANK TAPE
+D. CENTRAL BANK TAPE
 
 Summary — Policy reaction function
 
@@ -1043,7 +1180,7 @@ Bottom line — central bank tape
 
 The Riksbank’s **formal** stance remained mildly hawkish through the window, but the **data** moved materially dovish. June CPIF and CPIF-XE failed to validate the premise behind the June path tilt, while the energy reversal weakened the imported-inflation mechanism. Stronger growth prevents an outright easing conclusion, but the burden of proof has shifted decisively: another 2026 hike now requires renewed core inflation, SEK weakness or a fresh external-price shock. The most likely policy adjustment from the supplied tape is therefore a quiet flattening of the path rather than a cut or an aggressive hawkish continuation.
 
-SIGNAL TENSION CHECK
+E. SIGNAL TENSION CHECK
 
 Main contradiction: Swedish growth accelerated in both surveys and hard data while household demand and labour remained weak, and underlying inflation stayed exceptionally far below target.
 
@@ -1074,7 +1211,7 @@ Why it matters: Sweden is generating stronger activity without the inflationary 
 
 Implication: The Riksbank can tolerate stronger growth without tightening pre-emptively. The main policy test is whether the industrial and housing recovery eventually broadens into consumption, wages and services inflation while labour slack declines.
 
-3 KEY RELEASES TO DIG INTO
+F. 5 KEY RELEASES TO DIG INTO
 
 *** Sweden — CPI / CPIF Flash (8 Jul)
 
@@ -1088,8 +1225,139 @@ Why it matters: GDP rose 0.9% m/m after 0.6% in April, providing hard-data confi
 
 Why it matters: The PMI rose to 58.3 from an already strong 57.4, reinforcing Sweden’s industrial recovery. Missing sub-index composition prevents a clean distinction between genuine final demand and inventory/supply effects, making subsequent hard-data confirmation especially important.
 
-<<SEK_WEEK_END>>
+G. RED TEAM QUESTIONS
 
+1. Does the strong manufacturing/GDP sequence persist once inventory, defence/export and other volatile production effects are stripped out, or is Sweden’s apparent growth acceleration narrower than the headline data imply?
+
+2. Does industrial strength finally broaden into household consumption, or do weak retail volumes and persistent labour slack show that the recovery remains externally concentrated?
+
+3. Is CPIF-XE at 0.4% genuinely signalling an exceptionally benign domestic inflation regime, or are there temporary measurement/composition effects that could reverse rapidly as growth strengthens?
+
+4. Can the Riksbank maintain even a mildly hawkish 2026 rate path if subsequent core inflation remains materially below target, or does the June CPI print effectively require a flatter August path?
+
+5. Does labour slack begin to fall on a seasonally adjusted basis as output strengthens, or does unemployment remaining near 8.7% reveal a weak employment elasticity of the recovery?
+
+6. Could renewed SEK weakness restore imported inflation strongly enough to revive the 2026 hike case even if domestic core inflation stays subdued?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+**Pair convention: EUR/SEK — a lower pair means a stronger Swedish krona.**
+
+The contemporaneous institutional consensus was **moderately constructive SEK over the medium term, but unusually dispersed on magnitude and timing**. EUR/SEK began the window around 11.10 and was near 11.05 on 24 July, so spot itself changed little despite a large positive Swedish growth surprise and very soft inflation.
+
+The constructive camp argued that Sweden’s stronger relative growth, improving housing cycle, sound fiscal position and eventual global rotation away from the USD would allow SEK to appreciate despite low Swedish rates. BNP Paribas Wealth Management, publishing on 2 July with EUR/SEK around 11.05, targeted **10.80 at three months and 10.60 at twelve months**. ING entered the window neutral tactically but still expected EUR/SEK to decline to **10.70 during H2**, judging Sweden’s stronger growth and lower energy burden sufficient to offset the wider euro-area rate advantage.
+
+The cautious camp was materially less bullish. Danske Bank’s still-relevant May forecast expected EUR/SEK to remain centred around **11.00 near term** and rise toward **11.20 at six and twelve months**, arguing that SEK’s low-yield/high-beta profile, Swedish capital outflows and the risk that the first Riksbank hike would be postponed could keep the krona vulnerable. That disagreement is economically important: public institutional forecasts during the window ranged from meaningful SEK appreciation to mild medium-term depreciation.
+
+MUFG’s 1 July cross-currency forecasts also implied only gradual SEK appreciation. Its published Q4 forecasts of USD/SEK 9.237 and EUR/USD 1.18 imply EUR/SEK near **10.90**, versus roughly 11.07 at the June close. This sits between the strongly constructive BNP/ING cluster and Danske’s cautious view.
+
+**Public-bank 6–12M range:** EUR/SEK approximately **10.60–11.20** across the visible contemporaneous institutional sample.
+
+**Constructive SEK cluster:** EUR/SEK **10.60–10.90**, encompassing BNP’s 10.60 12M target, ING’s 10.70 H2 target and MUFG’s implied ~10.90 Q4 level.
+
+**More cautious / tactical view:** EUR/SEK around **11.00 near term / 11.20 at 6–12M** in Danske’s framework.
+
+**Bias at window close:** **mildly constructive SEK, but low conviction and strongly two-sided**. EUR/SEK around 11.05 sat close to the cautious camp’s near-term fair zone and still roughly 2–4% above the constructive 10.60–10.90 target cluster.
+
+### What changed through the data window
+
+The starting consensus already contained a sharp policy-versus-growth tension. After the 17 June Riksbank meeting, ING judged the Bank’s hawkish shift unconvincing, expected markets to price out a 2026 hike and was neutral EUR/SEK tactically, but retained a 10.70 H2 target because Sweden’s relative growth outlook remained favourable.
+
+The first half of July strengthened the **growth** leg of the bullish-SEK thesis. Manufacturing PMI reached 58.3 and May GDP rose 0.9% m/m. But the inflation data simultaneously weakened the **rates/carry** leg: CPIF fell to 1.3% and CPIF-XE to 0.4%. The net market implication was therefore not a clean SEK repricing. Strong Swedish activity provided valuation and cyclical support, while very low inflation made a near-term Riksbank hike less credible.
+
+This distinction explains why EUR/SEK remained broadly around 11.0–11.1 through the window. BNP’s 2 July view explicitly described the medium-term outlook as cautiously optimistic while acknowledging that SEK remained pressured near term by its low-yield funding-currency characteristics.
+
+The June CPI release subsequently tilted the Riksbank evidence dovish, but did not destroy the constructive FX thesis because the bullish houses were relying substantially on **relative growth, regional fiscal spillovers, valuation and global portfolio rotation rather than an imminent Swedish rate hike**. Conversely, it strengthened Danske’s concern that postponed tightening could leave SEK vulnerable from a relative-rates perspective.
+
+By 24 July, EUR/SEK was around **11.055**, little changed from roughly 11.10 at the start of the window. The key evolution was therefore **not a major forecast revision or spot convergence**, but a sharpening of the disagreement over the transmission channel: strong Swedish growth supported SEK fundamentally, while exceptionally low inflation weakened the carry/policy catalyst needed for a faster appreciation.
+
+### Main consensus drivers
+
+**Relative growth / European industrial cycle:**
+Constructive SEK views were anchored in Swedish growth outperforming the euro area, with spillovers from German fiscal expansion and Sweden’s manufacturing exposure providing medium-term cyclical support.
+
+**Riksbank / ECB relative rates:**
+The main tactical constraint was Sweden’s low yield. ING expected the June Riksbank hawkishness to fade, while Danske warned that a delayed Swedish hike relative to ECB tightening would leave SEK vulnerable from a carry perspective.
+
+**Global risk beta / USD regime:**
+SEK remained a high-beta currency. A benign global growth and liquidity environment, together with capital diversification away from USD assets, favoured appreciation; renewed geopolitical stress or higher global real rates worked in the opposite direction.
+
+**Flows / valuation:**
+The houses disagreed materially here. BNP viewed Sweden’s fiscal fundamentals and medium-term backdrop as supportive, whereas Danske argued that structural foreign-asset purchases and flow-adjusted valuation could justify EUR/SEK around or even above 11.00.
+
+### Where consensus could be wrong
+
+**Consensus too bullish SEK:**
+If CPIF-XE remains deeply below target, the Riksbank abandons its 2026 hike bias, ECB/Swedish rate differentials remain adverse and Swedish households continue directing savings abroad, EUR/SEK can remain around or above 11.00 despite stronger GDP. Danske’s 11.20 medium-term target explicitly represented this risk.
+
+**Consensus too cautious SEK:**
+If the manufacturing/GDP acceleration broadens into consumption and employment while global risk conditions remain supportive, Sweden’s relative growth advantage could dominate the weak carry story. In that case EUR/SEK could converge faster toward the BNP/ING **10.60–10.70** area even without a near-term Riksbank hike.
+
+**Key falsification:**
+The decisive test is whether **strong Swedish relative growth can strengthen SEK without a supporting rates differential**. Persistent EUR/SEK near/above 11.0 despite continued Swedish growth outperformance would favour the cautious flow/carry framework; a sustained break toward 10.7–10.8 while the Riksbank remains on hold would validate the growth/valuation thesis.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Positive-supply Sweden — strong industrial/hard-data growth with exceptionally weak underlying inflation, persistent labour slack and soft household demand.
+* **Change:** Growth strengthened materially, but June inflation falsified rather than confirmed the Riksbank’s mild hawkish tilt.
+
+### Scoreboard
+
+* **Growth:** + | PMI 58.3, GDP +0.9% m/m and private production +5.2% y/y; retail remains weak.
+* **Labor:** - | SA unemployment stuck at a high 8.7%; headline 9.9%.
+* **Inflation:** + | CPIF 1.3%, CPIF-XE only 0.4%; expectations still anchored.
+* **Financial Conditions:** + | Housing expectations improving as easier conditions transmit.
+* **Policy Constraint:** + | June hike bias weakened materially by the inflation undershoot.
+
+### Major Release Tape
+
+* *** **Manufacturing PMI Jun** — 58.3 from 57.4 → strong industrial expansion, composition still unclear.
+* *** **CPI / CPIF Jun** — CPIF 1.3%; CPIF-XE 0.4% → no domestic inflation transmission despite stronger growth.
+* *** **GDP May** — +0.9% m/m after +0.6% → hard-data confirmation of recovery.
+* *** **Production Value May** — private production +0.6% m/m / +5.2% y/y → recovery broad enough to corroborate GDP.
+
+### Minor Tape
+
+* **Minor:** Retail volumes -0.2% m/m; housing-price expectations strengthened; 5Y CPIF expectations held near target at 2.1%; unemployment remained structurally weak.
+
+### Central Bank
+
+* **Bias:** Hawkish-leaning hold on paper; data-driven dovish drift in practice.
+* **Reaction function:** 2026 hike now requires renewed core/imported inflation, material SEK weakness or stronger inflation transmission from the recovery.
+* **Key tape:** CPIF 1.3% / CPIF-XE 0.4% directly weakened the June MPR’s higher-rate-path premise; no Board speaker formally reconciled the shift.
+
+### Signal Tension
+
+* **Tension:** Strong industrial/aggregate growth versus weak household/labour conditions and exceptionally low underlying inflation.
+* **What resolves it:** Whether recovery broadens into consumption, employment, wages and services prices.
+
+### Key Releases
+
+1. **CPI / CPIF** — clearest falsification of the June hawkish tilt.
+2. **Monthly GDP** — strongest hard-data confirmation of recovery.
+3. **Manufacturing PMI** — strongest industrial expansion signal, but composition needs validation.
+
+### Red Team
+
+* Is the GDP/manufacturing acceleration broad or unusually concentrated in external/industrial components?
+* Can the Riksbank retain a 2026 hike bias with CPIF-XE around 0.4%?
+* Can SEK appreciate on relative growth alone if Swedish carry remains unattractive?
+
+### FX Consensus
+
+* **Consensus:** Mildly constructive SEK medium term, but unusually dispersed and low conviction.
+* **Public-bank range:** EUR/SEK **10.60–11.20** at comparable 6–12M horizons.
+* **Constructive cluster:** **10.60–10.90**.
+* **Cautious / tactical:** **~11.00 near term / 11.20 medium term**.
+* **At window close:** EUR/SEK **~11.055** — close to cautious fair value, still above constructive targets.
+* **Drivers:** Relative Swedish growth; Riksbank/ECB carry; global risk/USD regime; structural capital flows/valuation.
+* **Consensus wrong if:** Strong growth fails to strengthen SEK without a rate catalyst; conversely, a break toward 10.7–10.8 despite a Riksbank hold would validate the growth/valuation bull case.
+
+<<SEK_WEEK_END>>
 
 
 <<SEK_WEEK_BEGIN>>
