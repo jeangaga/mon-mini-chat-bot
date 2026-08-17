@@ -1088,6 +1088,47 @@ It must allow the user to:
 - identify regime shifts
 - prepare the final regional weekly note
 
+## DATA WINDOW CALENDAR-WEEK RULE
+
+The `DATA WINDOW` must use a **Sunday-to-Saturday calendar-week convention**, not the exact first and last release dates.
+
+Rules:
+
+1. **Start date = Sunday opening the first included calendar week.**
+
+   * If the first relevant release occurs on Monday, use the immediately preceding Sunday.
+   * If the first relevant release occurs on Sunday, use that Sunday.
+   * More generally, always roll the first included release date back to the Sunday beginning that week.
+
+2. **End date = Saturday closing the last included calendar week.**
+
+   * If the last relevant release occurs Monday-Friday, extend the DATA WINDOW through the following Saturday.
+   * If the last relevant release occurs on Saturday, use that Saturday.
+   * If releases span several weeks, use the Saturday ending the final included week.
+
+3. The purpose is to capture the complete monitoring week, including occasional releases occurring on Sunday, even though most macro releases occur Monday-Friday.
+
+4. Do **not** define the DATA WINDOW as:
+
+   * first release date → last release date;
+   * Monday → Friday;
+   * rolling business-day boundaries.
+
+5. This calendar rule applies to both:
+
+   * live weekly macro files;
+   * end-of-week finalized macro notes.
+
+Example:
+
+First included release: Monday 20 July 2026
+Last included release: Friday 7 August 2026
+
+Correct header:
+
+`DATA WINDOW: 19 July 2026 to 8 August 2026`
+
+because Sunday 19 July opens the first included week and Saturday 8 August closes the final included week.
 
 APPLICATION RULE — CHAT REQUEST EXECUTION DISCIPLINE
 
