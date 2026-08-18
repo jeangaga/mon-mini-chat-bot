@@ -1,4 +1,617 @@
 <<JPY_WEEK_BEGIN>>
+
+DATA WINDOW: 9 August 2026 to 15 August 2026
+
+# A. JPY WEEK — MACRO SYNTHESIS
+
+Japan’s macro configuration shifted toward **stronger corporate resilience alongside an acute imported/upstream inflation constraint**, while the BoJ reaction function hardened materially toward a prepared September hike. August Reuters Tankan partially reversed July’s services weakness while semiconductor-led manufacturing confidence strengthened further, reducing the growth-fragility argument against normalization. June’s balance-of-payments data meanwhile confirmed that expensive energy, freight and rapid import growth are materially worsening Japan’s near-term terms of trade even though the structural external position remains strong and the headline current-account deficit was heavily distorted by dividend timing. Money data remain consistent with accommodative but non-accelerating financial conditions rather than domestic monetary overheating.
+
+Inflation remains the decisive policy constraint. July CGPI stayed exceptionally high at 7.2% y/y and yen-basis import prices were close to 30%, but the monthly flow slowed to +0.1% and to 0.0% excluding the seasonal electricity surcharge: **high inflation stock / softer marginal flow**. The central-bank tape materially strengthens the policy interpretation because the 10 August Summary of Opinions revealed that **at least three of nine members** argued for a faster pace of tightening than the established roughly twice-yearly cadence, while “many” placed greater weight on overshoot risk. The July 8–1 hold therefore understated the hawkish distribution. Joint U.S.–Japan intervention was also officially confirmed and the September communication runway was assembled. The regime is consequently **resilient activity + severe imported inflation + increasingly pre-emptive BoJ**, but the final validation still depends on CPI/pass-through: the Bank is preparing to act ahead of full consumer-price confirmation, even as the marginal producer-price impulse begins to cool.
+
+# B. JPY MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+Reuters Tankan non-manufacturing confidence improved to +28 from +25 while manufacturing strengthened to +18 from +13, with semiconductor-related chemicals and machinery leading. The improvement repairs part of July’s service-sector deterioration and reduces the immediate growth-fragility objection to normalization. Autos remain weak and manufacturers expect some November moderation, so the signal is constructive rather than generalized overheating.
+
+Labor: ~
+Supporting evidence:
+No direct labour-market release was contained in the supplied Japan archive for this window. The evidence is therefore insufficient to assign a directional labour signal.
+
+Inflation: -
+Supporting evidence:
+CGPI remained extremely elevated at 7.2% y/y, yen-basis import prices were +29.1% and non-ferrous metals +40.6%, while the external account confirmed worsening oil and freight costs. The adverse inflation signal is tempered by a clear slowdown in monthly producer-price momentum: +0.1% m/m and 0.0% excluding the seasonal electricity surcharge.
+
+Financial Conditions: ~
+Supporting evidence:
+M2 remained +2.2% y/y and July reversed June’s monthly contraction, while broad liquidity stayed firm. This argues against monetary stress but also against a fresh domestic-liquidity boom. The current-account deterioration weakens near-term external-flow support for JPY, while official confirmation of coordinated U.S.–Japan intervention strengthens the policy backstop around disorderly yen depreciation without changing the underlying rate differential.
+
+Policy Constraint: -
+Supporting evidence:
+The policy constraint tightened materially. The 10 August Summary of Opinions showed **at least three of nine members** favouring a faster hiking cadence, with “many” focusing increasingly on upside/overshoot risk from weak-yen import costs, AI-related demand and Middle East energy pressure. The BoJ remains at 1.00%, but the September 17–18 meeting is now prepared as the next tightening point. The main counterweight is that CPI confirmation remains incomplete and July CGPI shows a softer marginal flow.
+
+# C. FULL RELEASE ARCHIVE
+
+MONDAY 10 AUG 2026
+
+Japan — Balance of Payments / Current Account / Trade Balance (Jun)
+
+Release Date: 10 Aug 2026 | Local Time: 01:50
+Importance: ***
+
+1. Reuters Data
+
+Current Account NSA JPY: -92,3B | Prior: 3 968,3B | Poll: 1 512,0B | Surprise: -1 604,30B
+
+Current Account Bal SA: 1 396 900M | Prior: 3 064 500M
+
+Trade Bal Cust Basis SA: -580 795,00M | Prior: 204 491,00M
+
+2. Professional Market Commentary
+
+The headline was a very large current-account miss: Japan moved into a ¥92.3bn deficit in June, its first monthly deficit in 17 months, versus a Reuters consensus for a ¥1.512tn surplus.
+
+The dominant professional interpretation, however, was composition over headline rather than a sudden structural external-balance break. Reuters identified a 74% collapse in the primary-income surplus to roughly ¥380bn, driven largely by larger dividend payments to overseas investors, as the main reason for the swing.
+
+The adverse trade / terms-of-trade channel nevertheless strengthened materially underneath the dividend distortion. Official detail showed imports rising much faster than exports, a deterioration in the goods balance, sharply higher oil-import costs and a substantial increase in sea-freight payments. Seasonally adjusted imports rose 6.1% m/m while the SA goods balance swung to a ¥580.8bn deficit.
+
+That weakness sits against a very different medium-term external picture. Japan's current-account surplus for H1 2026 reached a record ¥17.4tn, +22.5% y/y, supported by stronger trade performance and semiconductor-related exports.
+
+No qualifying independent named-economist debate was identified.
+
+3. Comment — Economist Layer
+
+This is a real deterioration in the monthly external-account configuration, but the ¥92.3bn headline deficit materially overstates the structural deterioration.
+
+Signal hierarchy:
+
+* headline: first deficit in 17 months and a ¥1.604tn downside surprise
+* seasonally adjusted current account: ¥1.397tn versus ¥3.065tn previously
+* trade leg: SA balance moved from +¥204.5bn to -¥580.8bn
+* import momentum: SA imports +6.1% m/m versus exports -1.6%
+* energy shock: crude-import value surged despite falling physical volumes, pointing to a price / FX rather than domestic-demand impulse
+* shipping-cost channel: the wider transport and sea-freight deficits confirm that the external supply shock is feeding directly into service imports
+* primary income: the exceptional June compression was dominated by dividend payments to non-resident investors rather than a collapse in Japan's overseas earning capacity
+* structural cross-check: the H1 current-account surplus remained a record ¥17.43tn, strongly arguing against a conventional balance-of-payments-stress interpretation.
+
+The key distinction is between two separate negatives.
+
+First, the primary-income collapse is largely a timing / composition effect. Reuters attributes much of the decline to larger dividend payouts, while the half-year data show that Japan's underlying overseas-income machine remains extremely large.
+
+Second, the deterioration in the trade and services legs is more macro-relevant. The prior Japan sequence had already identified expensive energy and yen weakness as compressing the external surplus while investment income buffered the current account. June confirms that mechanism: imports accelerate sharply and the seasonally adjusted trade balance turns negative.
+
+The useful signal is therefore not “Japan has lost its structural external surplus.” It is that the lagged energy / import-cost deterioration has arrived, while semiconductor exports and foreign-asset income continue to prevent that deterioration from becoming an external-funding problem.
+
+The large monthly financial-account movements and errors and omissions should receive lower cyclical weight. They make the financing arithmetic noisy and should not be mapped mechanically into a durable JPY funding signal without confirmation.
+
+State transition: deterioration — the import-cost shock is now visible in the trade and services accounts, while the headline current-account deficit is amplified by dividend timing rather than signalling structural external stress.
+
+Context from prior regional live file:
+
+Japan's prior trade sequence already showed an export-resilient but energy-squeezed economy: June customs trade recorded exports +19.3% y/y but imports +25.4%, with the import-cost shock identified as the principal marginal deterioration. The June BoP confirms that configuration at the broader external-account level. Japan's structural external position remains strong, but the near-term terms-of-trade burden has clearly worsened.
+
+4. HF Take — Strategist Layer
+
+The clean market interpretation is JPY-negative at the external-flow margin, but not a structural bearish balance-of-payments signal.
+
+For JPY:
+
+* the ¥1.6tn headline miss and worsening SA trade balance reduce near-term fundamental external support
+* higher oil and freight costs strengthen the adverse weak-yen / import-price feedback loop
+* the record H1 surplus and continued foreign-investment-income strength argue against extrapolating June into a persistent deficit regime
+* the dividend distortion makes the NSA headline substantially less informative than the trade/import deterioration underneath it.
+
+For the BoJ reaction function, the signal is two-sided.
+
+Higher imported energy and transport costs can sustain headline and corporate inflation and reinforce concern about FX-driven import-price pass-through. But this is poor-quality inflation from a policy perspective: the same shock compresses household real income and corporate margins rather than demonstrating stronger domestic demand.
+
+The release therefore raises the inflation constraint without independently establishing that domestic activity can absorb materially faster normalization.
+
+The key verification is whether the external-price shock remains a relative-price event or spreads into wages, services prices and inflation expectations.
+
+WEDNESDAY 12 AUG 2026
+
+Japan — Reuters Tankan Non-Manufacturing Index (Aug)
+
+Release Date: 12 Aug 2026 | Local Time: 01:00
+Importance: ***
+
+1. Reuters Data
+
+Reuters Tankan N-Man Idx: 28 | Prior: 25
+
+2. Professional Market Commentary
+
+The Reuters Tankan showed business confidence improving across both sides of the economy, with different underlying engines.
+
+Non-manufacturing sentiment rose to +28 from +25, supported by broad gains across wholesale trade, information services and other services. Manufacturing sentiment strengthened more sharply to +18 from +13, its highest since March, led by semiconductor-related chemicals and metal / machinery. Transport equipment remained the clear laggard at zero.
+
+The forward signal was less uniformly strong: manufacturers expected the index to ease to +16 in November, while non-manufacturers expected +28 to hold. The survey therefore reads as a genuine current improvement with some manufacturing caution rather than an unqualified acceleration.
+
+No qualifying independent named-economist debate or release-specific market reaction was identified.
+
+3. Comment — Economist Layer
+
+This is a meaningful improvement in Japan's corporate-confidence pulse, and importantly it repairs part of the weakness visible in July.
+
+Signal hierarchy:
+
+* services direction: +28 from +25 reverses part of July's seven-point deterioration
+* services breadth: gains spread across wholesale, information services and other services rather than being concentrated in one category
+* manufacturing momentum: +18 from +13 represents a further acceleration in the already-strong semiconductor / AI-linked industrial channel
+* chemicals: +33 from +23
+* metal and machinery: +25 from +12
+* autos: transport equipment at zero remains the principal sectoral hole
+* forward signal: manufacturing expectations at +16 imply some expected cooling, while services are expected to hold their August improvement
+* survey quality: 219 of 510 firms responded, making the Reuters Tankan timely but narrower than the official BOJ Tankan.
+
+The most important development is not simply the +3-point non-manufacturing headline.
+
+July had produced an uncomfortable split: semiconductor-linked manufacturing remained resilient at +13 while services fell to +25 under pressure from imported costs, yen weakness and higher interest rates. August improves both legs simultaneously — manufacturing accelerates while services regain some ground.
+
+The semiconductor evidence is also stronger than a single sentiment headline. Survey respondents described unusually strong order intake in chip-related machinery, fitting the broader AI-capex support already visible in the Japan industrial and export sequence.
+
+The caveat is extrapolation. Manufacturing remains disproportionately driven by semiconductor-linked industries, autos have not joined the improvement and firms themselves expect some easing by November.
+
+A remaining question is whether exceptional chip orders represent durable final AI demand or contain some precautionary / pull-forward component.
+
+State transition: reversal — July's services deterioration partially unwinds while semiconductor-led manufacturing strength accelerates.
+
+Context from prior regional live file:
+
+July Reuters Tankan had shown non-manufacturing sentiment falling to +25 from +32 while semiconductor-supported manufacturing held at +13, leaving Japan's corporate picture resilient but sharply bifurcated. August partially reverses that services deterioration and strengthens the manufacturing leg. The corporate-growth signal therefore becomes more broadly constructive again, although it remains heavily dependent on technology demand.
+
+4. HF Take — Strategist Layer
+
+This is incrementally supportive of BOJ normalization, but it is not a standalone tightening trigger.
+
+The useful reaction-function signal is cumulative:
+
+* stronger services confidence reduces the argument that imported-cost pressure is already producing a broad domestic-demand break
+* accelerating manufacturing confidence reinforces the evidence that global AI / semiconductor demand is providing Japan with an industrial buffer
+* continued weakness in autos and softer November manufacturing expectations argue against treating the print as evidence of generalized overheating
+* the Reuters survey remains secondary to wages, CPI, hard household activity and the official Tankan
+
+This resilience matters more given the BOJ's July Summary of Opinions. Board-member submissions emphasized that AI demand was cushioning the adverse terms-of-trade shock and that Japan's economy had shown resilience despite the Middle East shock. Several opinions also argued that upside price risks deserved greater weight and that the pace of hikes might need to become faster or more nimble depending on the data.
+
+JPY / JGB mapping: mildly supportive of the normalization / JPY side at the margin, mainly by removing some growth-fragility risk rather than adding a new inflation shock.
+
+A stronger hawkish interpretation would require the confidence improvement to translate into wages, investment and domestic demand rather than remain predominantly semiconductor-driven.
+
+Japan — M2 Money Supply / Broad Money (Jul)
+
+Release Date: 12 Aug 2026 | Local Time: 01:50
+Importance: **
+
+1. Reuters Data
+
+M2 Money Supply: 1 293 588 300M | Prior: 1 291 809 700M | Revised: 1 291 493 200M
+
+Broad Money: 2 330,6T | Prior: 2 327,9T | Revised: 2 328,2T
+
+2. Professional Market Commentary
+
+No Tier 1 institutional debate detected.
+
+The useful framing is record liquidity levels but no renewed acceleration in the monetary impulse.
+
+The BOJ's official July release showed M2 growth unchanged at 2.2% y/y after the slowdown from May's 2.5%, while broadly-defined liquidity eased marginally to 4.4% y/y. Sequentially, however, M2 rebounded at a 2.0% seasonally adjusted annualized rate after June's revised -0.9%, so the prior month's outright contraction did not continue.
+
+Composition was much stronger in financial assets than in transaction money. Currency in circulation fell 1.2% y/y, deposit money rose only 0.2% and quasi-money increased 4.3%. Within broadly-defined liquidity, investment trusts accelerated to +13.1% y/y and reached ¥126.0tn, while foreign bonds rose 6.1% and government securities 18.8%.
+
+3. Comment — Economist Layer
+
+This release reinforces the distinction between liquidity level and liquidity momentum.
+
+Key hierarchy:
+
+* M2 level: ¥1,293.6tn on the seasonally adjusted BOJ basis
+* M2 annual growth: unchanged at 2.2%, below May's 2.5% peak
+* monthly impulse: +2.0% annualized after June's revised -0.9%
+* broad liquidity: record ¥2,338.4tn on the NSA measure, but y/y growth edged down to 4.4%
+* transaction money: weak, with cash -1.2% and deposit money only +0.2%
+* quasi-money: +4.3%, consistent with stronger demand for interest-bearing deposit-type instruments
+* portfolio composition: investment trusts +13.1% and foreign bonds +6.1% show substantial financial-asset accumulation outside conventional deposits.
+
+The July rebound matters because June had raised the question of whether BOJ normalization was beginning to generate a persistent contraction in private-sector liquidity.
+
+July does not validate that concern: the monthly M2 decline reverses, annual M2 growth remains positive and broad liquidity stays firm.
+
+But the opposite interpretation — renewed monetary acceleration — is also too strong. M2's y/y growth peaked at 2.5% in May and has remained at 2.2% for two months.
+
+The money data therefore remain consistent with gradual transmission from normalization without monetary stress, rather than either restrictive contraction or an excess-liquidity reacceleration.
+
+The investment-trust surge should be treated primarily as portfolio allocation rather than direct nominal-demand evidence. Likewise, the foreign-bond component mixes active accumulation with FX valuation effects and should not be mapped mechanically into a JPY-outflow signal.
+
+State transition: continuation — normalization is slowing the monetary-growth impulse at the margin, but broad private-sector liquidity continues to expand and July reverses June's monthly contraction.
+
+Context from prior regional live file:
+
+Earlier money-stock releases had already shown that Japan's inflation shock was not being accompanied by an obvious domestic monetary acceleration. July preserves that configuration: money remains plentiful and financial conditions are not contracting sharply, but the growth impulse is far less striking than the inflation pipeline. The inflation story therefore continues to run primarily through costs, FX and pass-through rather than monetary overheating.
+
+4. HF Take — Strategist Layer
+
+Standalone JPY / JGB relevance remains low.
+
+For the BOJ reaction function, the release is broadly neutral:
+
+* it does not show monetary conditions becoming sufficiently restrictive to force policy caution
+* it does not show a fresh domestic-liquidity boom that would strengthen the case for faster tightening
+* continued positive M2 and broad-liquidity growth leave room for gradual normalization
+* slowing y/y momentum argues against using monetary aggregates as evidence of domestic-demand overheating
+* portfolio rotation into investment trusts is structurally interesting but should not be mapped directly into consumption or inflation
+
+The BOJ's July Summary of Opinions similarly characterized financial conditions as accommodative, with negative short-term real rates, proactive lending attitudes and increasing demand for funds.
+
+The more important Japan inflation assessment therefore remains wages, services prices, import costs and corporate pricing rather than accelerating money supply.
+
+A materially more dovish monetary signal would require several months of outright M2 weakness accompanied by softer deposits and credit creation. July does not meet that threshold.
+
+THURSDAY 13 AUG 2026
+
+Japan — Corporate Goods Price Index (Jul)
+
+Release Date: 13 Aug 2026 | Local Time: 01:50
+Importance: ****
+
+1. Reuters Data
+
+Corp Goods Price MM: 0,1% | Prior: 0,4% | Revised: 0,5% | Poll: 0,6% | Surprise: -0,50%
+
+Corp Goods Price YY: 7,2% | Prior: 7,1% | Revised: 7,3% | Poll: 7,4% | Surprise: -0,20%
+
+2. Professional Market Commentary
+
+The institutional framing remained hawkish despite the downside surprise.
+
+Japan's producer-price inflation held at an exceptionally elevated 7.2% y/y in July, only marginally below June's revised 7.3%. Reuters emphasized continued pressure from metals, AI-related demand, energy and yen weakness and linked the report to increased expectations of another BOJ hike.
+
+The official BOJ detail gives the report an important second layer: near-term momentum cooled much more sharply than the annual rate suggests.
+
+CGPI rose only 0.1% m/m after June's revised +0.5%, and the index excluding the seasonal summer-electricity surcharge was unchanged on the month.
+
+Monthly composition was explicitly two-sided. Electricity / gas / water added +0.23pp, while petroleum and coal subtracted 0.20pp and chemicals 0.18pp as the earlier oil impulse retraced. Non-ferrous metals, food, plastics, electrical machinery and steel provided smaller positive contributions.
+
+Masato Koike of Sompo Institute Plus nevertheless argued that wholesale inflation could reaccelerate if renewed Middle East tension lifted crude prices again, with further yen weakness providing an additional import-cost channel.
+
+3. Comment — Economist Layer
+
+This is a high-level inflation print with a materially softer marginal impulse. Both facts need to be retained.
+
+Signal hierarchy:
+
+* annual CGPI: 7.2% y/y — still close to June's revised 7.3%
+* monthly CGPI: +0.1%, a 0.4pp deceleration from revised June and 0.5pp below consensus
+* underlying July momentum: 0.0% m/m excluding summer electricity surcharges
+* non-ferrous metals: +40.6% y/y
+* chemicals: +12.9% y/y
+* petroleum and coal: +17.5% y/y, but already subtracting from the July monthly move
+* yen-basis import prices: +29.1% y/y
+* contract-currency import prices: materially lower than the yen-basis rate, confirming that FX remains a major contributor to imported inflation
+* AI supply chain: electronic components and memory-chip prices provide an additional non-energy cost channel.
+
+The key distinction is stock versus flow.
+
+The inflation stock remains uncomfortable. Producer prices are above 7%, yen-basis import prices are rising close to 30% and metals inflation is exceptionally strong. This validates the BOJ's concern that upstream price pressure could migrate into consumer prices.
+
+But the July flow is clearly softer. The entire +0.1% monthly headline disappears once the seasonal electricity charge is removed, while petroleum and chemicals jointly subtract 0.38pp. July is therefore not another April-June-style acceleration month.
+
+Some of the upstream inflation is reversible external cost pressure — oil, freight and the yen. Some is potentially stickier or structurally stronger — metals, AI-linked electronic components, food, utilities and domestic corporate price-setting.
+
+JGM note:
+
+July PPI remains extremely elevated but shows a first sign of peaking at the margin: 7.2% y/y after June's revised 7.3%.
+
+The yen channel remains crucial. Import prices are around 29% y/y on a yen basis, with a roughly 11pp gap versus contract-currency inflation, showing the extent to which JPY depreciation amplifies the external cost shock.
+
+JGM also highlights the acceleration in non-ferrous-metal inflation as an important AI-demand channel rather than a pure Middle East / oil story.
+
+Three principal upside risks for the BOJ inflation outlook:
+
+* Middle East / energy
+* global AI-related demand and metals prices
+* FX depreciation
+
+The key concern is the PPI-to-CPI pass-through. The policy relevance of producer inflation depends increasingly on whether these upstream costs propagate into final consumer prices rather than simply compress corporate margins.
+
+State transition: stabilization — upstream inflation remains extremely elevated and broad, but July breaks the prior sequence of rapid monthly acceleration.
+
+Context from prior regional live file:
+
+June CGPI had accelerated to a revised 7.3% y/y, after the prior sequence had already established energy, metals and weak-yen import prices as the main inflation shock. July leaves that high-level regime intact but sharply reduces monthly momentum, with prices flat once the seasonal electricity surcharge is removed. The inflation pipeline therefore remains dangerous, but it is no longer accelerating cleanly month after month.
+
+4. HF Take — Strategist Layer
+
+This remains hawkish for the BOJ reaction function, but the correct interpretation is more nuanced than the 7.2% y/y headline.
+
+The BOJ has three reasons not to dismiss the release:
+
+* wholesale inflation remains near its recent peak
+* yen-based import inflation remains close to 30%
+* pressure extends beyond energy into metals and AI-sensitive industrial inputs.
+
+At the same time, the 0.1% m/m / 0.0% ex-electricity detail argues against treating July itself as a fresh inflation acceleration.
+
+JGM policy overlay:
+
+JGM reads the July BOJ Summary of Opinions as more hawkish than Ueda's post-meeting communication. That interpretation is directionally consistent with the official summary: several opinions argued for greater attention to upside inflation risks, a more nimble reaction function, and potentially a faster pace of hikes than market expectations.
+
+The official Summary also states that underlying CPI inflation is approaching 2%, that inflation expectations have been rising and that Middle East developments, AI-related demand and yen depreciation all exert upward pressure on prices.
+
+JGM therefore has a firmer expectation of a September hike.
+
+Bessent's public encouragement of earlier BOJ tightening should not be interpreted as something the BOJ mechanically reacts to. JGM's point is instead that such communication can influence market expectations and therefore the pricing environment surrounding the BOJ. Reuters also identified Bessent's comments and recent FX-policy developments as part of the backdrop supporting September-hike expectations.
+
+JGM working policy path:
+
+* current policy rate: 1.00%
+* September: +25bp
+* January: +25bp
+* April: +25bp
+* working terminal-rate assumption: 1.75%
+
+The tactical question is whether the BOJ shifts from roughly six-month intervals between hikes toward a three- to four-month cadence before eventually ending the normalization cycle.
+
+JGM also flags September 2027 as a medium-term institutional consideration because future Board composition under Takaichi could become more dovish. This is a secondary horizon issue rather than a driver of the September 2026 decision.
+
+Integrated policy read:
+
+July CGPI by itself is softer at the margin, but this does not materially weaken the near-term hike case. The BOJ is confronting three separate upstream risks — Middle East energy prices, AI / metals demand and JPY weakness — while the July Summary of Opinions shows greater concern about upside inflation risk and the appropriate pace of normalization.
+
+JPY / JGB mapping:
+
+* front end: hawkish bias remains
+* JPY: relative-rate support is positive, but the inflation source remains partly yen weakness itself
+* long end: persistent inflation and faster-normalization risk keep upward yield pressure active
+* equities: semiconductor-linked demand strength and import / energy margin compression remain sharply differentiated by sector
+
+The central question is now less “is upstream inflation high?” and more “does the high upstream level continue propagating after the marginal oil impulse fades?”
+
+# D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The 9–15 August window materially strengthened the BoJ tightening setup despite containing no on-record Governor, Deputy Governor or Board-member speeches because the **10 August Summary of Opinions** revealed a significantly more hawkish committee distribution than the July 8–1 hold vote implied. At least three of nine members argued for a faster pace than the established roughly twice-yearly cadence, “many” placed greater weight on upside/overshoot risks, and the policy debate explicitly focused on weak-yen import costs, AI-related demand and Middle East fuel pressure. Around that document, the September architecture hardened further: the 30 July intervention was officially confirmed as jointly executed by Japan and the United States, U.S. Treasury communication was reported as supportive of earlier BoJ tightening, and a clustered pre-meeting speech runway was scheduled ahead of the confirmed 17–18 September meeting. The policy state exits the window as **hawkish hold at 1.00% / September hike prepared**, with faster-cadence risk materially higher than the formal July vote suggested.
+
+**Bank of Japan — Summary of Opinions, 30–31 July MPM — 10 Aug**
+Importance: ****
+
+Key policy signal:
+The faster-normalization view was not confined to the single visible July dissenter. **At least three of nine members** argued that rate increases could proceed faster than the current roughly twice-yearly pace, while “many” members focused increasingly on the risk of inflation overshooting through weak-yen import costs, AI-related demand and Middle East energy pressure.
+
+Representative quote:
+“the pace of rate hikes could be faster than markets expect”
+
+Incremental reaction function:
+The committee-balance model must be re-rated. Takata’s 1.25% proposal was the visible expression of a broader faster-cadence bloc rather than an isolated dissent. The burden of argument consequently shifts toward explaining why the Bank should *not* hike in September, although the precise identity and size of the centrist support remain uncertain because Summary-of-Opinions comments are unattributed.
+
+**Bank of Japan — Summary of Opinions mandate framing — 10 Aug**
+Importance: ***
+
+Key policy signal:
+One opinion stated that the focus of monetary policy had shifted away from trying to push underlying inflation higher and toward preventing an overshoot.
+
+Representative quote:
+“preventing it from overshooting”
+
+Incremental reaction function:
+This is an important shift toward **pre-emptive normalization**. It gives the BoJ a framework for tightening before realized CPI fully confirms a persistent overshoot, provided the projected inflation path, FX/import-cost shock and expectations remain sufficiently strong.
+
+**Japan / United States — joint FX-intervention confirmation — around 10 Aug**
+Importance: ***
+
+Key policy signal:
+The 30 July yen-support operation was officially confirmed as a jointly executed Japan–U.S. intervention.
+
+Representative quote:
+No validated short quote supplied.
+
+Incremental reaction function:
+The policy architecture now combines monetary normalization with a credible bilateral FX-defense backstop. This does not mean the BoJ mechanically reacts to intervention, but it reduces the external/political constraint on tighter Japanese policy and reinforces the view that durable yen stabilization ultimately requires some rate-differential compression.
+
+**U.S. Treasury / Bessent — in-window institutional communication**
+Importance: ***
+
+Key policy signal:
+The validated chatterbox reports source-relayed U.S. Treasury support for earlier BoJ tightening and notes that Nomura’s Iwashita treated similar Bessent signals as historically relevant ahead of prior BoJ moves.
+
+Representative quote:
+No clean primary-source quote validated; none reproduced.
+
+Incremental reaction function:
+The signal is directionally hawkish but should be capped below the official Summary of Opinions because the direct quote chain is incomplete. The important implication is external alignment rather than an independent BoJ policy trigger.
+
+**Pre-September communication runway — scheduled during window**
+Importance: **
+
+Key policy signal:
+Himino, Takata and Masu were scheduled for pre-meeting speaking appearances, with Masu on 10 September, ahead of the 17–18 September MPM.
+
+Representative quote:
+None — scheduling signal.
+
+Incremental reaction function:
+The cluster creates a clear communication runway for preparing or challenging a September hike. Himino and Masu are especially valuable marginal-vote signals; another Takata hawkish message would contain less incremental information.
+
+**Council / Board communication — 9–15 Aug**
+Importance: *
+
+Key policy signal:
+No on-record BoJ policymaker remarks during the Obon week.
+
+Representative quote:
+None.
+
+Incremental reaction function:
+Unlike a normal silence window, the absence of speeches should not be treated as policy information because of the holiday calendar and the already-scheduled September communication sequence.
+
+Bottom line — central bank tape
+
+**Base case:** **25bp hike to 1.25% on 17–18 September.** The Summary of Opinions materially lowers the perceived bar by revealing a ≥3-member faster-cadence bloc and broader concern over overshoot risk.
+
+**Hawkish scenario:** stronger CPI pass-through, hawkish Himino/Masu communication and renewed USD/JPY pressure around or above 160 support a September hike with December kept live and a transition toward a three-to-four-month cadence.
+
+**Dovish scenario:** materially softer CPI/pass-through plus weaker activity and more cautious pre-meeting communication could preserve the September hike but weaken follow-through; an outright September skip would require a larger deterioration or easing in the FX/energy pressure than currently embedded in the supplied tape.
+
+**Committee split:** faster-pace bloc ≥3/9; “many” members adopting overshoot-focused language; the exact center/reflationist distribution remains unresolved.
+
+**Communication asymmetry:** the September hike is increasingly prepared in expectations, so a centrist/dovish challenge from Himino, Masu or another heavyweight would carry more incremental information than another hawkish confirmation.
+
+**Audit caution:** the source characterization that September was “all but locked in” was not accompanied by a clean public OIS print. Do not convert that sourced characterization into a verified probability. The Bessent communication is also source-relayed rather than supported by a clean primary quote.
+
+# E. SIGNAL TENSION CHECK
+
+Main contradiction:
+The BoJ is becoming **more pre-emptively hawkish at the same moment that the marginal producer-price impulse is beginning to cool**. The Summary of Opinions reveals a broader faster-hike bloc and a shift toward overshoot prevention, yet July CGPI was flat excluding the seasonal electricity surcharge and much of the inflation shock still originates in energy, FX and imported costs rather than domestic overheating.
+
+Why it matters:
+September can be justified on a forward-looking pass-through/FX-risk framework even without an explosive CPI print, but the case for a faster subsequent cadence is much more dependent on whether the high producer/import-price stock actually propagates into consumer prices, wages and services.
+
+Implication:
+A September hike is the base case, but the **September-vs-terminal-path distinction is crucial**: soft pass-through may not prevent the first hike, yet it could quickly undermine the December/January follow-through and the broader faster-normalization thesis.
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+**** Japan — Corporate Goods Price Index (13 Aug)
+
+Why it matters: The central inflation release of the window. CGPI remained 7.2% y/y, yen-basis import inflation reached 29.1% and non-ferrous metals rose 40.6%, keeping the BOJ constraint high. But 0.0% m/m excluding the electricity surcharge is the clearest evidence yet that the marginal producer-price impulse may be peaking. This is the core stock-versus-flow tension.
+
+*** Japan — Balance of Payments / Current Account (10 Aug)
+
+Why it matters: The ¥1.6tn downside headline surprise is heavily distorted by dividend timing, but the SA trade deterioration, rapid import growth, oil bill and freight costs establish that the adverse terms-of-trade channel is real. Structural external support remains strong because the H1 current-account surplus was still a record.
+
+*** Japan — Reuters Tankan (12 Aug)
+
+Why it matters: Services confidence recovered while semiconductor-led manufacturing strengthened to +18. The release materially reduces the growth-fragility counterargument to BOJ normalization, although autos remain weak and manufacturers expect some moderation by November.
+
+** Japan — M2 / Broad Money (12 Aug)
+
+Why it matters: Money data show neither monetary stress nor a domestic-liquidity boom. M2 remains +2.2% y/y and July reverses June’s monthly contraction, reinforcing the view that Japan’s inflation shock is being transmitted primarily through imported costs, FX and corporate pass-through rather than excess monetary growth.
+
+# G. RED TEAM QUESTIONS
+
+1. Does the Summary of Opinions genuinely show the **center** moving toward a faster cadence, or could the documented ≥3-member bloc still be limited to the established hawks plus one additional outlier?
+2. Does 0.0% m/m CGPI excluding the electricity surcharge mark a genuine turning point in upstream inflation, or only a temporary oil retracement before renewed energy/FX pressure?
+3. If national CPI remains subdued, how far can the BoJ push the **overshoot-prevention** framework before the distinction between forecast inflation and realized domestic inflation becomes binding?
+4. Would a September hike still justify keeping December/January live if subsequent CPI, wages and services fail to validate stronger PPI/import-price pass-through?
+5. Does Himino or Masu explicitly endorse the faster-cadence framing before the September meeting, or does the marginal center remain more cautious than the Summary-of-Opinions reporting suggests?
+6. After stripping out June dividend seasonality, is the deterioration in trade, energy and freight costs large enough to offset Japan’s record structural current-account surplus as a JPY support?
+7. If USD/JPY remains near or above 160 despite a September BoJ hike and coordinated intervention credibility, does that falsify the assumption that modest policy-differential compression is sufficient to produce durable yen appreciation?
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+**Pair convention: USD/JPY.**
+
+The point-in-time institutional consensus entering the 9–15 August window was **medium-term constructive JPY but distinctly cautious tactically**. A Reuters FX poll conducted 31 July–5 August put the median USD/JPY forecast at **159 in three months, 157 in six months and 154 in twelve months**. That implied eventual yen appreciation, but only modest near-term improvement because intervention alone was not expected to overcome the still-large U.S.–Japan rate differential, weak Japanese growth fundamentals and persistent carry demand.
+
+The publicly visible bank sample had the same basic shape but considerable dispersion. MUFG’s 3 August forecast was **158 for Q3 and 156 for Q4**, compared with Bloomberg consensus levels of 160 and 159 respectively. ING’s summer framework saw USD/JPY capable of remaining around 160 for several months, potentially approaching 165 before intervention, while maintaining a **158 year-end** forecast. BNP Paribas remained more cautious on JPY appreciation, forecasting **160 for Q4 2026**. The resulting public-bank Q4 cluster was therefore broad enough to reflect genuine disagreement over whether BOJ normalization could overcome carry and Japan’s energy/fiscal vulnerabilities.
+
+Price action during the window was weaker for JPY than that medium-term forecast bias might suggest. By 14 August the yen was around **159.37 per dollar**, heading for its worst week in three months and again approaching the politically sensitive 160 area despite the earlier joint U.S.–Japan intervention. The underlying rate differential was still large enough to sustain carry demand. At the same time, BOJ expectations shifted materially: Reuters reported the market pricing a roughly **76% September-hike probability on 13 August**, versus 24% on 30 July, and nearly 80% by 14 August as reporting pointed toward an earlier and potentially faster hiking cycle.
+
+**Public-bank Q4 2026 range:** **156–160 USD/JPY**
+
+**Constructive JPY cluster:** **156–158 USD/JPY** — MUFG 156 Q4; ING 158 year-end.
+
+**More cautious / tactical view:** **159–160**, with upside tail toward **165** while carry/rate differentials dominate — consistent with the Reuters near-term median, BNP’s Q4 forecast and ING’s tactical range.
+
+**Bias at window close:** **constructive JPY medium term, but tactically fragile**. USD/JPY near 159.4 was already above MUFG’s Q3 target and close to the Reuters three-month median, while the yen had surrendered a significant part of its post-intervention gains despite sharply rising September BOJ-hike expectations.
+
+### What changed through the data window
+
+The window began after an unusually forceful late-July/early-August intervention episode had temporarily driven USD/JPY down sharply. The Reuters poll taken immediately afterward still concluded that intervention was **not a fundamental game changer**: strategists expected the yen to remain weak in the near term unless BOJ policy became more hawkish, rate differentials narrowed, energy prices declined or Japanese capital was repatriated.
+
+During 12–14 August, two developments improved the medium-term JPY case without immediately producing sustained appreciation. Benign U.S. inflation data reduced Fed-hike expectations, while Japanese wholesale inflation and subsequent Reuters reporting materially increased expectations of a September BOJ hike and possibly a faster tightening cadence thereafter. Yet USD/JPY still hovered near 159.4–159.5 because the U.S.–Japan yield gap remained large and carry remained attractive.
+
+The key evolution was therefore **policy-expectation convergence without equivalent spot convergence**. The probability of an early BOJ hike rose sharply, but the yen remained near the 160 intervention zone. That left the market effectively demanding either an actual BOJ delivery/faster path, a clearer turn in the Fed cycle or renewed intervention before abandoning carry-funded USD/JPY longs.
+
+### Main consensus drivers
+
+**BOJ normalization / rate differential:**
+The dominant constructive-JPY thesis was that earlier and potentially more frequent BOJ hikes would narrow the still-large yield differential. By 14 August Reuters reported nearly 80% market pricing for a September hike, but the gap remained wide enough that expectations alone had not reversed carry demand.
+
+**Intervention / policy coordination:**
+The rare joint U.S.–Japan intervention changed the tactical distribution by placing a more credible cap around extreme USD/JPY upside, but the Reuters strategist poll explicitly judged intervention alone insufficient for sustained yen appreciation without a fundamental shift in rates or flows. Bank of America identified **160** as the key level where renewed coordinated intervention risk became material.
+
+**Energy / terms of trade:**
+Japan’s dependence on imported energy remained a negative JPY asymmetry. Higher energy prices worsen the trade balance and real-income backdrop even as they increase pressure on the BOJ to tighten, creating an unusually two-sided FX transmission channel.
+
+**Fed / global dollar cycle:**
+The medium-term JPY bull case also depended on the U.S. side. A durable reversal requires a turn in the dollar cycle as well as BOJ normalization. Softer U.S. inflation during the window reduced Fed-hike pricing and therefore improved JPY asymmetry at the margin.
+
+### Where consensus could be wrong
+
+**Consensus too bullish JPY:**
+If the BOJ delivers only gradual tightening, Japan’s imported-energy burden stays high and U.S. yields remain elevated, the carry trade can keep USD/JPY around 160 or push it back toward the 165 tactical tail despite intervention risk. A failure to follow through on the newly priced September hike would be particularly damaging because spot was already weak despite expectations of tighter policy.
+
+**Consensus too cautious JPY:**
+If the September BOJ hike is followed by explicit guidance toward a quarterly cadence while softer U.S. inflation closes the Fed-hike window, the rate differential could narrow faster than the Reuters/MUFG/ING forecast paths assumed. Renewed coordinated intervention near 160 would amplify such a fundamental turn rather than merely provide temporary support.
+
+**Key falsification:**
+The constructive medium-term JPY view requires **actual policy-differential compression**. BOJ delivery/faster guidance combined with fading Fed-hike pricing should move USD/JPY sustainably below the 156–158 constructive cluster; continued trading near or above 160 despite that combination would indicate that energy, fiscal and structural carry forces are materially stronger than the consensus framework assumes.
+
+# I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** corporate resilience + severe imported/upstream inflation + increasingly pre-emptive BoJ normalization.
+* **Change:** July’s bifurcated corporate picture improved; CGPI shifted to high-stock/softer-flow; the Summary of Opinions revealed a ≥3-member faster-hike bloc.
+
+### Scoreboard
+
+* **Growth:** + | services confidence recovered; semiconductor manufacturing strengthened.
+* **Labor:** ~ | no direct labour release in window.
+* **Inflation:** - | CGPI 7.2%, import prices +29.1%; underlying monthly CGPI cooled to 0%.
+* **Financial Conditions:** ~ | liquidity accommodative; trade burden worse; coordinated FX-defense backstop confirmed.
+* **Policy Constraint:** - | ≥3/9 faster-cadence bloc + overshoot-prevention framing prepare September tightening.
+
+### Major Release Tape
+
+* **** **CGPI** — 7.2% y/y vs 7.4% poll; +0.1% m/m and 0.0% ex-electricity → extreme inflation stock, first clear marginal cooling.
+* *** **Balance of Payments** — current account -¥92.3bn vs +¥1.512tn poll → dividend distortion large, but import/energy/freight deterioration genuine.
+* *** **Reuters Tankan** — services +28 from +25; manufacturing +18 from +13 → growth-fragility argument weakens.
+* **Minor:** M2 +2.2% y/y; July monthly contraction reversed, but no renewed liquidity acceleration.
+
+### Central Bank
+
+* **Bias:** hawkish hold at 1.00%; **25bp September hike to 1.25% base case**.
+* **Reaction function:** ≥3/9 favor faster cadence; policy focus shifting toward overshoot prevention; CPI/pass-through determines how much follow-through survives beyond September.
+* **Key tape:** 10 Aug SoO revealed the broader hawkish bloc; joint U.S.–Japan intervention confirmed; pre-meeting Himino/Takata/Masu communication runway assembled.
+
+### Signal Tension
+
+* **Tension:** BoJ policy is becoming more pre-emptively hawkish just as the marginal PPI impulse begins to cool.
+* **What resolves it:** whether high import/PPI inflation passes into CPI, wages and services strongly enough to validate faster follow-through after September.
+
+### Key Releases
+
+1. **CGPI** — core stock-versus-flow inflation test.
+2. **Balance of Payments** — temporary dividend distortion versus genuine terms-of-trade deterioration.
+3. **Reuters Tankan** — strongest evidence that growth can tolerate further normalization.
+4. **M2 / Broad Money** — confirms inflation is not being driven by a domestic money boom.
+
+### Red Team
+
+* Does the ≥3/9 faster-hike bloc actually include the center, or mainly the established hawks?
+* Can overshoot-prevention justify faster normalization if CPI/pass-through stays contained while CGPI momentum rolls over?
+* Does USD/JPY remain near 160 even after an actual BoJ hike and credible coordinated intervention?
+
+### FX Consensus
+
+* **Consensus:** medium-term constructive JPY, tactically fragile.
+* **Public-bank Q4 range:** **156–160 USD/JPY**.
+* **Constructive cluster:** **156–158**.
+* **Cautious / tactical:** **159–160**, with a **165 upside USD/JPY tail**.
+* **At window close:** ~159.4; near the intervention zone despite sharply higher September BOJ-hike pricing.
+* **Drivers:** BOJ/Fed differential; intervention credibility; energy/terms of trade; carry/global dollar cycle.
+* **Consensus wrong if:** BOJ/Fed differential compression fails to pull USD/JPY sustainably below the 156–158 cluster, or conversely a faster BoJ cycle plus softer Fed path triggers a much larger carry unwind.
+
+<<JPY_WEEK_END>>
+
+
+
+<<JPY_WEEK_BEGIN>>
 DATA WINDOW: 27 Jul 2026 to 7 Aug 2026
 
 A. JPY WEEK — MACRO SYNTHESIS
