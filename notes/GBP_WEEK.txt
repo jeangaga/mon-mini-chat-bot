@@ -1,5 +1,553 @@
 
 <<GBP_WEEK_BEGIN>>
+
+DATA WINDOW: 9 August 2026 to 15 August 2026
+
+# A. GBP WEEK — MACRO SYNTHESIS
+
+The UK tape shifted toward **resilient but conditional domestic stabilisation**, but the BoE reaction-function read became less hawkish once the labour data were incorporated. Q2 GDP held at 0.4% q/q, June GDP rebounded 0.3% m/m, services remained the principal growth engine, and the 1.7% q/q business-investment surge materially improved the quality of the expenditure mix. The growth scare therefore weakened materially.
+
+At the same time, the labour market continued to loosen: unemployment reached 4.9%, payroll employment remained under pressure, vacancies fell again and private-sector wage growth at 2.8% materially weakened the domestic second-round-inflation leg of the July hawkish dissent. Weak manufacturing, depressed housing and the widened goods deficit reinforce that the economy is not broadly overheating. The resulting policy regime is therefore **growth resilience without domestic labour overheating**: the six-member July hold majority gained validation from the flow, while the three-member hike flank became increasingly dependent on the external energy/CPI channel. The dominant transition is from a two-sided domestic inflation/growth debate toward a **majority-hold base case with an externally driven hawkish tail**. 
+
+# B. GBP MACRO SIGNAL SCOREBOARD
+
+**Growth: +**
+
+Supporting evidence:
+Q2 GDP rose 0.4% q/q, slightly above the BoE's roughly 0.3% headline projection; June GDP beat consensus at +0.3% m/m; services rose 0.4%; and business investment surged 1.7% q/q versus a -0.5% Reuters poll. Household consumption and GFCF were also positive. The upgrade remains qualified by downward revisions to May, weak production/manufacturing and identifiable temporary supports to June activity.
+
+**Labor: -**
+
+Supporting evidence:
+The supplied BoE tape shows continued broad-based loosening: unemployment at 4.9%, the single-month unemployment rate rising sharply from 4.6% to 5.4%, PAYE employment falling again, employment lower year-on-year and vacancies declining to 707,000. Private-sector wage growth at 2.8% is the most policy-relevant compositional signal and materially weakens the domestic second-round-inflation case.
+
+**Inflation: ~**
+
+Supporting evidence:
+No in-window CPI release is contained in the supplied material. The labour/pay composition reduces concern about domestically generated persistence, but the renewed energy shock keeps imported-inflation risk active. The July CPI release on 19 August remains outside the DATA WINDOW and is therefore treated only as a subsequent falsification test.
+
+**Financial Conditions: -**
+
+Supporting evidence:
+RICS housing remains deeply contractionary despite tentative stabilisation: buyer enquiries and agreed sales are still weak, and restrictive mortgage conditions remain an active transmission channel. Housing therefore continues to signal materially restrictive domestic financial conditions rather than easing sufficient to generate a broad demand recovery.
+
+**Policy Constraint: +**
+
+Supporting evidence:
+The in-window labour and GDP flow reinforced the six-member July hold majority. Labour-market slack and private-sector wage growth near target-consistent rates undercut the domestic second-round-effects channel cited by the three dissenters, while Q2 growth remained positive but not sufficiently strong or broad to create a new demand-pull inflation case. OIS on 12 August placed roughly 75% probability on a September hold with only +6bp of tightening priced. The remaining hawkish constraint is increasingly external-energy/CPI driven rather than domestic-wage driven.
+
+# C. FULL RELEASE ARCHIVE
+
+THURSDAY 13 AUG 2026
+
+### UNITED KINGDOM — RICS Housing Survey (Jul)
+
+Release Date: 13 Aug 2026 | Local Time: 01:01
+Importance: **
+
+#### 1. Reuters Data
+
+RICS Housing Survey: -30 | Prior: -33 | Revised: -32 | Poll: -31 | Surprise: 1,0
+
+#### 2. Professional Market Commentary
+
+The July housing survey remained clearly weak rather than recovering. The headline house-price balance improved only marginally to -30 from a revised -32. Buyer enquiries and agreed sales remained deeply negative, while new vendor instructions improved much more sharply.
+
+The principal professional framing is therefore **subdued housing with a slowing rate of deterioration**. Current activity remains poor, but the longer-horizon outlook is somewhat less pessimistic. The scout evidence showed new buyer enquiries at -28, agreed sales at -30, vendor instructions at -4, three-month price expectations at -31 and 12-month price expectations at +4.
+
+Regional divergence remains substantial. London, the South East and South West continue to show weaker price dynamics, while Northern Ireland remains considerably firmer. London is particularly weak in the forward survey, with year-ahead price expectations deteriorating materially.
+
+The result extends rather than overturns the previous RICS message: the downturn is no longer accelerating, but neither transactions nor pricing indicators suggest a genuine housing recovery. The June RICS survey had already shown the same tentative stabilisation at a depressed level.
+
+#### 3. Comment — Economist Layer
+
+This is **weak-level stabilisation, not housing recovery**.
+
+Signal hierarchy:
+
+* headline price balance improves marginally to -30
+* the Reuters surprise is only +1 point
+* buyer enquiries remain deeply negative
+* agreed sales remain deeply negative
+* vendor instructions improve sharply
+* three-month price expectations remain heavily contractionary
+* 12-month national expectations turn slightly positive
+* London forward expectations deteriorate despite the national improvement
+
+The important distinction is **direction versus level**. Housing indicators are becoming less bad, but the current level of activity remains consistent with restrictive mortgage conditions and weak affordability.
+
+The improvement in vendor instructions is not necessarily bullish for prices. If supply begins to normalise before buyer demand meaningfully strengthens, increased listings can keep sellers under pressure even as transaction volumes stabilise.
+
+Housing therefore remains one of the clearest channels through which restrictive monetary conditions are transmitting into domestic demand.
+
+State transition: no material change — stabilisation at a depressed level.
+
+Context from prior regional live file:
+
+UK housing had moved from renewed deterioration in April toward tentative stabilisation by June, but buyer enquiries, sales and mortgage-sensitive activity remained very weak. July extends that stabilisation rather than reversing the housing drag. The housing bucket therefore remains restrictive-rate-sensitive and inconsistent with a broad domestic-demand boom.
+
+#### 4. HF Take — Strategist Layer
+
+The release is a **mildly dovish domestic-demand input**, but it is insufficient to offset the harder activity information arriving later that morning.
+
+BoE mapping:
+
+* restrictive rates are visibly transmitting through housing
+* the absence of renewed deterioration reduces downside-tail risk
+* deeply negative current balances still imply a meaningful growth cost from further tightening
+* the improvement is not strong enough to suggest financial conditions are becoming stimulative
+* housing remains secondary to inflation, wages and aggregate activity in the current reaction function
+
+The July MPC had already voted 6–3 to maintain Bank Rate at 3.75%, with three members preferring a 25bp increase. Housing weakness therefore acts principally as a constraint on how aggressively the hawkish side can interpret stronger GDP, rather than as an independent trigger for easier policy. ([Banque d'Angleterre](https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026?utm_source=chatgpt.com "Monetary Policy Report - July 2026"))
+
+### UNITED KINGDOM — GDP Monthly Estimate / Services / Production / Manufacturing (Jun)
+
+Release Date: 13 Aug 2026 | Local Time: 08:00
+Importance: ****
+
+#### 1. Reuters Data
+
+GDP Est 3M/3M: 0,4% | Prior: 0,7% | Revised: 0,6% | Poll: 0,4% | Surprise: 0,00%
+
+GDP Estimate MM: 0,3% | Prior: 0,1% | Revised: 0,0% | Poll: 0,0% | Surprise: 0,30%
+
+GDP Estimate YY: 1,1% | Prior: 1,3% | Revised: 1,2% | Poll: 0,8% | Surprise: 0,30%
+
+Services MM: 0,4% | Prior: 0,3% | Revised: 0,1% | Poll: 0,0% | Surprise: 0,40%
+
+Services YY: 1,6% | Prior: 1,7% | Revised: 1,5% | Poll: 1,4% | Surprise: 0,20%
+
+Industrial Output MM: -0,2% | Prior: -0,5% | Revised: -0,7% | Poll: 0,1% | Surprise: -0,30%
+
+Industrial Output YY: -0,2% | Prior: 1,0% | Poll: 0,2% | Surprise: -0,40%
+
+Manufacturing Output MM: -0,5% | Prior: 0,1% | Revised: -0,2% | Poll: -0,2% | Surprise: -0,30%
+
+Manufacturing Output YY: 0,5% | Prior: 2,3% | Revised: 2,0% | Poll: 1,2% | Surprise: -0,70%
+
+#### 2. Professional Market Commentary
+
+The professional read is **stronger headline activity but uneven breadth**.
+
+Monthly GDP rose 0.3% against a flat consensus after May was revised down to zero growth. Services were the entire positive engine, rising 0.4%, while production fell 0.2% and construction declined 0.1%. The three-month GDP rate slowed to 0.4% from a revised 0.6%. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpmonthlyestimateuk/june2026?utm_source=chatgpt.com "GDP monthly estimate, UK: June 2026"))
+
+The June upside also came during an unusually supportive temporary window. Contemporary reporting highlighted World Cup-related activity, warm weather and a temporary reduction in business concern around the Middle East conflict during the ceasefire period. That argues against mechanically extrapolating the June acceleration into H2. ([Reuters](https://www.reuters.com/world/uk/uk-economy-unexpectedly-grows-by-03-june-ons-says-2026-08-13/?utm_source=chatgpt.com "UK economy gains from Gulf ceasefire, World Cup and sunshine"))
+
+Services strength was nevertheless economically meaningful. The quarterly ONS detail shows business-facing services growing 0.5%, consumer-facing services rising 0.3%, and information/communications and professional/scientific activities producing some of the strongest contributions. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+The industrial side points in the opposite direction. Production and manufacturing both disappointed the Reuters poll in June, preserving the long-running split between comparatively resilient services activity and weaker goods-sector momentum.
+
+#### 3. Comment — Economist Layer
+
+The primary signal is **services-led resilience rather than broad reacceleration**.
+
+Signal hierarchy:
+
+* June GDP +0.3% is a meaningful upside surprise
+* services +0.4% are the principal driver
+* 3M/3M growth nevertheless slows to 0.4%
+* production remains weak
+* manufacturing contracts 0.5% m/m
+* May GDP and services are revised lower
+* June benefited partly from temporary event/weather/geopolitical effects
+* the service/industrial divergence remains large
+
+The revision pattern matters. May GDP was originally reported at +0.1% but is now flat. May services were revised from +0.3% to +0.1%, industrial production from -0.5% to -0.7%, and manufacturing from +0.1% to -0.2%. June is therefore partly a rebound from a weaker underlying base.
+
+JGM note:
+
+The services/industrial split is central. Services output remains strong while industrial output is weak. Within services, the initial strength was concentrated in business-facing areas, but consumer-facing services are also improving, which gives the consumption side a better underlying tone than a purely corporate-services rebound.
+
+The resulting configuration is stronger than a growth-scare scenario but narrower than the +0.3% monthly headline suggests.
+
+State transition: stabilisation — June restores growth after weaker April/May data, but the expansion remains services-dependent and the repeatability of the June impulse is uncertain.
+
+Context from prior regional live file:
+
+April GDP had fallen 0.1%, while May had initially appeared to restore modest growth through services despite weak production and construction. The latest revisions now remove that May growth entirely, making June's rebound more important but also more clearly a rebound from weakness. The UK avoids an activity break, but the expansion remains narrow and services-dependent.
+
+#### 4. HF Take — Strategist Layer
+
+This release weakens the **growth-based argument against tighter BoE policy**.
+
+A 0.3% monthly GDP gain, combined with resilient services, means the MPC does not need to treat near-term recession risk as the binding constraint. That matters after the July 6–3 hold, when three members already preferred a hike. ([Banque d'Angleterre](https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026?utm_source=chatgpt.com "Monetary Policy Report - July 2026"))
+
+But the reaction-function signal is conditional rather than outright hawkish:
+
+* services strength is relevant for domestic inflation persistence
+* weak production and manufacturing argue against broad overheating
+* downward revisions reduce the strength of the previous momentum signal
+* temporary June effects limit extrapolation
+* the renewed Middle East shock is a direct risk to household confidence and real income
+
+JGM note:
+
+Q3 starts on a firmer footing than the hard-data slowdown alone suggests. The July composite PMI subsequently reached 52.2, returning private-sector activity to expansion after 49.3 in June. JGM flags this as an important Q3 growth read-up, but also stresses that renewed Middle East escalation could reverse the improvement through household confidence. The final July PMI confirms the 52.2 composite reading and stronger services momentum. ([pmi.spglobal.com](https://www.pmi.spglobal.com/Public/Home/PressRelease/754c679147324e39ab67e212c7466ab3?utm_source=chatgpt.com "S&P Global UK Services PMI"))
+
+This therefore raises the bar for a dovish BoE growth interpretation, but does not establish an economy-wide reacceleration.
+
+### UNITED KINGDOM — Goods Trade Balance (Jun)
+
+Release Date: 13 Aug 2026 | Local Time: 08:00
+Importance: ***
+
+#### 1. Reuters Data
+
+Goods Trade Balance GBP: -23,007B | Prior: -18,660B | Revised: -21,083B | Poll: -20,500B | Surprise: -2,5070B
+
+#### 2. Professional Market Commentary
+
+The goods deficit widened materially and was substantially worse than consensus.
+
+This reverses the apparent May improvement and keeps the UK's external position as an important offset to resilient domestic activity.
+
+The quarterly GDP accounts reinforce the underlying energy vulnerability. Q2 goods imports increased 0.6% in volume terms, mainly because of higher fuel imports, while total import volumes rose 0.5%. Excluding non-monetary gold and precious metals, the overall trade deficit remained equivalent to 1.0% of nominal GDP in Q2. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+The professional interpretation is therefore not simply that “trade was weak.” The more relevant signal is that the UK remains exposed to a fuel-import/terms-of-trade channel precisely when geopolitical energy risk has re-intensified.
+
+#### 3. Comment — Economist Layer
+
+This is an **external-balance deterioration** and a useful counterweight to the positive GDP narrative.
+
+The key hierarchy is:
+
+* goods deficit widens to £23.0bn
+* the result misses consensus by £2.507bn
+* the prior is itself revised materially worse
+* Q2 fuel imports remain an adverse external channel
+* domestic services resilience is therefore occurring alongside weaker external quality
+
+The trade data also complicate the inflation-growth mix.
+
+Higher energy imports can:
+
+* weaken the external balance
+* depress real household income
+* raise corporate input costs
+* generate imported inflation
+* simultaneously weaken real growth and constrain monetary easing
+
+That combination is more consistent with a stagflationary external constraint than with a conventional domestic-demand boom.
+
+State transition: deterioration — the May improvement was not sustained and external vulnerability remains active.
+
+Context from prior regional live file:
+
+May had shown a sharp mechanical improvement in the Reuters goods balance, but the previous archive already cautioned that the underlying external position remained weak and energy exposure unresolved. June reverses that monthly improvement. The external bucket therefore again works against the quality of the domestic-growth signal.
+
+#### 4. HF Take — Strategist Layer
+
+The trade balance is not independently decisive for the BoE, but it lowers the **quality of the positive GDP signal**.
+
+Reaction-function mapping:
+
+* imported-energy exposure can reinforce headline inflation
+* weaker external income can weigh on household demand
+* both effects can occur simultaneously
+* this creates less policy flexibility rather than a simple hawkish or dovish signal
+
+GBP therefore receives a less clean fundamental growth signal than the GDP headline suggests. Relative-rate support can remain constructive if the BoE stays hawkish, but the external balance makes that support increasingly dependent on carry rather than on a clean UK growth advantage.
+
+### UNITED KINGDOM — GDP First Quarterly Estimate / Business Investment (Q2)
+
+Release Date: 13 Aug 2026 | Local Time: 08:00
+Importance: ****
+
+#### 1. Reuters Data
+
+GDP Prelim QQ: 0,4% | Prior: 0,6% | Poll: 0,4% | Surprise: 0,00%
+
+GDP Prelim YY: 1,2% | Prior: 0,9% | Poll: 1,1% | Surprise: 0,10%
+
+Business Invest QQ Prelim: 1,7% | Prior: 0,9% | Revised: 0,9% | Poll: -0,5% | Surprise: 2,20%
+
+Business Invest YY Prelim: 0,8% | Prior: -1,3% | Revised: -1,3%
+
+#### 2. Professional Market Commentary
+
+Q2 GDP slowed from 0.6% to 0.4% q/q but matched the Reuters consensus and remained comparatively firm. The result was also slightly stronger than the Bank of England's July headline GDP projection of around 0.3%. The Bank continued to distinguish that headline resilience from much weaker “underlying” GDP momentum. ([Banque d'Angleterre](https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026?utm_source=chatgpt.com "Monetary Policy Report - July 2026"))
+
+The output mix is relatively healthy. Services grew 0.5%, construction 0.3%, and production was flat; 15 of 20 GDP subsectors expanded. Real GDP per head also rose 0.4% q/q. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+The strongest surprise came from investment. Business investment rose 1.7% q/q against a Reuters poll for -0.5%. Total gross fixed capital formation rose 1.2%, with ONS identifying information and communication technology and other machinery/equipment — particularly hardware investment — as important drivers. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+Household consumption also rose 0.3%, while government consumption declined 0.3%. The private-sector composition is therefore more constructive than the unchanged headline consensus surprise alone implies. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+The main institutional tension is between **genuine resilience** and **repeatability**. One camp reads capex, consumption and services as evidence that UK domestic activity is healthier than expected; the opposing view stresses seasonal effects, front-loading and the fact that much of Q2 predates the renewed deterioration in the Middle East energy environment. ([Royal London Asset Management](https://www.rlam.com/uk/intermediaries/our-views/2026/uk-gdp-still-surprisingly-robust/?utm_source=chatgpt.com "UK GDP: Still surprisingly robust | Intermediaries"))
+
+#### 3. Comment — Economist Layer
+
+This is a **better-quality Q2 print than the zero headline surprise suggests**.
+
+Signal hierarchy:
+
+1. GDP +0.4% q/q confirms solid aggregate growth.
+2. The print is above the BoE's roughly 0.3% headline projection.
+3. Services remain the dominant growth engine.
+4. Business investment +1.7% is the largest positive Reuters surprise in the package.
+5. GFCF +1.2% indicates the capex signal is broader than one individual series.
+6. Household consumption remains positive.
+7. Government consumption declines rather than artificially boosting the quarterly expansion.
+8. Production is flat and June manufacturing weakens, preventing a broad industrial upgrade.
+9. Inventories fall excluding alignment adjustments.
+10. The Middle East/energy regime remains the main threat to Q3 persistence. ([Office for National Statistics](https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/apriltojune2026 "GDP first quarterly estimate, UK - Office for National Statistics"))
+
+JGM note:
+
+Q2 growth is solid and investment growth is particularly encouraging. The strongest investment component is IT equipment/hardware, which improves the quality of the expenditure mix.
+
+The 0.4% q/q GDP print is above the BoE's 0.3% expectation while matching Reuters consensus.
+
+The sectoral composition reinforces the same message seen in the monthly data: **strong services output versus weaker industrial activity**. Business-facing services have been strong, but the improvement in consumer-facing services is particularly useful because it points toward better consumption rather than an expansion confined to corporate/professional activity.
+
+JGM also sees Q3 beginning on a stronger footing given the July composite PMI at 52.2 and a recent upward reassessment of near-term Q3 growth. The critical caveat is renewed Middle East escalation: any renewed hit to household confidence and real incomes could quickly undermine that stronger starting point.
+
+The external evidence broadly supports the first part of that view. The July composite PMI moved back above 50 to 52.2 as services returned to growth, although the BoE's July MPR itself projected underlying GDP growth slowing toward zero in Q3 because of the energy shock. ([Reuters](https://www.reuters.com/world/uk/uk-services-sector-returns-growth-optimism-picks-up-pmi-shows-2026-08-05/?utm_source=chatgpt.com "UK services sector returns to growth, optimism picks up, PMI shows"))
+
+The correct synthesis is therefore not “UK boom.” It is:
+
+**resilient private-sector growth + unusually strong capex + improving service-sector momentum, against weak industry and a potentially worsening external-energy shock.**
+
+State transition: stabilisation — Q2 validates underlying resilience after the earlier false-dawn warning, but does not yet prove that the strength survives into H2.
+
+Context from prior regional live file:
+
+The previous Q1 block had been explicitly classified as “Q1 strength, Q2 risk”: GDP rose 0.6%, but housing weakness, trade deterioration and external energy exposure argued against extrapolating that momentum. April then contracted and May stabilised only narrowly. Q2 at 0.4%, together with the very strong business-investment surprise, shows that the rollover was less severe than feared, but the same false-dawn discipline remains appropriate for Q3.
+
+#### 4. HF Take — Strategist Layer
+
+For the BoE, this is **hawk-friendly relative to a growth-scare baseline**.
+
+The important shift is not that GDP suddenly requires tightening. It is that growth is sufficiently resilient that the MPC can concentrate on inflation persistence without needing to insure aggressively against recession.
+
+The July MPC maintained Bank Rate at 3.75% by 6–3, with three members preferring 4.00%. A Q2 GDP print above the Bank's forecast, unexpectedly strong business investment and a subsequent PMI rebound make the growth leg of the hawkish argument more credible. ([Banque d'Angleterre](https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026?utm_source=chatgpt.com "Monetary Policy Report - July 2026"))
+
+JGM reaction-function implication:
+
+* solid GDP reduces the growth objection to tightening
+* investment quality is stronger than expected
+* improving consumer-facing services reduce the probability that activity is purely business-services driven
+* Q3 survey momentum has improved
+* but renewed Middle East escalation is the principal falsification risk through confidence, real incomes and energy costs
+
+The market-relevant distinction is therefore between **headline/near-term resilience** and **underlying persistence**.
+
+If subsequent activity remains resilient while services and wage inflation remain sticky, the hawkish coalition gains significantly more traction.
+
+If the Q3 PMI rebound proves ceasefire/event-assisted and household confidence deteriorates as energy pressure returns, the Q2 GDP strength should be treated as a backward-looking high-water mark rather than confirmation of a new growth regime.
+
+# D. CENTRAL BANK TAPE
+
+## Summary — Policy reaction function
+
+The 9–15 August window was effectively a **data-only BoE reaction-function test**: no MPC speeches were identified during the summer recess, so the July 30 committee configuration remains the communication anchor. The in-window data reinforced the six-member hold majority and weakened the three-member hike flank. Labour-market slack broadened while private-sector wage growth slowed to 2.8%, directly undercutting the domestic second-round-effects channel behind the July dissents. Q2 GDP remained resilient at +0.4% q/q, but June's +0.3% monthly strength was partly one-off-flattered and accompanied by weak production/manufacturing. The resulting configuration is **ordinary-positive growth + loosening labour + reduced domestic wage pressure**, leaving the residual hike case increasingly dependent on energy pass-through rather than domestic overheating.
+
+### ONS labour market release — ~11 Aug
+
+Importance: ***
+
+**Key policy signal:**
+Continued broad-based loosening. Unemployment was 4.9% in the three months to June, while the single-month rate jumped from 4.6% to 5.4%. PAYE employment fell again, employment was lower year-on-year and vacancies declined to 707,000. Regular wage growth remained 3.5%, but the key composition was private-sector pay at 2.8%, with stronger public-sector wages lifting the aggregate figure.
+
+**Incremental reaction function:**
+This directly weakens the second-round-effects channel behind the July dissents. It raises the bar for a fourth hawkish vote and keeps the majority's conditional-easing logic alive if the external energy shock subsides. The most important change is that the labour side no longer supports an urgent tightening case.
+
+### ONS Q2 GDP first estimate + June monthly GDP — 13 Aug
+
+Importance: ***
+
+**Key policy signal:**
+Q2 GDP rose 0.4% q/q from 0.6% in Q1, with services +0.5%; gross fixed capital formation +1.2%; household consumption +0.3%; government consumption -0.3%. June GDP rose 0.3% after a flat, downwardly revised May, but June was partly boosted by World Cup and heatwave effects that are unlikely to repeat. Industrial production fell 0.2% and manufacturing 0.5%.
+
+**Incremental reaction function:**
+Neutral-to-dovish despite the stronger monthly headline. Growth is resilient enough that recession insurance is unnecessary, but not sufficiently broad or persistent to strengthen the demand-pull inflation case materially. The print is broadly consistent with the July MPR's underlying-growth path rather than a material upside forecast shock.
+
+### Market pricing — 12 Aug
+
+Importance: **
+
+**Key policy signal:**
+OIS implied approximately a 75% probability of a hold on 17 September, with roughly +6bp of tightening embedded.
+
+**Incremental reaction function:**
+Pricing was aligned with the Bailey/majority centre while retaining a modest residual hike premium for the three-vote hawkish flank. The principal upside-rate tail remained an energy/CPI-driven fourth dissenter; the opposite tail remained renewed consideration of easing if external pressure subsided and labour weakness persisted.
+
+## Bottom line — central bank tape
+
+The **majority hold case was reinforced**. Domestic data did most of the six-member centre's arguing: labour slack broadened, private-sector pay slowed to around target-consistent rates and growth remained positive without demonstrating broad overheating. The hawkish flank's domestic leg therefore weakened materially.
+
+The remaining tightening scenario is increasingly **externally supplied**: energy re-escalation and subsequent CPI pass-through. July CPI on 19 August lies outside this DATA WINDOW and is therefore quarantined as the next falsification point rather than imported into the frozen state. The window-close reaction function is **modestly dovish domestically, hawkish only through the energy channel**, with September hold pricing broadly aligned to the tape.
+
+**State transition:** Continuation — majority hold case reinforced by in-window data; hawkish flank's domestic leg weakened, external energy leg still live.
+
+**Falsification triggers:**
+
+* July CPI: services re-acceleration alongside energy pass-through would re-arm the hawkish flank; contained services inflation would consolidate the centre.
+* Private-sector regular pay re-accelerating above roughly 3% would revive the second-round-effects channel.
+* Further downward payroll revisions would strengthen the labour-loosening signal and increase the relevance of later easing discussion.
+* Durable energy de-escalation would weaken the principal remaining hawkish tail.
+* Material fiscal loosening from the new government could independently re-arm the hawkish side.
+
+# E. SIGNAL TENSION CHECK
+
+**Main contradiction:**
+Activity is resilient enough to remove recession risk, but the labour market is loosening and private-sector wage growth has slowed to a rate that weakens the domestic second-round-inflation case; the remaining hawkish risk is therefore increasingly external-energy driven.
+
+**Why it matters:**
+The same growth data that make near-term easing unnecessary no longer provide a sufficient domestic inflation argument for tightening once labour slack and wage composition are incorporated.
+
+**Implication:**
+The BoE base case shifts more firmly toward hold. A renewed hike case now requires external energy pass-through to migrate into services/domestic inflation or an unexpected re-acceleration in private pay rather than merely another resilient GDP print.
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+**** **UK GDP First Quarterly Estimate / Business Investment (13 Aug)**
+Why it matters: Q2 GDP at 0.4% confirms solid aggregate resilience and came slightly above the BoE's roughly 0.3% projection. The much larger signal is business investment at +1.7% versus -0.5% consensus, supported by broader GFCF and ICT/hardware investment. This materially weakens the growth-based objection to a more hawkish BoE reaction function.
+
+**** **UK GDP Monthly Estimate / Services / Production / Manufacturing (13 Aug)**
+Why it matters: June GDP +0.3% and services +0.4% restored activity momentum after May was revised to flat, but manufacturing -0.5% and production -0.2% preserve a sharp services/goods split. The key issue is whether the rebound survives once temporary World Cup/weather/ceasefire effects fade.
+
+*** **UK Goods Trade Balance (13 Aug)**
+Why it matters: The goods deficit widened to £23.007bn, substantially worse than consensus and accompanied by a worse prior revision. It reconnects the external balance directly to the UK's fuel-import vulnerability and creates the least comfortable growth/inflation combination in the week's tape.
+
+** **UK RICS Housing Survey (13 Aug)**
+Why it matters: Housing deterioration is slowing, but buyer enquiries and agreed sales remain deeply negative. It is the clearest evidence that restrictive rates continue to transmit into household-sensitive demand and the principal domestic counterweight to stronger GDP.
+
+# G. RED TEAM QUESTIONS
+
+1. Is private-sector wage growth at 2.8% genuinely signalling that domestic second-round inflation is fading, or is the composition temporarily understating underlying wage persistence?
+
+2. Does the unemployment/payroll deterioration represent genuine labour-market slack sufficient to keep the MPC majority firmly on hold, or could subsequent ONS revisions materially soften that signal?
+
+3. How much of the June services rebound survives after stripping out World Cup, warm-weather and ceasefire-window effects?
+
+4. Is the +1.7% business-investment print, particularly ICT/hardware spending, evidence of durable capex acceleration or materially affected by timing/front-loading?
+
+5. Can the hawkish flank regain a fourth vote without renewed private-wage acceleration, or does it now require energy pass-through to show up in services inflation?
+
+6. Does the July composite PMI at 52.2 represent genuine Q3 reacceleration, or will renewed Middle East pressure reverse the improvement through confidence and real incomes?
+
+7. Would further payroll deterioration plus contained services inflation merely lock a September hold, or begin to reopen a genuine Q4 easing discussion?
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+The relevant convention is **GBP/USD**. The publicly visible institutional view entering the 9–15 August window was **neutral to moderately cautious sterling**, not a clean GBP bull consensus. ING's 6 August FX outlook described cable as stuck in a 1.32–1.36 range and published 1M/3M targets of 1.35/1.34, while MUFG's 3 August forecast put end-Q3 GBP/USD at 1.326 and end-Q4 at 1.333. Rabobank's publicly relayed near-term view similarly pointed to roughly 1.32–1.33 over a one-to-three-month horizon.
+
+That caution contrasted with resilient spot. GBP/USD was already around 1.3502 on 10 August, reached roughly 1.3597 on 11 August, and was around 1.3521 by Friday 14 August after stronger UK GDP. Sterling finished the week higher, supported by better domestic growth perceptions and the attractiveness of relatively high UK short rates in a low-volatility environment.
+
+The important point is therefore **forecast/spot asymmetry**: the GDP release improved the immediate fundamental tone, but spot had already moved to — and in places above — the upper end of the publicly visible short-horizon target cluster. The visible forecast sample did not show a comparable target reset during the window. This makes the window-close configuration more constructive fundamentally than it was entering the week, but less attractive tactically for chasing GBP/USD higher.
+
+**Public-bank short-horizon / Q3 range:** approximately **1.32–1.35** in the publicly visible sample.
+
+**Constructive GBP cluster:** approximately **1.34–1.35**.
+
+**More cautious / tactical view:** approximately **1.32–1.33**.
+
+**Bias at window close:** **fundamentally firmer, tactically less compelling** — GBP/USD around 1.352 was already at or above much of the short-horizon public forecast cluster.
+
+### What changed through the data window
+
+The principal change was **price and narrative, not an obvious published forecast reset**. Sterling began the week close to 1.35, with markets already pricing roughly one BoE hike by year-end and ING arguing that this tightening expectation was probably excessive.
+
+Ahead of the UK GDP release, the pound briefly traded near 1.36, while options pricing remained exceptionally subdued: Reuters reported Deutsche Bank noting three-month EUR/GBP implied volatility around 3.6%, unusually low ahead of a major UK fiscal event. That low-volatility backdrop supported sterling carry.
+
+The 13 August growth package then strengthened the **resilience/carry** narrative rather than creating a fresh directional regime. By 14 August Reuters described sterling as heading for a weekly gain, with relatively high UK short-term rates versus other developed markets helping sustain carry demand.
+
+The result was therefore a subtle deterioration in tactical asymmetry: stronger UK growth made the bearish fundamental case less clean, but cable did not have much valuation room relative to the existing 1.32–1.35 institutional target area.
+
+### Main consensus drivers
+
+**BoE pricing / carry:**
+UK rates remained high enough to support sterling in subdued FX volatility, while markets continued to entertain further BoE tightening. The main cautious institutional counterargument was that the market was pricing more BoE hawkishness than would ultimately be delivered.
+
+**Relative growth resilience:**
+The stronger June/Q2 GDP data improved the immediate UK growth narrative and helped GBP finish the week firmer. It reduced the attraction of an outright short-sterling growth trade even though strategists remained wary of extrapolating the strength.
+
+**Energy / external vulnerability:**
+As a net energy importer, the UK remained vulnerable to renewed Middle East escalation. Persistently high oil prices could force a more anti-inflationary BoE stance while simultaneously worsening UK growth, real-income and fiscal risks. The GBP effect is therefore two-sided rather than mechanically bearish.
+
+**Fiscal / political premium:**
+Public strategist caution remained partly rooted in the autumn fiscal outlook. Fiscal and political uncertainty remained a potential constraint on sterling durability despite exceptionally subdued pre-budget FX volatility.
+
+### Where consensus could be wrong
+
+**Consensus too bullish GBP:**
+If markets remove expected BoE tightening as labour and domestic inflation pressures soften, while the Q2/Q3 growth rebound proves temporary and fiscal risk rises into the autumn budget, the 1.32–1.33 cautious cluster becomes more plausible.
+
+**Consensus too cautious GBP:**
+If the stronger GDP/services/capex configuration persists and domestic inflation remains sticky enough to validate the market's hawkish BoE pricing, sterling could remain above the existing forecast cluster for longer; the carry bid would then reflect a genuine relative-policy advantage rather than merely a low-volatility positioning effect.
+
+**Key falsification:**
+A sustained break above the existing 1.32–1.35 range would require the **growth resilience → persistent domestic inflation → validated BoE tightening** chain to remain intact; conversely, removal of BoE hike pricing alongside fading services momentum would validate the cautious institutional view.
+
+# I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Services-led growth resilience + strong capex, but loosening labour/private pay substantially weakens the domestic BoE hike case.
+* **Change:** Growth-scare risk receded while the reaction function shifted toward **majority hold + external-energy hawkish tail**.
+
+### Scoreboard
+
+* **Growth:** + | Q2 +0.4%; June +0.3%; business investment +1.7%.
+* **Labor:** - | Unemployment 4.9%; payrolls/vacancies weaker; private pay 2.8%.
+* **Inflation:** ~ | No in-window CPI; domestic wage pressure easing, energy risk unresolved.
+* **Financial Conditions:** - | Housing remains deeply weak and restrictive-rate-sensitive.
+* **Policy Constraint:** + | Labour/pay validate the six-member hold majority; hike tail increasingly energy-dependent.
+
+### Major Release Tape
+
+* **** **Q2 GDP / Business Investment** — GDP +0.4% q/q; investment +1.7% vs -0.5% poll → better-quality resilience, but not broad overheating.
+* **** **Monthly GDP / Services / Industry** — GDP +0.3%, services +0.4%; manufacturing -0.5% → strong services rebound with narrow breadth and one-off contamination.
+* *** **Goods Trade** — £23.007bn deficit vs £20.5bn poll → external/energy vulnerability reopens.
+
+### Minor Tape
+
+* **Minor:** RICS -30 — deterioration slowing, but housing remains deeply depressed.
+
+### Central Bank
+
+* **Bias:** Hold; domestic skew modestly dovish.
+* **Reaction function:** Further tightening now needs energy/CPI pass-through into domestic inflation or renewed private-pay acceleration.
+* **Key tape:** July 6–3 hold; in-window labour loosening + private pay 2.8%; 12 Aug OIS ~75% September hold / +6bp priced.
+
+### Signal Tension
+
+* **Tension:** Resilient activity versus loosening labour and target-consistent private pay; hawkish risk increasingly external rather than domestic.
+* **What resolves it:** Subsequent services inflation/private-pay behaviour and durability of the energy shock.
+
+### Key Releases
+
+1. **Q2 GDP / Business Investment** — clearest upgrade to growth quality.
+2. **Monthly GDP / Services / Production / Manufacturing** — confirms services resilience but narrow breadth.
+3. **Goods Trade Balance** — reactivates energy/external constraint.
+4. **RICS Housing** — restrictive-rate transmission remains active.
+
+### Red Team
+
+1. Is private-sector pay at 2.8% genuinely closing the domestic second-round-inflation channel?
+2. Can the hawkish flank regain a fourth vote without wage re-acceleration, or does it now require energy pass-through into services inflation?
+3. Would further payroll weakness merely lock a September hold or reopen a Q4 easing discussion?
+
+### FX Consensus
+
+* **Consensus:** Neutral-to-cautious GBP despite resilient spot.
+* **Public-bank range:** GBP/USD **1.32–1.35** short-horizon/Q3.
+* **Constructive cluster:** **1.34–1.35**.
+* **Cautious / tactical:** **1.32–1.33**.
+* **At window close:** ~**1.352** — already at/above much of the public target cluster, leaving weaker upside asymmetry.
+* **Drivers:** UK carry/BoE pricing; resilient growth; energy exposure; autumn fiscal premium.
+* **Consensus wrong if:** persistent growth plus renewed domestic inflation validates further BoE tightening and forces GBP/USD sustainably beyond the existing range.
+
+<<GBP_WEEK_END>>
+
+
+
+
+
+<<GBP_WEEK_BEGIN>>
 DATA WINDOW: 29 Jun 2026 to 24 Jul 2026
 
 A. GBP WEEK — MACRO SYNTHESIS
