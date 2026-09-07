@@ -1,5 +1,708 @@
 <<BRL_WEEK_BEGIN>>
 
+DATA WINDOW: 16 August 2026 to 29 August 2026
+
+A. BRL WEEK — MACRO SYNTHESIS
+
+Brazil moved into a clearer **growth-downshift / headline-disinflation / sticky-domestic-inflation** configuration over the window. IBC-Br showed broad sequential contraction and a negative Q3 carry, while IPCA-15 delivered a large headline downside surprise and returned below the tolerance ceiling. The disinflation signal was materially weaker beneath the headline, however: electricity, airfares, fuels and fresh food drove much of the relief, while labour-intensive services remained elevated and IGP-M composition suggested the strongest phase of upstream disinflation may be fading. The external position also became less clean without becoming structurally fragile: July’s current-account deficit widened while FDI undershot and failed to cover the monthly gap, but trailing FDI still covered the current-account deficit by roughly 1.4x and reserves remained large.
+
+The central-bank tape **sharpened rather than resolved** the policy tension. Copom remained completely silent in-window with Selic at 14.00%, while realized inflation and weaker growth moved in a dovish direction but the expectations series embedded in the committee’s standing doctrine moved the opposite way: the 2027 Focus median rose again to 4.25% and 2028 remained at 3.80%. At the same time, the market’s modal path pulled the next 25bp cut forward to September. The cumulative regime is therefore **measured-easing compatible but reaction-function unresolved**: the data argue for another calibration cut, while the expectations/fiscal leg still supports the paragraph-9 “more restriction for longer” logic.
+
+B. BRL MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence:
+June IBC-Br contracted 0.60% m/m, slightly more than expected, with weakness across industry, services, taxes and ex-agriculture activity. Q2 IBC-Br momentum slowed to roughly 0.2% from around 1.2% in Q1 and generated an approximately -0.4% carry into Q3. Annual activity remained positive, preventing a hard-landing call, but the sequential signal clearly deteriorated. The central-bank tape reinforced this direction through the Focus GDP median decline to 1.95%, with the supplied 5-day panel at 1.93%.
+
+Labor: ~
+Supporting evidence:
+No dedicated verified labour block is contained in the supplied release archive. The tape continued to describe the labour market and real-income support as relatively firm, while labour-intensive services and construction labour costs remained elevated. The central-bank scout flags late-window PNAD as unswept, so no directional labour-state change is justified.
+
+Inflation: +
+Supporting evidence:
+IPCA-15 fell 0.40% m/m and slowed to 4.24% y/y, both below consensus, while short-run core momentum improved and the annual rate returned inside the tolerance band. IGP-M remained negative and only 2.16% y/y. The improvement is qualified by temporary electricity relief, volatile airfare/fuel/fresh-food effects, persistent underlying services and firmer agricultural/final-goods producer components. Moreover, the Focus expectations tape remained adverse, with 2027 rising again to 4.25% and 2028 at 3.80%. Realized inflation improved; medium-horizon inflation credibility did not.
+
+Financial Conditions: ~
+Supporting evidence:
+The monthly external-financing mix deteriorated: the US$8.11bn current-account deficit exceeded expectations while US$7.46bn FDI also missed and failed to cover the monthly gap. Against that, 12-month FDI remained around 1.4x the trailing current-account deficit, the deficit ratio was materially better than a year earlier and reserves rose to US$369.7bn. External conditions therefore shifted from clean improvement to monitoring mode rather than stress. The central-bank scout additionally notes long-end real yields moving back toward 8%, consistent with continuing fiscal/de-anchoring premium despite easier front-end expectations.
+
+Policy Constraint: ~
+Supporting evidence:
+Activity deterioration, three consecutive downside inflation surprises and improving short-run core momentum make another measured cut defensible, and the market’s modal Focus path moved to a 25bp September cut followed by a hold. But the committee’s standing paragraph-9 doctrine remains unsatisfied: 2027 inflation expectations rose again to 4.25%, 2028 remained at 3.80%, fiscal medians remain adverse, and no Copom voter spoke in-window to signal that these conditions had been downweighted. Policy therefore moved from clearly restrictive toward a genuine cut-versus-pause tension rather than into an unambiguously easier reaction function.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 17 AUG 2026
+
+BRAZIL — IBC-BR ECONOMIC ACTIVITY (Jun 2026)
+
+Release Date: 17 Aug 2026 | Local Time: 14:00
+Importance: ***
+
+1. Reuters Data
+
+IBC-BR EconomicActivity: -0,60% | Prior: 0,10% | Reuters Poll: -0,53% | Surprise: -0,070%
+
+2. Professional Market Commentary
+
+The professional tape treated the June contraction as confirmation that Brazil’s Q2 activity momentum had slowed sharply rather than as an isolated monthly setback.
+
+Key tape focus:
+
+* activity contracted more than expected in June
+* weakness was broad across industry, services and taxes, while agriculture was the only material cushion
+* excluding agriculture, activity fell materially more than the headline
+* Q2 IBC-Br growth slowed to roughly 0.2% from around 1.2% in Q1
+* the June level generated a negative carry into Q3
+* restrictive monetary policy was increasingly visible in domestic activity, although fiscal transfers and a still-tight labour market continued to support real incomes
+* sell-side commentary generally interpreted the growth slowdown as increasing room for continued Selic easing, while differing on the eventual terminal rate
+
+The government SPE bulletin confirms that its IBC-Br publication is a reproduction of Banco Central data rather than an independent primary series; the bulletin for June was published on 17 August.
+
+The institutional tension is therefore not whether activity slowed — there is broad agreement that it did — but how much weight the Copom should place on weaker sequential momentum versus still-positive annual growth and continuing income support.
+
+3. Comment — Economist Layer
+
+This is the clearest deterioration in the recent IBC-Br sequence and materially weakens the previous “controlled slowdown without contraction” signal.
+
+Key signals:
+
+* June moved from May’s positive reading into outright sequential contraction and missed consensus
+* the weakness was broad: the official-sector reproduction shows industry around -1.35% m/m, services around -0.52%, taxes around -1.04%, while agriculture rose roughly 0.96%
+* excluding agriculture, activity contracted roughly 0.9%, showing that the headline was actually cushioned by the primary sector
+* the industrial decline is directionally consistent with the separate June industrial-production contraction
+* services are more ambiguous: the IBC-Br proxy contracted while the narrower IBGE PMS measure was flat, so the broad activity signal is weaker than the sector-specific services survey without the two series being directly comparable
+* quarterly momentum matters more than the isolated monthly miss: Q2 growth slowed to roughly 0.2% after about 1.2% in Q1
+* the negative carry into Q3, approximately -0.4%, means activity would begin the new quarter from an adverse statistical starting point
+* this contrasts with the annual comparison: the IBC-Br was still around 2.35% above June 2025 and the 12-month rate remained positive
+* the result therefore represents a sharp loss of momentum rather than evidence that the level of economic activity has already entered a deep contraction
+
+Data-quality nuance:
+The government reproduction of the BCB table reports approximately -0.64% for June and +0.03% for May, whereas the final Reuters mechanical feed carries -0.60% and +0.10%. The Reuters feed remains authoritative for Section 1; the discrepancy does not change the directional interpretation.
+
+The primary signal is broad sequential weakening. The secondary signal is the abrupt Q1-to-Q2 deceleration. The mitigating signal is that annual activity remains positive and labour-income/fiscal support has not disappeared.
+
+State transition: deterioration — the prior controlled slowdown has moved into broad sequential contraction, although the positive annual level and absence of a generalized hard-landing signal prevent a recession call.
+
+Context from prior regional live file:
+
+May IBC-Br had slowed to +0,10% after April’s rebound, while weak retail and uneven services already indicated that restrictive rates were eroding domestic momentum. June delivers the consecutive-negative test identified in the prior archive and broadens the weakness into industry and ex-agriculture activity. Brazil therefore moves from slowing but non-recessionary growth toward a clearer activity deterioration that still requires Q2 GDP and Q3 data for confirmation.
+
+4. HF Take — Strategist Layer
+
+The release is meaningfully more dovish for the Brazilian reaction function than the prior IBC-Br prints, but it is not sufficient on its own to justify an aggressive easing regime.
+
+Reaction-function map:
+
+* broad sequential weakness strengthens evidence that restrictive policy is transmitting into domestic activity
+* the sharp Q1-to-Q2 slowdown lowers the growth-side cost of continuing the easing cycle
+* the negative Q3 carry increases the probability that activity remains weak even without another large monthly contraction
+* this reduces the need for the Copom to preserve exceptionally restrictive settings purely because of growth resilience
+* however, positive annual activity, strong real-income support and a still-firm labour market prevent a clean demand-collapse interpretation
+* inflation composition, expectations, fiscal credibility and BRL conditions therefore remain more important constraints on the pace of cuts than IBC-Br alone
+* for rates, the signal is dovish at the front end conditional on continued inflation improvement
+* for BRL, weaker growth is not mechanically negative if it reinforces credible disinflation and orderly easing; the currency implication remains dominated by carry, fiscal credibility and the inflation path
+
+The key verification test is Q2 GDP, followed by whether July activity confirms the approximately -0.4% Q3 carry. A weak GDP composition and another soft July sequence would validate a genuine growth-downshift regime; a rebound led by services and household demand would reclassify June as a sharp but temporary end-quarter correction.
+
+WEDNESDAY 26 AUG 2026
+
+BRAZIL — IPCA-15 MID-MONTH CPI MM / YY (Aug 2026)
+
+Release Date: 26 Aug 2026 | Local Time: 14:00
+Importance: ****
+
+1. Reuters Data
+
+IPCA-15 Mid-Month CPI: -0,4 | Prior: 0,06 | Reuters Poll: -0,3 | Surprise: -0,1
+
+IPCA-15 Mid-Month CPI YY: 4,24 | Prior: 4,52 | Reuters Poll: 4,34 | Surprise: -0,1
+
+2. Professional Market Commentary
+
+The institutional tape treated the release as a substantial headline downside surprise but not as an equivalent improvement in underlying inflation.
+
+Key tape focus:
+
+* IPCA-15 fell 0.40% m/m, the first deflation reading in a year and the deepest since August 2022
+* the 12-month rate fell from 4.52% to 4.24%, moving back inside the 3% ±1.5pp tolerance band
+* all surveyed regions recorded monthly deflation
+* most of the headline decline came from housing, transport and food
+* residential electricity was the single largest drag because of the temporary Itaipu bonus
+* airfares and fuels produced another large negative transport contribution
+* food-at-home remained in deflation for a second month
+* underlying services were materially less benign than the headline: several institutional measures remained around 5% or higher, with labour-intensive services close to 7%
+* the professional policy debate therefore focused less on whether September easing remained possible than on whether easing could extend beyond the next step
+
+The historical sequence had already moved Brazil from outright inflation deterioration toward conditional easing compatibility as monthly/core measures softened while annual and services inflation remained restrictive.
+
+3. Comment — Economist Layer
+
+This is a strong headline disinflation print but a significantly weaker underlying-inflation signal.
+
+Headline hierarchy:
+
+1. -0.40% m/m and 4.24% y/y both undershot Reuters consensus.
+2. The annual rate moved back inside the tolerance band.
+3. Deflation was geographically broad, with all surveyed regions negative.
+4. Short-run core momentum improved.
+5. But the dominant negative contributions were disproportionately temporary, volatile or reversible.
+
+Composition is therefore decisive.
+
+Housing fell 1.41% and contributed roughly -0.22pp. Residential electricity alone fell 6.25%, contributing approximately -0.26pp, principally because of the Itaipu bonus credited to August bills. This is an administered one-off rather than evidence of weaker cyclical pricing pressure, and its subsequent reversal creates an adverse base for September.
+
+Transport fell 1.00%, contributing approximately -0.20pp. Airfares dropped 13.30% and fuels 1.43%, including gasoline at -1.23%. This is the second major reversible bucket: both airfare volatility and energy prices can reverse rapidly with seasonality and oil.
+
+Food and beverages fell 0.57%, contributing around -0.12pp. Food-at-home declined 0.97%, with particularly large falls in tomatoes, potatoes and carrots. This is genuine near-term household inflation relief, but part of the decline reflects volatile fresh-food prices rather than persistent underlying disinflation.
+
+Against those three negative groups, several less-reversible categories accelerated:
+
+* personal expenses: 0.08% → 0.66%, although tobacco taxation was an important driver
+* health: 0.28% → 0.40%
+* education: -0.04% → 0.46%
+
+The core/services split is therefore the binding qualitative signal.
+
+Institutional estimates put average cores around +0.23% m/m, with 3m annualised momentum falling to roughly 3.9%. That is constructive. But underlying services rose around 0.50% m/m, labour-intensive services remained around 6.8–7.2% annualised depending on the measure, and slack-sensitive services were still estimated around 5.7%.
+
+The result therefore contains two different inflation horizons:
+
+Short horizon:
+clear disinflation, weaker headline momentum, improved core 3m rates.
+
+Medium horizon:
+services persistence remains high, and much of August's unusually weak headline is likely to reverse mechanically or is linked to volatile prices.
+
+This reconciles the apparently contradictory professional views. The easing camp places greater weight on declining short-run core momentum plus weakening activity. The cautious camp places greater weight on the still-high level of services inflation, medium-term expectations and the temporary nature of August's headline relief.
+
+The IBC-Br block strengthens the first side of this argument: activity has moved into broad sequential weakness and enters Q3 with a negative carry. But IPCA-15 prevents that growth deterioration from becoming an unconditional argument for faster easing because the sticky-services problem remains unresolved.
+
+State transition: stabilization / partial improvement — inflation moves from an above-band, strongly constrained configuration toward headline and core disinflation, but underlying services persistence prevents a transition to a clean low-inflation regime.
+
+Context from prior regional live file:
+
+June national IPCA had already surprised materially lower at 0,16% m/m and 4,64% y/y, while June IPCA-15 showed softer monthly/core inflation but still left the annual rate at 4,80%, above the tolerance ceiling. August extends the disinflation sequence much more forcefully and returns the 12-month IPCA-15 rate inside the band, but persistent services mean the earlier “conditionally easing-compatible” regime is improved rather than fully resolved.
+
+4. HF Take — Strategist Layer
+
+The release is dovish for the front end, but substantially less dovish than the -0.40% headline suggests.
+
+Reaction-function map:
+
+* a double downside surprise and return inside the tolerance band lowers the near-term inflation barrier to another measured Selic cut
+* weaker IBC-Br activity reinforces the argument that monetary restriction is transmitting
+* improving 3m core momentum gives the Copom more evidence that disinflation is progressing
+* however, the Itaipu bonus should reverse, making August a poor run-rate measure of headline inflation
+* airfare and fuel declines are also volatile and externally sensitive
+* labour-intensive and underlying services remain too elevated to validate a prolonged or accelerated easing sequence
+* medium-term expectations and fiscal credibility remain critical because temporary headline relief does little to anchor the policy horizon if services stay near 5–7%
+* the market implication is therefore more supportive for short/intermediate DI than for an aggressive bull-steepening narrative across the entire easing cycle
+
+The release-specific market reaction was consistent with that interpretation: short- and medium-dated DI futures fell after the print, although the magnitude cannot be cleanly attributed because lower oil, US rates and other same-session drivers were also supportive.
+
+For BRL, the signal is two-sided. A credible gradual easing path supported by genuine disinflation can reduce domestic macro risk, but extrapolating faster cuts from temporary headline deflation would reduce carry support without having resolved the services/expectations constraint.
+
+The next verification test is unusually clean:
+
+* September electricity must absorb the Itaipu reversal
+* services/core inflation must continue moderating despite that headline rebound
+* activity must remain weak enough to generate additional domestic slack
+* El Niño and the oil/Hormuz channel must not rebuild the food/transport shock
+
+If September headline inflation rises mechanically while underlying services soften, August will have marked genuine progress obscured by one-off noise. If both headline inflation and labour-intensive services re-accelerate, the August downside surprise should be treated primarily as a temporary deflation event rather than a reaction-function break.
+
+THURSDAY 27 AUG 2026
+
+BRAZIL — EXTERNAL SECTOR STATISTICS: CURRENT ACCOUNT / FOREIGN DIRECT INVESTMENT (Jul 2026)
+
+Release Date: 27 Aug 2026 | Local Time: 13:30
+Importance: ***
+
+1. Reuters Data
+
+Current Account: -8,11 | Prior: -2,33 | Reuters Poll: -6,6 | Surprise: -1,51
+
+Foreign Direct Investm't: 7,46 | Prior: 9,075 | Reuters Poll: 7,92 | Surprise: -0,46
+
+2. Professional Market Commentary
+
+The external-sector release delivered a weaker monthly financing mix than expected: the current-account deficit widened materially while direct investment simultaneously undershot consensus.
+
+Key tape focus:
+
+* current-account deficit widened to US$8.1bn from US$2.3bn in June and was larger than expected
+* FDI inflows slowed to US$7.5bn and also missed consensus
+* July FDI therefore failed to cover the monthly current-account deficit
+* the deterioration was broad across services, primary income and, to a smaller extent, the goods balance
+* imports grew faster than exports
+* transport, telecommunications/computing and intellectual-property payments were particularly strong contributors to the services deficit
+* the primary-income deterioration came from higher net interest payments rather than larger profit/dividend remittances
+* despite the weak month, the 12-month current-account deficit remained much smaller than a year earlier and continued to be more than fully covered by 12-month FDI
+* international reserves increased during July
+
+The BCB confirms a July current-account deficit of US$8.1bn, with the 12-month deficit at US$62.9bn or 2.49% of GDP, versus 3.51% of GDP a year earlier. It also reports 12-month FDI of US$88.4bn or 3.50% of GDP, leaving Brazil's structural external-financing position materially stronger than the monthly headline alone suggests.
+
+No Tier 1 institutional debate detected. Public coverage was overwhelmingly factual rather than sell-side interpretive, consistent with this release being more relevant as a cumulative external-vulnerability indicator than as a major intraday policy catalyst.
+
+3. Comment — Economist Layer
+
+This is a clear monthly external deterioration, but not a balance-of-payments stress signal.
+
+Internal hierarchy:
+
+1. monthly current-account deterioration
+2. simultaneous FDI miss
+3. deterioration in services and interest payments
+4. still-comfortable 12-month FDI coverage
+5. materially stronger external position than one year earlier
+
+Current account:
+
+The deficit reached US$8.1bn, compared with US$6.9bn in July 2025. The deterioration was not driven by one isolated component.
+
+Goods remained a substantial cushion, but the surplus narrowed to US$6.2bn from US$6.4bn a year earlier. Exports increased 5.7% y/y to US$34.2bn while imports rose faster, +8.1% to US$28.1bn. The trade contribution therefore remained positive but became less powerful.
+
+Services were the clearest structural drag. The deficit widened to US$5.3bn from US$4.8bn a year earlier, with:
+
+* transport net expenses +26.3% y/y to US$1.4bn
+* telecommunications, computing and information +27.6% to US$1.0bn
+* intellectual-property payments +27.4% to US$1.0bn
+* international-travel net expenses +7.9% to US$1.6bn
+
+The breadth matters more than any one services item. Digital/technology-related payments and transport are increasingly material external drains even while Brazil retains a large merchandise-trade surplus.
+
+Primary income deteriorated to a US$9.4bn deficit from US$9.0bn a year earlier. The composition is relatively reassuring: net profits and dividends were unchanged at US$4.8bn, while net interest payments increased 10.4% to US$4.6bn. This does not resemble an abrupt increase in foreign-profit repatriation or capital flight; it is primarily a higher interest-income burden.
+
+FDI:
+
+Net direct investment was US$7.5bn, below both the prior month and consensus. Of US$7.2bn in equity participation, US$4.5bn represented reinvested earnings and approximately US$2.7bn fresh equity excluding reinvestment; intercompany operations contributed US$0.3bn.
+
+That composition creates a useful nuance. Reinvested earnings are stable, long-duration financing and therefore economically valuable, but the amount of genuinely new external equity cash is considerably smaller than the headline FDI number.
+
+Monthly versus structural signal:
+
+At the monthly level, FDI of US$7.46bn did not fully finance the US$8.11bn current-account deficit — a gap of roughly US$0.65bn.
+
+At the 12-month level, however, the picture remains comfortable:
+
+* current-account deficit: US$62.9bn / 2.49% of GDP
+* FDI: US$88.4bn / 3.50% of GDP
+
+FDI therefore covers approximately 1.4x the trailing current-account deficit. Moreover, the deficit ratio has fallen materially from 3.51% of GDP in July 2025, while 12-month FDI has increased from US$68.3bn to US$88.4bn.
+
+Portfolio flows add another mixed signal: July recorded US$1.9bn of equity/fund inflows but US$0.7bn of domestic-bond outflows. This is worth monitoring but is insufficient on one month to infer a broader foreign-investor withdrawal from Brazilian fixed income.
+
+Reserves provide an additional buffer. International reserves increased US$2.2bn to US$369.7bn in July.
+
+The correct hierarchy is therefore not “external crisis.” It is: monthly financing quality deteriorated, the services deficit is widening, but Brazil retains strong structural FDI coverage and a large reserve buffer.
+
+State transition: deterioration — monthly external financing weakens after a previously comfortable sequence, but the 12-month external position remains robust enough to prevent a structural vulnerability regime shift.
+
+Context from prior regional live file:
+
+April and May had established a comfortable external-financing configuration, with strong FDI inflows more than offsetting current-account deficits and the trailing deficit ratio continuing to improve. July reverses the monthly quality signal because the deficit widens while FDI falls short of both consensus and the monthly gap. The regime therefore shifts from clean external-financing improvement to monitoring mode, rather than to outright external stress.
+
+4. HF Take — Strategist Layer
+
+The release is modestly BRL-negative at the margin, but it should not become a binding constraint on the Copom unless the deterioration persists.
+
+Reaction-function map:
+
+* a larger current-account deficit combined with softer FDI reduces the external cushion at the margin
+* persistent deterioration could increase dependence on more volatile portfolio flows and raise BRL sensitivity to global risk conditions
+* faster import growth than export growth is worth monitoring if domestic-demand resilience persists while activity elsewhere weakens
+* the services deficit appears increasingly structural, particularly through transport and digital/intellectual-property payments
+* nevertheless, 12-month FDI remains substantially larger than the current-account deficit
+* reserve levels remain large and increased during July
+* the current-account ratio is materially better than one year earlier
+* the release therefore does not presently create a balance-of-payments reason for the BCB to halt measured easing
+
+The scout's suggestion that lower Selic would mechanically eliminate the higher interest component should be treated cautiously. Part of external net interest income is affected by Brazil's domestic interest-rate structure and asset/liability mix, but the balance-of-payments interest line is not a simple one-for-one function of the Selic rate. The stronger policy argument remains indirect: if gradual easing accompanies credible disinflation and does not destabilize BRL or foreign flows, the external account is not currently the binding constraint.
+
+For BRL, the distinction is horizon-dependent.
+
+Near term:
+the twin miss is mildly negative because the country required more external financing while receiving less direct investment than expected.
+
+Medium term:
+the 1.4x trailing FDI coverage, improving current-account ratio versus 2025 and US$369.7bn reserve buffer argue against treating July as a structural BRL deterioration.
+
+The key verification tests are whether:
+
+* August/September current-account deficits remain unusually wide
+* FDI continues to fall relative to the trailing deficit
+* the services deficit continues widening at 20%+ rates in digital/transport categories
+* domestic bond outflows persist
+* BRL weakness emerges alongside deteriorating external flows rather than independently through global risk or fiscal channels
+
+A second or third month of simultaneous current-account widening and weaker FDI would elevate the external account into a meaningful constraint on the easing story. A normalization of the monthly deficit with FDI remaining near 3.5% of GDP would instead classify July as noise inside an externally well-financed Brazilian macro regime.
+
+FRIDAY 28 AUG 2026
+
+BRAZIL — IGP-M INFLATION INDEX (Aug 2026)
+
+Release Date: 28 Aug 2026 | Local Time: 13:00
+Importance: ***
+
+1. Reuters Data
+
+IGP-M Inflation Index: -0,22 | Prior: -1,16 | Reuters Poll: -0,25 | Surprise: 0,03
+
+2. Professional Market Commentary
+
+The professional tape treated the August IGP-M primarily as a sharp loss of deflationary intensity rather than an outright inflation reversal.
+
+Key tape focus:
+
+* IGP-M remained negative for a second consecutive month, but moved from -1.16% in July to -0.22% in August
+* the print was only marginally above the Reuters consensus
+* 12-month IGP-M fell to 2.16%, remaining substantially below consumer inflation
+* the main reason producer deflation became less intense was a sharp rebound in agricultural prices
+* consumer prices inside IGP-M became more negative, driven by the same electricity, food, airfare and fuel components visible in IPCA-15
+* construction costs moved in the opposite direction, accelerating on labour costs
+* no independent sell-side debate or release-specific market reaction was detected
+
+FGV confirms that IGP-M fell 0.22% in August after -1.16% in July, accumulated 1.85% in 2026 and 2.16% over twelve months.
+
+3. Comment — Economist Layer
+
+The headline still signals upstream price relief, but the internal composition raises the first meaningful question about whether that disinflationary pipeline is beginning to turn.
+
+Signal hierarchy:
+
+1. producer-price deflation remains intact
+2. its intensity has diminished sharply
+3. agriculture has reversed from deflation into substantial inflation
+4. underlying final-goods prices have turned positive
+5. headline intermediate-goods deflation is heavily energy-driven
+6. construction labour remains a sticky domestic cost
+7. consumer-price deflation inside IGP-M largely mirrors temporary/volatile IPCA-15 components
+
+Headline and broad components:
+
+IGP-M improved from -1.16% to -0.22%. The small +0.03pp Reuters surprise is not economically important by itself.
+
+The component structure is more informative:
+
+* IPA-M: -1.74% → -0.34%
+* IPC-M: -0.01% → -0.41%
+* INCC-M: +0.62% → +0.85%
+
+The three components therefore send different signals: producer deflation weakened substantially, consumer deflation deepened, and construction inflation accelerated.
+
+Producer pipeline:
+
+Agricultural products swung from approximately -0.20% in July to +2.73% in August. This is the main reason IPA deflation became much less intense and is the most important directional change in the report.
+
+The processing-stage detail makes the pipeline signal less benign than the headline:
+
+* final goods: -0.82% → -0.40%
+* final goods excluding fresh food and consumption fuels: -0.10% → +0.39%
+* intermediate goods: +0.35% → -1.90%
+* intermediate goods excluding fuels: -0.40% → -0.23%
+* raw materials: -3.89% → +0.88%
+
+The distinction between headline and ex-measures matters.
+
+The collapse in intermediate-goods prices is heavily concentrated in production fuels. Once fuels are excluded, intermediate deflation is mild. Conversely, final goods excluding fresh food and consumption fuels have moved into positive inflation.
+
+The upstream signal is therefore not “producer inflation is accelerating broadly,” but neither is it clean continued disinflation. The non-energy/non-fresh-food pipeline has stopped improving at the same pace and, in final goods, has turned positive.
+
+Consumer component:
+
+IPC-M fell 0.41%, with relief concentrated in residential electricity, tomatoes, potatoes, airfares and gasoline. These are substantially the same categories responsible for the exceptionally weak IPCA-15.
+
+That repetition should not be double-counted as independent evidence of structural consumer disinflation. Both indices use overlapping August collection windows and are observing many of the same price shocks.
+
+The Itaipu electricity bonus is temporary; airfares and fuels are volatile; fresh-food prices are seasonal. IPC-M therefore reinforces the near-term headline relief but adds relatively little new information about persistent services inflation.
+
+Construction:
+
+INCC-M accelerated from 0.62% to 0.85%, with labour identified by FGV as the principal source of pressure.
+
+This matters because it is consistent with the sticky-labour-cost signal already visible in IPCA-15 services. Construction wages and labour-intensive CPI services are different baskets, but both argue against interpreting commodity and administered-price deflation as generalized domestic cost disinflation.
+
+Cross-release synthesis:
+
+The Brazil inflation sequence now contains a consistent two-bucket structure.
+
+Reversible / volatile disinflation bucket:
+
+* Itaipu electricity credit
+* fuels
+* airfares
+* fresh food
+* energy-sensitive intermediate goods
+
+Persistent / less reversible bucket:
+
+* labour-intensive services
+* underlying services
+* construction labour
+* final goods excluding fresh food and consumption fuels
+
+The first bucket is delivering unusually weak headline inflation. The second is improving much less, and selected measures are already turning upward.
+
+There is nevertheless an important structural counterweight: IGP-M inflation at 2.16% y/y remains far below IPCA-15 at 4.24%. This means the level of wholesale inflation entering contractual indexation and future cost pass-through remains low even as its sequential direction becomes less favourable.
+
+State transition: stabilization with early reversal risk — upstream deflation remains substantial on a 12-month basis, but the August composition suggests that the strongest phase of producer-price disinflation may be ending.
+
+Context from prior regional live file:
+
+April IGP-M had surged 2.73% before May slowed sharply to 0.84%, establishing a transition from renewed pipeline inflation toward upstream relief. July subsequently delivered deep producer deflation, while consumer services remained the unresolved constraint. August preserves the low wholesale-inflation regime but introduces a new warning that agriculture and underlying final goods may be turning before downstream services inflation has fully normalized.
+
+4. HF Take — Strategist Layer
+
+The release is not independently decisive for Copom, but it weakens the argument that Brazil can rely indefinitely on upstream disinflation to pull consumer inflation lower.
+
+Reaction-function map:
+
+* the -0.22% headline and 2.16% 12-month rate remain broadly disinflationary
+* low IGP-M indexation should continue to restrain some future contractual and administered-price resets
+* the small Reuters miss has essentially no standalone policy significance
+* however, the agricultural reversal removes one source of future food-price relief
+* positive ex-fresh-food/ex-fuel final-goods inflation suggests that underlying producer-price momentum deserves closer monitoring
+* construction labour reinforces the domestic-wage/services constraint already visible in IPCA-15
+* energy-driven intermediate-goods deflation should not be extrapolated mechanically if the oil shock reverses
+* the report therefore supports gradual easing more than aggressive easing
+
+For DI, the IGP-M headline alone is modestly receiver-friendly, but the composition argues against adding materially to the dovish signal generated by IPCA-15 and weak activity.
+
+For BRL, this is secondary. The relevant risk would be a sequence in which agricultural/raw-material inflation continues rising, consumer services stay sticky and the Copom nevertheless accelerates cuts. That combination would erode the inflation/carry support for the currency more clearly than this IGP-M print itself.
+
+The next verification tests are:
+
+* September IPCA/IPCA-15 after the Itaipu reversal
+* whether agricultural IPA remains positive
+* whether final goods ex-food/fuels continue rising
+* whether construction labour inflation persists
+* whether lower 12-month IGP-M translates into benign 2027 contractual indexation
+
+If producer ex-measures soften again while services continue to decelerate, August will look like a temporary agriculture/energy cross-current inside a broader disinflation process.
+
+If agriculture, ex-fuel final goods and labour costs all strengthen while consumer services remain near 5–7%, the current “headline relief / sticky underlying inflation” tension becomes a more explicit inflation-pipeline reversal.
+
+D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The BCB remained at **14.00%** through the window, with no meeting and no policy-relevant remarks from any sitting Copom voter. The tape nevertheless became more consequential because the committee’s two relevant information sets diverged further: August IPCA-15 delivered the third consecutive downside surprise and outright deflation, while activity expectations weakened, but the medium-horizon expectations series embedded in Copom’s standing reaction-function doctrine failed to improve. The 2027 Focus median rose again to **4.25%**, 2028 remained at **3.80%**, and fiscal expectations stayed adverse. Meanwhile the market’s modal path shifted toward a **25bp September cut followed by a hold**. The result is a genuine doctrine-versus-data tension rather than a clean easing signal.
+
+Banco Central do Brasil — Focus Survey — 24 Aug 2026
+Importance: ****
+
+Key policy signal:
+The Focus tape remained hawkish on the horizon Copom has emphasized most heavily: 2027 IPCA rose from 4.24% to 4.25%, 2028 remained at 3.80%, and expectations stayed materially above the 3% target. At the same time, the 2026 GDP median fell to 1.95%, strengthening the activity-side easing case. The Selic year-end median remained 13.75%, with the supplied scout interpreting the modal path as a 25bp September cut followed by a hold.
+
+Representative quote:
+“n/a — survey data, no speaker quote.”
+
+Incremental reaction function:
+The activity threshold moved in a dovish direction, but the expectations threshold did not. Under the standing paragraph-9 framework carried over from the August minutes, the conditions for confidently relaxing the “greater restriction for longer” logic remained unmet. A September cut would therefore amount either to greater weight on realized disinflation/activity or to a calibration step despite still-uncomfortable medium-horizon expectations.
+
+IBGE / IPCA-15 — 26 Aug 2026
+Importance: ****
+
+Key policy signal:
+IPCA-15 printed **-0.40% m/m** and **4.24% y/y**, the third consecutive downside surprise and the strongest realized-inflation argument for another cut. But the signal was heavily contaminated by temporary/volatile components: the Itaipu electricity bonus was the largest single drag, while airfares, fuels and fresh food also contributed materially. The supplied central-bank scout therefore characterizes the release as providing **cover to cut, not conviction**.
+
+Representative quote:
+“n/a — statistical release, no speaker quote.”
+
+Incremental reaction function:
+The near-term inflation barrier fell sharply, but the release did not resolve the medium-term services/expectations problem. Because the Itaipu effect mechanically reverses, Copom would need underlying services/core improvement to treat August as a durable reaction-function break rather than a one-off headline event.
+
+Copom communication sweep — 16–29 Aug 2026
+Importance: ***
+
+Key policy signal:
+No policy-relevant public remarks were found from Galípolo, Nilton David, Picchetti, Ailton de Aquino, Vivan, Correa or Teixeira. This was the second consecutive committee-silent window.
+
+Representative quote:
+“n/a — no in-window Copom speaker.”
+
+Incremental reaction function:
+The absence of communication leaves no official bridge between the August minutes’ doctrine and the subsequently softer realized data. The September statement therefore carries unusually high information content: a pause would validate the expectations-led doctrine, while a cut would show that the committee is willing to calibrate despite still-de-anchored medium-horizon expectations.
+
+Banco Central do Brasil — 280th Copom Minutes — 11 Aug 2026
+Importance: ****
+Status: Carry-over reaction-function anchor; outside the DATA WINDOW but explicitly supplied in the validated central-bank tape.
+
+Key policy signal:
+The supplied scout identifies paragraph 9 as the operative doctrine: persistent de-anchoring implies a need for greater restriction for longer. That framework is the relevant benchmark against which the in-window Focus deterioration and realized disinflation must be read.
+
+Representative quote:
+“n/a — doctrine summarized in supplied validated tape.”
+
+Incremental reaction function:
+Because 2027/2028 expectations did not turn lower during the window, the stated doctrine still points toward caution. The supplied scout therefore retains a **slight doctrine-based lean to pause**, while explicitly classifying September as a genuine coin-flip because realized inflation, activity and market pricing moved to the cut side.
+
+Bottom line — central bank tape
+
+**Committee-silent, data-loud, reaction function unresolved.** The realized tape supports another measured cut; the expectations tape still supports a pause. Market pricing moved to **September cut / then hold**, but Copom itself supplied no in-window confirmation. The most important policy state transition is therefore not “dovish Copom,” but **maximum cut-versus-pause tension between revealed macro data and the committee’s previously stated doctrine**.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction:
+Realized inflation and activity are moving in the direction normally associated with further easing, but the medium-horizon inflation expectations the committee has treated as binding worsened again, while much of the strongest August headline disinflation is temporary or reversible.
+
+Why it matters:
+A September cut would be consistent with the realized-data path but difficult to interpret as simple application of the standing paragraph-9 doctrine; a pause would preserve doctrine but explicitly look through three consecutive downside inflation surprises and weaker activity.
+
+Implication:
+Brazil enters the next decision in a **doctrine-versus-data regime**: measured easing remains economically defensible, but the central-bank reaction function itself is now the unresolved macro variable.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+**** Brazil — IPCA-15 Mid-Month CPI (26 Aug)
+Why it matters: The decisive policy print of the window. The double downside surprise and return inside the tolerance band materially reduce the immediate inflation barrier, but the Itaipu/airfare/fuel composition and still-elevated labour-intensive services make the underlying signal substantially less dovish than the headline.
+
+*** Brazil — IBC-Br Economic Activity (17 Aug)
+Why it matters: Broad contraction across industry, services, taxes and ex-agriculture, together with the sharp Q1-to-Q2 slowdown and negative Q3 carry, provides the clearest evidence that restrictive policy is generating a genuine activity downshift.
+
+*** Brazil — IGP-M Inflation Index (28 Aug)
+Why it matters: Low 12-month wholesale inflation remains supportive, but agriculture, raw materials and final goods excluding fresh food/fuels turned materially firmer. The report is the best early-warning test of whether the upstream disinflation pipeline has already reached its trough.
+
+*** Brazil — Current Account / FDI (27 Aug)
+Why it matters: Both monthly financing legs missed in the wrong direction and FDI failed to cover the current-account gap, but trailing FDI coverage and reserves remain strong. The release shifts the external account from clean support to monitoring mode without establishing structural BRL vulnerability.
+
+G. RED TEAM QUESTIONS
+
+1. After stripping out Itaipu, airfares, fuels and fresh food, how much genuine month-on-month improvement remains in IPCA-15 core/services inflation versus July?
+
+2. If Copom cuts in September while 2027 Focus expectations are still rising, does that represent a genuine reaction-function shift away from the paragraph-9 doctrine or merely a one-step calibration before a renewed pause?
+
+3. Is the market’s September-cut pricing correctly reading Copom’s revealed preference for repeated 25bp calibration better than the committee’s own hawkish communication?
+
+4. What future activity composition would falsify the current growth-downshift interpretation — specifically, would resilient household consumption and services be enough to reclassify June as an end-quarter correction?
+
+5. Is the +0.39% final-goods ex-fresh-food/ex-fuel IGP-M print the beginning of a producer-pipeline reversal, or merely normalization after unusually deep deflation?
+
+6. Are labour-intensive services near 7% and accelerating INCC labour costs manifestations of a common wage-cost persistence problem, or largely separate inflation processes?
+
+7. If September headline inflation rebounds mechanically while services soften, will the expectations/fiscal channel still be sufficient to force a pause, or does underlying disinflation become the dominant reaction-function input?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+**Pair convention: USD/BRL — lower USD/BRL = stronger BRL.**
+
+The publicly visible institutional view entering and through the window was **medium-term constructive BRL, but increasingly cautious tactically into the October election**. ING’s 6 August framework retained a mildly bullish BRL bias and projected USD/BRL at **5.15 over 1–3 months, 5.00 over six months and 4.75 over 12 months**, arguing that high carry remained attractive despite approaching political risk. BNP Paribas similarly expected BRL to remain an EM outperformer because of attractive carry, but judged election/fiscal risk to be worsening the near-term risk-reward, with a **3M target of 5.30 and 12M target of 5.00**.
+
+The clearest change **during** the window was a deterioration in the expected near-term path rather than abandonment of the medium-term BRL thesis. On 18 August, Goldman Sachs reportedly raised its 3M USD/BRL forecast from **4.90 to 5.20** and its 6M forecast from **5.00 to 5.10**, while leaving the 12M target at **5.00**. The revision therefore removed the previously expected near-term BRL appreciation while preserving the longer-run destination.
+
+Spot itself moved far less than that forecast revision: USD/BRL was around **5.20–5.22 at the start of the window and about 5.19–5.20 on 28 August**. Spot therefore finished already close to Goldman’s revised tactical target and inside the public 3M target cluster, leaving less attractive near-term asymmetry even while several institutions retained stronger-BRL medium-term targets.
+
+**Public-bank 3M range:** **5.15–5.30 USD/BRL** — ING 5.15, Goldman Sachs 5.20, BNP Paribas 5.30.
+
+**Constructive BRL cluster:** **4.75–5.00 on a 12M horizon** — ING 4.75; Goldman Sachs 5.00; BNP Paribas 5.00.
+
+**More cautious / tactical view:** approximately **5.20–5.35** — Goldman’s revised 3M 5.20 and Rabobank’s year-end 5.35 bracket the more cautious side of the public sample.
+
+**Bias at window close:** medium-term constructive BRL, but tactically close to fair value / two-sided ahead of the election; at roughly 5.19–5.20, spot had already converged toward the centre of the near-term public-bank target cluster.
+
+### What changed through the data window
+
+The starting configuration was a classic high-carry BRL view with rising political caution. ING still expected roughly 13% implied yields to support the currency and argued that 25bp BCB cuts would not materially damage BRL’s appeal, while BNP Paribas also saw attractive carry and a cautious BCB stance as sufficient to preserve medium-term outperformance.
+
+The clearest forecast revision came on 18 August: Goldman shifted the near-term path higher in USD/BRL without changing the 12M endpoint. This was therefore **forecast-path deterioration, not a structural bearish-BRL turn**. Election risk was pushed into the next three to six months; high carry remained the medium-term recovery mechanism.
+
+By 26 August, Reuters still described the real as supported by high interest rates, favourable trade conditions and carry demand, but emphasized that fiscal credibility remained the central investor concern into the election. Rabobank’s contemporaneous August view similarly kept the interest-rate differential and external fundamentals as supports while placing fiscal/election and global-dollar risks on the depreciation side.
+
+The pair ended the window only modestly below its starting level. The principal evolution was therefore **greater tactical caution and a flatter expected BRL path**, not a large realized depreciation or collapse of the medium-term carry thesis.
+
+### Main consensus drivers
+
+**Carry / policy differential:**
+Brazil’s exceptionally high carry remained the central BRL support. ING judged that gradual BCB easing would leave the currency attractive, while Rabobank also identified the wide rate differential as an appreciation force. The key risk was not the first small cut itself, but whether the easing path eventually compressed carry faster than inflation credibility improved.
+
+**Election / fiscal premium:**
+This became the dominant tactical cap. Goldman’s forecast revision explicitly incorporated greater election risk, BNP Paribas described election politics and fiscal sustainability as the principal obstacles to BRL’s risk-reward, and Reuters emphasized investor concern that neither main political outcome guaranteed sufficient fiscal adjustment.
+
+**Global USD / risk regime:**
+The constructive BRL path relied partly on a benign global-dollar environment and continued appetite for carry. A renewed hawkish Fed or broad risk-off shock would challenge the thesis through both the USD leg and the willingness to hold high-beta EM carry.
+
+**External / terms-of-trade buffer:**
+Strong external fundamentals and terms-of-trade support remained important offsets to fiscal risk. Reuters highlighted favourable trade conditions as one reason the real remained resilient, while Rabobank also treated the external side as an important buffer.
+
+### Where consensus could be wrong
+
+**Consensus too bullish BRL:**
+The 4.75–5.00 medium-term cluster assumes that high carry survives gradual easing and that election uncertainty does not turn into a lasting fiscal-risk repricing. A post-election fiscal disappointment, faster-than-expected Selic compression, stronger global USD or deterioration in capital flows could instead keep USD/BRL above the 5.20–5.35 tactical zone for longer.
+
+**Consensus too cautious BRL:**
+If high real carry remains intact, the global dollar softens and the election produces credible fiscal-consolidation signals, spot could move through 5.00 faster than the cautious near-term forecasts imply. ING’s 4.75 12M path represents the constructive tail if carry and external support dominate the political premium.
+
+**Key falsification:**
+A sustained USD/BRL break **below 5.00 without a corresponding improvement in fiscal visibility** would falsify the dominant assumption that election risk should cap near-term BRL appreciation; conversely, a sustained move **above 5.35 accompanied by rising fiscal risk and deteriorating flows** would invalidate the medium-term constructive carry thesis.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Growth downshift / headline disinflation / sticky domestic inflation / still-robust structural external buffer / unresolved Copom reaction function.
+* **Change:** Macro data became more easing-compatible, but rising 2027 expectations and a silent committee converted the policy state into a doctrine-versus-data coin-flip.
+
+### Scoreboard
+
+* **Growth:** - | Broad IBC-Br contraction; Q2 momentum slowed sharply; negative Q3 carry; Focus GDP expectations fell.
+* **Labor:** ~ | No clean verified labour release; firm labour-cost signals remain.
+* **Inflation:** + | IPCA-15 downside surprise and better short-run cores, partly offset by temporary headline relief, sticky services and still-high expectations.
+* **Financial Conditions:** ~ | Monthly CA/FDI financing weakened, but trailing FDI coverage and reserves remain strong; long-end premium stayed elevated.
+* **Policy Constraint:** ~ | Realized data support another cut, but 2027/2028 expectations still violate the standing Copom doctrine.
+
+### Major Release Tape
+
+* **** **IPCA-15** — -0.40% m/m / 4.24% y/y, both 0.1pp below poll → strongest realized easing signal, but Itaipu/airfare/fuel effects and near-7% labour-intensive services prevent aggressive extrapolation.
+* *** **IBC-Br** — -0.60% m/m vs -0.53% poll → broad activity deterioration, Q2 deceleration and negative Q3 carry.
+* *** **IGP-M** — -0.22% vs -1.16% prior → wholesale deflation persists, but agriculture/raw materials and underlying final goods are turning firmer.
+* *** **Current Account / FDI** — -US$8.11bn / +US$7.46bn, both worse than poll → monthly financing deteriorates; no structural external-stress signal.
+
+### Minor Tape
+
+* **Minor:** none — all archived releases were *** or ****.
+
+### Central Bank
+
+* **Bias:** cut-versus-pause / two-sided; supplied scout retains a slight doctrine-based pause lean while the market moved to a September cut.
+* **Reaction function:** realized disinflation + weaker growth argue cut; 2027/2028 Focus de-anchoring argues pause under paragraph 9.
+* **Key tape:** Selic 14.00%; no Copom voter spoke in-window; Focus modal path = 25bp September cut then hold; 2027 IPCA rose to 4.25%.
+
+### Signal Tension
+
+* **Tension:** Realized data say easing; the expectations series Copom calls binding still says restriction.
+* **What resolves it:** whether Copom cuts despite rising 2027 expectations, plus whether underlying services continue falling after the Itaipu reversal.
+
+### Key Releases
+
+1. **IPCA-15** — strongest near-term easing signal, weakest beneath the headline.
+2. **IBC-Br** — clearest confirmation of a genuine activity downshift.
+3. **IGP-M** — key early warning that upstream disinflation may be bottoming.
+4. **Current Account / FDI** — monthly BRL financing quality worsened without structural stress.
+
+### Red Team
+
+* How much IPCA-15 disinflation survives after removing Itaipu, airfares, fuels and fresh food?
+* If Copom cuts with 2027 Focus still rising, is that a reaction-function shift or only calibration before another pause?
+* Is market pricing reading Copom’s revealed preference better than paragraph-9 communication?
+
+### FX Consensus
+
+* **Consensus:** medium-term constructive BRL; tactically two-sided into the October election.
+* **Public-bank range:** 5.15–5.30 USD/BRL on a 3M horizon.
+* **Constructive cluster:** 4.75–5.00 on a 12M horizon.
+* **Cautious / tactical:** approximately 5.20–5.35.
+* **At window close:** spot around 5.19–5.20 was already near the centre of the tactical target cluster, limiting clean near-term asymmetry.
+* **Drivers:** high carry/policy differential; election/fiscal premium; global USD regime; external/terms-of-trade buffer.
+* **Consensus wrong if:** USD/BRL breaks sustainably below 5.00 without better fiscal visibility, or above 5.35 alongside persistent fiscal/flow deterioration.
+
+<<BRL_WEEK_END>>
+
+
+<<BRL_WEEK_BEGIN>>
+
 DATA WINDOW: 9 Aug 2026 to 15 Aug 2026
 
 ## A. BRL WEEK — MACRO SYNTHESIS
