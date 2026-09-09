@@ -210,6 +210,34 @@ commentary, commentary on a different indicator, pre-shock-era
 views. Historical context may be noted only if dated and labelled
 "HISTORICAL — not current."
 
+
+=============================================================
+DATE / VINTAGE CONSTRAINT
+
+For every voice, verify that the comment belongs to the exact target release vintage.
+
+Default admissible window:
+
+Release timestamp → 7 calendar days after the release
+
+Priority:
+
+same-day reaction
+next-day reaction
+within 72 hours
+later commentary only if it explicitly discusses the target release
+
+Rules:
+
+Do not use pre-release previews as post-release reactions.
+Do not use later articles that recycle quotes from an earlier release or central-bank meeting.
+Publication date alone is not sufficient: the quote/comment itself must clearly refer to the target release.
+Check that any data, policy-rate level, forecast or macro reference mentioned by the economist was actually known at the target date.
+If the vintage is unclear or inconsistent:
+Wrong / Uncertain Vintage — Do Not Ingest
+
+
+
 ================================================================
 QUESTION HANDLING (WHEN SUPPLIED)
 
