@@ -1,3 +1,972 @@
+<<JPY_WEEK_BEGIN>>
+
+DATA WINDOW: 30 August 2026 to 5 September 2026
+
+# A. JPY WEEK — MACRO SYNTHESIS
+
+Japan ended the window in a **corporate-strong / household-weak regime with persistent pricing pressure and a BoJ normalization process moving from hawkish drift toward near pre-commitment**. Industrial production, semiconductor-linked orders, corporate capex/profits and domestic services activity all remained resilient or improved, materially weakening the argument that the economy cannot absorb further normalization. Takata's 2 September communication went further: the Bank should not be bound by fixed intervals or magnitudes of rate increases, while the contemporaneous sourced policy tape pointed toward a September hike and potentially faster normalization thereafter. The record ¥15.3993tn MoF intervention total for 30 July–26 August adds an important FX-policy constraint: currency defense has become too large to function indefinitely as a substitute for the rate channel.
+
+The counterweight is household demand. Real household spending fell 3.6% y/y for an eighth consecutive contraction, the sequential recovery badly undershot expectations, and both nominal spending and surveyed real income weakened. The state transition is therefore **not generalized domestic acceleration but stronger corporate/services nominal conditions alongside a renewed household real-income squeeze, with the September hike direction increasingly prepared but the post-September cadence still conditional**. The central question has shifted from whether normalization can continue to how quickly it can proceed without deepening the household squeeze or destabilizing an already repriced JGB/FX complex.
+
+# B. JPY MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+
+Supporting evidence:
+Industrial production extended its expansion, manufacturing orders remained strong, corporate capex and profits improved materially, and services/composite PMIs strengthened. Against that, real household spending contracted 3.6% y/y for an eighth consecutive decline and failed to rebound meaningfully after June. Corporate/services resilience is real, but broad resident-demand acceleration is not established.
+
+Labor: ~
+
+Supporting evidence:
+The supplied release archive contains no hard labor-market release. Services PMI employment still increased but at the weakest pace in a year, creating a meaningful divergence between stronger activity and very soft hiring momentum. Evidence in the release archive remains insufficient for a directional hard-labor signal.
+
+Inflation: -
+
+Supporting evidence:
+Services firms retained exceptionally strong pricing power, with output-charge inflation running at the second-fastest pace in the survey's history. At the same time, the household survey showed a large real-income and real-spending squeeze. Price pressure therefore remains economically restrictive rather than clearly easing.
+
+Financial Conditions: ~
+
+Supporting evidence:
+The monetary base contracted 15.73% y/y as BoJ balance-sheet normalization intensified, but the supplied archive explicitly finds no evidence that reserve withdrawal has yet translated into broad private-liquidity or credit stress. Owner-occupied housing softness provides some rate-sensitive transmission evidence, but not enough to classify financial conditions as broadly restrictive.
+
+Policy Constraint: -
+
+Supporting evidence:
+The constraint moved materially more hawkish during the window. Takata explicitly attacked the assumption of fixed tightening intervals, the validated sourced tape pointed to a September hike and potentially faster normalization thereafter, and the record ¥15.3993tn MoF intervention total strengthens the case for shifting more of the currency-stabilization burden onto monetary policy. Against that, sharply contracting household real spending raises the economic cost of faster tightening. September normalization is increasingly prepared; acceleration beyond it remains constrained by household demand, the yen response and long-end financial conditions.
+
+# C. FULL RELEASE ARCHIVE
+
+## MONDAY 31 AUG 2026
+
+### JAPAN — INDUSTRIAL PRODUCTION PRELIMINARY (JUL)
+
+Release Date: 31 Aug 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Industrial O/P Prelim MM SA: 0,1% | Prior: 1,9% | Poll: -0,7% | Surprise: 0,80%
+
+#### 2. Professional Market Commentary
+
+The professional framing is resilient manufacturing rather than a new industrial acceleration.
+
+July production edged up 0.1% m/m, extending the expansion to a fourth consecutive month and materially beating expectations for a decline. The underlying hard-data profile was stronger than the small headline: shipments increased materially faster than production and inventory ratios declined.
+
+Manufacturers simultaneously projected a very strong +6.4% increase in August output followed by a -4.2% correction in September. This makes the near-term production outlook constructive but unusually timing-sensitive rather than the beginning of a smooth new acceleration. METI-linked data confirm July industrial production at 104.7, shipments at 103.5 and the +6.4% / -4.2% August-September production forecast profile.
+
+No Tier 1 institutional debate detected.
+
+#### 3. Comment — Economist Layer
+
+This is a positive resilience print with better underlying demand quality than the +0.1% headline suggests.
+
+Signal hierarchy:
+
+* production increased for a fourth consecutive month
+* the +0.1% outcome materially rejected the consensus expectation for contraction
+* shipments rose 2.2% m/m, materially faster than production
+* inventories increased only modestly while the inventory ratio declined
+* electronic-parts inventories were being drawn down
+* production machinery, chemicals and electronic parts/devices were among the positive contributors
+* manufacturers materially upgraded their August production plan
+* the projected September reversal argues strongly against mechanically extrapolating August
+
+The shipments/inventory configuration is particularly useful. Shipments materially outrunning production while the inventory ratio falls is more consistent with output being absorbed than with factories merely accumulating unsold stock.
+
+The semiconductor-chain detail strengthens that interpretation. Falling electronic-parts inventories alongside production gains suggests genuine inventory drawdown in the chip complex. That is better-quality demand evidence than the earlier phase of Japan's industrial recovery, when precautionary stockbuilding around supply-chain and energy disruption remained an important alternative explanation.
+
+There is nevertheless a clear distinction between level resilience and momentum acceleration. Production itself rose only 0.1% after 1.9% in June. METI retained a cautious characterization of production as fluctuating rather than accelerating decisively.
+
+The +6.4% August / -4.2% September production-plan profile reinforces that caution. Machinery, ICT and transport-equipment output may be concentrated around deliveries or other timing effects rather than establishing a continuously rising production path.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+Japan's industrial side had already recovered from the March disruption, with April hard production data rejecting an immediate external-shock collapse and semiconductor/machinery indicators subsequently remaining among the strongest elements of the DM tape. July extends that resilience and adds better evidence of inventory absorption, but the small headline gain and volatile forward profile prevent an acceleration call.
+
+#### 4. HF Take — Strategist Layer
+
+The release is modestly supportive of continued BoJ normalization because it reduces the argument that external shocks are forcing the industrial economy into contraction.
+
+Reaction-function map:
+
+* industrial resilience removes one growth-fragility objection to normalization
+* shipment strength and chip-inventory drawdown improve the quality of the manufacturing signal
+* +0.1% realized output is not strong enough to become a standalone tightening catalyst
+* the August/September production-plan whipsaw makes the signal unusually timing-sensitive
+* JPY/JGB relevance is mildly normalization-positive but subordinate to inflation, wages and domestic-demand evidence
+
+The broader archived Japan sequence had already established that stronger industrial activity could coexist with softer household fundamentals. July industrial production reinforces the corporate-resilience side of that configuration rather than establishing a new regime.
+
+Next verification test: realized August industrial production. Material realization of the +6.4% plan alongside continued semiconductor inventory drawdown would strengthen the genuine capex/AI-cycle interpretation; a large undershoot would favor the temporary pull-forward explanation.
+
+### JAPAN — RETAIL SALES / LARGE-SCALE RETAIL SALES (JUL)
+
+Release Date: 31 Aug 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Retail Sales YY: 4,0% | Prior: 0,5% | Revised: 0,6% | Poll: 2,9% | Surprise: 1,10%
+
+Large Scale Retail Sales YY: 2% | Prior: -1%
+
+#### 2. Professional Market Commentary
+
+The professional framing is a sharp commerce rebound after June weakness, but with meaningful composition caveats.
+
+Retail sales increased 4.0% y/y, materially above consensus, while the monthly measure rebounded around 2.4%. Autos rose 16.2% y/y, machinery/equipment 6.3%, while department stores increased 4.3%; inbound demand and summer-related purchases contributed to department-store strength.
+
+The composition is therefore less clean than the headline:
+
+* autos remained exceptionally strong
+* machinery and equipment rebounded
+* department stores benefited partly from inbound/luxury demand
+* supermarket and convenience-store growth was much softer
+* apparel remained in contraction
+* some retail growth represents higher nominal prices rather than stronger real volumes
+
+No qualifying named-economist debate was detected.
+
+#### 3. Comment — Economist Layer
+
+This is a meaningful consumption-related improvement, but not clean evidence of broad real-household-demand acceleration.
+
+The first-order signal is the scale of the rebound:
+
+* headline retail sales accelerated to 4.0% y/y from a revised 0.6%
+* the result beat consensus by 1.1pp
+* monthly sales reversed much of June's sharp contraction
+* large-scale retail sales returned to positive annual growth
+
+That substantially weakens the interpretation that June represented the start of a sustained commerce downturn.
+
+Breadth is also better. Machinery and equipment returned to growth, general merchandise improved and food/beverages turned positive.
+
+But the internal hierarchy matters.
+
+**Autos remain an outsized engine.** Motor-vehicle sales increased around 16% y/y for a second month. That confirms strong durable-goods spending but leaves timing, new-model and purchase-incentive effects as important qualifications.
+
+**Department-store strength is partly externally funded.** Inbound tourism and tax-free/luxury spending lift measured retail activity without necessarily representing stronger purchasing power among Japanese resident households.
+
+**Staples remain softer than discretionary hot spots.** Food growth was modest and apparel remained negative.
+
+**These are nominal sales.** With consumer prices still rising materially, headline retail growth overstates the increase in real consumption volumes.
+
+The release therefore supports a resilient-commerce interpretation more than a consumer-boom interpretation.
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+April retail sales had already shifted Japan toward resilience and exceeded expectations, while May subsequently strengthened the commerce signal. The prior archive nevertheless warned that retail strength did not yet demonstrate durable real-income transmission. July restores that resilience after June weakness, but the concentration in autos, nominal-price effects and inbound-sensitive spending preserves the same qualification.
+
+#### 4. HF Take — Strategist Layer
+
+The release supports continued BoJ normalization through the domestic-activity channel, but it does not settle the reaction function.
+
+BoJ interpretation:
+
+* the July rebound reduces the probability of an abrupt domestic-demand rollover
+* combined with resilient industrial activity, it weakens a growth-based argument for delaying normalization
+* strength in discretionary durable categories is constructive
+* nominal-sales inflation, auto concentration and inbound spending make the resident-demand signal weaker than the headline
+* retail resilience supports normalization but does not independently justify faster tightening
+
+The key distinction remains ability to tighten versus need to tighten.
+
+Retail resilience strengthens the argument that the economy can absorb further normalization. It does not prove that endogenous household demand and wage-price transmission are sufficiently strong to require acceleration.
+
+For JPY/JGBs, the signal is mildly hawkish at the margin rather than a standalone catalyst.
+
+The principal verification test is household spending. Confirmation there would make the domestic-demand signal materially cleaner; divergence would imply that the retail headline overstates resident-consumer strength.
+
+### JAPAN — HOUSING STARTS (JUL)
+
+Release Date: 31 Aug 2026 | Local Time: 07:00
+Importance: **
+
+#### 1. Reuters Data
+
+Housing Starts YY: 8,2% | Prior: 18,6% | Poll: 7,8% | Surprise: 0,40%
+
+#### 2. Professional Market Commentary
+
+The release is best framed as continued positive annual construction growth with clear sequential cooling, not renewed housing acceleration.
+
+Housing starts increased 8.2% y/y, marginally above consensus and marking a fourth consecutive annual increase, but growth slowed sharply from 18.6% in June.
+
+MLIT reported that the seasonally adjusted annualized rate fell 1.6% m/m. The official release attributes annual growth to increases in owner-occupied, rental and built-for-sale housing.
+
+The composition is uneven: owner-occupied housing was almost flat on the year while rental and built-for-sale construction remained substantially stronger.
+
+No Tier 1 institutional debate detected.
+
+#### 3. Comment — Economist Layer
+
+The primary signal is normalization after a base-effect-driven surge, with weaker evidence of underlying household housing demand.
+
+The annual headline remains positive, but three details downgrade its quality.
+
+First, momentum is slowing materially. Annual growth fell sharply from June, while the seasonally adjusted annualized level declined on the month.
+
+Second, the internal composition is asymmetric. Owner-occupied construction was effectively stagnant compared with much stronger rental and developer-led construction.
+
+Third, the annual comparison remains distorted by the exceptionally weak 2025 base surrounding building-standard changes. The shift from severe contraction earlier in the sequence to double-digit annual growth overstates underlying construction momentum.
+
+The owner-occupied category is therefore the more useful marginal signal. Near-flat household-purchase construction alongside stronger rental and developer activity is consistent with the construction sector remaining supported while household affordability and financing constraints become more visible.
+
+The hypothesis that BoJ normalization is beginning to transmit through mortgage-sensitive household demand is plausible, but not proven by this release alone. Persistence would be required.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+Japan housing had already moved from the March regulatory distortion into positive annual growth, but the archived file explicitly characterized the rebound as base-effect-heavy rather than a clean construction-cycle recovery. July continues the positive annual sequence while showing softer sequential momentum and much weaker owner-occupied demand. Housing remains resilient, but it is not an accelerating domestic-demand signal.
+
+#### 4. HF Take — Strategist Layer
+
+This is largely neutral for the BoJ reaction function, with a mild softening signal through the household housing channel.
+
+BoJ interpretation:
+
+* headline construction remains positive
+* rental and developer activity argue against a housing-sector contraction
+* owner-occupied weakness is the more relevant rate-sensitive signal
+* sequential weakness makes the print less hawkish than the annual headline
+* housing remains secondary to wages, services inflation and consumption for policy timing
+
+For JPY/JGBs there is little standalone trading signal.
+
+Another weak owner-occupied reading accompanied by further sequential deterioration would make the housing-transmission channel materially more relevant.
+
+## TUESDAY 1 SEP 2026
+
+### JAPAN — MOF CORPORATE SURVEY / BUSINESS CAPEX (Q2)
+
+Release Date: 1 Sep 2026 | Local Time: 01:50
+Importance: ***
+
+#### 1. Reuters Data
+
+Business Capex (MOF) YY: 1,6% | Prior: 0,0%
+
+#### 2. Professional Market Commentary
+
+The institutional read is a re-acceleration in corporate investment backed by exceptionally strong profitability, strengthening the case that Japan's corporate sector remains capable of absorbing further monetary normalization.
+
+Capital expenditure rose 1.6% y/y after effectively flat growth in Q1 and increased 1.5% q/q on a seasonally adjusted basis. Corporate sales increased 5.9% y/y while recurring profits surged 24.6% to a record ¥44.7tn. Reuters framed the combination as supportive of the growth outlook and the BoJ normalization case.
+
+Takeshi Minami of Norinchukin Research Institute linked the investment outlook to global AI competition and prospective investment incentives, arguing that firms face pressure to continue investing and that resilient earnings reduce the constraint from additional rate increases.
+
+#### 3. Comment — Economist Layer
+
+This is a meaningful improvement in the corporate-capex bucket, but the composition matters more than the 1.6% aggregate headline.
+
+The first-order signals are constructive:
+
+* capex: +1.6% y/y versus approximately flat previously
+* seasonally adjusted capex: +1.5% q/q
+* sales: +5.9% y/y
+* recurring profits: +24.6% y/y
+* recurring profits reached a record level
+
+The strongest signal is therefore not simply capex but the corporate income statement.
+
+Corporate Japan is generating exceptionally strong nominal earnings despite higher policy rates and the external shock environment. That materially lowers the probability that modest additional BoJ tightening immediately destabilizes the large-corporate sector.
+
+There is nevertheless a measurement tension. The MOF survey showed improving investment momentum while the preliminary national accounts had reported weaker Q2 business investment. The measures have different sampling and accounting concepts and should not be mechanically equated.
+
+The correct signal is therefore that corporate-survey evidence is firmer than the preliminary national-accounts investment picture, not that the latter has already been disproved.
+
+Signal hierarchy:
+
+1. record profitability = strongest signal
+2. positive seasonally adjusted capex momentum = constructive
+3. continuing structural investment incentives = supportive
+4. sector divergence = qualification
+5. national-accounts confirmation remains necessary
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+Japan's investment sequence had remained volatile, with strong machinery-order rebounds followed by reversals and the archived file repeatedly distinguishing corporate/technology resilience from weaker household demand. The new MOF survey shifts the corporate-investment signal back toward improvement and, more importantly, confirms substantial financial capacity in the corporate sector. It does not eliminate the divergence between investment plans, machinery orders and realized national-accounts capex.
+
+#### 4. HF Take — Strategist Layer
+
+This is more BoJ-relevant than its calendar classification suggests.
+
+Reaction-function map:
+
+* corporate profits provide a substantial buffer against higher financing costs
+* positive q/q capex momentum reduces the argument that normalization is choking investment
+* AI, semiconductor, automation and labour-saving investment remain structural reasons for firms to sustain capex
+* prospective fiscal investment incentives could reinforce that channel
+* sector divergence prevents treating the report as uniformly strong
+* household demand remains a separate constraint and cannot be inferred from corporate profitability
+
+The key distinction is again capacity to tighten versus necessity to tighten.
+
+This release improves the capacity side materially. Large firms appear financially capable of tolerating higher rates.
+
+It is less decisive on the necessity side, which remains more dependent on wages, services inflation and durable domestic-demand transmission.
+
+For JPY/JGBs, the block is moderately hawkish at the margin but not a standalone trigger.
+
+The next verification point is whether stronger MOF investment evidence translates into national-accounts capex rather than remaining a survey/SNA divergence.
+
+### JAPAN — S&P GLOBAL / au JIBUN BANK MANUFACTURING PMI FINAL (AUG)
+
+Release Date: 1 Sep 2026 | Local Time: 02:30
+Importance: ***
+
+#### 1. Reuters Data
+
+S&P Global Mfg PMI Final SA: 54,9 | Prior: 55,1
+
+#### 2. Professional Market Commentary
+
+The final PMI confirms the strong August manufacturing signal rather than materially changing it.
+
+The index was finalized at 54.9, slightly below the 55.1 flash but above July's 54.5, marking an eighth consecutive month of expansion. Reuters/S&P Global reported that new business rose at the fastest pace since January 2018, supported particularly by semiconductor and AI-related demand.
+
+The economically important comparison is therefore against July rather than against the preliminary August estimate.
+
+Annabel Fiddes at S&P Global argued that the sector remained well placed to sustain strong performance, particularly given AI-linked demand.
+
+#### 3. Comment — Economist Layer
+
+The correct read is strong underlying manufacturing momentum with essentially no information in the 0.2pt flash-to-final revision.
+
+Two comparison bases must be separated:
+
+* versus August flash: 54.9 vs 55.1 — marginal downward revision
+* versus July final: 54.9 vs 54.5 — continued strengthening
+
+The second comparison is economically more important.
+
+The internals reinforce the headline:
+
+* new orders grew at the fastest pace since January 2018
+* semiconductor and AI-related products were identifiable demand drivers
+* output remained strongly expansionary
+* purchasing and backlog indicators remained elevated
+* the expansion was not limited to a supplier-delivery mechanical effect
+
+The orders/inventory configuration matters because the prior Japan PMI sequence had contained a significant precautionary-stockbuilding qualification linked to supply disruption. August provides better evidence that genuine final demand is supporting at least part of the manufacturing upswing.
+
+The unresolved issue is durability rather than current strength. METI's production forecast simultaneously points to a sharp August increase and September correction, leaving open whether current orders are concentrated around delivery schedules or pull-forward.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+The earlier Japan PMI sequence already showed manufacturing outperforming services, but part of the order acceleration was linked to precautionary stockbuilding and supply disruption. August preserves the high manufacturing level while adding stronger semiconductor/AI demand evidence, improving the quality of the signal without fully eliminating the pull-forward risk.
+
+#### 4. HF Take — Strategist Layer
+
+This is supportive of the BoJ normalization regime, but the final-versus-flash revision itself has essentially no reaction-function significance.
+
+Reaction-function map:
+
+* manufacturing growth remains comfortably expansionary
+* exceptionally strong orders reduce near-term industrial downside
+* semiconductor/AI demand reinforces the structural corporate-capex channel
+* elevated input and selling-price pressure keeps the manufacturing inflation channel live
+* supply-chain disruption still contaminates part of the signal
+* the 0.2pt revision is too small to justify meaningful policy repricing
+
+The broader significance is cumulative.
+
+Industrial production, MOF capex/profits and manufacturing PMI are now pointing in the same direction: Japan's corporate economy is absorbing the external shock considerably better than a growth-fragility narrative would imply.
+
+That strengthens the BoJ's ability to normalize. It does not determine the timing or need for the next move, which remains more dependent on domestic services prices, wages and household demand.
+
+## WEDNESDAY 2 SEP 2026
+
+### JAPAN — MONETARY BASE (AUG)
+
+Release Date: 2 Sep 2026 | Local Time: 01:50
+Importance: **
+
+#### 1. Reuters Data
+
+Monetary Base YY: -15,73% | Prior: -13,87%
+
+#### 2. Professional Market Commentary
+
+There is little professional debate around the monthly monetary-base print itself.
+
+The institutional interpretation is primarily mechanical: BoJ balance-sheet normalization is continuing and the pace of reserve withdrawal has intensified.
+
+The BoJ published the August monetary-base release on 2 September, extending a sequence of increasingly negative annual monetary-base growth.
+
+The contraction remains overwhelmingly a central-bank-reserve/current-account phenomenon rather than evidence of a collapse in physical currency demand or economy-wide private liquidity.
+
+No Tier 1 institutional debate detected.
+
+#### 3. Comment — Economist Layer
+
+The signal is accelerating quantitative tightening, but without evidence from this release alone of broad monetary restriction.
+
+The historical direction is clear: monetary-base contraction has deepened materially during 2026.
+
+This identifies the relevant transmission mechanism: the BoJ is shrinking reserve-based liquidity associated with balance-sheet normalization while currency in circulation changes much more modestly.
+
+That distinction is crucial.
+
+A falling monetary base does not automatically imply:
+
+* falling private-sector liquidity
+* collapsing bank deposits
+* contracting bank credit
+* an economy-wide monetary squeeze
+
+The archived DM sequence shows the opposite configuration: the monetary base was already contracting rapidly while M2 and broadly defined liquidity continued to expand year on year, with no evidence of acute credit-system stress.
+
+The correct hierarchy is therefore:
+
+1. BoJ footprint: shrinking rapidly
+2. bank reserves: contracting
+3. cash economy: broadly stable
+4. broad private liquidity: previously still expanding
+5. credit stress: not established
+
+The -15.73% headline should consequently be interpreted as a policy-normalization statistic rather than a growth indicator.
+
+State transition: continuation.
+
+Context from prior regional live file:
+
+Japan had already entered a configuration of rapid monetary-base contraction alongside continued expansion in broad private-sector money. The archived file explicitly classified this as quantitative tightening without broad monetary contraction. August deepens the same regime without yet showing that reserve withdrawal is binding private credit transmission.
+
+#### 4. HF Take — Strategist Layer
+
+This is a BoJ normalization confirmation, not a meeting-timing signal.
+
+Reaction-function map:
+
+* the BoJ continues removing reserve accommodation
+* the pace of balance-sheet contraction is accelerating
+* this reduces residual quantitative accommodation
+* it does not demonstrate that bank lending or broad liquidity are contracting
+* it should not be treated as evidence that policy has suddenly become excessively restrictive
+* nor does it independently increase the probability of an imminent rate move
+
+For JPY/JGBs, standalone signal value is low.
+
+The release matters as background architecture: Japan is no longer operating under an expanding-central-bank-balance-sheet regime, and further rate normalization would occur against an already shrinking monetary base.
+
+The important policy test is transmission. If reserve contraction begins to tighten funding conditions, bank lending or money-market functioning materially, the quantitative leg would become much more relevant.
+
+## THURSDAY 3 SEP 2026
+
+### JAPAN — S&P GLOBAL / au JIBUN BANK SERVICES & COMPOSITE PMI FINAL (AUG)
+
+Release Date: 3 Sep 2026 | Local Time: 02:30
+Importance: ***
+
+#### 1. Reuters Data
+
+S&P Global Comp Op Final SA: 53,5 | Prior: 53,4
+
+S&P Global SVC PMI Final SA: 52,5 | Prior: 52,3
+
+#### 2. Professional Market Commentary
+
+The final survey strengthens rather than dilutes the August flash signal.
+
+Services PMI was finalized at 52.5, up from 51.2 in July and the strongest reading in five months, while the composite rose to 53.5 from 52.7, a six-month high.
+
+The institutional tape is distinctly two-sided.
+
+Positive:
+
+* new business expanded for a 26th consecutive month
+* growth in new work accelerated from July
+* improvement was primarily driven by stronger domestic customer demand
+* overall private-sector activity strengthened further alongside manufacturing
+
+Counter-signal:
+
+* new export business fell for a fifth consecutive month
+* the export contraction was the sharpest since November 2020
+* employment increased only marginally
+* hiring growth was the weakest for one year
+
+Price pressure remained unusually strong. Input-cost inflation eased but stayed elevated, while firms increased output charges at the second-fastest rate in the survey's history.
+
+Annabel Fiddes of S&P Global Market Intelligence argued that firmer growth together with sustained cost pressure strengthened the case for another BoJ rate increase.
+
+#### 3. Comment — Economist Layer
+
+This is an important broadening of the Japan growth signal from manufacturing resilience toward stronger domestic services activity, but the internals prevent a clean broad-demand acceleration call.
+
+Primary growth signal:
+
+* services activity strengthened from 51.2 to 52.5
+* composite activity strengthened from 52.7 to 53.5
+* domestic new-business growth accelerated
+* new business has expanded for 26 consecutive months
+* composite activity reached its strongest pace in six months
+
+This matters because the prior Japan configuration had been heavily tilted toward manufacturing, semiconductors and corporate investment.
+
+August narrows that divergence.
+
+However, three qualifications matter.
+
+**Domestic and external demand are diverging sharply.**
+
+Domestic customer demand strengthened, but export services contracted for a fifth month and at the fastest rate since November 2020.
+
+**Hiring is not validating the strength of activity.**
+
+Employment still increased, but at the weakest pace in a year.
+
+This creates a notable tension:
+
+* current activity accelerating
+* domestic business strengthening
+* firms not responding with materially stronger hiring
+
+That may reflect labour scarcity, productivity investment or corporate caution rather than weak demand, but the survey does not discriminate cleanly between them.
+
+**Pricing is considerably stronger than employment.**
+
+Output-charge inflation was the second-fastest in the survey's history despite some easing in input-cost inflation.
+
+Firms therefore appear capable of maintaining unusually strong pricing power while activity improves, rather than absorbing the cost shock entirely through margins.
+
+Signal hierarchy:
+
+1. domestic services demand: stronger
+2. aggregate private-sector growth: stronger
+3. services selling-price pressure: exceptionally firm
+4. external services demand: deteriorating sharply
+5. hiring: weak relative to activity
+
+State transition: improvement.
+
+Context from prior regional live file:
+
+The earlier Japan PMI sequence was explicitly two-speed: manufacturing led while services were softer, with domestic services improvement viewed as the cleaner test of endogenous demand because goods PMIs were partly distorted by stockbuilding. August materially broadens the expansion into services while preserving strong price-setting power. Export demand and hiring remain the main qualifications.
+
+#### 4. HF Take — Strategist Layer
+
+This is one of the more useful BoJ-normalization confirmations in the current Japan tape.
+
+The reaction-function improvement comes from the combination rather than the 52.5 headline alone:
+
+* domestic services demand is strengthening
+* aggregate private-sector activity is at a six-month high
+* manufacturing is already strongly expansionary
+* services firms retain unusually strong pricing power
+* growth improvement therefore coexists with persistent domestic price transmission
+
+This reduces the credibility of a generalized-domestic-demand-weakness argument.
+
+But it is not an unqualified hawkish signal:
+
+* export services are deteriorating rapidly
+* employment growth is nearly stalled
+* confidence remains restrained
+* household hard data still need to validate the survey picture
+
+For the BoJ, the release strengthens both the ability and, at the margin, the need to continue normalization.
+
+The ability case improves because private-sector activity is broadening.
+
+The need case improves because services firms continue passing costs through at historically elevated rates.
+
+For JPY/JGBs, this is more hawkish than the manufacturing-PMI final alone, although policy timing still requires household, wage and official-inflation confirmation.
+
+## FRIDAY 4 SEP 2026
+
+### JAPAN — FAMILY INCOME AND EXPENDITURE SURVEY / HOUSEHOLD SPENDING (JUL)
+
+Release Date: 4 Sep 2026 | Local Time: 01:30
+Importance: ****
+
+#### 1. Reuters Data
+
+All Household Spending YY: -3,6% | Prior: -3,3% | Poll: -1,6% | Surprise: -2,00%
+
+All Household Spending MM: 0,5% | Prior: -6,4% | Poll: 2,6% | Surprise: -2,10%
+
+#### 2. Professional Market Commentary
+
+The professional framing is a clear household-demand disappointment and the strongest dovish activity-side print in the current Japan batch.
+
+Real household spending fell 3.6% y/y, substantially worse than the expected 1.6% decline, marking an eighth consecutive annual contraction and the steepest fall since January 2024. Sequential spending rose only 0.5% after June's large decline, materially below the 2.6% rebound expected. Reuters characterized the report as evidence of lacklustre private consumption ahead of the BoJ meeting.
+
+The official Statistics Bureau data sharpen the real-income interpretation:
+
+* average consumption expenditure: ¥301,245
+* nominal spending: -1.5% y/y
+* real spending: -3.6%
+* workers' household income: ¥689,476
+* nominal household income: -1.7%
+* real household income: -3.8%
+
+A government official cited stronger entertainment and household-goods spending alongside cuts to food and transportation. Masato Koike of Sompo Institute Plus warned that persistent higher prices could increase downward pressure on consumption despite strong spring wage settlements.
+
+The second-pass scout confirms rather than challenges this framing: the mainstream institutional narrative is **BoJ complication, not BoJ reversal**.
+
+#### 3. Comment — Economist Layer
+
+This is the most important household-demand deterioration signal in the current Japan tape.
+
+The hierarchy is unusually clear.
+
+**1. The annual contraction is both deep and persistent.**
+
+Real spending fell 3.6% y/y:
+
+* eighth consecutive annual decline
+* worse than June's -3.3%
+* 2.0pp below consensus
+* deepest annual contraction since January 2024
+
+This is no longer readily dismissible as a single volatile month.
+
+**2. The sequential rebound is too weak to repair June.**
+
+Spending rose 0.5% m/m after June's 6.4% collapse, far short of the expected 2.6% rebound.
+
+The monthly sign is positive, but the level of recovery is insufficient to justify a stabilization call.
+
+**3. The nominal/real split shows a severe squeeze.**
+
+Nominal expenditure fell 1.5% while real expenditure fell 3.6%.
+
+The inflation wedge is important, but the more damaging point is that nominal expenditure itself contracted. Households are not merely spending more yen for fewer goods; surveyed cash expenditure is also falling.
+
+**4. Household income does not validate the wage-consumption virtuous cycle in this survey.**
+
+Workers' household income fell 1.7% nominally and 3.8% in real terms.
+
+This survey-income concept is not interchangeable with economy-wide labour earnings, but within this publication there is no evidence of stronger household purchasing power.
+
+**5. Composition shows defensive behavior.**
+
+Consumers increased selected entertainment/household-goods categories while cutting food and transportation, consistent with constrained budget allocation rather than generalized demand acceleration.
+
+The key macro issue is now the divergence across consumption gauges:
+
+* Retail Sales: +4.0% y/y nominal
+* Services PMI: domestic new business accelerating
+* Household Spending: -3.6% y/y real
+* Household Spending nominal: -1.5% y/y
+
+These measures are not directly comparable.
+
+Retail sales include nominal price effects, unusually strong autos and inbound-sensitive commerce. FIES captures resident households and has different coverage and sampling characteristics.
+
+Both series can therefore be directionally correct while describing different slices of consumption.
+
+But the divergence changes the economic interpretation materially.
+
+The earlier retail/PMI strength is insufficient to establish broad household-demand acceleration when the direct resident-household survey is showing persistent contraction.
+
+The cleaner synthesis is:
+
+**strong corporate and services-sector activity coexisting with a household real-income squeeze.**
+
+This also recasts the July retail rebound. It remains valid evidence of strong commerce activity, but increasingly looks compositionally concentrated in autos, nominal prices and inbound-sensitive spending rather than proof of a generalized resident-consumption recovery.
+
+State transition: false dawn.
+
+Context from prior regional live file:
+
+May household spending had materially improved, with a 3.7% monthly gain and the mildest annual contraction in six months, temporarily strengthening the view that retail, services and household demand were converging. The archived file explicitly warned that another annual decline beyond roughly 1.5% would challenge that improvement. June and July have now delivered that reversal, returning household demand firmly to the weak side of Japan's macro configuration.
+
+#### 4. HF Take — Strategist Layer
+
+This is the clearest growth-side constraint on the BoJ normalization case in the current week, but it does not automatically invalidate further tightening.
+
+Reaction-function map:
+
+* resident household demand is materially weaker than corporate and survey indicators suggest
+* wage-to-consumption transmission remains unproven
+* persistent inflation appears to be eroding household purchasing power
+* weaker consumption raises the cost of additional tightening
+* the BoJ simultaneously faces firm services pricing, resilient corporate profits, strong manufacturing orders and ongoing balance-sheet normalization
+* one volatile household survey is unlikely to dominate the entire reaction function
+
+The key policy distinction is between **inflation generated by demand strength** and **inflation that is itself weakening demand**.
+
+The Japan tape increasingly contains elements of the second configuration.
+
+That matters because imported/cost-driven inflation accompanied by falling real household expenditure creates a more difficult trade-off than conventional overheating.
+
+The household-spending release therefore weakens the case for **accelerating** normalization more than it weakens the case for **continuing** normalization.
+
+A gradual normalization path can still be justified if the BoJ judges that:
+
+* currency weakness is sustaining imported inflation
+* corporate pricing power is persistent
+* wage gains will eventually feed household income
+* the broader economy can absorb moderately higher rates
+* reducing currency-driven purchasing-power erosion is itself part of restoring real household conditions
+
+But the burden of proof has shifted.
+
+A faster cadence requires evidence that household weakness is temporary rather than the beginning of sustained real-demand contraction.
+
+The weak print complicates rather than overturns the normalization case. Its failure to become the dominant market narrative suggests investors are assigning greater weight to inflation, corporate resilience and policy normalization than to one household survey; persistence in subsequent months would increasingly constrain the pace of tightening even if it did not reverse the direction.
+
+# D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The BoJ entered the final pre-September-meeting runway at **1.00% with the normalization direction increasingly pre-committed and the cadence question replacing the hike/no-hike question**. Takata's 2 September Sapporo communication escalated beyond his July 1.25% dissent by explicitly rejecting fixed intervals or magnitudes of tightening and reframing the policy task around preventing upside price deviations. The same-window sourced policy tape pointed toward a September hike and consideration of faster tightening thereafter. At the same time, the record ¥15.3993tn MoF yen-buying intervention total for 30 July–26 August materially changes the FX reaction function: currency defense has been substantially intervention-supported, making eventual handoff from the intervention channel to the policy-rate channel more important. The main counterweight remains household demand rather than corporate capacity.
+
+**Takata Hajime — Sapporo speech and press conference — 2 Sep 2026**
+Importance: ****
+
+Key policy signal:
+Takata moved beyond arguing for an individual September hike and attacked the idea of a predictable fixed tightening cadence. He argued that the Bank should respond flexibly as conditions evolve, characterized 2026 as an important turning point, and framed the policy task increasingly around preventing an upward deviation of inflation rather than continuing to encourage inflation toward target.
+
+Representative quote:
+“not bound by fixed intervals or magnitudes”
+
+Incremental reaction function:
+This is a material escalation in the forward reaction function. The relevant post-September question becomes whether the broader Board adopts flexibility on pace and magnitude rather than maintaining a roughly twice-yearly normalization rhythm. Takata remains a known hawk, so confirmation from the center is still required, but the communication increases the option value of a faster path.
+
+**Ministry of Finance — FX intervention data for 30 Jul–26 Aug — released 28 Aug / resolved in this window**
+Importance: ****
+
+Key policy signal:
+The validated intervention amount is **¥15,399.3bn**, the largest monthly intervention total in the supplied tape and larger than the entire April–May campaign. The composition across individual intervention dates remains unresolved until the later daily breakdown.
+
+Representative quote:
+n/a — official intervention amount: ¥15,399.3bn.
+
+Incremental reaction function:
+The FX-defense architecture is more intervention-dependent than previously understood. The strategic implication is not that the BoJ mechanically hikes because MoF has spent reserves, but that intervention at this scale cannot indefinitely substitute for a monetary-policy response if yen weakness reflects persistent rate differentials and domestic inflation pressure. It strengthens the case for a policy-rate handoff while simultaneously making post-hike yen behavior an important credibility test.
+
+**Reuters sourced policy story — around 2 Sep 2026**
+Importance: ***
+
+Key policy signal:
+The validated scout records the BoJ as being “set to raise the rate as soon as” the September meeting and considering a more aggressive pace thereafter than the prior roughly twice-yearly assumption.
+
+Representative quote:
+“more aggressively thereafter”
+
+Incremental reaction function:
+This extends the communication signal beyond Takata alone. In the supplied sequence, the sourced stories have progressively moved from September-hike preparation toward cadence repricing. The September decision itself is therefore less informative than the vote split, statement language and Ueda's framing of subsequent meetings.
+
+**10Y JGB market regime — 1 Sep 2026**
+Importance: ***
+
+Key policy signal:
+The 10Y JGB yield reached 3.000%, the first such level since 1996 in the supplied tape. Subsequent 10Y and 30Y auctions were absorbed without a market-stability accident.
+
+Representative quote:
+n/a — market level.
+
+Incremental reaction function:
+An orderly rise in long-end yields removes a near-term financial-stability objection to a September hike. But it creates a future constraint: if the long-end repricing becomes increasingly fiscal-premium-driven rather than merely policy-expectation-driven, additional tightening could interact with debt-service and fiscal concerns. That is more relevant for the post-September cadence than for the September move itself.
+
+**July labor cash earnings — approximately 4–5 Sep 2026**
+Importance: ***
+
+Key policy signal:
+The supplied central-bank tape reports wage growth at its fastest pace since 1997, while explicitly flagging that the exact figure and composition still require confirmation.
+
+Representative quote:
+“fastest since 1997”
+
+Incremental reaction function:
+If confirmed without a large bonus or special-factor distortion, the wage print closes an important doctrinal gap by allowing the next hike to be framed as wage-validated normalization rather than primarily FX defense. Because the exact composition is still unresolved in the scout, this strengthens the policy direction more confidently than it determines the post-September cadence.
+
+**Takaichi reflationist political channel — in-window**
+Importance: **
+
+Key policy signal:
+The validated scout records a reflationist Takaichi aide as publicly projecting a September hike.
+
+Representative quote:
+n/a — headline-level item.
+
+Incremental reaction function:
+The political-resistance constraint appears materially weaker for the September meeting. The remaining institutional uncertainty is more about the internal Board split and subsequent pace than whether government pressure blocks the immediate move.
+
+Bottom line — central bank tape
+
+The supplied tape shifts the BoJ from **hawkish hold / gradual-normalization bias** to **September hike near pre-commitment with cadence flexibility becoming the principal policy uncertainty**. Takata's communication, the sourced “more aggressively thereafter” story, resilient corporate conditions and the scale of MoF intervention all point in the same direction. The main restraint is no longer whether Japan can tolerate one further hike; it is whether household real-income weakness, a potentially intervention-dependent yen and the rise of a fiscal premium in long JGBs allow the Bank to maintain a faster sequence after September.
+
+# E. SIGNAL TENSION CHECK
+
+Main contradiction:
+The BoJ/MoF policy complex is preparing a September hike and explicitly opening the door to a less mechanical tightening cadence while resident household real spending and surveyed real income are contracting sharply.
+
+Why it matters:
+It determines whether normalization is being driven by broad endogenous demand or increasingly by inflation/currency credibility and corporate resilience despite weak household purchasing power.
+
+Implication:
+A September hike remains strongly supported by the supplied policy tape, but a faster follow-up cadence requires confirmation that wages and household demand recover and that the yen/JGB response does not create a new financial-condition constraint.
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+**** Household Spending (4 Sep)
+Why it matters: The -3.6% y/y real contraction and -2.0pp miss overturn the tentative household-recovery thesis and create the week's central policy contradiction. The nominal-spending and household-income declines make the signal more serious than a pure inflation-deflator story.
+
+*** Services & Composite PMI Final (3 Sep)
+Why it matters: Domestic services activity accelerated while output-price diffusion remained exceptionally strong. This is the best evidence that the expansion is broadening beyond manufacturing, but export services and hiring simultaneously deteriorated.
+
+*** MOF Corporate Survey / Business Capex (1 Sep)
+Why it matters: Positive capex momentum and record recurring profits show that corporate Japan retains substantial financial capacity to invest and absorb normalization. The key unresolved issue is whether survey strength maps into national-accounts investment.
+
+*** Retail Sales / Large-Scale Retail Sales (31 Aug)
+Why it matters: The 4.0% y/y retail beat initially appeared to validate consumption resilience, but the later household-spending collapse reveals a major measurement/composition split. Autos, nominal inflation and inbound demand are central to reconciling the two signals.
+
+*** Industrial Production Preliminary (31 Aug)
+Why it matters: Fourth consecutive production gain, strong shipments and semiconductor inventory drawdown support genuine industrial demand. The +6.4% August / -4.2% September production-plan whipsaw is the key test of whether the strength is durable or timing-driven.
+
+# G. RED TEAM QUESTIONS
+
+1. If the September hike is now close to pre-committed, what evidence would actually prevent a December follow-up: another deep household-spending contraction, weak real wages, slower domestic services demand, or a disorderly JGB/FX response?
+
+2. Is Takata's “not bound by fixed intervals or magnitudes” doctrine becoming the Board's reaction function, or would a September statement without comparable flexibility language reveal that the cadence repricing still rests disproportionately on hawks and sourced stories?
+
+3. Does the ¥15.3993tn intervention total reflect a sustained multi-day stealth campaign or one exceptionally large operation plus smaller follow-ups — and how much does that distinction change the inferred undefended level of USD/JPY?
+
+4. Are near-record services output prices evidence of endogenous demand inflation strong enough to justify faster tightening, or mainly cost pass-through occurring while households are cutting real expenditure?
+
+5. Does the reported “fastest since 1997” wage growth survive inspection once bonus timing and composition are separated, and does it translate into real household purchasing power rather than simply stronger nominal labor income?
+
+6. Is the 3% 10Y JGB level primarily orderly monetary-policy repricing, or is an increasingly material fiscal premium emerging that could constrain the post-September hiking path?
+
+7. If the BoJ hikes but the yen weakens again materially, does that demonstrate that the policy-rate differential remains insufficient and invite faster normalization, or instead reveal that intervention and tightening are encountering diminishing returns?
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+The prevailing public institutional view during the window was **constructive JPY over the medium term, but with unusually wide disagreement over timing and the importance of the U.S. rate cycle**. MUFG entered September with USD/JPY at 160.03 and forecasts of 158 for Q3 and 156 for Q4; its displayed market-consensus comparators were 159 and 158 respectively. BNP Paribas, with USD/JPY around 158 on 2 September, maintained 158 at three months and 155 at twelve months, describing the expected yen recovery as gradual.
+
+The disagreement was meaningful rather than cosmetic. On 3 September, ING responded to a more hawkish Fed profile by raising its year-end USD/JPY forecast to 160 from 158, demonstrating that even strategists accepting faster BoJ normalization did not necessarily expect a straight-line yen rally.
+
+Spot then moved substantially faster than the forecast revisions. Reuters reported USD/JPY trading at 155.305 on 4 September before rebounding to about 156.43, after a roughly 2% yen rise as investors increased BoJ-hike expectations. That placed spot at or through the constructive part of the publicly visible bank target cluster even though the banks themselves had not uniformly revised their forecasts lower.
+
+The validated policy tape adds an important qualification: the currency had also been supported by a record-scale MoF intervention campaign. The correct point-in-time reading is therefore not simply “fundamentals finally caught up with bullish-yen forecasts,” but **BoJ normalization expectations + official FX support + position adjustment moving spot rapidly toward existing medium-term targets**.
+
+**Public-bank Q4 / comparable 3M range:** USD/JPY 156–160
+
+**Constructive JPY cluster:** USD/JPY 155–158
+
+**More cautious / tactical view:** around USD/JPY 160
+
+**Bias at window close:** Medium-term JPY constructive, but tactical asymmetry materially reduced after USD/JPY moved into the mid-150s and reached the constructive forecast cluster; intervention dependence made the underlying clearing level less certain.
+
+### What changed through the data window
+
+At the start of the window, the prevailing forecast distribution still assumed gradual rather than explosive yen appreciation. MUFG's 1 September forecast used a 28 August spot reference of 160.03 and targeted 158 in Q3 and 156 in Q4; its own displayed market consensus was slightly more cautious at 159 and 158.
+
+By 2 September, BNP Paribas was similarly constructive but restrained, with spot around 158 and targets of 158 at three months and 155 at twelve months. Its core thesis was that intervention alone could not reverse the exchange-rate trend but faster BoJ tightening should gradually support JPY.
+
+The counter-consensus move came from the Fed side. ING on 3 September raised its USD/JPY profile to 160 from 158 because its house Fed view had turned more hawkish and short-dated U.S. yields were expected to remain supportive for the dollar. This was a **forecast change**, not merely a spot move.
+
+Spot then converged much more aggressively toward the bullish-yen target cluster than the forecast distribution itself changed. Reuters' 4 September tape showed USD/JPY briefly near 155.3 before rebounding toward 156.4, with the still-wide U.S.-Japan rate differential preventing a clean break into a one-way yen-appreciation regime.
+
+Thus the key in-window transition was **not a unanimous strategist capitulation toward stronger JPY forecasts**. It was a rapid market move toward pre-existing constructive targets while the public forecast distribution remained split between a 155–158 yen-bullish cluster and a roughly 160 Fed/carry-sensitive view.
+
+### Main consensus drivers
+
+**BoJ normalization / policy credibility:**
+MUFG and BNP both expected further tightening, with BNP explicitly arguing that accelerating BoJ normalization should gradually bolster the currency. The 2 September Takata communication strengthened the market's willingness to price that path.
+
+**U.S.-Japan rate differential:**
+The major counterweight remained U.S. rates. ING's in-window move from 158 to 160 for USD/JPY showed how a hawkish Fed could offset even a faster BoJ path. Reuters likewise highlighted the still-wide rate differential as a reason yen gains were not self-sustaining.
+
+**Intervention / positioning / repatriation:**
+Official intervention materially changed the tail risk around persistent short-JPY positioning. The validated central-bank tape shows that support was far larger than previously assumed, meaning observed spot performance cannot be read as a purely private-market repricing.
+
+**Fiscal / external asymmetry:**
+MUFG continued to identify fiscal uncertainty and Japan's external/trade configuration as restraints on JPY even while projecting appreciation. The currency case therefore remained a balance between faster normalization and persistent structural reasons for a dollar premium.
+
+### Where consensus could be wrong
+
+**Consensus too bullish JPY:**
+Household weakness could constrain the BoJ after September while a hawkish Fed preserves a large yield differential. If the yen requires repeated intervention even after another BoJ hike, the 155–158 constructive target cluster may embed too much confidence in monetary-policy convergence. ING's move back toward 160 captures this risk.
+
+**Consensus too cautious JPY:**
+The 155–158 cluster could still prove conservative if September tightening is followed by explicit cadence flexibility, Japanese capital repatriation accelerates and the policy authorities convince investors that renewed extreme yen weakness will be resisted. The rapid in-window move into the mid-150s demonstrates that nonlinear adjustment is possible.
+
+**Key falsification:**
+The constructive-JPY consensus would weaken materially if a September BoJ hike failed to generate credible follow-up normalization and USD/JPY quickly re-established itself above the cautious ~160 zone; conversely, sustained follow-up hike pricing plus reduced intervention dependence would make the mainstream 155–158 targets look too conservative.
+
+# I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Corporate-strong / household-weak Japan, persistent services pricing, with BoJ normalization shifting from gradual bias toward September pre-commitment.
+* **Change:** The debate moved from “can the BoJ hike?” to “how fast after September?”, while household spending became the principal macro constraint.
+
+### Scoreboard
+
+* **Growth:** ~ | Strong corporate/services activity offset by -3.6% y/y real household spending.
+* **Labor:** ~ | No hard labor release in archive; PMI hiring weakest in a year.
+* **Inflation:** - | Services selling-price pressure near record strength while real purchasing power contracts.
+* **Financial Conditions:** ~ | Faster QT but no demonstrated broad credit stress.
+* **Policy Constraint:** - | Takata/cadence rhetoric + record intervention strengthen September case; households constrain acceleration.
+
+### Major Release Tape
+
+* **** **Household Spending** — -3.6% y/y vs -1.6% poll; +0.5% m/m vs +2.6% → persistent resident-demand weakness and real-income squeeze.
+* *** **Services & Composite PMI** — services 52.5; composite 53.5 → domestic activity broadening, pricing very firm, hiring weak.
+* *** **MOF Capex** — +1.6% y/y; +1.5% q/q SA; profits +24.6% → corporate capacity to absorb normalization remains strong.
+* *** **Retail Sales** — +4.0% y/y vs +2.9% → strong commerce but autos/inbound/prices overstate resident-demand strength.
+* *** **Industrial Production** — +0.1% m/m vs -0.7% → resilient production and inventory absorption; forward plan highly volatile.
+* *** **Manufacturing PMI** — 54.9 → strong orders and AI/semiconductor demand; durability remains the test.
+
+### Minor Tape
+
+* **Minor:** Housing +8.2% y/y but sequentially softer and owner-occupied weak; monetary base -15.73% y/y confirms QT without demonstrated broad monetary contraction.
+
+### Central Bank
+
+* **Bias:** Hawkish hold / September 25bp hike close to pre-committed in the validated tape.
+* **Reaction function:** Takata explicitly rejects fixed tightening intervals; post-September pace depends on inflation/wages versus household weakness and JGB/FX transmission.
+* **Key tape:** Takata 2 Sep + sourced “more aggressively thereafter”; MoF intervention ¥15.3993tn reveals a costly FX bridge and raises the importance of the policy-rate handoff.
+
+### Signal Tension
+
+* **Tension:** Policy is preparing to tighten into a corporate/services upswing while resident household real spending and income contract.
+* **What resolves it:** Real wages and consumption persistence, plus whether the yen stabilizes after the September handoff without disorderly JGB tightening.
+
+### Key Releases
+
+1. **Household Spending** — principal constraint on faster normalization.
+2. **Services & Composite PMI** — strongest broadening plus pricing signal.
+3. **MOF Capex** — corporate capacity remains strong.
+4. **Retail Sales** — exposes the consumption-measurement split.
+5. **Industrial Production** — resilient demand, but timing risk remains.
+
+### Red Team
+
+* Does September guidance actually adopt Takata-style cadence flexibility, or is the faster-path narrative still mainly a hawk/sources story?
+* Does the wage acceleration translate into real household purchasing power, or does another weak spending print invalidate the faster-cadence case?
+* If the BoJ hikes and JPY still weakens materially, does that force faster normalization or expose diminishing returns to the entire intervention/rate-defense architecture?
+
+### FX Consensus
+
+* **Consensus:** Medium-term JPY constructive, but conviction on speed remained low.
+* **Public-bank range:** USD/JPY 156–160.
+* **Constructive cluster:** 155–158.
+* **Cautious / tactical:** around 160.
+* **At window close:** USD/JPY had moved into the mid-150s, compressing the upside asymmetry of the pre-existing bullish-yen targets.
+* **Drivers:** BoJ normalization; U.S.-Japan rate differential; intervention/positioning; fiscal/external constraints.
+* **Consensus wrong if:** September lacks credible follow-through and USD/JPY re-establishes >160; sustained cadence repricing with less intervention dependence would instead make 155–158 too cautious.
+
+<<JPY_WEEK_END>>
 
 <<JPY_WEEK_BEGIN>>
 
