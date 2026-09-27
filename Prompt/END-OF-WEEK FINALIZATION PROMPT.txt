@@ -1590,6 +1590,8 @@ For Section I:
 
 Return the full final WEEK note in one piece.
 
+Output hygiene: before returning the final note, remove all platform-only citation/control artefacts (filecite, cite, chatgpt-content-reference), stray markup, malformed bullets/arrows, and duplicated formatting from all sections, including Section C. Treat this as non-semantic sanitation only: do not otherwise alter, rewrite, shorten, reorder, or paraphrase Section C.
+
 Do not return:
 
 * instructions
