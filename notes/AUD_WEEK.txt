@@ -1,4 +1,290 @@
+<<AUD_WEEK_BEGIN>>
 
+DATA WINDOW: 6 September 2026 to 19 September 2026
+
+# A. AUD WEEK — MACRO SYNTHESIS
+
+Australia’s validated macro release set points to **weak forward-growth stabilization rather than genuine re-acceleration**. The Westpac–Melbourne Institute Leading Index improved on the producer’s six-month annualised measure to -0.09% from -0.17%, interrupting the earlier deterioration, but remained below trend; the Reuters one-month measure fell 0.04%, and the improvement was narrow, relying materially on dwelling approvals and US industrial production while labour-market, financial-market, commodity-price and consumer-sentiment components dragged. The growth state transition is therefore stabilization, not recovery. :chatgpt-content-reference{index="0"}
+
+The policy regime moved much more decisively. RBA communication escalated from conditional hawkishness into an **operative tightening signal**: Hunter said on 8 September that rates may need to rise if inflation runs hotter than forecast; Hauser the same day called inflation the “one big problem” and confirmed readiness to raise further; and on 18 September Bullock said that some upside inflation risks “appear to be materialising,” directly activating the condition embedded in the August guidance. The resulting configuration is therefore **soft growth stabilization under an increasingly restrictive inflation reaction function**: weak forward breadth limits the case for demand-driven overheating, but it no longer provides enough downside to offset the RBA leadership’s concern over broader cost shocks, pass-through and inflation embedding. :chatgpt-content-reference{index="1"} :chatgpt-content-reference{index="2"}
+
+# B. AUD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+
+Supporting evidence: Forward momentum improved on Westpac’s six-month annualised measure but remained below trend and compositionally narrow; the Reuters monthly change was negative. The correct signal is stabilization after deterioration, not a clean recovery. :chatgpt-content-reference{index="3"}
+
+Labor: ~
+
+Supporting evidence: No standalone labour-market release is contained in the validated AUD archive. Labour components inside the Leading Index remained a drag, but that is insufficient to classify the labour regime independently. :chatgpt-content-reference{index="4"}
+
+Inflation: ~
+
+Supporting evidence: No validated inflation release falls inside the release archive for this window. RBA communication clearly became more concerned about inflation, but under the standardized scoreboard the central-bank tape updates the policy constraint rather than substituting for a missing inflation release.
+
+Financial Conditions: ~
+
+Supporting evidence: Financial-market components restrained the forward-growth pulse, while RBA communication acknowledged housing weakness but treated it as a transmission channel rather than a binding policy constraint. The supplied information is therefore mixed rather than sufficient for a directional financial-conditions bucket. :chatgpt-content-reference{index="5"} :chatgpt-content-reference{index="6"}
+
+Policy Constraint: -
+
+Supporting evidence: The reaction function tightened materially. The August guidance conditioned another hike on upside risks materialising; on 18 September Bullock stated that some of those risks appeared to be materialising, after Hauser and Hunter had already reinforced the possibility of further tightening on 8 September. Leadership communication was aligned and no moderating in-window voter voice was identified. :chatgpt-content-reference{index="7"}
+
+# C. FULL RELEASE ARCHIVE
+
+WEDNESDAY 16 SEP 2026
+
+Australia — Westpac–Melbourne Institute Composite Leading Index (Aug)
+
+Release Date: 16 Sep 2026 | Local Time: 10:30 AEST
+Importance: **
+
+1. Reuters Data
+
+Composite Leading Idx MM: -0,04% | Prior: 0,04% | Revised: 0,02%
+
+2. Professional Market Commentary
+
+Westpac’s six-month annualised growth measure improved to -0.09% in August from -0.17% in July, leaving forward momentum slightly below trend but firmer than around mid-year. Westpac described momentum as still soft and explicitly cautioned that the improvement may not persist because the component mix remains uneven.
+
+The professional framing is therefore soft-growth stabilization rather than cyclical acceleration. The improvement rests materially on dwelling approvals and US industrial production, while labour-market, financial-market, commodity-price and consumer-sentiment components provide an offsetting drag.
+
+The Reuters monthly index measure and Westpac’s published headline point in superficially different directions: Reuters records a small -0.04% m/m fall in August, while the producer’s six-month annualised growth rate becomes less negative. These are different measurement windows and should not be treated as contradictory prints.
+
+Westpac’s broader Australia framing going into the release had already shifted toward firmer growth but a higher cash-rate constraint, while still identifying the Leading Index as a forward-looking check on whether current resilience was broadening.
+
+No independent Tier 1 institutional debate detected.
+
+3. Comment — Economist Layer
+
+The primary signal is stabilization at a below-trend level, not renewed growth deterioration and not a clean acceleration.
+
+Signal hierarchy:
+
+- Reuters monthly change: -0.04%, reversing the revised +0.02% July increase.
+- Westpac six-month annualised signal: -0.09% versus -0.17% in July, indicating less negative forward momentum.
+- Level: still below trend; the indicator has not returned to a positive forward-growth regime.
+- Direction: better than mid-year, but the improvement repairs part of the earlier deterioration rather than establishing a new upswing.
+- Breadth: weak. Dwelling approvals and US industrial production provide much of the improvement rather than a broad domestic acceleration.
+- Domestic quality: labour-market, financial-market and consumer signals continue to restrain the forward-growth pulse.
+- Signal quality: useful as a cyclical indicator, but materially below inflation, labour-market, household-demand and national-accounts data in the RBA information hierarchy.
+
+The difference between the Reuters and producer measures matters analytically. A negative one-month index movement can coexist with an improving six-month annualised growth rate because the two measures capture different horizons. The correct inference is therefore not that forward growth simply weakened in August, but that very near-term movement remained soft while the broader deterioration stopped intensifying.
+
+The producer’s own description supports that hierarchy: momentum remains below trend, has improved since mid-year, but the mixed component detail raises doubts about whether the improvement will persist.
+
+State transition: stabilization.
+
+Context from prior regional live file:
+
+Australia’s prior DM history already showed a split between resilient current activity and softer forward indicators, with the Westpac Leading Index repeatedly signalling below-trend medium-term momentum. August softens that downside trajectory rather than reversing it: forward momentum remains weak, but deterioration is no longer intensifying. The regime therefore shifts toward weak stabilization without establishing a broad growth recovery.
+
+4. HF Take — Strategist Layer
+
+The release is a growth-side restraint on an otherwise inflation-sensitive RBA reaction function, but it is not sufficiently weak to argue independently against further tightening.
+
+Policy mapping:
+
+- the forward-growth tail looks less fragile than around mid-year;
+- below-trend momentum still argues against interpreting resilient current activity as a clean demand re-acceleration;
+- poor breadth reduces the hawkish information content of the headline improvement;
+- equally, stabilization removes some of the growth downside that could otherwise constrain restrictive policy;
+- the reaction function therefore remains dominated by inflation, labour-market conditions and realised domestic demand rather than this indicator.
+
+The key asymmetry is that a mildly improving Leading Index gives the RBA somewhat more room to maintain restrictive policy, but does not itself provide a tightening trigger. Broadening into stronger household activity, labour demand and other domestic leading components would make the stabilization more policy-relevant; renewed weakness in sentiment, housing or labour inputs would instead suggest that the August improvement was a false floor.
+
+For AUD and front-end rates, standalone signal value is limited. The indicator is more useful as a conditioning variable: sticky inflation combined with stabilizing growth preserves hawkish optionality, while softer inflation alongside renewed forward-growth deterioration would weaken that configuration.
+
+# D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The RBA communication regime shifted materially over the window. The 11 August Board guidance had conditioned further tightening on upside inflation risks materialising; on 18 September Governor Bullock said that some of those risks now appeared to be materialising. This followed coordinated hawkish communication from Deputy Governor Hauser and Assistant Governor Hunter on 8 September. The policy signal therefore moved from a hawkish hold with an optional tightening tail toward a **live hike configuration**, while Hauser’s qualification that the Bank was not yet at the point of more drastic action limited the signal to incremental rather than rapid tightening. :chatgpt-content-reference{index="8"} :chatgpt-content-reference{index="9"}
+
+RBA / Michele Bullock — 18 September 2026  
+Importance: ****
+
+Key policy signal:  
+Bullock told the House Economics Committee that some upside inflation risks appeared to be materialising. She broadened the inflation concern beyond the original energy shock to oil and related prices, AI-linked technology inputs and weather-related agricultural costs, while liaison showed firms passing higher input costs through. The key reaction-function concern was embedding into price and wage setting, which she warned could require a stronger policy response. :chatgpt-content-reference{index="10"}
+
+Representative quote:  
+“some of these upside risks to inflation appear to be materialising”
+
+Incremental reaction function:  
+This is the strongest in-window signal because it maps directly onto the Board’s own August condition for further tightening. The burden of proof therefore shifted materially toward the case for another hike; a hold would require the Board to explain why the Governor’s stated materialisation of the trigger was insufficient for action. :chatgpt-content-reference{index="11"}
+
+RBA / Andrew Hauser — 8 September 2026  
+Importance: ****
+
+Key policy signal:  
+Hauser described inflation as the “one big problem” and said the RBA stood ready to raise rates further, while explicitly adding that it was not yet at the point of more drastic action. He also acknowledged the housing correction and its possible consumption transmission. :chatgpt-content-reference{index="12"}
+
+Representative quote:  
+Inflation is the “one big problem”.
+
+Incremental reaction function:  
+The Deputy Governor confirmed that tightening remained live before Bullock formally activated the August condition. His “not yet” qualifier caps the hawkish interpretation: the tape supports another conventional step more clearly than a rapid tightening sequence. :chatgpt-content-reference{index="13"}
+
+RBA / Sarah Hunter — 8 September 2026  
+Importance: ***
+
+Key policy signal:  
+Hunter said the RBA may well have to raise rates if inflation was running hotter than its forecasts. Although Hunter is non-voting, the remark opened the communication escalation that was reinforced by Hauser and later institutionalised by Bullock. :chatgpt-content-reference{index="14"}
+
+Representative quote:  
+RBA “may well have to raise interest rates”.
+
+Incremental reaction function:  
+Hunter provided the initial staff-level articulation of the escalation path. Subsequent communication from both voting leadership figures moved the same argument from conditional possibility toward an operative Board-level signal. :chatgpt-content-reference{index="15"}
+
+RBA / Sarah Hunter — 14 September 2026  
+Importance: *
+
+Key policy signal:  
+RBA-hosted audio confirms an appearance at the Regions Rising National Summit, but no transcript or verified substance was retrieved in the supplied tape.
+
+Representative quote:  
+No validated quote available.
+
+Incremental reaction function:  
+None assigned. The appearance is logged but excluded from the analytical evidence base. :chatgpt-content-reference{index="16"}
+
+Bottom line — central bank tape
+
+The dominant policy transition is **hawkish escalation**. Leadership communication moved sequentially from conditional readiness to an explicit statement that the Board’s pre-specified upside-risk trigger appeared to be materialising. Housing weakness and softer growth were acknowledged but subordinated: Bullock framed housing as a transmission channel rather than an objective, judged financial-stability risks contained, and continued to characterise the labour market as around or somewhat tighter than full employment. The main uncertainty is committee breadth — seven of nine voting members produced no in-window remarks — and the information constraint created by the 29 September decision preceding Q3 CPI by one day. :chatgpt-content-reference{index="17"} :chatgpt-content-reference{index="18"}
+
+# E. SIGNAL TENSION CHECK
+
+Main contradiction:  
+Forward growth is stabilizing only weakly and remains below trend, while the RBA’s leadership has simultaneously moved the policy reaction function toward another tightening step because upside inflation risks and cost pass-through are judged to be materialising. :chatgpt-content-reference{index="19"} :chatgpt-content-reference{index="20"}
+
+Why it matters:  
+The central question is whether weak-but-stabilizing activity is sufficient to absorb tighter policy without turning the current cyclical floor into renewed deterioration.
+
+Implication:  
+The AUD/rates regime is no longer simply “soft growth limits hikes”; it is **soft growth that has not yet become weak enough to override the inflation trigger**. A sharper deterioration in domestic demand or labour would challenge that hierarchy, while persistent pass-through would reinforce it.
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+** Australia — Westpac–Melbourne Institute Composite Leading Index (16 Sep)
+
+Why it matters: The six-month annualised signal improved to -0.09% from -0.17%, interrupting the deterioration seen around mid-year, but below-trend momentum and weak breadth keep the state transition at stabilization rather than recovery. It is the only validated released macro block inside the AUD archive for this data window. :chatgpt-content-reference{index="21"}
+
+# G. RED TEAM QUESTIONS
+
+1. Does the negative one-month Leading Index move contain enough information to make the apparent six-month stabilization a false floor?
+
+2. Is the RBA leadership’s hawkish escalation genuinely representative of the full Monetary Policy Board when seven of nine voters were publicly silent during the window?
+
+3. Does Bullock’s phrase that upside risks “appear” to be materialising constitute an operative hike trigger, or was it deliberately calibrated to preserve the option of a hawkish hold?
+
+4. Could worsening housing transmission and broader domestic-demand weakness become binding quickly enough to override the inflation concern before subsequent tightening?
+
+5. Is Hauser’s statement that the RBA is not yet at the point of more drastic action best read as support for one incremental hike, or as evidence that leadership still favours waiting for more information?
+
+6. What observable evidence of input-cost pass-through into wages or persistent underlying inflation would validate Bullock’s warning that a stronger policy response is required? :chatgpt-content-reference{index="22"}
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+**Pair convention: AUD/USD.**
+
+The public institutional AUD view entering the window was **constructive medium-term but already tactically crowded near the top of the recent range**. On 7 September AUD/USD was around 0.7202, near a four-month high after rising from 0.6867 in late June; the next obvious resistance was the 2026 high around 0.7277. Immediately before the window, the broader Reuters FX poll also showed a still-firm near-term USD but a weaker-dollar medium-term consensus, leaving the AUD supported structurally but exposed to near-term US-rate repricing.
+
+The public-bank sample was unusually dispersed. ING’s contemporaneous September profile was neutral over one month but constructive thereafter, with AUD/USD at 0.72 in 1M, 0.73 in 3M/6M and 0.74 in 12M; it retained a **0.73 year-end** forecast and expected the AUD to outperform many G10 peers because of the stronger Australian domestic/rates story. NAB had previously retained **0.73 for end-2026** and characterised AUD as a 0.70–0.75 currency, while ANZ’s June public view was **0.75 into year-end**.
+
+The major outlier was CommBank. Its 9 September update explicitly maintained that the next large AUD move should be lower, based on higher US rates, eventually lower Australian rates and softer metals. CommBank had published a **0.64 year-end** AUD/USD target in May; importantly, the 9 September update reconfirmed the bearish direction but did **not** restate that numerical target, so 0.64 should be treated as the earlier public downside anchor rather than a freshly republished September target.
+
+During the window, price rather than the published constructive forecast cluster moved materially. AUD/USD reached 0.7238 on 9 September before breaking below its 10- and 20-day moving averages as the USD strengthened, US Treasury yields rose and global energy/inflation risk aversion increased. By 18 September it was around 0.7126. The result was a shift from “AUD close to medium-term targets” toward a more attractive valuation relative to the 0.73–0.75 constructive cluster, but with clearly worse tactical momentum and a still-live bearish alternative.
+
+**Publicly visible year-end institutional range:** 0.64–0.75, with a major comparability caveat: 0.64 was CommBank’s May downside target and was only directionally—not numerically—reaffirmed in September; 0.73–0.75 represented the more constructive NAB/ING/ANZ cluster.
+
+**Constructive AUD cluster:** 0.73–0.75 year-end.
+
+**More cautious / tactical view:** CommBank bearish AUD direction; earlier public 0.64 year-end downside anchor, with the September update emphasizing higher US rates and weaker metals rather than repeating the target.
+
+**Bias at window close:** Medium-term public views remained mildly constructive in the dominant visible sample, but short-term conviction had weakened materially; spot around 0.7126 sat below the constructive target cluster after the reversal from 0.7238.
+
+### What changed through the data window
+
+The window began with AUD/USD around 0.720 and close to a four-month high, meaning much of the constructive RBA/carry narrative was already in price. ING’s September publication still viewed a September RBA hike as a tangible possibility and expected AUD to weather a USD rebound better than most G10 currencies, but its **one-month bias was neutral**, an important indication that medium-term bullishness did not translate into a clean tactical long.
+
+The inflection was predominantly a **spot correction rather than a documented broad forecast capitulation**. AUD/USD peaked at 0.7238 on 9 September, then weakened as the USD, Treasury yields and global risk aversion rose. By 15 September Reuters technical analysis was flagging a broken short-term uptrend; by 18 September spot had fallen to roughly 0.7126. The publicly visible 0.73 ING year-end target had not changed, so price moved away from that constructive forecast rather than the forecast chasing price lower.
+
+### Main consensus drivers
+
+**RBA / Fed differential:** AUD support rested heavily on the possibility that sticky Australian inflation would keep the RBA restrictive or generate another hike. ING saw a September RBA hike as a tangible possibility, while the global USD side remained highly dependent on how aggressively the Fed ultimately tightened.
+
+**Global USD regime:** The Reuters strategist poll immediately ahead of the window still expected near-term dollar firmness but eventual depreciation, producing a split horizon: potentially adverse for AUD tactically, more supportive at longer horizons.
+
+**Commodities / external beta:** Constructive AUD views relied partly on resilient terms of trade and commodity support; CommBank represented the opposite tail, arguing that lower metals would reinforce AUD weakness.
+
+**Risk / geopolitical premium:** AUD’s early-window strength coexisted with Middle East and energy risk, but the subsequent rise in global risk aversion helped reverse the move. Reuters linked the mid-window AUD decline to a stronger USD, higher Treasury yields and energy/inflation concerns.
+
+### Where consensus could be wrong
+
+**Consensus too bullish AUD:** The 0.73–0.75 cluster would prove too optimistic if US rates remained higher than expected, the USD strengthened persistently, metals weakened and the Australian yield advantage compressed. That is essentially the CommBank counter-scenario.
+
+**Consensus too cautious AUD:** The September pullback could instead prove tactical if RBA tightening expectations remained elevated, Australian activity stayed resilient and the broader USD depreciation thesis reasserted itself. ING’s forecast structure preserved that medium-term upside despite a neutral one-month bias.
+
+**Key falsification:** Sustained AUD/USD failure below the 0.70 area alongside widening US-over-Australia rate support and weaker metals would materially challenge the constructive 0.73–0.75 cluster; conversely, recovery above the September high while RBA/Fed relative pricing moved in Australia’s favour would weaken the bearish CommBank scenario.
+
+# I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Weak forward-growth stabilization under a materially more restrictive RBA inflation reaction function.
+* **Change:** Growth deterioration stopped intensifying, but policy shifted from conditional hawkishness to a live tightening configuration after Bullock said the August upside-risk trigger appeared to be materialising. :chatgpt-content-reference{index="23"}
+
+### Scoreboard
+
+* **Growth:** ~ | Six-month momentum improved but remains below trend and narrow.
+* **Labor:** ~ | No standalone in-window labour release; Leading Index labour contribution still weak.
+* **Inflation:** ~ | No in-window inflation release in the archive.
+* **Financial Conditions:** ~ | Housing/financial signals soft but not yet a binding RBA constraint.
+* **Policy Constraint:** - | RBA leadership explicitly escalated the tightening signal.
+
+### Major Release Tape
+
+No *** or **** AUD macro release was validated inside the release archive.
+
+### Minor Tape
+
+* **Minor:** ** Westpac–Melbourne Institute Leading Index — Reuters monthly -0.04%; Westpac six-month annualised -0.09% from -0.17% → deterioration pauses, but below-trend level and poor breadth keep the signal at stabilization.
+
+### Central Bank
+
+* **Bias:** Hawkish escalation / live tightening bias.
+* **Reaction function:** August condition was “if upside risks materialise”; Bullock said on 18 Sep that some now appear to be materialising, with cost pass-through and embedding the key escalation risk.
+* **Key tape:** Hunter opened the possibility on 8 Sep; Hauser confirmed readiness but “not” more drastic action; Bullock institutionalised the signal on 18 Sep. Seven of nine voters remained silent. :chatgpt-content-reference{index="24"}
+
+### Signal Tension
+
+* **Tension:** Below-trend forward growth versus an RBA leadership increasingly prepared to tighten into that softness.
+* **What resolves it:** Whether domestic demand/labour weaken enough to override inflation persistence, or pass-through broadens enough to confirm the tightening case.
+
+### Key Releases
+
+1. **Westpac–Melbourne Institute Leading Index** — only validated AUD release; clearest evidence that deterioration stopped without establishing recovery.
+
+### Red Team
+
+* Is the six-month stabilization merely a false floor?
+* Does leadership hawkishness represent the seven silent MPB voters?
+* Is Bullock’s “appear to be materialising” language a genuine hike trigger or preserved optionality?
+
+### FX Consensus
+
+* **Consensus:** Medium-term mildly constructive AUD, tactically two-sided.
+* **Public-bank range:** 0.64–0.75 year-end, with significant vintage dispersion.
+* **Constructive cluster:** 0.73–0.75.
+* **Cautious / tactical:** CommBank bearish; earlier 0.64 downside anchor.
+* **At window close:** ~0.7126 versus 0.7238 peak; spot moved away from the constructive target cluster rather than forecasts broadly being revised down.
+* **Drivers:** RBA/Fed differential; global USD regime; commodities; geopolitical/risk beta.
+* **Consensus wrong if:** Persistent sub-0.70 AUD/USD with widening US rate support and weaker metals challenges the constructive cluster; renewed highs with stronger relative RBA pricing challenge the bearish tail.
+
+<<AUD_WEEK_END>>
 <<AUD_WEEK_BEGIN>>
 DATA WINDOW: 9 August 2026 to 5 September 2026
 
