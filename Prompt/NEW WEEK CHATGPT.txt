@@ -1134,6 +1134,21 @@ APPLICATION RULE — CHAT REQUEST EXECUTION DISCIPLINE
 
 This section governs how the assistant should behave during an actual chat workflow.
 
+
+0. POST-RIC STATUS — MANDATORY
+
+After each analyzed RIC / official-publication block, append outside the macro note:
+The locked [REGION] week remains at **[X] built publication blocks**, with **[remaining publications]** still unbuilt.
+Possible second scout: [None / specific targeted question].
+
+Rules:
+derive remaining scope from the original Reuters feed and latest locked in-chat version;
+count official-publication blocks, not raw Reuters rows;
+list only genuinely unbuilt publications;
+suggest a second scout only if a material unresolved question remains;
+if none is needed: Possible second scout: None — first-pass evidence is sufficient.
+if all blocks are built, state that the week is mechanically complete.
+
 1. DEFAULT MODE — WAIT FOR SCOUT
 
 When the user provides a Reuters calendar / release feed and says “wait for scout” or implies that scout material will follow:
