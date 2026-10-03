@@ -1,1 +1,805 @@
-f
+<<SPX_WEEK_BEGIN>>
+
+DATA WINDOW: 28 September 2026 to 2 October 2026  
+AS OF: 3 October 2026
+
+# GLOBAL EQUITY — END-WEEK
+
+## 0. PM FLASH — 20/30s READ
+
+**Regime:** concentrated earnings/AI-led market under a long-end rates shock. SPX **−0.27% w/w**, Nasdaq positive; 10Y **+7bp to 5.28%**, 30Y +11bp, while 2Y fell 5bp. The adjustment is still happening **underneath the headline index before it hits the leaders**.
+
+**What mattered:** #1 global duration selloff, with 10Y peaking **5.34%**; #2 Williams + **NFP +29k vs +90k** removed much of the October Fed-hike tail; #3 oil/Iran mattered mainly through inflation/rates. Friday's key tell: 10Y rebounded **5.18→5.28%** after payrolls and equities kept the rally.
+
+**Reaction function:** weak macro remains equity-positive while it removes Fed risk without becoming an earnings scare. Soft PCE **3.0% vs 3.3%** being ignored says the long end is no longer trading purely off spot inflation.
+
+**Leadership:** AI/semis > broad market. September context: Tech **+5%** versus Financials/Materials/REITs around **−7%**; Europe/banks also weak. Peterson sees flows concentrating into AI/tech; Wilson/Snider see the same narrowness as partly opportunity, Gundlach as hidden fragility.
+
+**Stocks:** NVDA **+2.9% Fri/new high** despite 5.3% yields; MU **+1.7% AH vs ~6.3% implied** after a major beat-and-raise; STX/WDC **−10.2%** on Toshiba capacity = first clean AI hardware supply-response signal; ACN **+15.8% then −6.3%** = positioning > confirmed software broadening.
+
+**Human tape:** tactically cautious on rates/breadth; medium-term earnings constructive. Public YE26 SPX targets cluster **8,000–8,100**, median **7,975**, only ~**+3.3%** above spot.
+
+**PM carry:** leaders can keep the index firm while breadth weakens. **Break:** 10Y clears 5.34% *and* NVDA/SOX fail. Biggest warning before that: strong earnings stop generating upside.
+
+---
+
+## 1. MARKET / REGIME
+
+### MARKET STATE
+
+The cleanest description is:
+
+**Concentrated earnings-led resilience at index level, with a long-end rates shock driving deterioration beneath the surface.**
+
+This is not broad risk-off:
+
+- SPX only **−0.27% w/w** to 7,722.72;
+- Nasdaq remained positive on the week and made a new intraday high Friday;
+- NVDA made its first record since May;
+- VIX finished only **15.31**.
+
+But it is not healthy broadening either:
+
+- 10Y **+7bp w/w**, peak 5.34%;
+- 30Y **+11bp**;
+- 2Y **−5bp**;
+- Dow/SPX negative versus Nasdaq positive;
+- only **44.1%** of SPX above its 200dma versus 47.8% a week earlier on the supplied breadth series;
+- second consecutive week of US equity outflows, **−$2.7bn**;
+- strongest long-duration bond inflow since May 2025.
+
+The yield curve move matters. This was **bear steepening at the long end while front-end Fed expectations softened**. Therefore the equity constraint is no longer adequately described as simply “Fed hawkishness.”
+
+### WHAT CHANGED
+
+**Strengthened:** concentration / AI leadership.
+
+**Strengthened:** sensitivity of non-leader equities to long-end yields.
+
+**Weakened:** case for near-term Fed tightening.
+
+**Not yet changed:** aggregate earnings support.
+
+**Still unresolved:** whether weak breadth is a temporary rates dislocation or a more structural narrowing.
+
+VIX at 15.31 versus 30-day realized volatility around 10.5 suggests investors are paying some premium for protection, but this is still far from a panic-volatility regime.
+
+---
+
+## 2. WHAT DROVE THE MARKET
+
+### #1 — GLOBAL LONG-END SELLOFF
+
+This was the dominant weekly driver.
+
+The move was global:
+
+- US 10Y reached **5.34%**, highest since 2002;
+- UK 30Y traded above **6%**;
+- Japanese 10Y above **3.1%**;
+- OAT-Bund around **140bp**, highest since the 2011–12 period.
+
+The equity transmission was clearest Thursday: Treasuries caught a safe-haven bid as French stress intensified, yields fell, and US equities reversed their intraday losses.
+
+The crucial distinction is:
+
+**front-end Fed expectations softened while long-end yields rose.**
+
+This points toward term premium, fiscal/supply concerns, inflation uncertainty and capital-demand pressure rather than only the expected Fed path.
+
+Cross-sectionally, that pressure was absorbed poorly by the broad market but surprisingly well by AI/semiconductor leaders.
+
+---
+
+### #2 — OCTOBER FED-HIKE TAIL WAS REMOVED
+
+Williams Tuesday: **“no need for urgency.”**
+
+Evercore ISI interpreted that as a clear rejection of another consecutive October hike.
+
+Friday payrolls then printed:
+
+- **+29k vs +90k expected** in the scout baseline;
+- August revised to +133k;
+- unemployment 4.2%;
+- hourly earnings +0.1% m/m.
+
+Estimated October hike probability fell from roughly **47% Tuesday to 20% Friday**.
+
+The initial market move was textbook:
+
+**weak employment → lower Fed risk → yields down → equities up.**
+
+But the persistence was not textbook.
+
+The 10Y reversed from approximately **5.18% to 5.28%**, while equities retained their gains.
+
+That tells us Friday's equity rally was primarily about **removing near-term policy-tail risk**, not a belief that the long-end problem had disappeared.
+
+---
+
+### #3 — IRAN / OIL FED THE RATES CHANNEL
+
+Trump's rejection of Iranian conditions contributed to the initial rates/inflation move early in the week.
+
+Friday's G7 announcement of a **100Mb crude/diesel release** pushed in the opposite direction.
+
+For equities, oil was primarily a **rates/inflation transmission variable**, not the dominant direct sector story.
+
+---
+
+## 3. REACTION FUNCTION / SURPRISES
+
+### MATTERED
+
+**Long-end yields:** consistently mattered to broad equity performance.
+
+**Williams / NFP:** materially changed near-term Fed pricing.
+
+**Treasury relief Thursday:** directly helped turn US equities higher intraday.
+
+---
+
+### IGNORED
+
+**Core PCE 3.0% y/y vs 3.3% expected.**
+
+Despite a benign inflation surprise, SPX finished Wednesday lower and yields remained resilient.
+
+Nathan Peterson/Schwab explicitly highlighted the surprise that rates remained so firm despite softer PCE, weaker employment evidence and reduced Fed-hike expectations.
+
+**Consumer confidence 81.9**, lowest since 2014, produced no identifiable index reaction.
+
+**Anthropic leaked prospectus:** approximately $518bn of cloud/compute commitments and a 2025 net loss of $41.97bn did not derail the AI complex.
+
+---
+
+### COUNTER-INTUITIVE
+
+**1. Softer inflation no longer guarantees lower long-end yields.**
+
+This raises the importance of term premium, fiscal supply and structural capital demand.
+
+**2. Post-NFP yields rebounded without killing the equity rally.**
+
+Equities differentiated between:
+
+- lower near-term Fed risk;
+- still-high long-end discount rates.
+
+**3. “Bad news = good news” survived another week.**
+
+Todd Schoenberger/CrossCheck framed weak payrolls as constructive because bonds had already tightened financial conditions.
+
+But Justin Wolfers' observation that three-month payroll growth is only around **+17k/month** identifies the boundary: further weakness can eventually become an earnings/growth problem rather than a Fed-relief catalyst.
+
+### CURRENT REACTION FUNCTION
+
+**Weak macro = equity-positive while it lowers Fed risk without creating an earnings scare.**
+
+**Higher long-end yields = broad-market negative, but AI/semi leaders remain partially insulated while their earnings/revision momentum stays exceptional.**
+
+The key transition to watch is therefore:
+
+**when does higher long-end yield finally overwhelm leader earnings resilience?**
+
+---
+
+## 4. SECTOR / FACTOR LEADERSHIP
+
+Weekly sector-return granularity is incomplete in the supplied tape, so monthly sector figures are used only as context rather than presented as weekly performance.
+
+### TECHNOLOGY / AI — LEADER
+
+September context: **Technology +5%**, the only major sector positive in the supplied sector snapshot.
+
+During the week:
+
+- Nasdaq outperformed SPX;
+- SOX/NDX remained firm;
+- NVDA reached a new record despite the 10Y touching 5.34%.
+
+Nathan Peterson/Schwab's interpretation is explicitly concentration-driven: money is moving toward tech/AI at the expense of the rest of the market.
+
+**PM read-through:** earnings durability is still overpowering duration pressure inside the strongest AI names.
+
+---
+
+### SEMICONDUCTORS — LEADERSHIP INTACT, BUT INTERNAL SIGNALS DIVERGE
+
+NVDA confirms leadership.
+
+MU introduces the first warning: extraordinary guidance produced a far smaller stock reaction than options had priced.
+
+STX/WDC introduce a different warning: supply response.
+
+This means the semi/hardware story is no longer uniformly:
+
+**AI demand strong → stocks higher.**
+
+It is beginning to split between:
+
+- scarcity beneficiaries;
+- names facing new capacity;
+- names where expectations may already discount exceptional demand.
+
+---
+
+### FINANCIALS — CLEAR LAGGARD
+
+September context: approximately **−7%**.
+
+This is notable because nominal long yields rose sharply.
+
+If higher nominal yields were the only important bank variable, Financials should have behaved better.
+
+Instead, the market appears to have weighted:
+
+- macro risk;
+- funding/credit risk;
+- European sovereign stress;
+- higher discount rates;
+
+more heavily than simple NIM logic.
+
+Andrew Jackson/Vontobel's warning that credit spreads could follow long rates higher is directionally consistent with that weakness.
+
+European banks had their worst weekly fall since April.
+
+---
+
+### SOFTWARE — POSITIONING RALLY, NOT YET LEADERSHIP
+
+Accenture rallied **+15.8% Thursday**, then lost **6.3% Friday**.
+
+Steve Sosnick/IBKR argued many investors were under-invested in software.
+
+That fits the violent initial move.
+
+But bookings rose only around 4%, the company no longer separately discloses AI bookings, and a large part of the move was immediately retraced.
+
+**PM read-through:** evidence of under-positioning, not enough evidence yet for durable software broadening.
+
+---
+
+### MATERIALS / REITS — RATE CASUALTIES
+
+September context: both approximately **−7%**.
+
+They fit the broader evidence that higher long-duration discount rates are hurting non-AI parts of the market.
+
+No current-week human evidence is strong enough to add a more specific thesis.
+
+---
+
+### SMALL CAPS / BROAD MARKET
+
+Russell 2000 remains weaker than NDX/SPX.
+
+Mike Wilson/Morgan Stanley says more than **40% of the Russell 3000 has fallen at least 20% since June**, framing the internals as a “classic mid-cycle transition.”
+
+Ben Snider/Goldman similarly notes the median stock is around **16% below its 52-week high**.
+
+Their interpretation differs from Gundlach's, but the factual conclusion is shared:
+
+**headline index strength materially overstates the health of the median stock.**
+
+---
+
+### EUROPE — RELATIVE LAGGARD
+
+STOXX 600 fell on the week.
+
+European banks experienced their worst weekly decline since April.
+
+French sovereign stress was strong enough to create safe-haven Treasury demand Thursday.
+
+Year-to-date context supplied by the scout:
+
+- SPX approximately **+12%**;
+- STOXX 600 approximately **+6%**.
+
+### LEADERSHIP CHANGE
+
+**Narrowing / intensification.**
+
+Not a new tech leadership regime, but a widening performance gap between AI/semis and the rest of the market.
+
+---
+
+## 5. KEY STOCK MOVES / SURPRISES
+
+### NVIDIA — +2.9% FRIDAY, FIRST RECORD SINCE MAY
+
+**Catalyst:** renewed semiconductor leadership plus Morgan Stanley restoring NVDA as its top semiconductor pick.
+
+**Reaction vs expectation:** the informative part is not simply +2.9%. NVDA made a new high in the same week the 10Y reached **5.34%**.
+
+**Human read-through:** Morgan Stanley's top-pick action reinforced the earnings/AI leadership narrative.
+
+**PM signal:** duration pressure has not yet reached the core leader. Until it does, the index can remain much healthier than the median stock.
+
+AI financing concerns remain important structural background, but they did **not** explain this week's NVDA move.
+
+---
+
+### MICRON — +1.7% AFTER HOURS VS ~6.3% IMPLIED
+
+**Catalyst:** revenue guidance approximately **$61.5bn vs $57bn expected**.
+
+**Reaction vs expectation:** very large beat-and-raise, very modest reaction relative to options pricing.
+
+**Human read-through:** Gil Luria/D.A. Davidson focused on the possibility that memory markets could remain even tighter into 2028.
+
+**PM signal:** the stock market demanded more than outstanding fundamentals.
+
+This is the most important earnings-reaction warning of the week:
+
+**great numbers are starting to face a higher hurdle.**
+
+If that pattern migrates from MU to the dominant index leaders, it matters more than another positive EPS revision.
+
+---
+
+### SEAGATE — −10.2% FRIDAY  
+### WESTERN DIGITAL — −10.2% FRIDAY
+
+**Catalyst:** Nikkei reported Toshiba plans to double HDD capacity by FY2027.
+
+**Reaction vs expectation:** unusually violent response to future supply news.
+
+**Human read-through:** Asiya Merchant/Citi judged the reaction excessive.
+
+**PM signal:** first clean evidence that AI infrastructure profitability is attracting a visible **supply response**.
+
+The broader question is now:
+
+**where else in AI hardware can supply expand fast enough to erode scarcity economics?**
+
+---
+
+### ACCENTURE — +15.8% THURSDAY, −6.3% FRIDAY
+
+**Catalyst:** 3–6% growth guidance exceeded market expectations.
+
+**Reaction vs expectation:** huge initial rally, followed immediately by a meaningful retracement.
+
+**Human read-through:** Steve Sosnick/IBKR pointed to investors being under-invested in software.
+
+**PM signal:** positioning amplified the upside. The reaction does not yet establish a fundamental software leadership change.
+
+A sustained follow-through in software peers would be required.
+
+---
+
+### TESLA — ~+4% EARLY FRIDAY
+
+**Catalyst:** deliveries **486,532 vs approximately 463,000 expected**.
+
+**Reaction vs expectation:** clear positive operating surprise.
+
+**PM signal:** strengthens the Tesla-specific operating tape, but there is insufficient evidence to interpret it as a broad consumer-discretionary signal.
+
+---
+
+### NIKE — FUNDAMENTAL NEGATIVE, BROADER SIGNAL STILL UNCLEAR
+
+**Catalyst:**
+
+- revenue $11.21bn vs $11.33bn expected;
+- high-single-digit FY revenue decline guided;
+- further workforce reductions.
+
+No sufficiently robust price-move figure is supplied in the scout, so no percentage is imposed here.
+
+**PM signal:** another negative read on global discretionary/China-linked demand, but not enough evidence for a sector-level regime call.
+
+---
+
+## 6. EARNINGS / REVISIONS
+
+### REVISION TREND
+
+Near-term aggregate earnings evidence remains strong.
+
+FactSet tape supplied:
+
+- Q3 EPS growth expectation **+29.5%**;
+- versus **+26.7%** at 30 June;
+- forward P/E approximately **19.0x**.
+
+This matters because weak breadth is **not yet being confirmed by aggregate earnings deterioration**.
+
+The market currently has:
+
+**better earnings revisions + worse participation.**
+
+That divergence is central.
+
+---
+
+### GUIDANCE
+
+Approximately **62%** of companies issuing guidance in the supplied FactSet sample have given positive guidance.
+
+Near-term corporate fundamentals therefore remain support rather than the source of weakness.
+
+---
+
+### REACTION ASYMMETRY
+
+This is where the evidence became more interesting this week.
+
+**MU:** huge beat-and-raise, muted reaction versus implied.
+
+**ACN:** strong guidance triggered a violent rally, but a significant portion was immediately retraced.
+
+The market is therefore starting to distinguish between:
+
+- fundamental strength;
+- already-high expectations;
+- positioning;
+- durability of scarcity economics.
+
+---
+
+### WHAT IS NOW PRICED
+
+The question into Q3 earnings is no longer:
+
+**Can earnings beat?**
+
+Aggregate expectations already assume very strong earnings.
+
+The more important question is:
+
+**Can strong earnings still generate positive stock reactions?**
+
+Walter Todd/Greenwood highlights the next comparison problem: LSEG consensus implies roughly **+15% EPS growth in 2027 after +35% in 2026**.
+
+That is not current deterioration.
+
+It is the forward hurdle.
+
+---
+
+## 7. HUMAN VOICES / CONSENSUS / DISSENT
+
+### 7A. CURRENT / TACTICAL HUMAN TAPE
+
+**Nathan Peterson — Schwab — 2 Oct — next week**
+
+Moderately constructive, but explicitly conditional on yields not making fresh highs.
+
+His central observation is increasing concentration into technology/AI.
+
+**Trigger:** new highs in yields weaken the tactical case.
+
+---
+
+**Mike Wilson — Morgan Stanley — ~28 Sep — tactical/year-end**
+
+Calls the internals a **“classic mid-cycle transition.”**
+
+More than 40% of Russell 3000 stocks have fallen at least 20% since June.
+
+He interprets that internal correction as potentially setting up a better year-end rather than automatically signaling index failure.
+
+---
+
+**Ben Snider — Goldman Sachs — 29 Sep — medium/tactical**
+
+Highlights a narrow index with the median stock approximately 16% below its 52-week high.
+
+The implication is to look beyond the obvious AI winners rather than treat headline SPX strength as representative of the whole market.
+
+---
+
+**Michael Hartnett — BofA — 2 Oct — tactical**
+
+Risk-off until the dollar peaks and yields relax.
+
+At the same time, allocators remain positioned for a possible final technology melt-up and heavily underweight bonds.
+
+His framing captures the current contradiction:
+
+**poor broad-market setup can coexist with continued leader upside.**
+
+---
+
+**Jeffrey Gundlach — DoubleLine — current week**
+
+Sees **“rot” beneath the S&P 500 that is not visible in the headline index.**
+
+He represents the more bearish interpretation of the same internal deterioration identified by Wilson/Snider.
+
+---
+
+**Savita Subramanian — BofA — 14 Sep — older context**
+
+Said a pullback was overdue, with only one 5% correction this year versus roughly three normally.
+
+Not treated as current-week tactical evidence.
+
+---
+
+**Ed Yardeni — 16 Sep — older context**
+
+Saw increased downside risk over the following three to six months.
+
+Again, context rather than current-week tape.
+
+---
+
+### TACTICAL DOMINANT CLUSTER
+
+Professionals broadly agree on two facts:
+
+1. **market internals are much weaker than the headline SPX/NDX;**
+2. **long-end yields are the key near-term constraint.**
+
+They disagree on what the internal damage means.
+
+### TACTICAL DISSENT
+
+**Wilson / partly Snider:** internal correction may already be creating future opportunities.
+
+**Gundlach / Hartnett:** internal weakness is evidence of fragility and/or reason for tactical caution.
+
+**Peterson:** sits between the two — constructive only if yields stop rising.
+
+### TACTICAL CHANGE
+
+No clear wholesale strategist view shift occurred during the week.
+
+The market itself strengthened the rates/breadth framing:
+
+- yields made new cycle highs;
+- broad participation weakened;
+- AI leaders still survived.
+
+---
+
+### 7B. MEDIUM-TERM SPX STRATEGIST CONSENSUS
+
+#### ACTIVE PUBLIC YE2026 TARGET SAMPLE
+
+| Strategist / House | View date | Horizon | SPX target | Core thesis | Key assumptions | Main risk | Source quality |
+| --- | --- | --- | ---: | --- | --- | --- | --- |
+| Savita Subramanian / BofA | 14 Sep | YE26 | 7,400 | Earnings strong, multiple inconsistent with BofA inflation view | 2026 EPS $365; 2027 $410 | Fed hikes, private credit, disorderly long-end | Reuters + secondary |
+| Ohsung Kwon / Wells Fargo | 14 Sep | YE26 | 7,700 | Late-cycle → lower sustainable multiple | 2027 EPS $425; 2028 $460 | 5–10% near-term correction | Reuters |
+| Julian Emanuel / Evercore ISI | Aug reaffirmed | YE26 | 7,750 | AI-driven bull market | n/a | 5,000 bear case under stagflation | Secondary |
+| Ed Yardeni / Yardeni Research | 16 Sep | YE26 | 7,900 | Multiple compression from rates, not earnings deterioration | Forward P/E 18.6; 2027 EPS $425 | Rates toward 6% | Bloomberg via secondary |
+| Lori Calvasina / RBC | listed 16 Sep | YE26* | 7,900 | Two-speed AI / non-AI market | Non-AI estimates cut 7.5% in May | n/a | Reuters; horizon detail partial |
+| Venu Krishna / Barclays | ~9 Sep | YE26 | 7,950 | Earnings drive target increase | 2026 EPS $365; 21.8x | Inflation / rates cap multiple | Reuters via secondary |
+| Dubravko Lakos-Bujas / JPMorgan | 10 Aug | YE26 | 8,000 | AI monetization evidence | 2026 EPS $365; 2027 $420; ~20x | n/a | CNBC / Bloomberg |
+| Ben Snider / Goldman Sachs | listed 16 Sep | YE26 | 8,000 | Profit growth, not valuation expansion | ~19x; 2027 EPS $415 | Energy/rates ST; AI LT | Reuters + primary thesis |
+| Mike Wilson / Morgan Stanley | 13 May | YE26 | 8,000 | Earnings story, not multiple expansion | 2026 EPS $339 vintage May | Fed hike cycle | Primary + Bloomberg |
+| Binky Chadha / Deutsche Bank | Dec 2025 | YE26 | 8,000 | Earnings broaden beyond tech | EPS $320; two Fed cuts assumption | Assumptions stale | Reuters; thesis stale |
+| Scott Chronert / Citi | 5 Jun | YE26 | 8,100 | One-time capex supercycle | 2026 EPS $350; 2027 ~$400 | AI growth persistence after 2027 | Reuters + secondary |
+| Jonathan Golub? / UBS Global Research* | 21 Jul | YE26 | 8,100 | Tech-led earnings growth underestimated | 2026 EPS growth >28% | n/a | CNBC |
+| UBS Global Wealth Management | 21 Aug | YE26 | 8,100 | US equities still attractive | 2027 EPS $400; ~20.3x | n/a | Secondary |
+| John Stoltzfus / Oppenheimer | Dec 2025 | YE26 | 8,100 | Economic resilience | n/a | n/a | Reuters; thesis stale |
+
+\*The scout identifies the UBS Global Research strategist as Parker; retain the house-level entry until the named strategist is reverified. RBC horizon also remains partially unresolved.
+
+**Reuters target-only entries:**  
+Jefferies **7,500**; Canaccord **7,500**; BNP Paribas **7,500**; Seaport **7,800**; Société Générale **8,000**; HSBC **8,100**.
+
+Wells Fargo Investment Institute: **7,800–8,000 range**, kept outside the point-target sample.
+
+---
+
+### MEDIUM-TERM AGGREGATE
+
+**Qualified public point-target sample:** 20.
+
+**Horizon:** YE2026.
+
+**Range:** **7,400–8,100**.
+
+**Median:** **7,975**.
+
+**Mean:** **7,870**.
+
+Against SPX 7,722.72:
+
+- median upside approximately **+3.3%**;
+- low target approximately **−4.2%**;
+- high target approximately **+4.9%**.
+
+**Central cluster:** **8,000–8,100**, 10 of 20 targets.
+
+**Bull tail:** 8,100 point targets; Tom Lee separately says above 8,200 but without a formal point target.
+
+**Bear tail:** BofA 7,400; then Jefferies/Canaccord/BNP 7,500.
+
+### DOMINANT MEDIUM-TERM THESIS
+
+**Earnings, not multiple expansion, are expected to carry the index.**
+
+Recent 2026 EPS assumptions from BofA, Barclays and JPMorgan converge around **$365**.
+
+### MAIN DISAGREEMENT
+
+**What multiple is sustainable with the US 10Y above 5%?**
+
+Yardeni and Wells Fargo have already reduced targets / multiple assumptions.
+
+Several houses clustered around 8,000–8,100 have not publicly revised targets since the September Fed hike and latest long-end move.
+
+That makes the current target cluster less informative than the earnings assumptions underneath it.
+
+### CHANGES IN THE LAST FOUR WEEKS
+
+**Raises:** Barclays → 7,950; BofA → 7,400.
+
+**Cuts:** Wells Fargo → 7,700; Yardeni → 7,900.
+
+**New separate horizon:** Goldman 8,700 at 12 months.
+
+**17 Sep–2 Oct:** no identified YE2026 target changes.
+
+---
+
+### DISTINCT NON-YE2026 HORIZONS
+
+- Goldman: **8,700 at 12 months**.
+- Morgan Stanley: **8,300 mid-2027**.
+- BofA: **7,800 at 12 months**.
+- Yardeni: **8,400 mid-2027**.
+- UBS GWM: **8,400 mid-2027**.
+- Barclays: **8,800 YE2027**.
+- UBS Global Research: **8,900 in 2027**.
+
+Do not mix these with the YE2026 median.
+
+### TACTICAL VS MEDIUM TERM
+
+**Tactical caution / medium-term earnings constructiveness.**
+
+More importantly, the public YE2026 target cluster now offers **limited upside from current levels**.
+
+The medium-term debate is therefore less:
+
+**“Will earnings grow?”**
+
+and increasingly:
+
+**“What multiple can those earnings command with the 10Y above 5%?”**
+
+---
+
+## 8. RED TEAM
+
+### 1. NARROWING MAY JUST BE A RATES DISLOCATION
+
+If Financials, Industrials and Small Caps begin outperforming while yields merely stabilize rather than collapse, this week's internal weakness would look more cyclical than structural.
+
+---
+
+### 2. AI LEADERS MAY BE NEXT TO BECOME RATE-SENSITIVE
+
+So far the broad market has absorbed the duration shock.
+
+If a fresh 10Y high above 5.34% is accompanied by NVDA/SOX underperformance, the current insulation thesis fails.
+
+---
+
+### 3. STRONG EARNINGS MAY ALREADY BE TOO WELL PRICED
+
+MU is the first clean warning.
+
+If several high-quality beats produce weak or negative reactions, the issue shifts from earnings fundamentals to valuation/expectation saturation.
+
+---
+
+### 4. LABOR WEAKNESS MAY CROSS THE “GOOD NEWS” BOUNDARY
+
+Three-month payroll growth around +17k is already close to stall speed.
+
+Another weak print could make equities focus on earnings risk rather than Fed relief.
+
+The clean signal would be:
+
+**weak data + lower yields + lower equities.**
+
+---
+
+### 5. AI SUPPLY RESPONSE MAY ARRIVE FASTER THAN EXPECTED
+
+STX/WDC is only one datapoint.
+
+But if new capacity announcements spread through memory, networking, storage or other AI infrastructure, the scarcity-premium thesis becomes less uniform.
+
+---
+
+## 9. PM CARRY / NEXT WEEK
+
+### BASE CASE
+
+SPX/NDX can remain resilient near highs while underlying participation remains poor because **AI/semiconductor earnings leadership is still strong enough to absorb the long-end shock**.
+
+The broad market remains more fragile than the index.
+
+---
+
+### CONFIRMATION
+
+The current view strengthens if:
+
+- 10Y retests 5.30–5.34% and NDX/SOX/NVDA still hold leadership;
+- earnings revisions remain positive;
+- bad macro continues to reduce Fed risk without causing equity weakness;
+- breadth stops deteriorating even without a large yield rally.
+
+---
+
+### WARNING
+
+The first important warning is not another weak breadth statistic.
+
+It is:
+
+**strong company news producing increasingly weak reactions in the leaders.**
+
+MU is the first yellow flag.
+
+A sequence of similar reactions would suggest expectations have become the binding constraint.
+
+---
+
+### REGIME BREAK
+
+**Negative break:**
+
+10Y moves sustainably above **5.34%** and AI/semiconductor leaders break relative performance.
+
+That would mean the rates shock has finally reached the group supporting the index.
+
+A second negative break would be:
+
+**weak macro → lower yields → lower equities**, indicating “bad news = good news” has turned into a growth scare.
+
+**Positive regime change:**
+
+Financials / Industrials / Small Caps begin outperforming **without requiring materially lower yields**.
+
+That would be credible broadening rather than simple duration relief.
+
+---
+
+### MAIN ASYMMETRY
+
+The highest-information outcome is:
+
+**good fundamental news with weak stock reactions.**
+
+With Q3 earnings expectations already exceptionally strong and strategist targets clustered only modestly above spot, upside now requires more than simply beating consensus.
+
+---
+
+### WATCH
+
+**1. US 10Y — 5.34%.**  
+Does the level hold, and more importantly, what do NDX/SOX do if it does not?
+
+**2. NVDA / MU reaction pattern.**  
+Leadership resilience versus expectation saturation.
+
+**3. Financials / Industrials / Russell.**  
+Can laggards stabilize without bond relief?
+
+**4. ISM Services Monday / Michigan Friday.**  
+Does weak macro remain Fed-positive or start becoming growth-negative?
+
+**5. Oil / Iran / France.**  
+Watch mainly through their impact on long-end yields and credit rather than as standalone equity narratives.
+
+---
+
+## 10. NEXT SCOUT
+
+**Find current PM, strategist and sector-analyst evidence on whether the weakness in Financials/Industrials/Small Caps is primarily a temporary long-end-rates dislocation or genuine deterioration beneath AI leadership; prioritize explicit cross-sector views and evidence on whether strong earnings are beginning to receive weaker stock reactions, and report only genuinely new SPX target changes versus the current strategist baseline.**
+
+<<SPX_WEEK_END>>
