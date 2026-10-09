@@ -1,4 +1,422 @@
+<<NOK_WEEK_BEGIN>>
 
+DATA WINDOW: 20 September 2026 to 26 September 2026
+
+A. NOK WEEK — MACRO SYNTHESIS
+
+Norway ended the window in a materially firmer higher-for-longer policy regime without evidence of renewed domestic overheating. Labour conditions remain softer than the earlier tight regime but broadly stable underneath a noisy monthly unemployment reversal: the Reuters SA rate returned to 4.5%, while SSB's preferred trend measure stayed unchanged at 4.5% and employment evidence did not show a clean demand break. Norges Bank itself projects mainland growth around 1% and registered unemployment edging somewhat higher, explicitly accepting below-potential activity as the cost of returning inflation to target.
+
+The decisive transition was monetary. Norges Bank delivered a unanimous 25bp hike to 4.50%, lifted the longer end of its policy path, retained upward judgment relative to its model and pushed projected easing beyond 2027. Critically, three consecutive core-inflation undershoots did not trigger a dovish path revision: the Committee looked through softer near-term inflation because the medium-term outlook was judged materially unchanged, with external energy/commodity pressure, accumulated business costs and inflation-persistence risk offsetting the softer prints. The live question is therefore no longer hike versus hold but terminal: 4.50% remains the plateau baseline, while the published path carries a meaningful conditional tail toward 4.75%. Regime: stable labour slack / persistent medium-term inflation constraint / realised tightening / extended 4.50% plateau with asymmetric upside.
+
+B. NOK MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+
+Supporting evidence:
+No direct high-frequency growth publication was contained in the supplied Norway archive. Norges Bank projects mainland growth around 1%, below potential, and acknowledges below-normal capacity utilisation, but this slowdown is already embedded in the policy path rather than representing a new contraction shock. Growth therefore remains mixed/soft rather than newly deteriorating.
+
+Labor: ~
+
+Supporting evidence:
+The monthly SA unemployment rate rose from 4.2% to 4.5%, but SSB's preferred trend measure remained unchanged at 4.5% for a fourth consecutive month and trend employment was broadly stable. Register employment also showed only modest changes, while data-quality problems around survey-mode changes and employer reporting warrant a large discount. Norges Bank already expects some further labour-market loosening, so only deterioration beyond that path would become a material dovish shock.
+
+Inflation: ~
+
+Supporting evidence:
+No new CPI release appears in the supplied archive, and underlying inflation had moderated below Norges Bank's prior projection. But the central-bank tape materially changes interpretation: the Committee explicitly looked through repeated near-term undershoots because its medium-term inflation outlook was judged broadly unchanged. Energy, commodities, accumulated business costs and expectations persistence therefore continue to offset softer current core readings. Inflation is not newly accelerating, but it remains the dominant policy constraint.
+
+Financial Conditions: -
+
+Supporting evidence:
+Norges Bank raised the policy rate 25bp to 4.50%, lifted the longer end of the projected path and now expects rates to remain near current levels for an extended period, with no cuts projected before 2028. NOK initially strengthened after the decision, restoring some imported-disinflationary cushion, but overall financial conditions remain materially restrictive.
+
+Policy Constraint: -
+
+Supporting evidence:
+The September hike was unanimous and the new path retains explicit further-tightening optionality. The central reaction-function lesson is that near-term CPI forecast misses do not mechanically generate path cuts: the Committee weights the medium-term outlook, external cost impulse and inflation-persistence risk more heavily. The baseline is a 4.50% plateau, while the path implies roughly a 40% probability of 4.75% by Q2 2027. Softer labour or stronger NOK can flatten that tail, but neither currently removes it.
+
+C. FULL RELEASE ARCHIVE
+
+WEDNESDAY 23 SEP 2026
+
+Norway — Labour Force Survey SA (Aug)
+
+Release Date: 23 Sep 2026 | Local Time: 08:00
+Importance: **
+
+1. Reuters Data
+
+Labour Force Survey SA: 4,5% | Prior: 4,2%
+
+2. Professional Market Commentary
+
+The professional framing depends materially on which SSB series is used.
+
+The Reuters / wire headline is a deterioration: seasonally adjusted monthly unemployment rose to 4.5% from 4.2%, reversing July's decline.
+
+SSB's preferred headline is materially calmer. Its trend measure remained at 4.5% for the fourth consecutive month, with 136,000 unemployed, while the employment share was broadly unchanged relative to the preceding three months. SSB therefore explicitly characterised August unemployment as unchanged rather than rising. [SSB](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen/artikler/uendret-arbeidsledighet-i-august?utm_source=chatgpt.com)
+
+The accompanying register-jobs evidence also argues against reading the monthly AKU spike as a clean labour-demand break:
+
+- final July employment was revised materially higher than the preliminary estimate
+- preliminary August jobs rose marginally
+- the jobs level nevertheless remained softer than earlier in the summer
+- SSB linked much of the unusually large July preliminary-to-final discrepancy to delayed employer reporting around the Altinn transition
+
+No Tier 1 independent institutional debate detected.
+
+3. Comment — Economist Layer
+
+The 4.5% Reuters headline is a genuine monthly deterioration, but the underlying signal is substantially weaker than the +0.3pp move suggests.
+
+Signal hierarchy:
+
+1. Monthly seasonally adjusted unemployment reversed from 4.2% to 4.5%.
+2. SSB trend unemployment remained unchanged at 4.5%.
+3. Trend employment was broadly stable.
+4. Register employment showed only small changes.
+5. The earlier preliminary jobs deterioration was substantially revised.
+6. Measurement uncertainty is unusually high.
+
+The distinction between monthly SA and trend unemployment is critical. July's 4.2% rate now looks more like a volatile monthly trough than evidence of sustained labour-market tightening. August therefore reverses the high-frequency improvement without establishing a fresh deterioration in the underlying trend.
+
+Data quality deserves an unusually large discount. SSB is progressively introducing web responses into the AKU and has explicitly warned that the collection change may affect comparability. The August release also came with additional uncertainty around survey response and register reporting. [SSB](https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/arbeidskraftundersokelsen/artikler/uendret-arbeidsledighet-i-august?utm_source=chatgpt.com)
+
+The broader historical sequence reinforces the need for caution. Norway's LFS had already been volatile: May unemployment fell to 4.4%, while subsequent prints moved back toward the mid-4% area without establishing a corresponding collapse in employment. The DM archive had therefore already treated Norwegian labour data as softening at the margin but noisy rather than as a clean policy shock. [GitHub](https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt)
+
+The proper macro read is therefore stable labour slack at a somewhat softer level than the earlier tight regime, rather than a sudden August labour-market break.
+
+State transition: no material change — the monthly series reverses July's improvement, while the underlying trend remains stable.
+
+Context from prior regional live file:
+
+Norway's earlier LFS sequence had already shown meaningful monthly volatility, with unemployment improving in spring before moving back higher while the underlying trend remained more stable. August returns the monthly measure to 4.5% after July's temporary dip, confirming that labour conditions are softer than the earlier tight regime but not entering a new deterioration phase. [GitHub](https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt)
+
+4. HF Take — Strategist Layer
+
+This is a marginally dovish labour input, but not a clean Norges Bank policy signal.
+
+Reaction-function hierarchy:
+
+- the 4.5% monthly rate indicates more slack than July
+- unchanged trend unemployment materially weakens that signal
+- employment data do not indicate a sharp labour-demand break
+- unusually high AKU measurement uncertainty argues against reacting strongly to one monthly move
+- CPI, wages, registered unemployment and NOK pass-through remain more important for Norges Bank
+
+For NOK and rates, the release is therefore neutral to mildly dovish at the margin rather than a standalone easing catalyst.
+
+The main verification test is whether registered unemployment, wage growth and subsequent AKU vintages confirm that slack is genuinely broadening.
+
+
+THURSDAY 24 SEP 2026
+
+Norway — Norges Bank Key Policy Rate (Sep)
+
+Release Date: 24 Sep 2026 | Local Time: 10:00
+Importance: ****
+
+1. Reuters Data
+
+Key Policy Rate: 4,50% | Prior: 4,25% | Poll: 4,50% | Surprise: 0,000%
+
+2. Professional Market Commentary
+
+Norges Bank delivered the 25bp hike to 4.50%, but the zero Reuters surprise understates how finely balanced the event was. The Reuters poll had only 16 of 28 economists expecting an immediate hike, while 12 expected a hold; the krone strengthened after the announcement. Most economists surveyed nevertheless still viewed 4.50% as the likely peak. [Reuters](https://www.reuters.com/world/europe/norway-central-bank-raises-interest-rate-may-hike-again-2026-09-24/?utm_source=chatgpt.com)
+
+The official message was hawkish in direction but more nuanced than a simple new hiking cycle. Norges Bank said rates will probably need to remain elevated for some time and explicitly retained the option to raise them further if inflation requires it. At the same time, the forecast has the policy rate remaining close to the current level for a period before declining somewhat. [Norges Bank](https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate/?utm_source=chatgpt.com)
+
+The Committee's deliberations confirm that this was not an automatic decision. Some members emphasised softer underlying inflation and below-normal capacity utilisation as arguments for waiting, while others stressed that inflation remained too high and that policy might not yet be sufficiently restrictive. The Committee ultimately supported the hike. [Norges Bank](https://www.norges-bank.no/en/topics/monetary-policy/Monetary-policy-meetings/2026/september-2026/?utm_source=chatgpt.com)
+
+Institutional framing consequently divided between:
+
+- hawkish hike / another increase remains live
+- 4.50% peak / prolonged plateau
+
+The common ground is that easing has been pushed further out.
+
+3. Comment — Economist Layer
+
+This is a tightening action, but analytically the more important signal is the shape of the reaction function after the hike.
+
+Signal hierarchy:
+
+1. Policy rate raised 25bp to 4.50%.
+2. Decision followed a genuine internal hold-versus-hike debate.
+3. Further tightening remains explicitly conditional.
+4. The central forecast is approximately a 4.50% plateau rather than a mechanically higher terminal rate.
+5. The eventual easing phase has been pushed further out.
+6. Norges Bank is placing greater weight on external inflation and the global-rate environment.
+
+The domestic data alone were not unequivocally hawkish. Norges Bank acknowledged that underlying inflation moderated over the summer and came in lower than expected. At the same time, inflation remained above target, domestic price pressure was still elevated and the Bank judged that a somewhat tighter stance was required to return inflation to target within a reasonable horizon. [Norges Bank](https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate/?utm_source=chatgpt.com)
+
+This makes the hike best understood as risk-management tightening against persistent domestic inflation plus renewed external price pressure, rather than a straightforward response to domestic demand overheating.
+
+The official guidance resolves the main ambiguity in the post-decision commentary: Norges Bank's base case is for the policy rate to remain near 4.50% for a period and then decline somewhat. A further hike is therefore an upside scenario embedded in the reaction function rather than the clean central case. [Norges Bank](https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate/?utm_source=chatgpt.com)
+
+The historical sequence makes this a continuation rather than a new regime. Norges Bank surprised with a hike from 4.00% to 4.25% in May. In June it held at 4.25% but explicitly said another increase would probably be necessary at a forthcoming meeting and projected a path slightly above 4.5% by year-end. September converts that prior guidance into realised tightening. [GitHub](https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt)
+
+State transition: continuation — the previously signalled tightening path has now been realised, shifting the configuration from prospective hike risk to a higher-for-longer 4.50% plateau with conditional upside.
+
+Context from prior regional live file:
+
+Norges Bank had already entered an active-tightening regime after May's surprise hike, and the June decision preserved an explicit bias toward another increase despite holding at 4.25%. September delivers that previously signalled step rather than creating a new tightening regime. Norway therefore remains in a high-policy-constraint configuration, now centred on a 4.50% plateau with further tightening conditional on renewed inflation persistence. [GitHub](https://raw.githubusercontent.com/jeangaga/mon-mini-chat-bot/refs/heads/main/notes/DM_WEEK.txt)
+
+4. HF Take — Strategist Layer
+
+The strategist read is hawkish action, higher-for-longer baseline, conditional further tightening.
+
+Norges Bank reaction function:
+
+- base case: hold near 4.50% for a period
+- hawkish trigger: stronger external price impulses, renewed core persistence, sticky wages or evidence that the current stance remains insufficiently restrictive
+- dovish trigger: faster-than-expected disinflation or clearer labour-market weakening
+- FX channel: a stronger NOK reduces imported inflation and can substitute partly for additional rate tightening
+- global-rate channel: higher foreign rates reduce Norges Bank's room to decouple dovishly. [Norges Bank](https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-09-24-rate/?utm_source=chatgpt.com)
+
+The immediate NOK strengthening is consistent with the decision landing hawkishly relative to a genuinely split market rather than with a mechanical 25bp surprise versus the Reuters median. [Reuters](https://www.reuters.com/world/europe/norway-central-bank-raises-interest-rate-may-hike-again-2026-09-24/?utm_source=chatgpt.com)
+
+For front-end rates, the asymmetry remains mildly hawkish because another hike is explicitly available, but the official guidance does not justify treating 4.75% as the central case.
+
+For NOK, relative-rate support improves at the margin. That support is conditional on the stronger exchange rate itself not doing enough disinflationary work to reduce the need for further tightening.
+
+Next verification tests:
+
+- CPI-ATE breadth and persistence
+- wage growth / labour-cost pressure
+- registered unemployment versus the noisier AKU
+- external energy and commodity prices
+- NOK pass-through
+- inflation expectations
+- 5 November Norges Bank communication
+
+D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The September window resolves the May–September tightening arc decisively. Norges Bank raised the policy rate unanimously to 4.50%, lifted the longer end of its projected path, retained an explicit willingness to tighten further and pushed meaningful easing beyond 2027. The key reaction-function lesson is that near-term inflation forecast errors are not the operative policy variable: despite three consecutive CPI-ATE undershoots versus the Bank's own projections, the Committee judged the medium-term outlook materially unchanged because stronger energy and commodity impulses, accumulated business costs and inflation-persistence risks offset the softer current core readings. The policy debate has therefore migrated from hike-versus-hold to terminal: 4.50% is the baseline plateau, but the path embeds a meaningful conditional 4.75% tail.
+
+Norges Bank / Rate decision + MPR 3/26 — 24 September
+Importance: ****
+
+Key policy signal:
+The Committee unanimously raised the policy rate 25bp to 4.50%. The new policy path is little changed in the near term but higher further out than in June, keeps the rate close to current levels for an extended period and is above the model-implied path. No cuts are projected before 2028.
+
+Representative quote:
+“prepared to raise the policy rate further if needed”
+
+Incremental reaction function:
+September establishes that the Bank is willing to look through softer near-term inflation when its medium-term outlook remains unchanged. The operative policy threshold is therefore sustained evidence that cost pressure and inflation persistence are unwinding—not one or two favorable CPI surprises. The path's upward judgment also means 4.75% remains an active scenario rather than a remote contingency.
+
+Ida Wolden Bache — 24 September
+Importance: ****
+
+Key policy signal:
+Wolden Bache explicitly acknowledged that underlying inflation moderated more than expected over the summer while simultaneously arguing that the inflation outlook further ahead had not changed materially.
+
+Representative quote:
+“the inflation outlook somewhat further ahead does not appear to have changed materially”
+
+Incremental reaction function:
+This is the core correction to a mechanical surprise-based reading of Norges Bank. Forecast undershoots only matter if they change the medium-term outlook. Energy, commodities, accumulated business-cost pressure and expectations persistence can therefore offset current core softness and keep the path restrictive.
+
+Policy-path / terminal-rate signal — 24 September
+Importance: ***
+
+Key policy signal:
+Named desk interpretations of MPR 3/26 imply roughly a 40% probability of another 25bp hike to 4.75% by Q2 2027, while the Reuters economist poll overwhelmingly expected 4.50% to be the peak.
+
+Representative quote:
+No single representative quote.
+
+Incremental reaction function:
+The live disagreement is no longer directional. Rates markets were described as broadly aligned with the Bank's conditional tail; the larger mismatch is between Norges Bank and the economist consensus. The positioning question is therefore whether the 4.75% tail converts, not whether September tightening was justified.
+
+Committee decision — 23/24 September
+Importance: ***
+
+Key policy signal:
+The hike was unanimous across all five Committee members despite a materially divided external economist poll.
+
+Representative quote:
+No individual member quote.
+
+Incremental reaction function:
+There is no internal vote split to trade. The sell-side disagreement was materially wider than the Committee's revealed decision, increasing the informational weight of Norges Bank's published path relative to desk attempts to infer the decision mechanically from recent inflation misses.
+
+FX / global-rate channel — 24 September
+Importance: **
+
+Key policy signal:
+EUR/NOK strengthened toward roughly 10.76 from 10.79 after the announcement. Higher foreign policy-rate expectations also fed into the Norwegian path, while a softer decision had been viewed as carrying a risk of NOK weakness.
+
+Representative quote:
+No representative quote.
+
+Incremental reaction function:
+NOK has become part of the terminal-rate feedback loop. Sustained krone appreciation lowers imported inflation and can reduce the need to exercise the 4.75% option; renewed NOK weakness, particularly alongside elevated energy prices, would increase that risk.
+
+New Monetary Policy Regulation — 18 September
+Importance: *
+
+Key policy signal:
+The regulation restated the prior objectives and considerations in identical wording.
+
+Representative quote:
+No policy quote.
+
+Incremental reaction function:
+None. The re-issued mandate does not alter the conduct of monetary policy and should not be interpreted as institutional drift.
+
+Bottom line — central bank tape
+
+Policy state: restrictive tightening extended.
+
+The hike itself is no longer the main information. The September resolution demonstrates that Norges Bank's reaction function is outlook-based rather than print-based, that external cost impulses have become direct policy inputs, and that 4.50% should be understood as a prolonged plateau with a conditional upside tail rather than a clearly terminal rate. The Bank's path implies roughly a 40% probability of 4.75% by Q2 2027, while consensus largely expected 4.50% to be the peak. The key falsification is sustained disinflation plus labour deterioration beyond the Bank's own forecast; the key hawkish trigger is persistent core/cost pressure or renewed NOK weakness.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction:
+Domestic growth and labour conditions are already soft enough to be consistent with Norges Bank's projected cooling, and current core inflation has repeatedly undershot forecast, yet the Committee unanimously tightened and lifted the longer path because the medium-term inflation outlook and external cost impulse remain adverse.
+
+Why it matters:
+The Bank has demonstrated that near-term disinflation is insufficient to generate a dovish path revision unless it changes the medium-term cost/expectations outlook.
+
+Implication:
+4.50% is the baseline plateau, not necessarily the terminal rate; the 4.75% tail disappears only if disinflation persists, labour weakens beyond forecast and/or NOK strength materially reduces imported inflation pressure.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+**** Norges Bank Key Policy Rate (24 Sep)
+
+Why it matters: The 25bp hike converts the prior tightening bias into action, but the decisive information is the higher-for-longer path and retained conditional option to tighten again. The key question is whether 4.50% proves to be the peak or whether external price pressure/core persistence forces 4.75%.
+
+** Labour Force Survey SA (23 Sep)
+
+Why it matters: The monthly unemployment increase looks dovish mechanically, but SSB's unchanged 4.5% trend rate and substantial measurement caveats materially weaken the signal. It is the principal domestic counterweight to the hawkish policy configuration.
+
+G. RED TEAM QUESTIONS
+
+1. Is the ~40% 4.75% tail genuine reaction-function information, or will Norges Bank ultimately mark its own path lower if September/October CPI confirms renewed disinflation?
+
+2. How persistent must CPI-ATE undershoots become before they alter the medium-term outlook rather than simply being looked through again?
+
+3. Is the external energy/commodity impulse now load-bearing for the hawkish path, such that a durable reversal would materially flatten the terminal-rate tail?
+
+4. Could sustained NOK appreciation perform enough imported-disinflation work to make 4.50% terminal even if domestic cost pressure remains sticky?
+
+5. How much weaker would registered unemployment and activity need to become relative to Norges Bank's own forecast before growth/labour become binding constraints rather than accepted collateral damage?
+
+6. Does unanimity genuinely imply a tight internal distribution around the published path, or could substantial disagreement over 4.50% versus 4.75% remain hidden despite agreement on the September hike?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: **EUR/NOK**; a lower EUR/NOK denotes a stronger NOK.
+
+The publicly visible institutional view entering the 20–26 September window was **constructive NOK, but with unusually wide disagreement over how much additional appreciation remained**. ING's September profile was firmly bullish NOK, with EUR/NOK around 10.79 and targets of 10.70 at 1M, 10.60 at 3M, 10.55 at 6M and 10.50 at 12M. Its thesis combined high NOK carry, persistent energy support and a Norges Bank curve that—unlike several other G10 curves—was not viewed as excessively hawkish. Nordea was substantially more cautious: its 2 September outlook expected some near-term NOK weakening versus EUR and an end-2026 EUR/NOK level around 11.00, while remaining more constructive NOK over the longer horizon. UBS, immediately after the 24 September decision, still described NOK as its preferred G10 currency against EUR and retained a medium-term move toward roughly 10.50.
+
+The September hike itself did not resolve that disagreement. The decision was hawkish relative to a genuinely divided economist poll—16 of 28 expected the hike, 12 expected a hold—and NOK strengthened immediately, with EUR/NOK moving from about 10.79 before the announcement to roughly 10.75. Yet that strength did not persist: EUR/NOK finished 25 September around 10.82–10.83, versus roughly 10.81 at the beginning of the window. Spot therefore ended the period broadly unchanged/slightly weaker NOK despite realised tightening.
+
+The market/forecast asymmetry was consequently important. At window close, spot near 10.83 remained well above ING's 10.60 3M target and UBS's longer-term 10.50 area, leaving substantial theoretical NOK upside under the constructive case. But it also sat comfortably below Nordea's 11.00 year-end projection. NOK was therefore not a clean consensus trade: carry, Norges Bank and energy supported appreciation, while potential oil normalisation, ECB tightening and global-risk dynamics argued that much of the easy NOK rally may already have occurred.
+
+**Public-bank Q4 / 3M range:** **EUR/NOK 10.60–11.00** — ING 3M 10.60; Nordea end-2026 11.00. This is a publicly visible bank range, not a formal survey consensus.
+
+**Constructive NOK cluster:** **EUR/NOK 10.50–10.60** — ING's medium-term profile and UBS's medium-term preferred-NOK view.
+
+**More cautious / tactical view:** **EUR/NOK ~10.80–11.00** — close to window spot and Nordea's near-term/year-end framing; ING itself warned after the decision that falling oil prices and another ECB hike could push EUR/NOK back toward 11.00.
+
+**Bias at window close:** Structurally constructive NOK via carry and Norges Bank, but tactical conviction was moderate rather than high because the September hike produced only temporary currency appreciation and the public forecast distribution remained unusually wide.
+
+### What changed through the data window
+
+At the start of the window, EUR/NOK traded around 10.80–10.83. The main disagreement was already visible: ING saw additional NOK appreciation toward 10.60, while Nordea expected near-term NOK weakness toward 11.00. The split reflected different weights on carry/Norges Bank versus oil normalisation, central-bank NOK flows and the euro-rate outlook.
+
+The 24 September decision temporarily validated the constructive camp. Norges Bank raised rates to 4.50% in a genuinely close market call and retained the possibility of further tightening. EUR/NOK immediately fell toward 10.75 as NOK strengthened.
+
+But the move did not persist. By 25 September EUR/NOK was back around 10.82–10.83. The week's net FX signal was therefore not “hike = durable NOK rally”; instead, the rate decision improved the carry/reaction-function support while spot remained governed by broader oil, EUR-rate and global-risk forces.
+
+Forecasts themselves did not show a coordinated in-window revision. The important movement was in the reaction function and intraday price action, not a wholesale shift in public-bank targets.
+
+### Main consensus drivers
+
+**Carry / Norges Bank:**
+At 4.50%, NOK offered one of the strongest G10 carry profiles. The explicit willingness to hike again preserved a favorable short-rate asymmetry, although the Bank's own central path pointed to a plateau rather than an extended hiking cycle.
+
+**Energy / terms of trade:**
+Norway's energy-export exposure remained a major NOK support while oil and gas prices stayed elevated. The principal bearish risk to the constructive NOK thesis was therefore de-escalation or a material decline in energy prices.
+
+**ECB / relative-rate path:**
+The NOK story was not purely domestic. Expectations of additional ECB tightening limited the degree to which the Norway–euro rate differential could move further in NOK's favor, helping explain why some strategists saw EUR/NOK closer to 11.00 than 10.50.
+
+**NOK flow / imported-inflation feedback:**
+A stronger krone lowers imported inflation and can substitute partly for additional Norges Bank tightening. This creates a self-limiting feedback: the more successfully NOK appreciates on hawkish policy, the less incremental tightening may ultimately be required.
+
+### Where consensus could be wrong
+
+**Consensus too bullish NOK:**
+The 10.50–10.60 constructive cluster would prove too optimistic if energy prices normalize sharply, ECB tightening keeps EUR yields competitive, Norges Bank confirms 4.50% as the peak and Norwegian labour/inflation data soften enough to remove the conditional hike tail. The failure of NOK to retain its immediate post-hike gain already shows that carry alone may not be sufficient.
+
+**Consensus too cautious NOK:**
+The 10.80–11.00 cautious view would prove too conservative if inflation remains sufficiently persistent to keep 4.75% genuinely live, energy export prices stay structurally elevated and global risk conditions allow high-carry G10 exposure to perform. Under that mix, EUR/NOK still has substantial room toward the 10.50–10.60 institutional target area.
+
+**Key falsification:**
+If EUR/NOK cannot break sustainably below roughly 10.75–10.80 despite persistent energy support and a live Norges Bank tightening tail, the market is signalling that the constructive carry thesis is already largely priced or being offset by stronger EUR/global forces. Conversely, sustained movement below that area alongside sticky Norwegian inflation would validate the stronger-NOK consensus.
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+
+* **Regime:** Stable labour slack / persistent medium-term inflation constraint / realised tightening / extended 4.50% plateau with asymmetric upside.
+* **Change:** September hike delivered unanimously; longer path lifted and cuts pushed beyond 2027, shifting the live question from hike timing to 4.50% peak versus conditional 4.75% terminal.
+
+### Scoreboard
+
+* **Growth:** ~ | Growth around 1% / below potential is already embedded in the Bank's path; no new contraction shock.
+* **Labor:** ~ | Monthly U-rate 4.2% → 4.5%, but trend unemployment stayed 4.5% and measurement noise is high.
+* **Inflation:** ~ | Current core softer than forecast, but Bank explicitly looked through undershoots because medium-term outlook remains sticky.
+* **Financial Conditions:** - | Policy rate 4.50%; path higher further out; no cuts projected before 2028.
+* **Policy Constraint:** - | 4.50% plateau baseline with ~40% conditional tail to 4.75% by Q2 2027.
+
+### Major Release Tape
+
+* **** **Norges Bank** — unanimous +25bp to 4.50%; market poll 16 hike / 12 hold → path lifted further out, tightening tail retained and easing deferred.
+* **Minor:** **LFS** 4.5% vs 4.2%, but SSB trend unchanged at 4.5% → noisy monthly deterioration, not a clean labour break.
+
+### Central Bank
+
+* **Bias:** Restrictive tightening extended; 4.50% plateau baseline with asymmetric upside.
+* **Reaction function:** Medium-term outlook dominates near-term CPI forecast errors; persistent cost/expectations pressure or NOK weakness can convert the 4.75% tail, while sustained disinflation plus weaker labour/NOK strength flattens it.
+* **Key tape:** Unanimous hike; long-end path raised; no cuts before 2028; ~40% implied probability of 4.75% by Q2 2027.
+
+### Signal Tension
+
+* **Tension:** Core inflation has repeatedly undershot forecast and activity is soft, yet Norges Bank tightened and raised its longer path because medium-term cost/expectations risks remain adverse.
+* **What resolves it:** Sustained CPI-ATE/wage disinflation plus weaker labour, versus persistent energy/business costs or renewed NOK weakness.
+
+### Key Releases
+
+1. **Norges Bank Key Policy Rate** — reaction function now clearly outlook-based; 4.50% plateau versus 4.75% tail is the core issue.
+2. **Labour Force Survey SA** — domestic dovish counterweight, but heavily quality-discounted.
+
+### Red Team
+
+1. Will the ~40% 4.75% tail survive another run of softer CPI?
+2. Can sustained NOK strength substitute for another hike through imported disinflation?
+3. How weak must labour/growth become relative to Norges Bank's own forecast before they actually bind policy?
+
+### FX Consensus
+
+* **Consensus:** Structurally constructive NOK, but tactical conviction only moderate.
+* **Public-bank range:** **EUR/NOK 10.60–11.00** for comparable Q4/3M public views.
+* **Constructive cluster:** **10.50–10.60**.
+* **Cautious / tactical:** **~10.80–11.00**.
+* **At window close:** EUR/NOK ~**10.82–10.83**; the hike briefly drove the pair toward ~10.75, but the NOK gain was not sustained.
+* **Drivers:** high NOK carry/Norges Bank; energy terms of trade; ECB relative-rate path; NOK-flow/imported-inflation feedback.
+* **Consensus wrong if:** NOK cannot strengthen sustainably below ~10.75–10.80 despite persistent energy support and a live further-hike tail.
+
+<<NOK_WEEK_END>>
 <<NOK_WEEK_BEGIN>>
 
 DATA WINDOW: 6 September 2026 to 19 September 2026
