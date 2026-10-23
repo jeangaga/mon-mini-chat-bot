@@ -1,4 +1,542 @@
+<\<USD_WEEK_BEGIN>>
 
+DATA WINDOW: 4 October 2026 to 17 October 2026
+
+# A. USD WEEK — MACRO SYNTHESIS
+
+Regime: resilient but uneven growth / broadening inflation shock / weak realized hiring / Fed tightening bias with a high bar for an immediate October hike. September services remained the growth engine: S&P Services accelerated to 58.8, while ISM moderated to 54.9 but retained strong orders at 59.8. Manufacturing stabilized without reaccelerating broadly; Q3 factory output slowed sharply, regional surveys diverged and industrial capacity remained underutilized. Retail control of just +0.1% and approximately flat real retail activity contrasted with robust Q3 consumption tracking. Hiring diffusion improved, but realized payroll momentum remained subdued. The CPI/PPI/import-price sequence confirmed intensifying energy, freight, services, trade-margin and nonfuel input inflation, raising the risk of sustained core-price transmission even as real purchasing power deteriorated.
+
+State transition: the inflation constraint strengthened materially, but Fed communication increasingly separated the destination of policy from the timing of the next hike. The 7 October FOMC minutes showed broad support for further 2026 tightening. Waller explicitly decoupled additional hikes from consecutive meetings; Williams suggested one more 2026 hike with no further increase currently envisaged for 2027; Bowman and Daly emphasized patience, while Hammack and other hawks questioned whether policy was restrictive enough. Crucially, the 14–15 October CPI/PPI surprises did not produce an observable committee-center commitment to October tightening. Warsh's 16 October refusal to prejudge meetings preserved that flexibility. The modal interpretation is October hold / December hike, with a live but minority earlier-tightening risk and meaningful disagreement over the 2027 policy destination. The principal danger is that upstream inflation persists while household demand weakens, making the appropriate terminal rate increasingly dependent on the balance between price transmission and real-growth damage.
+
+# B. USD MACRO SIGNAL SCOREBOARD
+
+Growth: \~
+
+Supporting evidence:
+
+S&P Services 58.8 and ISM New Orders 59.8 confirm resilient services demand, but the surveys disagree on output momentum. Industrial Production +0.7% is utilities-heavy; Q3 manufacturing growth slowed to +0.7% annualized from +5.6% in Q2. Empire orders recovered sharply while Philadelphia orders fell to 4.3. Retail control +0.1% and approximately flat September real retail growth weaken the marginal consumer signal, although Q3 consumption tracking remains approximately 3.3–3.6%. Fed speakers generally describe growth as sufficiently resilient to permit further restriction, without providing new evidence of broad acceleration.
+
+Labor: \~
+
+Supporting evidence:
+
+S&P reports the strongest services hiring diffusion since June 2022, but ISM Services Employment is only 50.1 and September realized payroll growth is cited at 29k. Regional manufacturing employment remains modestly positive. Williams and Waller characterize employment conditions as stable, while Collins describes subdued wage pressure and no generalized job-opening acceleration. The committee sees inflation risks as more pressing, but neither the release tape nor speaker evidence establishes renewed broad labor overheating.
+
+Inflation: -
+
+Supporting evidence:
+
+Core CPI +0.3% m/m, PPI ex-food/energy +0.7% and nonfuel import prices +0.7% collectively establish deteriorating inflation momentum; ISM Services Prices Paid reached 74.0. Waller identified energy, AI-related technology pricing and tariff threats; Collins emphasized alternative overheating and supply-shock scenarios; Goolsbee flagged persistent services inflation and Hammack warned about inflation expectations and price-setting behavior. Williams maintains a comparatively more disinflationary interpretation. Energy dominates the largest headline changes, but the breadth of underlying cost and selling-price pressure prevents a clean temporary-shock dismissal.
+
+Financial Conditions: -
+
+Supporting evidence:
+
+The 14 October CPI surprise initially lifted UST 2Y yields 13bp to 4.92% and DXY 0.55% to 102.75, before yields and USD softened during the 15–16 October combined release windows. Elevated borrowing costs, energy prices and imported inputs weigh on household purchasing power and business margins. The minutes and several speakers characterize current policy as accommodative or only mildly restrictive; Williams, Bowman and Daly emphasize allowing transmission and market conditions to evolve. Financial conditions remain restrictive for vulnerable borrowers, but their aggregate monetary-policy restrictiveness is disputed.
+
+Policy Constraint: -
+
+Supporting evidence:
+
+The 7 October minutes show that most participants expected another hike by year-end, while Waller, Collins and Musalem reinforced the need for further tightening. The dominant communication distinction is additional restriction versus immediate action: Williams, Bowman, Daly and Waller's timing language favor patience, with Warsh declining explicit guidance on 16 October. Hammack argues existing restriction is inadequate; Goolsbee becomes more conditionally hawkish after CPI. The inflation constraint is clearly stronger, but committee communication supports an October pause more strongly than an urgent consecutive hike. Disagreement concerns the restrictiveness of current policy and the ultimate 2027 rate path.
+
+# C. FULL RELEASE ARCHIVE
+
+The nine validated publication blocks are preserved in the preceding frozen USD note, without changes to their content, chronology, Reuters data, economist analysis or HF takes.
+
+# D. CENTRAL BANK TAPE
+
+Federal Reserve — Speaker Scout v2.0
+
+Window: 4–17 October 2026
+
+Policy reference: Fed funds target range 3.75–4.00%, following the unanimous 25bp increase on 16 September. Next FOMC: 27–28 October. Blackout begins 17 October.
+
+## Summary — Policy reaction function
+
+Dominant signal: further tightening remains the committee's central expectation, but October is not the preferred timing; the terminal policy rate is more contested than the next meeting.
+
+The 7 October FOMC minutes establish that most participants expected another hike before year-end, while several considered policy accommodative or only mildly restrictive. Waller's 8 October intervention is the defining communication: additional hikes are consistent with the projected rate path without requiring consecutive moves. Williams, Bowman and Daly reinforce patience, while Collins supports another 2026 increase without selecting October. The hawkish flank, especially Hammack and Musalem, sees insufficient restriction and potentially more cumulative tightening.
+
+The 14 October CPI surprise increases the inflation-side pressure but does not visibly dislodge the committee's patient center. Goolsbee shifts conditionally hawkish, Hammack emphasizes inflation psychology and Daly explicitly maintains that the committee has time. Warsh's 16 October refusal to prejudge meetings provides no new commitment and reinforces the no-forward-guidance approach. This is a conditional hawkish hold, not a dovish turn: postponing the next move is consistent with further tightening, while the split over whether one additional hike is sufficient remains unresolved.
+
+### FOMC Minutes — 7 October 2026
+
+Importance: \*\*\*\*
+
+Meeting covered: 15–16 September 2026. Official FOMC minutes; high-confidence primary source.
+
+Key policy signal:
+
+All voting participants supported September's 25bp hike. Most participants assessed that another increase would likely be appropriate before year-end, although each meeting would be approached with an open mind. Almost all judged labor-market risks to be broadly balanced and inflation risks tilted upward. Several considered existing monetary policy not restrictive, or only mildly so. A minority raised the prospect of a higher neutral rate.
+
+Representative quote:
+
+“would likely be appropriate by year end”
+
+Incremental reaction function:
+
+The minutes establish the committee-wide rationale for additional tightening rather than assigning that view to individual speakers. They support the December-hike baseline but do not lock October out. The relevant uncertainty is whether the still-accommodative-policy assessment implies a higher eventual destination, or principally the completion of the rate adjustment already signaled.
+
+### Christopher Waller — Fed Governor, voter — 8 October 2026
+
+Importance: \*\*\*\*
+
+Istanbul Economic Forum, Central Bank of Türkiye. Official Federal Reserve text; high confidence.
+
+Key policy signal:
+
+Expects additional rate increases if the data develop as projected, explicitly separating cumulative tightening from its calendar pace. Notes that 16 of 18 September SEP participants expected at least one further hike during 2026, with four expecting two. Identifies the Middle East energy shock, AI-related technology prices and renewed tariff threats as inflation risks; considers the labor market sufficiently stable to prioritize inflation. Does not push back against the futures-implied tightening path cited in the speech.
+
+Representative quote:
+
+“The hikes do not need to come at consecutive meetings”
+
+Incremental reaction function:
+
+A material clarification of the September hike: policy reflects cumulative inflation evidence, not one month's CPI data, and tightening need not occur at back-to-back meetings. Strong evidence for an October skip remaining compatible with a hawkish eventual rate path. Inflation expectations are the central risk threshold; growth damage from incremental restriction is not his principal concern.
+
+### Alberto Musalem — St. Louis Fed President, non-voter — 8 October 2026
+
+Importance: \*\*
+
+Bloomberg Future of Fixed Income event, New York. Reuters/MaceNews reporting; medium-high confidence.
+
+Key policy signal:
+
+Sees monetary policy and financial conditions as accommodative, with additional firming needed over six to nine months to restore inflation to target over approximately eighteen months. Describes the economy as very strong, with localized overheating, but refuses to prejudge October.
+
+Representative quote:
+
+“more monetary policy firming will be required”
+
+Incremental reaction function:
+
+Reinforces the higher-terminal-rate flank and supplies a more extended tightening horizon. His argument is about insufficient cumulative restriction, not a firm October commitment.
+
+### Jeffrey Schmid — Kansas City Fed President, non-voter — 6 October 2026
+
+Importance: \*
+
+Panel discussion; secondary reporting only, medium confidence.
+
+Key policy signal:
+
+Continues to argue that inflation remains above an acceptable pace and further restriction is necessary to safeguard credibility, while recognizing that borrowing costs are already weighing on housing and commercial credit.
+
+Representative quote:
+
+No independently verified direct quotation; reported position favors further tightening.
+
+Incremental reaction function:
+
+Confirms the hawkish credibility argument without supplying a reliable meeting-specific timing signal.
+
+### Susan Collins — Boston Fed President, non-voter — 13 October 2026
+
+Importance: \*\*\*
+
+Boston Fed Regional & Community Bankers Conference. Official prepared remarks and Q&A; high confidence.
+
+Key policy signal:
+
+Supports the September increase and expects another hike before year-end, while making timing conditional on incoming evidence. Her baseline combines healthy growth, employment near full capacity and eventual inflation normalization through productivity improvements. Alternative scenarios involving AI-demand overheating and fresh energy/tariff pressure are judged almost as likely and imply more persistent inflation.
+
+Representative quote:
+
+“appropriate to raise rates a bit further before the end of the year”
+
+Incremental reaction function:
+
+Adds an explicit year-end tightening expectation without favoring October over December. The relevant threshold is whether price increases stay confined to energy and AI-exposed sectors or spread more broadly. Subdued wages and limited generalized hiring pressure leave scope for patience.
+
+### John Williams — New York Fed President, FOMC Vice Chair, voter — 13 October 2026
+
+Importance: \*\*\*
+
+Bloomberg News interview, reported by Reuters; medium-high confidence.
+
+Key policy signal:
+
+One more 2026 hike may be appropriate, but Williams currently sees no need for further rate increases in 2027. Expects substantial disinflation next year and attributes much of the near-term price acceleration to energy and technology investment, rather than generalized domestic price pressure.
+
+Representative quote:
+
+“it may be appropriate to have one more rate hike”
+
+Incremental reaction function:
+
+This is the clearest important distinction between the next hike and the policy destination. Williams maintains the case for completing additional 2026 restriction but questions the need for further increases in 2027. The new endpoint language is meaningfully more dovish than an interpretation of the SEP that assumes several additional hikes extending through next year.
+
+### Beth Hammack — Cleveland Fed President, voter — 12 and 15 October 2026
+
+Importance: \*\*\*
+
+12 October Barron's interview, indirectly reported; 15 October Goldman Sachs event, Reuters reporting. Confidence medium for 12 October, medium-high for 15 October.
+
+Key policy signal:
+
+Hammack considers monetary policy insufficiently restrictive despite higher bond yields. She favors additional tightening, with smaller and more frequent adjustments potentially appropriate. Business contacts report elevated input-cost pressure and stronger planned selling prices. After CPI, she emphasizes the risk that businesses and households adopt a persistent inflationary mindset.
+
+Representative quote:
+
+“we might need to move even more”
+
+Incremental reaction function:
+
+The strongest verified in-window challenge to the one-more-hike interpretation among the identified voters. Her language favors a potentially higher terminal and leaves October genuinely open. However, she does not offer a decisive October commitment. Her warning becomes more consequential if inflation expectations or the breadth of consumer-price increases continue rising.
+
+### Michelle Bowman — Vice Chair for Supervision, voter — 14 October 2026
+
+Importance: \*\*
+
+IIF Annual Membership Summit, Bangkok. Secondary relays; medium confidence. Remarks preceded the September CPI publication.
+
+Key policy signal:
+
+No urgent need for immediate additional action; favors examining the transmission of September's hike and evolving financial conditions before making another adjustment. Acknowledges above-target inflation but does not commit to a December move.
+
+Representative quote:
+
+“We have some time to wait and see how financial conditions evolve”
+
+Incremental reaction function:
+
+Reinforces the wait-and-assess position. Because the remarks were made before the CPI release, they must not be interpreted as fresh post-surprise opposition to October tightening.
+
+### Mary Daly — San Francisco Fed President, non-voter — 14 October 2026
+
+Importance: \*\*\*
+
+Reuters exclusive interview after September CPI; medium-high confidence.
+
+Key policy signal:
+
+Further restriction is more likely than not, but a decision on timing remains open. CPI confirms elevated inflation risk; labor-market stability allows continued emphasis on price stability. She nevertheless sees no compelling need to decide on October tightening from a limited amount of evidence.
+
+Representative quote:
+
+“I think we have the time that we need.”
+
+Incremental reaction function:
+
+A particularly important post-CPI confirmation that stronger inflation data do not automatically trigger an immediate move. Daly helps establish that the committee's patient center survived the CPI surprise, while the cumulative tightening bias remains intact.
+
+### Austan Goolsbee — Chicago Fed President, non-voter — 14–15 October 2026
+
+Importance: \*\*
+
+Yahoo Finance and Reuters interviews; medium confidence.
+
+Key policy signal:
+
+Describes September CPI as disappointing and highlights insufficient improvement in services inflation. Repeated core readings at elevated monthly rates would be unacceptable and strengthen the case for additional tightening. Flags potential AI-related demand inflation spreading beyond data-center activity, but still wants further evidence before acting.
+
+Representative quote:
+
+“a disappointing month for inflation”
+
+Incremental reaction function:
+
+Moves conditionally toward greater hawkishness after CPI, without converting the inflation warning into an October commitment. Continued strong core-services inflation, especially outside directly energy- or AI-linked categories, is the important trigger.
+
+### Thomas Barkin — Richmond Fed President, non-voter — 13–14 October 2026
+
+Importance: \*
+
+Moderated discussion and wire headlines; medium confidence.
+
+Key policy signal:
+
+Considers inflation persistent and believes policy action is justified, while refusing to predict October's outcome. The CPI result was less favorable than hoped. Does not see AI-related job losses on a significant scale, while recognizing AI investment as a substantial growth contributor.
+
+Representative quote:
+
+No independently verified direct quotation. Reported position leaves October open.
+
+Incremental reaction function:
+
+Confirms the need to address persistent inflation but provides no sufficiently precise timing or endpoint guidance to alter the committee-center assessment.
+
+### Kevin Warsh — Federal Reserve Chair — 16 October 2026
+
+Importance: \*\*\*\*
+
+IMF–World Bank Annual Meetings, Bangkok; conversation with IMF Managing Director Kristalina Georgieva. AP/CNBC reporting; medium-high confidence. Full transcript unavailable in the supplied scout.
+
+Key policy signal:
+
+Declines to provide October or December guidance and reiterates his opposition to explicit forward guidance. Describes September's hike as removing part of the previous monetary accommodation, reiterates the commitment to price stability, and emphasizes that future meetings must evaluate growth, employment and inflation. Identifies AI investment as an inflation contributor and acknowledges simultaneous tightening across central banks.
+
+Representative quote:
+
+“I don't prejudge meetings.”
+
+Incremental reaction function:
+
+No new meeting-specific rate signal. The refusal to guide is itself an important communication feature: the Chair is not attempting to reverse the patient stance established by other officials, but neither is he ruling out an earlier move. His description of September as removing accommodation leaves uncertainty over whether he sees substantially more cumulative tightening ahead.
+
+The Chair's silence must not be transformed mechanically into an October-hold commitment.
+
+## Human voice — institutional interpretation
+
+Jan Hatzius — Goldman Sachs, 16 October
+
+Reads Warsh's remarks and the broader FOMC communication as consistent with an October pause followed by a second and final hike in December. This supports the modal timing interpretation, rather than establishing an official Fed commitment.
+
+Jeff Schulze — Franklin Templeton Institute, 14 October
+
+Emphasizes that the inflation surprise supports additional tightening but does not overcome the Fed's previously communicated reluctance to move immediately.
+
+Representative quote:
+
+“the bar is high for an immediate hike”
+
+Christopher Hodge — Natixis, 14 October
+
+Before CPI, favored a December rather than October final increase unless monthly core CPI was closer to 0.4%. The realized 0.3% core reading did not meet that stated threshold.
+
+Sam Williamson — First American Financial, 14 October
+
+Represents the important counter-view: a sufficiently broad inflation surprise could justify bringing the expected December hike forward to October.
+
+Institutional endpoint disagreement
+
+The supplied scout identifies a clear spread beyond the next meeting:
+
+- Williams and relayed J.P. Morgan Asset Management commentary favor one additional increase followed by an extended pause through 2027.
+- Relayed Bloomberg Economics commentary considers no further 2026 increase and a subsequent 2027 cut.
+- Hammack and the hawkish FOMC flank favor potentially more cumulative tightening.
+- September SEP projections also contain a meaningful higher-rate tail for 2027.
+
+These are not interchangeable forecasts, and several external institutional views were accessible only through secondary aggregators.
+
+## Bottom line — central bank tape
+
+Policy bias: Conditional hawkish hold, with additional 2026 tightening favored but no clear committee commitment to October.
+
+Next-meeting center: October pause / December hike, supported by Waller's timing flexibility, Williams' one-more-hike view, Bowman's patience, Daly's post-CPI comments and Warsh's refusal to push for an earlier move.
+
+Hawkish tail: Hammack's insufficient-restriction assessment and the FOMC minutes' higher-neutral-rate discussion keep additional increases beyond December plausible.
+
+Policy destination: Substantially less settled than the next meeting. Williams sees little justification for additional 2027 increases, while the hawkish flank and part of the SEP support a higher endpoint.
+
+Reaction function: Further broadening of core-services inflation, inflation expectations and realized demand strength would increase pressure to tighten sooner or further. Slowing real consumption, weak hiring and financial tightening would support a longer pause, particularly if energy-related inflation begins fading.
+
+Evidence limits: The full Warsh transcript, original Hammack Barron's interview, parts of Bowman's Q&A and several lower-confidence speaker reports were unavailable. Jefferson, Barr, Paulson, Powell and several other voters provided no verified new in-window policy views. The apparent committee center is therefore well supported directionally, but not established through a complete contemporaneous voter poll.
+
+Final interpretation: The CPI/PPI shock made further tightening more compelling, but the Fed deliberately preserved discretion over October. The relevant distinction for rates and FX is between higher-for-longer or a higher terminal rate and an immediate consecutive hike. The tape supports the former more confidently than the latter.
+
+# E. SIGNAL TENSION CHECK
+
+Main contradiction:
+
+The release tape shows intensifying core and upstream inflation despite weaker retail-control momentum, subdued realized hiring and substantial industrial slack. The Fed speaker tape adds a second dimension to that contradiction: a broad tightening bias coexists with a committee center reluctant to accelerate the next hike, while hawks question whether policy is sufficiently restrictive at all.
+
+Why it matters:
+
+The Fed must distinguish persistent domestic inflation and renewed pricing power from supply-driven inflation that may weaken real demand. That distinction governs both the urgency of the October decision and the terminal-rate debate.
+
+Implication:
+
+October hold / December hike remains the communication-consistent baseline, but persistent core inflation with resilient realized demand would challenge the pause. Conversely, further consumption and employment deterioration would weaken the case for a higher terminal even if headline inflation stays elevated.
+
+# F. 5 KEY RELEASES TO DIG INTO
+
+\*\*\*\* CPI / Core CPI / CPI-W (14 Oct)
+
+Why it matters: Core CPI +0.3% m/m for a second month, with a +0.1pp upside surprise and 3m annualized momentum of approximately 3.4%. Energy dominates headline inflation, but stronger core goods and non-energy services raise the persistence risk. The pivotal question is whether the acceleration survives in services excluding energy and shelter.
+
+\*\*\*\* PPI / Core PPI (15 Oct)
+
+Why it matters: Final-demand PPI +1.3% versus +0.5% expected and conventional core +0.7% versus +0.3%. Trade margins, freight, non-energy producer pricing and PCE-relevant services provide the strongest additional evidence of upstream-to-downstream transmission. Distinguishing volatile margins from persistent underlying inflation is crucial.
+
+\*\*\* ISM Services PMI (5 Oct)
+
+Why it matters: Prices Paid at 74.0, the highest since July 2022, alongside New Orders at 59.8. The report captures the Fed's most important growth/inflation dilemma: continued services demand and exceptionally widespread cost pressure despite moderating current activity and only marginal employment expansion.
+
+\*\*\* Retail Sales / Retail Control (15 Oct)
+
+Why it matters: Headline sales +0.8% versus +0.3% expected conceal retail control of only +0.1% versus +0.3%. Gasoline explains more than 70% of nominal headline growth, while estimated real retail demand is approximately flat. This is the principal counterweight to the domestic-overheating interpretation and an early test of energy-driven demand destruction.
+
+\*\*\* S&P Global Services / Composite PMI Final (5 Oct)
+
+Why it matters: Services at 58.8, a five-year high, supported by strong domestic new business, hiring diffusion and backlog accumulation. Its activity and employment signals are materially stronger than ISM and realized payroll data, while its inflation measures independently corroborate the later CPI/PPI deterioration. Determining whether this measures durable real demand or diffusion amplified by capacity constraints is central to the policy assessment.
+
+# G. RED TEAM QUESTIONS
+
+1\. Inflation persistence versus energy pass-through: Will realized September core PCE and subsequent services prices confirm broad inflation beyond energy, travel, shelter and volatile PPI trade margins?
+
+2\. Policy timing versus terminal: Does the combination of hot CPI/PPI and the minutes' assessment of insufficient restriction imply merely one delayed hike, or is Williams' expectation of no additional 2027 tightening too dovish?
+
+3\. October policy threshold: What observable combination of core inflation, realized hiring and consumption resilience would be sufficient to overcome the wait-and-assess position expressed by Waller, Williams, Bowman and Daly?
+
+4\. Consumer-demand falsification: Does September retail control +0.1% represent the first stage of an inflation-driven Q4 consumption slowdown, or only normalization after August's unusually strong rebound?
+
+5\. Labor-market contradiction: Why does S&P report exceptionally strong services hiring diffusion while ISM employment remains near neutral and realized payroll growth is subdued? Which indicator better reflects the labor-market conditions informing the FOMC?
+
+6\. Manufacturing and AI transmission: Will national orders and production confirm Empire's rebound or Philadelphia's slowdown? Could strong AI investment raise imported input prices and inflation without materially improving broader domestic capacity utilization?
+
+7\. Communication reliability: Does Warsh's refusal to guide leave the FOMC's actual October decision more open than external economists suggest, especially given the absence of verified in-window remarks from several voting members?
+
+# H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: EUR/USD — lower EUR/USD means a stronger USD. At the beginning of the data window, the public institutional consensus remained moderately bearish USD over a 6–12 month horizon, despite the dollar's powerful September rally. The Reuters survey conducted 30 September–2 October, covering nearly 70 FX strategists, projected EUR/USD at 1.14 in one month, 1.15 in three and six months, and 1.16 in twelve months. However, 80% of respondents who assessed near-term forecast risks thought the dollar was more likely to outperform their three-month projections than underperform. The defining starting configuration was therefore medium-term dollar bearishness with increasingly uncomfortable near-term USD upside risk. [Reuters FX poll, 2 October](https://www.reuters.com/business/us-dollar-strength-fizzle-fx-forecasters-unmoved-by-searing-rally-2026-10-02/?utm_source=chatgpt.com)
+
+During the window, the tactical public-bank view moved further toward USD resilience. MUFG's October outlook projected EUR/USD at 1.12 for Q4, below the 1.16 consensus benchmark shown in its forecast table, while ING's 12–13 October revision placed EUR/USD at 1.13 for Q4 and Q1 2027 and emphasized downside risk toward 1.11. Commerzbank's previously revised 1.15 year-end target provided a less dollar-bullish reference. This was not a wholesale reversal of the Reuters survey's longer-horizon weak-dollar call: rather, near-term bank forecasts and tactical commentary became more cautious about fighting USD strength. [MUFG October outlook](https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026?utm_source=chatgpt.com) | [ING, 12 October](https://think.ing.com/articles/g10-fx-talking-october-2026/?utm_source=chatgpt.com) | [Commerzbank forecast reported 25 September](https://www.fxstreet.com/news/euro-credibility-restored-supports-dollar-commerzbank-202609251336?utm_source=chatgpt.com)
+
+Price action exposed the distinction. EUR/USD fell to approximately 1.1113 on 14 October following the CPI shock, while DXY reached an 18-month high near 102.94 intraday. By 16 October, EUR/USD had recovered toward 1.1250 and DXY had retreated to approximately 101.87 as Treasury yields declined, October Fed-hike expectations faded and AI-related financial-market concerns complicated the dollar's rate advantage. The dollar still traded stronger than the median survey's projected EUR/USD levels, but spot was no longer moving one-way toward the most USD-bullish tactical forecasts. [Reuters, 14 October](https://www.marketscreener.com/news/dollar-hits-18-month-high-then-cools-as-investors-await-patient-fed-ce785dd2d089f123?utm_source=chatgpt.com) | [Reuters, 16 October](https://www.reuters.com/world/asia-pacific/euro-gets-much-needed-reprieve-ai-wobbles-rock-dollar-2026-10-16/?utm_source=chatgpt.com)
+
+Consensus at window close: The market retained a structural divide between the survey's medium-term expectation of USD depreciation and a more USD-supportive near-term institutional framework based on Fed credibility, rate differentials, US growth resilience, oil and European fiscal stress. The 16 October reversal weakened the tactical asymmetry for chasing dollar strength after a substantial rally; it did not demonstrate that the broader weak-dollar forecast had been vindicated.
+
+Public-bank Q4 2026 EUR/USD range: 1.12–1.15 across the contemporaneously identifiable MUFG, ING and Commerzbank forecasts. This is a limited public-bank sample, not a formal forecast-distribution range.
+
+Constructive USD cluster: EUR/USD 1.12–1.13 for Q4 2026, represented by MUFG and ING; ING also described a near-term trading environment concentrated in the lower half of 1.10–1.15.
+
+More cautious / tactical USD view: EUR/USD approximately 1.15 at year-end or at the Reuters survey's 3–6 month horizon; the survey's 12-month median was 1.16. These are different forecast horizons and must not be treated as perfectly comparable targets.
+
+Bias at window close: USD constructive versus EUR in the near term, but increasingly two-sided tactically; medium-term survey consensus still anticipates USD depreciation, and EUR/USD near 1.125 already discounts much of the USD-supportive Q4 bank forecast cluster.
+
+### What changed through the data window
+
+Starting state — 4–5 October: dollar rally ahead of strategist forecasts.
+
+The dollar entered the window following a September appreciation exceeding 3%, supported by the Fed's September tightening, elevated Treasury yields and global bond-market stress. Yet the Reuters survey retained a relatively stable weak-dollar forecast profile. The unusual configuration was not strong strategist conviction that the dollar should continue appreciating; it was a growing recognition that actual spot performance repeatedly exceeded bearish USD forecasts.
+
+The 2 October survey also documented persistent forecast errors: three-month strategist forecasts had underestimated dollar strength for nine consecutive months. This made the weak-dollar consensus vulnerable to continued US rate and growth outperformance.
+
+8–13 October — European stress reinforces the USD relative-rate argument.
+
+Dollar support increasingly combined US yield differentials with weakness in the euro itself. French fiscal and sovereign-bond concerns raised the euro's domestic risk premium, while elevated energy prices reinforced the inflation and terms-of-trade pressure on Europe.
+
+ING's 12 October strategic note identified an increasingly independent euro-weakness channel and adopted a lower EUR/USD range. Its 13 October commentary explicitly revised Q4/Q1 EUR/USD forecasts to 1.13.
+
+This constitutes a genuine forecast revision, not merely spot moving toward unchanged targets.
+
+The correction was important because an earlier dollar-bearish positioning framework increasingly required several conditions to improve together: US yields moderating, French fiscal risk stabilizing and the oil shock becoming less damaging to Europe.
+
+[ING strategic revision, 12 October](https://think.ing.com/bundles/fx-talking-au-revoir-euro-bulls/?utm_source=chatgpt.com) | [ING FX Daily, 13 October](https://think.ing.com/articles/fx-daily-no-trigger-in-sight-for-a-dollar-reversal/?utm_source=chatgpt.com)
+
+14 October — CPI validates the tactical USD bull case, temporarily.
+
+September US core CPI surprised to the upside, reinforcing the Fed-tightening narrative. DXY reached approximately 102.94 intraday and EUR/USD touched the 1.111 area.
+
+This was primarily spot convergence toward the USD-bullish tactical scenario, rather than evidence that the Reuters survey median had been formally revised.
+
+The market was pricing a stronger possibility of nearer-term Fed restriction while the euro remained vulnerable to European political and fiscal risk.
+
+15–16 October — the hawkish inflation argument survives, but dollar price action reverses.
+
+Despite strong producer and import-price inflation, US Treasury yields and the dollar retreated. Cautious Fed communication limited the willingness to price immediate tightening, while AI-related equity and credit concerns increased uncertainty over the durability of US financial-market outperformance.
+
+Reuters reported that by 16 October the dollar was heading toward its first weekly decline in more than a month against both the euro and yen. DXY stood near 101.87, down approximately 0.35% on the week, while EUR/USD had recovered toward 1.125.
+
+This is a meaningful tactical change: the same environment that had supported dollar appreciation through inflation and yield differentials began generating US financial-stability and growth concerns that could weigh on the currency.
+
+[Reuters, 16 October](https://www.reuters.com/world/asia-pacific/euro-gets-much-needed-reprieve-ai-wobbles-rock-dollar-2026-10-16/?utm_source=chatgpt.com) | [ING FX Daily, 16 October](https://think.ing.com/articles/fx-daily-inflation-versus-ai-overbuild-story-dominates/?utm_source=chatgpt.com)
+
+The window therefore closes with a more conditional USD bull case than the midweek inflation-price reaction alone suggested.
+
+### Main consensus drivers
+
+Fed credibility / relative-rate differentials:
+
+The September Fed hike and subsequent inflation surprises supported higher US short-rate expectations and a stronger dollar. However, the public strategist survey continued to assume that eventual tightening would be less aggressive than market pricing, limiting medium-term USD conviction. The key distinction was between the level of US yields and further positive repricing surprises.
+
+Oil / relative terms of trade:
+
+Elevated oil and fuel prices strengthened the US inflation and policy-rate channel while worsening Europe's energy-related vulnerabilities. The effect was not purely favorable for USD: persistent energy inflation could also damage US real consumption and risk assets, reducing the net benefit from higher nominal yields.
+
+European sovereign and fiscal risk:
+
+French budget uncertainty and rising sovereign-risk premiums added a EUR-specific weakening channel. The move in EUR/USD was therefore not a pure expression of Fed expectations. A stabilization of European fiscal risk could support EUR/USD even without a meaningful dovish turn by the Fed.
+
+US financial-market leadership / AI-risk transmission:
+
+Strong US investment and relative growth supported USD through capital-flow and earnings expectations. By 16 October, concerns about AI infrastructure financing, equity valuations and associated credit exposures complicated that framework. US-specific financial stress could undermine USD even while inflation remained elevated, especially if the resulting Treasury rally reflected reduced growth or tightening expectations.
+
+### Where consensus could be wrong
+
+Consensus too bullish USD:
+
+The USD-supportive Q4 bank cluster may overestimate the persistence of US relative-rate advantage and underestimate the growth effects of the oil and financing shock. If retail-control weakness broadens into services consumption, real hiring remains subdued and financial-market stress lowers Treasury yields, EUR/USD could recover toward or above the 1.15 survey benchmark. A narrowing of French risk premiums would reinforce that move.
+
+Consensus too cautious USD:
+
+The Reuters medium-term weak-dollar forecast may continue underestimating the persistence of US inflation, Fed restriction and dollar-supportive capital flows. If core-PCE inflation remains firm, US services demand stays resilient, European fiscal stress persists and US yields reprice higher without destabilizing financial markets, EUR/USD could retest the 1.11 area and remain nearer the USD-bullish 1.12–1.13 bank cluster than the survey's 1.15–1.16 medians.
+
+Key falsification:
+
+The decisive combination is the relative movement of US core-PCE persistence, real consumption and hiring, Fed rate expectations, and French sovereign-risk premiums. A durable decline in US yields alongside stabilization in European risk would challenge the tactical USD bull case; sustained US inflation with resilient realized demand and continued European stress would challenge the medium-term weak-dollar consensus.
+
+# I. COMPRESSED WEEK NOTE
+
+### Regime
+
+- Regime: Resilient services / uneven manufacturing / weaker real-consumption momentum / broadening inflation shock / conditionally hawkish Fed.
+- Change: The inflation constraint strengthens, but Fed speakers preserve October timing flexibility; disagreement increasingly concerns the ultimate rate path.
+
+### Scoreboard
+
+- Growth: \~ | Services robust; retail control and manufacturing momentum uneven.
+- Labor: \~ | Better hiring diffusion, weak realized payrolls.
+- Inflation: - | Core CPI +0.3%; core PPI +0.7%; nonfuel imports +0.7%.
+- Financial Conditions: - | Cost shock and rate pressure; volatile Treasury/USD repricing.
+- Policy Constraint: - | Further restriction likely; timing and terminal unresolved.
+
+### Major Release Tape
+
+- \*\*\*\* CPI — Core +0.3% vs +0.2% poll; headline +0.6% → stronger inflation persistence.
+- \*\*\*\* PPI — +1.3% vs +0.5%; core +0.7% vs +0.3% → broader upstream transmission, core-PCE estimate 0.31–0.36%.
+- \*\*\* ISM Services — 54.9; Prices Paid 74.0, orders 59.8 → resilient demand, severe cost pressure.
+- \*\*\* Retail Sales — Headline +0.8%; control +0.1% vs +0.3%; real sales near flat → consumer squeeze.
+- \*\*\* S&P Services — 58.8, five-year high → strong survey activity/hiring, renewed prices.
+- \*\*\* Import Prices — +1.1%, nonfuel +0.7% → external inflation persists.
+- \*\*\* Industrial Production — +0.7%, utilities +3.5%; manufacturing Q3 +0.7% annualized → narrow stabilization.
+- \*\*\* Empire / Philadelphia — 25.5 / 20.9 → divergent orders, shared pricing pressure.
+
+### Minor Tape
+
+\- Minor: No validated \* or \*\* macro release blocks.
+
+### Central Bank
+
+- Bias: October hold / December hike is the communication-consistent center; earlier hike remains a hawkish tail.
+- Reaction function: Persistent underlying inflation with resilient demand could accelerate or extend hikes; weaker hiring and consumption favor waiting.
+- Key tape: Waller — no need for consecutive hikes; Williams — one more in 2026, none currently envisaged in 2027; Hammack — insufficient restriction; Warsh — no meeting guidance.
+
+### Signal Tension
+
+- Tension: Stronger inflation and producer pricing despite softer consumption, weak hiring and spare industrial capacity.
+- What resolves it: Core-PCE persistence, real consumption and the Fed's willingness to tighten despite demand weakness.
+
+### Key Releases
+
+1. CPI — Core persistence and broader domestic pricing.
+2. PPI — Transmission and core-PCE bridge.
+3. ISM Services — Cost pressure versus demand resilience.
+4. Retail Sales — Inflation-driven consumer squeeze.
+5. S&P Services — Strong survey growth versus weaker hard data.
+
+### Red Team
+
+1. Does underlying core PCE confirm inflation beyond energy and volatile components?
+2. Is Williams' one-more-hike endpoint too dovish relative to the minutes and hawkish voters?
+3. Is September retail-control weakness genuine Q4 deterioration or August payback?
+
+### FX Consensus
+
+- Consensus: Tactical USD constructive; medium-term Reuters survey remains USD bearish.
+- Public-bank Q4 EUR/USD range: 1.12–1.15.
+- Constructive USD cluster: EUR/USD 1.12–1.13.
+- Cautious / tactical USD: EUR/USD \~1.15; Reuters 12M median 1.16.
+- At window close: EUR/USD \~1.125; USD off midweek highs, tactical upside increasingly two-sided.
+- Drivers: Fed differential; oil/European energy exposure; French fiscal risk; US AI/financial stress.
+- Consensus wrong if: US real-growth damage pulls yields lower while European risk premiums normalize, or resilient US demand and persistent core inflation sustain relative-rate outperformance.
+
+<\<USD_WEEK_END>>
 <<USD_WEEK_BEGIN>>
 DATA WINDOW: 20 September 2026 to 26 September 2026
 A. USD WEEK — MACRO SYNTHESIS
