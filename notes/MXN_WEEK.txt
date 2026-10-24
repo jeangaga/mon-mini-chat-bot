@@ -759,6 +759,326 @@ I. COMPRESSED WEEK NOTE
 - **Consensus wrong if:** Further differential compression and dollar strength prevent peso recovery; stabilization of those factors with contained inflation would favor convergence toward institutional targets.
 
 <<MXN_WEEK_END>>
+<<MXN_WEEK_BEGIN>>
+DATA WINDOW: 27 September 2026 to 3 October 2026
+
+A. MXN WEEK — MACRO SYNTHESIS
+
+Mexican manufacturing stabilized at the margin without establishing an industrial recovery. September's S&P Global PMI returned to 50.3 from 49.8, supported by five consecutive months of rising new orders; however, output contracted for a 27th month, employment and purchasing declined, export orders remained negative and exceptionally long supplier delays mechanically supported the headline. The independent IMEF survey (50.0) corroborates neutral headline activity and contracting production (47.7), but diverges on orders momentum. The state transition is stabilization near the diffusion threshold, not sustained expansion; the central real-activity test is whether orders translate into production as logistics normalize.
+
+The policy/FX tension sharpened despite no confirmed domestic demand-inflation rebound. High factory input costs met weak selling-price pass-through, while the peso's late-September/1 October decline was principally an external-yields, compressed-carry and risk event, not a PMI reaction. After Banxico's unanimous 24 September hold at 6.50%, Governor Rodríguez Ceja (28–29 September) defended policy independence from the Fed and low exchange-rate pass-through under economic slack, without explicitly opening a cut. The in-window IMF Article IV assessment instead called for a moderately restrictive stance until sustained disinflation, warning that convergence could be delayed to early 2028. With the Mexico–US rate differential at about 250bp, the lowest since 2008 per the supplied speaker tape, the regime is weak industrial stabilization plus disputed inflation/FX credibility: room to decouple is conditional on continued core disinflation and a peso decline that does not contaminate expectations.
+
+B. MXN MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence:
+S&P Global manufacturing PMI rose to 50.3 from 49.8 and new orders increased for a fifth month; IMEF reached 50.0. S&P output nevertheless fell for a 27th month, export orders contracted for a third, purchasing and inventories declined, and IMEF production fell to 47.7. Supply disruption clouds the headline. Governor Rodríguez Ceja identified economy-wide slack, but the sole validated release in Section C covers manufacturing, not aggregate GDP.
+
+Labor: -
+Supporting evidence:
+S&P Global manufacturers continued to reduce employment, including temporary and auxiliary staff, even as new orders improved. The governor's slack assessment is consistent with that weak activity signal. No national labor-market release is present in the validated MXN archive; the adverse sign reflects factory staffing, not independently measured economy-wide employment deterioration.
+
+Inflation: ~
+Supporting evidence:
+Factory input-cost inflation remained elevated (nearly 36% of firms reporting cost increases), but only 3% raised selling prices, implying margin pressure rather than confirmed broad pass-through. In-window governor communication argued that core had eased to 3.79% in the first half of September and peso pass-through remained low; the IMF warned that core pressures and expectations could delay sustained convergence. Those opposing assessments and the absence of a new CPI release leave the realized inflation impulse unresolved.
+
+Financial Conditions: -
+Supporting evidence:
+The source attributes 1 October MXN pressure to carry unwinding, higher US Treasury yields and geopolitical risk, not the PMI. The Banxico speaker tape documents a roughly 250bp Mexico–US policy differential after the 24 September hold and 16 September Fed hike, while late-September peso depreciation raised the credibility stakes for independent policy. High input costs and transport disruption also pressure margins and working capital. No PMI-specific exchange-rate repricing is established.
+
+Policy Constraint: ~
+Supporting evidence:
+Banxico held at 6.50% on 24 September; Rodríguez Ceja (28–29 September) reaffirmed no mechanical response to Fed moves, low expected FX pass-through, domestic slack and disinflation broadly on the bank's path, without announcing a cut or a meeting-specific next move. The IMF's 2 October assessment favored a moderately restrictive stance pending sustained convergence and warned of later-than-Banxico inflation normalization, while former deputy governor Sánchez González challenged the lack-of-demand-pressure premise. Weak real activity argues for flexibility; a historically narrow spread, peso depreciation and credibility risk restrain it. Net direction remains unresolved rather than a validated dovish pivot or hawkish repricing.
+
+C. FULL RELEASE ARCHIVE
+
+THURSDAY 1 OCTOBER 2026
+
+MEXICO — S&P GLOBAL MANUFACTURING PMI (SEP)
+Release Date: 1 Oct 2026 | Local Time: 17:00
+Importance: ***
+
+PM FLASH: Manufacturing PMI rose to 50.3 from 49.8 (no Reuters poll). Orders continued growing, but output contracted for a 27th month; exceptional supplier delays supported the headline.
+
+PM READ-THROUGH: Stabilization of domestic manufacturing orders is credible, but neither production nor employment confirms recovery. Supply-driven delays make the threshold crossing less informative than the underlying activity components.
+
+PM DEBATE & KEY TAKEAWAYS: Debate: Is the gap between orders and output a temporary fulfillment bottleneck, or evidence of demand too weak to sustain production? Key takeaways: Contracting components account for 55% of PMI weight; an independent manufacturing survey also reports positive orders and contracting output, but not uniformly improving order momentum. Verify conversion into output, hiring and procurement as delivery times normalize.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXPMIM=ECI;1 oct;17:00;High;S&P Global Mfg PMI;Sep;50,3;49,8;;;
+
+2. Professional Market Commentary
+
+The professional interpretation was marginal stabilization, not a convincing manufacturing recovery. September's headline moved above 50, but orders improved while production, employment and purchasing contracted. Severe logistical disruption was unusually important for interpreting supplier delivery times, a positive-weighted element of the headline under standard PMI construction.
+
+Pollyanna De Lima (S&P Global) cautioned against treating the positive index as broad-based industrial strength: supplier delays reflected material shortages, highway disruption and insecurity, rather than an unambiguous demand boom. Her survey commentary also documented the following underlying pattern:
+- Total new orders rose for a fifth consecutive month, with slightly faster growth than in August; the headline rose 0.5 point to 50.3.
+- Factory output fell for a 27th consecutive month, albeit at a slower rate; employment fell again, including temporary and auxiliary staff.
+- Export orders contracted for a third month amid weaker US and European demand.
+- Supplier delivery times lengthened at the fastest pace in four years; purchasing activity fell at its fastest pace in five months.
+- Input inflation remained elevated but moderated further from April's recent peak; selling-price inflation stayed mild, limiting evidence of pricing power.
+- Business expectations reached their highest level since November 2025, but were still below their long-run average.
+
+Independent named commentary specifically on this S&P Global release was not found across two scout passes. Contemporary opinions on IMEF's *separate* manufacturing survey supply useful corroboration, not release-specific external endorsements:
+
+Source / role                                 Distinctive interpretation
+Federico Rubli — IMEF technical committee     Manufacturing deterioration moderated; improving components remain insufficient for durable expansion.
+Gabriela Gutiérrez Mora — IMEF president       World Cup-related expenditure and computing-equipment exports help the outlook, but weaker public investment challenges durability.
+Gabriela Siller — Banco Base / IMEF committee  Stronger domestic and foreign investment, infrastructure and business certainty are required for a sustainable recovery.
+
+The headline-led interpretation of renewed expansion differs from a composition-led interpretation of weak underlying activity; this is not a fabricated debate among named bank economists. Trading Economics confirmed the headline improvement alongside ongoing output weakness; The Rio Times emphasized the distortion from delivery delays. Domestic coverage concentrated on the separate IMEF report and the peso. FX.co's headline-led account did not settle the orders/output contradiction. The global S&P Global/J.P.Morgan manufacturing survey, meanwhile, pointed to a substantially stronger international production cycle, in which Mexico's falling output and exports were weak participants.
+
+Source anchors: S&P Global Mexico release, 1 Oct 2026, https://www.pmi.spglobal.com/Public/Home/PressRelease/8f98ba7b791a4464a623eeafa1990a57 ; S&P Global/J.P.Morgan global PMI, 1 Oct 2026, https://www.pmi.spglobal.com/Public/Home/PressRelease/89c80d3968ef40dd8b93d158e77acb58 ; Imagen Radio, 2 Oct 2026, https://www.imagenradio.com.mx/finanzas/no-refleja-recuperacion-generalizada-cierre-tercer-trimestre-imef ; 24 Horas, 2 Oct 2026, https://24-horas.mx/negocios/economia-mexicana-crecimiento-2026-copa-mundial-inteligencia-artificial/ ; Enfoque Noticias, 1 Oct 2026, https://enfoquenoticias.com.mx/noticias/imef-recuperacion-economica-debil-mexico-2026
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+September provides evidence of an improved diffusion headline and some genuine new-order stabilization, but not of recovery in realized factory production. The PMI increased by 0.5 index point to 50.3, after June and July readings of 51.3 and August's decline to 49.8. Five consecutive months of increasing orders reduce the probability of an accelerating collapse in domestic manufacturing demand; 27 consecutive months of declining output, renewed job cuts and reduced procurement nevertheless show that any order improvement has not yet translated into volumes or hiring.
+
+The headline's information content is particularly compromised by the inverted supplier-delivery component. Slower deliveries can signal excess demand in normal conditions; the survey instead attributes extraordinary delays to supply shortages, road disruption, insecurity and geopolitical pressures. The decisive distinction is between *order stabilization* and *order-to-output conversion*: either firms are unable to fulfill improving demand, or the demand improvement is too modest, transitory or concentrated to finance sustained factory expansion. The data do not yet discriminate cleanly between these mechanisms.
+
+B. Detailed Evidence & Economic Mechanisms
+
+Headline construction and supply distortion
+
+Component                        Weight    September direction
+New orders                       30%       Expansion
+Output                           25%       Contraction
+Employment                       20%       Contraction
+Supplier delivery times (inv.)   15%       Longer delays
+Stocks of purchases              10%       Contraction
+
+Output, employment and stocks of purchases, together representing 55% of the composite's weight, remained contractionary. Expanding orders and longer supplier deliveries supported the positive headline. Under PMI weighting, exceptionally long lead times can mechanically boost the inverted delivery-times contribution despite worsening logistics. Their normalization could therefore lower the headline while actual supply conditions improve. Component diffusion-index levels were unavailable: the 55% statistic describes the *weight of contracting components*, not a calculated negative net contribution or a quantitative attribution of the 50.3 headline.
+
+Orders, output and external participation
+
+New orders increased for five months and accelerated slightly in the S&P survey, the strongest argument against treating the manufacturing sector as unambiguously deteriorating. But output contracted for a 27th month, and exports fell for a third month amid weak US and European orders. Backlogs increased for the first time in three months, at their fastest pace since the start of 2026; the producer ascribed much of this to delivery delays and unavailable materials, not clear excess final demand. Backlogs therefore cannot on their own prove vigorous order growth.
+
+Two hypotheses remain live. **Delayed conversion:** existing orders will turn into output when bottlenecks ease. **Weak-quality demand:** modest or temporary domestic orders, together with soft exports, are insufficient to support production and staffing. A recovery requires orders, actual output and employment to converge. The global manufacturing PMI rose to 53.0 from 52.3, with growing production and international trade, accentuating Mexico's relative weakness without establishing a structural loss of Mexican export competitiveness.
+
+Employment, procurement and inventories
+
+The continuing reduction in employment, especially temporary and auxiliary jobs, shows that manufacturers retain flexibility rather than build capacity for a sustained volume upswing. Reported partial breaks for permanent staff also suggest under-utilized production time. Purchasing declined for a second month; stocks of purchases contracted for a twelfth. This combination could reflect cash/working-capital caution and/or inability to obtain inputs. The survey cannot apportion those channels, and neither is consistent with an already-established manufacturing expansion.
+
+Input costs, pass-through and margins
+
+Input inflation moderated from April's recent peak, but nearly 36% of firms still reported higher purchasing costs. Tariffs, energy prices, transport problems, geopolitical pressures and unfavorable FX moves were reported cost drivers. Only 3% increased selling prices; a modest acceleration in factory-gate inflation did not imply broad pricing-power recovery. The central risk is cost-induced margin compression, with limited near-term pass-through but possible later inflation persistence. Weak output and employment do not support an interpretation of demand overheating.
+
+Independent cross-survey test — IMEF
+
+September measure             S&P Global           IMEF
+Headline                      50.3                 50.0
+New orders                    Rising               50.2, down 1.2pts
+Production                    Contracting          47.7, down 2.1pts
+Interpretation                Fragile stability    Uneven stabilization
+
+IMEF improved marginally from 49.9 to 50.0. Panels and methodologies differ, so component readings are not interchangeable. The substantive common signal is marginally positive orders alongside falling output. The momentum distinction matters: S&P described faster order growth, while IMEF orders lost 1.2 index points despite remaining above 50. These results corroborate *near-neutral stabilization* but do not prove uniform demand acceleration across surveys.
+
+IMEF also flagged the quality of wider economic support: World Cup-related public spending and computing-equipment exports may buoy activity, while reduced public construction investment, limited domestic value added from some electronics exports and business uncertainty could limit durability. These drivers are broader institutional assessments, not established causal determinants of the S&P sample. IMEF's 1.7% 2026 growth forecast belongs to that wider institutional assessment, not to the PMI-derived growth forecast. The reported INEGI Manufacturing Orders Indicator reading of 49.1 came only from an unverified bulletin preview and is excluded from the validated numerical comparison.
+
+Forward-looking indicators and signal ranking
+
+Business expectations reached their highest since November 2025 but remained below historical norms: a prospective upside option, not realized output. The evidence hierarchy is: (1) ongoing output/job contraction; (2) sustained positive orders; (3) supplier-delay contamination of headline; (4) weak export orders; (5) upstream cost/margin pressure; (6) improved but subpar expectations. The next important evidence is whether bottleneck relief increases production and orders persist without relying on distorted delivery times.
+
+C. State Transition & Historical Context
+
+State transition: stabilization — the headline returns to marginal expansion and order growth persists, but production, employment and purchasing remain contractionary. Supply-related delivery delays prevent the move above 50 from qualifying as a confirmed manufacturing recovery. The second-pass IMEF comparison reinforces, rather than changes, this classification.
+
+Context from prior regional live file:
+May's PMI improved to 49.6 on domestic orders and World Cup-related demand, before June rose to 51.3 despite continued production and employment declines. After July remained at 51.3 and August slipped to 49.8, September's return to 50.3 restores marginal headline expansion without resolving the original order-to-output transmission failure. The manufacturing trajectory remains one of demand stabilization against persistent production weakness and external fragility.
+
+4. HF Take — Strategist Layer
+
+Main incremental information: The manufacturing tape modestly lowers immediate downside-growth concerns because orders are still rising; it does not justify calling an industrial recovery, pricing a hawkish Banxico response or taking a standalone directional MXN-positive PMI trade. Weak output, employment, procurement and exports remain the higher-conviction real-activity signals. Elevated upstream costs, with little evidence of selling-price pass-through, constrain the growth/inflation mix.
+
+Macro mechanism / strategic debate: The central strategic question is whether new orders are awaiting delayed production or are too low-quality to sustain production, jobs and investment. A rising PMI caused primarily by supplier delays would be misleading; conversely, normalization of supply chains could *reduce* the index's delivery contribution even while factory volumes improve. The separate IMEF survey confirms this low-conviction stabilization, not a policy turning point. Its 1.7% growth projection and concerns about public investment, domestic value added and business certainty are broader contextual claims. IMEF's reported Banxico-hold view is attributable to IMEF only, not independently verified market consensus.
+
+Policy and rates: The PMI has limited standalone relevance to the Mexican front end. Persistent factory and labor weakness can support a future easing argument, but high input costs, FX-sensitive imported inflation and the risk of expectations pass-through constrain an automatic dovish inference. Banxico's policy reaction is more sensitive to realized inflation, expectations, peso transmission and broad activity than to a 50.3 factory diffusion headline; marginal order stabilization alone does not require a more restrictive stance.
+
+MXN transmission and attribution: The PMI does not explain the peso's 1 October sell-off on the available evidence. Contemporaneous session reporting attributed MXN weakness principally to the Fed–Banxico carry differential, hawkish US policy expectations, rising Treasury yields, oil prices and generalized risk aversion. Banco Base also highlighted carry-trade unwinding and geopolitical risk. Reported daily losses of about -1.17% and -1.25% came from differing source methodologies, not separate PMI event studies. No clean PMI-specific MXN price reaction was established. Domestic orders offer limited growth support; weak exports and potential imported-cost pressure leave global USD/rates/risk conditions dominant for near-term FX.
+
+What to verify next: Require output contraction to end or narrow materially, employment to stabilize, procurement and input inventories to turn, export orders to return to expansion, and supplier lead times to normalize without renewed demand weakening. If positive headline readings persist mainly because deliveries remain exceptionally slow while production falls, the case that the index overstates real improvement strengthens.
+
+Macro configuration: marginal domestic order stabilization + 27-month factory-output contraction + weak hiring/procurement and export orders + supply-distorted PMI + high upstream costs/limited pass-through + externally driven MXN risk.
+
+
+D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+Banxico's unanimous 24 September hold left the target at 6.50%; the Fed's 16 September increase put the policy-rate differential around 250bp, the lowest since 2008 according to the supplied scout. Both are pre-window reference points, not fresh decisions within 27 September–3 October. In-window communication came from Governor Victoria Rodríguez Ceja alone. She defended independent policy settings versus the Fed, continued disinflation and low peso pass-through given slack and credibility, but did not explicitly guide a cut. External voices disputed the durability of that stance: the IMF called for moderate restriction through sustained inflation convergence, and a former Banxico deputy governor challenged the claim of no demand pressures. No other board-member monetary-policy remarks were validated during the window; committee voting preferences cannot be inferred from the governor's interviews.
+
+Victoria Rodríguez Ceja — Governor, El Financiero interview — 28 Sep 2026
+Importance: ***
+
+Key policy signal:
+The post-decision peso decline was not expected to exert material incremental inflation pressure beyond the bank's projections; slack and policy credibility limited exchange-rate pass-through, and no domestic demand-led inflation pressure was foreseen. She contrasted strong US demand and energy-related second-round risks with Mexico's weaker demand and energy-price smoothing. She cited easing core inflation from 3.95% to 3.79% between first-half July and first-half September, with goods and services inflation also edging lower, as support for the recent hold. Geopolitical uncertainty remained two-sided; the FX market was described as orderly.
+
+Representative quote:
+“no se prevén presiones inflacionarias provenientes del lado de la demanda”
+
+Incremental reaction function:
+Confirms rather than changes the 24 September decoupling guidance. A further Fed increase or peso decline is not by itself an automatic trigger for Banxico; the effective test is the domestic disinflation path, expectations and pass-through. No forward rate direction or cut timing was announced.
+
+Victoria Rodríguez Ceja — Governor, Bloomberg News interview (syndicated reporting) — 29 Sep 2026
+Importance: ***
+
+Key policy signal:
+Mexico can chart a policy path independently of the Fed because inflation and activity differ across economies. Inflation was described as evolving in line with the bank's forecasts, with gradual return to 3% projected for Q4 2027; the governor referenced a 2026 GDP forecast of 1.5%, revised from 1.1%. She signaled an intention to explain the domestic determinants of future decisions more fully, emphasized the floating peso as a shock absorber and judged renewed exchange-rate inflation transmission limited.
+
+Representative quote:
+“La inflación se ha venido comportando conforme a nuestras expectativas”
+
+Incremental reaction function:
+New emphasis on communication of decision drivers, not a verified easing commitment. Bloomberg's cut-opening headline was journalistic interpretation; the retrieved governor quotes do not explicitly promise cuts. The original Bloomberg interview was not opened by the supplied scout, so the signal rests on contemporaneous syndicated reporting.
+
+IMF Article IV mission — Preliminary assessment reported by Expansión — 2 Oct 2026
+Importance: ***
+
+Key policy signal:
+External institutional assessment, NOT Banxico policymaker communication. The IMF saw core inflation pressures and elevated expectations delaying durable 3% convergence to early 2028, and advocated maintaining a moderately restrictive stance until clear, sustained disinflation; renewed tightening could be warranted if inflation progress stalls or energy/food inflation broadens. It urged clearer communication that Banxico's variability band is not a tolerance range. Evidence in the supplied tape is contemporaneous reporting, not an independently opened IMF primary document.
+
+Representative quote:
+“el rango de variabilidad alrededor de la meta no constituye un rango de tolerancia”
+
+Incremental reaction function:
+Counterweight to the governor's assessment, not a change in official Banxico guidance. Raises the credibility bar for easing without establishing a new committee rate decision or a market probability.
+
+Human voice — contemporaneous interpretations (not additional policymaker signals)
+
+Gabriel Casillas (Barclays, 29 Sep) argued that keeping 6.50% through a short Fed tightening cycle was defensible despite the roughly 250bp spread, and welcomed clearer explicit decoupling guidance. Manuel Sánchez González (former Banxico deputy governor, 30 Sep) challenged the “no demand pressures” premise and criticized prolonged above-target inflation, with services as a particular concern. Bloomberg and the El Financiero markets desk framed peso weakness as a repricing of narrower carry and the willingness to decouple; neither a cut signal nor a causal effect of the manufacturing PMI is proven by these interpretations. BBVA Research's 25 September supportive assessment is pre-window context only.
+
+Bottom line — central bank tape
+
+Conditional hold and greater Fed independence, NOT a validated pivot toward cuts. Low pass-through and slack are the governor's rationale; core/services persistence, inflation expectations and exchange-rate credibility are the counterweights. The strongest disagreement in this window is between the governor and external assessors, not an observed committee split. Banxico Minuta 127 (8 October), the 5 October deputy-governor remarks and 8 October CPI are post-window and excluded from the in-window policy conclusion. The supplied scout found no official in-window board-member presentation; both governor interviews are grounded in press reporting.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction:
+Banxico argues that weak domestic demand and limited peso pass-through allow a 6.50% hold independent of Fed tightening, while a near-record-low interest differential and abrupt MXN depreciation test that autonomy; the IMF and a former policymaker question how secure disinflation and credibility really are. Factory orders stabilize, but output, jobs and selling-price power remain weak.
+
+Why it matters:
+Whether peso weakness remains an absorbed external-rate shock or contaminates inflation expectations determines the room to sustain an independent hold, let alone ease, without aggravating MXN carry vulnerability.
+
+Implication:
+Do not infer a cut from governor communication or a hike from one PMI. Test core/services persistence, inflation expectations and peso pass-through against front-end rate spreads, while requiring actual production and hiring improvement to upgrade domestic growth.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+*** MEXICO — S&P GLOBAL MANUFACTURING PMI (1 OCT 2026)
+Why it matters: The move to 50.3 from 49.8 conceals contracting production, employment and purchasing, alongside severe delivery-time distortion. IMEF's 50.0 headline and 47.7 production confirm uneven stabilization, while conflicting order momentum tests signal quality. The decisive subsequent evidence is conversion of orders/backlogs into output and hiring without renewed logistics dislocation.
+
+G. RED TEAM QUESTIONS
+
+1. As supplier delays normalize, will five months of improving S&P new orders finally generate positive factory output, purchasing and employment, or reveal that the 50.3 headline overstated recovery?
+2. Why did IMEF manufacturing new orders fall 1.2 points to 50.2 while S&P reported accelerating growth; which survey's momentum persists?
+3. Are World Cup-related spending and computing-equipment exports providing durable domestic value added and investment, or temporary support masking industrial weakness?
+4. Can Banxico's low-pass-through assumption survive a prolonged peso decline with the Mexico–US policy differential around 250bp, or will inflation expectations force a narrower scope for decoupling?
+5. Do persistent services/core pressures and the IMF's early-2028 convergence concern invalidate the governor's “no demand pressures” assessment and Q4-2027 inflation path?
+6. Was Rodríguez Ceja's promise of clearer domestic decision drivers merely a communication change, or will later official guidance establish an actual easing or tightening bias that was not disclosed during this window?
+7. With no other board-member remarks in-window, what committee-level evidence would verify whether the governor's hold-and-decouple posture was shared rather than a single-speaker signal?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+### Bottom line
+
+Pair convention: USD/MXN (higher pair = weaker MXN). During 27 September–3 October, publicly visible forecasts still leaned toward a peso recovery from the sharp late-September sell-off, but their issuance-date conviction must not be confused with the trading stance at window close. Early-September ING had been cautious on further peso gains with spot near 16.89 and a 3M USD/MXN target of 17.25; BNP Paribas Wealth Management's September publication placed its 3M target at 17.00 and 12M at 16.80. Those initial views differed in degree but did not anticipate the rapid external-rates-driven USD/MXN repricing toward 18.
+
+The Banxico survey of private-sector specialists, published 1 October (responses collected 15–28 September), gave a formal end-2026 USD/MXN median of 17.50 and mean of 17.57, broadly unchanged from August (17.50/17.54). The 25th–75th percentile interval was 17.35–17.70. MUFG's dated 1 October FX outlook gave an end-Q4 target of 18.00, more defensive toward MXN than the formal survey median. These are distinct samples: Banxico's respondent distribution is not a public-bank forecast table; the three bank targets below are a selected observable sample, not an exhaustive consensus.
+
+USD/MXN rose from roughly 17.7 at the prior Friday close (25 September) to 18.30 on 1 October, before ending Friday 2 October near 18.16. Spot thus closed above the Banxico end-2026 median by approximately 0.66 pesos and above even MUFG's 18.00 Q4 forecast. The gap was primarily a sharp movement in spot, not a verified widespread revision of bank forecasts during the week. This translated a moderately constructive medium-term peso forecast distribution into poor immediate carry/risk asymmetry; the 2 October bounce did not unwind the week's losses.
+
+Public-bank approximately Q4 2026 (September 3M / year-end) range: USD/MXN 17.00–18.00, selected comparable-horizon public targets (BNP 17.00 at 3M; ING 17.25 at 3M; MUFG 18.00 end-Q4), not a formal survey range.
+
+Constructive MXN cluster: USD/MXN 17.00–17.25 around three months (BNP/ING September publications); at their issuance dates, ING's 17.25 was actually cautious on near-term peso gains versus spot of 16.89, not then a peso-bullish trading signal.
+
+More cautious / tactical view: MUFG USD/MXN 18.00 end-Q4; spot roughly 18.16 by 2 October, with an external-rates/carry stress bias near term. Banxico's formal end-year median: 17.50 (interquartile 17.35–17.70).
+
+Bias at window close: Public forecasts remained on balance MXN-recovery-oriented relative to spot, but near-term trading was MXN-defensive; observable price adjustment outpaced demonstrated forecast revisions.
+
+### What changed through the data window
+
+The starting point was a lower-volatility carry backdrop in early September: ING saw limited room for USD/MXN to sustain a move below 17 because Banxico's premium over the Fed was already narrow and USMCA uncertainty impaired investment confidence. BNP's mildly constructive 17.00 three-month target relied on Mexican rate support and external investment, while the prior Banxico survey centered on 17.50 at year-end. The September 24 Banxico hold at 6.50% and the September Fed hike had already narrowed relative carry at the beginning of this window; the Fed–Banxico asymmetry was consequently more important than the marginal September PMI uptick.
+
+USD/MXN then repriced sharply higher through 1 October under rising US yields, a less attractive carry spread and risk-off flow; the validated macro tape identifies no PMI-specific MXN response. Banxico's 1 October survey barely moved (mean 17.54 to 17.57; median unchanged at 17.50), while MUFG's 1 October report retained a Q4 target below contemporaneous spot at 18.00. A bank-by-bank forecast revision series sufficient to establish a market-wide target reset during 27 September–3 October was not verified. On 2 October, US labor news prompted a partial peso rebound to roughly 18.16, but the pair remained markedly above the clustered targets. No information first published after 3 October is incorporated.
+
+### Main consensus drivers
+
+**US–Mexico carry / policy differential:** The September Fed tightening alongside Banxico's policy hold compressed Mexico's relative interest advantage and made high-beta peso carry more vulnerable to renewed US yield increases; a weak manufacturing release by itself was secondary.
+
+**Global USD / risk beta:** Higher Treasury yields, bond volatility, geopolitical concerns and carry liquidation dominated near-term USD/MXN; a Friday reversal on weaker US labor data showed sensitivity to the same external rates channel.
+
+**USMCA / investment and export quality:** Trade-policy uncertainty, weak manufacturing export orders, uneven investment and limited domestic value added in parts of electronics production reduced confidence that Mexican growth could offset external FX shocks.
+
+**Domestic inflation credibility / margins:** Elevated upstream prices with little selling-price pass-through leave Banxico managing inflation/FX risks against weak factory activity; this constrains a clean growth-driven rate-cut or rate-hike narrative.
+
+### Where consensus could be wrong
+
+**Consensus too bullish MXN:** US yields remain elevated, Banxico does not offset Fed tightening, the carry advantage erodes further and USMCA/investment uncertainty sustains FX outflows; weak output fails to catch up with orders. The 17.00–17.50 forecast region proves difficult to reach.
+
+**Consensus too cautious MXN:** US yield pressure reverses, the rate spread and risk appetite stabilize, supply disruptions normalize, and orders begin translating into production/export demand without renewed price pass-through. Spot could then converge toward the pre-existing target cluster without a fresh bank forecast upgrade.
+
+**Key falsification:** Follow US–Mexico front-end rate spreads and MXN carry/flow conditions together with October production, supplier-delivery normalization and export orders. Sustained MXN gains toward 17.50 require external rates relief and confirmation that the manufacturing stabilization is real rather than a delivery-time artefact.
+
+Public point-in-time source anchors:
+- Banco de México private-sector expectations survey, September 2026, published 1 Oct: https://www.banxico.org.mx/publicaciones-y-prensa/encuestas-sobre-las-expectativas-de-los-especialis/encuestas-expectativas-del-se.html
+- Banco de México historical end-year FX survey (CR171): https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadro&idCuadro=CR171&locale=es
+- ING Latam FX Talking, 7 Sep 2026: https://think.ing.com/articles/latam-fx-talking-september-2026/
+- BNP Paribas Wealth Management, September 2026 Currencies Focus: https://privatebanking.bnpparibas.com/en/insights/market-strategy/currencies-focus-september-2026.html
+- MUFG Monthly Foreign Exchange Outlook, 1 Oct 2026, dated table: https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026/
+- Citi Mexico September survey, reported 7 Sep 2026: https://www.fxstreet.com/news/citi-survey-sees-banxico-frozen-as-peso-holds-below-1800-202609072304
+- Reuters, Banxico decision, 24 Sep 2026 (pre-window carry backdrop): https://www.reuters.com/world/americas/bank-mexico-keeps-rates-hold-tweaks-its-forward-guidance-2026-09-24/
+- Reuters, MXN session close on 2 Oct 2026, contemporaneous syndication: https://www.jornada.com.mx/noticia/2026/10/02/economia/peso-recupera-terreno-pero-registra-su-peor-semana-desde-marzo-cierra-en-1816-por-dolar
+
+I. COMPRESSED WEEK NOTE
+
+### Regime
+- **Regime:** Manufacturing stabilization without production recovery; compressed MXN carry and disputed Banxico inflation credibility.
+- **Change:** PMI 49.8 → 50.3 and orders up five months, but output down 27 months; governor defended Fed independence as peso weakened.
+
+### Scoreboard
+- **Growth: ~** | Factory orders improve; actual production and exports lag.
+- **Labor: -** | Manufacturing job cuts persist; no national jobs release.
+- **Inflation: ~** | High input costs/weak pass-through; governor and IMF differ on persistence.
+- **Financial Conditions: -** | US yields, compressed rate spread and carry liquidation pressure MXN.
+- **Policy Constraint: ~** | Hold 6.50%; low pass-through vs IMF restriction/credibility concern.
+
+### Major Release Tape
+- *** **Mexico S&P manufacturing PMI (1 Oct)** — 50.3 from 49.8 (no poll); fifth month of rising orders, 27th of falling output. Employment, exports and purchasing contract; delivery delays distort headline; IMEF 50.0/production 47.7 → fragile stabilization.
+
+### Minor Tape
+- **Minor:** No other validated Mexico publication; IMEF evidence sits within the PMI archive.
+
+### Central Bank
+- **Bias:** Banxico hold at 6.50%; governor argues it need not follow the Fed, with no explicit cut signal.
+- **Reaction function:** Slack and limited peso pass-through versus core/services persistence, expectations and narrowing differential (~250bp).
+- **Key tape:** Rodríguez Ceja (28–29 Sep) reaffirmed independence; IMF (2 Oct) urged moderate restriction, warning durable target convergence may slip to early 2028; no in-window deputy-governor voices.
+
+### Signal Tension
+- **Tension:** Banxico's independent hold and low-pass-through assumption versus peso/carry depreciation and inflation-credibility scrutiny.
+- **What resolves it:** Core/services trend, expectations and FX pass-through; production conversion as supply bottlenecks ease.
+
+### Key Releases
+1. **Mexico manufacturing PMI** — isolate delivery-time distortion and orders-to-output transmission; cross-check IMEF.
+
+### Red Team
+1. Will orders generate real output and hiring as supplier delays normalize?
+2. Can low FX pass-through survive a prolonged peso decline with ~250bp policy spread?
+3. Do services/core persistence and IMF concerns undermine Banxico's projected inflation convergence?
+
+### FX Consensus
+- **Consensus:** Public forecasts favored eventual MXN recovery; near-term trading remained peso-defensive.
+- **Public-bank range:** USD/MXN 17.00–18.00, selected roughly Q4/3M targets.
+- **Constructive cluster:** 17.00–17.25 around 3M.
+- **Cautious / tactical:** MUFG 18.00 Q4; Banxico survey median 17.50, IQR 17.35–17.70.
+- **At window close:** Spot ~18.16 on 2 Oct, above selected targets; spot moved faster than verified forecasts.
+- **Drivers:** Fed–Banxico spread; US yields/carry; trade/investment uncertainty; inflation credibility.
+- **Consensus wrong if:** US rate stress persists, or eases as real production recovers without renewed FX inflation.
+
+<<MXN_WEEK_END>>
 
 
 
