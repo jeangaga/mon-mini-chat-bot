@@ -777,6 +777,512 @@ FX Consensus
 - Consensus wrong if: Relative-rate support fails to translate into SEK strength, or underlying inflation fails to validate the projected Riksbank tightening path.
 
 <<SEK_WEEK_END>>
+<<SEK_WEEK_BEGIN>>
+
+DATA WINDOW: 27 September 2026 to 3 October 2026
+
+A. SEK WEEK — MACRO SYNTHESIS
+
+Sweden’s recovery broadened from confidence into realized household spending and firmer industrial order intake. NIER sentiment rose for a fifth month to 107.1; real August retail sales gained 0.8% m/m and 6.9% y/y; September manufacturing PMI recovered to 58.1, led by new orders (59.5), production (60.0) and backlogs (60.4). This is a transition from summer manufacturing moderation and previously stop-start household demand toward a more credible demand-supported recovery. Consumer confidence still improved mainly on retrospective assessments; finished-goods excess, PMI seasonal-adjustment sensitivity, Q3’s lower average PMI versus Q2 and the absence of realized labor confirmation limit a full overheating diagnosis.
+
+Inflation risks nonetheless increased: NIER business selling-price plans reached +22 versus a +11 historical mean, and PMI input-price diffusion rose to 77.6, with supply constraints, metals, energy and transport costs prominent. The key change in the policy overlay came from 30 September Riksbank minutes and Per Jansson’s London comments: after holding at 1.75% on 23 September, the Board had moved toward rate normalization as growth outperformed and imported costs and the weaker krona threatened broader inflation. Thedéen and Seim favored a November increase, while Jansson endorsed an upward rate-path revision but defended not hiking in September and Hjelm resisted the full extent of the projected path. The regime is now growth-positive / inflation-cautious / prospective Riksbank tightening, but the exact timing and terminal path remain conditional on realized CPIF pass-through and whether supply disruption erodes margins rather than creating enduring domestic price pressure.
+
+B. SEK MACRO SIGNAL SCOREBOARD
+
+Growth: +
+Supporting evidence:
+NIER sentiment 107.1 from 105.1 and business confidence 109.3; retail volumes +0.8% m/m and +6.9% y/y, with positive July revisions; manufacturing PMI 58.1 from revised 56.3, new orders 59.5, output 60.0 and backlogs 60.4. The 30 September Riksbank discussion released during the window reinforced that growth was stronger and more broadly based than previously expected. Retrospective consumer confidence, excess finished goods and a weaker Q3-versus-Q2 PMI average qualify the strength of acceleration.
+
+Labor: ~
+Supporting evidence:
+NIER manufacturing employment intentions increased to +5 from -1 and construction to +19 from +9; manufacturing PMI hiring diffusion remained expansionary at 56.3, but eased from 57.5. Services hiring plans were little changed. No realized aggregate Swedish payrolls, employment, unemployment or wage result in this validated release window confirms broad labor-market tightness.
+
+Inflation: -
+Supporting evidence:
+NIER business price plans reached +22 versus +11 historical mean, including manufacturing domestic/export plans +30/+26; manufacturing input-price diffusion rose to 77.6. September Riksbank deliberations identified higher risks from prolonged energy costs, resilient demand and a weaker krona. But household twelve-month inflation expectations declined to 6.3% from 6.8% and realized underlying CPIF/wage transmission is not established by these release blocks. '-' describes worsening inflation risk, not an observed CPIF breakout.
+
+Financial Conditions: ~
+Supporting evidence:
+Supplier disruptions, energy and metal costs raise margin/financial pressure, offset by improved order intake and retail volume demand. The Riksbank's 1.75% hold and upward policy-rate projection were known in the window, but the supplied archive establishes no clean SEK, Swedish yield, credit-spread or release-specific market repricing. An unambiguous overall financial-conditions direction cannot be assigned.
+
+Policy Constraint: -
+Supporting evidence:
+September's Riksbank hold at 1.75% (effective 30 September) was accompanied by an upward rate forecast and an expectation of increases during 2026 if the outlook held. Minutes made public on 30 September indicate Seim/Thedéen favoring November, broad support for tightening normalization, and Hjelm questioning the full projected extent; Jansson defended September patience while identifying greater demand-driven inflation risk. Better retail/orders and corporate price plans reduce the option value of dovishness. However low initial underlying inflation, uncertain cost pass-through and divergent views over pace versus destination keep the timing conditional. '-' records a more restrictive/adverse policy constraint.
+
+C. FULL RELEASE ARCHIVE
+
+
+TUESDAY 29 SEP 2026
+
+Sweden — Economic Tendency Survey / Consumer Confidence (Sep)
+Release Date: 29 Sep 2026 | Local Time: 08:00
+Importance: ***
+
+PM FLASH: Economic Tendency rose to 107.1 from 105.1, its fifth consecutive gain; consumer confidence reached 102.2 from revised 98.4. Corporate selling-price plans remained unusually elevated.
+
+PM READ-THROUGH: Business-side recovery is broadening across services and construction, while households now judge past conditions more favorably. Flat forward household expectations and excess finished-goods stocks temper the recovery signal.
+
+PM DEBATE & KEY TAKEAWAYS: Professional insight: Improving aggregate confidence should not be equated with excess demand. Manufacturing orders and production plans strengthened, but its confidence index barely moved because finished-goods inventories deteriorated. Household confidence gains were retrospective and savings intentions stayed elevated. The crucial inflation conflict is firms' widespread selling-price intentions versus softer household inflation perceptions; verify realized price transmission and inventory absorption.
+
+1. Reuters Data
+
+Overall Sentiment: 107,1 | Prior: 105,1
+Consumer Confidence SA: 102,2 | Prior: 98,0 | Revised: 98,4
+
+2. Professional Market Commentary
+
+NIER reported a fifth consecutive increase in the Economic Tendency Indicator. Business confidence remained above normal, while consumer confidence reached its highest since December 2021 but only returned to its historical normal range. Manufacturing confidence held at a high level; construction and services improved; trade eased from exceptionally strong levels. Hiring intentions improved overall, with material sector dispersion.
+
+Professional interpretation was complementary rather than contradictory: Nyhetsbyrån Direkt emphasized the sustained confidence recovery and sharp household rebound; TT highlighted the unusually elevated corporate selling-price intentions and associated inflation risk. NIER Director General Albin Kainelainen described Sweden as leaving its downturn, while identifying energy costs and the Riksbank inflation outlook as relevant to firms' price plans. These assessments support recovery but differ in whether growth breadth or price transmission deserves most attention.
+
+No independent Tier 1 bank-economist interpretation was identified. No attributable release-specific SEK or Swedish-rates reaction was confirmed.
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+September's survey adds breadth to an established cyclical improvement rather than announcing a new expansion regime. The fifth overall-sentiment increase, improving business hiring intentions and a return to normal household confidence jointly reduce recovery-downside risk. Yet current activity and future spending should not be conflated: the sharp household gain is mostly backward-looking, manufacturing inventories worsened, and service-sector assignment volumes still lag expectations. The inflation counter-signal is stronger than a generic optimism reading because corporate price plans stand well above their norms despite declining household inflation perceptions.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Overall sentiment and sector breadth
+
+| Indicator | August | September | Interpretation |
+|---|---:|---:|---|
+| Economic Tendency Indicator | 105.1 | 107.1 | Fifth consecutive increase, above long-run average |
+| Business confidence | 107.5 | 109.3 | Sixth increase, near very-strong threshold |
+| Consumer confidence | 98.4 revised | 102.2 | +3.8 points, back to normal |
+| Construction | 98.6 | 102.9 | Above normal; orders and hiring improve |
+| Services | 104.7 | 107.1 | Higher expected demand |
+| Manufacturing | 106.5 | 106.3 | Essentially stable, above normal |
+| Trade | 113.7 | 112.1 | Sequential easing from unusually high level |
+
+Consumer confidence's Reuters prior was 98.0, revised to 98.4; its comparison with 102.2 is therefore a 3.8-point gain, not an unrevised-prior comparison. The overall index's fifth increase and the business index's sixth increase establish continuity, while sector variations prevent a uniform acceleration reading.
+
+2) Household confidence: retrospective repair, restrained forward spending
+
+Assessments of Swedish economic conditions versus twelve months earlier improved from -14 to +4; household finances versus twelve months earlier rose from +5 to +12. Expectations for future economic conditions and personal finances were broadly unchanged. The major-purchases balance improved from -11 to -7 but remained negative, while the saving balance increased to 63 from 61, well above its historical mean of 49. Micro-confidence rose to 98.5 and macro-confidence to 107.2.
+
+Thus households increasingly recognize improved purchasing power and past conditions, without equivalently upgrading forward consumption plans. High desired saving may still limit conversion of improved financial circumstances into purchases. A confidence recovery is not, on its own, proof of a sustained consumption acceleration.
+
+3) Manufacturing: stronger intentions, stock overhang
+
+| Manufacturing survey balance | Previous | September | Benchmark where available |
+|---|---:|---:|---|
+| Production, past three months | +12 | +23 | Historical mean +13 |
+| Domestic orders | +8 | +13 | — |
+| Export orders | +14 | +22 | — |
+| Production plans | +31 | +38 | Historical mean +21 |
+| Employment plans | -1 | +5 | — |
+| Excess finished-goods inventories | 4 | 10 | Higher = less favorable |
+
+Stronger realized production assessments, order balances and output intentions suggest improved demand. Nevertheless, the excess-finished-stock balance rose to 10 from 4. This deterioration helps explain why manufacturing confidence was broadly unchanged despite firmer operating indicators: output expectations may be outrunning final sales. A durable demand-led reading requires new orders to absorb finished goods rather than merely increase production and inventory.
+
+4) Construction and services: recovery expectations versus realized utilization
+
+Construction's expected building-activity balance rose to 39 from 27, expected order books to 37 from 23, and employment plans to 19 from 9. Yet insufficient demand remained the main constraint for nearly six in ten construction firms. Services expected-demand balance improved to 36 from 29, but current assignment volumes slipped to -31 from -29 (historical mean -26); employment plans edged to 5 from 6. Forward optimism in both sectors is consequently stronger than realized evidence of tight capacity, especially in services.
+
+5) Corporate pricing plans versus household inflation assessments
+
+| Price-related balance / expectation | Previous | September | Historical mean where available |
+|---|---:|---:|---:|
+| Business-sector selling-price intentions | 21 | 22 | 11 |
+| Manufacturing domestic-price plans | — | 30 | 12 |
+| Manufacturing export-price plans | — | 26 | 6 |
+| Trade price plans | 26 | 30 | — |
+| Construction tender-price expectations | 8 | 23 | -2 |
+| Household perceived current inflation | 9.2% | 7.4% | — |
+| Household expected inflation in 12 months | 6.8% | 6.3% | — |
+
+Selling-price intentions at twice the business-sector norm signal broad willingness to reprice, especially in manufacturing and construction. But the balances are not percentage forecasts, and household inflation readings are perception/expectation survey responses rather than realized CPI or CPIF. Softer household perceptions alongside firmer firm intentions could signify lagged upstream pass-through, margin absorption, or energy-related cost pressure without stronger demand. The release cannot decide between these mechanisms.
+
+6) Measurement and evidential limits
+
+Consumer interviews were conducted 1–16 September; business surveys covered 1–22 September. Household confidence is standardized around a historical mean of 100, and seasonal/standardized indexes can be revised. Forward-looking consumer components did not improve materially. High finished-goods stocks and subdued current service assignments remain obstacles to an overheating interpretation; elevated corporate energy costs can increase selling-price intentions independently of demand. Realized domestic prices, margins, orders and wages are required for confirmation.
+
+C. State Transition & Historical Context
+
+State transition: continuation — broadening cyclical recovery, with an increasingly relevant corporate-pricing constraint.
+
+Context from prior regional live file:
+June's Economic Tendency Indicator had already moved back above its historical average to 101.7, while consumer confidence remained subdued at 93.6. September extends that recovery to 107.1 and brings households back into normal confidence territory, converting an early stabilization signal into a more established cyclical improvement. The recovery nevertheless remains qualified by elevated pricing intentions and still-cautious forward household spending assessments.
+
+4. HF Take — Strategist Layer
+
+Main incremental information: The survey adds cross-sector breadth to the Swedish recovery: confidence is strengthening, construction and manufacturing hiring intentions are firmer, and consumers' assessment of past conditions has normalized. This reduces the urgency of activity support, but the result remains a survey signal rather than hard evidence of excess demand.
+
+Macro mechanism / strategic debate: The relevant Riksbank distinction is between more resilient demand, which could allow cost pass-through, and an upstream energy shock that instead compresses margins. Corporate pricing plans offer an inflation-risk channel, but easing household inflation expectations, high saving intentions, excess manufactured-goods stocks and incomplete service utilization weaken the case for mechanically increasing the rate path. Relative growth is conditionally constructive for SEK and Swedish front-end expectations; no release-specific rate or SEK move was established.
+
+What to verify next: October CPIF and core composition; corporate price plans versus actual transaction prices and profits; subsequent retail/discretionary spending; absorption of finished-goods inventories; realized employment, wages and hiring.
+
+Macro configuration: broadening confidence-led recovery + tentative hiring improvement + elevated firm price plans + backward-looking household optimism + unresolved consumer-price pass-through.
+
+WEDNESDAY 30 SEP 2026
+
+Sweden — Retail Sales MM / Retail Sales YY (Aug)
+Release Date: 30 Sep 2026 | Local Time: 08:00
+Importance: ***
+
+PM FLASH: Real retail volumes rose 0.8% m/m after July's revised -0.1%, and 6.9% y/y versus revised 6.5%; the adjusted level reached a series high.
+
+PM READ-THROUGH: Realized household-goods demand now corroborates improved confidence and an improving consumption trend. Strong annual growth is persuasive but measurement-sensitive; the monthly gain does not establish quarterly acceleration alone.
+
+PM DEBATE & KEY TAKEAWAYS: Professional insight: Breadth extends beyond a single retail category, but petrol-station volumes accelerated exceptionally and durable-goods annual growth moderated. July's favorable revisions improve the base, whereas the missing June monthly observation blocks a verified three-month trend. A change in administrative collection for small firms limits annual-rate comparability. Demand normalization does not yet demonstrate persistent services inflation or monetary-policy overheating.
+
+1. Reuters Data
+
+Retail Sales MM: 0,8% | Prior: -0,2% | Revised: -0,1%
+Retail Sales YY: 6,9% | Prior: 6,2% | Revised: 6,5%
+
+2. Professional Market Commentary
+
+Statistics Sweden (SCB) reported August real retail volume growth of 0.8% m/m and 6.9% y/y; its seasonally and calendar-adjusted index reached the highest recorded level in the series. July's monthly change was revised to -0.1% from -0.2%, and July annual growth to 6.5% from 6.2%.
+
+TT highlighted the record adjusted level and cited SCB statistician Brunilda Sandén. Trading Economics stressed the stronger annual pace and category dispersion. Source reporting pointed to strength in consumables, specialist retail and petrol stations, alongside a deceleration in durable-goods annual growth. These are different emphases within a consistently constructive institutional reading, not opposing economist forecasts.
+
+No independent Tier 1 economist reaction was found. No clean release-specific SEK or Swedish rates response was confirmed; Riksbank monetary-policy minutes were published later on the same morning, impairing attribution of subsequent market moves.
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The August print upgrades the quality of the household-demand recovery because actual inflation-adjusted quantities increased sequentially as well as annually. A +0.8% monthly gain after only a small revised July decline is more compelling than a headline driven solely by favorable base effects. The adjusted series high establishes cumulative progress in retail goods spending, not a record for total consumption or certainty about future growth. Category volatility, an incomplete monthly sequence and the administrative-series caveat limit confidence in the precise underlying pace.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Aggregate level, revisions and near-term momentum
+
+| Real retail measure | Earlier reported | Revised / August |
+|---|---|---|
+| July monthly | -0.2% | -0.1% |
+| July annual | +6.2% | +6.5% |
+| August monthly | — | +0.8% |
+| August annual | — | +6.9% |
+| Adjusted volume index | — | Highest measured historical level |
+
+The July revisions are supportive in both dimensions. Because July's decline was milder than first published, August looks more like a further advance in an improving level than a mechanical rebound from a deep July fall. However, the historical high applies only to this adjusted retail series.
+
+2) Sector breadth and volatility
+
+The following category figures came from secondary coverage, not independently verified SCB detailed tables, and consequently have lower confidence than the official aggregate:
+
+| Category, annual real growth | Previous | August |
+|---|---:|---:|
+| Consumables excluding Systembolaget | +5.4% | +5.6% |
+| Durable goods | +9.0% | +8.4% |
+| Specialized retail excluding state liquor stores | +11.9% | +12.2% |
+| Other non-specialized stores | +6.9% | +7.5% |
+| Petrol stations | +6.1% | +18.8% |
+| Non-specialized stores | +5.3% | +5.0% |
+
+A positive mix across consumables, specialist retailers and petrol stations argues against a one-category recovery. Yet durables still grow quickly but decelerate, so the release does not establish a fresh boom in interest-rate-sensitive discretionary purchases. Petrol-station growth is exceptionally large and potentially volatile; it can magnify the headline without equivalent improvement elsewhere. The exact monthly component contributions were not verified.
+
+3) Monthly path versus annual persistence
+
+The confirmed monthly observations are May -0.2%, July -0.1% (revised), August +0.8%; June's monthly reading was not established in the supplied tape, nor was a verified three-month comparison. Therefore, a robust rolling-momentum acceleration cannot be calculated from the available points. The annual sequence is May +8.0%, June +6.6%, July +6.5% revised, August +6.9%. Several months of high annual real-volume gains reduce the likelihood of August being an isolated bounce, but they do not settle seasonal or measurement effects.
+
+4) Measurement qualification and signal hierarchy
+
+Prior DM research flagged a change to administrative data collection for smaller firms from April, affecting confidence in exceptionally high annual retail readings and comparisons with earlier periods. The robust facts are the direction of August's officially adjusted monthly change, July's reported revisions and the new adjusted index level. Less secure are exact monthly category contributions, the monthly split between durables and consumables, a rolling three-month acceleration and annual comparisons across the changed collection regime. The inferred strengthening in realized goods demand should therefore not be inflated into an economy-wide consumption boom.
+
+5) Consumption and inflation transmission
+
+Positive retail volumes are compatible with improving real purchasing power and a firmer domestic demand floor. They could increase firms' capacity to pass on costs, but the same figures give no direct evidence about aggregate consumption, labor income, persistent domestic services inflation or wage pressure. The policy-relevant distinction remains household-demand normalization versus demand-led consumer inflation.
+
+C. State Transition & Historical Context
+
+State transition: continuation — strengthening realized household demand, with composition and measurement qualifications.
+
+Context from prior regional live file:
+Earlier Swedish retail releases showed a volatile recovery: March rebounded sharply, April stalled, and May's 8.0% annual growth contrasted with a 0.2% monthly decline. August's positive monthly gain and upwardly revised July figures strengthen the evidence that retail demand has moved beyond the earlier stop-start phase. The annual pace remains measurement-sensitive, but the latest volume level provides a firmer domestic-demand baseline.
+
+4. HF Take — Strategist Layer
+
+Main incremental information: Unlike the earlier confidence survey, this is realized real-volume growth. It narrows the risk that weak household-goods demand derails the Swedish recovery; revised July data reinforce rather than negate August's gain.
+
+Macro mechanism / strategic debate: Greater real retail activity can support domestic growth and, conditionally, firms' pricing power. But a retail sales record is not an economy-wide consumption record and cannot establish inflation persistence. Durables decelerated, fuel retail may distort breadth, and annual comparisons retain administrative-series uncertainty. The release can modestly support SEK and relative rate expectations through resilience, but it is a secondary monetary-policy input and no clean standalone FX/rates reaction was observed.
+
+What to verify next: September sales and a complete three-month volume trend; official category-level data; household consumption in national accounts; underlying and services CPIF, earnings, actual employment and disposable income. Continued volume gains alongside stable inflation favor normalization; broadening prices and wages would create a more restrictive policy interpretation.
+
+Macro configuration: stronger realized goods consumption + favorable revisions + broadly positive but uneven sectors + uncertain rolling momentum and annual comparability + no demonstrated overheating.
+
+THURSDAY 1 OCT 2026
+
+Sweden — Swedbank/Silf Manufacturing PMI (Sep)
+Release Date: 1 Oct 2026 | Local Time: 08:30
+Importance: ***
+
+PM FLASH: Manufacturing PMI rose to 58.1 from revised 56.3; new orders reached 59.5, output 60.0 and backlogs 60.4. Input prices accelerated to 77.6.
+
+PM READ-THROUGH: Orders and production provide credible demand-side confirmation of industrial re-acceleration after summer moderation. Supplier delays and seasonally adjusted expectations overstate how confidently the headline maps into quarterly growth.
+
+PM DEBATE & KEY TAKEAWAYS: Debate: Stronger orders, output and backlogs point to genuine demand, but delayed deliveries add mechanical headline support and some forward indicators rise only after seasonal adjustment. High input-cost diffusion could be absorbed in margins or passed into prices. Key takeaways: Domestic orders are the cleanest signal; Q3 PMI still averaged below Q2; track finished-goods absorption and realized price transmission.
+
+1. Reuters Data
+
+PMI Manufacturing Sect: 58,1 | Prior: 56,1 | Revised: 56,3
+
+2. Professional Market Commentary
+
+Swedbank/Silf reported a three-month-high manufacturing PMI, above its long-run average for a fifteenth consecutive month. New orders made the largest positive contribution; current production and backlogs accelerated; domestic and export orders improved. Employment remained expansionary but the diffusion index softened. Longer deliveries also lifted the PMI while potentially reflecting logistical disruption, and input-price inflation intensified.
+
+Swedbank economist Jörgen Kennemar, responsible for the report, characterized September as a clear strengthening of industry aided by a better international environment. His substantive qualification was that persistent higher input costs could compress profits and eventually raise producer and consumer prices. TT emphasized faster factory activity alongside inflation risk; Finwire and Trading Economics highlighted the broad improvement and three-month high. The producing institution supplied the principal economist interpretation; no independent bank-economist response was identified.
+
+No manufacturing-PMI-specific SEK or Swedish rates reaction was independently established.
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+September provides a higher-quality industrial-demand signal than the headline alone because new orders rose sharply and current production improved, while backlogs increased. Domestic new orders are especially persuasive; export orders also expanded but remain less strong. Still, renewed monthly momentum should not be mistaken for a new quarterly acceleration, given Q3's lower average than Q2. Supplier delays, inventory mechanics and divergences between adjusted and unadjusted forward responses reduce precision, while input-cost diffusion creates an inflation-versus-margin uncertainty rather than immediate proof of consumer-price persistence.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Component hierarchy: order-led improvement
+
+Seasonally adjusted diffusion components, Swedbank/Silf:
+
+| Component | Aug | Sep | Change |
+|---|---:|---:|---:|
+| New orders | 55.1 | 59.5 | +4.4 |
+| Production | 59.0 | 60.0 | +1.0 |
+| Employment | 57.5 | 56.3 | -1.2 |
+| Supplier delivery times | 60.4 | 62.7 | +2.3 |
+| Purchased-material inventories | 55.2 | 53.9 | -1.3 |
+| Domestic orders | 55.1 | 58.6 | +3.5 |
+| Export orders | 51.8 | 53.3 | +1.5 |
+| Order backlogs | 57.7 | 60.4 | +2.7 |
+| Input prices | 75.7 | 77.6 | +1.9 |
+| Six-month production plans | 67.8 | 73.2 | +5.4 |
+
+Source: https://mb.cision.com/Main/67/4402963/4296154.pdf
+
+Headline PMI 58.1 compares with a revised August 56.3 (original Reuters prior 56.1) and its historical mean of 54.3. New orders' 4.4-point improvement contributed approximately 1.3 points to the headline through their 30% index weight. Domestic orders advanced to 58.6 from 55.1; export orders to 53.3 from 51.8; backlogs reached 60.4 from 57.7, the highest since January; and production reached 60.0 from 59.0, the highest since October 2025. These contemporaneous changes provide more convincing final-demand evidence than a supply-delay-led PMI gain. Domestic orders show the stronger diffusion; exports are constructive but still less expansionary.
+
+2) Monthly re-acceleration is not a quarterly regime change
+
+The report's revised-history sequence is June 58.1, July 56.0, August 56.3, September 58.1. Q3 averaged approximately 56.8, below Q2's 57.4. September regained June's momentum after softer summer readings, but a durable faster quarterly pace requires October persistence. In the prior live history, June had been reported at 58.3 on then-published Reuters data; the difference is a historical-vintage distinction, not reason to rewrite the previous tape.
+
+3) Supply delays and two inventory concepts
+
+Supplier-delivery diffusion increased to 62.7 from 60.4, adding approximately 0.3 headline index points. Slower deliveries can indicate robust purchases but can equally reflect logistics problems, transport disruption and Middle East uncertainty; the producing institution explicitly warns against treating them as pure demand. Their contribution was materially smaller than new orders' ~1.3 points, so supply effects do not explain most of the improvement.
+
+Purchased-material inventories moved to 53.9 from 55.2. Because this PMI component enters with the opposite sign, its decline slightly lifts the headline. Precautionary purchased-material holdings might indicate supply insurance or preparation for production, whereas the NIER survey's higher balance of excessive finished-goods inventory can indicate production outstripping sales. The two measures refer to different stock categories and cannot be netted or treated as interchangeable. A demand-led recovery should ultimately absorb finished goods as orders convert into shipments.
+
+4) Labor and production intentions: high levels, softer or adjusted momentum
+
+The employment diffusion index declined to 56.3 from 57.5 and subtracted approximately 0.2 points from the headline change; it nonetheless remains above the 50 expansion threshold and its own historical norm. That is decelerating hiring diffusion, not outright industrial retrenchment. Actual industrial payrolls, vacancies and wage measures remain necessary confirmation.
+
+Six-month production plans jumped in seasonally adjusted terms to 73.2 from 67.8, against a historical average of 63.6. Yet the unadjusted plans index was unchanged at 67.2. Export orders and backlogs also increased in seasonally adjusted form while their unadjusted indexes declined. These divergences do not invalidate adjusted month-to-month indicators, but they lower confidence in the exact forward acceleration. Current new orders and production offer firmer evidence because their adjusted and unadjusted directions both improved.
+
+5) Input-cost breadth and alternative transmission channels
+
+Input-price diffusion increased for a second month to 77.6 from 75.7, the highest since June. This is the share/breadth of reported price increases, not a 77.6% inflation rate. The producing institution identified copper, aluminium, steel, electronic components, plastics, chemicals, energy, diesel and transport services. Commodity-price pressure, transportation costs, international supply disruption and possibly SEK weakness were cited as drivers. This is a wider industrial-input cost impulse, not merely a single energy series.
+
+If final demand proves price-sensitive, firms may absorb these costs through margins; stronger orders might instead allow some pass-through to producer prices and eventually consumers. The survey documents cost pressure but neither the amount of final-price increases nor which transmission channel dominates. A Riksbank policy inference requires realized domestic pricing persistence or second-round effects, rather than treating a supplier-driven shock as proof of overheating.
+
+6) Survey method and confidence ranking
+
+Approximately 200 manufacturing purchasing managers answered between 9 and 25 September. The index is a diffusion measure, not a measure of production volumes or industrial growth rates. Routine X-13-ARIMA-SEATS seasonal processing revised August's headline from 56.1 to 56.3. Higher-confidence signals are broader new orders, current output gains, stronger backlog diffusion and persistent input-price breadth. Lower-confidence readings include delivery-time strength, precautionary input inventories and the exact acceleration in exports, backlogs or six-month plans given raw/seasonally-adjusted divergences. No release-driven financial-market repricing is validated.
+
+C. State Transition & Historical Context
+
+State transition: continuation — renewed industrial acceleration after summer moderation, with stronger order quality but persistent supply-cost pressure.
+
+Context from prior regional live file:
+March's PMI at 56.3 and April's rise to 57.2 established a sustained industrial expansion, with June reaching 58.3 on the then-published Reuters figures. September's revised-history reading of 58.1 restores that strong momentum after the July–August slowdown, while the improved order composition provides firmer demand confirmation. The earlier concern about supplier delays and precautionary inventories persists, now reinforced by another increase in input-price diffusion.
+
+4. HF Take — Strategist Layer
+
+Main incremental information: Orders, current production and backlogs provide independent evidence of Swedish industrial recovery after a softer summer. This strengthens the real-activity side of the macro assessment more convincingly than a headline inflated solely by supplier delays; nonetheless the quarterly average remains below Q2.
+
+Macro mechanism / strategic debate: A sustained order cycle could reduce activity-related downside risk and support relative Swedish growth and SEK. Alongside a 77.6 input-price diffusion index, it also limits scope for a purely dovish Riksbank assessment if consumer inflation persistence follows. But a supply-cost squeeze could weaken margins, profitability and future activity without validating consumer inflation; this is why rates and FX conclusions must remain conditional. No actual standalone SEK or rate move was established.
+
+What to verify next: October new orders and production; actual industrial output/order data; persistent export demand; production backlogs versus supplier delays; NIER finished-goods stocks against PMI purchased-material inventories; producer-price and CPIF pass-through; realized jobs versus PMI employment diffusion. Strong orders plus stock absorption would confirm the upswing; higher delays/costs with falling orders or output would undermine it.
+
+Macro configuration: renewed demand-supported manufacturing acceleration + elevated industrial cost inflation + supply/seasonal ambiguities + unresolved margins-versus-consumer-prices channel.
+
+D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The policy-relevant communications first public during the 27 September–3 October window were the minutes of the 23 September monetary-policy meeting (published 30 September, 09:30 CEST) and Deputy Governor Per Jansson’s London remarks (30 September, published 09:35). The 24 September decision is pre-window context: the Riksbank held the policy rate at 1.75%, effective 30 September, but revised its projected rate path upward as growth and inflation risks strengthened. The official September path implied average policy rates of 1.85% in Q4 2026, 2.07% in Q1 2027 and 2.24% in Q2 2027, not a fixed schedule of hikes. The in-window clarification was that members broadly favored normalization, with material differences over November timing and the destination. A Danske Bank analysis published 30 September judged the minutes more hawkish across the Board but broadly in line with expectations, and retained its own three-hike Nov/Feb/Mar forecast; that forecast is a strategist view, not committee guidance.
+
+Riksbank Executive Board — September meeting minutes, made public 30 Sep 2026 (meeting held 23 Sep)
+Importance: ****
+
+Key policy signal:
+The published minutes confirm the 1.75% hold but expose a more hawkish reaction function than a static policy rate suggests. Thedéen and Anna Seim, as contemporaneously interpreted by Danske Bank, explicitly favored a November hike. Other members broadly supported an upward path including one increase during 2026; Göran Hjelm opposed the full projected extension of up to three increases. The core rationale was stronger and broader demand against persistent energy/supply disruptions and SEK depreciation, increasing the risk of domestically transmitted inflation. Low initial inflation and uncertainty still explain the current hold. Do not interpret the different positions as unanimous endorsement of a particular November move.
+
+Representative quote:
+“Once again, the economy appears to be surprisingly resilient.” — Erik Thedéen, excerpt from the minutes relayed by Newsquawk on 30 September.
+
+Incremental reaction function:
+Policy debate shifts from whether normalization may be needed to how soon and how far. Two members reportedly pressed for a November increase, but the extent of the path was contested. Thedéen warned that prolonged oil-related prices raise the probability of broader inflation; Hjelm acknowledged greater real-economy resilience yet differed on the degree of rate increases. The available full official minutes were linked by the Riksbank; individual split details here follow dated professional reporting, not an independent transcription of every Board intervention.
+
+Per Jansson — Deputy Governor, London presentation, 30 Sep 2026
+Importance: ***
+
+Key policy signal:
+Jansson described the economic recovery as strong and broad-based, flagged overseas supply bottlenecks, rising oil-product prices and the weaker krona, and judged the risk of demand-driven inflation higher than in August. He supported revising the projected policy-rate path materially higher, while maintaining that moderate initial inflation and substantial uncertainty justified the September hold. He characterized the projection as normalization as activity improves rather than aggressive tightening. His intervention explicitly separates the need for a higher eventual rate from the question of hiking at the preceding meeting.
+
+Representative quote:
+“the risk of a demand-driven rise in inflation had increased since August”
+
+Incremental reaction function:
+Jansson validates stronger growth and imported-cost transmission as reasons to prepare tightening, but retains optionality over immediate implementation. The key flip conditions are continued real-demand strength, inflation diffusion beyond energy into underlying CPIF/pricing plans, and the SEK exchange-rate channel; softer final demand or limited transmission would argue for patience despite the upward published path.
+
+
+Bottom line — central bank tape
+
+Hawkish hold / normalization bias, with November a live and explicitly supported option among key members but not a unanimous commitment. The July–September question of whether inflation risks require tightening has moved toward how fast and how far the Riksbank should normalize. The next decision was scheduled for 4 November following the 3 November meeting. The subsequent 8 October Thedéen intervention and other post-window communications are excluded from the historical state. Thedéen’s 30 September supervision remarks and the 1 October EUREP liquidity item are not interpreted as rate guidance.
+
+Source anchors (as available during the window):
+- Riksbank, minutes published 30 September: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/minutes-of-the-monetary-policy-meeting-on-23-september-2026/
+- Riksbank, September policy-rate forecast (announced 24 September, pre-window context): https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/policy-rate-unchanged-at-16.75-per-cent
+- Riksbank, Jansson's 30 September remarks: https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2026/per-jansson-in-london-on-the-economic-situation/
+- Danske Bank, contemporary Board interpretation, 30 September: https://www.fxstreet.com/analysis/september-2026-riksbank-minutes-all-governors-moved-in-a-more-hawkish-direction-202609300845
+- Newsquawk, 30 September minutes headline and named comments: https://www.newsquawk.com/headlines/riksbank-minutes-sep-
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction:
+Sweden’s stronger retail demand, industrial orders and corporate price intentions validate the Riksbank’s more hawkish projected path and the case for normalization; however, supplier delays, unwanted finished-goods stocks, seasonally sensitive PMI components and lower household inflation expectations leave the scale of genuine final demand and pass-through disputed. Thedéen/Seim’s November preference contrasts with Jansson’s preference for exploiting initial inflation headroom and Hjelm’s resistance to the full path.
+
+Why it matters:
+The relative-rate support potentially available to SEK depends on whether supply-led costs develop into durable underlying inflation without undermining household demand or factory margins.
+
+Implication:
+Retain a conditional Riksbank-hawkish, growth-positive interpretation, but distinguish November timing from a higher terminal destination. Underlying CPIF, domestic-price pass-through, inventories, labor income and the EUR–SEK rate differential are the tests.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+*** Sweden — Swedbank/Silf Manufacturing PMI (1 OCT 2026)
+Why it matters: Headline 58.1, new orders 59.5, production 60.0 and backlogs 60.4 give the strongest independent evidence of factory-demand acceleration; supplier delays, seasonal-adjustment divergences, excess finished goods and input prices at 77.6 qualify both activity and inflation inferences.
+
+*** Sweden — Economic Tendency Survey / Consumer Confidence (29 SEP 2026)
+Why it matters: Fifth straight sentiment improvement and broad corporate optimism coincide with selling-price intentions twice their long-run mean. Consumer confidence returns to normal primarily on retrospective assessments; forward spending, inventories and price transmission require confirmation.
+
+*** Sweden — Retail Sales MM / Retail Sales YY (30 SEP 2026)
+Why it matters: Real volumes +0.8% m/m and +6.9% y/y, plus upward prior revisions, confirm realized household-demand recovery. Category volatility, a historical administrative-data change and missing three-month comparisons cap the strength of the consumption-boom inference.
+
+G. RED TEAM QUESTIONS
+
+1. Would September manufacturing acceleration still look demand-led without the supplier-delivery uplift and adjustment-sensitive export, backlog and production-plan series?
+
+2. Do stronger domestic orders and real retail volumes translate into final sales and NIER finished-goods inventory absorption, or into premature/precautionary production?
+
+3. Are corporate price intentions (+22 versus +11 norm) and PMI input costs (77.6) transmitted to producer prices, underlying CPIF and wages, or predominantly to lower industrial margins?
+
+4. Do the minutes establish a Board-wide November hiking commitment, or does Jansson’s wait-for-evidence logic and Hjelm’s objection to the full path imply meaningful timing/terminal-rate dispersion?
+
+5. What combination of underlying CPIF persistence, SEK depreciation and actual domestic-demand data would make the November case decisively stronger than a measured hold?
+
+6. Could continued weakness in forward-looking household spending intentions or realized employment invalidate the positive industrial/retail regime even with high survey production plans?
+
+7. If energy-price pressure moderates without underlying CPI transmission, would a still-expanding Swedish economy warrant normalization at the Riksbank’s projected speed?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+
+Pair convention: EUR/SEK (lower pair = stronger SEK). Across the 27 September–3 October window, the publicly visible institutional view favored gradual SEK appreciation versus EUR over the ensuing quarter, but with modest conviction about timing. The most comparable end-2026 / approximately three-month targets available before the window and still in force were ING 10.90 (September FX Talking, three-month), BNP Paribas Wealth Management 11.00 (September, three-month), UBS 11.00 (reaffirmed 25 September for December), and KBC 11.20 (18 September vintage, Q4). These four targets define a selected public-bank range, not a statistical Reuters consensus or an exhaustive broker survey.
+
+The 2 October ECB reference was EUR/SEK 11.2900, compared with 11.3205 on 28 September and 11.3310 on 30 September. Spot weakened SEK modestly into midweek and then retraced almost all of that move, finishing close to the prior Friday's 11.2900. At the window close spot remained ABOVE the 10.90–11.20 target range (a weaker SEK than the forecasts imply); reaching 11.00 would require approximately 2.6% SEK appreciation against EUR on the pair convention. This was prospective medium-term upside, not verified immediate release-specific FX repricing or an independently confirmed positioning squeeze.
+
+No verified in-window change to those four bank targets was found. The notable published forecast revisions were pre-window: UBS had lifted its December target to 11.00 from 10.50 on 26 August as low yield and global rate differentials became more binding, and BNP Paribas revised its three-month target to 11.00 in September. UBS reaffirmed its forecast on 25 September. Distinguish these forecast changes from the 28 September–2 October spot round trip. Contemporary conviction was SEK-positive at the forecast horizon but tactically guarded on energy prices, low SEK carry and global yields.
+
+Public-bank end-Q4 2026 / approximately 3M range: EUR/SEK 10.90–11.20 (ING, BNP Paribas Wealth Management, UBS, KBC; selected public sample, not a formal consensus survey).
+Constructive SEK cluster: EUR/SEK 10.90–11.00 (ING 3M 10.90; BNP Paribas 3M 11.00; UBS December 11.00).
+More cautious / tactical view: EUR/SEK 11.05–11.20 (ING one-month 11.05; KBC Q4 11.20; different horizons explicitly noted).
+Bias at window close: Mildly constructive SEK over Q4, but vulnerable to global rate/energy risk; spot 11.2900 above all selected end-Q4 / three-month targets.
+
+What changed through the data window
+
+The starting bank forecasts already combined an improving Swedish domestic outlook with negative rate/carry and energy-sensitive global conditions. Sweden's 24 September Riksbank hold at 1.75% and public projections framed the backdrop, but are not introduced as a newly supplied central-bank speaker tape. UBS's 25 September reaffirmation anticipated an unchanged Riksbank policy rate into year-end alongside potentially higher ECB rates, with low SEK carry a relative disadvantage. ING's September FX outlook expected eventual EUR/SEK declines but emphasized Middle East oil volatility and the relative pricing of Riksbank/ECB tightening. KBC's higher 11.20 Q4 target illustrates more limited near-term SEK upside.
+
+As Swedish confidence (29 September), real retail volumes (30 September) and new industrial orders (1 October) confirmed a domestic recovery, the EUR/SEK reference rate still moved from 11.3205 on Monday to 11.3310 midweek before closing at 11.2900 on Friday. The positive Swedish release tape did not produce a verified standalone FX response. The appropriate inference is that domestic growth evidence reinforced the fundamental constructive argument without causing a demonstrated in-window upgrade to public bank targets or a clean sustained spot trend.
+
+Main consensus drivers
+
+Carry / relative policy: The Riksbank's 1.75% hold and SEK's lower yield limited tactical support; expectations for ECB/Fed tightening and the relative rate differential mattered as much as any potential later Riksbank hike.
+
+Global rates / risk beta: SEK is sensitive to worldwide yield increases and risk aversion; a protracted higher-yield environment can delay the currency's expected normalization even with improving domestic activity.
+
+Energy / imported costs: Oil, transport and input-price shocks can support Swedish rate expectations if transmitted into persistent prices but damage industrial margins and risk appetite if supply-driven.
+
+Domestic demand / relative growth: Better retail sales and factory orders, plus European industrial spillovers, supported the longer-horizon SEK-positive forecast, subject to inventory absorption and realized employment.
+
+Where consensus could be wrong
+
+Consensus too bullish SEK: High global yields or energy-related supply stress persist, the ECB remains relatively more hawkish than the Riksbank, and new Swedish orders fail to translate into final sales or margins; EUR/SEK stays above the forecast band.
+
+Consensus too cautious SEK: October industrial orders and realized demand remain strong, inventory excess diminishes, underlying inflation permits credible domestic policy restraint and global rate/energy pressure abates; EUR/SEK converges more quickly toward 11.00 or below.
+
+Key falsification: Persistent order-to-output and inventory normalization, together with Swedish underlying inflation and the ECB–Riksbank expected rate spread, must validate the SEK recovery after controlling for energy-driven changes in global risk appetite.
+
+Public point-in-time source anchors:
+- ING, G10 FX Talking, 7 September 2026 (three-month EUR/SEK 10.90, one-month 11.05): https://think.ing.com/articles/g10-fx-talking-september-2026/
+- ING, Riksbank preview, 18 September 2026 (rate-risk and revised profile discussion): https://think.ing.com/articles/riksbank-preview-hold-now-hike-in-november/
+- BNP Paribas Wealth Management, Currencies Focus, September 2026 (3M EUR/SEK 11.00; 12M 10.80): https://wealthmanagement.bnpparibas/en/insights/market-strategy/currencies-focus-september-2026.html
+- UBS, reiterated 25 September 2026, reported by Aktiespararna / Finwire (December EUR/SEK 11.00): https://www.aktiespararna.se/nyheter/ubs-tror-pa-starkare-krona
+- UBS revision dated 26 August 2026, relayed by Investing.com (December 11.00 from 10.50): https://uk.investing.com/news/stock-market-news/ubs-raises-eursek-price-target-on-lowyielding-krona-concerns-93CH-4847295
+- KBC, Economic Perspectives September 2026, figures as of 18 September (Q4 EUR/SEK 11.20): https://www.kbc.com/en/economics/publications/economic-perspectives-september-2026.html?zone=topnav
+- Riksbank, 24 September policy decision (policy rate 1.75% from 30 September; historical backdrop only): https://www.riksbank.se/en-gb/monetary-policy/monetary-policy-report/2026/monetary-policy-decision-september-2026/
+- ECB, euro reference rates 28 September (EUR/SEK 11.3205): https://www.ecb.europa.eu/stats/shared/pdf/eurofxref.pdf
+- EUR-Lex / ECB official rate, 30 September (11.3310): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ%3AC_202604617
+- EUR-Lex / ECB official rate, 2 October (11.2900; publication 5 October is retrospective documentation of the 2 October fix, not a post-window forecast): https://eur-lex.europa.eu/eli/C/2026/5149/oj/eng
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Broadening domestic and manufacturing recovery / high input-price risk / Riksbank normalization bias.
+- Change: Retail +0.8% m/m and factory orders 59.5 upgrade activity; 30 Sep minutes clarify a hawkish policy-path shift despite the 1.75% hold.
+
+Scoreboard
+- Growth: + | NIER 107.1; real retail +0.8%; PMI 58.1, orders 59.5.
+- Labor: ~ | Factory hiring diffusion 56.3; no realized labor confirmation.
+- Inflation: - | Business price plans +22 versus +11 norm; input prices 77.6; CPIF transmission unresolved.
+- Financial Conditions: ~ | Cost/margin pressure; no verified release-specific repricing.
+- Policy Constraint: - | Higher Riksbank path; November live, committee timing/destination split.
+
+Major Release Tape
+- *** Manufacturing PMI (1 Oct) — 58.1 versus 56.3 revised; orders 59.5, output 60.0, backlogs 60.4; delays and inventories qualify.
+- *** NIER Tendency / Consumers (29 Sep) — sentiment 107.1; consumers 102.2; price plans twice normal; forward households cautious.
+- *** Retail Sales (30 Sep) — +0.8% m/m, +6.9% y/y; realized recovery, category/administrative caveats.
+
+Minor Tape
+- Minor: None outside three *** publication blocks.
+
+Central Bank
+- Bias: Hawkish hold at 1.75%; upward policy-rate forecast with hikes expected during 2026 if outlook holds.
+- Reaction function: Thedéen/Seim favor November; Jansson supports normalization but justified September patience; Hjelm questions full projected path.
+- Key tape: Minutes 30 Sep, Jansson London 30 Sep; underlying CPIF and demand-vs-supply inflation determine speed.
+
+Signal Tension
+- Tension: Real demand/price plans support hikes; cost shock, unwanted inventories and low starting inflation support optionality.
+- What resolves it: CPIF transmission, order-to-sales, industrial margins and hard labor.
+
+Key Releases
+1. Manufacturing PMI — orders vs supplier/seasonal distortion.
+2. NIER Tendency / Consumers — price plans vs consumer caution.
+3. Retail Sales — breadth and persistence of real consumption.
+
+Red Team
+1. Does the factory signal survive discounting delays/adjustment-sensitive components?
+2. Do price plans reach underlying CPIF or compress margins?
+3. Do minutes imply a November consensus or genuine timing/path dispersion?
+
+FX Consensus
+- Consensus: Gradual SEK appreciation against EUR; cautious tactical positioning.
+- Public-bank Q4/3M range: EUR/SEK 10.90–11.20 (four-bank public sample).
+- Constructive cluster: 10.90–11.00.
+- Cautious / tactical: 11.05–11.20 (mixed short/Q4 horizons).
+- At window close: ECB reference 11.2900 on 2 Oct, above targets; no verified in-window target revision.
+- Drivers: Relative carry and rate paths; global yields/risk; energy costs; Swedish demand.
+- Consensus wrong if: Supply/ECB-rate pressure endures and Swedish orders fail; stronger SEK if inflation and demand validate Riksbank restraint as global risk fades.
+
+<<SEK_WEEK_END>>
 
 
 
