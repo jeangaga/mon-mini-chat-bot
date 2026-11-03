@@ -1,4 +1,569 @@
 <<AUD_WEEK_BEGIN>>
+DATA WINDOW: 18 October 2026 to 31 October 2026
+
+A. AUD WEEK — MACRO SYNTHESIS
+
+Australia entered this window with an inflation-constrained, increasingly uneven growth configuration: September private-sector activity still expanded at a slowing pace, while price pressure and the 4.60% policy rate were already weighing on demand. October's flash PMI then marked a deteraioration in near-term private output, with the composite falling from 51.3 to 47.7 as services joined manufacturing in contraction. This is a meaningful loss of the services growth cushion, not proof of an economy-wide GDP contraction: service new business and employment were still rising, and backlogs accumulated. No new official labor-market release appears in this window; service-sector survey hiring is not evidence of an economy-wide labor recovery. The preceding month's labor backdrop, where referenced in the validated live tape, remains carry-over context rather than a new observation.
+
+Inflation remained the binding constraint. September headline CPI reached 4.3% y/y on a large fuel impulse, while Q3 trimmed mean rose 1.0% q/q, above the RBA's earlier 0.8% projection but broadly matching private forecasts. Services inflation of 4.1% and non-tradables of 4.5% warrant concern, yet a slower monthly weighted median (3.4% y/y), easing rents/new-dwelling inflation and quarterly producer-price moderation resist a generalized reacceleration diagnosis. Q3 PPI held at 3.6% y/y as construction and indexed services costs persisted, even as petroleum/manufacturing prices fell. Export prices +1.4% versus import prices -1.1% q/q improved merchandise relative prices, but lagged LNG contracts and a September fuel rebound weaken its Q4 extrapolation. State transition: private-output deterioration with confirmation of an already material domestic inflation constraint; the tension sharpened, rather than resolving into either unambiguous stagflation or broad disinflation. Contemporary RBA-related commentary raised near-term hike expectations, but without a separately validated speaker tape no additional committee reaction-function change is asserted.
+
+B. AUD MACRO SIGNAL SCOREBOARD
+
+Growth: -
+Supporting evidence: October flash composite output dropped to 47.7 from 51.3; services activity fell to 47.8, and manufacturing output remained at 46.5. This is deterioration in surveyed private output from September's slower expansion, not a measured GDP contraction. Positive service new business, employment and unusually strong backlogs make duration and demand breadth uncertain. Q3 merchandise relative-price relief is a possible nominal-income offset, not proof of a volume recovery.
+
+Labor: ~
+Supporting evidence: No fresh official labor-force, wage or employment release was supplied for 18–31 October. October PMI reported rising service employment and accumulating backlogs despite contracting current output; manufacturing hiring was not an offsetting hard-data recovery. Earlier labor loosening mentioned in the validated current tape is carry-over context, not this window's new labor evidence. Neither stability nor a reversal can be established from absence of official data.
+
+Inflation: -
+Supporting evidence: September CPI rose to 4.3% y/y, quarterly trimmed mean to 1.0% q/q (versus the RBA's prior 0.8% expectation), services to 4.1% y/y, with continuing non-tradables inflation. PPI still increased 3.6% y/y despite a quarterly slowdown to 1.1%; wage- and fee-indexed services/construction costs persisted. Petrol, travel and fiscal effects inflated some readings; monthly weighted median eased to 3.4%, housing inflation cooled and Q3 oil-related producer prices fell. The concern is persistent underlying inflation, not demonstrated acceleration in every component.
+
+Financial Conditions: -
+Supporting evidence: The established 4.60% cash rate and reported borrowing-cost/confidence weakness are consistent with restrictive domestic financial conditions; the PMI's output decline and housing discounting suggest demand sensitivity. The CPI-related tightening repricing raised the expected policy burden, although no independently validated release-isolated ACGB/OIS move was available. Q3 export/import relative-price improvement partly offsets external-income pressure; it does not eliminate restrictive domestic credit or renewed fuel-related real-income risks.
+
+Policy Constraint: -
+Supporting evidence: An RBA-trimmed-mean forecast miss, sticky services, stronger October survey selling prices and construction/services producer costs preserve a material tightening constraint. Counterweights are contractionary private output, subdued demand, easing monthly weighted median and dwellings inflation, and one-off July wage/fee indexation. Institutional November-hike calls in the CPI archive reflect both prices and contemporaneous central-bank communication; no stand-alone validated CB speaker tape was supplied, so a precise committee commitment, hike probability or terminal-rate judgment is not asserted.
+
+C. FULL RELEASE ARCHIVE
+
+FRIDAY 23 OCTOBER 2026
+
+AUSTRALIA — S&P GLOBAL MANUFACTURING / SERVICES / COMPOSITE FLASH PMI (OCT)
+Release Date: 23 Oct 2026 | Local Time: 09:00 AEDT (Reuters feed: 00:00)
+Importance: ***
+
+PM FLASH: Composite output dropped to 47.7 from 51.3, its lowest since March and first contraction in five months. Services activity fell to 47.8 from 51.9; manufacturing PMI remained below 50 at 49.7 versus 49.6, and factory output was weaker at 46.5. Input and selling-price inflation both intensified. No consensus poll was supplied.
+PM READ-THROUGH: The slowdown extends September's manufacturing weakness decisively into services. Yet services new business and employment still rose, backlogs accumulated and exports stabilized, qualifying the headline growth shock. Price signals have not softened with activity.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Weaker output suggests restrictive financing and inflation are suppressing demand, whereas faster selling prices maintain an inflation constraint; neither observation alone resolves policy timing.
+Key takeaways: Supplier delays can buoy the headline factory PMI even while output contracts; the next inflation release is more discriminating than this survey for near-term policy.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+AUMPMI=ECI;23 oct;00:00;High;S&P Global Mfg PMI Flash;Oct;49,7;49,6;;;
+AUSPMI=ECI;23 oct;00:00;High;S&P Global Svs PMI Flash;Oct;47,8;51,9;;;
+AUCPMI=ECI;23 oct;00:00;High;S&P Global Comp PMI Flash;Oct;47,7;51,3;;;
+
+No Reuters poll was supplied for these rows. No Reuters surprise was calculated.
+
+2. Professional Market Commentary
+
+The 23 October official flash survey showed Australia’s first private-sector output contraction since May and a fresh services downturn alongside continued manufacturing weakness. The official release attributes the demand slowdown in respondent comments to weak confidence, higher borrowing costs and inflation. Input inflation accelerated to its fastest pace since May, and selling-price inflation strengthened for a second month across both sectors. The release was compiled from approximately 400 manufacturing and 400 services respondents and surveyed firms during 12–21 October.
+
+Jingyi Pan (Economics Associate Director, S&P Global Market Intelligence; official release, 23 October) emphasized services joining manufacturing in contraction and warned that the renewed acceleration in input and selling prices could prolong elevated inflation. This is a documented interpretation from the survey producer, not an independent bank-economist forecast. Pan's earlier 6 October analysis of September data had already identified a combination of weakening demand, costly inputs and signs that previous rate rises were restraining activity. October is an intensification of that tension, not a newly discovered mechanism.
+
+James Glynn (Dow Jones Newswires, 22 October US time, contemporaneous with the Australian release) independently reported the abrupt composite deterioration and emphasized that lower activity was not cooling firms' price increases. His wire connected the survey to an already worsening inflation outlook and speculation about another rate increase; it did not identify an independent new economist model or a PMI-specific market repricing. A separate Dow Jones Asia PMI report by Fabiana Negrin Ochoa and James Glynn (23 October) likewise treated Australian output contraction and interest-rate/price pressures as the central facts.
+
+Eamonn Sheridan (investingLive, 22 October 22:16 UTC) characterized the mix as stagflationary for market desks: weaker output complicates further tightening, whereas faster price increases limit the case for easing. He highlighted energy and shipping costs as practical channels and falling confidence as an investment and hiring risk. This is a journalist's market framing rather than an independently estimated central-bank reaction function. David Llewellyn-Smith (MacroBusiness/MB Fund, 22 October) used a sharp contraction-oriented headline, but the accessible body reproduced official survey material; his paywalled analysis cannot be attributed as a separate substantive view.
+
+Policy context is distinct from PMI-specific commentary. Ryan Wells, Illiana Jain and Elliot Clarke (Westpac IQ, 23 October) focused on Deputy Governor Andrew Hauser's 21 October inflation-risk remarks and the forthcoming Q3 CPI. They reported November-hike pricing shifting from roughly 20% the previous week to approximately 50/50, and expected a 25bp November increase if inflation was around their forecast of 1.3% q/q headline and 0.9% q/q trimmed mean. Their note did not analyze the flash PMI as a decisive new signal. It is therefore not evidence that a bank upgraded its rate view because of this release.
+
+Market attribution remains weak. Secondary FX-desk previews reported AUD/USD around 0.7017–0.7020 during the broader post-publication period, against simultaneous global risk and earlier domestic policy news. No release-isolated AUD, Australian government bond or overnight-indexed-swap move was independently established. Reported November hike probabilities in those previews differed by timing and source; they are not treated as an identified PMI shock or a validated continuous pricing series. No distinct independent economist or strategist interpretation of this particular flash release is established in the accessible release-window material; the documented contrast is among survey analysis, financial journalism and the separate institutional policy backdrop, rather than a verified disagreement among banks.
+
+Source anchors (contemporaneous unless indicated):
+- S&P Global Flash Australia PMI, embargoed 23 Oct 2026, 09:00 AEDT: https://www.pmi.spglobal.com/Public/Home/PressRelease/1c95939d9500471b89c03f98a9e49550
+- Dow Jones Newswires / James Glynn, published 22 Oct 2026 US time: https://uk.marketscreener.com/news/australian-private-sector-business-activity-stall-in-october-ce785cdede88f321
+- Dow Jones / Fabiana Negrin Ochoa and James Glynn, 23 Oct 2026: https://www.marketscreener.com/news/asia-flash-pmis-diverge-as-rates-inflation-shape-private-sector-activity-ce785cded088f026
+- investingLive / Eamonn Sheridan: https://investinglive.com/news/australia-flash-pmi-private-sector-shrinks-for-first-time-in-five-months-as-prices-rise/
+- Westpac IQ / Ryan Wells, Illiana Jain and Elliot Clarke, 23 Oct 2026: https://www.westpaciq.com.au/economics/2026/10/cliff-notes-23-oct-2026/
+- S&P Global / Jingyi Pan, 6 Oct 2026, September historical context: https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/australia-pmi-points-to-mix-of-elevated-inflation-and-softer-growth-hinting-at-cautious-rate-setting
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The dominant new information is that a manufacturing-led private-sector slowdown has become a two-sector output contraction. The composite output index fell by 3.6 points to 47.7, and services activity fell by 4.1 points to 47.8; those movements matter more than the marginal 0.1-point rise in the headline manufacturing PMI. Manufacturing production itself remained firmly contractionary at 46.5, only marginally improved from 46.2 in September. Services had been the offset to depressed factory production; that offset disappeared in the October flash survey. The survey thus weakens confidence in a sustained near-term private-sector output expansion, but a diffusion index cannot be mapped mechanically into a quarterly GDP growth rate.
+
+The second, policy-relevant result is that weaker output has not yet produced a clear easing in business prices. The cost impulse appears to be materially supply- and energy-related; respondent evidence includes shipping, commodity, energy and wage costs, plus lengthening manufacturing supplier delivery times. Output-price inflation also rose across goods and services. This combination creates a genuine near-term growth/inflation tension, but the survey does not provide numeric price sub-indices, CPI category contributions or an estimated pass-through coefficient. The price evidence should be treated as a directional warning, not a numerical core-inflation forecast.
+
+B. Detailed Evidence & Economic Mechanisms
+
+Output indicators and what they measure:
+
+| Index (seasonally adjusted) | September | October flash | Monthly index change | Reading |
+|---|---:|---:|---:|---|
+| Composite Output | 51.3 | 47.7 | -3.6 | First contraction in five months; lowest since March |
+| Services Business Activity | 51.9 | 47.8 | -4.1 | Services output turns contractionary |
+| Manufacturing headline PMI | 49.6 | 49.7 | +0.1 | Second month marginally below 50 |
+| Manufacturing Output | 46.2 | 46.5 | +0.3 | Factory production still contracting materially |
+
+The manufacturing distinction is structural. The headline manufacturing PMI is a weighted combination of new orders (30%), output (25%), employment (20%), supplier delivery times (15%, inverted) and stocks of purchases (10%). It is not a pure activity measure. Longer supplier delivery times can support that index even when supply chains are disrupted and orders are falling. The composite instead combines manufacturing output with services business activity using value-added weights. Accordingly, the slight factory headline improvement cannot be read as offsetting the much larger collapse in service output; nor is the composite a simple average of the two headline sector PMI measures.
+
+Demand versus execution and capacity. Overall new-order growth slowed to approximately neutral, rather than shifting into a reported broad collapse. Goods orders contracted faster than in September, while services new business still expanded, albeit more slowly. Export orders were broadly stable, and manufacturers reported a less severe contraction in export orders. This means the sharp services activity decline and the new-business reading are not identical: firms can report lower current output alongside positive but slowing incoming service work. Changes in project execution, capacity and existing work are plausible mechanisms, not separately quantified causes established by the release.
+
+The rise in aggregate work backlogs to an 18-month-high pace is a critical counter-signal to a straightforward demand-collapse reading. Firms hired additional staff overall, entirely in services, after service providers reduced headcount late in Q3. The official account links the renewed hiring to coping with outstanding workloads. Higher backlogs and selective hiring can reflect earlier order accumulation, operational constraints or less efficient fulfillment; they do not independently prove that final demand is accelerating. A durable deterioration would become more convincing if positive service new business rolled into contraction, backlogs then started unwinding and employment stalled. Conversely, continued backlogs alongside recovering new orders would support the case for a temporary output disturbance.
+
+Cost shock, delivery disruption and margin transmission. Input-cost inflation accelerated to its fastest pace since May 2026, with manufacturers registering stronger cost pressure than services. Higher energy, oil-related, shipping, commodity and labor expenses are cited in qualitative responses. Supplier lead times lengthened further despite declining factory new orders and purchasing activity. That pairing is more consistent with supply-side friction than with classic overheating from buoyant factory demand. Prices charged to customers rose at a faster rate for a second consecutive month, and the acceleration was described as broad-based. This suggests some pass-through, but not its scale: without quantitative output-price sub-index levels, margins, or output-price changes by product, the survey cannot establish full transmission to consumer inflation. Profit margins could still be compressed if selling prices lag input costs.
+
+Confidence, survey construction and the signal horizon. Twelve-month output expectations remained positive, consistent with firms still planning future expansion, but optimism fell to its lowest level since June. The survey was conducted 12–21 October and used approximately 80–90% of eventual responses. The official producer reports historical average flash-final differences of roughly 0.1 index points for composite, services and manufacturing headline readings, with average absolute differences of approximately 0.5, 0.6 and 0.3 points respectively. Those averages do not guarantee a particular October revision, but the composite's 3.6-point decline is substantially larger than a typical flash-final adjustment. The PMI measures month-to-month diffusion of responses, not output volume, employment headcounts or annual price changes. Hard indicators and final survey details remain necessary before projecting an economy-wide regime change.
+
+The policy transmission issue is not binary. The pre-existing 4.60% cash rate, higher reported borrowing costs and weaker new demand provide a plausible indication that financial restriction is biting. At the same time, persistent cost pass-through could limit the extent to which weaker demand quickly relieves inflation. The survey cannot distinguish what proportion of slower activity is attributable to domestic interest rates, energy purchasing-power losses, supply disruptions or ordinary survey volatility. Moreover, stronger service-sector staffing in October gives only a partial and lagging labor-market signal, not a renewed wage-pressure diagnosis. The decisive separation requires measured consumer inflation, wages, service-sector prices and subsequent orders/output data.
+
+State transition: deterioration — the September manufacturing-led slowdown spreads to services and pulls the composite into contraction; positive service new business, service hiring and accumulating backlogs qualify the breadth of demand weakness, while renewed business-price acceleration preserves the inflation constraint.
+
+Context from prior regional live file: September composite activity had slowed to 51.3 from earlier stronger readings, with manufacturing production already contracting and services still expanding at 51.9. October shifts services below 50 and compounds the factory weakness, turning a two-speed slowdown into a broad output contraction. Persistent high input and selling-price pressures mean the growth deterioration has not yet become a clear disinflation signal.
+
+4. HF Take — Strategist Layer
+
+What changed is not a further marginal deterioration in factories: it is the loss of the services cushion, which was sustaining the composite during September's manufacturing contraction. That is a meaningful negative local update to near-term Australian private-sector growth. However, the rise in services employment and backlogs, continuing service new-business growth and stabilization in exports create a real alternative hypothesis: some of the output loss may reflect execution and supply bottlenecks rather than a synchronized collapse in new final demand. The distinction matters for whether Q4 slowing persists or reverses as existing work is cleared.
+
+Why it matters for the rates/FX decision is the failure of the growth shock to deliver corresponding disinflation. The survey provides an argument for caution about additional tightening through demand and confidence, but simultaneously warns that businesses are raising selling prices despite weaker output. A 4.60% cash rate and the contemporary hawkish reassessment following the 21 October policy remarks make this a genuine reaction-function tension. The release alone does not warrant a mechanical change in a November decision probability, a specific Australian front-end yield call or a directional AUD trade. As of the release, the upcoming Q3/September CPI is the more decisive catalyst: strong underlying inflation would elevate the price-persistence side of the trade-off; weaker underlying momentum alongside continued demand softness would strengthen the case for waiting. This conditional assessment does not incorporate later CPI outcomes or the 3 November policy decision.
+
+What to verify next: (1) quarterly and September monthly headline versus trimmed-mean/weighted-median CPI, with special attention to services and energy; (2) final services/composite PMIs and whether service new business turns negative; (3) whether backlogs and employment stay high or unwind as orders weaken; (4) factory supplier delays, purchasing and output-price inflation to distinguish supply pressure from demand; (5) actual retail spending, employment and wage growth to test the asserted rate-transmission mechanism.
+
+Macro configuration: services-led output reversal + continuing factory contraction + near-neutral aggregate new orders + positive service hiring and unusually high backlogs + supply-influenced price re-acceleration + a conditional inflation-versus-activity policy trade-off.
+
+WEDNESDAY 28 OCTOBER 2026
+
+AUSTRALIA — CONSUMER PRICE INDEX, SEPTEMBER 2026 / SEPTEMBER QUARTER 2026 (MONTHLY CPI, QUARTERLY CPI AND UNDERLYING MEASURES)
+Release Date: 28 Oct 2026 | Local Time: 11:30 AEDT (Reuters feed: 01:30)
+Importance: ****
+
+PM FLASH: September headline CPI increased 0.8% m/m in original terms and 4.3% y/y (August: 0.4% and 4.0%). Q3 headline CPI rose 1.3% q/q; quarterly trimmed mean rose 1.0% q/q and 3.7% y/y, exceeding the central bank's prior 0.8% q/q projection but broadly matching private forecasts. Monthly trimmed mean was 0.3% m/m and 3.6% y/y; monthly weighted median eased to 3.4% y/y. Fuel (+23.6% y/y) led the headline acceleration, while services inflation remained 4.1% y/y.
+PM READ-THROUGH: The realization of firm quarterly underlying inflation strengthens the price-persistence side of the 23 October PMI's output-versus-prices tension. This is primarily a miss against the central bank's inflation trajectory, not a broad market-consensus surprise; underlying monthly breadth and slower housing costs qualify the signal. It raises near-term tightening pressure without establishing that several more hikes are required.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: Persistent services and broader goods-price pressure support preventive tightening and inflation-credibility concerns; weaker spending, survey activity and labor absorption raise the cost of additional restriction. The disputed issue is how far policy must move, not whether the release is inflation-uncomfortable.
+Key takeaways: Fuel is the key headline/underlying wedge; quarterly trimmed mean at 3.7% and monthly trimmed mean at 3.6% are different constructions, not conflicting reports. Monthly weighted median falling to 3.4%, alongside cooling dwellings and rents, tests the claim of an increasingly broad domestic inflation spiral.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+AUCPIQ=ECI;28 oct;01:30;High;CPI QQ;Q3;;0,6%;;1,2%;
+AUCPIY=ECI;28 oct;01:30;High;CPI YY;Q3;;4,0%;;3,9%;
+AURCPW=ECI;28 oct;01:30;High;RBA Weightd Medn CPI QQ;Q3;;0,7%;;1,1%;
+AURCWY=ECI;28 oct;01:30;High;RBA Weightd Medn CPI YY;Q3;;3,6%;;3,6%;
+AURCPI=ECI;28 oct;01:30;High;RBA Trimmed Mean CPI QQ;Q3;;0,8%;;1,0%;
+AURCPY=ECI;28 oct;01:30;High;RBA Trimmed Mean CPI YY;Q3;;3,6%;;3,6%;
+AUCPIM=ECI;28 oct;01:30;High;CPI MM;Sep;;0,40%;;0,70%;
+AUCPYM=ECI;28 oct;01:30;High;CPI YY;Sep;;4,00%;;4,20%;
+AUCWTM=ECI;28 oct;01:30;High;Weighted Median CPI MM SA;Sep;;0,30%;;;
+AUCWTY=ECI;28 oct;01:30;High;Weighted Median CPI YY SA;Sep;;3,60%;;;
+AUCTRM=ECI;28 oct;01:30;High;Trimmed Mean CPI MM SA;Sep;;0,20%;;0,30%;
+AUCTRY=ECI;28 oct;01:30;High;Trimmed Mean CPI YY SA;Sep;;3,6%;;3,6%;
+
+The supplied Reuters feed was captured before publication: all Actual and Surprise fields are blank and remain mechanically unchanged. The realized readings below are external ABS/secondary observations, not replacements for those Reuters fields. No Reuters surprise has been fabricated. The monthly headline CPI 0.8% m/m is original terms; ABS also publishes +0.6% seasonally adjusted. Feed/poll adjustment conventions for AUCPIM were not separately confirmed. August's official monthly trimmed-mean annual reading was subsequently revised from 3.6% to 3.5% due to updated seasonal factors; the feed's historical Prior of 3.6% remains unaltered.
+
+2. Professional Market Commentary
+
+The Australian Bureau of Statistics reported September headline CPI at 4.3% y/y, up from 4.0%, with +0.8% m/m in original terms (+0.6% SA). Transport and housing made the largest contributions; fuel prices were up 23.6% y/y and 9.4% m/m as international oil prices increased. ABS Head of Price Statistics Rachael McCririck explained that housing was the largest annual CPI contributor and that fuel's exclusion from the trimmed-mean calculation was a key reason headline and underlying measures diverged. The ABS also identified an August seasonal-factor revision in the monthly trimmed-mean history. The September CPI release simultaneously introduced Q3 quarterly measures, including +1.3% q/q headline and +1.0% q/q quarterly trimmed mean. The old-method quarterly trimmed mean at 3.7% y/y differs legitimately from the contemporary monthly 3.6% y/y trimmed mean.
+
+Brendan Rynne (Chief Economist, KPMG Australia; quoted in Stephanie Chalmers, ABC News, 28 October) regarded the release as the final information necessary to justify a fifth 2026 policy-rate increase. His argument emphasized broad ongoing inflation pressure and warned that another increase in early 2027 would be more plausible if the next readings did not turn lower. Diana Mousina and My Bui (AMP Economics, joint client note quoted by ABC) offered the clearest price-breadth argument: goods-price inflation had reaccelerated, services inflation remained near 4.1%, and roughly 45% of CPI categories were growing by over 3% annually, roughly unchanged since the start of the year. They also identified imported IT/memory component inflation as a newer inflation channel and connected a pause to potential credibility and inflation-expectations risks. Their 45% breadth statistic is a sourced institutional calculation, not an ABS published aggregate in this note.
+
+David Bassanese (Chief Economist, Betashares, quoted by ABC) focused less on an across-the-board market surprise and more on the discrepancy against the RBA's August quarterly trimmed-mean projection: realized +1.0% q/q versus the projected +0.8%. He viewed this as confirmation of upside risks from energy pass-through and sticky services, favoring a November hike followed by a December hold, while warning that further tightening into 2027 increased recession risk. His principal alternative to an immediate hike was that September's pre-emptive tightening might have bought additional time. This is a difference over timing and the future growth cost, not an explicit dissent from the view that inflation remained high.
+
+Belinda Allen (Head of Australian Economics, Commonwealth Bank; bank research extract dated 28 October) documented a change from a November hold call to a 25bp increase to 4.85%. Critically, Trent Saunders' 1.0% q/q trimmed-mean forecast was met, and Allen attributed the change in house call primarily to recent RBA communication and a reassessment of domestic capacity, energy and technology-related price risks rather than to a wholly unexpected CPI print. Her baseline envisaged holding in December and February as the demand damage became clearer, with possible easing much later. The bank described slower card spending, rising unemployment and weaker housing as the potential cost of bringing inflation down. This is a more explicitly growth-aware path than the broader credibility-driven commentary.
+
+The concurrent central-bank backdrop matters to attribution but is not a separate CPI data source. RBA Deputy Governor Andrew Hauser described inflation as still too high during Senate estimates on 28 October, following his 21 October inflation-risk remarks. Governor Michele Bullock's Senate testimony also preceded or overlapped the release window; CBA reported a more adverse RBA assessment of capacity pressures and materializing upside inflation risks. The release is therefore evidence for a more hawkish policy configuration but cannot alone explain all changes in market expectations or bank calls.
+
+ABC, citing Bloomberg data, reported that November hike expectations reached about 85% after the CPI; Commonwealth Bank's account suggested a figure nearer 90% at its own observation time. The scout reported an early AUD/USD rise to approximately 0.7054 before most of the increase retraced, with later observations around 0.7032–0.7036. These FX snapshots came from secondary market-desk previews and are not treated as an independently verified release-only price series. Changes in RBA pricing are best classified as a CPI-plus-Senate-testimony window; FOMC positioning and global risk influenced the currency. No primary-source three-year ACGB/OIS intraday reaction was validated.
+
+The substantive human debate is narrower than the range of headlines implies: the economists identified generally expected further tightening, but differed on whether the CPI was an unexpected market surprise, how much inflation had genuinely broadened, and how soon weak demand would require a pause. A strong quarterly trimmed mean supports a policy constraint, while a falling monthly weighted median and slowing rent/new-dwelling inflation remain material counter-signals.
+
+Source anchors, dated 28 October 2026 unless otherwise indicated:
+- ABS September monthly CPI and September-quarter tables / methodology: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/sep-2026
+- ABS CPI media release: https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026
+- ABC News, Stephanie Chalmers, economist views and market-pricing report: https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382
+- Commonwealth Bank, Belinda Allen and Trent Saunders, November policy-call change: https://www.commbank.com.au/articles/newsroom/2026/10/commbank-november-rba-rate-hike-inflation-risks.html
+- Savings.com.au, Bea Garcia, historical bank forecasts and CPI overview: https://www.savings.com.au/news/abs-cpi-inflation-september-26
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+This CPI publication validates a material inflation constraint but requires three distinct comparisons. First, headline inflation accelerated in September, led disproportionately by oil/fuel rather than domestic overheating. Second, Q3 underlying inflation was stronger than the RBA's prior forecast: the quarterly trimmed mean at +1.0% q/q against a projected +0.8% implies that the inflation trajectory used for earlier policy decisions was too benign. Third, the same quarterly result was largely consistent with private-sector economist forecasts, with quarterly headline at +1.3% q/q and +3.9% y/y and the trimmed-mean quarterly rate at the 1.0% poll. It is therefore misleading to label every core measure a market upside surprise. The broader policy event combines realized inflation, an RBA forecast miss and a contemporaneous hawkish reassessment by the central bank.
+
+The incremental regime information is not a new generalized inflation breakout. Energy inflation sharply lifted the headline, while rising goods and service prices show that the non-energy problem is still present. But monthly weighted median slowed, new dwellings and rent inflation eased, and the quarterly versus monthly trimmed-mean differences require care. The 23 October PMI showed weakening output even as firms reported faster prices. The CPI shows that measured consumer inflation was not yet resolving that tension in favor of disinflation, although its September reference period precedes the PMI's October fieldwork and cannot mechanically validate every October survey price response.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1. Publication architecture: monthly, quarterly, original and seasonally adjusted
+
+| Measure | Period / methodology | Realized actual | Historical comparator | Reuters poll |
+|---|---|---:|---:|---:|
+| Headline CPI | Q3, q/q | +1.3% | +0.6% Q2 | +1.2% |
+| Headline CPI | Q3, y/y | +3.9% | +4.0% Q2 (feed prior) | +3.9% |
+| Trimmed mean CPI | Q3, q/q, pre-Oct-2025 method | +1.0% | +0.8% Q2 | +1.0% |
+| Trimmed mean CPI | Q3, y/y, pre-Oct-2025 method | +3.7% | +3.6% Q2 | +3.6% |
+| Weighted median CPI | Q3, q/q | +1.0%* | +0.7% Q2 | +1.1% |
+| Weighted median CPI | Q3, y/y | +3.6%* | +3.6% Q2 | +3.6% |
+| Headline CPI | September, m/m original | +0.8% | +0.4% August | +0.70% |
+| Headline CPI | September, m/m SA | +0.6% | — | — |
+| Headline CPI | September, y/y original | +4.3% | +4.0% August | +4.20% |
+| Trimmed mean CPI | September, m/m SA | +0.3% | +0.2% August (feed prior) | +0.30% |
+| Trimmed mean CPI | September, y/y SA | +3.6% | +3.5% revised August | +3.6% |
+| Weighted median CPI | September, m/m SA | +0.2% | +0.3% August | — |
+| Weighted median CPI | September, y/y SA | +3.4% | +3.6% August | — |
+
+*Quarterly weighted-median actuals are sourced from a single readable scout-relayed secondary account and retain lower confidence than the ABS-confirmed monthly measures. Quarterly headline y/y and trimmed-mean y/y are corroborated by multiple contemporary professional/news accounts; the full ABS spreadsheet appendices were not directly reconciled. The Q3 June-quarter y/y prior in the mechanical feed is preserved even where the quarterly comparison is sensitive to reporting method. All actuals in this table are externally sourced; Section 1 remains an untouched pre-release Reuters feed.
+
+The publication structure is consequential. Since October 2025, the ABS has published a full monthly CPI, with quarter-end releases also containing quarter-average indexes (tables 17–18). The quarterly trimmed mean published on the pre-October-2025 basis is calculated differently from the monthly current-method trimmed mean, so September monthly 3.6% y/y and September quarter 3.7% y/y can both be correct. Quarterly inflation is not simply the September monthly increase multiplied by three. The August monthly trimmed mean was revised to 3.5% due to seasonal-factor re-estimation, without rewriting the Reuters historical field. The official +0.8% monthly headline is original terms; its +0.6% SA counterpart should not be mixed with an unverified original-terms Reuters poll when discussing the mechanical surprise.
+
+2. Headline acceleration, contribution arithmetic and energy versus underlying prices
+
+| Headline CPI category | September y/y | Contribution to annual CPI (pp) | Key interpretation |
+|---|---:|---:|---|
+| Housing | +5.2% | 1.14 | Largest contribution, but annual inflation easing |
+| Transport | +8.7% | 0.99 | Fuel-driven rising contribution |
+| Food & non-alcoholic beverages | +3.2% | 0.56 | Moderate rise; meals out firm |
+| Recreation & culture | +4.5% | 0.56 | Travel and technology components |
+| Health & education | mixed | 0.48 | Services and administered price channels |
+| Alcohol & tobacco | +4.3% | 0.29 | Lower tobacco inflation |
+| Other combined | mixed | 0.33 | Smaller residual components |
+
+The contributions are rounded, so their sum need not equal the rounded 4.3% exactly. Transport's annual contribution rose from approximately 0.18pp in July to 0.64pp in August and 0.99pp in September, making it the key incremental headline accelerator even though housing remains the largest absolute contributor. Automotive fuel rose 23.6% annually and 9.4% in September alone following a 14.8% monthly rise in August. This is a sizable directly measured energy-price shock that reduces real purchasing power and can feed into transport, food distribution and business inputs with a lag.
+
+Fuel was excluded from September's trimmed mean, according to the ABS, which explains part of the large 4.3% headline versus 3.6% monthly underlying gap. But fuel cannot explain the entire underlying inflation rate. Prices of other consumer goods and services were already rising too rapidly for the RBA's comfort. Separately, October's supply/delivery-cost claims in the PMI are consistent with a plausible pipeline mechanism, not independent proof that all September CPI components were causally driven by the October energy shock.
+
+3. Sticky domestic services versus improving housing detail
+
+| Selected category | September y/y | August comparator | Additional detail |
+|---|---:|---:|---|
+| Services | +4.1% | +3.7% | +1.3% m/m |
+| Goods | +4.6% | +4.2% | +0.4% m/m |
+| Non-tradables | +4.5% | +4.5% | +0.6% m/m |
+| Tradables | +4.0% | +2.9% | +1.2% m/m |
+| Housing | +5.2% | +5.7% | +0.3% m/m |
+| New dwellings | +4.7% | +5.4% | Flat m/m; discounting evident |
+| Rents | +3.6% | +3.6% | +0.2% m/m; +0.3% adjusted for assistance indexation |
+| Electricity | +12.8% | — | Affected by expiration of Commonwealth rebates |
+| Meals out/takeaway | +3.9% | — | Wages, ingredients, business costs |
+| Medical / hospital services | +4.8% | — | Persistent domestic service costs |
+| Insurance | +5.4% | — | A non-trivial recurring household expense |
+
+Services inflation moving from 3.7% to 4.1% provides a more directly domestic persistence warning than the fuel headline, especially alongside non-tradables still at 4.5% and non-discretionary inflation at 5.2%. However, services' September monthly rate of 1.3% is not a seasonally isolated wage-inflation statistic; its components include timing-sensitive and administered prices. It should not automatically be annualized into a forecast of persistent underlying services inflation.
+
+Housing contributes the most to headline inflation but its rate is decelerating, an important counterweight to a simple universal-broadening story. New-dwelling construction inflation fell to 4.7% from 5.4%; unchanged monthly prices came from a combination of higher list prices and more discounts as demand softened. Rent inflation remained at 3.6% annually, and its monthly growth depends in part on the Commonwealth Rent Assistance indexation treatment. Electricity at 12.8% includes the expiration of fiscal rebates, another channel in which measured inflation can increase independently of a new domestic demand shock. Slower housing inflation is consistent with cooling credit-sensitive activity, but not enough to offset overall services persistence.
+
+4. Imported goods, travel and distributional pressure
+
+The goods side has broadened beyond direct automotive fuel, with tradables inflation increasing to 4.0% from 2.9%, while non-tradables inflation remained elevated at 4.5%. Recreation and culture rose 4.5% y/y, and domestic holiday travel and accommodation prices increased 8.0% in September around school holidays and sporting events. This is partly a seasonal/event-driven contribution rather than pure trend inflation. Games, toys and hobbies prices rose 15.5% y/y; the ABS attributed some of this to higher memory and storage component costs being passed to consumers. The sourced professional hypothesis is that demand from technology/AI supply chains can raise imported IT prices after years of falling technology costs. The 15.5% category number does not quantify a pure AI contribution; product and trade exposures remain an open question.
+
+Food rose 3.2% y/y, compared with 3.0% in August, with eating out and takeaway at 3.9%; related operating and ingredient cost pressure is a potential second-round channel. Other components provided disinflationary offsets: clothing and footwear annual inflation slowed to 0.4% from 2.6%, tobacco inflation decelerated to 8.3% from 11.5% because earlier additional excise changes dropped out, and furnishings/household goods were relatively contained at 0.8%. Insurance and financial services inflation was 3.9%, including insurance 5.4%.
+
+The inflation burden is uneven: non-discretionary inflation at 5.2% exceeded discretionary inflation at 3.2%. This is important for consumption transmission because households face higher required outlays even when discretionary demand is already softening. The combination can compress discretionary volumes without quickly lowering measured headline inflation. The 23 October PMI's softer orders and reduced confidence are consistent with this real-income channel, while the differing reference periods prevent a one-for-one causal claim.
+
+5. Underlying breadth, three competing inference tests and the policy miss
+
+A quarterly trimmed-mean increase of 1.0% q/q implies material inflation persistence relative to an RBA August forecast of +0.8%. That forecast error is a sharper policy signal than the headline CPI annual rate because the RBA directly uses underlying price momentum to judge how rapidly inflation will return to its 2–3% target. However, 1.0% was also the Reuters quarterly trimmed-mean poll and matched private-bank pre-release forecasts. Consequently, the CPI supported revised policy expectations mainly by validating already discussed upside inflation risks and the RBA's communication, not by surprising every professional forecaster at once.
+
+Monthly trimmed mean was +0.3% m/m and +3.6% y/y, with August revised to 3.5% y/y; monthly weighted median eased to +0.2% m/m and +3.4% y/y from 3.6%. Those measures capture different parts of the price-change distribution. A stronger trimmed mean alongside a slower weighted median may reflect persistent inflation in the broader distribution with a calmer price change at its center, changes in item weights or specific component volatility. The public data here do not identify which distributional mechanism dominates. The sourced AMP estimate of about 45% of categories rising more than 3% y/y, little changed since January, supports the persistence concern but does not establish that breadth is currently accelerating.
+
+Two auxiliary ABS measures qualify the headline: CPI excluding volatile food/fuel components rose +0.5% m/m and 3.7% y/y; excluding volatile items and holiday travel it was flat m/m and 3.6% y/y. This is useful evidence that a meaningful share of September's monthly headline acceleration was concentrated in fuel and travel. Because these exclusions are not the RBA's preferred quarterly trimmed-mean framework, a flat adjusted exclusion is a counter-signal, not a reason to discard the quarterly underlying reading. The most discriminating future test is persistence in trimmed mean, services, non-tradables, wages and breadth after fuel/travel volatility diminishes.
+
+6. Reaction-function reconciliation and market identification
+
+On the release day, market commentary reported a move from roughly coin-flip November-hike odds in the preceding days to around 85–90% in some post-release snapshots. The timing was confounded: the CPI arrived alongside Governor Bullock's and Deputy Governor Hauser's Senate testimony and their pre-existing hawkish repricing, while international rates and risk sentiment were also relevant. The AUD reportedly rose and then gave back much of its initial gains; that is consistent with a policy-sensitive data-window reaction but insufficient for a clean causal estimate of the CPI's standalone FX beta. An explicit short-ACGB/OIS repricing series was not verified. The disagreement is thus mostly over the expected path after a likely near-term hike: whether action now limits later increases, or whether further price persistence forces another step in 2027 with growing labor and demand costs.
+
+State transition: deterioration in the underlying inflation constraint — Q3 trimmed mean at 1.0% q/q exceeds the prior RBA trajectory and September services/goods remain elevated, while fuel explains much of headline acceleration and a slower monthly weighted median plus cooling housing prices prevent a claim of generalized accelerating inflation.
+
+Context from prior regional live file: Through August, headline inflation had reaccelerated to 4.0% y/y and the monthly trimmed mean remained near 3.5–3.6%, while earlier surveys already signaled high costs and softening activity. September's 4.3% headline and firmer Q3 trimmed mean prolong that inflation constraint, despite more benign weighted-median and housing details. The 23 October output contraction therefore adds a sharper growth counterweight rather than reversing the existing inflation concern.
+
+4. HF Take — Strategist Layer
+
+What changed is the central bank's confidence in its earlier inflation trajectory, not the discovery that fuel is expensive. A quarterly trimmed mean of +1.0% against the RBA's earlier +0.8% forecast, together with persistent services/non-tradables inflation, makes a near-term insurance-hike rationale materially more defensible than after the PMI alone. The key qualification is that the underlying figure was broadly in line with bank forecasts, and much of the September headline acceleration reflected fuel, travel and fiscal-energy effects. The public institutional convergence on a November hike arose jointly from the CPI and senior RBA communication, not an independent CPI surprise across all measures. Refrain from using the later 3 November RBA decision to rationalize 28 October market behavior.
+
+Why this matters for the book is the asymmetry between policy direction and policy duration. A higher probability of near-term tightening may support front-end AUD rates and, all else equal, the currency; however, the Q4 PMI contraction, softer spending and labor risk mean that more tightening could also worsen growth expectations. An inflation-risk/credibility view argues that early action reduces the need for a longer hiking sequence. The competing growth-cost view argues that financial restriction may be close to biting sufficiently, especially if weighted median and housing deceleration persist and the energy/travel impulse fades. Neither side justifies a deterministic terminal-rate path or an unverified EUR/USD/AUD market move. The combination of imported energy inflation and weaker private output is not an uncomplicated positive terms-of-trade or growth signal for AUD.
+
+What to verify next: (1) October CPI on 25 November — trimmed mean, weighted median and ex-volatiles/travel, not headline alone; (2) services/non-tradables prices versus wage and labor-cost measures; (3) rent, new dwellings and utility/tax effects; (4) whether AI/memory-related imported goods inflation broadens beyond its cited category; (5) retail activity, unemployment and final October services/composite PMI to assess the cumulative cost of tightening. Separately, ABS Appendix 1a and tables 17–18 should be reconciled for the quarterly weighted-median vintage and exact headline CPI poll basis.
+
+Macro configuration: fuel-led headline resurgence + quarterly underlying inflation above the RBA's prior forecast + persistent services/non-tradables and selected imported goods inflation + moderating housing/weighted-median counter-signals + contractionary October private-sector output + conditional further tightening with growing demand/labor downside.
+
+THURSDAY 29 OCTOBER 2026
+
+AUSTRALIA — ABS INTERNATIONAL TRADE PRICE INDEXES: EXPORT AND IMPORT PRICES (SEP QUARTER 2026)
+Release Date: 29 Oct 2026 | Local Time: 11:30 AEDT (Reuters feed: 01:30)
+Importance: **
+
+PM FLASH: Export prices increased 1.4% q/q after +1.1%, while import prices fell 1.1% after a 5.7% rise; the supplied mechanical feed has no actuals or polls. Export gas prices surged 28.6%, with coal +4.8%, while imported petroleum fell 8.7% and fertilisers 20.2%. Office/automatic data-processing machine import prices rose 7.3%.
+PM READ-THROUGH: The opposing export/import movements improve Australia's quarterly external purchasing-power configuration, but mainly reflect energy and commodity-price timing. They do not overturn September CPI fuel inflation or the weak October flash PMI; an apparently benign quarterly border-price index can coexist with renewed late-quarter pressure on households.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: The public desk read stresses a potential nominal-income/AUD benefit, whereas the macro interpretation is limited by lagged gas contracts, quarter-average oil effects and the absence of independently established market repricing; no competing named institutional economist views were found.
+Key takeaways: A Q3 export-price gain is not an export-volume gain; imported oil became cheaper on average during the quarter even though September pump prices rose sharply. The relative-price tailwind may be temporary, and AI-related imported hardware prices remain an offset.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+AUEXPQ=ECI;29 oct;01:30;Med;Export Prices;Q3;;1,1%;;;
+AUIMPQ=ECI;29 oct;01:30;Med;Import Prices;Q3;;5,7%;;;
+
+The Reuters Actual and Poll fields were blank in the supplied pre-release feed; both remain blank here. Official ABS reported actuals are export prices +1.4% q/q and import prices -1.1% q/q (and +6.3% / +5.5% y/y respectively). These externally verified readings are not substituted into Reuters fields, and no Reuters surprise is calculated.
+
+2. Professional Market Commentary
+
+The Australian Bureau of Statistics' 29 October International Trade Price Indexes publication reported export prices up 1.4% q/q, their fourth consecutive quarterly increase, and import prices down 1.1% q/q, reversing part of the June-quarter 5.7% surge. Natural/manufactured gas rose 28.6% on oil-indexed export contracts catching up with crude-price strength in the June quarter; coal and cereal prices also increased. Imported petroleum declined 8.7% and fertilisers 20.2% as oil supply and maritime trade conditions improved during Q3, while office and automatic data-processing machines rose 7.3%, reflecting data-centre/AI equipment demand and supply costs. These sectoral causes are the ABS's explanations, not independently quantified effects of particular policy events.
+
+Finimize Newsroom (29 October, original desk recap) emphasized the resulting improvement in Australia's terms-of-trade direction, with potential national-income, nominal-growth and AUD support and an offsetting decline in selected border import costs. This is a plausible market transmission channel, not proof of an AUD move or a direct forecast of GDP. Newsquawk Staff (29 October, market-desk release note) classified the export-price print primarily as a terms-of-trade input, distinguishing price movements from volumes and emphasizing that the domestic inflation/labor outlook, rather than one quarterly trade-price index, governs near-term RBA decisions. Its discussion also flagged that converting foreign-currency contracts into AUD can influence the index; the ABS methodology confirms that exchange-rate conversion is used for such transactions.
+
+No independently attributable named bank economist or strategist assessment of this specific release was established. No Tier 1 institutional debate detected. The two desk framings differ in emphasis (supportive external-income arithmetic versus limited standalone tradability), not as verified opposing macro forecasts. The ABS's correction posted on 30 October changed a mistaken import-section phrase from 'contributors to the rise' to 'contributors to the fall'; headline series and underlying components were unchanged. No release-specific AUD, Australian government bond or OIS price reaction was confirmed; contemporary market attention also included the US policy decision and the forthcoming Australian rate meeting.
+
+Source anchors:
+- ABS, International Trade Price Indexes, Australia, September 2026 (29 October; corrected commentary 30 October): https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/international-trade-price-indexes-australia/sep-2026
+- ABS, International Trade Price Indexes methodology, September 2026 (exchange-rate translation, reweighting, FOB prices): https://www.abs.gov.au/methodologies/international-trade-price-indexes-australia-methodology/sep-2026
+- Finimize Newsroom, 'Australia's Export Prices Rose As Gas Jumped 29%', 29 October: https://finimize.com/content/australias-export-prices-rose-as-gas-jumped-29
+- Newsquawk Staff, 'Australian Export Prices (Q3 QQ) 1.4% (Prev. 1.1%)', 29 October: https://www.newsquawk.com/headlines/australian-export-prices-q3-qq-14-prev-11
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The quarter shows a favorable external price configuration, not an economy-wide disinflation or real growth rebound. A 1.4% rise in export prices against a 1.1% decline in import prices increases the relative value of Australia's merchandise exports in terms of merchandise imports. This is supportive for national purchasing power through the terms-of-trade channel, all else equal, but the statistics are price indexes rather than quantities; they do not by themselves demonstrate rising export volumes, stronger real GDP or an immediate improvement in the trade balance. An official national-accounts terms-of-trade measure is not published by this specific release.
+
+The most important qualification is time aggregation. Export gas prices adjusted sharply upward to an earlier crude-price shock because of oil-indexed contract lags, while import petroleum and fertiliser prices fell as Q3 shipping and energy availability improved. These observations can be simultaneously correct. However, the September CPI showed a 9.4% monthly increase in domestic motor-fuel prices, an important warning against translating a Q3 import-price average into ongoing fourth-quarter consumer disinflation. Different product baskets, contract terms, currency conversion, taxes and retail pricing also prevent a one-to-one mapping from imported petroleum prices to petrol CPI.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Price measure | Dec 2025 q/q | Mar 2026 q/q | Jun 2026 q/q | Sep 2026 q/q | Sep 2026 y/y |
+|---|---:|---:|---:|---:|---:|
+| Export Price Index | +3.2% | +0.5% | +1.1% | +1.4% | +6.3% |
+| Import Price Index | +0.9% | +0.1% | +5.7% | -1.1% | +5.5% |
+
+The change in relative export/import prices is a genuine quarterly improvement, with a material deceleration of border import costs from the June shock. But import prices were still up 5.5% y/y, including imported petroleum +48.0% y/y, so the quarterly negative print is not a full unwinding of annual import inflation. Export prices have increased for four quarters, but their 6.3% annual rise is uneven across commodities.
+
+| Export-price component | Q3 q/q | Mechanism highlighted by ABS |
+|---|---:|---|
+| Natural/manufactured gas | +28.6% | Lagged oil-indexation of contracts following June-quarter crude prices |
+| Coal, coke and briquettes | +4.8% | Metallurgical-coal supply restriction, including Chinese mine inspections/quotas |
+| Cereals and cereal preparations | +5.7% | Disrupted Black Sea production and trade flows |
+| Metalliferous ores and metal scrap | -6.4% | More Australian/Brazilian supply and soft Chinese construction/steel demand |
+| Non-monetary gold | -4.8% | Officially attributed to tighter financial conditions and weaker gold demand |
+
+Gas and coal supported export receipts in price terms, whereas iron-ore weakness limits the breadth of the commodity upswing and highlights a China demand offset. Higher export prices can benefit nominal exporters' revenues if quantities and contract exposures hold, but different commodity weights, hedging and costs determine company-level effects. Coal rose 20.5% y/y and gas 15.7% y/y while metalliferous ores declined 10.0% y/y, reinforcing the selective nature of export-price strength.
+
+| Import-price component | Q3 q/q | Mechanism highlighted by ABS |
+|---|---:|---|
+| Petroleum and related products | -8.7% | Better oil supply after partial easing of Hormuz shipping constraints |
+| Fertilisers (excluding crude) | -20.2% | More Chinese exports and easier shipping, especially for urea/potash |
+| Non-monetary gold | -5.0% | Weaker gold prices amid elevated rates |
+| Office and automatic data-processing machines | +7.3% | AI/data-centre/cloud hardware demand and related supply costs |
+| Telecommunications equipment | +4.1% | High-performance equipment demand and higher component prices |
+
+The diverging import components are important. Lower fertiliser and petroleum prices can relieve selected business input costs with a lag, but imported computing and telecom equipment prices continue rising. This is directionally consistent with the separate CPI scout's reported memory/storage-product inflation, without proving that the categories, product mix or retail pass-through are identical. The ABS headline import index is merchandise-only and excludes services and downstream domestic costs; it therefore neither confirms nor contradicts the September CPI services inflation rate on its own.
+
+The source methodology adds two measurement limits. First, both indexes were annually reweighted for Q3 and June-quarter contribution-point tables updated, so component contributions should not be carried across vintages without checking weights. Second, imported/exported transactions invoiced in foreign currencies are converted to AUD, meaning index moves combine international transaction-price developments with currency translation when relevant. The indices use free-on-board valuation, excluding freight/insurance to Australian ports and taxes, another reason shipping narratives and measured landed-to-consumer prices are not identical. The ABS 30 October wording correction affects interpretation of the import component list but not the observed -1.1% headline.
+
+C. State Transition & Historical Context
+
+State transition: stabilization/improvement in external relative prices — export-price gains continued while import prices partly reversed June's oil-led spike; concentrated commodity and contract-timing effects prevent calling it a durable external disinflation regime.
+
+Context from prior regional live file: The June quarter had brought a 5.7% import-price surge against a 1.1% export-price rise, implying a sharp external price squeeze even as export commodity prices improved. In September quarter, import prices fell while export prices continued climbing, reversing that relative-price deterioration. Late-September fuel-price acceleration and weak October private output leave the durability of the improvement unconfirmed.
+
+4. HF Take — Strategist Layer
+
+What changed is the external-income side of the Australian macro mix: the price of merchandise exports strengthened while the price of merchandise imports fell on a quarterly basis. This offers a partial nominal-income and imported-cost offset to the 23 October PMI's weak output and the 28 October CPI's fuel/underlying inflation problem. The offset should not be misread as a clean demand reflation: gas is benefiting from lagged contracts, iron ore is weaker on Chinese demand, and the import-oil relief is measured over Q3 rather than in late October. Those details make the signal less persistent than the aggregate indexes suggest.
+
+For policy, the direct RBA effect is secondary. A temporary improvement in external purchasing power may support corporate income, while cheaper selected imports can ease production costs, but the more decisive near-term constraints remain quarterly underlying CPI, sticky domestic services prices and weakening private activity. For AUD, an improvement in export/import relative prices is conditionally constructive, but a directional trade requires evidence that the commodity-price differential persists, nominal export receipts benefit and relative policy/global risk factors do not dominate. No specific FX or front-end repricing is attributable to this release.
+
+What to verify next: (1) Q4 imported petroleum prices and October/November retail fuel inflation; (2) subsequent contracted LNG prices versus spot energy markets; (3) China steel/iron-ore demand, coal prices and actual merchandise export volumes; (4) hardware and telecom import-price persistence and measurable consumer-goods pass-through; (5) Q3 national-accounts terms of trade, nominal income and profit margins, plus the 30 October PPI as a separate upstream-cost publication.
+
+Macro configuration: better Q3 merchandise relative prices + gas contract-lag gains + partial imported oil/fertiliser relief + weak iron ore + rising AI-hardware import costs + renewed late-quarter fuel inflation risk + limited standalone policy/FX significance.
+
+FRIDAY 30 OCTOBER 2026
+
+AUSTRALIA — ABS PRODUCER PRICE INDEXES, FINAL DEMAND AND INDUSTRY COMPONENTS (Q3)
+Release Date: 30 Oct 2026 | Local Time: 11:30 AEDT (Reuters feed: 01:30)
+Importance: **
+
+PM FLASH: Final-demand PPI rose 1.1% q/q after 1.3%, while annual inflation remained 3.6%. Rental property operators (+1.0%) and residential construction (+1.1%) drove gains, as petroleum/coal manufacturing fell 9.8%. Construction and services wages remained under pressure; manufacturing output prices fell 1.3% on lower petroleum prices.
+PM READ-THROUGH: This confirms persistent domestically generated services and construction costs behind the CPI's sticky underlying inflation, but the quarterly headline slowed and energy/manufacturing components eased. The September retail-fuel rebound makes the in-quarter petroleum relief an uncertain guide to Q4.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: The official decomposition shows scheduled wage and fee indexation alongside skilled-labour scarcity, rather than a uniform producer-price resurgence. Secondary market-desk framing treats the unchanged annual headline as less policy-relevant than CPI.
+Key takeaways: CPI includes fuel excise but PPI excludes it; final-demand PPI and gross-industry indexes are not additive. Separate temporary July price resets from persistent services wage transmission and test whether imported oil and copper pressure reappear in Q4.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+AUPPIQ=ECI;30 oct;01:30;Med;PPI QQ;Q3;;1,3%;;;
+AUPPIY=ECI;30 oct;01:30;Med;PPI YY;Q3;;3,6%;;;
+
+The Reuters Actual and Poll fields were blank in the supplied pre-release feed and remain blank. Official ABS actuals, stated separately from the feed: Final demand (excluding exports) +1.1% q/q, +3.6% y/y (June quarter +1.3% and +3.6%). No Reuters mechanical surprise is calculated.
+
+2. Professional Market Commentary
+
+The Australian Bureau of Statistics (ABS; 30 October) reported that final-demand producer prices increased 1.1% in the September quarter, after 1.3% in June, and 3.6% over the year, unchanged from June. Its own explanation emphasizes property rents, residential and non-residential building, and broad services-sector price resets. Effective 1 July, service providers faced annual contractual indexation and enterprise-agreement wage changes together with the 4.75% increase in minimum award wages; demand for skilled labour also contributed. These are official explanations of respondents' prices, not a quantified causal estimate of each factor. Construction retained high imported-material freight costs, even as oil and fuel prices fell within the quarter. Manufacturing output PPI contracted 1.3%, driven especially by oil products.
+
+The ABS also explicitly differentiated PPI from consumer inflation: government fuel excise is excluded from PPI, so the unwinding of Commonwealth fuel-excise relief in July–August did not directly increase producer fuel prices, unlike its possible contribution to consumer CPI. The release notes a postponement of the previously planned all-index reweighting, with construction reweighting now planned for the December-quarter release. It gives no attributed policy or bond-market interpretation.
+
+Newsquawk Staff (30 October, contemporaneous market-desk recap) observed that unchanged 3.6% annual PPI provided less incremental RBA information than the already released CPI and trimmed-mean inflation. That relative-importance judgment is compatible with the data, but its headline-level description of pipeline 'stasis' should not obscure ABS evidence of firmer domestic construction and service prices alongside energy/manufacturing relief. The desk attribution is editorial, not an identifiable independent economist or a confirmed rates-market response. No qualifying independent named economist or bank strategist discussion of this PPI publication was established. No Tier 1 institutional debate detected. No release-specific AUD, ACGB or RBA OIS price reaction was validated.
+
+Source anchors:
+- ABS, Producer Price Indexes, Australia, September 2026 (30 October): https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/producer-price-indexes-australia/sep-2026
+- Newsquawk Staff, 'Australian PPI (Q3 YY) 3.6% (Prev. 3.6%)', 30 October: https://www.newsquawk.com/headlines/australian-ppi-q3-yy-36-prev-36
+- CME / Econoday, Australian PPI summary, 30 October: https://www.cmegroup.com/education/events/econoday/692475
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The proper reading is slowing quarterly but still-elevated annual final-demand inflation, with a pronounced domestic-services/construction versus energy/manufacturing divide. At +1.1% q/q and +3.6% y/y, producer prices do not establish a generalized reacceleration. Yet annual inflation did not recede despite a major in-quarter fall in refined-petroleum prices, because rents, construction and labor-intensive services continued repricing. This makes the release a cross-check on the 28 October CPI and its 4.1% annual services inflation, rather than an independent policy reset. The surveyed prices partly reflect scheduled July price-setting events, which should not automatically be extrapolated into every quarter.
+
+The contrast with the 29 October trade-price indexes is instructive. Trade import prices fell in Q3 on energy and fertiliser relief; PPI petroleum and freight prices partly reflected that same interval. But construction and wage costs remain domestically persistent, while September CPI fuel prices increased sharply. These facts can coexist because they track different baskets, contract lags and monthly versus quarterly windows. The late-quarter CPI fuel rebound raises a Q4 cost-risk hypothesis, not a measured December-quarter PPI outcome.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Final-demand measure | Mar 2026 | Jun 2026 | Sep 2026 |
+|---|---:|---:|---:|
+| Quarterly change | +0.4% | +1.3% | +1.1% |
+| Annual change | +3.0% | +3.6% | +3.6% |
+| Index level | 138.2 | 140.0 | 141.5 |
+
+Domestic price setting — rents, construction and services. ABS identifies property operators (+1.0% q/q) and residential building construction (+1.1%) as the principal final-demand contributors; these percentages are component price changes, NOT contributions measured in percentage points. Rental demand and residential supply constraints kept property price growth firm. Output of all building construction rose 1.3% q/q and 4.9% y/y. Non-residential construction (+1.7% q/q) was stronger than house construction (+1.0%), with hospitals, schools and privately funded data centres supporting project pipelines and skilled-trade scarcity. House-construction inflation nevertheless slowed from +2.0% in June, with weaker housing demand tempering builders' ability to pass through higher costs. Other residential construction increased 1.3% as tender competition constrained full pass-through. Heavy/civil engineering increased 1.3% (+4.6% y/y).
+
+| Selected construction category | Sep q/q | Sep y/y | Interpretation |
+|---|---:|---:|---|
+| Input to house construction | +1.0% | +3.9% | Material and logistics costs, slowing from +2.1% q/q in June |
+| House-construction output | +1.0% | +5.7% | Skilled trades and residual fuel charges, offset by weak housing demand |
+| Other-residential output | +1.3% | +4.1% | Labour and material costs; competitive tender pricing limits transmission |
+| Non-residential output | +1.7% | +4.8% | Public projects and data centres; concrete/electrical/mechanical trade scarcity |
+| Heavy and civil engineering | +1.3% | +4.6% | Wages, materials and freight |
+
+The construction-input basket highlights specific industrial cost channels. Plumbing products rose 3.7% q/q, including PVC-related plastic pipework; electrical equipment rose 2.3%, and selected copper pipes reportedly 9.5%, consistent with higher copper and data-centre-related materials demand. Timber/board/joinery rose 0.7%, with diesel haulage a cost factor. These component prices provide evidence of concentrated infrastructure and materials inflation but not a clean aggregate estimate of how much data-centre demand moved the CPI. The separate trade-price release recorded office/ADP machinery import prices +7.3%; the two channels are analogous AI- and capital-equipment-related pressures, but not identical products or mechanically additive CPI contributions.
+
+Services price-setting and CPI reconciliation. ABS describes higher services charges from July contractual fee indexation, Fair Work Commission minimum award wages (+4.75%) and enterprise agreements; skilled-labour shortages compounded the increases in some sectors. Medical services rose 2.3% q/q, including general practice +2.5%, while pathology and diagnostic imaging rose 2.0%. Childcare prices rose 1.2%, cafes/restaurants/takeaway 1.5% (+4.2% y/y), and accommodation 7.0% with seasonal sporting and holiday demand; the latter increased only 0.5% y/y. These details are consistent with persistent CPI services inflation, but MBS and minimum-wage step-ups create scheduled quarterly price resets rather than automatic evidence of accelerating ongoing monthly inflation. Childcare quarterly comparisons also carry a source/methodology break from new administrative data introduced in December 2025; a separate Childcare Services Cost Index increased 3.3% q/q and is not part of final demand.
+
+| Selected services price | Sep q/q | Additional information |
+|---|---:|---|
+| Medical services | +2.3% | Medicare Benefits Schedule indexation; GP +2.5% |
+| Pathology / imaging | +2.0% | Scheduled MBS-related increases |
+| Childcare services | +1.2% | Wages; comparison affected by administrative-data break |
+| Cafes, restaurants and takeaway | +1.5% | Annual +4.2%; wages/input costs |
+| Accommodation services | +7.0% | School holidays / events; annual +0.5% |
+| Road freight | -3.0% | Lower fuel surcharge and road-user charge; annual +13.4% |
+| Water freight | +2.4% | Shipping-route disruption |
+
+Energy and the manufacturing counter-signal. Petroleum/coal manufacturing declined 9.8% in the final-demand component identified by ABS, while manufacturing-industry output prices fell 1.3% q/q (still +6.1% y/y), including petroleum/coal product output -13.2% q/q (still +35.8% y/y). Manufacturing input prices fell 1.0% q/q but remained up 8.9% annually, helped by cheaper oil/gas extraction (-9.5%) and petroleum/coal manufactured inputs (-8.7%). Road freight fell 3.0% and rail freight 2.9%, yet road freight was still 13.4% higher y/y and construction firms retained residual freight surcharges. This is a sharp reduction in the quarter's energy impulse, not an economy-wide fall in producers' costs or a reversal of the large annual energy shock.
+
+Different energy readings are not contradictory. PPI is producer-based, excludes government fuel excise, and averages July–September; CPI captures a September consumer fuel increase of 9.4% m/m, including taxes; trade import petroleum fell 8.7% over Q3, reflecting its own imported basket and price period. Contract terms, taxes, inventory, exchange rates, freight charges and seasonal composition can generate gaps without requiring a data error. The valid forward concern is whether renewed oil/import prices raise Q4 producer and shipping costs after Q3's relief; this remains an unverified scenario.
+
+Measurement and comparability. Final-demand PPI excludes exports and is compiled on a net basis to avoid counting intra- and inter-industry transfers, whereas mining, manufacturing, construction and services industry indexes are gross-basis series. Their percentage changes therefore cannot be summed or used as exact contributions to +1.1% final demand; ABS contributor ranking is preserved without invented point weights. Taxes including excise are out of scope for PPI but included in CPI. The planned September-quarter all-index reweight was postponed, with phased construction reweighting due in the December-quarter publication. The childcare-source break and annual September contract indexation also reduce precision in extrapolating one quarterly services print into underlying monthly inflation momentum.
+
+C. State Transition & Historical Context
+
+State transition: continuation of elevated domestically generated producer-price pressure with partial quarterly energy normalization — annual final-demand inflation stays at 3.6% even as quarterly growth eases from 1.3% to 1.1%; domestic services and construction persist, without proof of aggregate producer-price reacceleration.
+
+Context from prior regional live file: Final-demand PPI accelerated from +0.4% q/q and +3.0% y/y in March to +1.3% and +3.6% in June as energy and shipping costs surged. September moderates quarterly growth to +1.1% while holding the annual rate at +3.6%, with price pressure rotating toward rents, construction and services as oil-linked manufacturing prices ease. Domestic price persistence therefore survives the quarterly energy reversal, but a further acceleration is not yet established.
+
+4. HF Take — Strategist Layer
+
+What changed is not the RBA's primary inflation benchmark but the composition of the corroborating pipeline evidence. The CPI's relatively firm underlying services signal has real producer-level counterparts in labor-intensive services, rents and construction. Yet headline PPI momentum slowed and energy-intensive manufacturing and freight prices fell, so it would be an overreach to use PPI alone to infer accelerating aggregate inflation or an additional hike beyond what Q3 CPI already implied. Some service-price rises reflect annual July reset mechanics; persistence must be tested in subsequent quarters, not assumed.
+
+This is also a useful growth-versus-pricing-power cross-check. Construction remains cost pressured even as house building prices decelerate on weaker demand, and non-residential/public and data-centre activity show stronger demand than household-linked construction. The October PMI's output contraction suggests some firms may have less capacity to pass on costs, but PPI contains neither profits nor margins sufficient to quantify absorption. For AUD, no release-specific reaction is confirmed. Persistent domestic price pressure may sustain the RBA's policy constraint, whereas a renewed import-energy shock could damage real income and growth even if it hardens rate expectations; the net currency effect is conditional, not a standalone trade signal.
+
+What to verify next: (1) Q4 PPI services prices after July's annual wage/fee resets and their relationship to CPI services/trimmed mean; (2) house-building construction price versus volume, tender competition and skilled-labour costs; (3) December-quarter petroleum, freight and copper costs against September/October consumer fuel prices; (4) whether late-quarter import hardware/material costs are absorbed in margins or passed through; (5) ABS final-demand industry point contributions, revised sector weights and childcare comparability.
+
+Macro configuration: sticky rents and domestic services + annual wage/fee resets + skilled-labour construction pressure + weaker house-building demand + Q3 producer-energy relief + still-high annual manufacturing input inflation + uncertain Q4 fuel reversal + limited incremental RBA/AUD repricing value.
+
+D. CENTRAL BANK TAPE
+No validated central-bank tape supplied for this window.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: October surveyed private output contracted sharply just as Q3 underlying CPI and domestically set producer services/construction prices remained elevated. Positive service hiring/backlogs and July indexation complicate an outright demand-collapse or accelerating wage-price-spiral inference; Q3 imported-energy relief may already lag September's fuel rebound.
+Why it matters: Inflation vigilance supports near-term RBA restriction, but the stronger the real-demand response, the less reliable it is to extrapolate repeated hikes or AUD upside from inflation alone.
+Implication: Keep inflation risk adverse and growth weak, with policy timing conditional. Test post-indexation CPI/PPI services prices, final PMIs, hard employment/consumption and Q4 imported fuel before inferring durable persistence or a trade direction.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+1. **** AUSTRALIA — ABS CONSUMER PRICE INDEX, SEPTEMBER / Q3 (28 OCT 2026)
+Q3 trimmed mean +1.0% q/q exceeded the RBA's earlier 0.8% track without beating the private trimmed-mean poll. Separate fuel-led headline acceleration from services/goods breadth, monthly weighted-median moderation and housing deceleration; this is the strongest test of additional policy restriction.
+
+2. *** AUSTRALIA — S&P GLOBAL FLASH MANUFACTURING / SERVICES / COMPOSITE PMI (23 OCT 2026)
+Composite output 47.7 and services 47.8 versus still-rising service new work, employment and backlogs. The orders-to-output and supplier-delay reconciliation determines whether activity weakness is a persistent rate-transmission shock or partly an execution/supply interruption.
+
+3. ** AUSTRALIA — ABS PRODUCER PRICE INDEXES, Q3 (30 OCT 2026)
+Final demand +1.1% q/q, +3.6% y/y hides indexed services and construction pressure against falling petroleum/manufacturing prices. Determine whether July wage/fee resets or skilled-trade scarcity are genuinely persistent beyond Q3, without adding net final-demand and gross industry indexes.
+
+4. ** AUSTRALIA — ABS INTERNATIONAL TRADE PRICE INDEXES, Q3 (29 OCT 2026)
+Export +1.4% q/q versus import -1.1% improves relative prices, but oil-linked LNG contract lags, iron-ore weakness and the subsequent fuel rebound question the currency/nominal-income durability; prices are not export volumes.
+
+G. RED TEAM QUESTIONS
+
+1. Does October's sharp services-output drop turn into contracting new business and unwinding backlogs, or does delivery/execution catch-up restore activity without strong new demand?
+2. Does the next trimmed-mean/weighted-median and services CPI confirm a wider domestic inflation distribution once September fuel, travel and energy-fiscal distortions recede?
+3. How much of Q3 services PPI reflects scheduled 1 July wage, medical-fee and contract resets rather than sustained, worsening underlying labor scarcity?
+4. Does softer new-dwelling CPI and house-building PPI show demand-driven limits on pricing power even while public/data-centre construction and skilled-trade costs remain strong?
+5. Will Q3 lower petroleum import/producer prices survive into Q4, or will the September retail-fuel increase, contract lags and AUD translation undermine the terms-of-trade relief?
+6. What independent evidence separates the post-CPI near-term RBA repricing from concurrent senior-official communication, and how large is the growth cost of another tightening step?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: AUD/USD (higher = stronger AUD). The public institutional sample was modestly constructive over 12 months but tactically cautious: attractive carry and possible further RBA tightening supported AUD, while a hawkish Fed and equity/risk volatility limited upside. RBA's 30 October 4pm spot reference was 0.7040, near short-horizon forecasts. ING and BNP Paribas each projected 0.73 at 12 months: a two-bank public cluster, NOT formal market consensus.
+Public-bank 3M cluster: 0.70 (ING, 12 October; BNP Paribas, October publication).
+Constructive AUD cluster: 12M 0.73 (ING and BNP Paribas; separate horizon).
+More cautious / tactical view: MUFG end-Q4 2026 at 0.70; ING's 29 October short-term 0.71 target has an imprecisely documented tenor and is not added to the 3M cluster.
+Bias at window close: Modestly AUD-constructive over 12 months, not compelling immediate upside from ~0.70.
+
+What changed through the data window
+MUFG's 1 October Q4 target of 0.70 remained the latest verified in-force public target, not an in-window revision. ING's 12 October profile already showed 0.70 at 1M/3M and 0.71 at 6M, after a prior downward revision. A contemporaneous 29 October desk report explicitly described ING raising a short-term target to 0.71 after the inflation/RBA reassessment, but did not substantiate an identical tenor to the 12 October 1M/3M forecasts. This is a tactical upgrade with a horizon caveat. BNP's 3M 0.70 / 12M 0.73 was pre-window and still relevant, not a newly raised post-CPI estimate. Spot approaching 0.70 is not itself a forecast change.
+
+Main consensus drivers
+- Relative yields: RBA inflation persistence and carry support AUD; hawkish Fed rates cap the bilateral gain.
+- External prices: LNG and Q3 relative-price relief aid nominal income, but iron ore, oil and China exposure make the tailwind uncertain.
+- Risk beta: global equities/technology risk and USD demand can overwhelm domestic carry.
+
+Where consensus could be wrong
+Too bullish AUD: Fed yields stay elevated, risk sentiment weakens and local demand/labor deterioration erodes policy carry. Too cautious AUD: inflation remains persistent enough to support RBA yields while commodity receipts improve and global dollar risk fades. Falsification: relative front-end yields, non-energy services inflation, private orders and export-price/volume follow-through.
+
+Contemporaneous source anchors
+- MUFG Research, 1 October 2026: https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026/
+- ING THINK, Chris Turner / Francesco Pesole, 12 October 2026: https://think.ing.com/articles/g10-fx-talking-october-2026
+- BNP Paribas Wealth Management, Currencies Focus October 2026 (9 October spot context): https://wealthmanagement.bnpparibas.com/en/insights/market-strategy/currencies-focus-october-2026.html
+- ING tactical upgrade relayed by Eamonn Sheridan, 29 October 2026: https://images.investinglive.com/central-banks/ing-lifts-aud-usd-target-to-0-71-as-it-backs-a-25bp-rba-hike-next-week/
+- RBA, 30 October spot reference: https://www.rba.gov.au/statistics/frequency/exchange-rates.html
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Inflation-constrained, restrictive rates; October private output contracts.
+- Change: Services output turned negative; quarterly core exceeded the RBA path, but PPI did not reaccelerate.
+
+Scoreboard
+- Growth: - | Composite PMI 47.7, services 47.8; service orders/backlogs qualify.
+- Labor: ~ | No new hard labor data; PMI shows some service hiring.
+- Inflation: - | Q3 trimmed mean 1.0% q/q, services CPI 4.1%; weighted median and housing cooler.
+- Financial Conditions: - | 4.60% rate; weak demand, external-price offset.
+- Policy Constraint: - | RBA core forecast miss versus demand weakness.
+
+Major Release Tape
+- **** CPI (28 Oct): 4.3% y/y; Q3 trimmed mean +1.0% q/q versus RBA +0.8% projection, in line with private poll; fuel versus services.
+- *** PMI (23 Oct): composite 47.7; services work, hiring/backlogs still positive.
+
+Minor Tape
+- ** PPI (30 Oct): +1.1% q/q / +3.6% y/y; sticky indexed services and construction, oil/manufacturing relief.
+- ** Trade prices (29 Oct): export +1.4%, import -1.1%; LNG/fuel timing.
+
+Central Bank
+- Bias: Conditional tightening risk, no presumed decision.
+- Reaction function: Underlying inflation versus restrictive-policy demand damage.
+- Key tape: No validated CB tape.
+
+Signal Tension
+- Tension: Output contracts; domestic services costs persist; energy partly eases.
+- What resolves it: Orders, CPI services, post-indexation PPI, jobs, oil.
+
+Key Releases
+- 1. ABS CPI — underlying breadth.
+- 2. Flash PMI — orders versus output.
+- 3. ABS PPI — indexed versus persistent services.
+- 4. ABS trade prices — external-price durability.
+
+Red Team
+- Does service weakness become a real new-order decline?
+- Do services prices reaccelerate after one-off resets?
+- Does renewed fuel inflation erase Q3 cost relief?
+
+FX Consensus
+- Consensus: Small public-bank sample favors longer-horizon AUD, not immediate upside.
+- Public-bank range / cluster: ING/BNP 3M 0.70 and 12M 0.73; MUFG Q4 0.70; ING 29 Oct short-term 0.71 (tenor unclear).
+- At window close: RBA 30 Oct 4pm AUD/USD 0.7040.
+- Consensus wrong if: Relative yields, services inflation or global risk reverse.
+
+<<AUD_WEEK_END>>
+
+
+
+<<AUD_WEEK_BEGIN>>
 
 DATA WINDOW: 4 October 2026 to 17 October 2026
 
