@@ -1,5 +1,251 @@
 <<ZAR_WEEK_BEGIN>>
 
+DATA WINDOW: 18 October 2026 to 31 October 2026
+
+STATUS: WORKING / NOT A CERTIFIED FINAL — SECTION C ORIGINAL SOURCE UNAVAILABLE
+
+A. ZAR WEEK — MACRO SYNTHESIS
+
+The incoming South African configuration was one of tentative stabilization rather than a convincing broad growth recovery, with relatively resilient retail spending but still weak forward-demand and hiring indicators. The supplied ZAR live-week status identifies three constructed publications (21 October CPI and retail sales, 27 October leading indicator), but its underlying 59 KB release archive is unavailable here. Thus the reported directional signals can be retained, while exact surprises, component decompositions and historical transitions cannot be independently reviewed. The leading indicator is explicitly revision-sensitive. No fresh hard employment release has been supplied: a lack of new labor evidence is not proof of a stable or improving labor market. The three subsequent publications (M3, PPI and trade balance) remain outside the validated source set.
+
+On inflation, the supplied live summary describes fuel-driven headline acceleration alongside softer core and rental inflation: the policy problem is the prospective diffusion of imported energy costs, not proof of a broad domestic inflation spiral. The 29 October Governor speech provides the genuine new policy information. Kganyago said SARB modelling finds prevailing settings sufficient to return inflation to its 3% target once the initial shock passes, but retained a clear willingness to tighten against embedded expectations, wages or price-setting. This is a modest de-escalation of the baseline hike narrative relative to the pre-window Bangkok interviews, not an MPC commitment to hold on 19 November. State transition: continuation of tentative growth stabilization and energy-led inflation tension, with a marginally less hawkish *communication* delta; no verified economy-wide reversal or November decision consensus.
+
+B. ZAR MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: The validated handoff describes resilient retail activity offset by soft forward-demand and hiring indicators. The leading indicator publication is built but its underlying detail and revisions are unavailable for independent review. This suggests tentative stabilization, not an established broad acceleration; no inherited prior-week sign can be verified.
+
+Labor: ~
+Supporting evidence: The supplied summary mentions weak hiring signals but contains no separately validated in-window hard-employment release or original component data. Labor conditions therefore remain unresolved; this is NOT a finding of labor stabilization.
+
+Inflation: -
+Supporting evidence: Fuel-driven headline acceleration is the adverse cumulative inflation condition described in the validated live status. Softer core and rental pressures weaken the case for immediate generalized pass-through. The material question is persistence in wages, services and expectations rather than fuel headline alone.
+
+Financial Conditions: ~
+Supporting evidence: The restrictive SARB repo-rate level and the Governor's characterization of recent rand resilience and more favorable borrowing conditions pull in opposite directions. No independently validated in-window market yield, credit, sovereign-spread or lending series has been supplied; net incremental financial-conditions change cannot be signed confidently.
+
+Policy Constraint: -
+Supporting evidence: The repo rate remains 7.25% after September's 25bp increase, while inflation risks remain above the 3% objective. The 29 October speech adds model-based confidence that this stance suffices in the baseline (a less hawkish weekly communication delta), but keeps conditional additional tightening alive if inflation becomes entrenched. Restrictive level and softer marginal rhetoric must not be confused.
+
+C. FULL RELEASE ARCHIVE
+
+SOURCE-INTEGRITY EXCEPTION — ARCHIVE NOT AVAILABLE
+The original validated ZAR_WEEK_LIVE_MACRO.txt (~59 KB, as described in the source handoff) is not present among the accessible conversation or Project files. Its previously built Reuters lines, original v3.7 PM FLASH / PM READ-THROUGH / PM DEBATE & KEY TAKEAWAYS fields, historical paragraphs, named source perspectives, detailed numerical tables, and Sections 1–4 cannot be reconstructed with fidelity from the status summary. THIS IS NOT A VALIDATED SECTION C; no publication below is represented as an archived release block.
+
+WEDNESDAY 21 OCTOBER 2026
+SOUTH AFRICA — CPI (SEP) | Importance: ****
+Source-hand-off status: constructed in the missing original live tape. Inflation described as fuel-driven acceleration, with softer core and rental prices. Original Reuters row(s), field values, official reconciliation, all PM fields and full Sections 1–4 NOT AVAILABLE. Do not treat this description as a replacement release block.
+
+SOUTH AFRICA — RETAIL SALES | Importance: **
+Source-hand-off status: constructed in the missing original live tape. Activity described as resilient. Original Reuters row(s), field values, PM fields, named human analysis, component tables and complete Sections 1–4 NOT AVAILABLE.
+
+TUESDAY 27 OCTOBER 2026
+SOUTH AFRICA — LEADING BUSINESS CYCLE INDICATOR | Importance: ***
+Source-hand-off status: constructed in the missing original live tape. Summary describes weak forward-demand/hiring signals and material revision sensitivity. Original Reuters row(s), full revision history, components, PM fields, comments and Sections 1–4 NOT AVAILABLE.
+
+The source handoff reported four original Reuters rows across these three constructed publications. None are reproduced: replacing them with plausible public data would breach the v2.1 archival and editorial freeze.
+
+Remaining source coverage not yet validated in the user handoff: 29 October M3 money supply; 29 October PPI; 30 October trade balance (three official publications, four additional Reuters rows). These are omissions, NOT zero readings or implicit neutral releases.
+
+D. CENTRAL BANK TAPE
+
+Summary — policy reaction function
+SARB repo rate 7.25%, effective 25 September 2026, after the unanimous
+23 September +25bp decision. Inflation target: 3% point target with a
++/-1 percentage point tolerance band. Next scheduled MPC: 19 November 2026.
+The 29 October in-window Governor speech marks a modest tonal shift:
+model-based confidence that the existing degree of restriction can bring
+inflation back to target after the fuel shock, coupled with an explicit
+commitment to respond if inflation, wages or expectations become entrenched.
+The speech is not an MPC decision, a meeting-specific guidance commitment,
+or proof that every MPC member favors holding in November.
+
+LESETJA KGANYAGO — SARB GOVERNOR, CHAMBER DINNER, JOHANNESBURG
+Date: 29 October 2026 | Publication: 29 October 2026 | Importance: ***
+Official source: https://www.resbank.co.za/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/kganyago-low-growth
+Evidence status: official primary text independently verified.
+
+Key policy signal:
+The SARB's model indicates the present policy stance is sufficient to
+restore 3% inflation as the initial energy shock recedes. Monetary policy
+cannot undo the first-round fuel price rise, but aims to stop a sustained
+wage-price and expectations response. Having tightened by 50bp since March,
+the SARB describes its initial conditions as moderately restrictive and
+inflation expectations as having been moderating before the shock. The
+governor maintains a conditional willingness to act. He also links credible
+fiscal policy and structural reforms to declining longer-term borrowing
+costs and recent rand resilience, but distinguishes these financial gains
+from slower real-economy improvements (growth projected to reach just 2%
+by 2029).
+
+Representative quotation from official prepared text:
+“So far, our modelling indicates that prevailing policy settings are
+sufficient to return inflation to target after the initial shock has passed.”
+
+Incremental reaction function:
+Relative to the 23 September unanimous hike and the cautious 15–16 October
+Bangkok interviews (both carry-over), the Governor makes model-based
+baseline sufficiency more explicit. This is moderately less hawkish in
+emphasis, not a reversal of the inflation-targeting reaction function or
+an unconditional signal of a November hold. No Q&A transcript is available.
+
+HUMAN VOICES / IN-WINDOW INTERPRETATION
+29–30 October, Bloomberg reporting syndicated by Moneyweb: the published
+framing emphasized the sufficiency of current policy to return inflation to
+3%; this is journalistic interpretation, not an official November vote
+forecast. Link:
+https://www.moneyweb.co.za/news/economy/sarb-confident-current-policy-can-bring-inflation-back-to-3/
+
+27 October, BusinessTech (pre-speech debate, following the 21 October MTBPS):
+- Nedbank Economic Unit (institutional, individual not named): maintained
+  a +25bp November hike call despite lowering the expected near-term
+  inflation peak from 6.4% in November to 5.7% in October following
+  announced fuel-levy relief; focused on persistent energy and second-round
+  price risk.
+- Annabel Bishop, Investec Chief Economist: judged pricing consistent
+  with no further SARB hike, noting pressure from expected compression of
+  SA–US yield differentials; this is market interpretation, not verified
+  repricing tied to the 29 October speech.
+- Izak Odendaal, Old Mutual Wealth strategist: judged further hikes
+  'probably unnecessary and unlikely' given the expected reversal of
+  fuel-inflation base effects by April 2027 and softer medium-term inflation.
+Source: https://businesstech.co.za/news/trending/881553/
+No verified revisions of these external November calls after Kganyago's
+29 October speech were supplied. The three views are not a formal survey.
+
+CARRY-OVER CONTEXT / EXCLUDED FROM CURRENT SPEAKER COUNT
+15 October Reuters and 16 October Bloomberg TV interviews in Bangkok:
+Governor Kganyago characterized rates as moderately/mildly restrictive,
+flagged an upturn in underlying inflation and resisted ruling out further
+hikes. This is a prior communications baseline, NOT an in-window event.
+September MPC statement and 6 October Monetary Policy Review similarly
+supply prior institutional context rather than fresh speaker signals.
+
+OTHER IN-WINDOW APPEARANCES / COMMITTEE COVERAGE
+20 October Kganyago Payments Conference: payments infrastructure and access;
+no verified monetary-policy increment. No in-window policy signal from
+Cassim, Tshazibana, Modise, Fowkes or Makrelov in the supplied scout.
+Their silence is not evidence of policy agreement. A Cassim conference
+date and the 29 October dinner Q&A remain unverified or unavailable.
+
+Point-in-time caution:
+The 21 October MTBPS announced fuel-levy relief taking effect from
+4 November; announcement is in-window, actual implementation is not.
+Later commentary published after 31 October must not be incorporated
+as contemporaneous market interpretation of the window.
+
+Bottom line — central bank tape:
+A measured and conditionally restrictive SARB with a more explicit
+baseline-hold argument, yet a live inflation/expectations trigger for
+additional tightening. The actual committee split is unobserved;
+November 19 remains open. No clean release-specific FX/rates repricing
+magnitude is verified.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: The SARB Governor's model says existing restriction is sufficient after the energy shock, yet near-term headline inflation is still fuel-driven and external economists dispute whether a further November hike is necessary. Softening core and rental prices favor patience; wages, services inflation and expectations could still validate pre-emption. This remains unresolved rather than a confirmed dovish pivot.
+Why it matters: A hold preserves the growth/carry balance only if imported energy costs do not become persistent domestic inflation; an additional hike could support carry but intensify a weak-demand backdrop.
+Implication: Treat November hold as a better-supported *baseline interpretation*, not a Governor commitment or committee consensus; test the pass-through chain and retain hike optionality.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+1. **** SOUTH AFRICA — CPI (21 OCTOBER 2026)
+   Most decision-relevant: isolate fuel from core, services and rental inflation, and measure whether the lower-than-feared underlying impulse is persistent. Full release composition and Reuters surprise need the absent validated source.
+
+2. *** SOUTH AFRICA — LEADING BUSINESS CYCLE INDICATOR (27 OCTOBER 2026)
+   The important question is how much of apparent stabilization survives large historical revisions and whether forward-order/hiring components improve together. The exact revision bridge is unavailable.
+
+3. ** SOUTH AFRICA — RETAIL SALES (21 OCTOBER 2026)
+   Clarify how much resilience is real-volume and broad-based versus isolated categories and nominal-price effects, and whether it can persist under higher energy costs.
+
+No other release is ranked: M3, PPI and trade balance remain unvalidated in the user-supplied source status.
+
+G. RED TEAM QUESTIONS
+
+1. Does broad services/core/rental inflation actually stay soft once fuel-price effects propagate, or is the October CPI composition providing false reassurance?
+2. What observable change in inflation expectations, wages or the next underlying-inflation prints would invalidate the Governor's 29 October model-sufficiency judgment before the 19 November MPC?
+3. How much of the reported leading-indicator stabilization persists after its unusually sensitive revisions and reconciliation with hard production and hiring?
+4. Is resilient retail spending sufficiently broad to absorb an energy squeeze, or are monthly sales concealing worsening real household purchasing power?
+5. Did the hike-side institutions revise their November expectations after Kganyago spoke on 29 October, or does the pre-speech external disagreement remain active?
+6. What would the missing October PPI, money and trade releases imply for inflation pass-through, credit demand and energy terms of trade once validated?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: USD/ZAR (higher means a weaker rand). The limited, publicly visible *institutional sample*, not a formal consensus survey, was cautiously constructive ZAR over several months but defensive on the immediate dollar/rates backdrop. USD/ZAR was about 16.70–16.71 on 30 October according to the cited historical spot series; provider fixing times may differ. ING's 12 October public projections were 16.50 at one and three months, 16.25 at six months, and 16.00 at twelve months. MUFG's 1 October forecast was 16.80 at end-Q4 2026 and 16.60 at end-Q1 2027. These are not identical horizons and should not be pooled into one artificial range.
+Public-bank approximately Q1-2027 comparison: ING 16.50 (three months from 12 Oct) versus MUFG 16.60 (end-Q1); small two-house sample.
+Constructive ZAR cluster: ING 16.25 at six months / 16.00 at twelve months; MUFG 16.30 end-Q2 2027 / 15.90 end-Q3 2027.
+More cautious / tactical view: MUFG 16.80 end-Q4, slightly above window-close spot.
+Bias at window close: medium-term ZAR recovery potential, but weak evidence for immediate long-ZAR conviction.
+
+What changed through the data window
+Neither the 1 October MUFG projections nor the 12 October ING projections was issued during 18–31 October; these are *in-force pre-window* forecasts, not verified in-window target revisions. ING's earlier adjustment of its three-month forecast from 16.25 in September to 16.50 in October was also pre-window. Spot near 16.70 moved closer to MUFG's 16.80 end-Q4 level and farther from ING's shorter-term 16.50 view; price convergence/divergence is not evidence of new forecaster conviction. The 29 October SARB communication made an additional hike less central to the baseline interpretation, but no dated post-speech FX forecast revision was validated.
+
+Main consensus drivers
+- Rate/carry asymmetry: a 7.25% SARB rate supports ZAR carry, but elevated US Treasury yields and USD strength create an opposing cross-market force.
+- Imported oil / external balance: South Africa's oil import exposure transmits energy prices into inflation, real demand and potential FX demand; export receipts offer a partial offset.
+- Fiscal risk premium: reform and primary-balance credibility support resilience, while modest growth and global risk aversion limit risk-taking.
+
+Where consensus could be wrong
+Constructive ZAR views fail if US yields, oil and inflation diffusion remain adverse even as growth weakens. The defensive case fails if energy normalizes, domestic core stays contained and external risk premia decline. The falsification test is sustained relative-rate/oil/spread adjustment alongside USD/ZAR versus the banks' dated, horizon-matched targets—not a target level used as a trading stop.
+
+Contemporaneous source anchors
+- MUFG, October FX Outlook, 1 October 2026: https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026/
+- ING THINK, EMEA FX Talking, 12 October 2026: https://think.ing.com/articles/emea-fx-talking-october-2026/
+- ING THINK, September predecessor: https://think.ing.com/articles/emea-fx-talking-september-2026/
+- Historical USD/ZAR cross-check: https://www.poundsterlinglive.com/history/usd-zar-2026
+- Historical USD/ZAR cross-check: https://za.investing.com/currencies/usd-zar-historical-data
+
+I. COMPRESSED WEEK NOTE
+Regime
+- Regime: Tentative stabilization, fuel-driven headline inflation, weak hiring transmission, restrictive SARB.
+- Change: No established economy-wide reversal; Kganyago's 29 October statement makes baseline policy sufficiency more explicit, without committing November's MPC.
+
+Scoreboard
+- Growth: ~ | Retail resilient; leading/hiring signals soft, original data unavailable.
+- Labor: ~ | No validated new hard labor release; no stability inference.
+- Inflation: - | Fuel-driven headline rise; softer core and rental measures.
+- Financial Conditions: ~ | Restrictive repo level versus cited rand/borrowing-cost resilience; market details missing.
+- Policy Constraint: - | Repo 7.25%; model-based sufficiency, but second-round risks keep hike optionality.
+
+Major Release Tape
+- **** CPI, 21 Oct | Energy leads acceleration; underlying breadth unproven. Original Reuters rows inaccessible.
+- *** Leading indicator, 27 Oct | Revision-sensitive forward-demand signal, awaiting hard-data confirmation.
+
+Minor Tape
+- ** Retail, 21 Oct | Reported consumption resilience; real-volume/category decomposition unavailable. M3, PPI and trade not validated.
+
+Central Bank
+- Bias: Conditionally restrictive; November hold interpretation strengthened but not official guidance.
+- Reaction function: Initial fuel shock tolerated; entrenched services, wage and expectations responses not.
+- Key tape: Kganyago, 29 Oct—existing rates modeled as sufficient. Bangkok interviews (15–16 Oct) are carry-over. Pre-speech Nedbank hike call versus Bishop/Odendaal hold; subsequent revisions unverified.
+
+Signal Tension
+- Tension: Current policy judged sufficient versus possible delayed inflation diffusion.
+- What resolves it: Core/services/rentals, wages, expectations and renewed SARB projections.
+
+Key Releases
+- 1. CPI | underlying inflation breadth.
+- 2. Leading indicator | revision sensitivity.
+- 3. Retail sales | real-volume durability.
+
+Red Team
+- Does fuel spread to wages/services despite softer core?
+- Will the leading-index signal survive revisions?
+- Did November-hike advocates revise after the Governor's remarks?
+
+FX Consensus
+- Consensus: Thin public-bank sample favors cautious medium-term ZAR recovery; not a formal survey.
+- Public-bank range / cluster: Approximate Q1-2027 USD/ZAR 16.50 (ING 3M from 12 Oct) versus 16.60 (MUFG end-Q1), not identical horizons.
+- At window close: Spot ~16.70–16.71; MUFG 16.80 end-Q4; ING 16.25 at six months / 16.00 at twelve.
+- Consensus wrong if: US yields, oil and sovereign risk premia remain persistently ZAR-negative.
+
+
+<<ZAR_WEEK_END>>
+
+
+<<ZAR_WEEK_BEGIN>>
+
 DATA WINDOW: 4 October 2026 to 17 October 2026
 
 A. ZAR WEEK — MACRO SYNTHESIS
