@@ -1,4 +1,883 @@
 <<JPY_WEEK_BEGIN>>
+DATA WINDOW: 1 November 2026 to 14 November 2026
+
+A. JPY WEEK — MACRO SYNTHESIS
+
+Japan has a two-speed economy: AI/semiconductor-linked manufacturing and corporate sentiment resilient, households under pressure, and an imported-cost shock not yet proven to be durable domestic inflation. October manufacturing PMI remained expansionary at 53.3 but fell from September's 54.1; composite PMI slipped to 52.1 as services recruitment and confidence weakened. September real household spending fell 6.8% y/y against -3.1% expected, extending ten annual declines. Weather amplified the monthly decline, while workers' household real income rose in a different sample. November Reuters Tankan non-manufacturing sentiment rebounded to +35 from +23, led by communications and services, but a 214-response sample and February outlook of +29 make the reversal provisional. The growth transition is stronger corporate confidence amid deteriorating realized consumption, not a synchronized recovery.
+
+Upstream inflation re-accelerated: October domestic CGPI rose 7.1% y/y and 0.7% m/m; yen import prices climbed 24.8% y/y, and 22 of 23 producer groups increased annually. Oil, chemicals, utilities and steel drove costs, yet scheduled October contract resets and slower PMI selling-price inflation leave pass-through versus margin compression unresolved. M2 growth slowed to 1.7% and M1 contracted, while broad liquidity still grew 4.1% and the monetary-base average stabilized; this signals tighter transmission, not a liquidity breakdown.
+
+The BoJ held 1.25% in October. Its 10 November Summary showed pressure for quicker normalization, but Asada on 12 November emphasized weak consumption, long policy lags and a lower neutral rate. Ueda's 6 November Q&A offered no December commitment. Economists leaned toward a December hike to 1.50%, not a Board pledge. Separate MoF warnings heightened FX-intervention risk as USD/JPY approached 160. The policy transition is a sharper debate over pace and endpoint, not resolved wage-led CPI persistence.
+
+B. JPY MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: October manufacturing PMI 53.3 and services PMI 51.7 remain expansionary; Reuters Tankan non-manufacturers rebound +12 points to +35 and AI-linked business demand supports orders/backlogs. But composite growth eased, service hiring/confidence softened, and September real household spending fell 6.8% y/y. The prior regime of business-led resilience persists, while the new household downside surprise prevents an upgraded economy-wide growth signal.
+
+Labor: ~
+Supporting evidence: Factory recruitment remained near its fastest in roughly 8.5 years, but composite hiring slowed to a one-year low and service hiring to its weakest in a fourteen-month run. The October Summary identified wage-price interaction and spring 2027 negotiations as key tests, not fresh hard labor data. No validated aggregate employment or wage publication in this archive demonstrates broad stabilization; factory strength cannot be extrapolated into household purchasing power.
+
+Inflation: -
+Supporting evidence: Domestic CGPI re-accelerated to 7.1% y/y (+0.7% m/m), with 22 of 23 producer groups higher annually and yen-import prices +24.8%. Multiple Board opinions regard underlying inflation as approximately consistent with 2%, but this is a policy assessment, not a newly released CPI observation. Slower PMI output-price increases, October contract resets and fragile demand keep the cost-to-consumer transmission unconfirmed. The adverse upstream impulse worsened rather than proving wage-led CPI acceleration.
+
+Financial Conditions: -
+Supporting evidence: Policy remains at 1.25%; firms cited higher borrowing costs, M2 growth slowed to 1.7% y/y, and M1 contracted. Against that restrictive inherited level, the monetary-base monthly average stabilized around ¥532.57tn, broadly-defined liquidity expanded 4.1% y/y and no disorderly money-market squeeze was established. Asada warned that further hikes could take a year or more to constrain real activity, but those lags are a forward risk, not a measured credit collapse in this window.
+
+Policy Constraint: -
+Supporting evidence: The 10 November Summary of Opinions contains advocates of earlier neutrality and others wanting to assess consumption and cumulative tightening, with anonymous remarks not attributable to individual members. Asada's 12 November caution about demand-led inflation, transmission lags and a rate already within the neutral-range estimate contrasts with faster-normalization arguments; Ueda gave no dated hike commitment. Producer/import inflation preserves optionality but household weakness and uncertain pass-through constrain pace. A 1.50% December rate was a contemporaneous economist expectation, not official guidance or verified market-implied odds. MoF intervention rhetoric is a separate FX-policy constraint.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 2 NOVEMBER 2026
+
+JAPAN — S&P GLOBAL MANUFACTURING PMI FINAL (OCT)
+Release Date: 2 Nov 2026 | Local Time: 09:30 JST (Reuters feed: 01:30)
+Importance: ***
+
+PM FLASH: Manufacturing PMI finalized at 53.3, unchanged from October flash but down from September's 54.1, a seven-month low. Output, total orders and export orders still grew, but at their slowest rates since March; input-cost inflation re-accelerated while factory-gate inflation eased to a six-month low.
+PM READ-THROUGH: Factory expansion remains meaningfully positive and supported by semiconductor/AI demand, but Q4 opens with softer incremental momentum. Hiring, rising backlogs and stock-building mitigate the slowdown; the quality of stock accumulation and capacity pressure matters more than the unchanged final headline.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: A cooling-demand reading coexists with near-decade-strong factory hiring and faster backlogs; higher input costs alongside softer selling prices raise the possibility of margin compression rather than immediate downstream inflation.
+Key takeaways: Distinguish durable final orders from precautionary inventories accumulated ahead of price rises; watch next-month orders, backlog conversion and the input/output-price gap.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPRPMI=ECI;2 nov;01:30;High;S&P Global Mfg PMI Final SA;Oct;53,3;53,3;;;
+
+2. Professional Market Commentary
+
+S&P Global's October final survey and Kaori Kaneko (Reuters, 2 November) framed manufacturing as still expanding at a respectable pace, but weaker than during the Q3 acceleration. The index remained above its long-run average of 50.6. Firms cited semiconductor and AI demand, stronger order volumes and customers in China and the rest of Asia, North America, Africa and the Middle East, although the rate of export-order growth slowed. The index matched the flash, so there was no final-vintage headline surprise documented in the Reuters feed.
+
+Phil Smith (Economics Associate Director, S&P Global Market Intelligence, survey producer) stressed that manufacturing had not sustained earlier output and order growth, but maintained a historically solid expansion. His producer commentary also pointed to continued hiring and capacity needs, while noting stronger costs and a slower rise in selling charges. He is a named official survey voice, not an independent sell-side economist. In S&P Global's 23 October pre-final survey analysis, Jingyi Pan highlighted AI demand, extended supplier delays and precautionary stockbuilding while arguing that competition limited pass-through; that piece concerns the flash vintage and is used as composition context, not a new final-release reaction.
+
+ActionForex (2 November) placed more emphasis on strong hiring, backlogs and purchasing inventories as signs of resilience; Reuters emphasized the loss of output and order momentum. These are two emphases on the same data, not independent contradictory economic forecasts. Trading Economics confirmed the slowdown, prices and longer deliveries. No Tier 1 institutional debate detected beyond the producer's view and the professional desk contrast; no standalone public bank economist view was verified.
+
+The session snapshot reported by Seeking Alpha via TradingView (Nikkei stronger, yen weaker near 158 per US dollar) was not timed or attributed to the 09:30 JST final PMI. It is broader market context only, not release-caused pricing.
+
+Source anchors: S&P Global final manufacturing publication (2 November), https://www.pmi.spglobal.com/Public/Home/PressRelease/3907451c2b124804bd5321c3ca139727 ; Reuters/Kaneko (2 November), https://www.marketscreener.com/news/japan-s-october-factory-growth-slows-as-costs-pick-up-pmi-shows-ce785fd8dd8cfe23 ; S&P Global/Jingyi Pan (23 October flash research), https://www.spglobal.com/market-intelligence/en/news-insights/research/2026/10/japans-october-flash-pmi-points-to-sustained-solid-growth-and-rising-cost-pressures ; ActionForex (2 November), https://www.actionforex.com/live-comments/659469-japan-pmi-manufacturing-eases-to-53-3-as-momentum-cools-but-capacity-pressures-persist/ .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+Manufacturing remains one of the strongest parts of Japan's activity picture, but the final October survey gives a clear deceleration signal rather than renewed acceleration. The 53.3 level is comfortably above both the expansion threshold and the long-run PMI average, while output and new orders continued to rise. The decline from 54.1 in September and weaker order/export momentum nevertheless imply that the rate of improvement has slowed at the start of Q4. An unrevised final reading changes little relative to the October flash, so the information value is chiefly in component confirmation, not a fresh headline shock.
+
+The central tension is between slower demand momentum and strong measures of labor/capacity pressure. Hiring stayed near its fastest pace in roughly eight and a half years, backlogs accumulated faster, and purchasing inventories rose sharply. Those conditions may indicate a genuine production pipeline but may also reflect delayed inputs and stockpiling to insure against future price increases. Supplier delivery delays and input-price inflation complicate any mechanical inference that high backlogs signal only new end-demand.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Survey indicator | October final | Comparator or qualitative detail |
+|---|---:|---|
+| Manufacturing PMI | 53.3 | September 54.1; October flash 53.3; long-run average 50.6 |
+| Production | Expansion, 10th month | Slowest increase since March |
+| Total new orders | Expansion | Slowest growth in seven months; Reuters reports 10th monthly rise |
+| New export orders | Expansion | Slowest increase since March |
+| Employment | Strong expansion | Near fastest rate in ~8.5 years; matched September pace |
+| Backlogs | Firm increase | Growth faster than September |
+| Purchasing | Rising | Weakest rate in six months |
+| Input inventory | Rapid build | Fastest / near fastest in four years |
+| Finished-goods inventory | Slight rise | Slower accumulation than September |
+| Input-price inflation | Re-accelerating | First acceleration in five months per producer/release coverage |
+| Factory-gate inflation | Moderating | Six-month low, above historical average |
+| Output expectations | Improving | Eight-month high |
+
+Demand and capacity: Strong AI/semiconductor-related orders support genuine customer demand, reinforced by growth in exports to several regions and a rising backlog. But the order-growth deceleration is important. Output and new work are diffusion measures, not quantities, and the survey cannot prove that AI demand alone explains capacity tightness. Firms can complete older orders and still report slower new demand.
+
+Inventory/supply-chain mechanism: Stocks of purchases increased exceptionally rapidly while finished-goods inventories increased only slightly. Part of this can signal production preparation, but the producer's prior October analysis explicitly cited safety-stock behavior in response to delivery delays and anticipated price increases. Supplier delays can reflect logistics disruption as much as demand exceeding supply. Rising inventories can initially support orders and output but later create a reversal if inputs normalize or demand weakens; next-month orders and inventories are therefore critical.
+
+Margins and pass-through: Manufacturing purchase-price inflation re-accelerated amid energy, raw-material and component increases, while output-price inflation slowed to a six-month low. Producers may be temporarily accepting thinner margins, using contracts with delayed repricing, or defending market share. Strong backlogs do not automatically prove immediate pricing power. If the gap persists, profits and hiring intentions could weaken even while nominal sales and input spending remain high. The CGPI published later in the monitoring window strengthens evidence of upstream cost inflation, not proof of an identical rise in final manufactured-goods selling prices.
+
+Labor and forward guidance: Strong factory hiring and the eight-month high in optimism are genuine offsets to slower orders. This composition is different from the weak consumption and slowing aggregate hiring signals elsewhere in the week's tape. A manufacturing-heavy AI investment cycle can maintain employment and capacity pressure without a comparably strong household spending rebound. Cross-sector dispersion, rather than a uniform boom or collapse, is the cumulative signal.
+
+Data quality: The Reuters Prior of 53.3 is the October flash, not September's 54.1 final, and is preserved mechanically. The producer extract suggested a ninth-month new-orders streak in a truncated passage, while Reuters reported ten; the precise streak count remains unconfirmed beyond the reporting difference. Accounts differ between four and five months for the previous input-price acceleration; the five-month account is better supported by the full producer-related reports. Underlying numerical subindices were not supplied, so exact contributions cannot be computed.
+
+State transition: continuation of a strong but moderating manufacturing expansion — orders/output remain positive and capacity indicators firm, while demand momentum eases and the input/output-price divergence intensifies.
+
+Context from prior regional live file: September's manufacturing index of 54.1 followed strong summer production, export and AI-related investment demand. October's 53.3 moderates that momentum without reversing the expansion, as solid backlogs and hiring coexist with slower orders. The unresolved test is whether stockpiling and delivery disruption are exaggerating the persistence of the factory cycle.
+
+4. HF Take — Strategist Layer
+
+What changed: October provides credible confirmation that industrial expansion has not stalled, but it weakens a simple extrapolation of September's pace. The useful incremental information is stronger backlogs and hiring on one side, and slower order inflow and widening cost/margin pressure on the other. This distinction becomes more relevant after the 10 November household-spending shock and 12 November CGPI acceleration: Japan is not experiencing a synchronized household-and-factory demand boom.
+
+Why it matters: A manufacturing pipeline supported by technology orders can preserve activity and some wage or employment momentum, giving the BoJ room to consider further normalization. Yet prices rising faster for inputs than at the factory gate imply partial absorption of cost shock, and precautionary inventories are vulnerable to later reversal. It would overreach to convert an unrevised final PMI directly into a fresh policy-timing or FX signal. The only observed session-level yen/equity figures in the scout lacked release attribution.
+
+What to verify next: November manufacturing new/export orders and output; backlog-to-output conversion and delivery times; input stocks versus final orders; input/output-price spread and CGPI goods composition; factory employment versus aggregate/private-sector hiring.
+
+Macro configuration: above-average, AI-supported manufacturing expansion + softer order momentum + faster backlogs and strong factory hiring + unusually high defensive inventories + upstream cost acceleration not fully passed through to final customers.
+
+WEDNESDAY 4 NOVEMBER 2026
+
+JAPAN — MONETARY BASE (OCT)
+Release Date: 4 Nov 2026 | Local Time: 08:50 JST (Reuters feed: 00:50)
+Importance: **
+
+PM FLASH: October monetary base contracted 13.65% y/y versus 15.21% in September in the supplied Reuters data (BoJ rounded rates -13.6% and -15.2%). The average outstanding level was nearly unchanged at ¥532.57tn versus ¥532.85tn, while seasonally adjusted annualized monthly growth reversed to +4.9% from -10.2%.
+PM READ-THROUGH: The annual contraction moderates, not ends. Stable average balances and a small month-end increase qualify the apparently large year-on-year improvement; no comparable broad-money or credit expansion follows mechanically from this central-bank liability measure.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Year-over-year contraction and positive month-end growth describe different measurement bases, not competing views. No independent release-specific economist debate was established.
+Key takeaways: The annual comparison is heavily affected by the earlier balance-sheet path; isolate BoJ current-account balances, reserve balances, security operations and government deposits before assigning a policy signal.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPMBSE=ECI;4 nov;00:50;High;Monetary Base YY;Oct;-13,65%;-15,21%;;;
+
+2. Professional Market Commentary
+
+The Bank of Japan's Monetary Base release on 4 November showed a fifteenth consecutive annual decline according to contemporaneous data reporting, but with a less negative October rate. The official series places average monetary-base balances at approximately ¥532.57tn, a negligible reduction from September's ¥532.85tn. Reuters' precise -13.65% and -15.21% rates are maintained mechanically in Section 1; the BoJ publication displays rounded -13.6% and -15.2%. Both measures are consistent to the displayed precision.
+
+RTTNews (3 November US time / 4 November Japan time) framed the result as a smaller annual fall than its separately cited -14.0% expected decline; the user's Reuters feed provides no poll, so this is not adopted as a Reuters surprise. EconoTimes (Miriam Hart, 9 November, discussing a later BoJ transaction publication) highlighted the ¥1.8tn increase in the October month-end base, driven by current-account balances against falling banknotes. This is adjacent later contextual reporting, not a contemporaneous independent market reaction to the 4 November statistics. Neither article supplied an independently named macro economist's assessment. No Tier 1 institutional debate detected.
+
+No BoJ-specific market repricing, JPY movement or JGB yield reaction can be attributed to the monetary-base publication.
+
+Source anchors: Bank of Japan, Monetary Base (October 2026), released 4 November, https://www.boj.or.jp/en/statistics/boj/other/mb/base2610.pdf ; RTTNews, https://www.rttnews.com/3709018/japan-monetary-base-sinks-13-6-on-year-in-october.aspx ; EconoTimes (9 November later publication context), https://econotimes.com/Bank-of-Japan-Monetary-Base-Rises-1-8-Trillion-in-October-1773416 .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The annual rate of monetary-base contraction has become less severe, but the immediate level signal is stabilization rather than meaningful monetary expansion. Average balances barely changed in October while the September-to-October seasonally adjusted annualized monthly rate moved from -10.2% to +4.9%. These readings can coexist: annual growth compares with a much higher October 2025 balance; the SAAR measure captures a modest positive change in a seasonally adjusted current level. Neither should be translated mechanically into bank lending, household liquidity or the BoJ's next policy-rate decision.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| BoJ monetary base component | September 2026 | October 2026 | Measurement |
+|---|---:|---:|---|
+| Monetary base, y/y | -15.2% | -13.6% | Average level, rounded official |
+| Current-account balances, y/y | -18.3% | -16.4% | Average level |
+| Reserve balances, y/y | -17.3% | -15.2% | Subset of current-account balances |
+| Banknotes, y/y | -2.0% | -2.3% | Average level |
+| Coins, y/y | -1.2% | -1.1% | Average level |
+| Monetary-base average | ¥532.85tn | ¥532.57tn | Unadjusted average |
+| Current-account average | ¥413.67tn | ¥413.93tn | Unadjusted average |
+| Reserve-balance average | ¥382.89tn | ¥382.17tn | Unadjusted average |
+| Monetary-base monthly SAAR | -10.2% | +4.9% | Seasonally adjusted annualized rate |
+| Monetary-base month-end | ¥535.42tn | ¥537.21tn | End-of-month stock |
+
+Current account balances dominate the base and explain the improvement in the annual rate more than currency in circulation. October current-account balances rose modestly in average terms and more at month-end; reserve balances, however, were slightly lower on the average stock measure. Differences between end-month, monthly-average and seasonally adjusted rates are not statistical contradictions: government cash flows, BoJ operations and the within-month profile can produce different snapshots, while year-ago bases drive the annual growth calculation.
+
+The central-bank monetary base is composed of banknotes, coins and balances held at the BoJ. It is not the M2 money stock held by the private non-bank sector. A contraction in reserves can occur alongside slower but positive deposit growth; the money-stock release later in the week confirms that these are distinct concepts. Neither the October base level nor its annual rate identifies whether changes arise from JGB holdings, other balance-sheet operations, government-account transfers or autonomous liquidity factors. The February 2026 seasonal-adjustment methodology change also limits casual comparisons of short-term SAAR rates across vintages.
+
+State transition: stabilization within ongoing monetary-base contraction — the annual decline becomes less severe and the monthly seasonally adjusted change turns positive, but the unadjusted average base remains essentially flat rather than signalling renewed monetary expansion.
+
+Context from prior regional live file: The monetary base had contracted at a progressively faster annual rate through late summer, reaching -15.7% in August and -15.2% in September. October's -13.6% interrupts that deepening but leaves the stock far below a year earlier. The trajectory is still one of balance-sheet normalization with a tentative near-term stabilization in base levels.
+
+4. HF Take — Strategist Layer
+
+The new information is not a policy pivot: the monetary base's year-on-year decline eased while the monthly average remained flat and the seasonally adjusted series bounced. It slightly reduces confidence in a narrative of continuously accelerating central-bank-liquidity withdrawal, but does not contradict continuing normalization or demonstrate fresh credit creation. Any direct December rate or JPY inference would be spurious without evidence on the BoJ's operational flows, the call rate and policy communication.
+
+For cross-release coherence, keep balance-sheet quantity separate from domestic money stock. M2 and broad liquidity growth later in the week slowed even as the monetary-base year-on-year rate improved; that is not a paradox because the sectors, assets and seasonal treatments differ. The PM question is whether actual lending, deposit composition and financial transmission tighten, not whether one base-stock growth rate becomes less negative.
+
+What to verify next: November monetary-base averages and current accounts; BoJ JGB purchase/redemption and other operations; government deposits and short-term funding rates; seasonally adjusted revisions; M2 deposits and bank lending.
+Macro configuration: year-on-year monetary-base contraction + stable October average level + temporary positive adjusted momentum + ongoing portfolio/credit-transmission uncertainty + low independent BoJ decision relevance.
+
+THURSDAY 5 NOVEMBER 2026
+
+JAPAN — S&P GLOBAL SERVICES PMI / COMPOSITE OUTPUT PMI FINAL (OCT)
+Release Date: 5 Nov 2026 | Local Time: 09:30 JST (Reuters feed: 01:30)
+Importance: ***
+
+PM FLASH: October services PMI finalized at 51.7, below the 52.0 flash but above September's 51.3. The composite eased to 52.1 from 52.3, below its unchanged 52.3 flash. Services orders grew modestly; composite hiring slowed to a one-year low and services input-cost inflation cooled to an eight-month low.
+PM READ-THROUGH: Japan's private-sector expansion continues, but Q4 opens with less momentum than the flash suggested. Resilient domestic services orders and manufacturing backlogs are offsets to slowing hiring, weaker confidence and rising pressure on household purchasing power.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Cost levels remain historically high despite slower price increases; service-sector hiring and optimism are cooling even while activity expands. This supports neither a clean demand collapse nor a decisive wage-price acceleration.
+Key takeaways: Watch whether domestic services demand resists the household spending downturn, and whether weaker selling-price inflation reflects margin absorption, competition or more durable cost disinflation.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPCOFF=ECI;5 nov;01:30;High;S&P Global Comp Op Final SA;Oct;52,1;52,3;;;
+JPPMIS=ECI;5 nov;01:30;High;S&P Global SVC PMI Final SA;Oct;51,7;52,0;;;
+
+2. Professional Market Commentary
+
+The final S&P Global survey showed five consecutive months of growth in services and nineteen in the composite, with the latter's pace the weakest since May. Satoshi Sugiyama (Reuters, 5 November) led with the small improvement in services relative to September but emphasized the downward revision from the flash, softer hiring and inflation worries. Services new business has risen for 28 months; domestic customer acquisition and business-development efforts provided support, while foreign services orders continued contracting, albeit at a slower pace.
+
+Annabel Fiddes (Economics Associate Director, S&P Global Market Intelligence, survey producer) stressed that weaker manufacturing growth outweighed a slightly faster services expansion, reducing composite momentum. She identified persistent high costs, easing but still historically rapid selling-price increases, a one-year low in private-sector hiring and weaker expectations; continuing inflation risk could constrain future demand and recruitment. Her policy interpretation was conditional on the evolution of growth and inflation, not a specific meeting forecast. She is the producer's explanatory voice rather than an independent bank economist.
+
+Eamonn Sheridan (investingLive, 5 November, desk commentary relayed via a third-party page) characterized the survey as two-sided for the BoJ: elevated costs favor the tightening argument, but slower hiring and confidence support caution. He expected little incremental change in December pricing from the final survey, an opinion rather than an observed market price or verified OIS repricing. ActionForex similarly emphasized uneven private-sector momentum, with firmer service growth offset by weaker factories and hiring. These sources give differentiated framing but no independently attributed human economist house assessment. No Tier 1 institutional debate detected.
+
+Source anchors: Official S&P Global final services/composite release (5 November), https://www.pmi.spglobal.com/Public/Home/PressRelease/8d98c360f59f473c90b190da3af1dc30 ; Reuters/Sugiyama relay, https://www.933thedrive.com/2026/11/04/japan-services-activity-expands-for-fifth-month-pmi-shows/ ; Il Sole 24 Ore Radiocor (5 November), https://www.borsaitaliana.it/borsa/notizie/radiocor/economy/dettaglio/japan-oct-services-pmi-517-vs-513-in-sept-nRC_05112026_0822_179535779.html?lang=en ; ActionForex, https://www.actionforex.com/live-comments/659871-japan-pmi-composite-slips-to-52-1-as-hiring-weakens-despite-firmer-services-growth/ .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The final data reinforce ongoing but uneven Japanese private-sector expansion. Services at 51.7 improved from September's 51.3 but did not validate the flash's stronger 52.0 reading; the composite at 52.1 was slightly below September and May's subsequent peaks, with the downward final revision reflecting a slower factory-output contribution. The monthly positive diffusion readings and lengthy expansion streaks argue against a broad business-activity contraction. They do not guarantee equally strong growth in real household purchases, employment or margins.
+
+The more consequential new information concerns the quality of the expansion. Services are adding customers and backlogs, but hiring barely grows and forward confidence is weaker. Meanwhile, businesses still face historically high operating cost inflation even though both input and output price rates moderated. The combination supports resilience in activity and risk to future consumption, not a demonstrated domestic wage-price spiral.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Indicator | October final | Comparison / signal |
+|---|---:|---|
+| Services business activity | 51.7 | September 51.3; October flash 52.0 |
+| Composite output | 52.1 | September 52.3; October flash 52.3; 19th month above 50 |
+| Services new business | Growth, 28th month | Slight pick-up, still modest; domestic-led |
+| New export business, services | Declining | Slowest contraction in six months, but still negative |
+| Services employment | Barely increasing | Weakest gain in 14-month hiring streak |
+| Services outstanding business | Increasing | Capacity utilization and/or staffing mismatch |
+| Services input price inflation | Easing | Eight-month low, still above long-run average |
+| Services output charges | Increasing more slowly | Persistently positive for about 4.5 years |
+| Services business expectations | Falling | Lowest since March |
+| Composite new orders | Modest growth | About September's pace |
+| Composite exports | Still rising | Four-month low growth rate |
+| Composite employment | Expansion slowing | One-year low |
+| Composite selling price inflation | Easing | Four-month low |
+| Composite confidence | Falling | Three-month low |
+
+Growth and breadth: The service sector's positive domestic new business, client acquisition and capacity backlog provide evidence of ongoing business demand. Yet continued weakness in service exports contrasts with the manufacturing PMI's positive but slowing merchandise exports. It is incorrect to infer a uniform external demand cycle across Japanese goods and services. The composite's small decline must be interpreted alongside services' improvement and manufacturing-output deceleration, not as evidence of an outright contraction.
+
+Hiring and capacity: Services payrolls rose only fractionally, the weakest monthly increase across fourteen months, partly because resignations offset new hires. Backlogs can rise when customer demand strengthens, but also when staffing capacity is constrained. Composite hiring fell to a one-year low even though manufacturers reported hiring near their strongest in eight and a half years. This compositional divergence suggests that factories and services are operating under different labor and capacity conditions; it also cautions against generalizing the factory hiring strength into broad wage pressure.
+
+Prices, real demand and margins: Services input costs decelerated to an eight-month low but remained historically sharp, with selling charges also increasing more slowly. At the aggregate private-sector level, high input-cost levels and softer output-price inflation leave margins exposed if volumes do not grow. The producer's flash-vintage assessment cited competition and weak-yen/imported-cost pressure as possible reasons for limited pass-through. This is consistent with, but not sufficient to prove, margins absorbing the shock. October CGPI later showed renewed goods producer-price inflation; that is a different price index and timing and does not establish the same rate of change for services fees or consumer CPI.
+
+Confidence and transmission: Forward expectations were lower because of inflation, aging and labor shortages, despite optimism around defense, technology, tourism and new business plans. The September real household-spending slump published on 10 November concerns an earlier calendar month and a different statistical population; it is a meaningful cross-check, but the PMI alone cannot tell whether household purchases in October fell to the same degree. Services' domestic customer gains and weak household outlays can coexist if the underlying service mix, firms and goods expenditure differ.
+
+Data quality: Both Reuters Prior values refer to the October flash (services 52.0, composite 52.3), not to September's final services 51.3 and composite 52.3. No Reuters poll is provided, so the difference from flash is a revision, not a mechanically verified Reuters surprise. The final producer survey was collected 9–27 October from roughly 400 services firms, covering multiple business and consumer-services industries but excluding retail from its panel; the composite weights services and factory output by GDP contribution. Underlying numeric subindex levels were not given, so no exact GDP or inflation arithmetic is inferred. Survey observations do not substitute for hard national accounts.
+
+State transition: continuation of positive but slowing private-sector growth — services activity firms marginally, manufacturing-output momentum fades, hiring and confidence soften, and historically high cost pressure persists despite slower increases in prices charged.
+
+Context from prior regional live file: September's composite reading of 52.3 and services activity at 51.3 had already shown positive private-sector demand with manufacturing leadership. October preserves an expanding composite but shows slower factory output and much weaker service-sector hiring and confidence. The cycle remains positive but increasingly uneven and sensitive to cost pressure.
+
+4. HF Take — Strategist Layer
+
+What changed: The final services recovery is less convincing than the flash, and the composite's moderation confirms the factory-sector loss of momentum. The main PM-relevant increment is the mismatch between still-expanding orders/backlogs and deteriorating hiring and expectations, rather than a large index-level move. This qualifies the strong investment/AI manufacturing narrative without negating it.
+
+Why it matters: Strong costs with less forceful price rises are a policy and margins tension. If businesses are absorbing costs, CPI pass-through could remain contained but profits and hiring may weaken; if prices accelerate later, the BoJ's domestic inflation case strengthens at the expense of real consumption. The survey does not resolve that branching. It also predates the weak September household release, which raises the importance of distinguishing firm-side demand from household spending. Neither the final PMI nor the scout establishes a clean yen, JGB or OIS market reaction.
+
+What to verify next: November services new orders, especially domestic versus external; service staffing, vacancies, backlogs and wage settlements; input/selling-price spread and consumer-services CPI; consumer confidence and subsequent household purchases; next composite and manufacturing-output revisions.
+
+Macro configuration: still-positive private-sector output + domestic-led services growth + moderating factory momentum + slowing overall hiring + easing yet elevated service price increases + deteriorating confidence and uneven demand transmission.
+
+TUESDAY 10 NOVEMBER 2026
+
+JAPAN — FAMILY INCOME AND EXPENDITURE SURVEY / ALL HOUSEHOLD SPENDING (SEP)
+Release Date: 10 Nov 2026 | Local Time: 08:30 JST (Reuters feed: 00:30)
+Importance: ****
+
+PM FLASH: Real expenditure of two-or-more-person households fell 6.8% y/y versus -3.1% expected and -2.8% m/m versus +0.3% expected. This is the tenth annual decline and the steepest since September 2020. Food, energy, transport, durables and recreation weakened; workers' household real income nevertheless rose 0.9% y/y.
+PM READ-THROUGH: The severe miss strengthens the evidence that firm-side activity and nominal wage gains are not delivering synchronized household consumption. Record rainfall, typhoons and temperature-sensitive purchases likely exaggerated the monthly fall, but do not remove the trend of prolonged weak spending.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: A persistent cautionary-consumption interpretation contrasts with a recovery view based on rising nominal wages and planned government price relief; weather explains unusually large falls in energy and some durable purchases but is an incomplete explanation for ten weak months.
+Key takeaways: Compare successive consumption measures and the split between income, real volumes and discretionary services before treating September as either permanent demand damage or a pure one-off.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPALLS=ECI;10 nov;00:30;Med;All Household Spending YY;Sep;-6,8%;-3,1%;;-3,1%;-3,70%
+JPALLM=ECI;10 nov;00:30;Med;All Household Spending MM;Sep;-2,8%;0,1%;;0,3%;-3,10%
+
+2. Professional Market Commentary
+
+The Ministry of Internal Affairs and Communications (MIC) confirmed that real expenditure among households of two or more people fell 6.8% y/y, while nominal expenditure fell 4.5%, with average spending of ¥289,536. Workers' households earned ¥528,074 on average, up 3.4% nominal and 0.9% real. Reuters Japan's Tetsushi Kajimoto (10 November) described the largest annual drop since the pandemic and its tenth consecutive decline, emphasizing typhoons and persistent high prices. Reuters' Satoshi Sugiyama emphasized the contrast with rising real wages and exceptional Tokyo rainfall, citing an unnamed MIC official who linked the fall to fewer outings. Those are official explanations, not an exhaustive causal decomposition.
+
+Takeshi Minami (executive research fellow, Norinchukin Research Institute; Reuters Japan, 10 November) interpreted the release as confirmation of underlying consumer weakness, with households becoming more frugal despite higher wages because of food prices and waning energy subsidies. He raised the risk of negative private-consumption contributions in both Q3 and Q4. Pang Junwen (economist, Daiwa Institute of Research; public summary dated 10 November) agreed that consumption fell in September, corroborated by the CTI Micro and real-retail gauges, but expected subsequent consumption resilience from continued wage increases, a higher minimum wage and announced price relief. This is a substantive disagreement over persistence, not over the published decline.
+
+The official rainfall explanation and an independent practitioner interpretation emphasizing purchases deferred by bad weather make a one-month rebound plausible. Neither rules out underlying restraint on discretionary consumption. Financial desks tied the surprise to the possibility of a December BoJ hike, but no price or OIS probability was evidenced as a direct reaction. Market observations for the closely timed September household and balance-of-payments publications are treated once, at the end of this block's Section 4, recognizing that the BoJ's October Summary of Opinions was also published that morning.
+
+Source anchors: MIC/Statistics Bureau (10 November), https://www.stat.go.jp/english/data/kakei/156.html ; Reuters/Sugiyama (10 November), https://www.reuters.com/world/asia-pacific/japan-september-household-spending-slumps-amid-bad-weather-2026-11-10/ ; Reuters Japan/Kajimoto, https://www.newsweekjapan.jp/articles/-/339587 ; Daiwa Institute of Research/Pang (10 November), https://www.dir.co.jp/report/research/economics/japan/20261110_026185.html .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The September survey is a major demand downside surprise and a serious constraint on assuming that corporate growth and higher wages are already benefiting consumers. The -6.8% annual decline is far larger than the Reuters -3.1% poll and deepens the recent run of negative real spending. The -2.8% seasonally adjusted monthly decline, after +0.1% in August, marks a distinct sequential setback. A sequence of ten consecutive annual declines means one cannot attribute the entire household-demand picture to September storms, even though weather plausibly magnified the monthly drop.
+
+Income and outlays differ sharply. Workers' household real income increased 0.9% y/y even as the broader two-or-more-person household spending series contracted. The distinction in household population and composition must be respected: income for workers' households is not directly equal to aggregate income of every spending-survey household. Other wage data point to rising nominal earnings, but wages alone do not force higher real consumption when precautionary saving, inflation expectations, household composition, debt service and weather can affect spending.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Measure | September | Comparator / interpretation |
+|---|---:|---|
+| Real consumption, y/y | -6.8% | August -3.1%; Reuters poll -3.1% |
+| Seasonally adjusted real consumption, m/m | -2.8% | August +0.1%; Reuters poll +0.3% |
+| Nominal household consumption, y/y | -4.5% | Mean outlay ¥289,536, two-or-more-person households |
+| Workers' household income, nominal y/y | +3.4% | Mean ¥528,074 |
+| Workers' household income, real y/y | +0.9% | Different coverage than aggregate spending |
+| CTI Micro, real m/m | -1.6% | Daiwa cross-check; second decline |
+| CPI-deflated retail sales, m/m | -1.0% | Daiwa cross-check; different methodology |
+
+Broad negative categories, but uneven underlying causes (real y/y, per Reuters Japan/agency reports rather than the unopened official Excel breakdown): food -2.5% (rice -23.7%, beverages -12.7%); fuel, light and water -10.5% (electricity -11.9%); furniture and household goods -6.4% (household durables -12.0%); transport and communications -9.1%; education -23.5%; culture and recreation -8.7%. Weather reduces cooling needs and air-conditioner purchases and discourages outings, while transport/car purchases and education can also be volatile by purchase timing. Food and wider discretionary weakness cannot automatically be explained by rainfall. Lower-confidence lower-weight category estimates from an AI-generated digest are not promoted to verified facts.
+
+Historical momentum: secondary reporting puts June/July/August real spending at -3.3%/-3.6%/-3.1% y/y and September at -6.8%. The tenth annual decline is the longest streak since the thirteen-month negative run in 2023–24. The September 2020 comparator was distorted by pandemic conditions and purchase timing, so the 'largest since 2020' label indicates a large decline, not equivalence of economic causes. The first monthly drop in three months is meaningful but a single volatile sample cannot establish a new -2.8% recurring monthly run rate.
+
+Income, prices and measurement: The nominal-versus-real gap is consistent with inflation continuing to reduce purchasing power. Yet because nominal spending also declined, inflation alone cannot account for the fall in real purchases. Cross-checks from the CTI Micro (-1.6% m/m) and inflation-adjusted retail volumes (-1.0%) point in the same direction but show smaller declines, arguing for real weakness plus survey-specific or compositional amplification. The official English summary confirms only the headline/worker-income details; linked official category Excel and e-Stat tables were not opened in the supplied scout. Seasonal factors, survey coverage and the weakness of one-month household purchase data impose uncertainty on precision.
+
+Cross-release reconciliation: October manufacturing and services PMIs remained above 50, with business orders positive. Those firm-side October surveys and September household outlays describe different sectors, months and sampling universes. They can coexist if demand is driven by business investment, exports and some services while consumer-goods purchases suffer. The CGPI subsequently showed a renewed upstream cost shock; the risk is that corporate costs damage household purchasing power before labor income and final services prices rise enough to sustain a domestic demand-driven cycle.
+
+State transition: deterioration in realized household demand — severe downside surprise and prolonged annual declines despite rising household real income, with weather-sensitive categories amplifying but not fully explaining the weakness.
+
+Context from prior regional live file: Real expenditure had declined by roughly 3%–4% annually through June–August even as nominal wages improved. September's -6.8% extends rather than creates that household-demand weakness, while the -2.8% monthly fall is unusually large and weather-sensitive. The consumption recovery remains unconfirmed despite positive business-side activity.
+
+4. HF Take — Strategist Layer
+
+What changed: This is a more important domestic-demand warning than the slight loss of PMI momentum. It materially increases the burden of proof for a synchronized recovery in which corporate price increases are financed by stronger household spending and wage gains. The main risk is that households respond to imported fuel and food inflation by reducing volumes, suppressing corporate end-demand or increasing precautionary savings.
+
+Why it matters: The policy tension is genuine. Higher producer prices and solid AI manufacturing support monitoring persistent inflation and tightening optionality, but repeated consumption weakness increases the cost of overtightening if inflation is largely imported. The weather explanation and Daiwa's comparatively resilient wage-backed outlook prevent treating September as a certain Q4 consumption collapse; Minami's pessimism is also substantiated by a ten-month decline. The release does not justify a deterministic December hold or hike without CPI, wages, hard output and a cleaner October consumption reading.
+
+What to verify next: October household volumes and weather-sensitive category reversal; CTI, retail and national-accounts consumption; real income and wage composition; consumer confidence and savings behavior; underlying CPI/services prices and whether government subsidy changes improve purchasing power.
+
+Macro configuration: sustained real household-spending weakness + exceptionally poor September print + weather-related volatility + firmer nominal/real household income in a different sample + industrial and selected services resilience + potential imported-cost squeeze.
+
+Combined 10 November market-reaction note (household survey 08:30 JST, balance of payments 08:50 JST, and BoJ October Summary of Opinions that morning): No independently verified release-window USD/JPY, JGB or OIS repricing can be attributed specifically to either economic publication. Charts or broader market snapshots without precise timestamps are not promoted into release-specific reactions.
+
+JAPAN — BALANCE OF PAYMENTS / CURRENT ACCOUNT, PRELIMINARY (SEP)
+Release Date: 10 Nov 2026 | Local Time: 08:50 JST (Reuters feed: 00:50)
+Importance: ***
+
+PM FLASH: September's unadjusted current-account surplus narrowed to ¥2,372.3bn versus ¥3,354.4bn expected, a ¥982.1bn miss. The prior month's ¥4,062.0bn was revised to ¥3,993.1bn. Primary income surplus fell to ¥3,553.5bn y/y while the goods and services balance worsened; seasonally adjusted current account was ¥1,817.66bn.
+PM READ-THROUGH: The external surplus remains large but its monthly support weakened sharply, chiefly because overseas direct-investment income declined and the import bill rose. The near-record fiscal first-half current-account surplus and strong export values argue against declaring structural external-account deterioration from one month.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Wires emphasized overseas dividends and an expensive energy import bill; the trade details show export-price gains but negative import volumes and a much stronger import-price increase. No verified independent named economist disagreement was found.
+Key takeaways: Distinguish volatile investment-income receipts from sustained foreign-currency cash conversion, and separate balance-of-payments goods from customs-basis data and different seasonal treatments before drawing FX flow conclusions.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPCURT=ECI;10 nov;00:50;High;Current Account NSA JPY;Sep;2 372,3B;4 062,0B;3 993,1B;3 354,4B;-982,10B
+JPCAB=ECI;10 nov;00:50;High;Current Account Bal SA;Sep;1 817,66B;2 979,39B;2 910,48B;;
+JPVTBS=ECI;10 nov;00:50;High;Trade Bal Cust Basis SA;Sep;-701,94B;-485,18B;;;
+
+2. Professional Market Commentary
+
+Japan's Ministry of Finance (MOF) preliminary balance-of-payments statistics put the September unadjusted current-account surplus at ¥2.3723tn, well below the Reuters survey's ¥3.3544tn. The ministry explicitly attributed the annual contraction principally to lower primary-income receipts, especially direct-investment income. It reported higher goods import costs and a wider deficit in other services. This is a balance-of-payments accounting result, not a direct measurement of yen-buying spot flow.
+
+Jiji Press (10 November, carried by Diamond Retail Media) led with the April–September fiscal-half current-account surplus of ¥17.1482tn, only modestly below the prior-year near-record ¥17.2179tn, despite high crude prices and a shift in the half-year goods balance to deficit. It highlighted overseas-investment income and inbound tourist receipts as important buffers. Kyodo (10 November) emphasized the weak September result and an unnamed ministry official's explanation that dividends from overseas subsidiaries were lower while oil import costs rose. Trading Economics led with the consensus miss and decomposition of the prior-year balance. These are complementary frames using different horizons; none provides a named independent economist or a proved structural fall in overseas profitability. No Tier 1 institutional debate detected.
+
+No validated release-specific yen, JGB or equity reaction was found. Any trading-day response is confounded by the household spending survey and the BoJ Summary of Opinions released the same morning. A combined reaction-control statement appears at the end of the household spending block, rather than duplicated here.
+
+Source anchors: Japan MOF September preliminary BOP summary (10 November), https://www.mof.go.jp/policy/international_policy/reference/balance_of_payments/preliminary/pg202609.htm ; official SA time series (MOF; surfaced by Nova Scotia Finance research), https://www.mof.go.jp/international_policy/reference/balance_of_payments/bp_trend/bpnet/sbp/s-a/6s-a-2.csv ; Jiji Press relay, https://diamond-rm.net/flash_news/563166/ ; Trading Economics current-account recap, https://tradingeconomics.com/japan/current-account/news/599755 .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+Japan still has a substantial current-account surplus, but September weakens its immediate external-income and trade arithmetic. The ¥982.1bn shortfall against the Reuters poll is economically meaningful as a one-month data surprise; the larger annual fall was about ¥2.0035tn. The decisive accounting observation is that primary income, not trade alone, explains most of the year-on-year contraction. This does not justify inferring a structural loss of Japanese foreign investment income without understanding dividend timing and reinvested-earnings treatment.
+
+The year-to-date counterweight is important: Japan's fiscal first-half surplus remained close to its historical peak, with persistent primary-income receipts more than covering the goods and services deficits. Rising import prices and a weaker yen nonetheless create a separate vulnerability, particularly when oil and LNG prices rise much faster than physical import volumes. The resulting trade-value deterioration can coexist with stronger technology exports and an ongoing positive investment-income surplus.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| NSA BoP component | Sep 2026 (¥bn) | YoY change (¥bn) | Interpretation |
+|---|---:|---:|---|
+| Current account | +2,372.3 | -2,003.5 | Surplus substantially smaller |
+| Goods and services | -644.5 | -636.9 | External trade/services weaker |
+| Goods, BoP basis | -187.5 | -434.1 | Surplus swung to deficit |
+| Services | -456.9 | -202.8 | Other-services deficit widened |
+| Primary income | +3,553.5 | -1,321.2 | Dominant change; weaker direct-investment income |
+| Secondary income | -536.8 | -45.3 | Slightly more negative |
+
+Of the roughly ¥2.0tn annual narrowing, primary income accounts for approximately two-thirds, goods just over one-fifth, services about one-tenth, and secondary income the remainder (based on the supplied official rounded components). Monthly income can change due to the distribution date and classification of subsidiary profits, dividends and other overseas income. A decline in direct-investment earnings booked in September does not by itself show a drop in foreign asset ownership, domestic repatriation or structural Japanese capital returns. Jiji's first-half perspective is therefore materially relevant to confidence in a lasting signal.
+
+Goods trade and the price/volume distinction: On a BoP basis, exports reached ¥10,728.3bn (+12.8% y/y) and imports ¥10,915.9bn (+17.8%). The already available 29 October customs release instead reported exports ¥10,953.9bn (+16.5%, volume +1.7%, prices +14.5%) and imports ¥11,510.3bn (+18.9%, volume -1.6%, prices +20.8%). The series have distinct treatment and definitions and must not be added to the BoP goods/services accounts. Semiconductors (+49.4% by export value), auto shipments (+15.1%, despite volume -0.6%) and chipmaking equipment (+43.9%) led customs export values, while crude (+51.1%, volume +3.1%), chip components (+51.4%) and LNG (+39.2%, volume -7.3%) lifted imports. The import bill was mainly price-driven, not a simple surge in underlying domestic demand for physical energy volumes.
+
+The customs reference crude price was $100.37/bbl (+37.4% y/y), or ¥99,432/kilolitre (+46.6%); the monthly customs conversion averaged ¥156.41/USD, 5.7% weaker yen y/y. Imported energy inflation in yen is therefore exposed to both commodity-price and FX channels; import prices rising faster than exports can erode external purchasing power without requiring a fall in gross export volumes. These annual customs conversion rates are not observed USD/JPY levels caused by the 10 November release.
+
+SA and series integrity: The supplied Reuters SA current account was ¥1,817.66bn, versus revised ¥2,910.48bn in August; the separate SA goods balance was -¥701.94bn, against -¥485.18bn. The latter matches MOF's balance-of-payments SA goods series closely, as independently relayed by the Nova Scotia Department of Finance (10 November): SA goods deficit ¥701.9bn and August ¥485.2bn. Despite Reuters' literal label 'Trade Bal Cust Basis SA', the available underlying release and SA component strongly suggest the series is BoP-basis SA goods, not customs-basis trade. Preserve the Reuters RIC/label in Section 1 and flag rather than silently overwrite its definition. The customs goods balance reported separately in late October is a different publication and is used only as reference component detail, not an extra release block.
+
+Fiscal half-year and other financial accounts: Jiji's April–September figure is ¥17.1482tn, second largest on record and slightly below ¥17.2179tn a year earlier; the half-year primary-income balance was ¥21.5343tn, while goods switched to a ¥1.0697tn deficit from a small surplus and services remained negative despite a large ¥3.2530tn tourism surplus. September financial-account data show portfolio net acquisition ¥3,922.8bn, with ¥6,701.5bn in equity/fund transactions, -¥7,204.0bn in medium/long bonds and +¥4,425.3bn in short bills; component sign conventions and gross cross-border movements must not be conflated with intervention or spot yen flows. The scout also notes roughly ¥6.247tn nonresident selling of Japanese equities and ¥5.634tn purchases of Japanese longer-term bonds. These are large offsetting asset flows, but the release alone does not identify hedging, settlement currency or instantaneous FX conversion.
+
+Data-quality boundaries: September NSA published current account matches Reuters. August's NSA revision is present in Reuters and consistent with secondary time series but the linked official full adjustment tables were not opened in the scout. The SA series is now corroborated by a government statistical summary sourcing MOF CSV. The publication remains preliminary. Statements about a record-adjacent half-year surplus derive from the contemporaneous Jiji report, not an independently inspected official half-year table. Coverage of customs commodities must remain separate from BoP aggregates.
+
+State transition: deterioration in the monthly external surplus, not a confirmed structural reversal — weaker primary-income receipts dominate the September shortfall while import price pressure worsens goods trade; first-half investment-income strength provides a substantial continuity offset.
+
+Context from prior regional live file: Japan's current account had been supported by large overseas-investment income even as imported energy costs strained the goods balance. September's weaker primary-income receipts and renewed goods deficit interrupt the monthly surplus trajectory without erasing the near-record fiscal first half. The persistent vulnerability is import-price inflation rather than proven disappearance of Japan's external income buffer.
+
+4. HF Take — Strategist Layer
+
+What changed: The balance is a real downside miss, but primary-income timing rather than only trade competitiveness explains the largest part. A stronger inference for a persistent JPY external headwind comes from imported-energy prices outrunning export-price growth and oil/LNG value increases not driven by physical volumes. Strong semiconductor exports and an unusually large fiscal-half surplus prevent a one-way external deterioration story.
+
+Why it matters: A current-account surplus is not automatically an immediate yen-buying flow, since overseas earnings can be retained abroad and portfolio positions hedged or offset. The asset-account split between equity sales and bond purchases is important as a potential cross-border-demand clue but cannot be translated into spot flow without custodial FX-conversion and hedge data. This release should alter the balance of external fundamentals only conditionally; it is not a standalone argument for a particular USD/JPY level or a central-bank timing response.
+
+What to verify next: October MOF current account and September revisions; primary-income dividend seasonality and reinvestment; yen versus foreign-currency import/export price paths; BoP-versus-customs SA goods series mapping; November flow and hedge-adjusted overseas income; whether energy price and demand-volume trends normalize.
+
+Macro configuration: still-large investment-income-funded current account + volatile dividends + energy-driven import-value shock + AI-supportive export values + weak goods balance + potentially offsetting gross portfolio flows with no verified spot-FX attribution.
+
+WEDNESDAY 11 NOVEMBER 2026
+
+JAPAN — REUTERS TANKAN NON-MANUFACTURERS INDEX (NOV)
+Release Date: 11 Nov 2026 | Local Time: 08:00 JST (Reuters feed: 00:00)
+Importance: ***
+
+PM FLASH: The non-manufacturing sentiment balance surged 12 points to +35 in November from +23, its highest since June 2018 (actual from the Reuters survey report; the supplied feed's actual field is blank). Information/communications rose to +29 from +8, and services/others to +43 from +19. The same survey's manufacturing index increased to +27 from +22, supported by electronics.
+PM READ-THROUGH: The rebound sharply qualifies the weakness of September household spending and the softening employment signal from October services PMI, but cannot overturn either hard consumption data or the documented loss of PMI momentum. The non-manufacturing respondents expect sentiment to retreat to +29 by February.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Stronger business confidence and reported labor demand support activity resilience, while higher input costs, borrowing rates and incomplete pass-through restrain margins. The survey's unusually large one-month swing creates a representativeness question rather than a confirmed services boom.
+Key takeaways: Separate optimistic corporate orders, especially communications and technology, from household end-demand; verify the rebound against the next services PMI, consumption, employment and the larger quarterly business survey.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPNMI=ECI;11 nov;00:00;High;Reuters Tankan N-Man Idx;Nov;;23;;;
+
+Off-feed official producer actual (Reuters survey article, 11 Nov 2026): Non-manufacturers index +35. The actual was blank in the Reuters feed supplied for this tape; no poll or mechanical surprise was supplied or recalculated. The same survey's manufacturers index, +27, is a contextual component, not an additional Reuters RIC row.
+
+2. Professional Market Commentary
+
+Kaori Kaneko (Reuters, 11 November, producer and publisher of the monthly poll) reported the largest non-manufacturing sentiment reading since June 2018, alongside manufacturers' strongest reading since August 2021. Although the wire headline emphasized booming semiconductor and memory demand in manufacturing, the more substantial one-month movement was in non-manufacturing: information and communications rebounded on stronger orders and the services/other group also improved sharply. The article carried anonymous company responses describing strong semiconductor-related shipments and persistent labor-market tightness; the respondents are corporate source evidence, not identifiable independent economists.
+
+Eamonn Sheridan (investingLive, 10 November UTC / 11 November Japan) interpreted the survey as evidence that activity might absorb higher rates, with reported hiring needs and producer-cost pressure potentially sustaining expectations for further BoJ tightening. That is a desk interpretation, not an observed central-bank reaction, rate-pricing change or causal yen move. The same commentary acknowledged pricing-power limitations and higher financing costs. Finimize stressed possible earnings and capex implications, but its suggestion that the survey represents large firms is not independently established from the producer's methodology. There is no verified, differentiated named bank economist or standalone house view: No Tier 1 institutional debate detected.
+
+The broader 11 November Tokyo-session market wrap reported a rising Nikkei and a weaker yen, but attributed the equity move primarily to semiconductor/AI-related buying and the currency move to US yield pressure after stronger US inflation. These moves are not a release-specific Reuters Tankan market reaction; neither USD/JPY nor JGB/OIS repricing is attributed to this publication.
+
+Source anchors: Reuters / Kaori Kaneko (11 November 2026), https://www.reuters.com/world/asia-pacific/japan-manufacturers-mood-hits-more-than-5-year-high-chip-demand-2026-11-10/ ; Reuters relay, https://www.marketscreener.com/news/japan-manufacturers-mood-hits-more-than-5-year-high-on-chip-demand-ce785edad081f220 ; investingLive / Eamonn Sheridan, https://images.investinglive.com/news/reuters-tankan-japan-manufacturer-mood-hits-27-highest-in-over-five-years-on-chips/ ; Reuters Tankan time-series recap (secondary), https://tradingeconomics.com/japan/reuters-tankan-index .
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The data add a genuine positive corporate-confidence signal at precisely the point when household spending and the October composite PMI pointed to softer activity quality. A +12-point rebound in non-manufacturing is much larger than the +5-point factory improvement, and the non-manufacturing +35 reading matches a level last seen in June 2018. This suggests that parts of services and technology-facing corporate activity are stronger than household goods spending would imply. It does not prove that household purchasing power, real services consumption or employment are accelerating: the index measures firms' qualitative balance of optimism over pessimism, not output growth or the magnitude of expenditure.
+
+The signal is qualified by a volatile prior, a limited response pool and a weaker three-month expectation. October's non-manufacturing index had dropped six points to +23, then its lowest since November 2024. November more than recovers that setback, but the February outlook projects +29, retaining optimism while giving back half of the latest gain. The contrast with weak hard consumption should remain open rather than be resolved by preferring whichever indicator printed most recently.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Sentiment balance | October | November | Change | February outlook |
+|---|---:|---:|---:|---:|
+| Non-manufacturers (tracked RIC) | +23 | +35 | +12 | +29 |
+| Information and communications | +8 | +29 | +21 | Not reported |
+| Services and others | +19 | +43 | +24 | Not reported |
+| Manufacturers (same survey; context only) | +22 | +27 | +5 | +28 |
+| Electronics | +25 | +39 | +14 | Not reported |
+| Precision machinery | +38 | +42 | +4 | Not reported |
+| Oil refinery / ceramics | +14 | +25 | +11 | Not reported |
+| Chemicals | +27 | +33 | +6 | Not reported |
+
+1. Sector breadth and quality of demand. The index improvement is not just a factory/AI observation: the sharpest changes occur in information/communications and the broader services group. Strong reported technology orders and hiring needs plausibly support service-business optimism, but no verified decomposition identifies the exact share from domestic households versus corporate technology spending, tourism or other clients. Information and communications can grow through business-to-business services and investment even when consumer-facing purchases are depressed. Services/others at +43 is an exceptionally favorable sentiment balance; it should not be read as a 43% expansion in sales.
+
+2. Factory corroboration and limits. Manufacturers' +27, electronics +39 and precision machinery +42 support the earlier manufacturing PMI signal of AI/semiconductor demand, backlogs and near-cycle-strong factory recruitment. The two surveys differ in methodology, panel and period; convergence increases confidence in the direction of the technology-capex theme, not in any precise output or earnings-growth forecast. Anonymous respondents highlighted memory chips and orders both domestic and overseas. Other manufacturing sectors improved as well, but no published detailed weights or full sector panel permit a weighted contribution calculation.
+
+3. Non-manufacturing versus consumption and PMI. The contemporaneous series point in different directions: September real household expenditure fell 6.8% y/y and 2.8% m/m, while October services PMI remained expansionary at 51.7 but composite PMI moderated to 52.1, with services employment gains at a 14-month low and broader hiring at a one-year low. The Reuters Tankan's November +35 may reflect improvement after those survey periods, stronger B2B orders or sampling volatility; it cannot establish which is dominant. Bad weather plausibly exaggerated September spending weakness, but weak purchases of discretionary goods and a ten-month annual spending decline preclude treating consumption as healthy by default. The survey does not quantify retail demand, wages or inflation-adjusted service-sector output.
+
+4. Price and rate constraints. Respondents still cited rising input prices and interest costs, with some unable to pass the full increase to customers. This coheres with October corporate goods-price inflation of 7.1% y/y and PMI evidence of strong cost pressure but slower selling-price inflation. Improved sentiment may enable some firms to maintain investment and payrolls despite costs; it does not establish that domestic pricing power is broadening enough to sustain consumer inflation. Non-manufacturing confidence and actual wage-driven consumption must be tested separately before drawing a tighter policy conclusion.
+
+5. Survey measurement and outlook. Reuters polled 508 firms and received 214 responses from 27 October to 6 November (about 42%). Small sub-sector cells can swing with respondent mix; no uncertainty interval or item-level non-manufacturing breakdown was published in the accessible producer report. The February non-manufacturing expectation of +29 is still positive but 6 points below the November reading. The September BoJ quarterly Tankan large non-manufacturers level of +35 is a contextual cross-check only; unlike-for-like panels and different reference dates prevent treating identical numerical levels as a direct statistical match.
+
+State transition: improvement / provisional reversal in non-manufacturing sentiment — the October setback more than reverses and broader corporate optimism strengthens, but a small response base, softer forward outlook and contradictory household/PMI evidence prevent declaring a durable domestic-demand acceleration.
+
+Context from prior regional live file: Non-manufacturing sentiment had fallen from +29 in September to +23 in October as firms cited prices and borrowing costs, while the October services PMI continued to show modest growth and softer recruitment. November's +35 rebounds strongly above that earlier range, particularly in information and communications and services, without yet resolving the weakness in realized household demand. The cross-release regime remains corporate resilience with uneven consumer transmission.
+
+4. HF Take — Strategist Layer
+
+What changed: This is a material challenge to a narrative that the September spending slump and the slower October composite PMI signal a broad Japanese services contraction. The reported sharp improvement in business-service and communications sentiment makes that interpretation less persuasive; factories also retain strong technology demand. However, a monthly diffusion-balance jump following an unusually weak October is weaker evidence of a structural turn than a sequence of higher realized revenues, services output or household expenditure.
+
+Why it matters: The BoJ could view stronger corporate confidence and perceived labor tightness as additional capacity for gradual normalization, especially when upstream costs are rising. But the survey also reports financing and margin strain, while separate real consumption data remain very weak. With no named independent economist directly addressing the release and no validated release-specific rates/FX move, it would be unjustified to turn this survey into an increased December-hike probability or a directional JPY trade. Corporate technology capex and services business orders can outperform household demand for a prolonged period; whether higher wages and prices eventually transmit to real household spending is the policy-relevant bridge.
+
+What to verify next: (1) November services PMI new business, hiring and confidence versus October; (2) the next quarterly BoJ Tankan, with separate non-manufacturing levels, outlook and pricing plans; (3) October/November real household spending, CTI and services consumption; (4) realized labor demand, wage income and actual hiring versus survey perceptions; (5) enterprise price revisions and the CGPI–selling-price margin gap, especially at interest-sensitive firms.
+
+Macro configuration: strong but potentially volatile corporate non-manufacturing confidence + semiconductor/AI-led manufacturing optimism + weak household real spending + elevated input costs with incomplete pass-through + positive but decelerating services PMI + conditional BoJ tightening capacity.
+
+JAPAN — MONEY STOCK (M2 / BROADLY-DEFINED LIQUIDITY), PRELIMINARY (OCT)
+Release Date: 11 Nov 2026 | Local Time: 08:50 JST (Reuters feed: 00:50)
+Importance: **
+
+PM FLASH: BoJ money stock growth slowed in October: M2 +1.7% y/y from revised +1.9%, M3 +0.9% from +1.1%, and broadly-defined liquidity (L) +4.1% from +4.3%. M1 fell 0.4% y/y. Official unadjusted levels were M2 ¥1,291.4tn and L ¥2,341.2tn, while the seasonally adjusted levels were ¥1,296.0tn and ¥2,344.4tn.
+PM READ-THROUGH: Transaction-type money is softening even while broader financial-asset liquidity continues expanding. Quasi-money, investment trusts and government securities offset weaker cash/deposit money. This is a modest financial-transmission qualification to positive corporate activity, not evidence of an abrupt credit crunch.
+PM DEBATE & KEY TAKEAWAYS:
+Key takeaways: The Reuters prior levels align closely with the previously published seasonally adjusted rather than unadjusted BoJ series. Keep feed actuals blank pending definitive mnemonic mapping; separate slower monetary growth from a portfolio shift into interest-bearing and marketable assets.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPM2=ECI;11 nov;00:50;High;M2 Money Supply;Oct;;1 297 238,2B;;;
+JPBRM=ECI;11 nov;00:50;High;Broad Money;Oct;;2 343,4T;;;
+
+2. Professional Market Commentary
+
+The BoJ's 11 November Money Stock release documents broad deceleration rather than a sudden monetary contraction. Average outstanding M2 growth slowed to 1.7% y/y and L growth to 4.1%; negative seasonally adjusted annualized M2 and M3 changes indicate shorter-term weakness. At the same time, nondeposit components of L continued to expand much faster than transaction money. These are official statistical facts; no usable independent contemporaneous economist or bank house commentary was retrieved. No Tier 1 institutional debate detected.
+
+Secondary auto-generated market notes characterized liquidity expansion as slowing but remained too generic and weakly sourced to infer a policy reaction function. No release-specific JPY, JGB or BoJ rate-pricing move was verified.
+
+Source anchors: Bank of Japan, Money Stock (Preliminary Figures for October 2026), 11 November, https://www.boj.or.jp/en/statistics/money/ms/ms2610.pdf ; Bank of Japan, Money Stock (Preliminary Figures for September 2026), 14 October, https://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf ; the latter is used only to reconcile the Reuters prior-vintage series levels.
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The main signal is slower private-sector monetary-aggregate growth and a divergence between narrow transaction money and broader assets held by the non-bank sector. Money supply has not collapsed: M2 remains positive on an annual basis and L grows more rapidly. But the combination of lower M2/M3 annual growth, contracting M1 and negative short-term seasonally adjusted M2/M3 changes supports caution about inferring household and business spending strength directly from positive corporate surveys. These money-stock quantities do not identify the contemporaneous pace of bank lending or consumer credit without separate balance-sheet data.
+
+The critical measurement qualification is the distinction between non-seasonally adjusted average outstanding levels and the second, seasonally adjusted level columns. The scout supplied M2 ¥1,291.4tn and L ¥2,341.2tn as off-batch actuals, which are valid BoJ unadjusted levels but may not correspond to the particular Reuters mnemonics. The original September BoJ release reported seasonally adjusted M2 of ¥1,297.2tn and L of ¥2,343.4tn; these nearly reproduce the Reuters prior of ¥1,297.2382tn and exactly match its broad-money prior at one-decimal precision. Thus a seasonally adjusted feed definition is a strong, but not conclusively mapped, inference. October BoJ adjusted levels are M2 ¥1,296.0tn and L ¥2,344.4tn; these must not be inserted into Reuters Section 1 until the Reuters series descriptions are checked.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Measure | September revised | October | Comparison |
+|---|---:|---:|---|
+| M2 growth y/y | +1.9% | +1.7% | Less rapid annual growth |
+| M3 growth y/y | +1.1% | +0.9% | Less rapid annual growth |
+| M1 growth y/y | -0.2% | -0.4% | Deeper transaction-money contraction |
+| Broadly-defined liquidity (L) y/y | +4.3% | +4.1% | Continues expanding |
+| M2 monthly SAAR | +1.7% | -0.4% | Short-term decline |
+| M3 monthly SAAR | +0.7% | -0.8% | Short-term decline |
+| L monthly SAAR | +2.5% | +1.0% | Positive but softer |
+| M2 average (unadjusted) | ¥1,294.9tn | ¥1,291.4tn | October fell |
+| M2 level, seasonally adjusted | ¥1,296.5tn | ¥1,296.0tn | October edged lower |
+| L average (unadjusted) | ¥2,343.3tn | ¥2,341.2tn | October fell |
+| L level, seasonally adjusted | ¥2,342.4tn | ¥2,344.4tn | October increased |
+
+Money composition: cash in circulation contracted 1.5% y/y (¥109.1tn) and deposit money 0.2% (¥968.4tn), consistent with the broader M1 decline. Quasi-money rose 4.4% (¥535.7tn), while certificates of deposit fell 16.1% (¥19.9tn). The divergence is consistent with funds migrating toward term/deposit-like balances rather than a generalized reduction in private-sector financial holdings. However, relative returns, portfolio decisions and financial-institution classifications can affect these series; the source does not demonstrate a single dominant causal flow.
+
+Non-M3 holdings reinforce the portfolio-mix qualification. L includes investment trusts, up 14.2% y/y to ¥130.2tn, government securities, up 20.4% to ¥49.7tn, pecuniary trusts, up 11.9% to ¥492.5tn, and foreign bonds, up 3.1% to ¥32.6tn. In other words, the broad aggregate continues rising partly because financial holdings outside money deposits grow quickly. Government-security holdings in L do not directly measure banks' reserves or BoJ bond buying, and investment-trust levels cannot establish risk appetite or household consumption by themselves.
+
+Publication-vintage reconciliation: the newly revised September unadjusted M2 is ¥1,294.9tn, versus the original September unadjusted ¥1,295.6tn; the September seasonally adjusted M2 was originally ¥1,297.2tn and is now revised to ¥1,296.5tn. Likewise September L was originally ¥2,344.3tn unadjusted and ¥2,343.4tn adjusted, versus ¥2,343.3tn and ¥2,342.4tn after revision. Reuters priors match the original adjusted column much more closely than the new revised unadjusted levels. This is evidence for a Reuters seasonal-adjustment/vintage mismatch, not grounds to overwrite the Reuters feed. The BoJ revised historical figures back to July 2026. No Reuters survey poll or measurable release-specific surprise is available.
+
+These findings also reconcile with the 4 November base data: the central-bank monetary base contracted less rapidly on an annual basis, whereas private non-bank money-stock growth slowed. The balance-sheet categories and monetary transmission channels are different, so neither establishes a contradiction in monetary policy stance.
+
+State transition: modest deterioration in narrow-money momentum / continuation of broader liquidity expansion — M1 contracts more deeply and M2/M3 growth cools, while L retains positive growth supported by nondeposit financial assets rather than generalized transaction-money strength.
+
+Context from prior regional live file: Earlier 2026 M2 growth had strengthened into May at 2.5% y/y before moderating through August and September to a revised 1.9%. October's 1.7% extends that easing, while broad liquidity slows only modestly to 4.1% as investment trusts and securities continue expanding. The trend points to softer transaction-money momentum, not disappearance of Japan's wider financial-asset buffer.
+
+4. HF Take — Strategist Layer
+
+What changed: The October release adds incremental evidence that the monetary transmission and spending backdrop is cooler than buoyant corporate surveys alone imply. M2/M3 deceleration and negative adjusted near-term growth fit a household sector whose real spending remains under pressure, although money stocks are not direct expenditure measures and cannot establish causation. The positive L and nondeposit components guard against interpreting the figures as generalized financial distress.
+
+Why it matters: For the BoJ, narrow money growth is a secondary condition to actual inflation persistence, wages, activity and financial conditions. A policy narrative that looks only at producer prices and chip-driven optimism would miss soft household purchases and money growth; conversely, the money-stock data alone do not establish that further tightening would cause a credit contraction. The lack of an externally observed FX, rates or bank economist response is a reason to keep the incremental rates/JPY inference limited, not to manufacture one.
+
+What to verify next: November M2/M3/L growth and seasonal revisions; transaction versus term deposits; bank loan growth and credit standards; wage and household spending recovery; portfolio holdings and funding-market conditions; definitive Reuters mnemonic/adjustment mapping.
+Macro configuration: slowing positive M2 + negative M1/short-term M2 impulse + continuing broad nondeposit liquidity expansion + soft household spending + resilient corporate surveys + conditional policy normalization.
+
+THURSDAY 12 NOVEMBER 2026
+
+JAPAN — CORPORATE GOODS PRICE INDEX (CGPI / PPI), PRELIMINARY (OCT)
+Release Date: 12 Nov 2026 | Local Time: 08:50 JST (Reuters feed: 00:50)
+Importance: ****
+
+PM FLASH: Official domestic producer prices rose 0.7% m/m and 7.1% y/y, against supplied Reuters polls of 0.3% and 6.5%; the September annual reading was 6.8%. Oil products, chemicals, utilities and steel contributed strongly, while agricultural products fell. Yen-based import prices advanced 3.3% m/m and 24.8% y/y.
+PM READ-THROUGH: Producer inflation resumes accelerating after two softer annual readings. Broad price increases and imported-cost exposure strengthen the pipeline inflation signal, but October's scheduled price resets complicate extrapolation from the monthly gain.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Persistent imported inflation and company-wide cost pass-through support continued tightening optionality; the scheduled October repricing round and falling rice prices qualify the incremental momentum. A separate policy caution stresses weak consumption and the danger of responding too mechanically to cost-push inflation.
+Key takeaways: Separate a price-level reset from recurring inflation; the next test is whether cost increases reach core consumer goods and services rather than remaining in upstream prices or margins.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+JPCGP=ECI;12 nov;00:50;High;Corp Goods Price MM;Oct;;-0,3%;;0,3%;
+JPCGPY=ECI;12 nov;00:50;High;Corp Goods Price YY;Oct;;6,8%;;6,5%;
+
+2. Professional Market Commentary
+
+The official report establishes a renewed acceleration in Japan's business-to-business goods prices, concentrated in oil/coal, petrochemicals, utilities and steel but extending across most major product groups. Reuters' English report by Leika Kihara led with the implications for a potential 17–18 December policy decision. Reuters Japan's Kentaro Sugiyama instead stressed the lagged effect of higher crude prices and the concentration of scheduled quarterly and semiannual price revisions in October. The two frames are complementary, not contradictory: a repricing event can be partly calendar-specific while reflecting real, accumulated input-cost pressure.
+
+Masato Koike (senior economist, Sompo Institute Plus; Reuters English, 12 November) expected wholesale inflation to keep increasing as geopolitical uncertainty and broad cost pressure persisted, and retained a December hike as his baseline. He also allowed that market volatility could justify a pause. Yuichiro Sato (economist, SMBC Nikko Securities; Reuters Japan, 12 November) regarded the print as confirmation of strong intercompany inflation and said the route to a December hike remained open; he did not argue that the release alone settled the decision. Neither source supplied a standalone public house research note, and no independent dissenting private-sector economist was evidenced in the release-specific tape.
+
+Sayaka Yamazaki (head of the Bank of Japan's price-statistics division, speaking in the statistical briefing, as reported by Reuters) attributed widespread repricing to raw-material and labor costs, oil and chemical products, and October's customary mid-fiscal-year and quarterly pricing resets. The BoJ's mechanical release directly confirms that petroleum, chemicals, electricity/gas/water and steel were major positive monthly contributors; falling farm products were the large offset. Reuters Japan additionally reports 469 of 515 items rising year on year and 35 falling; this item-level count is sourced from Reuters reporting rather than independently extracted from the statistical tables.
+
+Separate same-day central-bank perspective, not a CGPI-specific reaction: Policy Board member Toichiro Asada, in his 12 November Nagasaki speech, said upstream price pressure needed to be tested for transmission to downstream consumer prices. He noted that private consumption was not particularly strong and argued for care with the pace of additional rate rises because prior tightening could affect activity with a lag. His position is a genuine policy counterweight to extrapolating producer-price acceleration directly into an immediate hike, but it must not be represented as a private economist disagreement over the CGPI data.
+
+Bloomberg's contemporaneous coverage also presented the reading as supportive of a December hike, but its policy interpretation is not independent evidence of a move in JGBs or rate expectations. No release-specific USD/JPY, JGB yield or OIS repricing was established from an attributable release window.
+
+Source anchors (12 November 2026 unless otherwise shown):
+- Official BoJ CGPI, preliminary October: https://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2610.pdf
+- Reuters, Leika Kihara: https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-accelerates-keeps-alive-boj-rate-hike-view-2026-11-12/
+- Reuters Japan, Kentaro Sugiyama (Newsweek relay): https://www.newsweekjapan.jp/articles/-/339848
+- BoJ, Toichiro Asada speech: https://www.boj.or.jp/en/about/press/koen_2026/data/ko261112a1.pdf
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The October report is a substantial upstream inflation signal, not just an isolated energy headline. The domestic index rose 0.7% m/m after the official September reading was revised to -0.2%, and annual producer inflation rebounded to 7.1% from 6.8%. The breadth of the move is unusually informative: 22 of 23 industry groups were higher year on year and 19 rose month on month. The result is consistent with cost pass-through across a broad manufacturing supply chain, even though imported fuel and selected industrial materials are the most visible accelerants.
+
+The central distinction is between a continuing source of inflation and a discrete re-pricing date. October is an established half-year and quarter reset month for corporate contracts, especially in steel, plastics and transport equipment. An unusually large October rise can therefore reflect delayed recognition of earlier input and wage-cost increases rather than a new monthly run rate. Falling rice and farm-product prices partly offset the index, but that negative component should not be interpreted as evidence that broader upstream inflation is disappearing.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1. Headline, historical momentum and measurement
+
+| Measure | October preliminary | September revised / comparison |
+|---|---:|---|
+| Domestic CGPI, 2020 = 100 | 136.8 | 135.8 |
+| Domestic CGPI m/m | +0.7% | -0.2% |
+| Domestic CGPI y/y | +7.1% | +6.8% |
+| CGPI ex summer electricity surcharge m/m | +0.9% | -0.3% |
+| CGPI ex summer electricity surcharge y/y | +7.1% | +6.9% |
+| Chain-weighted domestic PPI (reference index) | 134.7 | — |
+| Chain-weighted PPI m/m / y/y | +0.9% / +7.1% | — |
+| Yen import prices m/m / y/y | +3.3% / +24.8% | -0.7% / +23.8% |
+| Contract-currency import prices m/m / y/y | +2.3% / +19.2% | +0.5% / +17.3% |
+| Yen export prices m/m / y/y | +1.1% / +16.7% | +0.7% / +18.2% |
+| Contract-currency export prices m/m / y/y | +0.6% / +12.2% | +1.6% / +12.8% |
+
+Historical annual domestic CGPI: CY2024 +2.4%; CY2025 +3.3%; Q1 2026 +2.6%; Q2 +6.6%; Q3 +7.3%. The monthly annual rate reached 7.7% in July, 7.6% in August, 6.8% in September and 7.1% in October. October therefore interrupts moderation from an already elevated midyear level, rather than marking the first onset of the price shock. Import prices in yen terms had already increased about 26.1% y/y in both Q2 and Q3, confirming that imported-cost pressure preceded this release.
+
+The electricity-surcharge-adjusted +0.9% monthly measure excludes extra summer charges applied in July–September, and is not interchangeable with the headline +0.7%. Chain weights are a separate 2023-weight reference construction. October data are preliminary; September components carry revisions. The BoJ's reference exchange-rate table shows a +1.0% m/m USD/JPY change (yen depreciation by its convention), and a reference rate of 158.0; neither is an observed release-window FX price or proof of a CGPI-caused currency move.
+
+2. Monthly contributions, price breadth and commodity drivers
+
+| Domestic producer category | Contribution to Oct m/m CGPI (pp) | Oct m/m | Oct y/y |
+|---|---:|---:|---:|
+| Petroleum and coal products | +0.20 | +2.9% | +15.9% |
+| Chemicals and related products | +0.15 | +1.9% | +15.5% |
+| Electric power, gas and water | +0.15 | +2.4% | +15.8% |
+| Iron and steel | +0.11 | +2.0% | +6.3% |
+| Beverages and foods | +0.08 | +0.6% | +4.8% |
+| Plastic products | +0.06 | +1.6% | +14.1% |
+| Electrical machinery and equipment | +0.05 | +1.1% | +6.7% |
+| Transportation equipment | +0.04 | +0.3% | +3.2% |
+| Other manufacturing products | +0.03 | +0.8% | +6.0% |
+| Metal products | +0.03 | +0.6% | +6.5% |
+| General purpose machinery | +0.02 | +0.7% | +3.2% |
+| Nonferrous metals | -0.03 | -0.5% | +31.7% |
+| Agriculture, forestry and fishery | -0.28 | -6.6% | -25.0% |
+
+The named positive contribution groups span refined fuel, naphtha, basic petrochemicals, gas supply and electricity, coated steel, food and feed, machinery and vehicle components. Commodity-specific examples include heavy oils and jet fuel; xylene, ethylene and propylene; zinc-coated steel sheet and hot-rolled strip. Their simultaneous price increases are consistent with stronger input-cost pressure, but the release does not allocate how much is newly imported inflation versus delayed contractual repricing or wage-cost recovery.
+
+The negative agricultural contribution of -0.28pp is large relative to the total +0.7% rise. Rice (brown and polished) and pork prices declined, linked in the contemporary wire tape to new-crop supply and inventories. Removing this large counterweight conceptually would expose still stronger positive pressure elsewhere, although an official ex-agriculture aggregate was not supplied and should not be estimated mechanically. The biggest annual percentage gain among these groups, nonferrous metals (+31.7%), coexisted with a -0.5% monthly fall: a clear level-versus-momentum distinction. Information and communications equipment was also down 0.6% m/m but up 15.9% y/y; business-oriented machinery fell 0.2% m/m. Annual group breadth (22/23 positive) is directly supported by the BoJ tables; the item-level 469/515 positive is confirmed by Reuters Japan and Xinhua, not by a separately verified microdata extract.
+
+3. Imported-price transmission and external cost asymmetry
+
+| Price index | October m/m | October y/y |
+|---|---:|---:|
+| Import prices, contract currency | +2.3% | +19.2% |
+| Import prices, yen | +3.3% | +24.8% |
+| Export prices, contract currency | +0.6% | +12.2% |
+| Export prices, yen | +1.1% | +16.7% |
+| Imported petroleum, coal and natural gas, contract currency | +5.3% | +40.1% |
+| Imported petroleum, coal and natural gas, yen | +6.4% | +46.1% |
+| Imported electric and electronic products, contract currency | +2.7% | +25.3% |
+
+Within the contract-currency import-index monthly increase, petroleum/coal/natural gas contributed +1.62pp, electric/electronic products +0.48pp, beverages/foods/agricultural food products +0.15pp and chemicals +0.10pp, while metals subtracted 0.08pp. Crude, jet fuel and gasoline led the energy category; memory ICs, storage devices and televisions contributed to electronics; coffee, cocoa, pork and feed crops contributed to food-related import costs. This matters because the shock spans energy and AI-related electronics rather than only one commodity, although the relative importance of AI demand versus supply constraints cannot be precisely identified from this report.
+
+The gap between yen- and contract-currency import inflation is consistent with currency depreciation augmenting foreign-currency price increases. The differences are not a direct elasticity estimate because the indices have distinct weights, conversion and timing. Export prices are also rising, especially chemicals, oil derivatives and electronics: contract-currency chemical export prices contributed +0.30pp m/m; other primary/manufactured products +0.30pp; electronics +0.15pp; metals -0.15pp. Electronics export prices were up 33.4% y/y in contract currency and 41.9% in yen terms. Those gains can benefit export revenues, but import-price growth materially outpaces export-price growth; the rates alone do not constitute an exact terms-of-trade index or a quantified national-income loss.
+
+4. Consumer transmission, policy interpretation and verification risk
+
+Producer prices are an early indicator of input pressure, not a direct measure of household CPI or domestic wage-price persistence. Firms can pass through prices, absorb them in margins, change product mix or delay repricing. The October rise in steel, plastics and transport equipment is compatible with contractual pass-through; it does not by itself establish a repeating monthly producer-inflation rate. Broad item-level rises and the +0.9% electricity-adjusted reading increase the probability that the shock persists beyond the headline's calendar effects, but the magnitude and duration require subsequent prints.
+
+The policy relevance is real but conditional. The BoJ held its policy rate at 1.25% in October after hikes in June and September; the next meeting is scheduled for 17–18 December. Rising production input costs and imported inflation strengthen the case for watching core CPI, expectations and firms' selling prices. However, the same cost shock can squeeze household real income, and the separate same-day policy speech highlights that consumption is not necessarily robust and that past tightening acts with a lag. Treating an energy-driven CGPI surprise as equivalent to domestically generated demand inflation would overstate the evidence. No release-window market-price movement has been cleanly attributed to this publication.
+Data-quality and measurement watchpoints: the September monthly CGPI prior was revised from the supplied Reuters -0.3% to the official -0.2%; the supplied Reuters actual and surprise cells remain blank; the October series is preliminary; the September 2026 periodic-revision notice has not been incorporated into a bridge analysis; and stage-of-demand indexes were not available in the supplied extract. The next CGPI is scheduled for 10 December, with the interim test coming from domestic CPI, services prices and company price plans.
+
+State transition: deterioration / renewed upstream price acceleration — domestic producer inflation rebounds after two months of softer annual readings, with broad price pressure and a strong import-cost channel; October contract resets and lower farm prices prevent treating the monthly movement as a stable underlying run rate.
+
+Context from prior regional live file: Earlier JPY monitoring documented a sustained imported-energy and metals price shock, with producer inflation climbing from 6.3% in May to 7.7% in July before easing to 7.6% in August and 6.8% in September. October's 7.1% interrupts that moderation while yen-denominated import inflation remains exceptionally elevated. Upstream price pressure therefore remains persistent, but transmission into underlying consumer inflation is still the decisive policy test.
+
+4. HF Take — Strategist Layer
+
+What changed: The release strengthens an already visible input-cost inflation thesis, with the clearest new information in monthly re-acceleration, cross-sector breadth and renewed yen-based import-price pressure. It is more informative than a pure oil-price print because steel, plastics, machinery and selected electronics participated. Yet the first-order explanation mixes externally generated commodity inflation, currency effects and the periodic resetting of business prices; the evidence does not show that each factor will recur next month.
+
+Why it matters: This provides additional confirmation for maintaining December monetary-policy tightening optionality, consistent with the two cited private-sector economist views, but it is not a standalone timing trigger. The same-day caution from a BoJ board member about non-demand-led inflation and modest consumption identifies the crucial reaction-function counterweight. A durable broadening into core goods/services, rising medium-term expectations or stronger wage-supported pricing would strengthen the pre-emptive case; evidence of margin absorption, softer real spending or subsiding imported costs would weaken it. Yen weakness contributes to inflation risk, but neither a specific USD/JPY trade nor release-caused JGB/OIS repricing is supported by verified market data.
+
+What to verify next: (1) November core CPI and underlying services versus energy-sensitive goods; (2) November/December CGPI excluding agricultural and fuel effects and the repeat of October's steel/plastics repricing; (3) yen and contract-currency import inflation, especially fuel and electronics; (4) real household spending and corporate margin/pass-through evidence; (5) expected inflation, wages, and the 17–18 December policy communication.
+
+Macro configuration: broad and elevated upstream inflation + oil/electronics import shock + yen-mediated cost amplification + scheduled October corporate repricing + incomplete proof of persistent consumer-price diffusion + a genuine December hike option constrained by consumption and lagged tightening effects.
+
+D. CENTRAL BANK TAPE
+
+Summary — Policy reaction function
+
+The Bank of Japan entered the 1–14 November 2026 window with its policy rate at 1.25%, following an 8–1 hold on 29–30 October; Takata had preferred 1.50%. The next scheduled meeting was 17–18 December. In-window communication reinforced continued normalization as an option, but did not provide official December guidance. The 10 November publication of the October Summary of Opinions disclosed material disagreement about how quickly to approach a poorly identified neutral rate. Ueda's Washington communication added little scheduling guidance; Asada's 12 November speech and press conference supplied the clearest named argument for a slower path, tied to weak household demand and lags in transmission. The unresolved reaction-function question is whether underlying inflation near 2% and corporate price/wage adjustments justify moving before stronger household demand is confirmed, or whether previous hikes are already close enough to neutral to warrant patience.
+
+Contemporaneous Reuters reporting and its economist poll leaned toward a 1.50% rate in December and terminal estimates around 1.75–2.00%; these are outside expectations, not official Board guidance or verified meeting-by-meeting pricing probabilities. The institutional record supports a conditional tightening bias rather than a unanimous or mechanically pre-committed December increase. Do not infer the individual authors or the exact vote distribution from the anonymous Summary of Opinions.
+
+Kazuo Ueda — Governor — Michel Camdessus Central Banking Lecture, IMF, Washington, 6 Nov 2026 (official text published 7 Nov JST)
+Importance: ***
+Source: https://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm
+Evidence: Prepared address opened in official form (high confidence); subsequent exchange with Kristalina Georgieva available only through secondary reporting and search extracts (medium confidence).
+
+Key policy signal:
+The prepared address concerned Japan's current-account surplus and corporate adjustment, not the near-term rate path. According to contemporaneous Bloomberg reporting on the Q&A, Ueda regarded the inflation objective as achieved in an underlying sense but remained uncertain about the durability of that equilibrium and the public's adjustment to it. He gave no specific timing signal for further hikes. Secondary reporting attributed to the Q&A cited base-pay increases around 2.5–3.0% and limited public opposition to the rise to 1.25%; these details were not confirmed against an official transcript and should not be elevated into independent policy commitments.
+
+Representative quotation (Q&A, Bloomberg search excerpt only; medium confidence):
+“I think we are in equilibrium”
+
+Incremental interpretation:
+Broad continuity with the October message: inflation has progressed toward the objective, but sustainable attainment and the cumulative effect of policy normalization remain the tests. Lack of a definitive December signal matters more than rhetorical comfort with current inflation. No verified transcript of the Q&A was available in the supplied scout.
+
+Bank of Japan — Minutes of 17–18 Sep policy meeting (published 5 Nov 2026)
+Importance: **
+Evidence: Official minutes identified, detailed policy language reported by Reuters; PDF not comprehensively reviewed in the supplied scout (medium–high confidence).
+
+Key policy signal:
+The September rate increase to 1.25% had met opposition from Asada and Sato. Reuters' account described several members favoring continued hikes, including concern that moving too cautiously could leave policy behind the curve. One member placed the neutral rate possibly above 2%, while another considered market terminal-rate expectations excessive relative to the wage/price fundamentals. These are retrospectively published deliberations, not new November votes.
+
+Representative quotation (minutes as relayed by Reuters):
+“in a timely manner without becoming overly cautious”
+
+Incremental interpretation:
+The minutes establish earlier disagreement on speed and endpoint, but add less information than the subsequently published October Summary. Their publication is in-window; the policy meeting itself predates the window.
+
+Bank of Japan — Summary of Opinions, 29–30 Oct policy meeting (published 10 Nov 2026)
+Importance: ****
+Evidence: Official Summary of Opinions opened in the supplied scout (high confidence). Statements are anonymous and must not be attributed to named members.
+
+Key policy signal:
+Several opinions advocated reaching neutrality sooner: one wanted the next hike at the earliest opportunity after evaluating resilience, especially consumption; another preferred a faster pace; other contributions urged timely normalization amid an economic 'regime shift'. A contrasting set favored holding to assess uncertainties and the cumulative effects of earlier hikes. A more cautious position argued that the 1.25% policy rate already lay within a neutral range and that further moves could weigh on demand and underlying inflation. One view put neutral materially above 1%; another emphasized that underlying inflation was broadly consistent with target while next spring's wage negotiations remained a crucial validation point.
+
+Representative quotation (anonymous official opinion):
+“make haste slowly”
+
+Incremental interpretation:
+This is the most consequential collective in-window policy document. It confirms a dispute over *pace and the neutral-rate endpoint*, rather than a simple hawk/dove split on whether normalization is ever warranted. Multiple calls for faster hikes are not an official decision or a count of votes for December. Reuters' Leika Kihara stressed a divided Board; Bloomberg/Japan Times extracts emphasized the number of near-term-hike advocates. The two readings are compatible as descriptions of a hawkish pressure group without a settled consensus.
+
+Toichiro Asada — Policy Board member — meeting with local business leaders and subsequent press conference, Nagasaki, 12 Nov 2026
+Importance: ****
+Source (official prepared remarks): https://www.boj.or.jp/en/about/press/koen_2026/data/ko261112a1.pdf
+Evidence: Official prepared remarks opened (high confidence); press-conference details from Reuters only (medium–high confidence).
+
+Key policy signal:
+Asada argued that the policy rate was already within the staff's approximately 1–2.5% estimated neutral range, and that accommodation diminishes as the rate rises. Higher rates may affect demand and inflation only after a year or longer; adding restriction before demand-led, wage-supported inflation is entrenched could weaken the real economy and later underlying inflation. He highlighted weak consumption and the possibility that some recent price rises were not demand-driven. He also cited depreciation of the yen's effective exchange rate as a contributor to import-price pressure.
+
+Reuters' account of the press conference reported a more conditional position than an outright rejection of normalization: multiple indicators put underlying inflation roughly at 2%; neutral might be toward the lower part of the staff range; future hikes could be needed, but should proceed slowly. His historical votes against June and September hikes remain context, not an announced vote for December. The official address also discussed a faster ETF-disposal schedule; this balance-sheet administration is not evidence of an accelerated policy-rate timetable.
+
+Representative quotation (official prepared address):
+“due consideration to the pace of any policy rate hikes”
+
+Incremental interpretation:
+Asada's stated view has softened on *eventual direction* while remaining cautious on *timing and degree*. Reuters (Leika Kihara, 12 Nov) interpreted the intervention as resistance to the Board's push for an early hike; a Bloomberg search excerpt emphasized his willingness to consider future tightening. Takuji Okubo's partially readable commentary saw him as less intransigently dovish yet argued, without a readable supporting rationale, that December had become less likely. These are genuine differences in interpretation of the same speech, not proof of a changed December voting balance. No reliable quantitative market reaction was established.
+
+Contemporaneous external human voices — interpretation, not the official reaction function
+
+Seisaku Kameda (Sompo Institute Plus, former BoJ chief economist), Reuters interview, 6 Nov: criticized the October acknowledgment of underlying inflation near 2% as belated, expected a December hike to 1.50% and roughly quarterly moves to about 2%, while allowing a delay to January if financial markets deteriorated substantially, including a breakdown in the AI-led boom. This is a scenario forecast, not Board guidance.
+
+Nobuyasu Atago (Rakuten Securities Economic Research Institute), Reuters analysis, 2 Nov: described a December hike as close to a done deal. Mari Iwashita (Nomura Securities), in the same analysis, allowed the rate to reach 1.75% around March and then pause. These views illustrate how a shared December base case can mask substantial disagreement on the terminal rate and cadence.
+
+Reuters poll discussed 10–12 Nov: respondents generally projected a 1.50% rate in December, followed by approximately quarterly hikes and a terminal range commonly around 1.75–2.00%. This is a dated survey of economists, not a unanimous prediction and not a measure of market-implied odds. Independent interpretation of Ueda's IMF Q&A was sparse; do not manufacture a broader commentator consensus.
+
+Separate Ministry of Finance / government FX communication — not BoJ monetary policy
+
+12 Nov — Atsushi Mimura, Vice Minister of Finance for International Affairs: warned about excessive rapid yen moves; the reported line, “It’s still too early to forget what happened this summer”, signals readiness to challenge disorderly FX conditions but is not an intervention announcement. Confidence: medium–high, Reuters reporting.
+
+12 Nov — Minoru Kihara, Chief Cabinet Secretary: reportedly described an excessively cheap yen as problematic. Confidence: medium, contemporaneous reporting.
+
+13 Nov — Satsuki Katayama, Finance Minister: criticized one-sided, abrupt currency moves and discussed an appropriate response with reference to cooperation with the US Treasury. Confidence: medium, wire summaries. The 2 Nov Katayama warning cited only by a low-quality source was not validated and is not adopted as fact.
+
+The Finance Ministry channel can constrain near-term USD/JPY risk-taking without indicating that the BoJ itself has changed its rate timetable. No verified direct policy linkage between these statements and the BoJ's December deliberations was supplied.
+
+Speaker coverage, competing views and evidence-quality matrix (supplement to the validated scout)
+
+Verified in-window named BoJ voices: Governor Ueda, 6 November (official lecture published 7 November JST; policy information only through secondary Q&A); Policy Board member Asada, 12 November (official Nagasaki speech and Reuters-reported press conference). The 5 November publication of September minutes and the 10 November publication of the October Summary of Opinions are policy-relevant institutional documents, not November meetings. The scout found no policy-relevant in-window statements from Deputy Governors Himino or Uchida, or Board members Takata, Tamura, Koeda, Masu and Sato; absence of a verified statement is not evidence of their agreement with Ueda. Parliamentary appearances were not comprehensively checked.
+
+Hawkish pressure: At least four anonymous opinion passages favor an earlier approach toward neutrality, but one member can contribute multiple passages and anonymity prevents a precise headcount or attribution. Takata's dissent in October (favoring 1.50% immediately) is carry-over only. Tamura's earlier approximately 2% neutral-rate assessment is contextual, not a new November statement. The more cautious camp comprises Asada's named 12 November argument and separate anonymous views on accumulated tightening, insufficient consumption momentum and potentially restrictive future increases; the anonymous wording must not be attributed to Asada without confirmation. The apparent center (Ueda) accepted inflation progress but offered no public December schedule.
+
+The official 10 November Summary also explicitly distinguishes resilient corporate AI investment from the consumption base: some opinions refer to underwhelming consumption momentum, possible limits on further wage acceleration and as-yet limited second-round oil-price effects. Another opinion warns that a rate increase could weigh on fixed investment and housing, while a counterpoint considers that manageable. The Summary includes a separate discussion of ETF sales and their impact on markets; it is not equivalent to a policy-rate instruction.
+
+Human interpretation spread: Reuters/Leika Kihara framed the October Summary as hawkish pressure within a divided Board, and Asada's speech as resistance to an immediate increase; Bloomberg and Japan Times extracts emphasized the possibility of December action and Asada's conditional openness to future hikes. Seisaku Kameda expected quarterly increases toward 2.0% after December, conditional on financial stability; Mari Iwashita envisaged a possible pause after 1.75%. Nobuyasu Atago saw December as close to certain. Takuji Okubo's partially readable analysis argued both that Asada was less categorically dovish and that December had become less likely, but its causal logic was not accessible and remains lower confidence. Desk claims of no Asada-related yen reaction lack clean release-window price verification. Do not flatten these into a unanimous strategy view or treat a Reuters journalist's interpretation as a Board member's declaration.
+
+Asada's separate ETF-disposal discussion: the scout reported a step-up in annual ETF sales from roughly 0.05% to 0.1% of market trading value, shortening an indicative unwinding horizon from about 112 to 43 years. This is a balance-sheet/market-function issue, not evidence that the policy rate itself will accelerate. These figures come from the supplied primary-source review; they are not a new economic-release block.
+
+Source anchors and provenance:
+- BoJ, official Ueda address, 7 Nov: https://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm
+- BoJ, Summary of Opinions published 10 Nov: https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf
+- BoJ, Asada prepared speech, 12 Nov: https://www.boj.or.jp/en/about/press/koen_2026/data/ko261112a1.pdf
+- Asada press conference and Ueda IMF Q&A remain dependent on Reuters/Bloomberg reporting; no fully opened official transcripts in the supplied scout. September minutes were not comprehensively read in that scout. No reproducible intraday BoJ-comment-driven JPY/JGB/OIS price changes were established.
+
+Bottom line — BoJ and FX-policy tape
+
+Conditional tightening / pace dispute. Officially the policy rate remains at 1.25%, the next scheduled meeting is 17–18 December, and no in-window named policymaker committed to a December hike. The October Summary sustains pressure for normalization; Asada emphasizes weak consumption, a potentially lower neutral rate, and long transmission lags; Ueda did not resolve that disagreement. Street economists generally anticipated 1.50% in December, but debated the subsequent rate path. The key forward test is whether resilient corporate pricing and investment are joined by sufficiently durable wages, consumption and underlying domestic inflation to justify further tightening without excessive demand damage. FX-intervention warnings are a separate Ministry of Finance lever.
+
+Point-in-time exclusions / evidence limits:
+- Takata's 16 Nov speech is AFTER this window and is not an in-window hawkish signal.
+- Tamura's scheduled 26 Nov remarks and Ueda's 30 Nov Nagoya engagement are forward events, not evidence available by 14 Nov.
+- Ueda Q&A lacks an opened official transcript; Asada press conference is supported by Reuters only; September minutes were not comprehensively opened in the supplied scout.
+- The anonymous October Summary must not be assigned to individual named Board members or converted into invented voting probabilities.
+- No reliable numerical JPY, JGB or OIS repricing was supplied for the specific November speaker/publication events.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: Reuters Tankan non-manufacturers rose to +35 and AI-related factories maintained backlogs and hiring, even as October services hiring/confidence cooled, September real household spending contracted 6.8% and M2/M3 momentum weakened. Upstream CGPI and import prices accelerated while PMI selling-price inflation slowed. The BoJ's anonymous October opinions push for faster neutrality, but Asada argues that household demand is not sufficiently strong and existing hikes have long lags.
+Why it matters: Corporate orders and imported inflation can justify examining further normalization, yet neither proves a durable wage-financed consumption cycle or broad CPI pass-through. If firms absorb costs or households reduce volumes, moving too fast could weaken the very demand-led inflation the BoJ seeks to anchor; if domestic prices/wages diffuse, waiting carries credibility and exchange-rate costs.
+Implication: Keep a conditional December 1.50% street baseline without assigning a Board probability. Track consumer volumes, services/core CPI, wage settlements, the next Tankan, financing conditions and the cost/output-price gap; distinguish BoJ interest-rate decisions from independent MoF intervention warnings.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+**** JAPAN — ALL HOUSEHOLD SPENDING (10 NOV 2026)
+Why it matters: -6.8% y/y versus -3.1% expected and -2.8% m/m versus +0.3%. Weather and category volatility amplify the short-run miss, but ten annual declines challenge wage-to-consumption transmission; CTI/retail and October reversals separate structural caution from a one-off.
+
+**** JAPAN — CORPORATE GOODS PRICE INDEX, PRELIMINARY (12 NOV 2026)
+Why it matters: +7.1% y/y, +0.7% m/m and 22/23 positive annual sectors, with yen import prices +24.8%. October contract resets versus persistent energy/electronics cost pass-through will determine whether CPI, wages or margins bear the shock.
+
+*** JAPAN — REUTERS TANKAN NON-MANUFACTURERS INDEX (11 NOV 2026)
+Why it matters: +35 from +23, an eight-year high, but only 214 replies and a February outlook of +29. The source of B2B/communications strength versus hard consumer activity is decisive for breadth and BoJ confidence.
+
+*** JAPAN — BALANCE OF PAYMENTS / CURRENT ACCOUNT (10 NOV 2026)
+Why it matters: NSA surplus ¥2,372.3bn, a ¥982.1bn miss, dominated by weaker primary income and energy import prices. Near-record fiscal-half income and complex hedged asset flows distinguish a volatile month from structural JPY external deterioration.
+
+*** JAPAN — S&P GLOBAL MANUFACTURING PMI FINAL (2 NOV 2026)
+Why it matters: 53.3 versus September 54.1, with slowing orders but hiring/backlogs solid and input costs outrunning factory-gate charges. Validate final demand versus precautionary inventories, delivery bottlenecks and margin absorption.
+
+G. RED TEAM QUESTIONS
+
+1. How much of September's -6.8% real household-spending fall remains after weather-sensitive cooling, trips and volatile vehicles/education are separated, and does CTI/retail corroborate persistent weakness?
+2. What actually drives Reuters Tankan non-manufacturers to +35 as October services hiring/confidence soften: technology-facing B2B demand, a genuine consumer-service rebound, timing or the 214-response survey composition?
+3. Does the November +35 reading withstand the February +29 outlook, the next quarterly BoJ Tankan and hard activity/employment measures, or does it represent a one-month sentiment reversal?
+4. Do AI-linked manufacturing backlogs, hiring and inventories reflect final end-demand and capacity strain, or preemptive purchasing and supplier delays vulnerable to reversal?
+5. Will CGPI at +7.1% and yen import inflation at +24.8% feed core CPI/services prices and next spring's wages, or be absorbed in corporate margins and household real-purchasing-power losses after October contract resets?
+6. Is September's current-account shortfall mainly dividend timing rather than structural external deterioration, and what are the hedge- and settlement-adjusted spot-FX implications of overseas investment income and offsetting portfolio flows?
+7. Given Asada's neutral-rate/lags concern and anonymous calls for faster normalization, which *named, verifiable* combination of wages, inflation breadth, consumption and Board guidance would justify December tightening? Would MoF intervention warnings change USD/JPY without changing the BoJ rate path?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: USD/JPY (higher = weaker JPY). The Bank of Japan's 13 November 17:00 Tokyo reference was 159.84–159.86, with a 160.19 intraday high; 14 November was Saturday. The public institutional sample was divided: MUFG (2 November) projected 155 at end-Q4 2026; BNP Paribas Economic Research (2 November) projected 163 at the same horizon. MUFG separately reproduced a Bloomberg-sourced end-Q4 consensus reference of 157. BNP Paribas Wealth Management (5 November) projected 158 over three months and 155 over twelve months, which cannot be blended with the Q4 range.
+Public-bank Q4 2026 range: USD/JPY 155–163 (two-bank public sample, NOT a formal survey).
+Constructive JPY cluster: MUFG 155 at end-Q4; BNP Wealth 155 at twelve months (different horizons).
+More cautious / tactical view: BNP Economic Research 163 end-Q4; BNP Wealth 158 at three months.
+Bias at window close: Split medium-term outlook with strong tactical USD carry; spot near 160 offered downside to MUFG's 155 but room toward BNP's 163.
+
+What changed through the data window
+Spot diverged from standing forecasts more clearly than forecasters revised them. MUFG's Q4 155 was unchanged from October; BNP Wealth's 158/155 three-/twelve-month targets were also already present earlier, not verified revisions. BNP Economic Research's 163 Q4 scenario was in force on 2 November without a verified prior-target comparison. Higher US yields took USD/JPY toward 160 despite conditional BoJ tightening expectations, while Japanese officials warned against rapid one-sided yen moves. These developments changed price-to-target asymmetry, not a provable consensus forecast.
+
+Main consensus drivers
+- Rates/carry: US Treasury and prospective Fed tightening supported USD faster than gradual BoJ normalization narrowed the differential.
+- External balance/real demand: energy import costs and weak household volumes offset technology exports and large but not automatically repatriated investment income.
+- Intervention risk: MoF warnings near 160 constrained one-way USD/JPY positioning separately from BoJ rate policy.
+
+Where consensus could be wrong
+Too cautious on JPY if core/wage transmission triggers quicker BoJ hikes, US yields ease, or actual intervention produces faster USD/JPY downside. Too bullish if US rates stay high, import-cost pressure hurts consumption and the BoJ slows near neutral. Key falsification: relative short-rate expectations, underlying CPI and wages, real spending, and documented FX operations rather than rhetoric.
+
+Contemporaneous source anchors
+- MUFG Research, 2 Nov 2026 (Q4 155; Bloomberg benchmark 157): https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026
+- MUFG October outlook (Q4 155 unchanged): https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026
+- BNP Paribas Economic Research, 2 Nov 2026 (Q4 163): https://economic-research.bnpparibas.com/pdf/en-US/nowcasts-updated-scenario-forecasts-Economic-Research-2-November-2026-11/2/2026%2C53822
+- BNP Paribas Wealth Management, 5 Nov 2026 (3M 158 / 12M 155): https://professionalbanking-wealthmanagement.bnpparibas.com/en/insights/market-strategy/currencies-focus-november-2026.html
+- BoJ, 13 Nov 2026 (Tokyo spot reference): https://www.boj.or.jp/statistics/market/forex/fxdaily/fxlist/fx261113.pdf
+- Reuters, 13 Nov 2026 (US yields, spot and intervention risk): https://www.reuters.com/world/africa/dollar-near-19-month-high-fed-hike-bets-yen-tests-160-2026-11-13/
+- MUFG FX Weekly, 13 Nov 2026: https://www.mufgresearch.com/fx/fx-weekly-13-november-2026/
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- AI resilience, weak households, import costs, conditional BoJ.
+- Change: spending weakens, CGPI rises, Tankan rebounds; policy pace contested.
+
+Scoreboard
+- Growth: ~ | Manufacturing 53.3, services 51.7, Tankan +35; household spending -6.8% y/y.
+- Labor: ~ | Factory hiring strong; services weak; no hard aggregate confirmation.
+- Inflation: - | CGPI +7.1%, yen imports +24.8%; CPI pass-through unproven.
+- Financial Conditions: - | M2 +1.7%, M1 down, L +4.1%; no collapse.
+- Policy Constraint: - | 1.25%; faster-hike calls versus Asada's lag warning.
+
+Major Release Tape
+- **** Household Spending (10 Nov): -6.8% y/y vs -3.1% poll; weather and persistent restraint.
+- **** CGPI (12 Nov): +7.1% y/y, +0.7% m/m; broad upstream reset; feed Actual blank.
+- *** Reuters Tankan (11 Nov): non-manufacturers +35 vs +23; February +29, 214 replies.
+- *** Balance of Payments (10 Nov): NSA +¥2,372.3bn; ¥982.1bn miss, income and import effects.
+- *** Manufacturing PMI (2 Nov): 53.3 from 54.1; backlogs strong, orders slower.
+- *** Services/Composite PMI (5 Nov): 51.7/52.1; service hiring/confidence weaken.
+
+Minor Tape
+- Monetary base -13.65% y/y with flat average; M2/L +1.7%/+4.1%. Five blank Reuters Actuals; JPVTBS/M2 mappings unresolved.
+
+Central Bank
+- October 8–1 hold at 1.25%; 10 Nov opinions split on speed and neutral endpoint, unattributed by name.
+- Ueda gave no December commitment; Asada sees demand and lag risks, yet does not rule out slow future hikes. Street December 1.50%, not guidance. MoF FX warnings separate; Takata 16 Nov excluded.
+
+Signal Tension
+- AI/B2B corporate strength and input inflation coexist with weak households, slower hiring and incomplete selling-price transmission.
+
+Key Releases
+- Household Spending > Corporate Goods Prices > Reuters Tankan > Balance of Payments > Manufacturing PMI.
+
+Red Team
+- Test weather-adjusted demand, survey quality, inventories, price pass-through, dividends and policy thresholds.
+
+FX Consensus
+- USD/JPY higher = weaker yen; 13 Nov reference 159.85. MUFG Q4 155 versus BNP Economic Research Q4 163: divided two-bank sample, not a poll. BNP Wealth 3M 158/12M 155 are separate horizons. US carry favors USD; intervention risk checks upside. Spot moves are not forecast revisions.
+
+<<JPY_WEEK_END>>
+
+
+<<JPY_WEEK_BEGIN>>
 DATA WINDOW: 18 October 2026 to 31 October 2026
 
 A. JPY WEEK — MACRO SYNTHESIS
