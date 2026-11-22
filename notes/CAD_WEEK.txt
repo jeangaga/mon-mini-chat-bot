@@ -2,6 +2,294 @@
 
 miss 27sept 18oct
 <<CAD_WEEK_BEGIN>>
+DATA WINDOW: 1 November 2026 to 14 November 2026
+STATUS: EVIDENCE-LIMITED FINAL — ZERO VALIDATED RELEASE BLOCKS; RAW REUTERS INVENTORY RETAINED
+
+A. CAD WEEK — MACRO SYNTHESIS
+
+The incoming policy backdrop is the Bank of Canada's 28 October 25bp increase to 2.50%, which is OUTSIDE this window; a preceding frozen CAD macro regime/scoreboard could not be independently retrieved. Within 1–14 November, the supplied Reuters feed contains no validated analytical release blocks. Its mechanical observations show October employment at -4.7k versus +13.6k expected and unemployment at 6.7% versus 6.5% expected, alongside manufacturing PMI at 49.6 after 51.5. September's trade balance is C$5.35bn against a C$4.10bn poll, while seasonally adjusted Ivey PMI remains above 50 at 58.3. These observations create a labor/manufacturing versus external/trading-conditions divergence, but there is no validated official decomposition of hours, participation, sectors, export/import volumes or PMI components. September manufacturing sales, wholesale trade and building-permit actuals are absent. The numbers cannot support a confident whole-economy growth or labor regime transition on their own.
+
+In contrast, the supplied validated BoC speaker tape provides a clearer POLICY development: Macklem repeated a cautious, meeting-by-meeting willingness to tighten further; the 10 November deliberations confirmed that holding at 2.25% was a genuine alternative to the October hike. The Bank expects rising second-round energy-cost pass-through while acknowledging excess supply and core inflation near 2% in the October-decision context. Current-window private economist commentary disagrees sharply: CIBC and National Bank question the scale of pass-through, Desjardins sees less scope for permanent margin absorption, and several economists question labor resilience. No in-window inflation release was supplied. State transition: economy-wide unresolved; policy remains conditionally hawkish but its inflation-versus-employment trade-off is more explicitly contested, not demonstrated to have decisively shifted.
+
+B. CAD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: The unanalysed Reuters inventory juxtaposes a below-50 S&P Global manufacturing PMI (49.6, from 51.5), a positive September trade-balance surprise (C$5.35bn versus C$4.10bn poll) and seasonally adjusted Ivey PMI of 58.3 (from 58.2). Without vetted components, revisions, volumes and official publication commentary, neither an aggregate acceleration nor deterioration is established. No verified preceding CAD scoreboard is available for a sign bridge.
+
+Labor: ~
+Supporting evidence: Mechanical October readings are adverse (-4.7k jobs versus +13.6k expected; unemployment 6.7% versus 6.5% expected), and the validated BoC scout preserves named economists' concern about successive monthly job declines. Nevertheless, no validated labor-release analysis establishes the respective roles of participation, hours, full-time employment, sector shifts or statistical adjustments. The sign denotes insufficient validated cyclical determination, NOT labor stability; the directional headline evidence is negative.
+
+Inflation: ~
+Supporting evidence: No November-window Canadian CPI or other validated current-window inflation release was supplied. The BoC's October projection of around 3.5% headline inflation at end-2026 and its expectation of future energy pass-through are carry-over policy assumptions reiterated in this window, not a fresh measurement of realized underlying inflation. No inferred improvement or deterioration from data absence.
+
+Financial Conditions: ~
+Supporting evidence: No independently assessed Canadian credit, yield, housing-finance or transmission series was provided in the validated macro tape. The October policy rate of 2.50% is restrictive risk context but does not itself establish a new November market-conditions change. No source-based sign can be assigned beyond unresolved.
+
+Policy Constraint: -
+Supporting evidence: Macklem's 3/5 November official statements maintained cautious further-tightening optionality; the 10 November BoC deliberations documented a serious 2.25% hold case alongside concern over prolonged energy cost diffusion. The renewed inflation-target framework retains the 2% midpoint. External economist disagreement and weak employment observations make the timing contested but do not remove the Bank's upside inflation-risk constraint. The '-' denotes an adverse policy dilemma, not a verified December hike.
+
+C. FULL RELEASE ARCHIVE
+
+COVERAGE INTEGRITY: ZERO VALIDATED ANALYTICAL RELEASE BLOCKS. Eight listed publications, ten Reuters mechanical rows. This section preserves the supplied raw inventory, the original publication/day sequence and missing-actual flags. It does NOT contain analyst-validated Sections 1–4, PM FLASH, PM READ-THROUGH, PM DEBATE, official decomposition, State transition or HF Take for any release. None is invented. The named items below are UNBUILT publications, not completed release blocks. Importance stars cannot be inferred from Reuters High/Med alone.
+
+MONDAY 2 NOVEMBER 2026
+Canada — S&P Global Manufacturing PMI SA (October) — RELEASED — AWAITING SCOUT / NOT BUILT (1 Reuters row)
+
+WEDNESDAY 4 NOVEMBER 2026
+Canada — International Merchandise Trade Balance (September) — RELEASED — AWAITING SCOUT / NOT BUILT (1 Reuters row)
+
+FRIDAY 6 NOVEMBER 2026
+Canada — Labour Force Survey: Employment Change / Unemployment Rate (October) — RELEASED — AWAITING SCOUT / NOT BUILT (2 Reuters rows; one official publication)
+Canada — Ivey PMI / Ivey PMI SA (October) — RELEASED — AWAITING SCOUT / NOT BUILT (2 Reuters rows; one publication)
+
+MONDAY 9 NOVEMBER 2026
+Canada — Leading Index MM (October) — RELEASED — AWAITING SCOUT / NOT BUILT (1 Reuters row)
+
+THURSDAY 12 NOVEMBER 2026
+Canada — Building Permits MM (September) — ACTUAL ABSENT FROM SUPPLIED REUTERS FEED — RELEASE STATUS UNVERIFIED / NOT BUILT (1 Reuters row)
+
+FRIDAY 13 NOVEMBER 2026
+Canada — Manufacturing Sales MM (September) — ACTUAL ABSENT FROM SUPPLIED REUTERS FEED — RELEASE STATUS UNVERIFIED / NOT BUILT (1 Reuters row)
+Canada — Wholesale Trade MM (September) — ACTUAL ABSENT FROM SUPPLIED REUTERS FEED — RELEASE STATUS UNVERIFIED / NOT BUILT (1 Reuters row)
+
+UNBUILT REUTERS MECHANICAL INVENTORY — NOT RELEASE BLOCKS
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CAPMIM=ECI;2 nov;15:30;High;S&P Global Mfg PMI SA;Oct;49,6;51,5;;;
+CATBAL=ECI;4 nov;14:30;High;Trade Balance C$;Sep;5,35B;4,20B;4,95B;4,10B;1,250B
+CAEMPC=ECI;6 nov;14:30;High;Employment Change;Oct;-4,7k;-68,3k;;13,6k;-18,30k
+CAUNR=ECI;6 nov;14:30;High;Unemployment Rate;Oct;6,7%;6,5%;;6,5%;0,20%
+CAIPMI=ECI;6 nov;16:00;Med;Ivey PMI;Oct;56,4;61,9;;;
+CAIVSA=ECI;6 nov;16:00;Med;Ivey PMI SA;Oct;58,3;58,2;;;
+CACLI=ECI;9 nov;12:00;High;Leading Index MM;Oct;0,02%;0,08%;0,05%;;
+CABPER=ECI;12 nov;13:30;Med;Building Permits MM;Sep;;8,8%;;;
+CAMFGS=ECI;13 nov;14:30;Med;Manufacturing Sales MM;Sep;;1,5%;;0,1%;
+CAWTRA=ECI;13 nov;14:30;Med;Wholesale Trade MM;Sep;;-1,6%;;0,5%;
+
+Raw data cautions: the employment and unemployment surprises have not been checked against official component definitions; the trade balance lacks export/import composition; the two Ivey observations have different seasonal treatments; the revised September/July comparison points remain as provided. No independent verification of the three missing Actual values or their eventual release statuses was performed. No assumed importance flags, release-specific market moves, professional commentary, economic history, state transitions or HF conclusions have been inserted.
+
+D. CENTRAL BANK TAPE
+
+Bank of Canada / CAD | DATA WINDOW: 1 November 2026 to 14 November 2026
+Summary — Policy reaction function
+
+The Bank of Canada entered this window with the overnight rate at 2.50% following the 28 October increase from 2.25%. The decision itself is OUT-OF-WINDOW carry-over, not a new November action. The principal in-window publications are Macklem's parliamentary appearances (3 and 5 November), the renewed monetary-policy framework (5 November), and the 10 November summary of the October deliberations. The consistent official message is conditional further tightening, one meeting at a time, with caution under unusually high uncertainty. The Bank anticipates that prolonged energy/input-price increases will increasingly reach consumer prices, even though observed core inflation remains close to 2% and excess supply persists. Its October forecast, reiterated in-window, has inflation near 3.5% at end-2026, at or above 3% through much of 2027, and close to 2% by mid-2028. This is an inflation-risk/second-round-prevention reaction function, not a mechanical response to gasoline prices or a commitment to hike at the next meeting.
+
+The main new information is the publication of the Governing Council's actual hold-versus-hike debate, alongside a more explicit external challenge from weak employment and skepticism about the magnitude of cost pass-through. There is no attributable Governing Council dissent and no verified in-window basis for describing December as a decided hike. Distinguish official guidance from Macklem's reported, unverified Senate Q&A and from private forecasters' disagreement.
+
+TIFF MACKLEM — Governor, House of Commons Standing Committee on Finance — 3 Nov 2026
+Importance: ****
+Source: official Bank of Canada opening statement; fiscal Q&A known from contemporary Canadian Press coverage, not an authenticated official transcript.
+
+Key policy signal:
+Macklem reiterated the 28 October assessment: the outlook for inflation had deteriorated and growth was more resilient than anticipated, leaving less room for accommodation. The Bank's baseline pointed to about 3.5% CPI inflation at year-end, at or above 3% during much of 2027, and a return close to 2% by mid-2028. Businesses had mostly absorbed energy/import cost increases thus far, but Bank surveys and past experience indicated increased pass-through over the following year. He explicitly continued to recognize excess supply, with unemployment around 6.5%, and warned that US tariffs could slow Q4 activity. Further tightening is possible, but future decisions depend on incoming evidence. In reported Q&A, he did not judge the federal budget to violate his tests for fiscal sustainability or inflation-control interference; he expected the forecast to incorporate the budget when available.
+
+Representative quote (official opening statement):
+"There could be a need to raise the policy rate further, but given the uncertainties, we will proceed carefully."
+
+Incremental reaction function:
+Reinforcement, not a new hawkish escalation: a higher-inflation forecast and an expected second-round channel justify retaining tightening optionality, while uncertainty and slack support pacing. Macklem's reported fiscal assessment does not imply that the budget has no impact on individual households or that all fiscal choices are disinflationary.
+
+TIFF MACKLEM — Governor, Senate Committee on Banking, Commerce and the Economy — 5 Nov 2026
+Importance: ***
+Source: official Bank of Canada opening statement; Senate Q&A observations in the supplied scout derive from a lower-tier secondary account and are unverified against a transcript.
+
+Key policy signal:
+The official opening statement substantively repeated 3 November: inflation persistence risk, improved activity, scope for further increases, and caution. No meeting-specific commitment or official change in neutral-rate guidance was identified. A secondary report attributed to Macklem the descriptions of the 2.50% rate as relatively low and "not restraining growth", and characterized the hike as preventing a second inflation hit rather than reducing gasoline and diesel prices. These Q&A claims are NOT used as verified policy evidence until matched to an official transcript.
+
+Representative quote (official statement):
+"There could be a need to raise the policy rate further, but given the uncertainties, we will proceed carefully."
+
+Incremental reaction function:
+Little new in the authenticated opening statement. The claimed non-restrictive-rate characterization, if verified, would be materially more hawkish than the generic careful guidance; it remains quarantined as unverified secondary reporting.
+
+CAROLYN ROGERS — Senior Deputy Governor, parliamentary Q&A — 3 and 5 Nov 2026
+Importance: **
+Source: 3 November Canadian Press reporting; 5 November lower-tier secondary reporting only; no authenticated separate official transcript.
+
+Key policy signal:
+Rogers reportedly stated that Canadian productivity had not materially improved since her 2024 remarks, despite some encouraging but slow-moving business investment. The lower-confidence Senate account characterized the oil shock as prolonged and the economy as more resilient than assumed in July; it also described policy rates as an overly broad instrument for housing-specific problems. None of these reported remarks constitutes a distinct decision or attributable internal Governing Council faction.
+
+Representative quote:
+None retained — no primary Q&A text available.
+
+Incremental reaction function:
+Consistent with the governor's supply-shock-plus-resilience narrative. No independently established Rogers-specific shift in the policy path.
+
+BANK OF CANADA — Summary of Governing Council Deliberations (for 28 October decision) — PUBLISHED 10 Nov 2026
+Importance: ****
+Source: official Bank of Canada summary published 10 November; the underlying decision occurred on 28 October and is carry-over.
+
+Key policy signal:
+Two actual choices were debated: holding at 2.25% or hiking 25bp to 2.50%. A 50bp option was not documented. The hold case cited an energy-concentrated shock, CPI excluding gasoline of 2.2%, core inflation near 2%, remaining slack, soft labor indicators and risks from new US tariffs. The hike case was that a long-lived energy shock and imported-input inflation would eventually move through supply chains into non-energy consumer prices while somewhat stronger growth offered less disinflationary offset. Most firms had so far absorbed costs. Members differed on the speed and scale of pass-through, and some considered private-sector hiring stronger than aggregate labor figures implied. Long-term inflation expectations were viewed as anchored, though near-term expectations had risen. The Bank's oil benchmark assumption was approximately US$35/bbl higher than in July. Members agreed that energy costs alone could hold inflation near 3% for more than a year even without second-round effects. After debating both options, the Council selected +25bp and retained conditional scope for further hikes.
+
+Representative quote (official deliberations):
+"there could be a need to increase the policy rate further"
+
+Incremental reaction function:
+Important clarification: the hold option was substantive, not token, and the main disagreement concerned cost pass-through, the amount of slack and interpretation of employment, not an observable split into named hawks/doves. The document supports an inflation-risk-management motive for the October move but does not determine the December decision. The Council decides by consensus; no individual dissent is attributable from this source.
+
+GOVERNMENT OF CANADA / BANK OF CANADA — Monetary Policy Framework Renewal — 5 Nov 2026
+Importance: ***
+Source: official joint statement published 5 November; 2021 joint statement for wording comparison only.
+
+Key policy signal:
+The parties renewed the 2% CPI inflation target, at the midpoint of the 1%–3% control range, through 31 December 2031. Symmetry and flexibility of inflation targeting remain. Compared with the 2021 text, the 2026 formulation places relatively more explicit emphasis on the inflation anchor and does not repeat the 2021 undertaking to 'actively seek' maximum sustainable employment using the range's flexibility. IMPORTANT NUANCE: the 2026 statement still describes low, stable inflation as supporting maximum sustainable employment and growth; it is therefore incorrect to claim that employment was deleted altogether or that the statutory mandate was changed. The supplied Bloomberg interpretation characterized the change in emphasis as modestly hawkish; Shelly Kaushik (BMO) agreed with that reading. No policy-rate timetable was announced.
+
+Representative quote:
+No additional short quote needed; the 2% midpoint / 1%–3% band is the operative commitment.
+
+Incremental reaction function:
+Communications/emphasis adjustment, not proof that employment slack no longer matters. The simultaneous rate-hike guidance should not be attributed mechanically to a different legal target.
+
+Human voices — MATERIAL IN-WINDOW DISAGREEMENT (outside Bank policy guidance)
+
+Employment versus resilience (6 Nov): Andrew Grantham (CIBC) argued that a third monthly employment decline and underlying job-market softness justified pausing at the next meeting. Thomas Ryan (Capital Economics) viewed unemployment and weak wages as evidence of remaining slack, constraining additional hikes. Douglas Porter (BMO) also questioned the speed and magnitude of further tightening. This commentary challenges the Bank's resilience assessment but is external analyst interpretation, not a BoC admission of policy error.
+
+Cost pass-through versus margin absorption (13 Nov): Avery Shenfeld and Helen Lao (CIBC) expected business margins to absorb a larger portion of energy/input increases, implying less inflation persistence and urgency than the Bank projects. LJ Valencia (Desjardins) countered that firms cannot absorb rising costs indefinitely. Salim Zanzana (RBC) stressed highly uneven provincial exposure: national tightening could penalize regions with less inflation pressure. The debate is about the share and timing of second-round inflation, not whether the first-round energy shock exists.
+
+National Bank of Canada research (dated 13 Nov in supplied scout): Matthieu Arseneau, Alexandra Ducharme and Daren King criticized the scale of the Bank's 2027 inflation revision (from roughly 2.0% to 3.1%) and the pass-through produced by its Prima framework, including the possibility of a large negative residual. Their forecast table contemplated 2.75% in Q4 2026 and 3.00% in Q1 2027, but those numerical projections should not be conflated with endorsement of the Bank's inflation assumptions. Treat model-residual critiques as attributed hypotheses, not independently verified model failure.
+
+Fiscal reaction (3–5 Nov): Randall Bartlett (Desjardins) broadly supported Macklem's view that federal deficits added little near-term inflation impulse; Charles Lammam offered the opposing view that deficit-funded transfers support consumption and could mask weak incomes. This is an external fiscal dispute rather than a new policy-rate commitment.
+
+Market-pricing caveat: the supplied scout cites approximately even odds for a December hike in Bloomberg's 10 Nov account, versus other differently dated reports after weak jobs data. A 6 Nov Canadian Press account cited LSEG odds of about 35%. Different timestamps and instruments do not establish a consistent probability series. No precise, authoritative window-close probability is adopted.
+
+Bottom line — central bank tape
+
+BoC: conditional hawkish bias, but more contested than the repeated governor speeches alone suggest. The in-window deliberations validate the counterarguments for holding, and contemporaneous employment commentary widens the growth/inflation tension. The decisive test is whether non-energy consumer prices, wage/expectations measures and corporate pricing show the anticipated pass-through before labor weakness makes additional rate increases costly. The next scheduled decision is 9 December 2026, not a promised hike. For CAD, relative-rate support remains conditional on the Bank being correct about persistent inflation; weaker employment and rate-sensitive domestic activity limit an automatic currency-positive interpretation.
+
+Evidence / publication-time quarantine:
+- Decision to 2.50%: 28 October, OUT-OF-WINDOW carry-over.
+- In-window: parliamentary statements 3/5 Nov; framework 5 Nov; deliberations 10 Nov; contemporaneous external commentary through 13 Nov.
+- No authenticated monetary-policy speech from Gravelle, Gosselin, Vincent or Alexopoulos was found in the supplied scout for 1–14 Nov; no named internal hawk/dove mapping is justified.
+- The Q&A claim that 2.50% is "not restraining growth" is NOT verified from an official transcript and is excluded from the firm policy conclusion.
+- Macklem and Rogers Q&A interpretations remain at secondary-reporting confidence, not primary-official confidence.
+- Q3 Market Participants Survey published 9 Nov reflects pre-October-decision fieldwork; it cannot be treated as post-hike sentiment.
+- October CPI released 16 Nov, Gravelle remarks 18 Nov and Macklem's 24 Nov engagement are POST-WINDOW and cannot change this note's historical policy inference.
+
+Official source anchors (published dates retained):
+3 Nov opening: https://www.bankofcanada.ca/2026/11/opening-statement-house-commons-standing-committee-finance-2026-11-03/
+5 Nov opening: https://www.bankofcanada.ca/2026/11/opening-statement-standing-senate-committee-banking-commerce-and-economy-2026-11-05/
+10 Nov deliberations: https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/
+5 Nov framework: https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/
+2021 framework wording (comparison only): https://www.bankofcanada.ca/2021/12/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework/
+6 Nov contemporaneous labor commentary: https://toronto.citynews.ca/2026/11/06/statistics-canada-to-release-october-labour-force-survey-numbers-today/
+13 Nov contemporaneous pass-through debate: https://vancouver.citynews.ca/2026/11/13/inflation-expected-to-stay-high-as-economists-weigh-risk-of-broadening-price-hikes/
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: The BoC expects persistent energy-cost pass-through and retains a conditional hiking bias, while its own October deliberations recorded a genuine hold argument and in-window named economists challenge both employment resilience and the projected magnitude of second-round inflation. The raw November labor surprise reinforces the QUESTION, but its release decomposition is unbuilt.
+Why it matters: Acting on projected inflation can protect the target or amplify weak labor conditions; the CAD rate-differential benefit depends on which mechanism dominates.
+Implication: Treat future BoC tightening as conditional, not scheduled. Reconcile official core/expectations and corporate pass-through evidence with the full October employment composition before upgrading the regime call.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+The following are five in-window publications with supplied Reuters Actual observations, prioritized for a SECOND-PASS SCOUT. NONE has a validated analytical block or verified release-level importance star. They are not presented as completed deep research.
+
+1. CANADA — LABOUR FORCE SURVEY (6 NOV 2026)
+Why it matters: -4.7k jobs and 6.7% unemployment raise the central BoC resilience challenge; hours, full-time/part-time, labor-force participation, industry and provincial detail decide whether the deterioration is broad.
+
+2. CANADA — S&P GLOBAL MANUFACTURING PMI (2 NOV 2026)
+Why it matters: 49.6 versus 51.5 suggests softer factory diffusion, but separate orders, output, hiring, supply delays and factory price intentions must establish demand versus supply mechanics.
+
+3. CANADA — INTERNATIONAL MERCHANDISE TRADE (4 NOV 2026)
+Why it matters: C$5.35bn versus C$4.10bn poll is a positive balance surprise; export/import volumes, energy prices, revisions and lumpy transactions determine whether it implies stronger external demand or import compression.
+
+4. CANADA — IVEY PMI (6 NOV 2026)
+Why it matters: 58.3 seasonally adjusted versus 58.2 prior contrasts with S&P manufacturing contraction; Ivey's survey scope, purchasing activity and price/employment components are needed for reconciliation.
+
+5. CANADA — LEADING INDEX (9 NOV 2026)
+Why it matters: 0.02% versus revised 0.05% prior could be consistent with slower momentum, but the indicator's provenance and components have not been verified, limiting its independent decision value.
+
+Building permits, manufacturing sales and wholesale trade are NOT ranked as completed releases: their Actual fields were absent from the supplied feed.
+
+G. RED TEAM QUESTIONS
+
+1. Did October's -4.7k employment change, 6.7% jobless rate and the externally reported sequence of declines arise from weaker hiring, higher participation, hours worked or concentrated sector/provincial shocks?
+2. Can the BoC demonstrate broad price pass-through beyond direct energy in wages, non-energy consumer goods, services and expectations, or are corporate margins continuing to absorb the shock as CIBC/National Bank suggest?
+3. Does the C$5.35bn trade surplus reflect real export strength or import compression, energy pricing and one-off transactions?
+4. Are S&P manufacturing at 49.6 and Ivey SA at 58.3 genuinely inconsistent, or do methodology, sector coverage, orders and delivery times reconcile them?
+5. How would the Governing Council's real hold-versus-hike debate change if the full labor-release composition shows more slack than the October decision assumed?
+6. Does the renewed 2026 policy framework materially change the relative weight on employment in actual decisions, or only the language used to describe a still-flexible 2% inflation target?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: USD/CAD (higher USD/CAD = weaker CAD). The public institutional sample was modestly constructive CAD over Q4 2026 and more constructive into 2027, but the actual November tape was defensive. The Bank of Canada's 13 November indicative USD/CAD rate was 1.4257, near the top of a comparable, selected end-Q4 2026 bank range of 1.39–1.43. This is NOT a formal Reuters survey median. At that spot, Scotiabank's 1.39 implies CAD appreciation, MUFG's 1.42 little immediate asymmetry, and National Bank's 1.43 almost no additional CAD weakness. Neither directional consensus nor good near-term timing follows automatically from these targets.
+Public-bank Q4 2026 range: USD/CAD 1.39–1.43 (three selected in-force forecasts, not a formal survey).
+Constructive CAD cluster: Scotiabank 1.39 by Q4 2026; MUFG projects 1.40 by Q1 2027 (different horizon).
+More cautious / tactical view: MUFG 1.42 and National Bank 1.43 by Q4 2026.
+Bias at window close: Medium-term cautiously CAD-positive institutional sample, tactically CAD-negative price/rate momentum.
+
+What changed through the data window
+MUFG's 2 November Q4 1.42 was UNCHANGED from its 1 October outlook, even though its stated October month-end spot reference was 1.3952. Scotiabank's 5 November publication said it was HOLDING its Q4 1.39 target; this is not evidence of an in-window upward revision to CAD conviction. National Bank's October 1.43 Q4 forecast remains an older, explicitly dated carry-forward baseline, not a new November call. In contrast, USD/CAD rose to 1.4257 by 13 November; Reuters on 13 November linked CAD weakness to widening US–Canada front-end yield spreads, with Scotiabank's Shaun Osborne and Eric Theoret describing that gap as punitive. Spot moved toward the cautious targets while away from the constructive one; the forecasts themselves did not demonstrably chase spot.
+
+Main consensus drivers
+- Relative front-end yields: the US–Canada short-rate gap favored USD despite the BoC's hawkish optionality; weaker Canadian employment complicated further tightening.
+- Trade/commodities: export receipts and elevated oil offered potential CAD support, but commodity-to-CAD benefits depend on realized Canadian netback prices and trade conditions, not oil alone.
+- Global USD regime: US rates/risk appetite could overwhelm a domestic BoC tightening story; medium-term forecasts relied on that imbalance becoming less adverse.
+
+Where consensus could be wrong
+CAD-bullish challenge: yield spreads narrow, Canadian growth holds up and inflation pass-through warrants further BoC action, bringing USD/CAD closer to 1.39. CAD-bearish challenge: widening US yield advantage persists while labor weakness prevents tightening, leaving 1.43 vulnerable to an upside USD overshoot. Key test: subsequent relative two-year yields and validated Canadian employment/core inflation, not an unverified meeting probability.
+
+Contemporaneous source anchors
+- Bank of Canada daily FX reference, 13 November 2026: https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates-lookup/?dF=2026-10-31&dT=2026-11-14&lP=lookup_daily_exchange_rates_2017.php&rangeType=dates&sR=2017-01-01&se=FXUSDCAD
+- MUFG Research, 2 November 2026, November FX Outlook (Q4 1.42): https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026/
+- MUFG Research, 1 October 2026, October FX Outlook (comparison, Q4 1.42): https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-october-2026/
+- Scotiabank Economics, 5 November 2026 FX Outlook (Q4 1.39): https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.foreign-exchange.foreign-exchange-outlook--november-5--2026-.html
+- National Bank Economics and Strategy, October 2026 FX outlook (Q4 1.43): https://www.nbfwm.ca/content/dam/bnc/taux-analyses/analyse-eco/mensuel/forex.pdf
+- Reuters, 13 November 2026, CAD and rate-spread pressure: https://www.reuters.com/markets/us/canadian-dollar-heads-weekly-decline-punishing-yield-spreads-2026-11-13/
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Unvalidated macro tape; BoC conditionally hawkish despite labor slack. Zero release blocks.
+- Change: Deliberations exposed a genuine October hold option. Prior CAD baseline unavailable; macro transition unresolved.
+
+Scoreboard
+- Growth: ~ | PMI 49.6; trade C$5.35bn versus C$4.10bn poll; Ivey SA 58.3. Unanalysed.
+- Labor: ~ | -4.7k jobs, unemployment 6.7%. Adverse but undecomposed, not evidence of stability.
+- Inflation: ~ | No in-window CPI release; BoC inflation projections are carry-over assumptions.
+- Financial Conditions: ~ | No validated domestic market/credit assessment.
+- Policy Constraint: - | 2.50% post-October hike; further tightening possible, labor weak.
+
+Major Release Tape
+- October labor: -4.7k, unemployment 6.7%; NOT BUILT, requires composition.
+- Manufacturing PMI 49.6; trade C$5.35bn; NOT BUILT.
+
+Minor Tape
+- Ivey SA 58.3; leading index +0.02%. Actuals for permits, manufacturing sales and wholesale trade missing.
+
+Central Bank
+- Bias: Conditional hawkish; no promised December hike.
+- Reaction function: Energy pass-through versus near-2% core and employment slack.
+- Key tape: Macklem 3/5 Nov; 5 Nov framework; 10 Nov deliberations. CIBC/National Bank contest pass-through; Desjardins disagrees. Senate Q&A unverified.
+
+Signal Tension
+- Tension: Pre-empt persistent inflation or avoid compounding weak labor demand.
+- What resolves it: Verified jobs composition, non-energy inflation, margins, wages and expectations.
+
+Key Releases
+- 1. Labour Force Survey — participation, hours, sectors.
+- 2. S&P manufacturing PMI — orders, output, delivery distortions.
+- 3. Merchandise trade — prices versus volumes.
+- 4. Ivey PMI — reconcile conflicting manufacturing signal.
+- 5. Leading index — check provenance/components.
+
+Red Team
+- How broad is the jobs deterioration?
+- Will firms pass through costs or absorb margins?
+- Can the survey and trade signals be reconciled?
+
+FX Consensus
+- Consensus: Small public-bank sample leans CAD-positive over time, not a formal poll.
+- Public-bank range / cluster: USD/CAD 1.39–1.43 end-Q4 (Scotia 1.39, MUFG 1.42, National Bank 1.43); MUFG Q1 2027 1.40 is separate.
+- At window close: 13 Nov BoC USD/CAD 1.4257 near cautious target; spread favors USD.
+- Consensus wrong if: US rate advantage persists and Canadian labor restrains BoC tightening.
+
+<<CAD_WEEK_END>>
+
+
+<<CAD_WEEK_BEGIN>>
 DATA WINDOW: 18 October 2026 to 31 October 2026
 
 A. CAD WEEK — MACRO SYNTHESIS
