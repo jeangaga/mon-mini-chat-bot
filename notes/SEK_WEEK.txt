@@ -1,4 +1,769 @@
 <<SEK_WEEK_BEGIN>>
+DATA WINDOW: 1 November 2026 to 14 November 2026
+
+A. SEK WEEK — MACRO SYNTHESIS
+
+Sweden's incoming regime was an investment- and business-led recovery with fragile household transmission, persistent labor slack and increasingly prominent input-price risks. The last accessible frozen SEK note (6–19 September) had emphasized weak hard activity and very low realized inflation; the more recent 25–31 October live tape showed positive Q3 growth (+0.4% q/q) but a softer September exit (-0.7% m/m GDP), a September retail-volume dip and worsening household confidence despite strong firm-side indicators. In this window, October manufacturing PMI strengthened to 60.5, supported by production, hiring diffusion and an input-price index of 82.6. Yet September industrial production value fell 3.2% m/m and 3.7% y/y, with a large vehicle-sector payback after a revised August surge. The reference-month mismatch, still-firm industrial orders and steadier non-industrial output preclude calling either an industrial boom or its reversal proven. No new hard labor-market release validates the better manufacturing hiring survey.
+
+The central new tension is between pre-emptive Riksbank normalisation and subsequent disinflation. The expected 4 November hike to 2.00% preserved September's conditional tightening path. Minutes of the 3 November discussion, published 10 November, showed agreement on the move but divergence on speed and amount: Jansson did not exclude December, Seim favored early risk management, while Bunge stressed household rate sensitivity and Hjelm envisaged one more increase. Those remarks predated the 5 November downside CPI flash: October CPIF was 1.1% y/y and conventional ex-energy CPIF 0.1%, confirmed on 12 November. Thedéen (5 November) and Bunge (12 November) subsequently acknowledged the forecast undershoot without endorsing an immediate reversal; Bunge emphasized gradualism. Fiscal/administrative price distortions and strong upstream costs leave the forward inflation test open. Housing expectations weakened before the hike, reinforcing transmission risk. State transition: stronger survey activity but unconfirmed hard-output and labor recovery; weaker realized consumer inflation and diminished December urgency, with the 2027 rate path still conditional rather than cancelled.
+
+B. SEK MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: October manufacturing PMI improved to 60.5, with output and employment components supportive of a capital-goods-led expansion. But September private production value fell 0.5% m/m, industry declined 3.2% after a revised 6.0% August surge, and vehicles fell 13.4%; September GDP and retail had already softened in the preceding live tape. An improving orders pipeline and different reference months argue against extrapolating one weak hard print. Compared with the older frozen September Growth (-), surveys are more supportive, but the aggregate growth state remains mixed rather than conclusively positive.
+
+Labor: ~
+Supporting evidence: The manufacturing employment PMI strengthened to 60.1 from 57.0, and the policy communication described improving recruitment plans. This is diffusion/intention evidence, not realized employment. No new national labor-force or payroll release is in the six-publication window. Earlier labor slack remains carry-over context; labor-market stability or a hiring reversal cannot be inferred from missing current hard data. The older frozen Labor (~) is not mechanically upgraded.
+
+Inflation: +
+Supporting evidence: October CPIF decelerated to 1.1% y/y versus 1.4% expected, with CPIF excluding energy at 0.1% versus 0.5% expected; the final confirmed both. A large negative food-price contribution and temporary fiscal/administrative effects qualify the low underlying reading, while the PMI input-cost index reached 82.6 and historical producer/import costs were elevated. The sign denotes a reduction in current realized consumer-inflation concern, not proof that constant-tax inflation or future pass-through is safely controlled. This continues the older frozen low-inflation state despite intervening upstream inflation pressure.
+
+Financial Conditions: -
+Supporting evidence: The Riksbank raised its policy rate 25bp to 2.00%, making monetary conditions more restrictive at the margin. SEB's pre-decision housing expectations balance declined to +38 from the official +43, and the share of variable-rate mortgage borrowers considering fixing increased to 16%. These suggest household rate sensitivity but do not demonstrate falling realized house prices or credit volumes. Higher energy/import costs add a real-income risk; no comprehensive contemporaneous credit-spread or mortgage-rate repricing is verified. Restriction is a continuing level and now an implemented policy delta.
+
+Policy Constraint: ~
+Supporting evidence: The anticipated 4 November 25bp hike to 2.00% implemented the September normalisation path, and the official statement retained conditional further increases. The five-member discussion on 3 November (minutes published 10 November) confirms shared concern about future cost pass-through but disagreement over timing: Jansson left December open, Seim stressed acting early, Bunge argued for gradualism and mortgage sensitivity, and Hjelm contemplated one further move. This debate PREDATED October's 5 November CPI miss, so it is not a five-member post-inflation endorsement of December. Thedéen on 5 November and Bunge on 12 November acknowledged below-forecast inflation, without abandoning the conditional path; Bunge sharpened the household-demand constraint. Subdued realized core, weak hard labor transmission and pre-hike housing caution lower the near-term hurdle for waiting, while very high factory input costs preserve later tightening risk. Sign remains ~: pace and cumulative hikes unresolved, not an official dovish pivot.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 2 NOVEMBER 2026
+
+SWEDEN — SEB / DEMOSKOP HOUSING PRICE INDICATOR (NOV)
+Release Date: 2 Nov 2026 | Local Time: 06:30 CET
+Importance: **
+
+PM FLASH: The housing-price expectations balance was 38, against a Reuters prior of 41; the officially published October balance was 43, implying a five-point decline. The share expecting rising prices fell to 49% (official October: 53%), while 11% expected prices to decline. No Reuters poll was supplied.
+PM READ-THROUGH: Household housing optimism has retreated to its joint-lowest 2026 reading but remains decisively positive. More mortgage borrowers are considering fixing their rates, adding a prospective household-financing constraint rather than proving that transaction prices or volumes have weakened.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Producer commentary identifies a growing divergence between steadier realized house prices and weakening expectations; independent release-specific economist views were not established.
+Key takeaways: The survey predates the 4 November hike and 5 November inflation surprise. Lower one-year rate expectations alongside higher fixing intentions should not be mistaken for a single coherent household rate forecast.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SEEPD=ECI;2 nov;06:30;High;SEB Housing Price;Nov;38,0%;41,0%;;;
+SEEPDI=ECI;2 nov;06:30;High;SEB Housing Price Inc;Nov;49,0%;52,0%;;;
+SEEPDD=ECI;2 nov;06:30;High;SEB Housing Price Dec;Nov;11,0%;11,0%;;;
+
+2. Professional Market Commentary
+
+The SEB/Demoskop survey found that housing-price optimism was becoming less convincing even though the sponsoring bank described realized prices as relatively steady. The balance of respondents expecting house-price increases over declines fell to +38 in November from the officially reported +43 in October. The 49% expecting higher prices was down from 53%; 11% expected lower prices and 26% no change. The +38 is a survey balance in points, NOT a percentage change or the share expecting increases; the Reuters row's percent sign is retained unchanged in Section 1 as the user's mechanical feed.
+
+Américo Fernández, SEB private economist and the survey producer's named explanatory voice, argued that housing prices and expectations were becoming misaligned: buyers' optimism had begun wavering while observed prices had developed steadily. He warned that actual Riksbank tightening could eventually be reflected in housing prices. He separately read the rise to 16% from 15% in the share of variable-rate borrowers considering fixing part or all of their mortgage within three months as an attempt to insure housing expenses against prospective higher rates, particularly ahead of winter. These are the producer's interpretations, not independent external verification of house-price weakness.
+
+Contemporaneous reporting was substantially syndicated from the SEB release. Nyhetsbyrån Direkt (carried by EFN, 2 November) and Finwire (carried by Börsvärlden, 2 November) corroborated the November reading and the weaker optimism, while Bostadspolitik.se presented regional details, the rate expectations and historical path. No independent named economist or strategist provided a differentiated release-specific interpretation. No Tier 1 institutional debate detected. No announcement-specific SEK, Swedish yield or equity reaction was established. The manufacturing PMI, from a separate issuer, followed at 08:30 and must not be merged with this 06:30 publication.
+
+Source anchors (contemporaneous primary and readable reporting):
+- SEB primary release, 2 Nov 2026, 06:30: https://news.cision.com/se/seb/r/farre-tror-pa-stigande-bostadspriser,c4417716
+- SEB housing-indicator report page and October history: https://sebgroup.com/sv/vart-erbjudande/rapporter-och-publikationer/boprisindikatorn
+- Demoskop co-producer publication, dated 3 Nov: https://demoskop.se/boprisindikatorn-november-2026/
+- Nyhetsbyrån Direkt / EFN, 2 Nov: https://efn.se/hushallens-bostadsoptimism-vacklar-sebs-indikator-sjunker
+- Bostadspolitik.se, 2 Nov: https://bostadspolitik.se/seb-bostadsoptimismen-faller-fler-overvager-att-binda-lanen/
+- Finwire / Börsvärlden, 2 Nov: https://borsvarlden.com/artiklar/boprisindikatorn-faller-farre-tror-pa-stigande-bostadspriser
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The November balance is a meaningful deterioration in households' expectations of future housing-price gains, but not a negative housing outlook in levels: almost half expect rising prices, just over one-tenth expect declines, and the balance remains +38. It is the joint-lowest month of 2026 (with April) after a volatile but positive run. The release is best regarded as a prospective household confidence and monetary-transmission signal, rather than a hard residential-price, mortgage-lending or construction-activity observation.
+
+The Reuters mechanical and official historical comparisons diverge materially. The survey's own October balance was +43, not +41, and the October rising share was 53%, not 52%. Hence the economically valid month-on-month changes are -5 balance points and -4 percentage points in the rising share. Section 1 retains Reuters' 41,0% and 52,0% mechanically. The Reuters 41 balance matches the official September reading; the reason the feed used it as the prior for November is unverified and cannot be silently repaired.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Survey measure | October — official | November | Interpretation |
+|---|---:|---:|---|
+| Housing price expectations balance | +43 | +38 | -5 balance points |
+| Expect prices to rise | 53% | 49% | -4 percentage points |
+| Expect prices to fall | Source conflict / not securely reconciled | 11% | No reliable prior change |
+| Expect unchanged prices | Not verified | 26% | Substantial non-directional group |
+| Expected Riksbank policy rate in one year | 2.13% | 2.01% | -12bp household point estimate |
+| Borrowers considering fixing variable-rate mortgages | 15% | 16% | +1pp, highest since early 2022 |
+
+1) Level versus change and the 2026 sequence. The monthly indicator series in the official SEB release reads January 44, February 44, March 47, April 38, May 41, June 44, July 47, August 44, September 41, October 43 and November 38; December 2025 was 37. November is therefore a reversal of October's small improvement and the joint-weakest 2026 observation, but remains above late-2025 levels. A positive net balance of 38 coexists with weaker recent momentum. The reported share expecting falling prices (11%) is small relative to the rising share, while one-quarter expects no change. The 49% and 11% reconcile exactly to the +38 balance; residual nonresponses should not be converted into a verified 'don't know' figure without a published category.
+
+2) Borrower rate positioning versus rate-level expectations. Household one-year policy-rate expectations fell to 2.01% from 2.13%, and to 2.03% among mortgage holders. At the same time, the fraction of variable-rate mortgage borrowers considering fixing rose to 16%. The direction of this mix is not mechanically contradictory: the fixing question measures an intention to protect a household budget, while the policy-rate question is a point expectation about the level of the Riksbank's rate one year ahead. Risk aversion, mortgage product spreads, winter utility costs and differences in respondent populations could all help reconcile them, but the survey does not estimate their relative contributions. Nor does 'considering fixing' equal executed refinancing or a change in mortgage debt outstanding.
+
+3) Regional and real-economy translation. Skåne recorded a +54 balance and Norrland +49; other reported regions clustered between +32 and +36. The optimism is therefore geographically uneven but still positive in every disclosed region. Prior regional changes were not independently verified and are not used to claim a regional turning point. The producer described house prices as holding steadier than expectations; without transaction-price data, prices-to-income measures, new-mortgage approvals or housing starts, this survey cannot establish an actual nationwide price decline or deterioration in construction activity. Its household-financing relevance is strongest through the probability that higher interest costs curb housing turnover, durable expenditure and residential investment over subsequent quarters.
+
+4) Point-in-time and measurement controls. Interviews ran 20–27 October 2026, before the 4 November Riksbank hike and the 5 November downside October CPI flash. The survey therefore captures anticipation of tighter rates, not households' reaction to either subsequent announcement. The Demoskop page was dated 3 November, while SEB's contemporaneous Cision release was dated Monday 2 November at 06:30 CET; the latter directly verifies the Reuters publication date. The fieldwork consists of slightly over 1,000 online-panel interviews, so sampling/method and month-to-month sentiment volatility limit fine-grained inference. The 11% falling share is called an increase in the SEB/Demoskop text but unchanged in a contemporaneous Direkt relay; because the official October numerical share was not secured in the reviewed summary, do not assign it a reliable monthly delta.
+
+5) Reconciliation with the wider SEK week. This is a distinct household-side counterweight to the strong 2 November manufacturing PMI. The latter points to industrial investment and higher input-price pressures; the housing survey points to deteriorating expectations and precautionary rate positioning. Later in the week, the Riksbank implemented the fully anticipated 25bp rise and October CPI surprised markedly to the downside. Those subsequent events help frame what to verify next, but cannot be treated as causes of the October survey interviews. A price-expectations survey alone is inadequate to override the activity or inflation signals.
+
+State transition: deterioration in forward housing confidence with still-positive expectations — the balance drops five points to a joint-2026 low while greater mortgage-fixing interest suggests a prospective rate-sensitivity channel, not confirmed housing-price contraction.
+
+Context from prior regional live file: After reaching 47 in July, housing optimism slipped to 44 in August and 41 in September, briefly rebounded to 43 in October and then fell to 38 in November. This weakens the earlier optimism trajectory without turning the positive survey balance negative. Household caution remains a potential constraint on transmission from the industrial recovery to residential demand.
+
+4. HF Take — Strategist Layer
+
+What changed: The new reading adds a forward-looking household and housing-finance qualification to an otherwise relatively resilient industrial picture. The magnitude of the change is larger against the official October value than against the stale Reuters prior, but the level is still optimistic and the survey is not a reliable measure of realized housing turnover. The combination of waning housing-price expectations and more mortgage-fixing interest makes rate-sensitive domestic demand an important constraint on any aggressive follow-up to the 4 November Riksbank increase.
+
+Why it matters: Rate normalisation can support SEK through prospective differentials if Swedish activity and underlying inflation warrant it, yet the domestic counterpart may be weaker housing sentiment, higher debt-service caution and ultimately slower discretionary consumption or construction. The survey does not validate an actual residential slump, nor does its 2.01% expected one-year rate establish a market-implied policy path. It predates both the hike and the soft CPI flash, so it cannot determine how households reprice those announcements. The absence of a standalone market move also argues against treating it as a tactical SEK catalyst.
+
+What to verify next: (1) December housing indicator after actual policy/CPI news, including rising/falling shares and mortgage-fixing plans; (2) realized house-price indexes and housing transactions; (3) actual mortgage rates, fixing uptake and new lending; (4) household confidence, real consumption and residential construction; (5) whether subsequent policy-rate expectations diverge further from the Riksbank's conditional path.
+
+Macro configuration: positive but fading house-price optimism + increased mortgage-cost hedging interest + lower subjective one-year policy-rate expectation + strong business-side surveys + future domestic-demand sensitivity under conditional rate normalisation.
+
+SWEDEN — SWEDBANK / SILF MANUFACTURING PMI (OCT)
+Release Date: 2 Nov 2026 | Local Time: 08:30 CET
+Importance: ***
+
+PM FLASH: Manufacturing PMI rose to 60,5 from 58,5, the highest since January 2022, led by production and employment. Separately reported sub-indices show output at 66.1 versus 60.8 and employment at 60.1 versus 57.0. The input-price index increased to 82.6 from 78.3, its highest in over four years. There was no Reuters consensus.
+PM READ-THROUGH: The October survey strengthens the established investment-led factory recovery and prospective cost-pressure case ahead of the 4 November policy meeting. It does not guarantee a similar expansion in realized output: September's hard production value, published later on 10 November, was sharply weaker and reflects a different reference month.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Industrial investment linked to defence, infrastructure and data-centre capacity can sustain export-oriented capital-goods demand, yet energy and input-cost inflation can erode margins or lead to later selling-price increases.
+Key takeaways: Production and hiring breadth improve, while new orders ease slightly and delivery delays remain an ambiguous PMI component. Verify orders and prices against subsequent hard production, not the survey headline alone.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SEPMIM=ECI;2 nov;08:30;Med;PMI Manufacturing Sect;Oct;60,5;58,5;;;
+
+2. Professional Market Commentary
+
+OFFICIAL SURVEY: Swedbank/Silf reported that October PMI rose to 60.5 from 58.5 in September, the highest since January 2022 and above the survey's 54.4 historical average for the sixteenth successive month. Fieldwork ran from 12 to 28 October. The producer identified output as by far the largest positive contributor, with employment and lower purchasing inventories also supporting the rise. New orders and supplier delivery times softened slightly from elevated levels. The raw-material and input-price index reached 82.6 from 78.3, described as broad cost inflation across industry. Jörgen Kennemar, Swedbank's head of PMI analysis and an official co-producer voice, warned that rising costs threatened manufacturers' margins and might transmit to producer and consumer prices; his comments are source explanation, not independent economist confirmation.
+
+Named independent human views on 2 November were substantively differentiated. Christina Nyman, Handelsbanken chief economist (EFN), saw the PMI as confirming unusually strong industry, underpinned by defence expenditure and associated infrastructure, data-centre/AI projects and European capital investment. Sweden's capital-goods exporters, she argued, are exposed to that investment wave. Jens Magnusson, SEB chief economist (EFN), agreed that activity was strong but stressed that a healthier outcome would be higher hiring plans and orders rather than price-raising intentions; he specifically identified the risk of an energy-driven second-round pricing response. These are complementary emphases, not evidence of an outright dispute over whether the current PMI is strong.
+
+Dagens PS highlighted sustained increases in metals, electronic components, energy and diesel input quotations and linked the index to September producer-price pressure. Official SCB data independently confirm September headline PPI at +11.2% y/y, +6.2% excluding energy, with import prices +15.5% y/y. These are separate historical price publications, included only as external context and not as new Reuters release blocks. The survey's precise output, employment, inventories and delivery-time sub-index levels were corroborated by secondary reporting; the full Swedbank/Silf technical table was not independently inspected. No release-specific FX or rates move was verified.
+
+Primary and professional source anchors:
+- Swedbank/Silf, 2 Nov 2026: https://news.cision.com/se/swedbank/r/pmi-okade-till-60-5-i-oktober---hogtryck-i-industrin,c4418331
+- EFN, 2 Nov (Nyman and Magnusson): https://efn.se/svensk-industri-gar-starkt-bekraftar-bilden
+- Dagens PS, 2 Nov: https://www.dagensps.se/foretag/industrikonjunkturen-tar-fart-men-inkopspriserna-okar-i-rekordtakt/
+- Trading Economics, sub-index secondary data: https://tradingeconomics.com/sweden/manufacturing-pmi
+- SCB, Sep PPI issued 26 Oct: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-economic-trends/price-statistics/producer-and-import-price-index/pong/statistical-news/producer-and-import-price-index-september-2026/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The signal is substantial survey-led industrial strength, with two dimensions that should be held apart: the underlying activity expansion, increasingly associated with capital-investment and defence-related demand, and accelerating imported/manufacturing cost pressure. An above-60 PMI supported by production and hiring is more persuasive than a headline elevated solely by delayed deliveries. Yet diffusion indices measure how widely conditions improve, not the month-on-month percentage change of national industrial production. The missing exact new-orders level prevents a full order-to-production quality check. The reading confirms survey momentum and increases confidence in the Riksbank's demand-recovery premise, not in a completed household- or consumer-price transmission.
+
+The later 10 November PVI report showed a September industrial decline despite October's stronger PMI. That is a meaningful cross-release tension, but the reference periods differ and the previous month's industrial PVI had surged; September should not be silently treated as a contemporaneous disproof of October fieldwork. The follow-up must distinguish an industrial cycle broadening across producers from an outsized, sector-specific inventory/vehicle swing.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Component balance and breadth
+
+Measure                                     September 2026       October 2026       Source status
+Headline PMI                               58.5 (revised)      60.5               Official
+Production sub-index                       60.8                66.1               Secondary, full technical table unopened
+Employment sub-index                       57.0                60.1               Secondary, full technical table unopened
+Purchasing inventories sub-index           53.6                51.9               Secondary, full technical table unopened
+Supplier delivery times sub-index          62.6                62.0               Secondary, full technical table unopened
+Input-price index                          78.3                82.6               Official
+New orders                                 Elevated            Slight easing       Official direction; numeric index unverified
+
+The original September PMI was 58.1 when published 1 October; 58.5 is the updated comparison carried in the November bulletin and the locked Reuters Prior field. It is not a new October forecast or a Reuters Revised-field value. At 60.5 the index stands well above both 50 and its historical average, but the +2.0-point move has no directly equivalent industrial-production growth rate.
+
+Higher production (66.1), if corroborated by the complete sub-index table, and employment (60.1) strengthen the case for activity supported by more than supplier delays. Yet falling purchasing inventories can contribute to the composite in ways that need not imply stronger end-demand, while new orders slowed slightly despite being described as high. The exact export/domestic orders mix and the production-plans index remain unavailable. Rising employment intentions should be tested against actual hiring, because survey diffusion and realized payrolls can diverge for months.
+
+2) Sources of demand and the order-to-production bridge
+
+The capital-goods mechanism is economically plausible and source-backed: defence procurement raises demand for industrial equipment, transport, materials and connected infrastructure; data-centre/AI build-out adds electrical, engineering and construction components. These projects can sustain Swedish investment-oriented exporters even when household purchases or consumer-goods output are weaker. The sources do not quantify how much of October PMI production is directly attributable to each project category. Orders, production and backlogs must therefore be checked before equating a strong survey with a self-sustaining, broad-based industrial boom.
+
+3) Input prices versus selling prices and final inflation
+
+An 82.6 input-cost diffusion index means widespread reports of rising prices among surveyed purchasing managers; it is not a percentage rate of input inflation. Higher cost frequency can produce margin compression, delayed producer-price pass-through, changes in sourcing, or lower output if final demand cannot absorb price increases. Historical SCB September PPI of 11.2% y/y (6.2% excluding energy), alongside import inflation of 15.5%, independently confirms that the cost shock is real upstream. It does not establish how strongly October household prices subsequently rose. In fact, the 5 November CPIF flash and 12 November final would show only 0.1% annual ex-energy consumer inflation, with fiscal-price distortions. That later evidence qualifies the speed and breadth of downstream transmission, not the existence of input pressure.
+
+4) Hard-output validation and measurement distinctions
+
+SCB's September industry PVI declined 3.2% m/m after a revised 6.0% August gain, with vehicles accounting for an outsized monthly contraction; October factory PMI is one month later. PVI is a constant-price production-value index; it is neither physical output volume nor a direct crosswalk to PMI diffusion. Since industry has around one-fifth weight in the PVI private-sector total, the strong industry survey can coexist with a weaker private-sector output observation if services, construction, vehicle-model timing and reporting differences matter. September industrial orders, released as an institutionally separate SCB publication on 10 November, rose 1.8% m/m and 8.4% y/y according to official SCB statistics; this independently strengthens the order pipeline, but those non-Reuters-feed figures are context rather than additional blocks. The mix remains important: motor-vehicle orders were weaker annually while equipment demand was stronger.
+
+State transition: continuation / strengthening of the survey-led manufacturing upswing — output and employment breadth improve in October, but slightly softer orders, a severe input-price shock and subsequent weak September hard production prevent declaring an unqualified industrial regime acceleration.
+
+Context from prior regional live file: September manufacturing PMI was originally 58.1, subsequently revised to 58.5, after August's 56.3, pointing to an already vigorous factory recovery. October's 60.5 confirms and strengthens that survey trajectory, especially in production and hiring, while the separate September PVI decline requires hard-output confirmation before assuming the same improvement in realized volumes. The regime remains investment-led and exposed to rising input costs.
+
+4. HF Take — Strategist Layer
+
+What changed: This is a strong confirmation of Swedish manufacturing momentum, not simply a marginal PMI improvement. The production and employment detail make the pickup more credible than an index inflated only by supply delays, while the 82.6 input-price index reinforces the imported-cost risk that subsequently informed the Riksbank's 4 November normalisation. That policy decision was widely anticipated, so the PMI cannot be used to infer a PMI-specific SEK repricing. The subsequent CPI downside surprise substantially complicates translating input-cost breadth into a near-term additional hike.
+
+Why it matters: An investment-led cycle can initially carry factory production and exports without stimulating consumer demand or broad consumer inflation. The test is the transition from order books to realized output, then from higher sales to jobs and household income, and separately from imported costs to sustained core selling prices. The September PVI drop introduces a concrete alternative hypothesis: the survey may be capturing a later or narrower investment-production upswing while vehicle and chemicals output fluctuate independently. Equally, a high PMI can coexist with weak margins rather than durable pricing power.
+
+What to verify next: (1) November manufacturing PMI on 1 December, especially new orders, production and employment; (2) October/November industrial PVI, motor vehicles and chemicals; (3) domestic versus export industrial orders and backlogs; (4) factory output-price intentions, non-energy PPI and consumer ex-energy/fiscal-adjusted inflation; (5) realized hiring and order-to-output conversion.
+
+Macro configuration: strong investment-oriented manufacturing survey + improving factory employment breadth + large upstream cost pressure + unproven pass-through to consumers + noisy hard production + conditional, not automatic, Riksbank tightening.
+
+WEDNESDAY 4 NOVEMBER 2026
+
+SWEDEN — RIKSBANK POLICY RATE DECISION (NOVEMBER MEETING; EFFECTIVE 11 NOV)
+Release Date: 4 Nov 2026 | Local Time: 09:30 CET
+Importance: ****
+
+PM FLASH: The policy rate rose 25bp to 2.00% from 1.75%, exactly matching the 2.00% poll; the change takes effect 11 November. The September rate path was reaffirmed, with further increases likely over the coming year if the outlook holds. No new forecasts were published.
+PM READ-THROUGH: The anticipated November hike converts the September tightening signal into action, but it is preventive normalisation rather than a response to confirmed broad underlying inflation. Stronger activity and energy/import-cost risks offset very low measured ex-energy inflation and remaining labor slack.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: Is the next step in December or early 2027, and does market-implied tightening materially exceed the conditional official path? A separate domestic challenge is that a supply-shock hike may damage interest-sensitive households and housing.
+Key takeaways: Fiscal-price measures depress observed inflation; energy dominates the current adjusted inflation impulse. The first critical post-decision test is October core inflation, followed by consumer demand, price-setting and wage transmission.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SERATE=ECI;4 nov;09:30;High;Riksbank Rate;11 Nov;2,00%;1,75%;;2,00%;0,000%
+
+2. Professional Market Commentary
+
+OFFICIAL DECISION AND ANNOUNCEMENT-DAY TAPE (information public on 4 November): The Riksbank raised the rate for the first time since September 2023, after holding it at 1.75% since September 2025. The five-member Executive Board adopted a 25bp increase, effective 11 November. Its November Monetary Policy Update carried no revised projections. The official statement attributed the need for less accommodative policy to Sweden's improving economic position combined with supply interruptions, higher energy and producer costs and the earlier krona depreciation. It conditioned further increases on the inflation/activity outlook remaining consistent with September's projections; it did not commit to another move in December.
+
+Named professional perspectives were differentiated rather than unanimous. Susanne Spector (Danske Bank, quoted by TT/SVT, 4 Nov) described the move as the Riksbank catching up with other central banks; the relayed article did not unambiguously establish the precise number of further hikes in her call. Mattias Persson (Swedbank chief economist, TT/SVT, 4 Nov) argued that rising inflation could require one more early-2027 increase. Arturo Arques (Swedbank private economist, The Local, 4 Nov) offered a more extended household-rate scenario: February plus another 2027 step, with little prospect of lower rates in 2027. These two Swedbank voices reflect different presentations and should not be mechanically counted as two independent institutional forecasts. Amanda Sundström (SEB strategist, TT via Bytes Europe, 4 Nov) characterized the decision as policy catch-up and was linked to an estimate of roughly 111bp of additional tightening priced for the following year. That pricing figure is a single-source relay, not a verified independent OIS extraction. Maria Mikkonen (Svensk Handel chief economist, Tidningen Näringslivet, 4 Nov) disputed the urgency: energy bills and higher borrowing costs could weaken the recovery, while Swedish interest rates cannot remedy global supply disruptions. Industry executive Erik Haara (TMF, same outlet) highlighted housebuilding exposure; he is an interested industry voice, not a market economist.
+
+Institutional views: A Société Générale desk note relayed by Tradingpedia on 4 November treated 2.00% as still below an estimated neutral midpoint around 2.25%, and saw a gradual narrowing of the ECB/Riksbank rate gap. Its EUR/SEK levels around 10.91/10.87 support and 11.10/11.15 resistance were technical reference points, not a verified release-window trade. The reporting also differentiated a conditional official path from a potentially steeper market-implied path. An apparent 1.11 percentage point one-year pricing estimate must not be promoted to the market consensus absent direct rate-market verification.
+
+ANNOUNCEMENT-DAY MARKET REACTION: TT/SVT reported the krona approximately one öre weaker versus both EUR and USD and the Swedish 10-year yield about +1bp at 3.08%. These are marginal day-of-decision moves without a precise intraday window; no directly sourced STIBOR, short-end OIS or announcement-minute EUR/SEK move was established. A headline claiming that the hike 'lifted' SEK referred to a broader preceding trend and does not supersede the observed muted decision-day response.
+
+POST-ANNOUNCEMENT OFFICIAL MINUTES — FIRST PUBLISHED 10 NOVEMBER 2026, NOT KNOWN TO THE MARKET AT THE 4 NOVEMBER ANNOUNCEMENT: All five Board members endorsed the proposed hike and communication; the published minutes record no reservations, though they do not supply an independent roll-call vote table. Governor Erik Thedéen expected additional increases broadly in line with September over the following six months or so, while stressing substantial upside supply-price risks and the possibility of a smaller response if underlying inflation fails to accelerate. Per Jansson saw the September plan as just under two additional increases, without fixed timing; unlike an automatic post-November pause, a December move was not ruled out. Göran Hjelm saw upside risks to the inflation forecast, emphasizing imported energy, input-cost pass-through and an uncertain capacity to raise prices. Anna Seim described the move as normalisation away from an expansionary stance, designed to reduce the risk of stronger later action. Aino Bunge supported a gradual, meeting-by-meeting adjustment but emphasized vulnerable households and an incomplete labor recovery. The minutes sharpen timing and risk debates; they are not evidence of the 4 November market reaction.
+
+Source anchors (official):
+- Riksbank, 24 Sep prior rate path: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/policy-rate-unchanged-at-16.75-per-cent
+- Riksbank, 4 Nov statement: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/policy-rate-raised-to-2-per-cent/
+- Riksbank, 4 Nov Monetary Policy Update: https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/engelska/2026/monetary-policy-update-november-2026.pdf
+- Riksbank, 10 Nov minutes: https://www.riksbank.se/globalassets/media/dagordningar--protokoll/protokoll/penningpolitiskt/engelska/2026/minutes-of-the-monetary-policy-meeting-3-november-2026.pdf
+Source anchors (named professional reporting):
+- TT via SVT, 4 Nov: https://www.svt.se/nyheter/ekonomi/riksbanken-hojer-rantan-661uov
+- The Local Sweden, 4 Nov: https://www.thelocal.se/20261104/interest-rates-are-rising-in-sweden-what-does-that-mean-for-your-finances
+- Tidningen Näringslivet, 4 Nov: https://www.tn.se/article/49915/riksbanken-hojer-rantan/
+- TT/SEB relay, 4 Nov: https://www.byteseu.com/2497108/
+- Société Générale relay, 4 Nov: https://www.tradingpedia.com/2026/11/04/riksbank-hike-narrows-ecb-gap-lifts-swedish-krona/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The key state change is from prospective to implemented normalisation: the November hike is a realization of the September path, not a fresh policy surprise. Its economic justification is asymmetrically forward-looking. Sweden is recovering and supply-driven cost pressure has intensified, but broad realized core consumer inflation remained notably subdued at the decision date. The decision can be rational under a risk-management strategy even without an observed wage-price spiral, provided projected future transmission and demand resilience hold. It would be a weaker justification for a rapid sequence of additional hikes if underlying prices stay soft while consumers retrench.
+
+The official communication deliberately separates three questions: whether 1.75% remained mildly expansionary as the economy improved, whether upstream costs would eventually reach consumers, and how quickly further rate increases should occur. The first has a stronger current-activity foundation; the second is a material prospective risk rather than established broad pass-through; the third is open. The 10 November minutes corroborate this internal distinction without changing what was publicly priced on 4 November.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) What the inflation measures actually say
+
+Metric / vintage                                       Rate or reading                 Interpretation
+September CPIF y/y (target variable)                   1.5%                            Up from 0.7% in August; in line with September forecast
+September CPIF excluding energy y/y                    0.5%                            Also 0.5% in August; no observed broad ex-energy acceleration
+September CPIF excluding temporary fiscal measures     3.0%                            Includes energy; not equivalent to ordinary CPIF
+September ex-energy ex-temporary-measures inflation    1.6%                            Underlying benchmark, below the 1.8% Riksbank forecast
+Energy contribution to CPIF                            1.0pp in September              Up from 0.3pp in August
+
+The 3.0% fiscal-adjusted reading and the 1.6% underlying measure are not competing descriptions of the same basket: the former retains energy, while the latter also strips it out. Their gap reflects the energy component's importance after adjusting direct temporary fiscal effects, but it is not itself a formal contribution estimate. Likewise, 0.5% ordinary ex-energy CPIF is depressed by temporary price-policy measures and should not be treated as the bank's preferred fiscal-adjusted domestic signal. Even the preferred 1.6% measure is below target and below the Riksbank's September forecast; thus current second-round pressure was not proven. The energy contribution rose by 0.7pp from August, almost as much as the headline's 0.8pp acceleration, which makes its outsized role evident without asserting an exact decomposition of every residual component.
+
+The Monetary Policy Update identified unexpectedly soft September services and food as contributors to the below-forecast ex-energy outcome. A high headline adjusted for fiscal effects is consequently insufficient to infer broad services, wages or discretionary pricing power. The most informative test is whether non-energy categories accelerate even after removing direct fiscal distortions and seasonality.
+
+2) Demand, labor and the policy stance
+
+The Riksbank cited preliminary Q3 GDP growth of +0.4% q/q, in line with forecast, and stronger household consumption; the Governor later characterized full-year growth as approaching 3%. Company sentiment and recruitment plans had improved, with the economy projected to approach normal resource utilization in 2027. Nevertheless, October household sentiment fell, and the labor market retained spare capacity despite favorable employment indicators and reduced jobless registrations. A pre-emptive hike rests on future demand strength and company price-setting rather than an already overheated employment market.
+
+The key transmission asymmetry is that many Swedish mortgages reprice relatively quickly; the rate decision therefore affects household cash flow more directly than in economies dominated by long-fixed mortgage structures. Rising electricity and transport expenditures combined with mortgage costs could weaken spending and limit pricing power. Employer and housing-industry objections are therefore economically relevant but come from interested organizations, not neutral evidence that a hike is an error. Manufacturing and business-led activity need not mean equally strong household absorption of higher borrowing costs.
+
+3) Supply-cost transmission and the krona horizon
+
+The Bank highlighted a larger and more persistent supply shock linked to Middle East disruptions and higher transport, fuel and electricity costs. The November Update described above-normal selling-price intentions and producer prices increasing even outside energy. In subsequent minutes, Hjelm identified imported prices rising around 4.5% m/m in September and roughly 15% since the war began, alongside non-energy upstream input increases; the Governor noted crude oil approximately 50% higher since early July. These numbers provide a risk mechanism, not evidence that all manufacturers have passed those costs to retail prices. Margins, hedges, contracts and competition may delay or absorb pressure, while stronger demand could permit pass-through later.
+
+Currency timing matters. The krona was weaker over 2026 and relative to the onset of the conflict, increasing the prospective SEK import-price burden; yet the Riksbank said SEK strengthened since September, particularly against the euro. Jansson quantified approximately +3% against EUR and +1% against USD since the September meeting in the subsequently published minutes. The earlier depreciation may still reach domestic prices with a lag, but the recent rebound is a disinflationary counterweight. One should not convert year-to-date SEK weakness into an assertion of continuing day-to-day depreciation.
+
+4) The policy-rate path versus pricing: timing and peak are separate
+
+September's official projected quarterly average rates were 2.07% for 2027 Q1, 2.24% for Q2 and 2.38% for Q3; these are averages, not scheduled meeting-day decisions. The 4 November Update retained the September rate forecast without publishing new numerical forecasts. The minutes later described a conditional total of just under two further hikes, leaving an earlier December implementation possible, but not required. Market pricing of around 111bp of further increases over twelve months, relayed as an SEB estimate, would imply materially faster/more tightening than the central path if like-for-like; forward pricing may also embed term and risk premia, and its exact instrument and observation time were not authenticated. Treat that discrepancy as a priority verification item rather than an established tradable mispricing.
+
+There are at least three distinct scenarios: gradual normalisation toward the existing path as activity strengthens; an earlier/more forceful response if price diffusion and SEK depreciation accelerate; and an extended pause if low underlying inflation, weaker households or external demand reduce inflation risks. The next scheduled decision on 16 December follows a fuller forecast round; an absence of a meeting commitment is meaningful optionality, not secret guidance about a fixed February hike.
+
+5) Information timing, market signal and decision quality
+
+The hike was in line with the Reuters poll. A small same-day SEK weakening and +1bp ten-year yield move are consistent with limited headline surprise, although these observations cannot isolate all intraday market drivers. The detailed five-member Board debate became available only on 10 November. The October flash CPI dated 5 November and October final CPI scheduled 12 November were not known at the 4 November announcement. They may subsequently alter the rolling weekly policy assessment, but cannot be used to explain the Bank's decision or its announcement-day market reaction.
+
+State transition: normalisation / continuation of the September tightening trajectory — a widely anticipated first 25bp hike implements the previous policy bias, while the future pace remains contingent on inflation pass-through, resilient demand, labor absorption and the krona.
+
+Context from prior regional live file: September's 1.75% hold had already placed rate increases later in 2026 on the baseline as Swedish activity improved and imported inflation risks grew. October's business-side confidence resilience contrasted with weaker household confidence and persistent labor slack, while September ex-energy inflation remained subdued. November delivers the expected initial normalization without demonstrating a broad domestic inflation breakout.
+
+4. HF Take — Strategist Layer
+
+What changed: The Riksbank has crossed from signaling to implementation, which anchors a higher near-term SEK policy rate but does not by itself raise the projected terminal rate. The 25bp action and unchanged path were anticipated; the more important incremental information is the Board's willingness to lean pre-emptively against future energy/import-cost transmission despite low current ex-energy inflation. The post-decision minutes make the Board's conditional hawkish direction more explicit without giving an agreed next-meeting date.
+
+Why it matters: For SEK, the transmission is two-sided. A gradual narrowing in the differential to higher-rate peers and a credible anti-inflation stance can support the krona, particularly if Swedish orders and hiring continue to improve. But an energy-import shock damages real household purchasing power, and Sweden's mortgage sensitivity means additional hikes can quickly constrain demand. If soft core inflation persists, further aggressive tightening may become a growth and rate-path expectation problem rather than an obvious currency positive. The brief, muted announcement-day price response argues against attributing the broader SEK trend to this particular surprise-free hike.
+
+December versus February is the tactical policy fork, but the expected number of hikes over 2027 is a separate strategic risk. The reported one-year market-implied increase should be verified from dated STINA/OIS pricing and its premium before treating it as a gap versus the official path. A higher rate is potentially SEK-positive only to the extent that its relative-rate advantage is not overwhelmed by deteriorating growth, external energy exposure or global risk aversion.
+
+What to verify next: (1) 5 November flash and 12 November final October CPIF, ex-energy CPIF and fiscal-adjusted composition; (2) corporate selling prices, producer-to-consumer pass-through, fuel/electricity and import-price momentum; (3) household confidence, real consumption, mortgage transmission and housing activity; (4) employment, services hiring, wages and Q3 GDP revisions; (5) dated policy OIS/STINA pricing and EUR/SEK against the September rate-differential baseline.
+
+Macro configuration: improving activity + partially expansionary starting stance + policy normalisation to 2.00% + energy/fiscal-adjustment inflation wedge + still-soft ex-energy consumer prices + household/labor vulnerability + conditional further hikes, with timing and terminal-rate risks unresolved.
+
+THURSDAY 5 NOVEMBER 2026
+
+SWEDEN — CPI / CPIF / CPIF EX ENERGY FLASH (OCT)
+Release Date: 5 Nov 2026 | Local Time: 08:00 CET
+Importance: ****
+
+PM FLASH: October CPIF slowed to 1.1% y/y from 1.5%, versus 1.4% expected; CPIF excluding energy dropped to 0.1% from 0.5%, versus 0.5% expected. Both recorded substantial negative surprises; monthly CPIF was flat versus +0.3% expected and ex-energy fell 0.2% versus +0.2% expected. The flash provided no validated item-level driver attribution.
+PM READ-THROUGH: The first inflation release after the fully anticipated 4 November hike materially weakens the case for immediate follow-through, especially in December, but not necessarily for the later conditional normalisation path. Direct tax effects can depress conventional inflation and energy risks remain forward-looking.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: Some professional forecasters retain a Q1-2027 hike, interpreting October weakness as temporary or fiscally distorted; others question whether tightening was warranted at all with weak labour demand. The narrower issue is a postponed hike versus one fewer hike.
+Key takeaways: The crucial missing decomposition at flash time was tax-adjusted core/services versus food and policy-driven prices. SEK weakened and near-meeting pricing eased after the release, without a cleanly isolated OIS event window.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SECPIF=ECI;5 nov;08:00;Med;CPI MM Flash;Oct;0,0%;0,9%;;0,3%;-0,30%
+SECPYF=ECI;5 nov;08:00;Med;CPI YY Flash;Oct;0,9%;1,1%;;1,2%;-0,30%
+SECPFM=ECI;5 nov;08:00;Med;CPIF Flash MM;Oct;0,0%;0,9%;;0,3%;-0,30%
+SECPFF=ECI;5 nov;08:00;Med;CPIF Flash YY;Oct;1,1%;1,5%;;1,4%;-0,30%
+SECPXM=ECI;5 nov;08:00;Med;CPIF Ex Energy Flash MM;Oct;-0,2%;0,1%;;0,2%;-0,40%
+SECPXY=ECI;5 nov;08:00;Med;CPIF Ex Energy FlashYY;Oct;0,1%;0,5%;;0,5%;-0,40%
+
+2. Professional Market Commentary
+
+OFFICIAL 5 NOVEMBER RELEASE: Statistics Sweden reported a broad headline and ex-energy inflation deceleration but did not publish the definitive product-by-product contribution table at flash time. CPI eased to 0.9% y/y, CPIF to 1.1% and CPIF excluding energy (CPIF-XE) to just 0.1%. All six Reuters actuals match the official flash. Official statistician Mikael Nordin characterized the preliminary figures as dampened inflation. This was not information available to the Riksbank when it announced its rate hike on 4 November. The Riksbank's September forecast had projected October CPIF at 1.7% and CPIF-XE at 0.6%, according to the contemporaneous reporting, making the miss larger against the Bank's path than against the Reuters poll.
+
+The human-source debate is substantive and splits into policy timing, eventual cycle size and the decision's justification. Torbjörn Isaksson (Nordea chief analyst, TT/Sweden Herald and Bloomberg reporting relayed by Briefs, 5 Nov) viewed the prior hike as justified and retained a further rise in February, citing the earlier krona depreciation and prospective electricity inflation; he emphasized unexpectedly soft services and other goods, but those subcomponents were not directly verified against the preliminary SCB item detail. Amanda Sundström (SEB interest-rate strategist, TT, 5 Nov) warned against over-weighting one inflation month and floated the possibility of only one additional hike instead of two. Oddmund Berg (DNB Carnegie, cited second-hand through Briefs, 5 Nov) judged the release a reason to wait until Q1 2027 while retaining a March increase. Selva Bahar Baziki (Bloomberg Economics, same digest) anticipated CPIF near target by December and above it on average in 2027; that projection does not imply that October's low rate is permanent.
+
+The opposing argument came from Torbjörn Hållö (LO chief economist, TT, 5 Nov), who called the Riksbank's initial tightening premature given the low inflation outcome and incomplete household recovery, and Håkan Regnér (Saco chief economist, TT), who argued weak labor-market improvement demanded more restraint. These union-side views are material to household and employment transmission but come from interested labor organisations. Nomura's institutional analysis, relayed by Tradingpedia on 5 November without an attributable individual, argued that temporary fiscal and tax changes, including the April food-VAT reduction, make headline weakness a poor proxy for underlying inflation; it retained February and May 2027 hikes, while acknowledging greater uncertainty. The bank's projection of 1.5% CPIF and 0.4% CPIF-XE also missed the actual data. The interpretation is not an official SCB tax-adjusted estimate.
+
+MARKET TAPE, 5 NOVEMBER: EFN reported USD/SEK rising from approximately 9.70 to 9.75 and EUR/SEK from approximately 10.92 to 10.97 after the release, consistent with immediate SEK weakness. A Bloomberg-linked Briefs digest reported SEK approximately 0.3% weaker against EUR, around 10.9690 at 09:02, with December swap-implied tightening around 6bp versus about 11bp the prior day and March around 37bp versus 41bp. The price snapshots and percentage are not identically timed; the swap comparison covers the intervening Riksbank decision-day close and is not a clean announcement-minute event study. No independently sourced Swedish bond-yield response was established.
+
+Source anchors (official and contemporaneous professional):
+- SCB flash, 5 Nov: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-economic-trends/price-statistics/consumer-price-index-cpi/pong/statistical-news/cpi-flash-estimate-october-2026/
+- EFN / Emanuel Furuholm, 5 Nov: https://efn.se/preliminar-inflationstakten-sjonk-i-oktober
+- TT economist voices via Sweden Herald, 5 Nov: https://swedenherald.com/article/swedens-inflation-falls-more-than-expected-to-11-in-october
+- SVT, 5 Nov: https://www.svt.se/nyheter/inrikes/inflationen-sjonk-i-oktober
+- Bloomberg-linked digest, 5 Nov (second-hand): https://www.briefs.co/news/sweden-core-inflation-cools-to-six-month-low-trimming-near-t/
+- Nomura relayed via Tradingpedia, 5 Nov: https://www.tradingpedia.com/2026/11/05/sweden-inflation-surprise-puts-riksbank-rates-under-scrutiny/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The flash is a meaningful negative inflation surprise arriving one day after the Riksbank announced an anticipated tightening, whose rate change takes effect on 11 November. Its incremental policy information lies in the simultaneous shortfall of the official target measure and ex-energy prices: this is not simply an energy-driven headline reversal. The appropriate inference is reduced confidence in an immediate December follow-up, not a clean falsification of a forward-looking, multi-meeting hiking path. An inflation measure far below target can coexist with material producer, energy and currency pass-through risks next year, particularly when temporary fiscal measures affect measured consumer prices.
+
+The stronger challenge to the Bank is timing: starting normalization before realized broad consumer inflation rises is deliberate risk management, but repeated weak ex-energy data would raise the cost of acting on the forecast rather than confirmation. The November decision was taken before the flash; the flash may modify subsequent expectations but cannot have motivated that decision. There was no official component-contribution table at flash publication adequate to allocate the downside surprise to services, goods, tax measures or discretionary demand with numerical precision.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Inflation comparison, forecast misses and state of the cycle
+
+Measure                                  September       October flash     Reuters poll      Reuters surprise
+CPI y/y                                  1.1%            0.9%              1.2%              -0.30%
+CPI m/m                                  0.9%            0.0%              0.3%              -0.30%
+CPIF y/y                                 1.5%            1.1%              1.4%              -0.30%
+CPIF m/m                                 0.9%            0.0%              0.3%              -0.30%
+CPIF ex energy y/y                       0.5%            0.1%              0.5%              -0.40%
+CPIF ex energy m/m                       0.1%           -0.2%              0.2%              -0.40%
+
+This is a broad mechanical miss: the downside is present in annual and monthly measures and, importantly, in CPIF-XE. The Riksbank's September benchmark for October (1.7% CPIF; 0.6% CPIF-XE) was 0.6pp and 0.5pp above the flash, respectively. Those differences are analytical comparisons to reported official forecasts, not substitute Reuters Surprise fields. Inflation had already been unusually low outside energy: CPIF-XE held at 0.5% in August and September, even as headline CPIF jumped from 0.7% to 1.5% in September. The October flash therefore reinforces weakness in the broad measured non-energy basket, rather than reversing an already well-established core acceleration.
+
+2) Fiscal wedge is real, but its composition is not established at flash time
+
+The Riksbank's latest pre-decision September data had ordinary CPIF-XE at 0.5% but a preferred underlying reading excluding energy AND direct temporary fiscal effects at 1.6%; these two measures are different series, not inconsistent estimates of the same inflation rate. Temporary food-VAT measures and fuel-tax arrangements can materially lower observed price indices or alter measured energy contributions without proving a demand slowdown. Nomura's interpretation that fiscal changes dominate some of the headline decline is an institutional hypothesis consistent with the Bank's stated wedge, not a verified October decomposition. No October constant-tax or fiscal-adjusted core reading was validated in this flash. Therefore 0.1% CPIF-XE cannot safely be equated with a 0.1% underlying tax-adjusted price trend.
+
+This also means the entire miss should not be written off as tax noise. The contemporaneous bank interpretation identified weakness in services and 'other goods' relative to expectations, while weak underlying demand and labor recovery remain competing explanations. Neither has an official item-level numerical test in the flash. The final November 12 breakdown is the discriminating evidence rather than a retrospective imposition on what was known on November 5.
+
+3) Forward inflation risk, demand and the policy reaction function
+
+Energy imports, electricity, the earlier krona decline, and firm-side pricing intentions sustain the Bank's 2027 inflation-risk case. Yet strong factory sentiment is not equivalent to a broad household-spending or wage boom, and mortgage repricing amplifies the demand sensitivity to rate increases. The counterfactual matters: a temporary tax-induced suppression of CPI can coexist with future inflation pressure when temporary measures expire; conversely, a persistent slowdown in services and non-energy goods would challenge both the timing and the eventual number of further hikes.
+
+December versus February/March and one further hike versus two are different questions. Nordea/DNB primarily leaned toward later timing while retaining a positive rate direction; SEB allowed a smaller total tightening requirement; union-side economists rejected the need for the present hike. Market-implied basis points after the release were not sufficiently verified to establish a precise tradeable gap with the Riksbank's unchanged September path. The evidence supports softer near-term tightening odds, with substantial scenario uncertainty beyond the first meeting.
+
+4) SEK price response and the chronology test
+
+The reported EUR/SEK and USD/SEK rises indicate SEK depreciation immediately after the weak flash, compatible with a modest dovish reappraisal. The absolute levels and the quoted roughly 0.3% depreciation should be retained as source-specific observations, not one engineered intraday return. Overnight-swap reductions from the prior day contain decision-day overlap; without a fixed same-instrument 07:59-versus-08:30 comparison, they cannot measure the inflation release's standalone policy-price effect. The Riksbank Board's detailed minutes also became available only on 10 November; the market had not seen the subsequent publication at the flash timestamp.
+
+State transition: deterioration in observed inflation momentum / lower confidence in rapid follow-up tightening — a substantial CPIF and ex-energy downside surprise contradicts the near-term pass-through premise but leaves medium-term inflation risks and temporary tax distortions unresolved.
+
+Context from prior regional live file: CPIF had risen from 0.7% in August to 1.5% in September on energy, while ex-energy CPIF remained only 0.5% in both months. October's flash reverses part of the headline rise and takes ex-energy inflation to 0.1%, exposing a sharper gap between the Riksbank's pre-emptive inflation outlook and realized domestic prices. The annual inflation trend stays weak outside energy rather than shifting to a confirmed broad inflation upcycle.
+
+4. HF Take — Strategist Layer
+
+What changed: The first price release after the policy move is a meaningful warning that the Riksbank's forecast inflation acceleration is arriving more slowly, or is more distorted by tax measures, than the spot CPIF narrative had implied. With the hike fully priced and the official rate path unchanged on 4 November, this print contributes much more to the December-versus-February question than the decision's initial mechanical surprise. The counter-signal is that the Bank explicitly targets prospective pressure, while fiscal distortions make regular CPIF-XE an imperfect underlying benchmark.
+
+Why it matters: For a SEK PM, a delayed hike can remove near-term rate differential support, consistent with the reported EUR/SEK bounce. But even a low CPI print does not imply an unconditional SEK short: the rate curve may already price a delayed path, and energy, the exchange-rate pass-through lag and corporate cost pressures could reassert themselves before fiscal relief expires. The structural risk is an erroneous inference in either direction — declaring the hike a policy mistake on one tax-distorted report or assuming the full earlier market-priced cycle despite repeated consumer-price softness.
+
+What to verify next: (1) 12 November final CPIF/CPIF-XE, item contributions, actual services and non-energy goods; (2) October CPIF at constant taxes and Riksbank-relevant fiscal-adjusted core; (3) November and December price prints versus the September forecast; (4) energy, import and corporate selling-price developments; (5) rate expectations measured at fixed timestamps around 08:00 and rate-sensitive household demand.
+
+Macro configuration: realised headline and ex-energy inflation undershoot + fiscal distortion + significant prospective energy/SEK cost risks + a newly higher policy rate + lower confidence in a December move + conditional 2027 normalisation.
+
+TUESDAY 10 NOVEMBER 2026
+
+SWEDEN — PRODUCTION VALUE INDEX: PRIVATE SECTOR AND INDUSTRY (SEP)
+Release Date: 10 Nov 2026 | Local Time: 08:00 CET
+Importance: ***
+
+PM FLASH: September private-sector production value fell 0,5% m/m after +0,5% in August and slowed to +1,1% y/y from a revised +3,7%. Industry fell 3,2% m/m following a revised +6,0% surge and declined 3,7% y/y after +5,7%. Motor vehicles fell 13.4% m/m, while services were flat and construction rose 1.0%. There was no Reuters consensus.
+PM READ-THROUGH: The report materially qualifies, but does not yet overturn, the strong manufacturing survey story: it refers to September rather than the October PMI, shows large vehicle-sector payback and leaves the rest of private activity firmer than industry. A rising September industrial-order pipeline provides a counter-signal.
+PM DEBATE & KEY TAKEAWAYS:
+Key takeaways: Distinguish production-value volatility from a broad demand reversal; August's industrial bounce and September's setback are both large. The next discriminating evidence is October hard production, manufacturing orders and whether industry weakness diffuses into services, hiring and non-energy prices.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SEPSPY=ECI;10 nov;08:00;Med;Private Production YY;Sep;1,1%;3,8%;3,7%;;
+SEPSPM=ECI;10 nov;08:00;Med;Private Production MM;Sep;-0,5%;0,5%;;;
+SEINPY=ECI;10 nov;08:00;Med;Ind Production Val YY;Sep;-3,7%;5,8%;5,7%;;
+SEINPM=ECI;10 nov;08:00;Med;Ind Production Val MM;Sep;-3,2%;5,4%;6,0%;;
+
+2. Professional Market Commentary
+
+OFFICIAL PRODUCTION TAPE: Statistics Sweden's 10 November PVI bulletin contains both the private-sector total and industry figures in the same release. Total business production value fell 0.5% m/m in September but remained +1.1% y/y. The industry component contracted 3.2% m/m and 3.7% y/y, while construction rose 1.0% m/m and 3.1% y/y, services were flat monthly and +3.1% annually, and energy/water utilities were positive. SCB statistician Johan Nyström identified industry as both the driver of the aggregate monthly fall and the only major sector contracting year on year. The four Reuters rows represent one statistical publication, not two separate sector releases.
+
+Trading Economics emphasized the industrial annual decline and the August revision; public desk coverage was otherwise primarily mechanical rather than interpretive. No independent bank economist, strategist or evidenced release-specific rates/SEK response was located for this PVI publication. No Tier 1 institutional debate detected. A separately published SCB September industrial-orders bulletin, also dated 10 November, reported orders +1.8% m/m and +8.4% y/y, including +7.0% domestic and +0.5% export m/m; that is useful corroborating context, but is not part of this PVI publication or the user's Reuters feed. Subsequent 13 November reporting on the SCB business-cycle clock characterized industry as moving from expansion toward slowdown; that later interpretive publication must not be attributed to the release-time PVI reaction.
+
+Official and professional source anchors:
+- SCB Production Value Index, 10 Nov 2026: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities-and-foreign-trade/business-production-sales-and-finances--short-term-statistics/production-value-index/pong/statistical-news/production-value-index-pvi-september-2026/
+- SCB industrial orders, separate report, 10 Nov 2026: https://www.scb.se/hitta-statistik/statistik-efter-amne/naringsverksamhet-och-utrikeshandel/foretagens-produktion-forsaljning-och-ekonomi--kortperiodisk-statistik/industrins-orderingang-och-omsattning/pong/statistiknyhet/industrins-orderingang-och-omsattning-september-2026/
+- SCB August PVI baseline: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/business-activities-and-foreign-trade/business-production-sales-and-finances--short-term-statistics/production-value-index/pong/statistical-news/production-value-index-pvi-august-2026/
+- Trading Economics, industrial PVI secondary coverage: https://tradingeconomics.com/sweden/industrial-production
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The private-sector aggregate slowed in September because the industrial production-value component reversed abruptly after a large August rise. The most economically consequential reading is not the -0.5% total in isolation, but the contrast between industrial weakness (-3.2% m/m and -3.7% y/y) and still-positive annual services and construction. This materially weakens any claim that survey strength had already become a synchronized realized production expansion. The sector distribution and revisions argue for caution: vehicle production fell 13.4% monthly following a large August recovery, making part of the headline drop consistent with timing/volatility rather than proven demand destruction.
+
+The proper confidence update is therefore a hard-output qualification of the October survey narrative, not an automatic Swedish recession call or rejection of the Riksbank's recovery projections. October PMI is a later-month diffusion survey; the September production-value index is a level-change proxy with a different statistical basis. An industrial cycle turn requires confirmation in subsequent output, new orders, backlogs and employment, while high producer prices and soft October consumer ex-energy inflation complicate any hawkish inference from industrial activity alone.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Sector contribution pattern and weight caveat
+
+Sector (PVI constant-price)                    Sep m/m        Sep y/y       Value-added weight
+Total private sector                           -0.5%          +1.1%         100.0
+Industry, mining/manufacturing (B-C)           -3.2%          -3.7%          20.2
+Services (G-S excluding K/O)                    0.0%          +3.1%          67.2
+Construction (F)                               +1.0%          +3.1%           8.4
+Electricity, gas, heating (D)                  +2.5%          +0.2%           3.1
+Water, sewage, waste (E)                       +1.8%          +7.7%           1.1
+
+Industry is the only major sector negative y/y and has around one-fifth of the published value-added weight. The other sectors cannot fully compensate for the sequential factory drop, yet their positive annual growth precludes describing the -0.5% total as an economy-wide activity collapse. Weights are published value-added shares, not a substitute for SCB's exact monthly contribution methodology: multiplying rounded growth rates and weights is not a fully reconciled bridge. The PVI measures constant-price production value based on industry/services revenue and trade margins; it is neither total GDP nor counts of physical units produced.
+
+2) Revision, base and two-month industrial arithmetic
+
+Measure                              July 2026      August 2026 (revised)    September 2026
+Total private PVI m/m                +0.1%           +0.5%                   -0.5%
+Industry PVI m/m                     -3.0%           +6.0%                   -3.2%
+Total private PVI y/y                +3.8%           +3.7%                   +1.1%
+Industry PVI y/y                     +1.5%           +5.7%                   -3.7%
+
+The +6.0% August industrial monthly move, revised up from +5.4%, means September's -3.2% fall partly unwinds a large rebound, not necessarily the entire rebound. Compounding the August and September changes leaves industrial PVI approximately 2.6% above July, while compounding July, August and September monthly rates leaves it near June's level. The September annual rate turning negative is therefore more troubling than a stand-alone one-month decline, but volatile year-ago bases and industry composition can amplify it. Total private output after +0.5% August and -0.5% September is approximately flat on a two-month compounded basis, despite the sharp industrial swings.
+
+A revision-consistency flag must be retained: the locked Reuters feed has August total private-sector m/m Prior +0.5%, consistent with SCB's published monthly table, while one sentence of SCB's English September news text calls its August monthly value 'unchanged at 0.2 percent'. The Swedish table and the English displayed numerical table show +0.5%; no reinterpretation of the Reuters Prior is justified. August total y/y was revised from +3.8% to +3.7%; industry August y/y from +5.8% to +5.7%; industry monthly from +5.4% to +6.0%. These revisions materially affect the baseline for September.
+
+3) Concentration in motor vehicles and chemicals, versus offsets
+
+Selected industry/sector                            Sep m/m or Sep y/y        Economic significance
+Motor vehicles (SNI 29)                             -13.4% m/m                Large automotive output reversal
+Food, drinks, tobacco manufacturing                 +3.5% m/m                 Defensive manufacturing offset
+Business and support services                       +3.3% m/m                 Business-services offset
+Trade (SNI G)                                       -1.7% m/m                 A separate domestic-distribution weakness
+Chemicals and pharmaceuticals (SNI 20–21)           -14.9% y/y                Significant annual factory weakness
+Other transport equipment (SNI 30)                  +12.8% y/y                Positive sectoral counterweight
+Education, health and care                          +7.0% y/y                 Services-related resilience
+
+SCB's August PVI report showed vehicle production rising 17.7% m/m before September's 13.4% fall. This supports a volatile sector-specific explanation, although it cannot establish whether production schedules, plant shutdowns, inventories or final vehicle orders caused the reversal. Chemicals/pharmaceuticals are separately weak in annual terms, so industrial deterioration is not restricted to vehicles. Conversely, food manufacturing and other transport equipment demonstrate that the contraction is not universal. The exact industry contribution from each component is not supplied; avoid claiming a quantified aggregate contribution or a verified automotive causal driver.
+
+4) Reconciling September orders, October PMI and inflation
+
+The same-day, separate SCB orders report showed industrial orders +1.8% m/m and +8.4% y/y; domestic orders advanced +7.0% m/m and export orders +0.5% m/m, while motor-vehicle orders fell 17.4% y/y. Order growth alongside lower realized September production could reflect pipeline timing, volatility or backlog conversion rather than a synchronous collapse in final demand. The October manufacturing PMI subsequently registered 60.5 with strong production and employment breadth, though its precise new-order number is not independently captured. These observations are different data products and months; orders and PMI do not cancel the weak PVI, but qualify its inference about the direction of aggregate industrial demand.
+
+Meanwhile September SCB producer-price inflation was +11.2% y/y, including +6.2% excluding energy, versus October CPIF ex-energy of only 0.1% y/y after fiscal-price distortions. This creates two separate tensions: strong business input costs versus limited realized consumer pass-through, and strong surveys/orders versus unstable output. Their resolution depends on margins, prices, production scheduling and consumption; no CPI or Riksbank rates reaction can be mechanically inferred from PVI alone.
+
+5) Statistics and timing cautions
+
+All PVI figures are preliminary; SCB typically revises two to four preceding months and sometimes the preceding whole quarter. Calendar/seasonally adjusted monthly rates must not be directly compared with calendar-adjusted annual rates as though they were the same series. The relevant industrial release is the PVI's industry component in constant prices, not a separate industrial production bulletin: the official publication includes both four Reuters lines. There was no market-consensus poll, so no Reuters 'surprise' can be imputed. A business-cycle clock summary dated 13 November is a later perspective, not information available for the 10 November release-window reaction.
+
+State transition: deterioration / volatility in realized September industrial production — a large industry-led reversal after August, while services, construction and September orders prevent a confirmed broad cyclical downturn and later October PMI requires hard-data corroboration.
+
+Context from prior regional live file: Private-sector production had increased 0.5% m/m in August, with industry rebounding a revised 6.0% after July weakness; annual factory production was +5.7% in August. September partially reverses that burst and turns industry negative y/y, while the +1.1% private-sector annual rate and firm order pipeline temper the broader implication. Industrial recovery remains plausible but its realized output path is volatile rather than steadily improving.
+
+4. HF Take — Strategist Layer
+
+What changed: Hard activity is the strongest counterweight so far to the increasingly upbeat industrial surveys. The Riksbank can reasonably see growth improving over the cycle while acknowledging that the latest realized industrial PVI was weaker and highly concentrated in volatile sectors; this release reduces confidence in rapid, broad hard-output acceleration, not necessarily the cycle thesis itself. It matters less as an isolated rate catalyst than as a check on the recovery's ability to absorb rising upstream costs and mortgage-sensitive tightening.
+
+Why it matters: There are two potential configurations. One is noisy payback after August's production jump, with strong September orders and October PMI eventually translating into new physical production and jobs. The other is an industrial upswing overstated by surveys and a concentrated investment pipeline, with producer-cost inflation compressing margins and the Riksbank eventually tightening into weaker realized demand. The relative pricing of either outcome for SEK depends on the resulting rate path versus external energy and real-growth conditions; no day-specific spot or swap reaction to PVI is verified.
+
+What to verify next: (1) October and November industry PVI and vehicle production, including revisions; (2) industrial orders split domestic/export and shipment-backlog conversion; (3) manufacturing hiring, real wages and actual household expenditure; (4) services and construction PVI, real GDP indicator and new-release vintage; (5) sector output prices and producer-margin versus core-CPIF transmission.
+
+Macro configuration: still-positive private-sector annual activity + industry-led monthly contraction and annual reversal + strong but uneven orders + exceptionally strong subsequent manufacturing survey + substantial upstream inflation + unconfirmed broad consumer-price pass-through.
+
+THURSDAY 12 NOVEMBER 2026
+
+SWEDEN — CPI / CPIF / CPIF EX ENERGY FINAL (OCT)
+Release Date: 12 Nov 2026 | Local Time: 08:00 CET
+Importance: ***
+
+PM FLASH: Final CPI and CPIF annual inflation matched flash at 0.9% and 1.1%; CPIF-XE remained 0.1% y/y, while its monthly change was revised to -0.1% from the flash's -0.2%. Food prices fell 7.0% y/y, contributing -1.0pp to CPI; electricity and fuel each added +0.5pp. Monthly fuel and electricity increases were offset by cheaper package holidays.
+PM READ-THROUGH: The final confirms the disinflationary shock but changes its quality: large food and administered-price offsets coexist with substantial energy inflation, making the near-zero conventional ex-energy reading a poor standalone proxy for persistent domestic pricing. The 0.1pp monthly revision is too small to overturn the flash's policy implication.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: The earlier disagreement — delayed but continuing normalisation versus excessive pre-emptive tightening — survives; no new named institutional interpretation of the final was independently established.
+Key takeaways: Direct CPI component contributions cannot be assigned mechanically to CPIF, and temporary taxes need a separate constant-tax bridge. Services-price breadth, wages, and future energy pass-through remain the decisive policy tests.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+SECPI=ECI;12 nov;08:00;High;CPI MM;Oct;;0,0%;;0,0%;
+SECPIY=ECI;12 nov;08:00;High;CPI YY;Oct;;0,9%;;0,9%;
+SECPF=ECI;12 nov;08:00;Med;CPIF MM;Oct;;0,0%;;0,0%;
+SECPFY=ECI;12 nov;08:00;Med;CPIF YY;Oct;;1,1%;;1,1%;
+SECPEM=ECI;12 nov;08:00;High;CPIF Ex Energy MM;Oct;;-0,2%;;-0,2%;
+SECPEY=ECI;12 nov;08:00;High;CPIF Ex Energy YY;Oct;;0,1%;;0,1%;
+
+2. Professional Market Commentary
+
+DATA QUALITY: The final Reuters feed contains blank Actual and Surprise fields. Official final SCB values and the flash-to-final revision are shown below rather than inserted into the preserved mechanical rows.
+
+OFFICIAL SCB FINAL, 12 NOVEMBER: The final release confirmed October CPI inflation at 0.9% y/y (0.0% m/m) and CPIF at 1.1% y/y (0.0% m/m). CPIF-XE held at 0.1% y/y but was -0.1% m/m, compared with the preliminary -0.2%. SCB published final index levels of 125.97 (CPI), 124.53 (CPIF) and 122.96 (CPIF-XE), all on a 2020=100 base. It also reported HICP at 0.6% y/y, down from 1.0% in September. Statistician Caroline Neander emphasized that relatively small and offsetting price movements left the monthly total unchanged.
+
+The finalized breakdown materially improves upon the 5 November flash's limited item detail. Electricity and motor fuels jointly contributed about +1.0pp to the annual CPI rate while food and non-alcoholic beverages contributed -1.0pp. Dental-care and public-transport prices also fell, partly in connection with policy changes. Monthly fuel and household energy increases were counterbalanced by an exceptionally sharp seasonal fall in package-holiday prices. The same official report documented positive annual inflation in rents, owner-occupied housing costs and food-service prices. These are CPI components and must not be treated as an exact CPIF-XE decomposition.
+
+No independent named economist or strategist commenting on the 12 November final was verified in readable current-release coverage. No Tier 1 institutional debate detected for the final publication. The still-relevant bank-vs-union debate, including Nordea/SEB/DNB versus LO/Saco and the tax-distortion view relayed for Nomura, was generated by the 5 November flash, not by the final. Subsequent news coverage was primarily confirmation of the established inflation aggregates and the official item breakdown. No attributable SEK, Swedish yield or OIS reaction on 12 November was confirmed.
+
+Source anchors:
+- SCB regular October release, 12 Nov: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-economic-trends/price-statistics/consumer-price-index-cpi/pong/statistical-news/consumer-price-index-cpi-october-2026/
+- SCB preliminary release, 5 Nov, for vintage comparison: https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-economic-trends/price-statistics/consumer-price-index-cpi/pong/statistical-news/cpi-flash-estimate-october-2026/
+- Investing.com, 12 Nov, release recap: https://in.investing.com/news/stock-market-news/swedens-inflation-rate-eases-to-09-in-october-2026-93CH-5698434
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The final reinforces the core interpretation of the flash — very low realized ex-energy inflation relative to a central bank projecting higher inflation — but adds a vital distinction between tax- and policy-influenced measured disinflation and persistent market-generated price weakness. The official line-item table shows a large energy contribution that is almost exactly counterbalanced, at the stated CPI contribution precision, by the food decline. Headline stability at 0.0% m/m therefore masks meaningful relative-price changes. This does not mechanically falsify the Riksbank's supply-shock rationale: the energy first-round impact is powerful, but much of it is absorbed or offset by falling measured prices elsewhere. What remains unresolved is how much of ex-energy weakness would survive removal of direct fiscal-price changes.
+
+The -0.1% final monthly CPIF-XE reading replaces the preliminary -0.2% in the official series, but there was no change in its annual reading of 0.1%. The revised monthly rate is marginally less weak, not an underlying recovery or an upward revision to annual inflation. The final, published 12 November, arrived after the 4 November policy move and after publication of Board minutes on 10 November; it can inform the next decision but must not be imputed to the earlier meeting's information set.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Aggregate measures, official indices and release vintages
+
+Measure                       Sep y/y    Oct flash y/y    Oct final y/y    Oct flash m/m    Oct final m/m    Final index (2020=100)
+CPI                           1.1%       0.9%             0.9%             0.0%              0.0%              125.97
+CPIF                          1.5%       1.1%             1.1%             0.0%              0.0%              124.53
+CPIF excluding energy         0.5%       0.1%             0.1%            -0.2%             -0.1%              122.96
+HICP                          1.0%       —                0.6%             —                 —                 —
+
+The annual target-rate result is unchanged from flash: CPIF 1.1%, or 0.9pp below its 2% target, though temporary policy measures influence that gap. CPIF-XE at 0.1% is a low conventional ex-energy measure, not the Riksbank's separately defined inflation measure excluding direct temporary fiscal measures. Sweden's CPIF-XE was 1.7% in January 2026, 0.0% in April, around 0.4–0.6% over June–September, then 0.1% in October. This sequence is more consistent with prolonged softness in measured ex-energy price changes than a one-month noise event; whether it corresponds to market-driven underlying inflation requires tax adjustment. The official SCB release did not explain the flash-to-final -0.2 to -0.1 m/m revision, so no attribution is assigned to rounding, sampling or a particular product.
+
+2) Large offsetting annual CPI contributions (not a CPIF attribution)
+
+Official October CPI category              Annual price change       Contribution to CPI annual rate
+Food and non-alcoholic beverages           -7.0%                     -1.0pp
+Electricity                               +14.3%                     +0.5pp
+Motor fuels                               +25.2%                     +0.5pp
+Rent for rental apartments                 +3.3%                     +0.2pp
+Owner-occupied house depreciation          +9.6%                     +0.2pp
+Food/beverage serving services             +2.7%                     +0.2pp
+Outpatient dental services                -22.1%                     -0.2pp
+Public transport                          -25.9%                     -0.2pp
+
+Energy provides about +1.0pp to CPI, while food subtracts 1.0pp, before the remaining positive and negative categories are considered. Fuel annual inflation includes diesel +38% and petrol +16%, confirming that oil-related pressure is not uniform across products. The food decline covers several basic and discretionary food items including dairy, chocolate, sugar, sweets and desserts. The cited temporary food-VAT reduction is a plausible fiscal driver supported by contemporaneous institutional reporting, but the SCB contribution table itself does not provide the constant-tax decomposition. It would be a category error to say energy adds exactly +1.0pp to CPIF or that the food decline entirely measures cyclical disinflation.
+
+Housing and eating-out prices remain important positive pockets. Rental inflation at 3.3%, measured owner-occupied housing depreciation at 9.6%, and serving services at 2.7% reveal differentiated inflation within the low aggregate. The owner-occupied depreciation item is not mortgage-interest inflation, and the CPI/CPIF distinction remains necessary because their treatment of household interest rates differs. Meanwhile, dental-care and public-transport price declines are linked to reforms; those declines are not clean evidence of weaker private-sector price-setting power. The observed mix is a combination of relative-price shock, fiscal measures and selected domestic services increases, not a uniform disinflation across every category.
+
+3) Monthly energy versus package-holiday offset and base effects
+
+Official October CPI category               Monthly change       Contribution to CPI monthly rate
+Electricity, gas and other household fuels   +1.4%                +0.1pp
+Motor fuels and lubricants                    +3.7%                +0.1pp
+Package holidays                            -10.8%                -0.2pp
+
+The three large reported contributions sum to approximately zero, illustrating why flat aggregate October CPI is compatible with material energy inflation. The -10.8% package-holiday move has an obvious seasonal exposure; the release does not establish whether it was abnormal relative to a typical October seasonal profile. October 2025 CPI rose 0.3% m/m whereas October 2026 was flat, providing a mechanical annual-rate deceleration, but it does not determine the structural composition of the trend. Direct and indirect energy pass-through may still occur via services, transport, inputs and later tariffs.
+
+4) Fiscal adjustment, inflation breadth and statistical comparability
+
+A critical distinction is ordinary CPIF-XE of 0.1% versus the Riksbank's September ex-energy and ex-temporary-fiscal-effects measure of 1.6%. Those readings are neither for the same month nor the same concept; subtracting them does not identify October's fiscal wedge. To assess true domestic inflation, obtain October CPIF at constant taxes or the Riksbank's comparable adjusted basket and decompose tax effects from market pricing. The final CPI table independently confirms lower dental and public-transport prices linked to reforms. The mix gives a strong reason for caution about headline interpretation but does not establish the precise fraction of the 0.4pp CPIF-XE annual slowing attributable to policy. Nordea's flash-time description of weak services and other goods requires direct corroboration from a full component series, not simply the selected largest CPI contributors.
+
+From January 2026 SCB adopted 2020=100 as reference and COICOP 2018; SCB assessed the effect on this October's 12-month rate as zero for CPI, around +0.01pp for CPIF and +0.04pp for CPIF-XE if introduced a year earlier, and -0.01pp for HICP. These very small classification effects do not explain the large consensus misses. Airfare measurement also carries a January 2026 source change and an announced return to the earlier source, relevant to any later transport subcomponent comparison. These are separate methodology issues from the unexplained monthly CPIF-XE flash-to-final difference.
+
+5) How much policy inference survives the detailed inflation evidence?
+
+The real-time 5 November surprise reduced the near-term rationale for rushing another hike. The 12 November final does not restore that rationale: annual measures remain unchanged and the monthly ex-energy revision is only +0.1pp. Yet the high energy-price contribution strengthens the first-stage imported-cost shock at the core of the Riksbank's projection; food, tax measures and selected administered prices are the offset, not evidence that the energy shock vanished. For a hawkish policy inference to become more convincing, inflation excluding both energy and direct fiscal changes should rise, accompanied by a broadening of commercial services/non-energy goods prices or wages. For a stronger dovish inference, underlying constant-tax weakness must persist even as economic activity and producer/input costs remain supportive.
+
+No independently established rates/SEK event reaction accompanies this final; treating it as a second separate market shock would overstate the tape. The next numerical checkpoints are November flash (4 December), November regular CPI (11 December) and the Riksbank's 16 December decision after its 15 December meeting, not an assumed action in February.
+
+State transition: confirmation of materially subdued observed underlying inflation, with a slight upward revision to monthly ex-energy momentum; final composition identifies strong energy pressure offset by food and policy-sensitive prices, leaving fiscal-adjusted breadth and next-hike timing unresolved.
+
+Context from prior regional live file: September's 1.5% CPIF and 0.5% CPIF-XE already separated an energy-led headline impulse from weak ex-energy inflation, and the 5 November October flash unexpectedly lowered both annual measures. The final retains CPIF at 1.1% and CPIF-XE at 0.1% while clarifying the energy/food offset and modestly revising the ex-energy monthly change. The regime remains inflation-soft in observed non-energy prices with substantial external supply-cost risks, not a confirmed broad inflation reversal.
+
+4. HF Take — Strategist Layer
+
+What changed: The official final adds confidence about the nature, not the direction, of the inflation surprise. The net CPI rate is held down by falling food prices and reforms even while energy is rising sharply, so the Riksbank's inflation-risk premise cannot simply be rejected by the headline. But this does not close the credibility gap between current conventional core inflation and a conditional prospective tightening path. More importantly, there is no new evidence in the final for an accelerated December follow-up, despite strong external energy costs.
+
+Why it matters: From a SEK perspective, the trade cannot be reduced to 'lower CPIF = sell SEK' or 'more energy inflation = hike = buy SEK'. The initial rate surprise was zero; the flash created the detectable SEK repricing; the final provided a breakdown with no verified second reaction. A credible longer-term positive carry/differential scenario needs improving hard activity, inflation transmission beyond fiscal mechanics and a sustainable household recovery. A weaker outcome would combine rate-sensitive domestic demand with persistently low underlying inflation and lead to lower expected Riksbank terminal rates, even if fuel and electricity remain expensive.
+
+What to verify next: (1) October constant-tax CPIF / preferred fiscal-adjusted underlying basket; (2) detailed service and other-goods annual/monthly movements, including rents, restaurants and seasonally adjusted measures; (3) food-VAT and transport/dental reform calendar plus later reversal/base effects; (4) November energy prices, import-price pass-through and wage expectations; (5) hard output, household demand and dated STINA/OIS pricing before 16 December.
+
+Macro configuration: verified 1.1% CPIF + 0.1% ex-energy annual inflation + +1pp CPI energy contribution and -1pp food drag + targeted administered-price declines + modest upward ex-energy monthly revision + conditional Riksbank normalisation with diminished December urgency.
+
+D. CENTRAL BANK TAPE
+
+SUMMARY — POLICY REACTION FUNCTION (information first public 1–14 November 2026)
+The five-member Executive Board agreed on the 3 November decision to raise the policy rate 25bp to 2.00%, announced 4 November and effective 11 November. The official baseline remained September's CONDITIONAL trajectory, not a new numerical forecast or a commitment to the 16 December announcement. The minutes of the 3 November discussion became public only on 10 November. They reveal agreement on pre-emptive normalisation but meaningful disagreement on timing and size: Jansson explicitly kept December possible; Seim argued for acting early; Thedéen retained a broadly six-month-plus path and symmetric risks; Bunge emphasized gradual steps and interest-sensitive households; Hjelm was closer to one additional hike. Critically, none of these recorded 3 November positions incorporated the October CPI flash of 5 November. Thedéen (5 November) and Bunge (12 November) subsequently acknowledged its downside surprise without providing a revised path. Thus a December hike is POSSIBLE, not the verified Board consensus; delay to early 2027 is the principal public-economist base case, not official guidance.
+
+ERIK THEDÉEN — Governor — 4 Nov announcement; 5 Nov Bankföreningen; 3 Nov discussion published 10 Nov
+Importance: ****
+Dated source: Official Riksbank policy statement, 4 Nov; official Bankföreningen presentation summary, 5 Nov; official minutes, published 10 Nov. TV interview and press-conference remarks reported secondarily only.
+Key policy signal: The 4 November 25bp increase to 2.00% was characterised as normalisation, with further tightening likely within a year IF the September inflation/activity outlook held. The 3 November minutes elaborated a horizon of a little more than six months and two-way risks: sustained cost-and-demand interaction could require more increases, while weak demand or limited underlying inflation could require fewer. On 5 November, AFTER the CPI flash, Thedéen explicitly recognised October inflation was well below the September forecast but warned against inferring a trend from one month; another CPI release and other information would precede December.
+Representative quote (official 5 Nov, Swedish): “Men vi vet att enskilda månadsutfall kan variera en del.”
+Incremental interpretation: Forecast undershoot acknowledged, not dismissed; the Governor retained assessment-by-meeting rather than either signalling December or declaring the cycle complete. His press-conference phrase about easing off the accelerator is secondary-reported and not treated as a precise rate-path commitment.
+
+PER JANSSON — Deputy Governor — 3 Nov discussion, minutes published 10 Nov
+Importance: ****
+Dated source: Official Executive Board monetary-policy minutes, published 10 Nov (remarks made 3 Nov).
+Key policy signal: Most explicit December-OPTIONALITY statement. Interpreted September's path as just under two further hikes overall, not a meeting-by-meeting timetable; systematic company cost pass-through could eventually create 1970s/1980s-style inflation persistence.
+Representative quote (Swedish, minutes as supplied by scout): “kan bli nödvändigt att höja räntan vid vårt möte i december”.
+Incremental interpretation: More hawkish on earliest possible timing than a presumed December pause, but his view was stated BEFORE the 5 November inflation miss. No verified post-CPI Jansson clarification within the window; assigning this as the Board's updated December preference would be misleading.
+
+AINO BUNGE — First Deputy Governor — 3 Nov discussion (published 10 Nov); Swedbank, 12 Nov
+Importance: ****
+Dated source: Official Executive Board minutes (10 Nov) and Riksbank official Swedbank presentation summary (12 Nov).
+Key policy signal: Expects further increases if the outlook holds but wants gradual implementation, explicitly mindful of Swedish household mortgage-rate sensitivity. Changes in corporate pricing behaviour could justify faster action; weaker household demand would argue for restraint. On 12 November, AFTER both the flash and final CPI publications, she noted October inflation was below forecast but that its details still required analysis; too-fast hiking could undermine the recovery.
+Representative quote (official 12 Nov, Swedish, from scout): “Men framtida höjningar måste beakta inte minst hushållens räntekänslighet.”
+Incremental interpretation: Clearest explicit post-CPI reinforcement of gradualism. Not a call to cut rates or a definitive signal that December is off the table.
+
+ANNA SEIM — Deputy Governor — 3 Nov discussion (published 10 Nov); Arenagruppen, 12 Nov
+Importance: ***
+Dated source: Official minutes, published 10 Nov; Riksbank presentation at Arenagruppen labor-market conference, 12 Nov.
+Key policy signal: A forward-looking risk-management argument for acting before higher inflation becomes embedded, to reduce the chance of a more abrupt later tightening. She pointed to new December projections as the next opportunity to reassess. Her 12 November discussion emphasised the inflation target as the nominal anchor for wage formation, but offered no meeting-specific rate signal and did NOT explicitly assess the October CPI miss in the official summary.
+Representative policy quote (scout, minutes): “behöver vi nu agera för att bromsa inflationen.”
+Incremental interpretation: More hawkish on pre-emption than on a verifiable December calendar. The 12 November wage-anchor comments must not be relabelled as post-CPI support for a December increase.
+
+GÖRAN HJELM — Deputy Governor — 3 Nov discussion, minutes published 10 Nov
+Importance: **
+Dated source: Official minutes, published 10 Nov.
+Key policy signal: Anticipated ONE further hike on his central assessment, with timing judged at each meeting. Saw upside inflation risks, particularly import costs and a weaker-than-fundamentals krona, but acknowledged household consumption as an important downside risk.
+Representative quote: No independently verified short direct quote supplied; paraphrase only.
+Incremental interpretation: The disagreement is also over TOTAL hikes, not merely whether the next comes in December or February. His remarks preceded the CPI surprise; no verified later statement in this window.
+
+CONTEMPORANEOUS HUMAN-VOICE INTERPRETATIONS — NOT RIKSBANK GUIDANCE
+- Torbjörn Isaksson (Nordea; Reuters via RTÉ, 4 Nov; later Swedish reporting, 11 Nov): short, gradual cycle, December pause and one additional hike to 2.25% in February 2027; the later read incorporates the inflation miss. Direct Reuters quote from 4 Nov: “has begun what we expect to be a gradual and short tightening cycle.”
+- Jesper Hansson and Glenn Nielsen (Swedbank; reported 11 Nov): saw the minutes as balanced and broadly on the existing path, one final 25bp hike in February to 2.25%. Secondary/aggregated account, not an official rate projection.
+- Danske Research Team (10 Nov, via FXStreet excerpts / Swedish secondary reporting): minutes somewhat more restrictive than expected; Jansson and Seim favor earlier pre-emption. Institutional scenario envisaged February and March hikes to 2.50%, not a verified December baseline.
+- DNB (Reuters relay, 4 Nov, author not identified): two further increases in 2027, first in March. Antje Praefcke (Commerzbank, secondary relay 5 Nov) shifted tactical attention away from December toward February as the CPI/energy backdrop softened. These are differentiated external forecasts, not a counted policy vote.
+Human disagreement: Nordea/Swedbank expect a shorter path (2.25% in February); Danske and DNB envisage two later moves. The interpretation of the minutes differs (Danske: hawkish; Swedbank: balanced), but no retrieved institutional scenario establishes December as its central call.
+
+BOTTOM LINE / POINT-IN-TIME CONTROL
+At 14 November: conditional hawkish normalisation, probably gradual but with December formally possible. The most important OPEN question is whether Jansson would retain early timing after October inflation's undershoot. The relevant post-CPI voices were Thedéen (5 Nov, one-print caution) and Bunge (12 Nov, household-sensitive gradualism); Seim's 12 Nov presentation did not revisit the CPI release. No verified post-CPI Jansson or Hjelm remarks. Do not import Bunge's 16 Nov or later remarks, post-window news or unverified market-implied hike probabilities into this window. Press-conference Q&A and Bunge's separate media availability were not recovered by the scout.
+Next scheduled monetary-policy meeting: 15 December; announcement and new Monetary Policy Report: 16 December 2026.
+
+Official dated source anchors (in-window):
+- 4 Nov decision: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/policy-rate-raised-to-2-per-cent/
+- 10 Nov minutes (discussion held 3 Nov): https://www.riksbank.se/globalassets/media/dagordningar--protokoll/protokoll/penningpolitiskt/engelska/2026/minutes-of-the-monetary-policy-meeting-3-november-2026.pdf
+- 5 Nov Thedéen (Swedish): https://www.riksbank.se/sv/press-och-publicerat/tal-och-presentationer/2026/erik-thedeen-forenkla-bankreglerna--utan-att-aventyra-motstandskraften/
+- 12 Nov Bunge (official): https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2026/aino-bunge-interest-rates-should-be-adjusted-gradually-in-an-uncertain-situation/
+- 12 Nov Seim (official): https://www.riksbank.se/en-gb/press-and-published/speeches-and-presentations/2026/anna-seim-important-to-safeguard-the-role-of-the-inflation-target-as-a-nominal-anchor/
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: The 3 November Riksbank Board discussion favoured pre-emptive normalisation, with Jansson explicitly preserving December optionality, but the subsequently released October CPI showed CPIF at 1.1% and conventional ex-energy CPIF at 0.1%, alongside weak September industrial output and sensitive housing expectations. Thedéen and Bunge acknowledged the undershoot after the fact; the hawkish pre-CPI minutes do not establish a post-CPI majority for accelerating hikes. This deepens the inherited factory/cost-strength versus weak household and consumer-inflation tension.
+Why it matters: The timing and cumulative extent of tightening depend on whether input-cost risk becomes sustained fiscal-adjusted inflation and hard employment growth before higher mortgage rates restrain domestic demand.
+Implication: Keep 2027 hike optionality and December as a genuine risk, not the base case or an official pre-commitment; test Jansson's post-CPI position, adjusted underlying CPI, hard output, hiring and household mortgage transmission.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+1. **** SWEDEN — RIKSBANK POLICY RATE DECISION (4 NOV 2026)
+   Why it matters: The consensus 25bp hike to 2.00% implements the previously signaled normalisation path, while leaving pace and ultimate level contingent. Reconcile Board reasoning, fiscal-adjusted inflation and mortgage sensitivity with the subsequent CPI miss; the move itself was not a surprise catalyst.
+
+2. **** SWEDEN — CPI / CPIF / CPIF EX ENERGY FLASH (5 NOV 2026)
+   Why it matters: CPIF 1.1% versus 1.4% and ex-energy 0.1% versus 0.5% were the principal new policy-and-FX information, shortly after the hike. Separate fiscal/administered price distortions from persistent demand weakness and distinguish immediate FX reaction from non-isolated swap snapshots.
+
+3. *** SWEDEN — SWEDBANK / SILF MANUFACTURING PMI (2 NOV 2026)
+   Why it matters: PMI 60.5 and input-price index 82.6 juxtapose strengthening industrial breadth and margin/pass-through risks. Actual orders, output, employment and selling-price diffusion — especially the source-unverified exact sub-indices — determine how durable the signal is.
+
+4. *** SWEDEN — PRODUCTION VALUE INDEX: PRIVATE SECTOR AND INDUSTRY (10 NOV 2026)
+   Why it matters: September industry -3.2% m/m after revised +6.0% in August and vehicle output -13.4% challenge a survey-only boom narrative. An excluding-vehicles bridge and October hard output would distinguish payback from weaker underlying demand.
+
+5. *** SWEDEN — CPI / CPIF / CPIF EX ENERGY FINAL (12 NOV 2026)
+   Why it matters: Confirms 1.1% CPIF and 0.1% ex-energy annually; the monthly ex-energy rate shifts from -0.2% flash to -0.1% final. The opposing food (-1pp) and fuel/electricity (+1pp) CPI contributions require an explicit constant-tax/core-services reconciliation before drawing a durable Riksbank conclusion.
+
+G. RED TEAM QUESTIONS
+
+1. Is September industry's -3.2% monthly contraction predominantly automotive payback after August's surge, or will underlying output and October hard data falsify the PMI-led recovery?
+2. Do October factory PMI 60.5, hiring diffusion and high input costs translate into realized orders, employment and final selling prices, or remain survey strength amid margin pressure?
+3. How much of ex-energy CPIF at 0.1% y/y reflects temporary fiscal/administrative effects rather than genuinely weak recurring domestic inflation? What do services and fiscal-adjusted measures show?
+4. Would Jansson STILL advocate December after the 5 November CPI undershoot, given that his explicit December-optional statement was made on 3 November? Does Seim's pre-emptive case depend on evidence the Bank has not yet received?
+5. If Bunge's gradualism and household rate sensitivity dominate, does the 2.00% policy rate itself constrain consumption, house prices and mortgage demand before prospective industrial cost pass-through arrives?
+6. Is the relevant split one further hike (Hjelm; Nordea/Swedbank path to 2.25%) versus two (Jansson's September-path interpretation; Danske/DNB scenarios), and what December forecasts/wages/household evidence would distinguish them?
+7. Does a further SEK rally counteract import inflation enough to reduce the rate path, or could external energy pressure and weak global demand undermine SEK despite higher policy rates? Require dated relative-rate pricing before converting this into an FX trade.
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: EUR/SEK (higher = weaker SEK). The selected public-bank end-Q4 2026 forecasts converged at 11.00: ING (12 November), UBS (5 November) and ABN AMRO (revised 11 November); BNP Paribas Wealth Management maintained 11.00 at a separate three-month horizon. This is a public institutional cluster, NOT a formal market consensus. Against the ECB's 13 November reference of 11.1075 (30 October: 10.9780), the end-Q4 targets implied only about 1% SEK appreciation, with timing uncertain.
+Public-bank end-Q4 2026 cluster: EUR/SEK 11.00 (ING, UBS, ABN AMRO; no meaningful forecast range).
+Constructive SEK cluster: ABN AMRO 10.70 and ING 10.80 at Q4 2027; SEB 10.55 at December 2027; BNP Paribas 10.80 at twelve months from 5 November (distinct horizons).
+More cautious / tactical view: ABN AMRO saw little near-term SEK upside despite favourable valuation; global risk and relative rates matter.
+Bias at window close: Selectively SEK-positive into 2027, but tactically cautious.
+
+What changed through the data window
+ABN AMRO's 4 November FX Weekly projected EUR/SEK 11.40 at Q4 2026; its 11 November FX Outlook explicitly superseded that forecast with 11.00. This genuine 0.40 cut reflected mainly the euro leg: ABN also cut Q4 EUR/USD from 1.15 to 1.10 and raised USD/SEK from 9.91 to 10.00. It therefore should not be misread as an unambiguous upgrade in SEK fundamentals. UBS expressly maintained December targets on 5 November; BNP also kept its three- and twelve-month projections. Earlier matching-horizon ING/SEB targets were not verified, so no revisions are imputed. EUR/SEK spot rose during the window, increasing apparent SEK upside to the near-term targets, not forecaster conviction.
+
+Main consensus drivers
+- Relative rates/carry: Riksbank normalization discourages SEK funding, but ECB tightening and Sweden's October CPI undershoot limit immediate rate advantage.
+- EUR-specific risk: French political and sovereign-risk premia could support SEK in the cross independently of Swedish fundamentals.
+- External/global beta: Strong industrial investment, current account and undervaluation help SEK; energy costs and risk aversion can overwhelm them.
+
+Where consensus could be wrong
+Too cautious: Fiscal-adjusted inflation and hard industry validate the recovery while euro-area sovereign stress intensifies. Too bullish: Swedish hiring, housing or output disappoint and the Riksbank slows, or global risk aversion raises EUR/SEK. Falsification: relative rates, October hard output, fiscal-adjusted inflation and actual mortgage/consumption responses.
+
+Contemporaneous source anchors
+- ECB daily EUR/SEK reference, 30 October and 13 November 2026: https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-sek.en.html
+- ABN AMRO, FX Weekly, 4 November (superseded Q4 11.40): https://assets.ctfassets.net/1u811bvgvthc/5735oDoHwx9VH4cXWtj3HK/b8824e800d1466448b12d3a6810df7cd/ABN_AMRO_FX_Weekly_-_US_dollar_slips_on_election_surprise_4_November_2026.pdf
+- ABN AMRO, FX Outlook 2027, 11 November (revised Q4 11.00): https://assets.ctfassets.net/1u811bvgvthc/6o94LN71x3h8XJy0aDd5Af/597f80f9bdf0bd932b7c89e0122c5d90/261111_-_FX_Outlook_2027_-_A_weak_euro_in_2027.pdf
+- UBS, Dumoncel/Bolz, 5 November (unchanged forecasts): https://www.investing.com/news/forex-news/ubs-sees-swedish-krona-strengthening-against-the-euro-93CH-5002864
+- BNP Paribas Wealth Management, Currencies Focus, 5 November: https://wealthmanagement.bnpparibas/content/dam/wmpublicsite/global/pdfs/en/november-2026/MonthlyfocusFX_november26%20VDEF.pdf
+- SEB, Nordic Outlook, 10 November: https://sebgroup.com/press/press-releases/2026/nordic-outlook-growth-challenged-by-rising-interest-rates-and-high-energy-prices
+- SEB, forecast table, 10 November: https://sebgroup.com/siteassets/cision/documents/2026/20261110-nordic-outlook-growth-challenged-by-rising-interest-rates-and-high-energy-prices-en-gb-0-3811963-5459522.pdf
+- ING, G10 FX Outlook 2027, 12 November: https://think.ing.com/articles/g10-fx-outlook-2027/
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Factory strength / weak hard output and inflation / mortgage-sensitive policy.
+- Change: Hike delivered; CPI miss lowers December urgency.
+
+Scoreboard
+- Growth: ~ | PMI 60.5; industrial PVI -3.2% m/m after +6.0%.
+- Labor: ~ | Hiring PMI 60.1; no new hard employment data.
+- Inflation: + | CPIF 1.1%, ex-energy 0.1%; fiscal effects matter.
+- Financial Conditions: - | Rate 2.00%; housing-sensitive households.
+- Policy Constraint: ~ | December possible, but post-CPI evidence supports patience.
+
+Major Release Tape
+- **** Riksbank (4 Nov): Expected +25bp to 2.00%; September path unchanged.
+- **** CPI flash: CPIF 1.1% vs 1.4%; ex-energy 0.1% vs 0.5%.
+- *** Manufacturing PMI (2 Nov): 60.5; input costs 82.6.
+- *** PVI: Industry -3.2%; vehicles -13.4%; payback.
+- *** CPI final: Annual rates confirmed; food/energy offset; ex-energy m/m -0.1%.
+
+Minor Tape
+- ** SEB housing: Expectations +38 vs official October +43, before hike.
+
+Central Bank
+- Bias: Conditional further tightening; no December commitment.
+- Reaction function: Supply-cost pass-through versus weak core and household mortgage transmission.
+- Key tape: Jansson (3 Nov, published 10 Nov) left December open BEFORE CPI miss; Seim pre-emptive, Hjelm one more. AFTER CPI: Thedéen (5 Nov) cautioned against overreading one print; Bunge (12 Nov) gradual/household-sensitive. External calls: Nordea/Swedbank February 2.25%; Danske/DNB two later hikes.
+
+Signal Tension
+- Tension: Hawkish pre-CPI debate versus weak hard output and inflation.
+- What resolves it: Fiscal-adjusted prices, hard hiring/output, post-CPI Jansson and December forecasts.
+
+Key Releases
+- 1. Riksbank — conditional path.
+- 2. CPI flash — undershoot.
+- 3. PMI — demand validation.
+- 4. PVI — vehicle payback.
+- 5. CPI final — price composition.
+
+Red Team
+- Does output validate the PMI?
+- Is low core temporary/fiscal or persistent?
+- Does Jansson retain December after CPI?
+
+FX Consensus
+- Consensus: Public-bank end-Q4 EUR/SEK 11.00 cluster, not formal consensus.
+- Public-bank cluster: ING/UBS/ABN AMRO 11.00; ABN 11.40 to 11.00 mainly via EUR downgrade.
+- At window close: EUR/SEK 11.1075 (13 Nov), ~1% SEK upside to end-Q4 11.00.
+- Consensus wrong if: Activity stalls or risk dominates.
+
+<<SEK_WEEK_END>>
+
+
+<<SEK_WEEK_BEGIN>>
 DATA WINDOW: 18 October 2026 to 31 October 2026
 
 A. SEK WEEK — MACRO SYNTHESIS
