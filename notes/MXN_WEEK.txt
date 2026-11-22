@@ -1,4 +1,613 @@
 <<MXN_WEEK_BEGIN>>
+DATA WINDOW: 1 November 2026 to 14 November 2026
+
+A. MXN WEEK — MACRO SYNTHESIS
+
+Mexico entered November with tentative industrial recovery, earlier core disinflation and a constrained Banxico hold. The window shifts this balance without an economy-wide reversal. September industrial output fell 1.4% m/m, versus -0.2% expected, with manufacturing -1.7%, construction -2.0% and 16 of 21 manufacturing branches contracting. October's S&P factory PMI slipped to 49.5 from 50.3, with output, staffing and purchasing weak, although total and export orders still rose and the separate official orders-expectations indicator improved to 50.5. This confirms weaker industry, not a broad demand collapse: Q3 GDP was still +3.2% y/y and civil engineering supported the annual construction reading. No national labor release supports a broader conclusion; factory PMI jobs fell.
+
+Inflation is less reassuring than in the incoming regime. October headline CPI rose to 3.75% y/y, core to 3.80% and services to 4.32%; electricity-subsidy withdrawal contributed 0.215pp of the 0.651pp monthly headline gain, while core/services firming was not explained by that electricity effect. INPP reached 5.60% y/y with manufacturing intermediates at 6.84%, without proving downstream pass-through. Banxico delivered a 3–2, 25bp cut to 6.25% on 5 November despite higher Q4 inflation projections. Subsequent in-window communications sharpened, rather than reversed, the official extended-hold guidance: Rodríguez and Mejía called the cut a one-off calibration without a preset pause length; dissenting Borja accepted the likely near-term hold while emphasizing inflation risks; Heath challenged the cut and warned that the promise could inhibit future hikes if Fed tightening shrank the carry buffer. No member publicly advocated immediate follow-on cuts. State transition: weaker realized industry and interrupted core disinflation, with a one-off easing and an explicitly conditional pause. The constraint is whether 6.25% remains restrictive and slack limits inflation/FX pass-through.
+
+B. MXN MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: The prior tentative industrial recovery lost momentum: official September IMAI fell 1.4% m/m, manufacturing 1.7% and construction 2.0%, while October PMI slipped to 49.5 with contracting output and purchases. This is a deterioration in the industrial delta, but not sufficient for a Mexico-wide negative regime call: Q3 GDP was +3.2% y/y, civil engineering supported annual construction, PMI new/export orders remained marginally positive and the separate official expected-orders index improved to 50.5.
+
+Labor: ~
+Supporting evidence: October factory PMI employment declined at its fastest pace since May, and weak industrial production raises hiring concerns. There is no new comprehensive national employment or unemployment release in the validated window. Neither a labor-market recovery nor a national contraction is established; the manufacturing signal must be checked against realized employment and the participation/sector mix.
+
+Inflation: -
+Supporting evidence: October headline CPI accelerated to 3.75% y/y from 3.45% and core to 3.80% from 3.75%, ending eight months of annual core easing; services rose to 4.32%. Electricity seasonality drove 0.215pp of the 0.651pp monthly headline print, while producer prices reached 5.60% y/y and manufacturing intermediate prices 6.84%. Distinguish this adverse inflation level/momentum from proof of broad, persistent FX or input-price pass-through, which is not yet observed.
+
+Financial Conditions: ~
+Supporting evidence: Banxico's 25bp cut eased the overnight policy-rate setting, but narrowed the Mexican nominal rate cushion over the US upper bound to 225bp (200bp under a hypothetical further 25bp US increase). The source-reported immediate peso depreciation largely reversed. No durable local TIIE, Mbono or credit easing, nor a persistent FX tightening response attributable to the decision, was verified. Financial conditions are therefore mixed rather than demonstrably worse: short-rate relief competes with lower carry protection and ongoing inflation/term-premium vulnerability.
+
+Policy Constraint: -
+Supporting evidence: Banxico cut 3–2 to 6.25%, raised Q4 2026 headline/core forecasts to 3.7% and retained an upside-skewed risk balance, with 3% convergence still projected for Q4 2027. Rodríguez and Mejía reiterated a one-off adjustment and data-dependent extended hold without fixed duration; Borja dissented on inflation-risk weighting but also regarded near-term holding as likely. Heath objected more fundamentally to the cut and to reduced freedom to hike if inflation or the Fed moves against Banxico. No majority speaker committed to further cuts; Cuadra's rationale remains undocumented. Industrial slack and weak PMI hiring support patience, but core services, producer costs and the disputed strength of peso-price pass-through keep the constraint adverse despite lower short rates.
+
+C. FULL RELEASE ARCHIVE
+
+TUESDAY 3 NOVEMBER 2026
+
+MEXICO — S&P GLOBAL MANUFACTURING PMI (OCTOBER)
+Release Date: 3 Nov 2026 | Local Time: 16:00 (Reuters feed; 09:00 Mexico City)
+Importance: ***
+
+PM FLASH: The manufacturing PMI fell to 49.5 in October from 50.3 in September, again below the 50 expansion threshold; no Reuters poll is supplied. Output declined at its fastest rate in six months and job losses quickened, while new orders still rose marginally for a sixth month and new export orders returned to growth. Input inflation accelerated, but factory selling-price inflation slowed.
+PM READ-THROUGH: The weakness of actual output, hiring and purchasing qualifies the earlier modest headline stabilization. Still-positive orders and improving confidence leave open a demand-led recovery later, so the October index signals renewed marginal deterioration rather than a proven industrial collapse.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: A near-50 survey headline has limited standalone regime value; the sharp output/employment weakness matters more, particularly alongside the later broad September hard-production decline. A separate expectations-based orders survey improved even as current factory conditions weakened.
+Key takeaways: The orders-to-output gap may indicate delayed conversion of future demand, capacity/friction problems or sampling differences; it is not evidence of broad realized growth. Watch November output, exports, supplier constraints, inventories and the hard manufacturing series.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXPMIM=ECI;3 nov;16:00;High;S&P Global Mfg PMI;Oct;49,5;50,3;;;
+
+2. Professional Market Commentary
+
+The October S&P Global Mexico manufacturing PMI slipped to 49.5 from 50.3 in September, a marginal deterioration after a brief return above the 50 threshold. The contemporaneous Trading Economics account by Isabela Couto (3 November, referring to S&P Global survey data) emphasizes that the underlying output contraction was more severe than the headline change implies: production fell at its quickest rate in six months, extending the decline in factory output that began in July 2024. Manufacturing employment dropped at the fastest pace since May, purchasing contracted for a third consecutive month and pre-production inventories fell for a thirteenth month. Finished-goods inventories edged higher. These details are secondary reporting of survey results, not independently recovered official S&P component-index values.
+
+The positive counter-evidence is selective and forward-looking: aggregate new orders rose for a sixth consecutive month, albeit at their slowest pace of that sequence; export orders returned to growth; and business confidence increased on hopes of improving demand and investment. Input-cost increases accelerated to a three-month high while selling-price inflation eased to its slowest since April. The juxtaposition suggests cost absorption or competition may be limiting pass-through, but the available survey summary does not establish the numerical margin impact or individual sub-index readings. Supplier-delivery data and the actual S&P economist's release remarks were not recovered.
+
+Newsquawk's 3 November desk analysis stresses that the index repeatedly oscillates near 50, making a one-month crossing an unreliable economic turning-point signal. Its discriminating tests are new orders, exports and the US industrial cycle rather than the headline alone. This is desk interpretation, not a named macroeconomist view. No independent named analyst or directly published bank-economist interpretation of the October PMI was verified. No Tier 1 institutional debate detected. Nor is there evidence of a release-specific peso or rates reaction. An external economic calendar displayed a forecast, but the user-supplied Reuters feed contains no poll and no surprise can be imported into Section 1.
+
+A useful independent, non-identical official cross-check was released on 3 November: the INEGI/Banxico Indicador de Pedidos Manufactureros (IPM), a business-expectations/orders indicator rather than the S&P current-conditions PMI, rose 1.17 points on a seasonally adjusted basis to 50.5 in October. Expected orders, output and staffing components improved while input-inventory expectations fell. The different direction should not be presented as a direct contradiction of S&P data or merged into this release's Reuters row; it strengthens the question whether projected demand is ahead of realized production. Its precise sampling and reference-question differences matter.
+
+Evidence anchors:
+- S&P Global PMI headline and October composition as reported by Trading Economics, 3 Nov: https://tradingeconomics.com/mexico/manufacturing-pmi/news/597733
+- Newsquawk desk, 3 Nov: https://www.newsquawk.com/headlines/mexican-sp-global-manufacturing-pmi-oct-4950-prev-5030
+- S&P Global Mexico PMI publication hub: https://www.pmi.spglobal.com/
+- INEGI/Banxico separate IPM analytical release, 3 Nov: https://www.banxico.org.mx/publicaciones-y-prensa/indicadores-de-opinion-empresarial/%7B14B79C2F-929C-786D-6630-DC31FE22289C%7D.pdf
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The survey is best described as a renewed marginal deterioration in overall factory conditions, driven by realized activity and labor rather than by a sudden disappearance of reported orders. A 0.8-point fall in the headline switches its sign relative to 50 but need not imply an equally large output shock: PMI subcomponents and their diffusion construction matter, and the October output sub-index declined at the fastest rate in six months even while orders were still marginally positive. The employment, purchasing and input-inventory signals are less compatible with a broad recovery than the optimistic confidence response. This is relevant to Banxico's later argument that spare capacity and weak demand reduce underlying inflation pressure; nonetheless, manufacturing alone cannot establish the economy-wide output gap.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Momentum and sign: The selected recent headline sequence is July 51.3, August 49.8, September 50.3 and October 49.5. It describes oscillation near neutral, not four consecutive months of accelerating contraction. The more consequential qualitative evidence is the sustained factory-output downturn since July 2024, which survived the September move above 50. A PMI is a monthly diffusion measure of reported direction, not an output-growth percentage; neither 49.5 nor its difference from 50 can be translated directly into a quantity lost.
+
+2) Current production, labor and inventories. Output fell at its fastest pace in six months, while factory employment had its fastest decline since May. Purchasing activity fell for the third month, input stocks for the thirteenth month, and finished-goods stocks edged higher. This combination can indicate defensive inventory management and capacity slack rather than expansionary procurement; finished-goods accumulation despite falling output is consistent with sales failing to clear production fully. Without sub-index levels, inventory quantities and supplier-delivery detail, it cannot be established whether lean stocks reflect weak final demand, finance constraints, supply interruption or an intentional shift in sourcing.
+
+3) Orders versus execution. New orders rose marginally for the sixth month, although at their slowest pace during that run, while export orders returned to growth. Backlog conversion, production lags, export-demand sequencing and different survey response weights could explain part of the current orders/output mismatch, but none is causally proven. Strengthening business confidence suggests firms expect future demand or capital spending to improve; expectations remain separate from current purchase orders and realized output. The official INEGI/Banxico IPM at 50.5, up 1.17 points, offers a second piece of forward-looking corroboration for expectations, not an alternative measure of the same S&P factory activity.
+
+4) Input/output prices and Banxico's pass-through assumption. Rising input-price inflation alongside slower output-charge increases suggests a possible widening cost/price wedge. Competition, margins, contracts or lagged repricing may account for it; no numerical spread or margin estimate is available. In the same monitoring week the separate INEGI producer index recorded rising manufactured-intermediate and transport costs, while consumer core services and goods were uneven. The PMI is directionally consistent with cost pressure but cannot prove that its respondents' price expectations will become persistent core CPI. If orders and pricing power are weak, cost shocks may be partly absorbed in corporate margins, supporting Banxico's slack interpretation; if they reach final goods despite weak activity, inflation and growth conditions would worsen jointly.
+
+5) External demand and the hard-data cross-check. Mexican factories are sensitive to US manufacturing, technology/electronics and automotive export demand, but sector-specific exposure cannot be determined from the headline. September official industrial activity later showed manufacturing -1.7% m/m and widespread branch declines, so the October PMI output sub-index did not provide evidence of an immediate rebound. The different reference months prohibit a strict point-for-point reconciliation. A subsequent improvement in shipments, orders, export demand and hard production is required to distinguish a temporary production pause from a more persistent weakness.
+
+Data-quality constraints: The October 2026 S&P full original release and component levels were not available for direct verification; the detailed balance is from a dated secondary desk summary. No Reuters consensus is provided. The October 2025 index was also 49.5, creating an avoidable vintage confusion; all figures here refer to October 2026. The officially sourced IPM is a different survey and is used only as a comparison.
+
+State transition: deterioration in current manufacturing conditions — the headline returns marginally below neutral and output, staffing and purchasing weaken, with positive but decelerating orders and improved expectations preventing a confident inference of a sustained new slump.
+
+Context from prior regional live file: After a 51.3 reading in July, manufacturing conditions dropped to 49.8 in August and recovered only marginally to 50.3 in September, while output weakness had persisted beneath the survey headlines. October's 49.5 reverses that brief headline improvement and confirms that stronger orders have not yet produced broad output or employment recovery. Manufacturing remains fragile, with an unconfirmed future-demand improvement.
+
+4. HF Take — Strategist Layer
+
+The incremental value is a sharper distinction between factory conditions now and demand that might materialize later. A marginally sub-50 print should not, alone, shift a Mexico-wide macro regime; however, declining real output, employment and purchases make Banxico's slack rationale more credible than a casual reading of September's above-50 PMI would suggest. The simultaneous positive orders/export-orders signals and the independent improvement in official order expectations warn against extrapolating a permanent manufacturing slide. The September industrial-output report subsequently strengthened the near-term downside case without settling how quickly Q4 manufacturing may recover.
+
+The policy/FX question is conditional: if output and employment stay weak while input costs fail to reach consumer prices, the prolonged 6.25% hold remains consistent with muted domestic pricing power. If weaker activity coexists with continued core/services inflation, peso depreciation or imported cost pass-through, policy easing would be less attractive despite slack, and weak industry need not mechanically weaken or strengthen MXN on the day. No publication-specific FX or swap repricing was established.
+
+What to verify next: (1) November PMI output, new orders and export orders; (2) supplier delays, backlogs, purchases and stocks, ideally with source sub-index values; (3) October and November hard manufacturing production, especially autos and electronics; (4) US final demand and Mexican export shipments; (5) factory employment and the input/output price wedge. Macro configuration: marginally contracting manufacturing conditions + long-running production weakness + hesitant positive orders/export orders + cost pressure + unconfirmed future recovery.
+
+THURSDAY 5 NOVEMBER 2026
+
+MEXICO — BANXICO MONETARY POLICY DECISION (NOVEMBER)
+Release Date: 5 Nov 2026 | Local Time: 20:00 (Reuters feed; 13:00 Mexico City)
+Importance: ****
+
+PM FLASH: The policy rate was cut 25bp to 6.25% versus a 6.50% poll, on a 3–2 vote; the move was framed as a one-time adjustment followed by an extended hold. Q4 2026 inflation projections were raised to 3.7% headline (from 3.5%) and 3.7% core (from 3.6%); the 3% convergence date remained Q4 2027.
+PM READ-THROUGH: The move breaks three consecutive holds but re-establishes pause guidance at a lower rate. It reveals greater tolerance for currency weakness and near-term inflation risk, conditional on the Board's disputed assessment that economic slack limits demand and exchange-rate pass-through.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: Supporters see a calibrated adjustment to still-restrictive policy and note partial advance swap pricing; critics question easing amid higher inflation forecasts, recent currency depreciation and improved activity.
+Key takeaways: The policy-rate gap to the US upper target bound is now 225bp and would fall to 200bp after a hypothetical 25bp US increase. The initial peso sell-off partly reversed; durability of the hold and credibility of limited FX pass-through are the central tests.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXCBIR=ECI;5 nov;20:00;High;Interest Rate;Nov;6,25%;6,50%;;6,50%;-0,250%
+
+2. Professional Market Commentary
+
+The official 5 November statement describes a 25bp reduction to 6.25%, effective 6 November, as a one-time adjustment; Victoria Rodriguez, Gabriel Cuadra and Omar Mejia supported the cut, while Galia Borja and Jonathan Heath preferred to hold at 6.50%. The majority asserted that the disinflation process continues, that demand pressures are absent, and that slack limits peso-to-CPI pass-through. It coupled easing with unusually explicit guidance that the new rate should be maintained for an extended period. The 2026 Q4 inflation forecasts nevertheless rose, and the official inflation-risk balance remained tilted upward. Thus the central dispute is not about the decision's mechanics but whether the growth/slack argument adequately covers the inflation and FX risks.
+
+Views favorable to the adjustment are distinct. Gabriel Casillas (Barclays; El Financiero, 6 November) regarded the move as defensible fine-tuning between different US and Mexican cycles and considered it signalled by the earlier Board language; his house retained scope for 6.00% in early 2027. Victor Gomez (Finamex; El Financiero, 6 November) separated a considerable economist surprise from partial pre-pricing in swaps and argued that a future resumption of cuts becomes more feasible if US rates do not rise. Ricardo Aguilar Abe (INVEX; El Financiero, 9 November) likewise viewed the pause as potentially temporary, but conditioned further easing on US inflation and Fed developments rather than treating 6.00% as automatic.
+
+The skeptical camp includes Paulina Anciola and Ivan Arias (Banamex; La Jornada, 5 November, and later coverage), who argued that higher inflation risks, peso depreciation and better-than-expected activity did not warrant easier policy. Javier Amador, Ivan Fernandez and Carlos Serrano (BBVA Research; direct post-meeting research, 6 November) challenged the unproven precision of choosing 6.25% over 6.50% with an uncertain neutral real rate, and saw greater peso downside risk; their 4 November pre-meeting research had called for a hold. Alberto Ramos (Goldman Sachs; El Economista, 5–6 November) also questioned the strength of the justification, pointing to upward inflation revisions, activity performance and the exchange rate as a risk. Pantheon Macroeconomics raised a similar challenge to cutting against stronger growth, sticky services inflation and peso weakness; the accessible report did not establish the economist's name. These are substantively opposed views, not differences manufactured from the same headline.
+
+Janneth Quiroz Zamora and Alan Daniel Olivares Chan (Monex; directly published 5 November note) observed that the initial depreciation was short-lived and that the decision was at least partially priced, while warning about additional currency/inflation vulnerability under external monetary tightening. Gabriela Siller (Banco Base; El Financiero, 5–6 November) emphasized potential carry erosion and conditional upside risk for USD/MXN if US rates rose. Luis Gonzali (Franklin Templeton Mexico; El Financiero, 6 November) highlighted an unverified-at-the-time second-round financial risk: a market penalty for the cut could raise long-term Mexican yields and government financing costs, even if the policy rate fell. Bloomberg/Citi survey counts differ across secondary reporting and are not harmonized: the Citi poll was reported as six of 36 forecasting a November cut, while Bloomberg-count versions were inconsistent. The defensible market-pricing observation is narrower: contemporary reporting indicated roughly 13bp priced for this meeting and 22bp cumulative by December, not a fully unanticipated rates shock.
+
+Market reaction: a readable 5 November account placed USD/MXN around 18.71 before the announcement, briefly around 18.96 just after 13:00 Mexico City, and near 18.73 before 14:00. Monex estimated a roughly 1.3% immediate peso decline that reversed shortly over an hour later. This is a release-specific initial FX reaction with rapid mean reversion; it does not establish the absence of a longer-horizon currency cost or an identifiable post-release Mbono, TIIE or equity move. Later peso changes around trade negotiations and US news should not be mechanically attributed to this decision.
+
+Later, but still within the monitoring window, Reuters reported on 12 November that dissenting deputy governor Jonathan Heath, speaking personally, regarded the cut as an adverse inflation signal and warned that prolonged-hold guidance could reduce flexibility if inflation risk rose further. This is subsequent, attributable dissent, not part of the 5 November official statement or an explanation for its immediate market reaction. Heath's December term-end and the composition of his successor remain scenarios, not an established November policy shift.
+
+Principal evidence anchors:
+- Banxico, official monetary policy statement, 5 Nov: https://www.banxico.org.mx/canales/%7B3F111036-B260-B41A-1DD5-CD54883DB4E2%7D.pdf
+- Reuters, previous Banxico decision, 24 Sep: https://www.reuters.com/world/americas/bank-mexico-keeps-rates-hold-tweaks-its-forward-guidance-2026-09-24/
+- BBVA Research, Javier Amador / Ivan Fernandez / Carlos Serrano, 6 Nov: https://www.bbvaresearch.com/en/publicaciones/mexico-banxico-delivers-surprise-cut-signals-prolonged-pause/
+- Monex, Janneth Quiroz Zamora / Alan Daniel Olivares Chan, 5 Nov: https://www.monex.com.mx/portal/download/reportes/261105%20Banxico%20Pm%20Ev.pdf
+- El Financiero, Ana Martinez, 6 Nov: https://www.elfinanciero.com.mx/economia/2026/11/06/contra-todo-pronostico-banxico-recorta-tasa-de-interes-a-625-y-adelanta-larga-permanencia/
+- El Financiero, Victor Piz, 6 Nov: https://www.elfinanciero.com.mx/opinion/victor-piz/2026/11/06/banxico-una-sorpresa-no-tan-sorprendente/
+- El Financiero, Enrique Quintana, 6 Nov: https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/06/la-sorpresa-que-dio-banxico/
+- El Financiero, Ricardo Aguilar Abe, 9 Nov: https://www.elfinanciero.com.mx/opinion/ricardo-aguilar/2026/11/09/el-ciclo-bajista-de-banco-de-mexico/
+- La Jornada, 5 Nov (Banamex): https://www.jornada.com.mx/noticia/2026/11/05/economia/banamex-considera-poco-prudente-recorte-de-tasa-de-banxico-a-625
+- El Economista, Yolanda Morales, 5–6 Nov (including Goldman/Pantheon): https://www.eleconomista.com.mx/economia/banxico-baja-tasa-6-25-pese-repunte-inflacion-expansion-economica-20261105-842500.html
+- Reuters, Heath interview published 12 Nov: https://www.reuters.com/world/americas/exclusive-bank-mexico-rate-cuts-sends-wrong-message-says-deputy-governor-heath-2026-11-12/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+This is a policy-reaction-function surprise, not an inflation-data surprise: 25bp of easing was delivered in a meeting at which the Reuters poll expected no change, and the new level was explicitly paired with a prolonged pause. The key addition versus September is revealed Board preference: a narrow majority is willing to use perceived spare capacity and still-restrictive conditions to justify a one-off rate reduction despite recent peso depreciation and worse near-term inflation arithmetic. The split 3–2 vote materially limits the strength of any inference that the Governing Board as a whole has adopted a new easing cycle.
+
+The inflation and external risks cut against a frictionless interpretation of the decision. Q4 headline and core projections rose while the forecast convergence quarter and upward-skewed risk assessment stayed unchanged. A small one-off easing adjustment is plausible if policy remains restrictive, but the official statement provides no quantitative proof that 6.25% rather than 6.50% is the correct level of restriction. That uncertainty, plus the deliberate hold guidance, makes the episode most informative about institutional risk tolerance and credibility rather than the immediate 25bp growth impulse.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Vote, guidance and policy path. The 5 November majority consisted of Governor Victoria Rodriguez and deputies Gabriel Cuadra and Omar Mejia; Galia Borja and Jonathan Heath sought no cut. The reduction took effect on 6 November. The phrase 'one-time adjustment' separates the observed action from the path, and the planned extended hold is forward guidance rather than a legally binding commitment. The September 24 decision had unanimously kept the rate at 6.50% while removing earlier explicit prolonged-hold wording. November reverses that language sequence: flexibility in September was used for a cut, then a new hold was indicated at the lower level. The September minutes and subsequent November dissent complicate claims of a durable committee consensus.
+
+2) Inflation forecast revisions versus the disinflation thesis. The official statement cites first-half September to first-half October headline inflation rising 3.42% to 3.62%, predominantly non-core; core edged down 3.79% to 3.78%. The annual forecast revisions are concentrated in Q4 2026, with later quarterly projections unchanged:
+
+| Quarterly annual inflation (%) | Sep-24 forecast | Nov-05 forecast | Revision |
+|---|---:|---:|---:|
+| 2026 Q4 headline | 3.5 | 3.7 | +0.2pp |
+| 2026 Q4 core | 3.6 | 3.7 | +0.1pp |
+| 2027 Q1 headline / core | 3.4 / 3.4 | 3.4 / 3.4 | unchanged |
+| 2027 Q2 headline / core | 3.3 / 3.3 | 3.3 / 3.3 | unchanged |
+| 2027 Q3 headline / core | 3.2 / 3.2 | 3.2 / 3.2 | unchanged |
+| 2027 Q4 headline / core | 3.0 / 3.0 | 3.0 / 3.0 | unchanged |
+
+The timetable for reaching 3% remains Q4 2027. Thus the Board is judging the immediate price shock largely temporary and/or containable without re-marking the medium-term path. The precise inconsistency raised by skeptical economists is that this confidence increased enough to justify easing even as the forecast starting point worsened. Whether new price increases migrate from non-core to services, core goods and expectations is the key falsification test. Forecasts beyond Q4 2026 remain targets conditional on the macro baseline, not realized evidence of disinflation.
+
+3) Slack, growth and exchange-rate transmission. The majority says output expanded during Q3 while economy-wide slack persists across its forecast horizon. These statements can coexist: improving growth momentum need not eliminate a negative output gap. The credibility test is whether stronger activity and labor absorption subsequently narrow slack enough to increase domestic pricing power. Similarly, weak domestic demand may damp peso-to-consumer-price pass-through, but that is an estimated behavioral relationship, not a guarantee. A sustained weaker peso raises imported costs immediately even if firms initially absorb them in margins, and energy, tariffs, trade disruptions or expectations could amplify the second round. Conversely, a brief FX spike with rapid reversal gives little evidence of a sustained cost channel by itself.
+
+4) Rate differential, carry and the non-linear MXN risk. The domestic policy rate of 6.25% is 225bp above the 4.00% upper bound of the contemporaneous US policy range (3.75–4.00%). A hypothetical 25bp increase in that upper bound with an unchanged domestic rate would narrow this simple target-rate difference to 200bp. This is NOT a directly measured forward carry return: realized FX carry also depends on the term structure, hedging, basis, roll-down, positioning and spot changes. Reported TIIE swap pre-pricing (approximately 13bp for November and 22bp by December) explains why the economist-consensus surprise did not force a sustained spot dislocation. But once the rate buffer is thinner, the asymmetry may shift: an adverse US-rate or sovereign-risk shock could force a larger currency adjustment than a benign steady-state scenario suggests.
+
+5) Easing impulse versus market-delivered tightening. A 25bp cut can reduce short-rate funding costs and help floating-rate borrowers and fiscal debt service, but it is economically small and may be offset if investors demand a higher term or currency risk premium. The investment-manager concern about long-end Mexican yields rising after a credibility challenge is an explicit conditional hypothesis; no such observed release-window Mbono move was independently established. The institution's communication appears designed to harvest limited near-term easing without allowing investors to price an open-ended series of cuts. The combination nevertheless creates a distributional tension between borrowers benefiting from lower policy rates and savers/carry investors bearing reduced nominal compensation for peso risk.
+
+6) Reaction and measurement limits. Contemporary intraday reports put USD/MXN near 18.71 before the decision, 18.96 on the immediate spike, and 18.73 during the subsequent hour; Monex likewise reports a short-lived roughly 1.3% peso drop. Treat those as source-reported, time-specific observations, not a verified exchange closing-price series. Survey numerators vary across secondary accounts, so do not compute a precise analyst-surprise share from the conflicting Bloomberg counts. The 20:00 Reuters feed time is retained mechanically even though the official release corresponded to 13:00 Mexico City. The current inflation figures, full-month October releases and September industrial production are separately tracked publications and are not reconstructed inside this policy block.
+
+State transition: policy easing with a renewed extended-hold constraint — a narrow majority reopens the rate-cut channel for one meeting without validating a fresh easing cycle, while upside inflation and peso-pass-through risks become more binding to the next decision.
+
+Context from prior regional live file: September's unanimous 6.50% hold had dropped an explicit prolonged-pause signal while preserving upside inflation risks and acknowledging domestic slack. November uses that increased optionality for a 25bp cut, then restores extended-hold language at 6.25%. The change is in the near-term policy-rate setting and risk tolerance, not a confirmed improvement in underlying inflation or the medium-term target path.
+
+4. HF Take — Strategist Layer
+
+The incremental MXN information is a policy asymmetry: the majority has shown greater willingness to ease against an adverse FX backdrop, but then deliberately constrained expectations for follow-through. This reduces the value of a simple '3–2 dovish vote = multiple cuts' extrapolation, while increasing the importance of whether inflation and activity validate the Board's slack/pass-through assumptions. The core disagreement is between a fine-adjustment interpretation, where disinflation survives and 6.25% remains restrictive, and a credibility interpretation, where inflation and currency risks make even one cut poorly timed. Neither scenario is established by the one-day rate decision.
+
+For USD/MXN, the immediate 18.96 spike and reversal support the conclusion that the decision was partly priced, not that future peso downside is capped. The key state variables are the Banxico-versus-US short-rate path, the persistence of peso depreciation, relative inflation, and whether Mexico's long yields price greater sovereign/FX compensation. Under a benign US pause and stable core inflation, the new extended hold could preserve nominal carry and allow MXN to stabilize. Under renewed US tightening, persistent core/services inflation or greater local term premia, the narrower target-rate differential and exposed credibility tension would make MXN more vulnerable. This is conditional exposure mapping, not a verified directional trade entry or a current implied probability.
+
+What to verify next: (1) the full October headline/core inflation composition and whether non-core shocks diffuse into persistent core/services; (2) November 19 minutes explaining the 3–2 split, the quantitative slack/pass-through judgment and the meaning of extended hold; (3) US policy-rate path and the 225bp-versus-potential-200bp differential; (4) incoming activity, manufacturing orders and labor absorption that could shrink slack; (5) USD/MXN, TIIE swaps, Mbono term premia and inflation expectations on comparable timestamps. A changed Board composition after the dissenting deputy governor's December departure is a medium-term governance watch, not a present policy outcome.
+
+Macro configuration: cautious one-time monetary easing + announced extended pause + upward-revised near-term inflation + unchanged medium-term 3% convergence + expected slack + narrower US rate buffer + vulnerable but not demonstrably destabilized peso.
+
+MONDAY 9 NOVEMBER 2026
+
+MEXICO — INEGI CONSUMER PRICE INDEX / INPC (OCTOBER)
+Release Date: 9 Nov 2026 | Local Time: 13:00 (Reuters feed; 06:00 Mexico City)
+Importance: ****
+
+PM FLASH: Headline CPI rose 0.65% m/m versus 0.55% expected and reached 3.75% y/y versus 3.65% expected (from 3.45%). Core rose 0.34% m/m versus 0.31%, with annual core at 3.80% from 3.75%. Electricity increased 18.51% and contributed 0.215pp of the 0.651pp headline rise; services inflation reached 4.32% y/y.
+PM READ-THROUGH: The first full-month inflation print after the surprise rate cut weakens the near-term disinflation evidence, but much of the headline jump is seasonal/non-core. The smaller yet simultaneous core and services firming makes a sustained policy pause more defensible than further near-term easing; one month does not prove a new persistent inflation regime.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: One view treats tariff seasonality and inflation still inside the target tolerance band as consistent with a prolonged hold; another sees firmer core/services, peso weakness and a forecast overshoot as evidence that the preceding cut was poorly timed.
+Key takeaways: Electricity alone contributed roughly one-third of the monthly rise, but services +0.44% m/m deserve a separate persistence test. The October annual print is above the latest Q4 projected average, not proof that the quarter's forecast will be missed.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXINFL=ECI;9 nov;13:00;Med;Headline Inflation;Oct;0,65%;0,42%;;0,55%;0,100%
+MXCPIX=ECI;9 nov;13:00;Med;Core Inflation;Oct;0,34%;0,20%;;0,31%;0,030%
+MXCPIA=ECI;9 nov;13:00;Med;12-Month Inflation;Oct;3,75%;3,45%;;3,65%;0,100%
+
+2. Professional Market Commentary
+
+INEGI's 9 November official INPC bulletin confirms headline inflation at 3.75% y/y and 0.65% m/m, core at 3.80% y/y and 0.34% m/m, and non-core at 3.59% y/y and 1.75% m/m. The bulletin identifies the withdrawal of summertime electricity-tariff subsidies in 18 covered cities as a principal driver. The 0.65% October increase was the highest October monthly print since 2021, but this is a non-seasonally adjusted October comparison, not a measured seasonally adjusted acceleration. The newly accessible official incidence table strengthens the scout's composition analysis: electricity alone contributed 0.215pp to the 0.651pp monthly rise. Reuters (Aida Pelaez-Fernandez, 9 November) framed the stronger-than-expected headline and core results as supporting caution after the prior week's one-time rate cut, while noting that both remained inside the target's +/-1pp tolerance interval.
+
+William Jackson (Capital Economics; Reuters and his 9 November Mexico Consumer Prices research summary) argued that the renewed inflation strength and core persistence undermine a quick return to 3%; he expected Banxico to retain extended-hold guidance and anticipated inflation above its Q4 forecast. Felipe Hernandez (Bloomberg Economics; Bloomberg Linea, 9 November) saw limited scope for further falls in inflation, with energy and supply costs competing against slower demand and leaving inflation around current levels into 2027. Gabriela Siller (Banco Base; Reuters, Bloomberg Linea and El Cronista, 9 November) was more explicitly critical of the preceding policy cut, stressing renewed peso depreciation, services persistence and the risk of headline inflation moving back toward 4%; her assessment of a return to 3% in 2027 was strongly skeptical. These are distinct judgments about the durability of disinflation, not competing interpretations of the official data.
+
+Janneth Quiroz Zamora and Alan Daniel Olivares Chan (Monex; directly published 9 November note) documented the end of eight months of annual core disinflation, a first uptick in services annual inflation after four months of moderation, and non-core monthly inflation above the fifteen-year October seasonal average. Their composition read is especially useful because it separates the large tariff effect from the smaller core inflection. An unnamed Monex market-desk view relayed through Investing.com warned that disinflation had lost momentum at the margin, without establishing a fresh policy-path forecast. A secondary account of Governor Victoria Rodriguez Ceja's defence of the rate cut emphasized continued slack despite stronger activity; the underlying interview was not independently opened and is not treated as a fresh direct quotation.
+
+No CPI-specific intraday peso, TIIE, Mbono or equity reaction was verified. A 9 November Monex market-close note recorded USD/MXN at approximately 18.54 and a peso appreciation of 0.39% on the day, alongside a 0.62% decline in the dollar index and a broader risk-on backdrop. Those daily facts cannot be allocated to the 06:00 INPC release, which also coincided with the separate INPP publication. Later USD/MXN movements related to US inflation and trade headlines must not be attributed to this domestic price release.
+
+Principal evidence anchors:
+- INEGI, official INPC bulletin 684/26, 9 Nov: https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpc/inpc_2q2026_11.pdf
+- Reuters, Aida Pelaez-Fernandez, 9 Nov: https://www.reuters.com/world/americas/mexicos-headline-inflation-accelerates-more-than-expected-october-2026-11-09/
+- Monex, Janneth Quiroz Zamora / Alan Daniel Olivares Chan, 9 Nov: https://www.monex.com.mx/portal/download/reportes/261109%20Mex%20Inflacion%20Ev.pdf
+- Capital Economics, William Jackson, 9 Nov: https://www.capitaleconomics.com/publications/latin-america-rapid-response/mexico-consumer-prices-october-2026
+- Bloomberg Linea, Gonzalo Soto / Alex Vasquez, 9 Nov: https://www.bloomberglinea.com/latinoamerica/mexico/inflacion-de-mexico-sube-a-375-mas-de-lo-esperado-y-pone-bajo-presion-el-reciente-recorte-de-tasas/
+- El Cronista Mexico, 9 Nov: https://www.cronista.com/mexico/finanzas-economia/inflacion-vuelve-a-meter-presion-a-banxico-sube-a-375-y-la-subyacente-prende-alertas/
+- Monex, market close 9 Nov: https://www.monex.com.mx/portal/download/reportes/AlCierre%2020261109%20ing.pdf
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The dominant October inflation event is a non-core/tariff shock overlaid on a smaller but policy-relevant loss of underlying disinflation momentum. Headline annual inflation accelerated 0.30pp and beat the Reuters poll by 0.10pp; core also surprised upward monthly, with annual core rising 0.05pp to 3.80% after eight months of deceleration. The report neither validates a newly generalized inflation spiral nor restores the smooth disinflation assumption used to justify the 5 November easing. The correct high-frequency hierarchy is electricity seasonality first, renewed core-services momentum second, peso/import-cost pass-through as a hypothesis requiring future verification rather than a measured driver of this specific CPI print.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Composition and exact contribution arithmetic. The official bulletin provides both inflation rates and direct incidence contributions, eliminating the need to infer relative weights from category percentage changes:
+
+INPC component                     Sep YY  Oct YY  Oct MM  Oct monthly incidence (pp)
+Headline CPI                         3.45    3.75    0.65       0.651
+Core / subyacente                    3.75    3.80    0.34       0.261
+  Goods                              3.21    3.25    0.22       0.084
+  Services                           4.27    4.32    0.44       0.178
+Non-core / no subyacente             2.45    3.59    1.75       0.390
+  Agricultural                       0.79    2.99    1.27       0.126
+  Energy + administered tariffs      3.81    4.06    2.13       0.264
+
+Source: INEGI bulletin 684/26; September annual comparisons are also confirmed by Monex. Incidence sums can vary by rounding. Non-core accounted for about 60% of October's measured monthly headline rise (0.390 of 0.651pp), while core contributed about 40% (0.261pp). The apparently modest core contribution must not be dismissed: underlying inflation is generally the more informative medium-term policy signal, whereas the non-core share includes an identifiable seasonal administered-price change.
+
+2) Electricity/tariff seasonality and inflation breadth. The summer electricity subsidy ended in 18 cities. The 18.51% monthly electricity-price increase contributed 0.215pp, about one-third of the headline monthly CPI change. The same policy-timing effect can create high regional monthly inflation without establishing broad demand pressure: Tabasco rose 2.39%, Yucatan 1.59%, Quintana Roo 1.36% and Nuevo Leon 1.25%, while Sinaloa rose only 0.12%. The INPC's unadjusted October +0.65% was higher than October 2025's +0.36%, and non-core +1.75% exceeded the fifteen-year same-month average of +1.37% reported by Monex. The subsidy effect is large but does not automatically make the rest of the print benign.
+
+Official product-level contributors to headline CPI, Oct MM:
+Product                                 Price change %   Contribution (pp)
+Electricity                                 +18.51             +0.215
+Air passenger transport                     +26.36             +0.068
+Tomato (jitomate)                            +9.68             +0.055
+Domestic LP gas                              +3.67             +0.051
+Green tomato (tomatillo)                    +35.58             +0.040
+Internet/telephone/pay-TV packages           -2.48             -0.026
+Potatoes and tubers                           -6.29             -0.022
+Lemon                                        -16.53             -0.019
+Orange                                        -8.90             -0.012
+Automobiles                                   -0.47             -0.011
+
+Source: INEGI Table 2; these are contributions to aggregate CPI, not the corresponding category's full weight. Electricity plus air transport alone contributed 0.283pp, but individual contributors include volatile non-core goods and seasonal services; they are not measures of persistent inflation trend. The product mix helps explain why a headline surprise can coexist with a much more modest core surprise.
+
+3) Core-services inflection and level-versus-momentum. Annual core edged up to 3.80% from 3.75%, ending eight consecutive months of moderation, while monthly core +0.34% beat the +0.31% poll. Services increased 0.44% m/m versus 0.26% in September, and annual services moved to 4.32% from 4.27%. Goods prices increased 0.22% monthly and 3.25% annually, versus 0.14% and 3.21% in September. Tuition inflation stood at 5.84% y/y, while the broad 'other services' category, which includes restaurant and tourist services, stood at 4.87% y/y and rose 0.69% m/m. The service-price level and renewed monthly momentum matter more for Banxico than the electricity adjustment, although one stronger month is insufficient to show a sustained wage-price or FX-pass-through process. In contrast, core goods inflation of 3.25% remains below October 2025's 4.12%, and annual services inflation remains below October 2025's 4.44%: an inflection from recent lows is not equivalent to a year-on-year regime breakout.
+
+4) Banxico forecast test and pass-through distinction. The 5 November Board raised its Q4 2026 projected average to 3.7% for both headline and core, while retaining convergence at 3.0% in Q4 2027. October headline 3.75% and core 3.80% sit above those quarterly averages, but the remaining Q4 months could still produce a matching three-month average. The new observation raises the burden of proof on the projected path, not a mechanically certain forecast miss. The peso depreciation and higher imported producer costs are plausible forward channels; the report does not quantify their contribution to October's observed 0.34% core or establish that tariffs and air fares reflect FX pass-through. Additional monthly core data, tradable-goods prices, housing and other services must separate seasonality from a persistent de-anchoring process.
+
+5) Cross-release reconciliation. The parallel INPP publication shows much stronger producer-price pressure, especially energy-related mining, transport and manufacturing intermediate goods. However, INPP includes export production and crude oil whereas consumer CPI has different coverage and weights. A cost shock can reduce margins, raise export prices or be postponed by contracts instead of appearing immediately in household goods prices. The October CPI establishes mild core persistence and a strong seasonal headline rise; it does not prove that the full 5.60% INPP annual increase is already reaching consumers. The 9 November market-close peso appreciation also cannot resolve this macro tension because it is dominated in contemporaneous desk reporting by a weaker broad USD and risk context, not a clean domestic inflation surprise reaction.
+
+State transition: deterioration at the margin — headline inflation accelerates mainly on seasonal/non-core prices, while the first rise in annual core and firmer services interrupt disinflation without confirming a broad persistent inflation reversal.
+
+Context from prior regional live file: September headline inflation was 3.45% and core 3.75%, while the early-November policy assessment maintained that disinflation was continuing despite peso weakness. October adds a large administered-electricity effect plus a smaller but genuine underlying/services inflection. This increases the burden of proof on further disinflation and reinforces the announced policy pause rather than establishing a new inflation regime.
+
+4. HF Take — Strategist Layer
+
+What changed is the credibility of the 'one-time adjustment then extended hold' configuration. The inflation print does not force a policy reversal: most of the monthly rise is non-core and still inside the central bank's 3% +/-1pp tolerance band. But simultaneous core and services firming diminishes confidence in an easy path to 3% and raises the threshold for reopening the easing cycle. The contrast with the Banxico majority's slack/limited-peso-pass-through framework is now testable rather than merely theoretical: a continuation of strong core services, tradables inflation or rising expected inflation despite slack would weaken that argument. Differentiated professional research accordingly spans a stable extended-hold expectation and a stronger criticism of the earlier cut; those positions should not be conflated with a consensus for immediate re-tightening.
+
+The FX/rates transmission is conditional. Further core inflation and an adverse US rate decision would create a poor mix for MXN carry: less nominal differential, potentially worsening real risk-adjusted returns and greater sensitivity to any domestic long-end term-premium response. Conversely, a seasonal fade in electricity and food inflation alongside stable core and a steady US policy rate could validate the prolonged hold without demanding another domestic move. No CPI-specific peso repricing has been demonstrated; the 9 November daily appreciation in a weaker-dollar session argues particularly strongly against causal attribution without minute-level event evidence.
+
+What to verify next: (1) November first-half CPI and subsequent monthly core/services momentum; (2) persistence in housing, restaurant/other services and non-food tradable goods; (3) October's contribution-adjusted tariff effect versus comparable autumn seasons; (4) exchange-rate changes, inflation expectations and actual import-to-retail pass-through; (5) Banxico minutes and the subsequent official forecast profile. Macro configuration: seasonal administered-price shock + modest core/services re-acceleration + recent MXN depreciation risk + narrow policy-rate differential + extended-hold guidance under greater inflation scrutiny.
+
+MEXICO — INEGI PRODUCER PRICE INDEX / INPP (OCTOBER)
+Release Date: 9 Nov 2026 | Local Time: 13:00 (Reuters feed; 06:00 Mexico City)
+Importance: ***
+
+PM FLASH: The supplied feed reports producer prices +1.8% m/m and +5.6% y/y (from +1.4% and +4.1%); no poll is supplied. The official oil-inclusive INPP instead reports +1.92% m/m and +5.60% y/y. Intermediate prices rose 5.85% y/y, final prices 5.51%; crude oil and air transport drove much of the monthly increase.
+PM READ-THROUGH: Producer inflation is stronger and broad enough to warrant a close pipeline check, particularly for industrial intermediates, but the headline is heavily affected by oil, transportation and export-related prices. It reinforces the inflation-risk side of the cumulative MXN note without proving proportional pass-through into household core inflation.
+PM DEBATE & KEY TAKEAWAYS:
+Key takeaways: Crude oil and passenger air transport contributed 0.625pp of the official 1.92% monthly rise; manufacturing intermediates reached 6.84% y/y, compared with 3.53% for manufacturing final goods. The feed monthly level is unreconciled to the official total and must remain flagged.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXPPIM=ECI;9 nov;13:00;High;PPI MM;Oct;1,8%;1,4%;;;
+MXPPIY=ECI;9 nov;13:00;High;PPI YY;Oct;5,6%;4,1%;;;
+
+Critical data-quality exception: INEGI bulletin 685/26 shows total INPP including petroleum at +1.92% m/m and +5.60% y/y; the Reuters monthly actual is 1,8% and is not a rounding of 1.92%. An alternative oil-excluding/services-including INPP series at +1.63% m/m and +4.61% y/y also does not match. The original Reuters rows are left untouched pending feed-series reconciliation.
+
+2. Professional Market Commentary
+
+INEGI's 9 November producer-price bulletin reports a marked acceleration in total oil-inclusive PPI to 5.60% y/y from September's approximately 4.05%, with the October monthly rate at 1.92%. Oil, mining, air transport, transportation equipment and electronics drove important parts of the monthly move; intermediate input prices rose more rapidly annually than finished manufactured goods. The accompanying journalist recaps (Edomex Al Dia and El Economista, 9 November) largely reproduce the official release and highlight crude oil and air fares. They do not provide an independent causal model or identify a material named economist debate. No Tier 1 institutional debate detected.
+
+The connection to monetary policy was mainly indirect: the existing Banamex critique of the 5 November surprise cut cited rising producer-price pressure alongside peso depreciation and stronger-than-expected growth as reasons to avoid easing. This is an attributable broader policy objection, not newly verified release-specific INPP research. There is no basis to elevate the price-index increase into a bank consensus forecast of inflation pass-through or into a new rate call. No PPI-specific intraday MXN, Mbono, TIIE or equity response was established; INPP and INPC shared the same 06:00 Mexico City publication window. Monex's later market-close peso appreciation was attributed to wider dollar/risk conditions, not separately to the producer-price release.
+
+Principal evidence anchors:
+- INEGI, official INPP bulletin 685/26, 9 Nov: https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/inpp/inpp2026_11.pdf
+- El Economista, Sebastian Estrada, 9 Nov: https://www.eleconomista.com.mx/empresas/precios-productor-mexico-aceleran-avance-5-60-anual-octubre-20261109-842904.html
+- Edomex Al Dia, 9 Nov: https://edomexaldia.com/petroleo-y-transporte-aereo-impulsan-alza-de-precios-al-productor-suben-5-60-anual/
+- Reuters/INEGI-consistent CPI and Banxico research context: https://www.reuters.com/world/americas/mexicos-headline-inflation-accelerates-more-than-expected-october-2026-11-09/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+The producer-price shock is significant but heterogeneous. October's annual total increase to 5.60%, versus roughly 4.05% in September and 2.95% one year earlier, reflects both oil/mining repricing and greater cost pressure across parts of manufacturing, transport and intermediate inputs. The official monthly rise of 1.92% is materially faster than the previous month's 1.37%, but its exact representation in the Reuters monthly row is unresolved. The actionable analytical split is between directly energy/transport-sensitive prices, domestically consumed final production and costs that could later move into core household goods. The report strengthens a pipeline-risk hypothesis; it does not measure household-price diffusion directly.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Aggregate, destination and use decomposition. The official bulletin reports the oil-inclusive national index, which is broader than any single domestic consumer pipeline measure:
+
+INPP measure / destination                    October MM    October YY
+Total INPP, including petroleum                   +1.92%         +5.60%
+Intermediate-use goods and services               +1.88%         +5.85%
+Final-use goods and services                      +1.94%         +5.51%
+Final products for domestic demand                +1.43%         +5.20%
+  Domestic final consumption                      +1.58%         +5.33%
+  Capital formation                               +1.03%         +4.86%
+Final products for export                         +3.34%         +6.35%
+Final merchandise                                 +2.22%         +5.48%
+Final services                                    +1.46%         +5.54%
+
+Source: INEGI bulletin 685/26, tables 1 and 6. The exporter-versus-domestic discrepancy is economically material: export pricing and crude-oil changes need not feed one-for-one into domestically consumed CPI. The final-use categories comprise different production baskets, so a higher 6.35% export price change cannot be interpreted as direct price pressure on Mexican households. The +5.85% intermediate reading matters for margins and later consumer-price pressure only conditional on contracts, currency adjustment and pricing power.
+
+2) Sectoral contribution concentration. The origin breakdown is uneven across output categories:
+
+Activity / source                         October MM   October YY  MM contribution (pp)
+Primary production                            -0.47%      +1.05%           -0.018
+Secondary production                          +2.44%      +6.08%           +1.537
+  Mining                                      +8.18%     +31.71%           +0.399
+  Manufacturing                               +2.15%      +4.46%           +1.022
+  Electricity/water/gas distribution          +2.81%      -5.74%           +0.062
+  Construction                                +0.65%      +6.23%           +0.055
+Tertiary production                           +1.21%      +5.24%           +0.401
+Total                                         +1.92%      +5.60%           +1.920
+
+Source: INEGI, original-source incidence table. Manufacturing generates a larger aggregate monthly contribution than mining even though mining's annual rate is much higher, because weights differ. This is important evidence of wider industrial pressure, but also a reminder that oil-related input changes inflate multiple linked series. Secondary-sector contributions account for about four-fifths of the monthly index increase.
+
+3) Individual-price concentration and potentially durable input channels. Two conspicuous prices alone explain almost one third of the aggregate monthly change:
+
+Selected INPP product                      October price MM   MM incidence (pp)
+Crude petroleum                                +15.23%               +0.323
+Air passenger transport                        +37.87%               +0.302
+Gasoline                                        +4.60%               +0.093
+Residential electricity                        +18.51%               +0.061
+Communications equipment                       +6.56%               +0.056
+Computers and accessories                      +3.16%               +0.055
+Fuel oil                                       +13.87%               +0.045
+Automotive parts                               +5.41%               +0.034
+Natural gas                                    +5.28%               +0.031
+Copper                                         +7.29%               +0.028
+Silver                                         -5.04%               -0.047
+Avocado                                        -6.86%               -0.012
+Orange                                        -11.08%               -0.010
+
+Source: INEGI Table 3. Crude oil and air transport contribute 0.625pp of the 1.920pp overall move. Freight, mail and storage increased 3.59% m/m and 8.07% y/y and contributed 0.314pp by sector, while transport equipment added 0.310pp and computing/electronics 0.187pp. Product-incidence and sector-incidence groupings overlap: they are alternative decompositions of the SAME total and must not be summed together. Fuel, freight, metals and technology components are plausible intermediate-cost channels for later inflation; the index alone cannot establish pass-through timing or the exchange-rate share.
+
+4) Manufacturing pipeline versus final household prices. Within manufacturing, intermediate inputs climbed 6.84% y/y, compared with 3.53% for manufacturing final products, indicating a meaningful price gradient inside the production chain. This can pressure gross margins where output-price competition prevents full increases, generate delayed repricing where contracts reset, or temporarily inflate inventory valuations. It is not proof of an imminent 3.31pp increase in CPI. The simultaneous INPC shows services inflation at 4.32% y/y and core goods only 3.25% y/y; consumer categories and producer categories are not directly comparable, but the gap supports monitoring incomplete transmission rather than assigning the entire producer shock to households. The distinct +1.43% monthly figure for domestic final demand is informative but contains both goods and services and should not be equated to monthly consumer inflation.
+
+5) Vintage, definitions and revision risk. The Reuters row of +1.8% m/m cannot be mapped unambiguously to the official +1.92% total including oil, or to the alternative +1.63% ex-oil/services-including measure. It may refer to a differently configured Bloomberg/Reuters series, but this is an unverified possibility rather than a justified correction. September's feed prior +1.4% is consistent with the official 1.37% when rounded, unlike the October mismatch; September annual +4.1% is similarly consistent with official +4.05%. INPP uses a July 2019 base, a revised 2025 generic-item basket and an index-chain link introduced during 2025. Initial estimates may be revised for up to five months, particularly oil-related observations. Comparisons should respect this definition and revision sensitivity; a broad October PPI print is not a direct or seasonally adjusted measure of demand inflation.
+
+State transition: deterioration in upstream inflation — a stronger oil/transport impulse coincides with materially firmer manufacturing-intermediate and production costs, but the scale and persistence of domestic consumer pass-through remain unproven.
+
+Context from prior regional live file: September annual producer inflation was around 4.05%, while Banxico's prior assessment expected limited broad price transmission under slack. October extends the producer-price acceleration to 5.60% and exposes an intermediate-versus-final manufacturing gap. The established change is in pipeline cost pressure, not yet in measured generalized household-price inflation.
+
+4. HF Take — Strategist Layer
+
+The incremental signal is a more uncomfortable upstream inflation configuration after Banxico's one-time 25bp cut. A high oil-inclusive producer index can be volatile and partly export-related, but intermediate manufacturing prices at 6.84% and construction/transport input pressure mean the inflation issue cannot be dismissed as exclusively domestic electricity seasonality. The distinction matters for the policy reaction function: the Board's slack argument is about limiting final-price pass-through, whereas the data already establish upstream repricing. An inflation squeeze absorbed in corporate margins would be more growth-negative than a generalized consumer inflation acceleration; durable pass-through into tradable core goods and services would instead weaken the rationale for additional easing.
+
+For MXN, stronger pipeline inflation is not automatically currency-positive through nominal rates. If it produces higher imported-input burdens, weaker real purchasing power or greater inflation-risk premia while the policy differential stays narrow, it could worsen the risk/reward of carry. If oil, airfare and seasonal effects normalize without core spillover, the case for extended hold remains intact and there is no reason to assign a fresh hawkish market repricing to this release. Distinguishing domestic final output from export-oriented energy pricing is more useful than extrapolating the +5.60% PPI headline to an immediate benchmark-rate change. No separately attributable 9 November market response was verified.
+
+What to verify next: (1) the producer-index series identifier behind Reuters' 1.8% monthly value; (2) November INPP after volatile oil and air fares; (3) manufacturing-intermediate versus final-goods inflation and freight/energy components; (4) tradable core consumer goods, services and margins in subsequent INPC; (5) peso/import costs, contract resets and revisions to September/October production-price indexes. Macro configuration: broadening producer cost pressure + oil/airfare concentration + intermediate-manufacturing pricing gap + incomplete consumer pass-through + reduced monetary policy flexibility.
+
+WEDNESDAY 11 NOVEMBER 2026
+
+MEXICO — INEGI INDUSTRIAL ACTIVITY / IMAI (SEPTEMBER)
+Release Date: 11 Nov 2026 | Local Time: 13:00 (Reuters feed; 06:00 Mexico City)
+Importance: ****
+
+PM FLASH: Official industrial activity fell 1.4% m/m in September against the Reuters-feed poll of -0.2%, with manufacturing -1.7% and construction -2.0%; the original Reuters actual fields were blank and remain so below. Annual growth was +1.3% on unadjusted data, or +1.4% seasonally adjusted, with construction responsible for most of the positive annual performance. Sixteen of 21 factory branches contracted month on month.
+PM READ-THROUGH: Hard data deliver a more significant slowdown signal than the earlier near-neutral PMI: September interrupted three monthly industrial gains and left Q3 barely above Q2. Weak realized manufacturing and private-building activity support Banxico's spare-capacity argument, but positive aggregate Q3 GDP and public-works activity limit the scale of any economy-wide inference.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: Broad manufacturing and building weakness supports a cautious activity view, whereas positive annual output, civil-engineering resilience and prospective US manufacturing demand sustain a conditional recovery scenario.
+Key takeaways: The annual construction contribution is unusually dependent on public works; hardware/electronics and transport-equipment declines challenge a simple nearshoring boom narrative. August's official updated chart shows +0.2% m/m versus the feed's +0.6% prior, increasing revision sensitivity. Verify whether output breadth and private construction recover.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+MXIPY=ECI;11 nov;13:00;Med;Industrial Output YY;Sep;;3,5%;;3,4%;
+MXIP=ECI;11 nov;13:00;Med;Industrial Output MM;Sep;;0,6%;;-0,2%;
+
+Official data (not additions to or replacements for Reuters Layer 0): INEGI September IMAI -1.4% m/m, seasonally adjusted; +1.4% y/y, seasonally adjusted; +1.3% y/y, original/unadjusted. The corresponding Reuters actual fields remain blank. No Reuters feed surprise is reconstructed.
+
+2. Professional Market Commentary
+
+INEGI bulletin 688/26 (11 November) establishes a -1.4% seasonally adjusted monthly fall in September industrial activity, with manufacturing -1.7% and construction -2.0% versus August, partly offset by mining +0.4% and utilities +1.4%. This is the steepest monthly decline since October 2024. On a seasonally adjusted annual comparison the industrial sector still rose 1.4%, driven chiefly by construction +6.4%; annual manufacturing was only +0.5% and mining -1.5%. Separate unadjusted official data show +1.3% total year on year. That positive annual comparison and the negative current monthly rate are both true and should not be conflated.
+
+Enrique Covarrubias, Ramon de la Rosa and Samuel Martinez (Actinver Analisis, direct 11 November institutional note) put the result in a business-cycle and investment-composition framework. They reported that 16 of 21 manufacturing branches contracted monthly, including transport equipment -4.1% and electronics -2.1%. Construction was dragged down by building -3.6%, while civil engineering rose +4.5%. They calculated that construction contributed 1.2pp and manufacturing only 0.3pp to annual industrial growth. Their interpretation is differentiated from a simple collapsing-industry view: public construction investment had grown 13.9% y/y in January-August versus 2.9% for private construction, and they maintained a 1.9% forecast for 2026 GDP, counting on a future US manufacturing-demand impulse.
+
+Janneth Quiroz and Rosa Rubio (Grupo Financiero Monex, quoted by Octavio Amador in El Economista, 11 November) concluded that a generalized industrial recovery was still absent, looking for confirmation from late-year manufacturing and a reversal in the building contraction; their Q4 expectation remained moderate and uneven. Gabriela Siller (Banco Base, quoted by Alto Nivel, 11 November) emphasized the severity of the September monthly fall and the concentration in manufacturing and construction. These are complementary emphases on the quality and breadth of realized weakness, whereas the prospective-US-demand optimism supplies a genuine conditional offset. The annual construction contribution demonstrates why year-on-year positivity is not the same as a convincing contemporaneous expansion.
+
+Q3 GDP context matters: contemporary coverage put the flash Q3 GDP estimate at +0.9% q/q and +3.2% y/y, following +1.4% q/q in Q2. Industrial activity increased only about 0.1% q/q in Q3 after +1.5% in Q2 (reported by El Economista), a much softer sectoral profile. These GDP and quarterly references are contextual data rather than additional Reuters publication blocks or proof that all industries were contracting throughout Q3. No September industrial-output release-specific move in USD/MXN, Mbonos or TIIE was established.
+
+Evidence anchors:
+- INEGI, IMAI bulletin 688/26, 11 Nov: https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/imai/imai2026_11.pdf
+- Actinver Analisis, Enrique Covarrubias / Ramon de la Rosa / Samuel Martinez, 11 Nov: https://www.actinveranalisis.com/w/industria-pierde-impulso-en-septiembre
+- El Economista, Octavio Amador (relayed), 11 Nov: https://es-us.noticias.yahoo.com/industria-mexicana-borra-septiembre-avance-183944295.html
+- Alto Nivel, 11 Nov: https://www.altonivel.com.mx/actividad-industrial-en-mexico-cae-1-4-en-septiembre-e-interrumpe-tres-meses-al-alza/
+- Official INEGI press calendar confirmation: https://en.www.inegi.org.mx/app/saladeprensa/calendario/noticia/9662
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+September's 1.4% monthly industrial fall is a material negative hard-activity surprise versus the -0.2% Reuters feed poll, and a stronger signal than the marginal October PMI dip. The decisive information is the breadth of weakness in manufacturing, the halt in recent industrial momentum and the separation between resilient public civil-engineering work and weak private building. The result supports the proposition that Mexico retains meaningful industrial slack despite the strong Q3 aggregate GDP estimate, but it cannot settle the magnitude of economy-wide slack or prove that manufacturing cannot recover after a volatile monthly observation.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Official series and level-versus-change distinction:
+
+IMAI / real industrial activity             Sep MM, SA      Sep YY, SA      Sep YY, original
+Total                                               -1.4%            +1.4%                 +1.3%
+Manufacturing                                       -1.7%            +0.5%                 +0.6%
+Construction                                        -2.0%            +6.4%                 +4.9%
+Mining                                              +0.4%            -1.5%                 -1.4%
+Electricity, water and gas                          +1.4%            +3.4%                 +3.4%
+
+Source: INEGI bulletin 688/26. The seasonally adjusted industrial index was 101.5 (2018=100) in September; a +1.4% annual rate does not imply that September industrial activity was growing sequentially. Differently adjusted annual rates (+1.3% original and +1.4% SA) are both valid, and the original-series number matches the reported September Reuters annual headline. The user-supplied feed has no actuals, so the figures here are independently labelled official-source values, not a mechanical fill of Section 1.
+
+2) Breadth, equipment industries and inventories. Manufacturing -1.7% m/m was broad, covering 16 of 21 reported branches. Transport equipment fell 4.1%, technology/electronic equipment 2.1%, basic metals 3.9% and petroleum/coal-related manufacturing 9.1% in the press decomposition; annual original-series positives were narrower, including machinery +7.3% and computing/electronics +4.9%, against furniture -6.8%, apparel -6.6% and textile inputs -6.4%. September electronics' monthly fall interrupted a six-month rising run, an important caution against inferring uninterrupted gains from US data-center and nearshoring demand. Sector figures describe different horizons: year-on-year positive manufacturing branches can be correcting sharply at the margin. The October private PMI subsequently found falling factory output, purchasing and employment with still-positive forward orders, supporting a near-term production weakness but preserving a potentially different future trajectory.
+
+3) Construction: public versus private transmission. Total construction fell 2.0% month on month and building 3.6%, while civil-engineering works rose 4.5% for a third monthly gain; specialized work fell 1.7%. Public construction-investment growth of 13.9% y/y versus 2.9% for private investment during January-August is consistent with the resilience of the civil-engineering segment, although the two measures differ in coverage and timing. Construction contributed about 1.2pp of +1.4% total annual industry growth, versus just 0.3pp from manufacturing, according to the institutional decomposition. This is a concentration risk: public infrastructure programs can support industrial value added and annual comparisons while private buildings, business capex and factory employment lose momentum. It is not a fully self-sustaining private investment cycle.
+
+4) Quarterly arithmetic and growth/slack reconciliation. September wiped out an appreciable part of June-August's sequential gain, and industrial Q3 growth was reported at only +0.1% q/q after +1.5% in Q2. Meanwhile Q3 flash aggregate GDP was +0.9% q/q and +3.2% y/y: stronger services or other sectors may explain the gap, but a national accounts sectoral decomposition is needed before allocating it. These observations make it possible for Banxico to cite macro slack without denying measured aggregate expansion. More important for inflation is whether declining factory utilization and private construction constrain local final-pricing power despite cost shocks; September IMAI itself does not report capacity utilization, wages, labor-market slack or price pass-through coefficients.
+
+5) Reuters-prior and revision issues. The Reuters row lists the August monthly prior as +0.6%, but the 11 November INEGI monthly-history chart displays August +0.2%. Opened secondary calendars also show +0.2% as the updated previous value. That is consistent with a downward revision or a source-series mismatch, but the official bulletin does not label a numerical revision in an explicit amendment table. The difference is therefore preserved as an unresolved comparability/revision flag, NOT silently written over the Reuters prior. Revisions can affect estimates of Q3 carry and compounded monthly performance. Separate original-versus-SA annual conventions explain the +1.3% versus +1.4% headlines without data conflict.
+
+6) Policy/FX transmission and counter-signals. The later Banxico cut (5 November) preceded publication of this September hard-data release; one must not retrospectively assign this report to the immediate decision motive. It does, however, offer post-decision evidence consistent with weak manufacturing conditions and limited domestic demand inflation. Subsequent CPI showed more stubborn core services and INPP faster upstream inflation, so easing is not automatically justified by weak industry. The marginal October PMI, with positive orders and exports, and stronger official October orders expectations complicate extrapolation of September's collapse. No attributable release-specific FX or rates reaction was identified.
+
+State transition: deterioration in realized industrial activity — September reverses several months of gains through broad factory and building weakness, while positive annual output, public civil-engineering support and still-firm Q3 economy-wide GDP prevent treating the decline as an established general recession.
+
+Context from prior regional live file: Industrial activity advanced in June-August, while annual growth was largely sustained by construction and manufacturing contributed only modestly. September's -1.4% monthly decline interrupts that recovery, with building and transport/electronic equipment weakening despite continued public civil-engineering support. The industry-level growth signal deteriorates, but broader quarterly GDP and forward orders leave the durability of the setback open.
+
+4. HF Take — Strategist Layer
+
+This is the week's strongest hard-growth downside observation. The fall in factory output, breadth of branch declines and building weakness increases confidence that the Mexican recovery is not uniformly demand-led, and retroactively makes October's PMI softness more substantive as a near-term warning (without implying the September observation caused the earlier policy decision). It validates the plausibility, not the exact quantitative magnitude, of the demand-slack channel invoked by the Banxico majority. The offset is important: Q3 GDP did expand, annual industrial growth remained positive and civil engineering benefited from public investment; the evidence does not support replacing the whole-cycle narrative with a one-month recession call.
+
+The more decision-relevant macro tension now is weak real manufacturing output versus rising core-services and intermediate-goods inflation. If falling private building and manufacturing volumes contain consumer-cost pass-through, an extended hold at 6.25% could be credible. If energy/FX costs transmit to core despite weaker activity, Banxico may face a growth-inflation tradeoff with more volatile peso risk premia and less room to protect MXN carry through the narrow rate differential. A fresh cut inferred solely from this hard-output disappointment would disregard the CPI/PPI evidence and the explicit Board guidance; an immediate hike inferred solely from CPI would disregard slack and the one-off seasonal impulse. No specific policy repricing is attributed to the release without event-window evidence.
+
+What to verify next: (1) next month's seasonally adjusted IMAI and any August/September revisions; (2) manufacturing breadth, especially autos, electronics, metals and input-related sectors; (3) construction building versus civil engineering, and public/private investment volumes; (4) Q4 orders/export shipments against realized production and employment; (5) consumer core-services and final-goods inflation relative to cost shocks. Macro configuration: weak and broad September hard industrial momentum + concentrated public-works annual support + resilient aggregate Q3 GDP + tentative forward export/order stabilization + stronger price pressures + conditional Banxico hold.
+
+D. CENTRAL BANK TAPE
+
+Summary — Banxico reaction function (point-in-time through 14 November 2026)
+The 5 November official decision cut the policy rate by 25bp to 6.25%, effective 6 November, on a 3–2 vote: Victoria Rodríguez Ceja, Gabriel Cuadra and Omar Mejía supported easing; Galia Borja and Jonathan Heath preferred 6.50%. The majority called this a one-time adjustment followed by maintenance of the attained level for an extended period. Q4 2026 headline/core inflation forecasts rose to 3.7%, the expected return to 3% remained Q4 2027, and risks remained skewed upward. The subsequent in-window communications made the pause explicitly data-dependent rather than time-bound. The policy split is over whether the cut was justified and whether the new rate is sufficiently restrictive, not evidence of an immediate majority appetite for repeated cuts. Source-confidence distinction: the statement is an opened official primary text (High); individual remarks below are dated reporting of interviews/podcast or translated wire material (Medium), not official transcripts. No unverified December meeting probability is inferred.
+
+BANXICO GOVERNING BOARD — Official policy statement — 5 Nov 2026
+Importance: **** | Publication: 5 Nov | Source: Banxico official monetary-policy statement (High)
+Key policy signal: A 25bp cut to 6.25% effective 6 Nov, with three votes for easing and two for holding 6.50%. The majority cited underutilized capacity and limited peso-to-consumer-price transmission despite the currency's recent depreciation. The new target rate was to be held for an extended period, even as Q4 inflation projections were lifted and the inflation-risk balance remained adverse.
+Representative quote (official English): “maintaining the reference rate at the attained level for an extended period”
+Incremental interpretation: A genuine rate-setting change after the preceding holds, coupled with a stronger pause constraint; neither an open-ended cutting cycle nor an explicit future hike commitment.
+Official source: https://www.banxico.org.mx/canales/%7B3F111036-B260-B41A-1DD5-CD54883DB4E2%7D.pdf
+
+VICTORIA RODRÍGUEZ CEJA — Governor; majority — 5, 8 and 10 Nov 2026
+Importance: **** | Publication: Imagen Radio 5 Nov; El Financiero 8 Nov; Bloomberg/Bloomberg Línea 10 Nov | Reporting confidence: Medium
+Key policy signal: In the 5 Nov radio appearance she defended limited exchange-rate pass-through and described the inflation rebound as expected and predominantly non-core; the 8 Nov interview said a 25bp adjustment had been discussed since September but was not predetermined, and characterized the recent peso move as orderly. The 10 Nov Bloomberg account reaffirmed that this was a one-off move, not the start of successive cuts, and that the length of the hold depends on incoming inflation. Banxico and the Fed can react to different domestic cycles without a mechanical differential rule. The 10 Nov publication follows the 9 Nov CPI release, so this is a post-CPI defense, not an earlier prediction.
+Representative quotes (Spanish as reported): “cualquier posible traspaso de movimientos cambiarios a los precios sería limitado” (Imagen Radio); “No tenemos en mente un plazo concreto” (Bloomberg Línea).
+Incremental interpretation: The governor narrows the inference from the surprise cut: pause guidance is conditional but not calendar-fixed. Her benign pass-through assertion is a Board assessment to be tested against core/services data, not a measured fact.
+
+OMAR MEJÍA CASTELAZO — Deputy Governor; majority — 11 Nov 2026, reported 12 Nov
+Importance: *** | Venue: Banorte Norte Económico podcast; Infobae / Forbes México / El Economista reports | Reporting confidence: Medium (original audio not opened)
+Key policy signal: The cut calibrated an otherwise sufficiently restrictive stance and had been signaled in earlier communication; it did not begin a new sequence of reductions. The US–Mexico rate differential matters but is not a mechanical constraint, and the Board retains discretion if the outlook changes.
+Representative quote (Spanish, reporting): “no estamos ante el inicio de una nueva secuencia de reducciones”
+Incremental interpretation: Strong corroboration of Rodríguez's center-of-Board framing. Whether 6.25% is actually restrictive is contested by external analysts and the hawkish dissent; no speaker-specific path or timing for another move is given.
+
+GALIA BORJA — Deputy Governor; dissenter — 9 Nov event, published 11 Nov 2026
+Importance: *** | Venue: Bloomberg Línea Summit; reported by Bloomberg Línea / Zenyazen Flores | Reporting confidence: Medium
+Key policy signal: Borja placed greater weight on the difficult final stretch toward 3%, persistent services inflation and external energy risks. She clarified that opposing this cut did not mean considering it recklessly rushed, and she regarded a December hold at 6.25% as very likely on the public guidance available then. She does not present a case for an immediate hike.
+Representative quote (Spanish, reporting): “soy más conservadora y le asigno más peso a los riesgos”
+Incremental interpretation: Distinct from Heath: a dissent on relative risk weights, compatible with the near-term pause. The scout's reference to the 19 Nov minutes is chronologically post-window and is EXCLUDED as an anchor for her 9/11 Nov views; only guidance publicly available by 14 Nov is used.
+
+JONATHAN HEATH — Deputy Governor; dissenter — written response 11 Nov, published 12 Nov 2026
+Importance: **** | Source: Reuters exclusive, via EL CEO Spanish reporting (original English not opened in scout) | Reporting confidence: Medium
+Key policy signal: Heath considered the cut inappropriate amid stronger prices, recent peso depreciation, better growth and potential Fed tightening. He argued that an extended-hold promise could hamper a future upward rate response. His differential stress case: from a 225bp initial gap versus the Fed upper bound, two hypothetical 25bp US increases would reduce it to 175bp; that is a scenario, not an observed move or Board floor.
+Representative quote (Spanish translation reported by EL CEO, not verified original Reuters wording): “Poner la diferencia por debajo de 200 puntos es peligroso e irresponsable”
+Incremental interpretation: Sharper public challenge than Borja's qualified dissent; Heath alone in the verified speaker tape raises the possibility of needing hikes. His term expiry in December creates future composition uncertainty, but the successor and resulting policy bias are unknown. No specific December vote or hike forecast is attributed to him.
+Source: https://www.reuters.com/world/americas/exclusive-bank-mexico-rate-cuts-sends-wrong-message-says-deputy-governor-heath-2026-11-12/
+
+JOSÉ GABRIEL CUADRA — Deputy Governor; majority — no verified in-window speech
+His 5 Nov vote for the 25bp cut is verified in the official statement. The earlier, June defense of a 6.50% hold is carry-over context only; the reason for his change of position is unverified. Do not impute Rodríguez's or Mejía's private reasoning to Cuadra.
+
+Independent human-voice interpretation — contemporaneous, not committee policy
+Enrique Quintana (El Financiero, 9–10 Nov) noted that the majority adopted extended-hold phrasing associated with Heath's earlier position while voting against his preferred 6.50% setting; the September minutes were read by some economists as signaling a probable cut. Gabriel Casillas (Barclays, El Financiero 10 Nov) saw the adjustment as defensible and viewed another 25bp cut in late Q1 2027 as conditional, not promised, noting that similar hold wording in 2023 did not rule out later easing. Víctor Gómez Ayala (Finamex, 6 Nov) likewise allowed later cuts if the Fed did not tighten. Conversely BBVA Research, Banamex analysts Paulina Anciola and Iván Arias, and Gabriela Siller (Banco Base) questioned the appropriateness or remaining restrictiveness of 6.25%; Siller's estimated 2.22% ex-ante real rate was near the neutral range, in contrast with Mejía's characterization. William Jackson (Capital Economics, attributed in a secondary Reuters snippet) expected the prolonged-hold signal to be maintained; primary wording was not independently accessible and is paraphrased only. Renato Campos (Greyhound Trading, Expansión 5 Nov) read the peso's initial reaction as carry recomposition rather than capital flight, without proving persistent FX effects. These are outside perspectives, not Governing Board commitments.
+
+Bottom line — reaction function and confidence
+A divided cut followed by communication convergence on a conditional extended hold. The pivotal unresolved parameters are: measured breadth of underlying/core-services inflation; whether industrial slack actually contains peso/input-cost pass-through; the Fed differential and MXN risk premium; and whether a new Board composition after Heath's December term changes the balance. The 19 Nov meeting minutes, any subsequent Fed meeting, and December Banxico decision all fall outside this window and are forward verification only. The original podcast, Reuters English Heath quote, Cuadra's rationale and some reported communications were not directly verified as primary source transcripts; speaker quotations above remain explicitly confidence-qualified.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: The majority's calibrated-cut/limited-pass-through case gains support from September's -1.4% industrial output and weak factory jobs, yet firmer core services and upstream inflation challenge the claim that 6.25% remains sufficiently restrictive. Rodríguez/Mejía defend a data-dependent pause; Borja stresses inflation risks without rejecting the near-term hold, while Heath questions the cut itself and the room to tighten if the Fed moves.
+Why it matters: The issue is less the existence of a near-term hold than its credibility and flexibility when US–Mexico carry protection, inflation expectations and the domestic output gap are uncertain.
+Implication: Keep a conditional extended-hold baseline, with no automatic follow-on easing or imminent hike. Test services/tradables pass-through, future orders-to-output conversion, Fed differentials and the Board's explanation in the post-window minutes.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+1. **** MEXICO — BANXICO MONETARY POLICY DECISION (5 NOV 2026)
+Why it matters: A 3–2 surprise cut to 6.25%, higher inflation forecasts and explicit extended-hold language reveal a new tolerance for the inflation/FX tradeoff. The minutes must distinguish an exceptional adjustment from durable easing preferences.
+
+2. **** MEXICO — INEGI CONSUMER PRICE INDEX / INPC (9 NOV 2026)
+Why it matters: Headline 3.75% and core 3.80%, with a 0.215pp electricity effect yet firmer services at 4.32%, test whether inflation's loss of momentum is more than seasonal and whether the Board's 3% convergence path is credible.
+
+3. **** MEXICO — INEGI INDUSTRIAL ACTIVITY / IMAI (11 NOV 2026)
+Why it matters: The -1.4% m/m hard-output fall, 16-of-21 manufacturing-branch declines and weaker private building provide the strongest new slack evidence. Reconcile August revisions and public-works strength before extrapolating from industry to the whole economy.
+
+4. *** MEXICO — S&P GLOBAL MANUFACTURING PMI (3 NOV 2026)
+Why it matters: PMI 49.5 conceals weaker output/staffing against still-expanding orders and a separate improving official expectations survey. The orders-to-realized-production conversion, not the threshold crossing, is the forward test.
+
+5. *** MEXICO — INEGI PRODUCER PRICE INDEX / INPP (9 NOV 2026)
+Why it matters: Annual INPP 5.60% and manufacturing-intermediate inflation 6.84% create a potential cost-transmission channel despite crude/airfare concentration. Reconcile the Reuters 1.8% monthly row with the official 1.92% total before interpreting the precise shock size.
+
+G. RED TEAM QUESTIONS
+
+1. How much of September's 1.4% industrial fall survives a transparent reconciliation of August's +0.6% Reuters prior versus +0.2% updated official history, and does it persist into October?
+2. Do positive PMI total/export orders and the official 50.5 orders-expectations index become actual production and manufacturing hiring, or are they another false start amid lower inventories?
+3. Is services CPI at 4.32% y/y an isolated monthly rebound or the first persistent interruption of core disinflation after the electricity-seasonal adjustment is removed?
+4. Which producer-price series accounts for the Reuters 1.8% monthly INPP figure versus the official oil-inclusive 1.92%, and does the intermediate/final-goods gap imply margin compression rather than CPI pass-through?
+5. Can the Banxico majority defend its assertion that 6.25% remains sufficiently restrictive and that slack contains peso-to-CPI pass-through, against core services, intermediate prices and the competing external real-rate assessment?
+6. What observable move in core inflation, Fed relative rates, exchange-rate risk premia or expectations would force a change to the open-ended hold, and is Heath's objection a minority tail risk rather than a likely next action?
+7. Does Borja's acceptance of near-term holding and Cuadra's unexplained swing to a cut imply a durable three-vote policy center, or could the December departure of Heath materially change Board preferences? How can the 19 Nov minutes (post-window) test that without contaminating this historical assessment?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: USD/MXN (higher = weaker MXN). On 13 November USD/MXN stood around 18.57 (Fed H.10 reference). The Banxico October survey (published 3 November) projected 18.39 for end-2026; Citi's 4 November survey median was 18.50. Both predated Banxico's 5 November cut and are not post-decision forecasts. Public-bank views diverged: MUFG forecast 18.75 for Q4 and Monex's own end-2026 target was 18.80, both implying modest MXN weakness from window-close spot. BNP Paribas Wealth Management revised its 3M target to 18.50; its unchanged 12M 16.80 remained under review. Horizons are not blended.
+Selected public-house end-2026 targets: MUFG 18.75; Monex 18.80 (two houses, not an institutional consensus range).
+Constructive MXN cluster: Banxico and Citi formal survey end-2026 medians of 18.39 and 18.50, respectively.
+More cautious / tactical view: MUFG 18.75 Q4, Monex 18.80 year-end; BNP 18.50 at three months implies little near-term appreciation.
+Bias at window close: Modestly MXN-positive in survey medians, but a divided institutional sample and little immediate asymmetry.
+
+What changed through the data window
+Published revisions, not just spot movements, matter: Banxico's end-2026 median rose from 17.50 to 18.39 (surveyed 19–29 October; published 3 November), and Citi's from 18.20 to 18.50 (4 November). Both predated the surprise 5 November cut and remained below window-close spot; neither represents a refreshed post-decision consensus. BNP explicitly revised its three-month target to 18.50, but the retrieved publication does not give the previous value; its 16.80 twelve-month target was unchanged but under review. MUFG's 2 November quarter-end target is contemporaneous, not a verified in-window revision.
+
+Main consensus drivers
+- Carry: Banxico's 25bp cut narrowed the differential to US rates; extended-hold guidance partly protects the remaining MXN compensation.
+- Inflation credibility: core services and industrial input prices could erode real carry if peso-to-CPI pass-through becomes persistent.
+- External trade and risk: US policy, capital flows and the conversion of factory orders into actual Mexican production affect peso demand.
+
+Where consensus could be wrong
+Constructive case: the hold persists, tariff inflation fades, export orders convert to output and US dollar-rate support weakens, allowing MXN to beat the survey medians. Cautious case: renewed US tightening, fragile hard production and cost pass-through raise FX or long-rate risk premia. Falsify either view using relative policy pricing, November core/services/tradables, hard output and actual USD/MXN response.
+
+Contemporaneous source anchors
+- Banxico private-sector economists' October survey, published 3 Nov: https://www.banxico.org.mx/publicaciones-y-prensa/encuestas-sobre-las-expectativas-de-los-especialis/%7BD4B6ED49-140C-AE4A-7D64-3CA5B1974667%7D.pdf
+- Monex, Janneth Quiroz Zamora / Rosa Maria Rubio Kantun, 3 Nov: https://www.monex.com.mx/portal/download/reportes/261103%20MEX%20Encuesta%20Banxico.pdf
+- Monex, Citi survey revision and house forecast, 4 Nov: https://www.monex.com.mx/portal/download/reportes/Encuesta%20Corredurias%20041126.pdf
+- MUFG Research, FX forecasts, 2 Nov: https://mufgresearch.com/forecasts/
+- BNP Paribas Wealth Management, Currencies Focus, written 5 Nov: https://professionalbanking-wealthmanagement.bnpparibas.com/content/dam/wmpublicsite/global/pdfs/en/november-2026/MonthlyfocusFX_november26%20VDEF.pdf
+- Fed H.10 USD/MXN reference, 13 Nov: https://fincast.info/pairs/usd-mxn/archive
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Weakening industry, persistent core inflation, one-off Banxico cut and conditional hold.
+- Change: Hard output deteriorates; core disinflation stalls, without economy-wide reversal.
+
+Scoreboard
+- Growth: ~ | Industry -1.4% m/m; PMI 49.5; GDP/orders offset.
+- Labor: ~ | Weak factory hiring; no national labor release.
+- Inflation: - | CPI 3.75%, core 3.80%, services 4.32%, INPP 5.60% y/y.
+- Financial Conditions: ~ | Short-rate relief versus lower carry cushion; broader effect unverified.
+- Policy Constraint: - | Divided cut, higher inflation projections, restrictive-rate dispute.
+
+Major Release Tape
+- **** Banxico, 5 Nov: -25bp to 6.25% (3–2); 3.7% Q4 forecasts; extended hold.
+- **** CPI, 9 Nov: +0.65% m/m vs +0.55%; electricity +0.215pp, services firm.
+- **** IMAI, 11 Nov: -1.4% m/m vs -0.2% poll; manufacturing -1.7%, construction -2.0%; Reuters actual blanks.
+- *** PMI, 3 Nov: 49.5 vs 50.3; output/jobs down, orders/exports up.
+- *** INPP, 9 Nov: 5.60% y/y; intermediate manufacturing 6.84%; Reuters +1.8% vs official +1.92% m/m.
+
+Central Bank
+- Bias: One-off cut, extended data-dependent hold; no next-cut commitment.
+- Reaction function: Rodríguez/Mejía see restrictive policy and limited FX pass-through; Borja stresses inflation but accepts hold; Heath challenges cut/guidance and Fed differential. Cuadra silent.
+- Key tape: Official 5 Nov (High confidence); Rodríguez 5/8/10 Nov, Borja published 11 Nov, Mejía/Heath reported 12 Nov (Medium, reporting). 19 Nov minutes excluded.
+
+Signal Tension
+- Tension: Slack versus sticky core/services, cost pressure and competing assessments of restrictiveness.
+- What resolves it: Core/tradables, hard output, Fed differential, later minutes.
+
+Key Releases
+- 1. Banxico — hold; 2. CPI — services; 3. IMAI — slack; 4. PMI — orders; 5. INPP — pass-through.
+
+Red Team
+- Do orders produce jobs? Is 6.25% restrictive? What breaks the hold?
+
+FX Consensus
+- Consensus: Pre-cut survey medians MXN-positive; banks divided.
+- Public-bank range / cluster: Banxico/Citi end-2026 survey medians USD/MXN 18.39/18.50; MUFG Q4 18.75 and Monex year-end 18.80 individual bank forecasts, not formal bank consensus.
+- At window close: USD/MXN ~18.57 (13 Nov); BNP 3M 18.50.
+- Consensus wrong if: US rates/pass-through worsen, or dollar pressure/industry weakness fade.
+
+<<MXN_WEEK_END>>
+
+
+
+<<MXN_WEEK_BEGIN>>
 
 DATA WINDOW: 4 October 2026 to 17 October 2026
 
