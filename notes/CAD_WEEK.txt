@@ -1,6 +1,682 @@
 
 
 miss 27sept 18oct
+
+
+<<CAD_WEEK_BEGIN>>
+DATA WINDOW: 15 November 2026 to 21 November 2026
+
+A. CAD WEEK — MACRO SYNTHESIS
+
+Canada entered 15–21 November with October's pre-emptive BoC hike to 2.50%, an unresolved energy-to-core pass-through risk, and weak but incompletely decomposed employment evidence. The preceding CAD note carried four unresolved scoreboard signs and an adverse policy constraint; new releases sharpen the demand/inflation trade-off without proving a regime reversal. September retail sales rose 0.8% nominally, but real total and core volumes gained only 0.1%; preliminary October -1.5% retail sales (low response) warn rather than establish contraction. Housing starts fell from revised 250.1k to 244.6k annualized amid a weaker pipeline. CFIB's 12-month outlook rebounded to 57.33, but the three-month index stayed 45.9 and intended layoffs exceeded hiring. No new national employment release tests a labor reversal.
+
+October CPI held at 3.1% against 3.2% expected; median/trim averaged 1.9%, ex-energy inflation was 2.0%, and rent/services eased. Gasoline +30.9% y/y largely reflects energy/base effects, while food/clothing increases and ~2.7% three-month annualized core momentum keep pass-through risk alive. IPPI slowed to +0.3% m/m (ex-energy +0.1%) from revised +1.5%, despite +12.6% y/y. Gravelle (18 November) said the April high-oil-price scenario had broadly materialized, but its consecutive-hike illustration was not December guidance; Macklem's June 2027 departure is institutional only. State transition: stronger evidence of constrained near-term demand and limited realized second-round inflation, not a decisive reversal of the BoC's forward-looking risk. The 9 December hike/hold decision depends on Q3 GDP, November labor and realized price diffusion versus margin absorption.
+
+B. CAD MACRO SIGNAL SCOREBOARD
+
+Growth: ~
+Supporting evidence: September nominal retail sales rose +0.8% and Q3 real retail volumes grew +1.0%, but September overall real volumes and core ex-autos/fuel volumes rose just +0.1%; October's provisional -1.5% turnover estimate signals downside, subject to a 58.1% response rate. Housing starts eased to 244.6k SAAR with softer trends/pipeline; CFIB's 57.33 year-ahead rebound conflicts with its 45.9 near-term index and poor current conditions. Previous week's unanalysed manufacturing PMI 49.6 versus Ivey SA 58.3 remains carry-over context. The aggregate growth state stays mixed, but Q4 momentum risks have become more concrete.
+
+Labor: ~
+Supporting evidence: No fresh national employment or wage release occurred this week; absence is not stabilization. The previous frozen note's October -4.7k employment change and 6.7% unemployment rate remain adverse but undecomposed carry-over figures. New CFIB layoff intentions (14%) exceeded hiring intentions (12%) and current small-business health remained weak, reinforcing downside risk without supplying a confirmed hard-data labor transition. The sign remains unresolved rather than treating forward-looking hiring plans as realized job loss.
+
+Inflation: +
+Supporting evidence: October CPI 3.1% y/y missed the 3.2% poll; CPI-median 2.0%, trim 1.8%, ex-energy 2.0%, and slowing shelter/rent/services make the near-term realized core signal more favorable than the previous week's projection-only inflation evidence. Factory-gate inflation cooled to +0.3% m/m, ex-energy +0.1%, and raw materials -1.0%. This '+', a qualified improvement in the inflation concern, does NOT imply an end to the shock: gasoline +30.9% y/y, IPPI +12.6% y/y, selective goods increases and warm short-run core retain upside pass-through risk.
+
+Financial Conditions: ~
+Supporting evidence: The 2.50% BoC policy rate and prior debate over effective restrictiveness remain carry-over constraints. Following CPI, the scout reported weaker CAD and lower Canadian front-end yields, but the exact intraday two-year yield level is disputed and no comprehensive credit/household-financing assessment is supplied. Housing pipeline weakness indicates sensitivity, not a directly measured new aggregate easing or tightening. The broader sign remains unresolved.
+
+Policy Constraint: -
+Supporting evidence: The 28 October increase and 10 November deliberations are PRIOR-WINDOW policy context: the Bank's pre-emptive concern is future fuel/input-cost transmission despite limited current core breadth. This week's milder CPI and IPPI, weak real retail volumes and soft business hiring plans strengthen the case for patience; 2.7% short-run core momentum, high upstream annual prices and the Bank's stated risk-management logic preserve conditional hike optionality. On 18 November, Gravelle reiterated that the April high-oil-price scenario had broadly materialized and defended scenario-based, conditional communication, but offered no December rate guidance. Macklem's 16 November succession announcement did not change the stance; Alexopoulos's 19 November interview has no validated policy substance. The adverse policy dilemma persists, without a verified hike or hold commitment.
+
+C. FULL RELEASE ARCHIVE
+
+MONDAY 16 NOV 2026
+
+CANADA — CONSUMER PRICE INDEX / BANK OF CANADA CORE MEASURES (OCT)
+Release Date: 16 Nov 2026 | Local Time: 14:30 CET (08:30 ET)
+Importance: ****
+
+PM FLASH: Headline CPI held at 3.1% y/y versus 3.2% expected; monthly inflation was 0.2% versus 0.3%. CPI-median was 2.0% and CPI-trim 1.8%, with inflation excluding energy at 2.0%. Gasoline accelerated to 30.9% y/y largely through base effects, while rent cooled to 1.7%; grocery and clothing costs firmed selectively.
+PM READ-THROUGH: The print strengthens the evidence that Canada's elevated headline inflation is still much more energy-driven than demand-driven. Cooling annual underlying measures and weak service-price momentum are favorable, but recent three-month annualized median/trim momentum around 2.7% and some goods-price pressures prevent a definitive disinflation all-clear.
+PM DEBATE & KEY TAKEAWAYS:
+Debate: The hold case emphasizes subdued annual core, weaker hiring and falling gasoline; the hike case emphasizes forward-looking cost pass-through, faster short-run core momentum and a relatively low policy rate after October's precautionary increase.
+Key takeaways: The policy disagreement is genuine despite broad agreement on the data. Watch whether energy-linked freight and goods costs diffuse into broad non-energy services and prices; jobs and GDP arrive before the December decision, but November CPI does not.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CACPI=ECI;16 nov;14:30;Med;CPI Inflation MM;Oct;0,2%;0,1%;;0,3%;-0,10%
+CACPIY=ECI;16 nov;14:30;Med;CPI Inflation YY;Oct;3,1%;3,1%;;3,2%;-0,10%
+CACPXX=ECI;16 nov;14:30;High;CPI BoC Core YY;Oct;2,0%;2,2%;;;
+CACPMM=ECI;16 nov;14:30;High;CPI BoC Core MM;Oct;0,4%;0,0%;;;
+CACPMD=ECI;16 nov;14:30;High;CPI Median;Oct;2,0%;1,9%;2,0%;2,0%;0,00%
+CACPTR=ECI;16 nov;14:30;High;CPI Trim;Oct;1,8%;1,8%;1,9%;1,9%;-0,10%
+
+The six Reuters rows are preserved mechanically. A blank poll implies no computed surprise. CACPXX (2.0% y/y) and CACPMM (0.4% m/m) are distinct legacy CPIX/core labels and must not be silently substituted by CPI-median/trim or the ex-food-and-energy aggregate. The October CPIX monthly figure has not been separately corroborated against a matching official raw or seasonally adjusted series; it is retained as feed data rather than elevated to the analytical core.
+
+2. Professional Market Commentary
+
+Statistics Canada's 16 November release framed the unchanged 3.1% headline as the net result of faster year-on-year gasoline, natural gas, grocery and clothing inflation against lower cellular-services and shelter inflation. In particular, the acceleration in gasoline to 30.9% y/y coexisted with a 2.5% monthly decline because a large October 2025 price fall dropped out of the annual comparison. The official core table confirms median at 2.0% and trim at 1.8%, with CPI-common slightly firmer at 2.5%. Official October data also identify goods inflation at 4.3%, services at 2.1% and ex-food-and-energy inflation at 1.8% y/y. Reuters' corrected story emphasized the stable headline, softer-than-expected aggregate, and the distinction between the energy shock and core inflation; Bloomberg emphasized a weaker Canadian dollar and lower December tightening expectations.
+
+The professional disagreement concerns the Bank of Canada's reaction function, not the mechanical headline. Andrew Grantham (CIBC, quoted by Bloomberg/Reuters, 16 Nov) viewed the result as evidence of little broad energy spillover and favored a December hold, especially with gasoline prices declining more recently. Benjamin Reitzes (BMO, via the Canadian Press, 16 Nov) saw nothing in the data that compelled an immediate second increase, while recognizing that the Bank had retained a hawkish posture. Abbey Xu (RBC, 16 Nov; public RBC summary via FXStreet) described December as finely balanced but maintained a base case for another 25bp hike to 2.75%, arguing that higher core momentum, business cost pressure and a low policy rate leave pre-emption plausible. Derek Holt (Scotiabank, 16 Nov) likewise argued that a soft backward-looking CPI could still be compatible with a December hike because forward-looking core cost pass-through and a near-zero real policy setting matter more than a single annual reading.
+
+Among the more patient views, Leslie Preston (TD Economics, 16 Nov) emphasized cooling services inflation and weak domestic activity, expecting some future core firming but not enough to require another increase in 2026. LJ Valencia (Desjardins, 16 Nov) distinguished the energy-led 3.1% headline from a median/trim average of 1.9% and 2.7% three-month annualized core momentum; labor slack and upcoming GDP/job data were the key arbiters. Tu Nguyen (RSM Canada, 16 Nov) preferred holding at 2.5% in December, with a possible January increase, because the shock had not spread widely; she nonetheless flagged food/clothing as early warnings. Mark Parsons (ATB Financial, 16 Nov) also favored a December pause and possible January move, noting Alberta's provincial insurance-related inflation pressures. Karl Schamotta (Corpay, 16 Nov) argued that slower hiring, cheaper recent gasoline and narrow price diffusion weakened the immediate hike case and the CAD. Norman Liebke (Commerzbank, 17 Nov, via FXStreet relay) noted that the probability of a December hike had fallen but was not negligible given the Bank's pre-emptive language; services excluding shelter near 2.5% and stronger goods inflation qualified the benign reading.
+
+This is substantive division, not manufactured opposition: the hold camp focuses on current annual price breadth and weakening realized demand, while the hike camp focuses on expected pass-through over the policy horizon. RBC and Scotiabank do not claim generalized inflation is already visible; the more dovish houses do not claim that sustained imported-input inflation is harmless. The Bank itself decided on 28 October to raise the overnight target to 2.50%, specifically to limit second-round pass-through from persistent energy prices, while acknowledging residual economic slack and promising to proceed carefully. Its 10 November deliberations recorded concern about higher costs in transportation, chemicals, plastics and electronics, but also acknowledged that realized consumer pass-through was still limited.
+
+Release-window market evidence was directionally consistent with a softer policy interpretation. Reuters reported CAD down about 0.17% to C$1.4293 per US dollar shortly after the release. Bloomberg reported roughly five basis points of decline in the Canadian two-year yield, while the scout's Reuters relay reported a 4.2bp decline but attached a conflicting 2.700% yield level. The official Bank of Canada benchmark TWO-YEAR yield was 3.30% on 16 November versus 3.37% on 13 November (daily reference); this favors the Bloomberg level around 3.306% over Reuters' 2.700% figure but does not independently fix the precise intraday move. Contemporary swap commentary placed the December-hike probability around 50% versus about 60% earlier, while a following-day bank note put it closer to 40%; these are time- and venue-specific estimates, not an official or single verified market probability. The FX move had pre-existing USD-rate momentum and concurrent US release risk, preventing clean causal allocation of its full magnitude to Canadian CPI alone.
+
+Sources (publication date 16 Nov unless stated):
+- Statistics Canada, Consumer Price Index, October 2026: https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.pdf
+- Reuters, 16 Nov, corrected release story: https://www.reuters.com/world/americas/canadas-annual-inflation-rate-held-steady-31-october-2026-11-16/
+- Bank of Canada, October rate decision, 28 Oct: https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/
+- Bank of Canada, deliberations published 10 Nov: https://www.bankofcanada.ca/2026/11/summary-of-governing-council-deliberations-fixed-announcement-date-of-october-28-2026/
+- Desjardins, LJ Valencia, 16 Nov: https://www.desjardins.com/en/savings-investment/economic-studies/canada-cpi-16-november-2026.html
+- Scotiabank, Derek Holt, 16 Nov: https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.economic-indicators.scotia-flash.-november-16--2026-.html
+- TD Economics, Leslie Preston, 16 Nov: https://economics.td.com/ca-cpi
+- RBC/FXStreet, Abbey Xu, 16 Nov: https://www.fxstreet.com/news/bank-of-canada-december-hike-risk-stays-rbc-202611161615
+- BMO/Canadian Press, Benjamin Reitzes, 16 Nov: https://www.advisor.ca/economy/economic-indicators/inflation-unchanged-at-3-1-in-october/
+- RSM Canada, Tu Nguyen, 16 Nov: https://realeconomy.rsmus.com/canadas-cpi-flat-at-3-1-giving-bank-of-canada-room-to-pause/
+- ATB Financial, Mark Parsons, 16 Nov: https://www.atb.com/company/insights/the-twenty-four/consumer-price-index-october-2026/
+- Corpay, Karl Schamotta, 16 Nov: https://www.corpay.com/resources/market-analysis/market-wire-canadian-inflation-pressure-subsides-lowering-monetary-tightening-expectations
+- Commerzbank via FXStreet relay, Norman Liebke, 17 Nov: https://www.mitrade.com/insights/news/live-news/article-6-2259320-20261117
+- Bank of Canada, official benchmark bond yields: https://www.bankofcanada.ca/rates/interest-rates/canadian-bonds/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+October CPI gives a meaningful near-term downside inflation surprise, but it does not settle whether the external energy shock will become a broad domestic price process. The headline was 3.1% against 3.2% expected, the same annual rate as September, while median/trim averaged 1.9% and ex-energy prices slowed to 2.0%. The signal is stronger than the one-tenth miss alone because shelter and broader services are cooling, while price increases are still heavily concentrated in energy-linked components. The offset is that goods inflation and selected transport, food and clothing prices are firmer, with high-frequency core measures modestly hotter than year-on-year gauges. October remains an energy-concentrated inflation regime with limited realized second-round effects rather than evidence that all second-round risks have disappeared.
+
+The key measurement distinction is between annual rates that mix current pressure with last year's base and seasonally adjusted shorter-run momentum. Gasoline and cellular plans produce large opposing annual base effects even as their current monthly price moves run in different directions. A separate indicator pitfall is that ex-food-and-energy consumer prices rose 0.4% on a NOT seasonally adjusted monthly basis, but only 0.1% on a seasonally adjusted basis in the official component table. Treating the unadjusted +0.4% as a monthly trend measure would materially overstate inflation momentum.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Inflation dashboard: level, composition and high-frequency signal
+
+Measure                                    September 2026    October 2026    Interpretation
+All-items CPI y/y                          3.1%              3.1%            Flat, 0.1pp below poll
+All-items CPI m/m, NSA                     0.1%              0.2%            +0.2% vs +0.3% poll
+All-items CPI m/m, SA                      0.4%              0.2%            Slower SA momentum
+Ex-energy CPI y/y                          2.1%              2.0%            At target, slower
+Ex-food-and-energy CPI y/y                 2.1%              1.8%            Cooler traditional core
+Ex-food-and-energy CPI m/m, NSA            --                0.4%            Unadjusted only
+Ex-food-and-energy CPI m/m, SA             0.1%              0.1%            No fresh acceleration
+CPI-median y/y (revised September)         2.0%              2.0%            Stable
+CPI-trim y/y (revised September)           1.9%              1.8%            Modest easing
+CPI-common y/y                             2.4%              2.5%            Opposite marginal signal
+Median/trim 3m annualized (institutional)  2.8%              2.7%            Warmer than y/y, cooling marginally
+Median/trim 6m annualized (TD)             --                ~2.4%           No evidence of broad breakout
+
+Official primary source: Statistics Canada The Daily, Tables 1, 3 and 4. High-frequency 3m/6m statistics are institutional calculations, not independent Reuters feed rows; the precise seasonally adjusted index transformations and vintage may differ slightly across houses. CPI-common's increase to 2.5% is a valid counter-signal; it is not the same series as CPIX. The CPIX 2.0% y/y / 0.4% m/m Reuters series remains mechanically recorded above pending matched-series verification.
+
+2) Energy: a severe annual shock, not October monthly gasoline acceleration
+
+Component                             September y/y      October y/y       October m/m NSA
+Energy aggregate                     19.0%              21.8%             -1.4%
+Gasoline                             27.8%              30.9%             -2.5%
+Ontario natural gas                  -18.7%               3.0%             --
+Transportation                        8.4%               8.9%             +0.1%
+Air transportation (annual)         19.4%              21.6%             --
+
+Gasoline prices fell 2.5% during October 2026 even as the annual rate rose: October 2025 included a 4.8% monthly gasoline decline, which is no longer in the current 12-month comparison. Ontario natural gas also swung from -18.7% to +3.0% annually because October 2025 included a 22.4% one-month price fall following a prior tariff change. These are genuine inflation-level pressures in annual purchasing-power terms but much weaker evidence of fresh contemporaneous acceleration. Transportation's 8.9% annual increase includes directly fuel-exposed services such as airfare. The distinction between direct energy pass-through (already visible) and broad final-goods/service diffusion (still limited) is central to the policy assessment.
+
+3) Shelter and services: the strongest evidence against immediate generalized inflation
+
+Component                       September y/y        October y/y
+Shelter                         1.8%                 1.4%
+Rent                            2.8%                 1.7%
+Services aggregate              2.6%                 2.1%
+Services excluding shelter      ~2.5%                ~2.5% [institutional]
+Cellular services               +0.8%                -6.2%
+Property taxes                  October 2025 +5.6%    October 2026 +3.8%
+
+The previous September rent figure of 2.8% is confirmed directly in the official September Daily and supersedes the 2.7% figure quoted in one secondary research relay. Rent's fall to 1.7% and a 1.4% shelter rate are important disinflationary offsets at a time of very high gasoline inflation. The cell-plan shift from +0.8% to -6.2% y/y, however, is substantially a base effect: an 8.2% increase in October 2025 rolled out, while October 2026 cell-service prices actually rose 0.6% monthly. This limits the extent to which the annual decline proves new telecom competition or lower current services pricing. Property tax is measured once per year in October; slower 2026 increases partly reduce observed shelter pressure but do not create an ongoing monthly disinflation impulse. Services ex shelter being broadly unchanged supports a contained domestic-inflation reading, without suggesting all services prices are falling.
+
+4) Food, clothing and goods: selective new cost transfer, not yet full basket diffusion
+
+Component                         September y/y       October y/y       October m/m NSA
+Food total                        2.2%                2.4%              -0.1% (food total)
+Food purchased from stores        1.7%                2.0%              --
+Fresh vegetables                  --                  --                +1.4%
+Goods aggregate                   --                  4.3%              +0.2%
+Clothing, garments-only           -0.3%               1.8%              --
+Clothing and footwear aggregate   1.7%                2.7%              +2.3%
+Women's clothing                  --                  --                +3.4%
+Men's clothing                    --                  --                +3.6%
+
+The clothing series require definition discipline. The garments-only annual rate cited in the official narrative rose to 1.8% from -0.3%; the broader official 'clothing and footwear' major component rose 2.7% y/y and 2.3% monthly. The 3.4% monthly women's-clothing increase is a subcategory, not the whole clothing/footwear index. Statistics Canada associates the garments move with higher shipping costs. Grocery inflation rose to 2.0% after four consecutive months of slowing annual rates, with fresh vegetables a notable contributor. This provides a plausible early transmission or supply-cost channel, but aggregate grocery inflation remains below headline, and the increase is too selective to establish a generalized food-price spiral.
+
+At 4.3% y/y, goods inflation is substantially above services at 2.1%. Yet energy and its non-durable fuel components heavily influence goods. Non-durable goods prices rose 6.2% y/y, versus durable goods at 2.3% and semi-durables at 1.2%. That spread is more consistent with upstream fuel concentration plus selected pass-through than with uniform consumer-goods pricing power. Scotiabank's and RBC's diffusion/breadth arguments warrant monitoring even though a broad diffusion index is not reconstructed from the Daily's component table.
+
+5) Base effects, geography, price breadth and inflation expectations
+
+The October headline is exposed to four measurement effects: (i) gasoline base-year arithmetic; (ii) Ontario natural-gas base arithmetic; (iii) cell-plan base arithmetic; (iv) property taxes' annual October repricing. The official headline nonetheless genuinely exceeded 3% for the month; statistical base effects do not make the higher real household fuel bill irrelevant. The CPI rate slowed in five provinces. British Columbia's slowdown was partly rent-driven, whereas Atlantic inflation rates remained elevated; Alberta's 3.3% reading was additionally affected by sharply higher automobile-insurance costs. Subnational dispersion argues against inferring a uniform national wage-price spiral from the national headline, although energy-related cost increases may still reach all provinces via production and distribution networks.
+
+The 28 October BoC Monetary Policy Report had anticipated roughly 3.5% CPI by year-end and above 3% through much of 2027, despite current underlying measures close to 2%. Its 10 November deliberations acknowledged limited pass-through so far while predicting that firms would increasingly transfer persistent input costs. This is a forecast, not an observed outcome. October CPI puts the near-term realization below that central path without conclusively rejecting its second-round mechanism. A sharp decline in November gasoline prices would further lower the subsequent headline, but would still not determine whether broader services and wage inflation will pick up months later. The November CPI publication falls on 14 December, after the 9 December policy announcement.
+
+6) Macro and market transmission
+
+There are two different ways October's mild CPI downside surprise can matter for CAD. A lower probability of immediate BoC tightening can weaken near-term Canadian front-end yields and the currency through the interest-rate differential. Independently, the shock's energy origin has terms-of-trade and commodity-export benefits for parts of Canada, unlike the more uniformly adverse energy-import shock experienced by some economies. Neither effect should be inferred mechanically without assessing relative US yields, physical oil prices and domestic growth. The contemporaneous CAD weakness and lower December-hike odds were consistent with the first channel, but the release did not establish an exact causal share of the move. A 3.30% official two-year benchmark yield on 16 November is inconsistent with the reported 2.700% Reuters level, and that contradictory level is excluded from quantitative rate conclusions.
+
+C. State Transition & Historical Context
+State transition: stabilization of headline inflation at an elevated, energy-dominated level with mild improvement in annual underlying inflation; high-frequency core firmness and selected goods-price increases leave forward pass-through risk unresolved.
+Context from prior regional live file: September's 3.1% headline inflation followed August's 3.0%, while September gasoline was already up 27.8% and underlying measures remained close to 2%. October preserves the energy-led headline elevation but reduces the evidence of broad underlying acceleration as median/trim average 1.9%, shelter slows and ex-energy CPI returns to 2.0%. The prior inflation configuration therefore persists with modestly less near-term urgency, not a confirmed reversal in the energy shock.
+
+4. HF Take — Strategist Layer
+
+What changed: October CPI removes some urgency from a back-to-back December BoC hike and lowers the credibility of treating the 3.1% headline as broad domestic excess demand. Its more useful surprises are the easing of ex-energy inflation, lower rent/services momentum and renewed evidence that large annual changes in energy and cellular prices mostly reflect the interaction of external shocks and historical bases. Nevertheless, the October BoC hike was made pre-emptively; it was not conditional on observing generalized inflation first. The print therefore changes the near-term balance of probabilities without invalidating the central bank's risk-management logic.
+
+Why it matters: The key policy issue is whether the economy is sufficiently weak to absorb imported input-cost pressure through margins rather than final prices. This is the substantive wedge between the institutional camps: one interprets 1.8–2.0% core and weak hiring as proof that demand is constraining pass-through; another sees 2.5–2.9% short-run annualized underlying momentum, broad business-cost exposure and a 2.5% policy rate as reasons to normalize further. The latter is a scenario rather than an observed price spiral. Any CAD-positive yield effect from another 25bp BoC hike must be weighed against a slowing labor market and the risk that additional tightening damages domestic growth. October's CAD depreciation and lower front-end yields indicate the market downgraded the immediate hike case, but conflicting intraday bond-level reports preclude a reliable exact yield estimate.
+
+What to verify next: (1) November employment/unemployment, wage dynamics and job-finding, especially another negative payroll print; (2) Q3 GDP components and Q4 momentum after the BoC's previous ~2% Q3 tracking estimate; (3) goods pass-through in clothing, food and transport separated from direct oil effects; (4) sequential SA median/trim/core services and broader diffusion; (5) oil, gasoline and corporate-margin behavior after the early-November commodity decline. November CPI will not be available until 14 December, five days after the 9 December meeting.
+Macro configuration: energy-led 3.1% headline + contained annual core near 2% + modestly warm short-run core + cooling rent/services + fragile labor absorption + a deliberately pre-emptive BoC at 2.50% + a genuine December hold-versus-hike debate. The CPI print alone favors increased patience, not an unconditional policy or USD/CAD call.
+
+TUESDAY 17 NOV 2026
+
+CANADA — CMHC HOUSING STARTS (OCT)
+Release Date: 17 Nov 2026 | Local Time: 14:15 CET (08:15 ET)
+Importance: **
+
+PM FLASH: Housing starts were 244,6k SAAR versus 240,0k expected, below September's revised 250,1k. The six-month trend fell 1.7% to 246,231; approved-but-not-started units fell 3% to 139,592. Toronto's trend declined 10%, while Montréal rose 6% and Vancouver 2%.
+PM READ-THROUGH: A modest consensus beat does not reverse weakening construction momentum. Slower starts and thinner future pipelines particularly affect Ontario, while still-high national starts and heterogeneous multi-unit activity prevent a generalized construction collapse conclusion.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Monthly output remains near its smoothed trend, but fewer pending projects may reveal a more persistent supply slowdown than the noisy one-month starts figure.
+Key takeaways: Distinguish monthly SAAR from six-month trends and actual completed units. Watch whether pre-sales, pending permits and Toronto condos continue weakening while other cities offset part of the decline.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CAHSTA=ECI;17 nov;14:15;High;House Starts, Annualized;Oct;244,6k;248,9k;250,1k;240,0k;4,60k
+
+2. Professional Market Commentary
+
+Canada Mortgage and Housing Corporation (CMHC, 17 Nov) reported that October all-area starts declined 2% from a revised September pace of 250,072 to 244,558 annualized units. Its preferred six-month trend measure declined 1.7% to 246,231, with the slowdown led by Ontario, British Columbia and Atlantic Canada. Kevin Hughes, CMHC Deputy Chief Economist, flagged the 3% decline in permitted-but-unstarted units as a warning of near-term pipeline weakness, and cautioned that today's underbuilding could damage future affordability when demand recovers. This is official assessment, not an independent market economist view.
+
+Rishi Sondhi (TD Economics, contemporary October release analysis provided in the scout) characterized the monthly starts level as relatively steady: the modest decline left activity near its six-month average and above the Q3 average, with the monthly multi-family segment holding up better than single-detached building. His forward-looking concern was that weak population growth, high borrowing costs, past poor pre-sales and unsold inventory would drive starts lower over time. He noted that Ontario's removal of HST on eligible new homes could cushion activity next year, but not necessarily reverse the established current pipeline slowdown. The October-vintage TD interpretation is secondary-attributed and is not treated as an independently verified direct quotation.
+
+The Canadian Press and real-estate media generally emphasized reduced momentum, particularly Toronto. Desjardins' 17 November housing commentary emphasized softer starts while treating housing demand and construction supply as separate processes. These are differences in analytical emphasis, not competing empirical claims. No verified release-specific Canadian yield, BoC OIS or USD/CAD price response was identified, and the small forecast beat should not be assigned an invented policy repricing.
+
+Sources:
+- CMHC, housing starts and construction data, 17 Nov 2026: https://www.cmhc-schl.gc.ca/media-newsroom/news-releases/2026/housing-starts-construction-data-october-2026
+- CMHC, monthly housing-starts and pipeline data: https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/housing-market-data/monthly-housing-starts-construction-data-tables
+- TD Economics, Canadian Housing Starts (rolling report URL; October-vintage account per scout): https://economics.td.com/ca-housing-starts
+- Desjardins, 17 Nov 2026, housing demand and starts: https://www.desjardins.com/en/savings-investment/economic-studies/canada-housing-starts-existing-home-sales-17-november-2026.html
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+October's housing-starts headline is a modest upside surprise relative to the Reuters consensus, but a mildly negative sequential construction signal. The actual all-area SAAR declined about 2%, the smoothed trend fell 1.7%, and the authorized-but-unstarted pipeline shrank. Their joint direction is more relevant than the +4,60k poll surprise. The monthly pace remains sizeable in absolute terms and actual starts in large urban centres were higher than a year earlier, so the data do not establish a sudden contraction; rather, they strengthen an existing concern about future supply capacity and a geographically concentrated softening in starts.
+
+B. Detailed Evidence & Economic Mechanisms
+
+Measure                                      Latest                 Comparison / direction
+All-area starts, monthly SAAR                244,558                 Sep 250,072; -2% m/m
+Six-month starts trend, SAAR                  246,231                 -1.7% m/m
+Urban starts, unadjusted monthly units       21,059                  +6% y/y
+Urban starts, Jan–Oct actual units           192,023                 -3% y/y
+Pending starts (centres >=50k residents)    139,592                 -3% m/m
+Units under construction (centres >=50k)    369,569                 broadly flat / -0.6% m/m
+Completions (centres >=50k)                  21,621                  +24% m/m
+Rural starts monthly SAAR                    13,675                  estimated
+
+1) Monthly SAAR versus underlying trend. The revised September all-area SAAR of 250,072 matches the mechanically locked 250,1k revised prior; October 244,558 matches 244,6k. The unrevised Reuters prior of 248,9k remains preserved, although the exact source of that revision was not explained in the official release narrative. A 2% monthly fall may reflect multi-unit timing rather than durable demand changes. The six-month trend is designed to damp large, lumpy apartment-building starts and is consequently more meaningful for locating direction, though it necessarily lags sudden turns. The positive +6% actual urban starts y/y and negative -3% January–October cumulative change compare different windows, not contradictory measures.
+
+2) Single versus multi-family and geographic concentration. The scout-supplied TD monthly urban estimate showed single-family starts at 35.8k SAAR, down 9% m/m, versus multi-family around 195.0k, up 1%. These segment figures are secondary institutional estimates, not directly checked against CMHC's month-level table. On the verified six-month trend, urban single-detached starts were close to flat around 39.6k, while other urban types declined approximately 2% to 191.1k. Thus monthly multifamily resilience does not contradict moderation in the six-month multifamily trend.
+
+Location / measure                      October six-month trend       Monthly trend change
+Ontario                                 53,429                        -8%
+British Columbia                        40,504                        -3%
+Alberta                                 51,582                        +3%
+Quebec                                  54,915                        +1%
+Toronto CMA                             --                            -10%
+Montréal CMA                            --                            +6%
+Vancouver CMA                           --                            +2%
+Calgary CMA                             --                            +5%
+
+Ontario's trend weakness is especially consequential given the scale of its development pipeline. Toronto's -10% reflects both detached and multi-unit weakness. Montréal and Vancouver recorded multi-unit-led increases in their six-month trends. October monthly provincial SAAR can move differently from six-month provincial trends, as TD noted: one month's regional rebound does not undo a multi-month deceleration. The year-to-date declines of 13% in the Atlantic region, 9% in the Prairies and 2% in Ontario reinforce that the slowdown is not confined to a single October print, although Quebec was up 4% year to date.
+
+3) Pipeline versus completions. The 3% reduction in approved-but-not-started units matters because these are projects closer to commencement than permits alone, but they are not a mechanical forecast of new starts: project cancellation, sequencing and backlog depletion need distinguishing. Pending starts declined 8.6% in Quebec, 5.6% in British Columbia and about 9.2% in Montréal despite Montréal's improving current six-month trend. A flat national under-construction stock and 24% jump in completions can occur alongside falling new starts; completions draw down buildings initiated in prior quarters. A one-month completion spike also has seasonal and project-timing noise. The combination raises the probability of softer future residential construction without quantifying its contribution to GDP from this release alone.
+
+4) Structural supply and prices. High financing costs, unsold units, weak condo pre-sales and slower population growth can discourage new projects before they show up as fewer dwellings in the completed stock. Conversely, lower starts today can restrict supply years later and may worsen affordability when demand returns; this is CMHC's forward housing-market warning, not evidence of immediate rent inflation. The Ontario tax change may support demand for qualifying new homes with long design/approval/construction lags. The release is primarily a construction/investment and prospective housing-supply signal, not a contemporaneous measure of housing transactions, prices, household credit conditions or consumer-price shelter.
+
+C. State Transition & Historical Context
+State transition: continuation of gradually weakening residential-construction momentum, with a modest October monthly decline, a softer six-month trend and a contracting pending-starts pipeline; the near-term pace remains substantial rather than collapsing.
+Context from prior regional live file: Earlier 2026 housing-starts reports already showed uneven residential construction and pressure in Ontario, partially offset by Quebec and Alberta. October extends that gradual softening: the smoothed national trend and pending pipeline fall even as a single month's starts beat consensus and other large metros hold up. Housing supply momentum remains uneven and at risk rather than entering a verified national collapse.
+
+4. HF Take — Strategist Layer
+
+What changed: The meaningful incremental development is pipeline erosion and continued Ontario/Toronto weakness, not the small upside forecast surprise. A housing-starts rate near 245k SAAR is not, by itself, a severe growth shock; it becomes more concerning if the fall in approved-but-unstarted projects persists and combines with weak pre-sales, building permits and residential investment.
+
+Why it matters: The GDP channel is construction activity and investment over coming quarters, with employment and materials demand as possible lagged consequences. An immediate BoC hike/hold inference would overstate the release; CMHC starts are too volatile and too geographically uneven to change the policy reaction function alone. Short-run housing-market cooling and medium-run supply shortages can coexist, so the forward rent/affordability implications are not mechanically disinflationary.
+
+What to verify next: (1) November six-month starts trend and pending projects; (2) Toronto/Greater Ontario condo pre-sales, unsold inventory, permits and cancellations; (3) the detached/multi-family split and Quebec/Alberta offsets; (4) residential investment, construction employment and credit costs; (5) timing and actual uptake of Ontario new-home tax relief.
+Macro configuration: sizeable but easing new-housing construction + geographically concentrated Toronto/Ontario weakness + reduced near-term starts pipeline + uneven multi-unit resilience + eventual affordability/supply risk. Standalone rate and CAD implications are limited.
+
+THURSDAY 19 NOV 2026
+
+CANADA — CFIB BUSINESS BAROMETER (NOV)
+Release Date: 19 Nov 2026 | Local Time: 13:00 CET (07:00 ET)
+Importance: ***
+
+PM FLASH: The 12-month business outlook rose to 57.33 from a revised 50.96, but the three-month index remained at 45.9 and current business health was just 19. Insufficient demand constrained 52% of firms, fuel costs 68%; layoff plans (14%) exceeded hiring plans (12%). Price-rise plans stood at 2.9% and wage plans at 2.4%.
+PM READ-THROUGH: A meaningful recovery in longer-horizon expectations is not matched by near-term trading conditions, staffing intentions or realized demand. This qualifies rather than reverses the soft domestic-demand assessment.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Improving optimism and ongoing business cost pressure coexist with little willingness to hire, while a secondary market interpretation focuses on modest intended price increases rather than the confidence headline.
+Key takeaways: The 11-point horizon gap is unusually large; the two official pages disagree on whether price intentions moved up or down, so their 2.9% level is firmer evidence than the stated direction.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CACFBB=ECI;19 nov;13:00;High;Business Barometer;Nov;57,33;50,00;50,96;;
+
+No Reuters poll or surprise supplied. The original 50.00 prior and revised 50.96 are deliberately preserved.
+
+2. Professional Market Commentary
+
+The Canadian Federation of Independent Business (CFIB) reported a six-point increase in its national 12-month optimism index to 57.3, while the three-month outlook remained at 45.9. Its own press release framed the rebound as improved hope for the coming year against subdued near-term business conditions. The gap between horizons was described as the widest in nearly four years; the headline does not represent a six-point improvement in current sales, profits or hiring.
+
+Simon Gaudreault, CFIB Chief Economist and Vice-President of Research, emphasized this exceptional gap and attributed near-term caution to uncertainty, sustained operating costs and slow progress in the operating environment. Andreea Bourgeois, CFIB Director of Economics, highlighted firms' desire to recover from a difficult year but singled out retail optimism as particularly limited before the seasonal shopping period. These are identifiable survey-producer voices, not independent sell-side economist reactions.
+
+Finimize's 20 November market-oriented explainer argued that intended selling-price increases could be more consequential for inflation interpretation than a rise in longer-term business confidence; a 2.9% planned price increase alongside 2.4% planned wage increases may leave businesses with little margin room when demand is constrained. This is commentary, not measured pass-through, and does not establish a Bank of Canada market repricing. No Tier 1 institutional debate detected. No independent named bank economist or release-specific CAD/bond reaction was verified.
+
+Source anchors (dated 19-20 November):
+CFIB press release: https://www.cfib-fcei.ca/en/media/small-business-confidence-improves-for-the-year-ahead-but-weak-near-term-outlook-reflects-continued-economic-uncertainty
+CFIB November results: https://www.cfib-fcei.ca/en/research-economic-analysis/business-barometer
+Finimize: https://finimize.com/content/canadas-small-businesses-see-a-brighter-year-ahead
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+November is a distinct improvement in sentiment toward the next year, but the stronger headline is not evidence of an immediate business-activity rebound. The more policy-relevant information is the contrast between confidence at different forecast horizons and the actual constraints firms report: poor demand, high fuel costs, subdued present business health and continued net intentions to reduce staffing. The short-run index is below 50 even as the year-ahead index has crossed further above it, consistent with hoped-for future relief rather than improved current sales.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Survey signal | November | Interpretation |
+|---|---:|---|
+| 12-month optimism | 57.3 (Reuters 57.33) | ~6-point rebound vs revised October 50.96 |
+| 3-month optimism | 45.9 | Flat and below the 50 balance threshold |
+| 12m minus 3m gap | ~11.4 points | Largest in nearly four years per producer |
+| Current business health balance | 19 | Still weak relative to history |
+| Insufficient demand constraint | 52% of firms | Primary output/expansion limit |
+| Skilled-labor shortage | 40% | Secondary to deficient demand |
+| Fuel-cost constraint | 68% | Largest operating-cost pressure |
+| Input/material costs | 45% | Additional upstream cost exposure |
+| Planned layoffs / hiring | 14% / 12% | Negative net staffing intention, fourth month |
+| Planned price / wage increase | 2.9% / 2.4% | Intentions, not realized inflation or earnings |
+
+Horizon and level: The revised October 12-month index of 50.96 is higher than the initially reported 50.00 after late October survey responses were incorporated. The November gain is therefore about 6.4 points on the revised base, not the 7.3-point move implied by the unrevised figure. October's short-term index had appeared at 45.3 in an earlier results vintage; the November statement that 45.9 was unchanged implies a prior revision, but the exact revision treatment was not explicitly explained. Unlike a manufacturing PMI, this survey's 50 threshold measures the balance of owners expecting their own firm to perform better or worse, not whether output or employment actually expanded.
+
+Demand, jobs and costs: Weak demand affected slightly more than half the sample while the shortage of skilled workers, at 40%, had receded relative to earlier in the year. That conjunction matters: a business facing insufficient orders may not translate improved one-year expectations into hiring or capital investment even when future sentiment turns positive. Four consecutive months of negative net hiring plans and very weak current health substantiate that distinction. Fuel exposure at 68% and material-input constraints at 45% indicate a real cost shock, but such reports do not determine firms' capacity to raise prices rather than accept lower margins or volumes.
+
+Pricing-intentions discrepancy: Both CFIB publication pages report a 2.9% planned average selling-price increase and 2.4% planned wage increase. The 19 November press release says price plans edged DOWN to 2.9%; the November results page says they edged UP to 2.9%. October materials showed a 2.8% price-plan level, which supports an upward comparison on the currently available sequence, but the direct contradiction is not fully reconciled and no directional inflation inference is built on it. A 2.9% intended price increase is not equivalent to a measured 2.9% CPI forecast or actual price change. Wage and price intentions describe separate expectations; their difference is not an accounting measure of company margins.
+
+Breadth and statistical limits: Retail's longer-term index was only 48.5, while agriculture, accommodation/food services and transportation remained among the weakest sectors. Construction and manufacturing recovered to just above 50, without establishing stronger realized orders. Saskatchewan and New Brunswick were below 50 on the cited geographic three-month-average measures; the larger provinces clustered closer to 50-55. The province and sector figures are three-month moving averages, not November-only observations, and should not be compared as though they were synchronous monthly sector surprises.
+
+The survey covered 565 CFIB member responses collected 3-9 November; the producer gives a margin of error of +/-4.1% 19 times out of 20. It is a member panel operated by an advocacy organization, not an official population-wide establishment survey. Fieldwork around the US midterm elections and before Canada's federal budget also raises event/sentiment noise. Sampling uncertainty is not directly a +/-4.1-point standard error for the headline index, and the revised prior demonstrates ongoing response-vintage sensitivity.
+
+State transition: stabilization in year-ahead small-business optimism, with no confirmed near-term activity reversal because short-term confidence, current health, demand constraints and hiring intentions remain weak.
+
+Context from prior regional live file: The September business outlook had deteriorated sharply to 47.9 amid fuel and trade-related concerns, and October stood near neutral after revision to 50.96. November restores a more positive year-ahead balance while current operating conditions and near-term expectations remain weak. This is a confidence rebound, not yet an observable demand or employment turnaround.
+
+4. HF Take — Strategist Layer
+
+The incremental point is an expectations-versus-execution gap. A stronger 12-month business outlook can be a useful early-cycle positive, but businesses themselves still rank insufficient demand above labor scarcity, plan more layoffs than hires and face meaningful fuel costs. The report therefore does not overturn the currently weak demand and labor configuration. Conversely, it prevents assuming that small-firm expectations are deteriorating without interruption; a gradual improvement in confidence could precede orders, hiring and investment if uncertainty and costs subside.
+
+The modest 2.9% price-intentions level is compatible with limited pass-through but cannot settle the energy-to-core inflation question given the contradictory direction reported by the producer and the absence of clear independent economist or market reaction. This is not a standalone Bank of Canada or USD/CAD trading catalyst. The key conditional risk would be a sustained rise in price plans accompanied by actual selling-price increases, stronger demand and wage pressure, rather than a single longer-horizon optimism bounce.
+
+What to verify next: December 3-month index and current health; hiring minus layoff plans; realized orders, retail turnover and small-firm investment; matched-vintage selling-price and wage plans; breadth beyond the three-month-averaged sector and provincial series.
+Macro configuration: improved year-ahead expectations + persistently weak near-term conditions + deficient demand and negative hiring plans + high fuel-cost exposure + uncertain pricing-intention direction.
+
+CANADA — INDUSTRIAL PRODUCT PRICE INDEX / RAW MATERIALS PRICE INDEX (OCT)
+Release Date: 19 Nov 2026 | Local Time: 14:30 CET (08:30 ET)
+Importance: **
+
+PM FLASH: Factory-gate prices rose 0.3% m/m after September's revised 1.5% increase, while annual producer inflation was still 12.6%. Ex-energy factory prices rose just 0.1%; raw-material prices fell 1.0% m/m but remained 23.5% higher y/y. Diesel and certain chemical inputs continued to rise, while several metal-ore prices fell.
+PM READ-THROUGH: The latest monthly pace of upstream inflation slowed, especially outside petroleum, but accumulated annual increases and remaining fuel/chemicals pressure keep the pass-through risk open. A single unadjusted monthly print cannot validate durable disinflation.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: Short-run raw-material and ex-energy softness favors margin relief, whereas the still-large annual producer-price level suggests that manufacturers may face unfinished cost transmission.
+Key takeaways: The difference between crude-energy prices, manufactured petroleum products and final consumer prices matters; a sample transition and the large prior-month revision reduce precision.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CAPPI=ECI;19 nov;14:30;Med;Producer Prices MM;Oct;0,3%;2,0%;1,5%;;
+
+No Reuters poll or surprise supplied. RMPI statistics belong to the same official publication but are not added as invented Reuters rows.
+
+2. Professional Market Commentary
+
+Statistics Canada reported a 0.3% monthly increase in the Industrial Product Price Index (IPPI) and 12.6% annual inflation; the same official release showed raw-material costs (RMPI) falling 1.0% m/m but still up 23.5% y/y. Energy and petroleum remained the main level driver, while monthly non-energy prices and raw materials were more contained. The producer linked fuel pricing to the ongoing US-Iran conflict, but no precise downstream CPI contribution was established.
+
+James Langton (Investment Executive, 19 November) emphasized easing raw-material costs despite the energy shock, highlighting the decline in metal ores and the possibility that upstream cooling could limit subsequent diffusion. Adam Button (investingLive, 19 November) instead foregrounded the slower annual IPPI reading from 14.5% to 12.6%, the influence of energy prices on the raw-material basket and the low usual immediate market impact of this series. These are identifiable journalist/desk editorial interpretations rather than attributable bank-economist forecasts. No Tier 1 institutional debate detected; no independent named institutional economist or release-specific rates/CAD repricing was verified.
+
+Source anchors (19 November):
+Statistics Canada, The Daily: https://www150.statcan.gc.ca/n1/daily-quotidien/261119/dq261119a-eng.htm
+Investment Executive: https://www.investmentexecutive.com/news/research-and-markets/input-costs-ease-despite-energy-shock/
+investingLive: https://investinglive.com/news/canada-october-producer-price-index-12-6-vs-14-5-y-y-prior/
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+
+October's producer-price release reduces near-term upstream inflation momentum following September's surge, but the distinction between levels, monthly changes and category concentration is decisive. The broad index remains 12.6% above its prior-year level, yet factory-gate prices excluding energy and petroleum advanced only 0.1% in the month. On the input side, the raw-materials basket declined, largely reflecting lower metals, even as crude energy products continued rising. The joint release therefore provides evidence of a slowing incremental shock, not the reversal of the accumulated cost-price disturbance.
+
+B. Detailed Evidence & Economic Mechanisms
+
+| Producer-price component | October m/m | October y/y | Main interpretation |
+|---|---:|---:|---|
+| IPPI, all products | +0.3% | +12.6% | Monthly moderation; elevated annual level |
+| IPPI excluding energy/petroleum | +0.1% | — | Limited current broadening |
+| Energy/petroleum manufactured products | +1.2% | — | Positive but much slower than September's +8.6% |
+| Diesel fuel | +1.7% | +93.3% | Major remaining fuel-cost increase |
+| Light fuel oils | +2.5% | +100.3% | Very high annual energy level |
+| Finished motor gasoline | -1.2% | +50.2% | Monthly easing / high annual comparison |
+| Chemicals and chemical products | +2.1% | — | Selective non-energy cost channel |
+| Plastic resins | +12.7% | — | Concentrated intermediate-input spike |
+| RMPI, all raw materials | -1.0% | +23.5% | Monthly input-cost decline |
+| RMPI excluding crude energy | -3.3% | +5.1% | Broad non-crude raw material easing |
+| RMPI crude energy | +2.5% | — | Continued crude input pressure |
+| Metal ores, concentrates and scrap | -5.4% | — | Precious-metals-related decline |
+
+Fuel chain: Factory diesel and light fuel oil prices remained exceptionally elevated on an annual basis, but finished gasoline prices eased month on month. Crude energy and refined products are not interchangeable indexes; they reflect different stages of the supply chain, contract timing and mixes. Higher producer energy prices may pass through to transportation, distribution and manufacturing costs with lags, or be absorbed in margins. The release does not quantify any eventual contribution to core consumer inflation.
+
+Non-energy heterogeneity: A broad 0.1% non-energy/petroleum monthly increase contains selective stronger components. Chemicals gained 2.1%, plastic resins 12.7%, while certain fabricated metals and construction materials increased and primary metals declined. Longer-run unwrought copper (+36.5% y/y), aluminum (+20.0%) and precious metals (+6.3%) remained cost concerns in particular production processes, but these product-level rates cannot be mechanically generalized to final-goods prices. Some materials have commodity-price sensitivity, while manufacturers differ in inventory duration and pricing power.
+
+Input/output distinction: RMPI fell 1.0% as raw materials outside crude energy declined 3.3%, including metal ores -5.4% and precious-metal ores -6.3% (silver -9.8%, gold -3.8%). The IPPI instead measures domestic manufacturers' selling prices at the factory gate; RMPI measures prices of inputs acquired by domestic manufacturers. An IPPI/RMPI divergence can reflect product weights, processing margins, timing and measurement definitions. It is not a directly calculated economy-wide profit-margin improvement. IPPI excludes indirect taxes, tariffs and distribution costs, while RMPI includes transport charges, duties and tariffs on imported inputs.
+
+Revisions and sample-transition qualification: Reuters supplies a September IPPI rate initially at +2.0%, subsequently revised to +1.5%. The October Daily text checked by the scout did not reconcile that particular revision, while the producer described a price-sample transition running from September through December 2026 and a condition restricting revisions for values calculated with the existing sample. Whether the reported September revision reflects sample replacement, late information, index recalculation or a separate vintage is unresolved. Do not overwrite the final Reuters mechanical line or infer a structural price break from one observation. Both IPPI and RMPI are unadjusted monthly measures and susceptible to commodity concentration and seasonal movements.
+
+State transition: stabilization in monthly upstream price momentum after September's energy surge, while unusually high annual factory and raw-material price levels and selected chemicals/fuels increases preserve a conditional pass-through risk.
+
+Context from prior regional live file: September's producer-price increase was large even after revision, driven by energy, while raw-material costs had also accelerated. October narrows the monthly impulse and reveals softer non-crude inputs, but the annual industrial-price shock remains substantial. The price-pipeline risk has moderated at the margin, not disappeared.
+
+4. HF Take — Strategist Layer
+
+The print modestly weakens the argument that producer-price pressure is continually accelerating, because the monthly index slowed and the non-energy factory-gate and non-crude raw-input measures softened. It does not prove earlier increases will not pass through: diesel, chemicals and year-on-year input costs remain elevated, and business pricing power determines whether higher input expenses ultimately appear in consumer prices or lower margins. The direction of the producer-to-consumer transmission is still a hypothesis for testing, not a measured CPI effect.
+
+Given the Bank of Canada's concern about second-round inflation, the evidence is relevant as a conditional pipeline cross-check but insufficient to alter policy timing on its own. The month-to-month sample transition and unverified September revision further limit conviction. No release-specific rates or FX move was established, and a discretionary CAD trade inference from this secondary series would be unwarranted.
+
+What to verify next: November IPPI/RMPI with matched-vintage revisions; diesel/gasoline and chemicals persistence; ex-energy product prices; manufacturing margins and input/output prices; core-goods and services CPI categories susceptible to freight and fuel pass-through.
+Macro configuration: slowing monthly factory inflation + declining non-crude raw inputs + still-high annual producer inflation + selective fuel/chemicals stress + measurement/revision risk.
+
+FRIDAY 20 NOV 2026
+
+CANADA — RETAIL SALES / RETAIL SALES EX-AUTOS (SEP)
+Release Date: 20 Nov 2026 | Local Time: 14:30 CET (08:30 ET)
+Importance: ***
+
+PM FLASH: Retail sales rose 0,8% m/m versus 0,7% expected, with August revised to +1,4%; ex-autos rose 1,0% versus 0,7%. But total real retail volumes and core retail excluding autos and fuel vendors both rose only 0.1%. Fuel-vendor nominal sales jumped 6.9% while October's early total-retail estimate indicated -1.5%.
+PM READ-THROUGH: September nominal strength and Q3 real gains support backward-looking consumption arithmetic, but hardly any September volume growth and the tentative October reversal undermine evidence of sustained household spending acceleration into Q4.
+PM DEBATE & KEY TAKEAWAYS:
+Professional insight: The cautious view sees a price-driven beat and early Q4 retrenchment; the offset is that Q3 real retail volumes advanced 1.0% and consumers have not demonstrated a generalized spending collapse.
+Key takeaways: Ex-autos +1.0% is not core retail +0.1%. The October flash is preliminary at a 58.1% survey response rate; its price/volume split, including cheaper gasoline, is the key next test.
+
+1. Reuters Data
+
+RIC;Date;Time;Rel;Indicator;Period;Actual;Prior;Revised;Poll;Surprise
+CARSLS=ECI;20 nov;14:30;High;Retail Sales MM;Sep;0,8%;1,2%;1,4%;0,7%;0,10%
+CAXAUT=ECI;20 nov;14:30;Med;Retail Sales Ex-Autos MM;Sep;1,0%;1,2%;1,4%;0,7%;0,30%
+
+The ex-autos +1,0% line and its identical prior, revised and poll fields are preserved exactly as supplied; they have not been independently matched to an official ex-autos aggregate. Statistics Canada's own distinct 'core retail' measure excludes both autos AND gasoline stations/fuel vendors and was +0.1% m/m, not +1.0%.
+
+2. Professional Market Commentary
+
+Statistics Canada's 20 November retail report presented a 0.8% rise to C$75.3bn, above the initial 0.7% advance estimate; the agency's underlying volume and ex-auto/ex-fuel core measures each rose only 0.1%. Its October advance estimate pointed to -1.5%, subject to the limitations of early response coverage. Reuters (Promit Mukherjee, 20 Nov) confirmed the slight consensus beat and revision of August's headline to +1.4% from +1.2%, but also focused on gasoline vendors (+6.9%). Bloomberg and the Wall Street Journal highlighted the potentially sharper early-Q4 slowdown rather than treating September's nominal beat as an unambiguous demand recovery.
+
+Andrew Grantham (CIBC Capital Markets, 20 Nov, cited by Bloomberg/WSJ) read September as still supportive of positive Q3 consumption while seeing the October -1.5% flash as broader late-quarter slowdown. He cautioned that the recent decline in gasoline prices came disproportionately in November, so price deflation at pumps might not fully explain October's negative nominal retail estimate. Charles St-Arnaud (Servus Credit Union, 20 Nov) associated softer October retail demand with stagnant employment and argued that the Bank of Canada should pause before another rate increase. Sal Guatieri (BMO Capital Markets, 20 Nov, BNN Bloomberg) stressed the limited real content of the nominal beat and the likely weakness heading into Q4 but resisted describing the consumer sector as already collapsed: real consumer spending had grown by nearly 2% through Q2 2026. Paul Harris (Harris Douglas Asset Management, 20 Nov, BNN interview) offered the more bearish portfolio-manager framing, emphasizing US trade frictions and a much weaker Canadian economy than investors had expected.
+
+Alicia Planincic (Business Council of Alberta, 20 Nov, The Hub) highlighted the cumulative squeeze on consumers from energy prices, trade uncertainty and youth unemployment; this is broader business advocacy/context rather than a direct estimate of the retail print's causal decomposition. Desjardins' 20 November institutional note described Q3 retail growth as positive but not durable given virtually flat September volumes and the October advance contraction. Additional contemporary economists, including the Canadian Chamber of Commerce's Jasleen Kaur Trehan (reported in WSJ, 20 Nov), stressed that higher retail receipts had not been matched by materially more goods purchased. These are differentiated emphases, not evidence of opposing disagreement about the statistical data.
+
+The intraday Canadian dollar move described in some market-desk reports was part of a broader USD session. The scout's investingLive relay described technical USD/CAD levels around 1.4312 and 1.4273, but neither clean CAD-specific repricing nor an associated Canada two-year/OIS move could be reliably attributed to this publication. Bloomberg cited roughly 60% odds of a December hike, a level of policy pricing, NOT a measured change caused by this retail release. No standalone market-reaction estimate is adopted.
+
+Sources (all 20 Nov 2026 unless indicated):
+- Statistics Canada, Retail trade September 2026: https://www150.statcan.gc.ca/n1/daily-quotidien/261120/dq261120a-eng.htm
+- Reuters, Promit Mukherjee: https://www.reuters.com/world/americas/canada-retail-sales-rise-08-september-likely-be-down-15-october-2026-11-20/
+- BNN Bloomberg, economist and PM interviews: https://www.bnnbloomberg.ca/business/economics/2026/11/20/canadas-economy-much-weaker-than-many-expected-says-expert-after-sluggish-retail-sales-report/
+- Bloomberg full-text relay, Canadian Mortgage Trends: https://www.canadianmortgagetrends.com/2026/11/canadian-retail-sales-tracking-largest-decline-since-feb-2025/
+- Desjardins, 20 Nov retail commentary: https://www.desjardins.com/en/savings-investment/economic-studies/canada-retail-sales-20-november-2026.html
+- Wall Street Journal, 20 Nov economist views: https://www.wsj.com/economy/consumers/canada-retail-sales-pull-back-after-0-8-rise-in-september-7f2f0568
+
+3. Comment — Economist Layer
+
+A. Economist Assessment
+September retail trade is a nominal consensus beat with weak real quality. The reported 0.8% monthly increase compares with a 0.7% Reuters poll and a revised 1.4% rise in August. However, real retail volumes and the agency's narrowly defined core (excluding gasoline/fuel vendors AND motor vehicle/parts dealers) advanced only 0.1%. The distinction is not semantic: higher prices, above all for energy-related receipts, generated most of the month-on-month current-dollar growth. The release therefore supplies less evidence of resilient discretionary quantities than either the headline or the ex-autos +1.0% RIC alone suggests.
+
+The forward-looking evidence is weaker still. Statistics Canada’s preliminary October advance estimate is -1.5%, potentially the largest monthly fall since February 2025, but is based on only 58.1% response coverage and will be revised. Stronger Q3 retail volumes and a soft start to Q4 can both be true. September and October must be evaluated separately rather than allowing one provisional month to erase the prior quarter's realized expansion.
+
+B. Detailed Evidence & Economic Mechanisms
+
+1) Headline versus underlying expenditure and revisions
+
+Measure                                      September 2026            Comparator
+Total retail sales, nominal m/m            +0.8%                     poll +0.7%; Aug revised +1.4%
+Retail turnover level                       C$75.3bn                  current dollars, SA
+Retail volumes, real m/m                   +0.1%                     price-adjusted, SA
+Core retail, ex autos AND fuel, m/m        +0.1%                     Statistics Canada definition
+Retail ex-autos, Reuters m/m               +1.0%                     poll +0.7%; matching official series not checked
+Q3 total retail, nominal q/q               +1.2%                     official reported quarterly change
+Q3 retail volumes, real q/q                +1.0%                     official reported quarterly change
+October retail advance estimate           -1.5%                     unofficial; 58.1% sample response
+
+The identical Prior (1,2%), Revised (1,4%) and Poll (0,7%) values on both Reuters rows remain mechanically intact but were not independently checked for the ex-autos series. The +1.0% ex-autos RIC does not invalidate the +0.1% official core measure, because excluding autos leaves gasoline dealers in the first calculation; the official core measure strips them out as well. Reuters' upward August headline revision improves the starting level for September, but the annual and volume paths still require price-adjusted scrutiny. The official release's +0.1% real monthly reading has much more importance for contemporaneous household quantities than a price-driven nominal 0.8% rise.
+
+2) Subsector contributions and price-versus-volume transmission
+
+Retail component                                  September nominal m/m    Additional context
+Gasoline stations and fuel vendors               +6.9%                    real fuel-vendor volumes +1.6%
+Motor vehicle and parts dealers                  +0.2%                    new cars +0.2%; used cars +0.6%
+General merchandise                              +1.5%                    relative core support
+Clothing / accessories / footwear retailers     +0.8%                    positive but not dominant
+Health and personal care                        +0.3%                    smaller contribution
+Food and beverage retailers                     -0.4%                    supermarkets/grocers -0.5%
+Building materials / garden retailers           -1.3%                    secondary Reuters item
+Furniture / electronics / appliances            -1.3%                    secondary Reuters item
+E-commerce sales                                -0.2%                    C$5.7bn, 7.5% of retail
+
+Fuel-vendor revenue surged +6.9% despite only +1.6% in quantities. This implies a large price/mix effect in that sub-sector, although the difference between growth rates should not be reported as an exact official fuel-price index. Gasoline vendors represent close to a tenth of nominal retail turnover, making their price-induced spike large enough to influence the aggregate. Motor vehicle dealers contribute more than a quarter of the total but advanced only 0.2%, so autos cannot explain the headline beat. Food purchases fell while general merchandise and clothing improved, consistent with mixed discretionary goods demand, not uniform retrenchment. Weak building-material and furnishing receipts are potential durable-goods/housing-related counter-signals, although retail receipts are not themselves measures of new-home investment.
+
+3) Quarter-to-quarter arithmetic versus the October flash
+
+Quarterly real retail volume growth of +1.0% in Q3 means the household-goods spending component entered the quarter from a stronger level; it does not mean September's sequential pace was strong. The +0.1% September real increase already indicates lost momentum toward quarter-end. If confirmed, an October nominal -1.5% reversal would erase much of the prior two months' nominal advance, although the final real drawdown could be larger or smaller according to gasoline prices and quantity behavior. It is inappropriate to translate a retail indicator mechanically into a GDP or total-consumption forecast: retail covers only part of household spending, and services are not comprehensively captured. The Q3 GDP release is therefore necessary to assess the total household-demand contribution.
+
+The October preliminary figure comes from 58.1% of surveyed companies against the 86.6% average final response rate. Missing responses, late reporting and industry mix can materially change the final rate. Cheaper October fuel may depress nominal expenditure while real consumption holds up; the alternative is a concurrent fall in real purchases due to strained household budgets. The CIBC view that the November price retreat was greater than in October is a plausible argument for a volume decline, but not an official October real-volume estimate. Final October data on 18 December arrive after the 9 December BoC decision, so preliminary information must be handled with disproportionate caution in the reaction function.
+
+4) Regional dispersion, e-commerce and signal quality
+
+September sales increased in nine provinces, with Manitoba the sole monthly decline (-1.6%). Ontario gained 0.7%, Quebec 0.8%, Alberta 1.7% and British Columbia 0.3%; Toronto CMA rose 1.0%. The nominal breadth is wider geographically than the nearly flat national volume result and could reflect common fuel price changes. Manitoba's weakness was driven by motor-vehicle dealers, while gasoline vendors contributed to Ontario and Alberta. E-commerce fell 0.2% to C$5.7bn, 7.5% of total trade versus 7.6% in August, but retail e-commerce excludes some travel, transport and financial transactions; it is not a proxy for all digital consumer spending.
+
+The sectoral pattern creates two different interpretations: households may still be spending on some discretionary goods while absorbing a large energy bill, or the reported nominal strength may mask weaker household purchase quantities and limited ability to absorb still-higher prices. The official 0.1% core and volume changes favor the second interpretation for September but do not establish a full-scale contraction. The relative earnings and revenue quality of retailers will depend on volumes, gross margins and pass-through rather than total nominal industry receipts alone.
+
+C. State Transition & Historical Context
+State transition: deceleration in real household retail-spending momentum despite a small September nominal consensus beat; the positive Q3 volume contribution is intact, while the provisional October sharp decline introduces significant but unconfirmed Q4 downside risk.
+Context from prior regional live file: August retail sales had strengthened, with the headline later revised to +1.4% and real spending providing a constructive base for Q3. September preserves positive nominal turnover but sharply loses underlying volume momentum; an early October decline suggests that the stronger late-summer pace may not persist. The consumption picture shifts toward fragile Q4 momentum, not a proven collapse in total household expenditure.
+
+4. HF Take — Strategist Layer
+
+What changed: This is a weaker real-demand release than its positive surprise suggests. The relevant new evidence is flat underlying quantities, fuel-driven nominal receipts and a provisional October reversal, while the upward August revision and +1.0% Q3 real-volume growth still make it incorrect to label the consumer sector already in a sustained contraction.
+
+Why it matters: Weak real retail demand provides one channel through which the economy may absorb energy- and trade-related cost pressure in margins and reduced discretionary quantities rather than persistent non-energy consumer inflation. That transmission would favor a more cautious Bank of Canada reaction, but the October CPI debate remains open because the Bank's October rate increase was explicitly pre-emptive. A genuine October volume contraction together with softer jobs and Q3 GDP would undermine an immediate second hike more strongly than a nominal September retail miss or beat. Conversely, resilient non-fuel quantities and stronger subsequent orders could challenge the weak-demand interpretation. A current USD/CAD trade conclusion or retail-specific yield repricing is not defensible without evidence isolating the release from broader USD trading.
+
+What to verify next: (1) October retail flash revision and gasoline deflator/volume components on 18 December; (2) final September core and ex-autos definitions and prior revisions; (3) food, general merchandise, durables and autos volumes versus receipts; (4) Q3 GDP consumer expenditure and October–November spending evidence; (5) November hiring, hours, real wages and credit-sensitive spending before the BoC decision.
+Macro configuration: positive Q3 real retail growth + September nominal price-led beat + almost flat end-quarter real volumes + early-Q4 downside signaled by a low-response preliminary estimate + uncertain household ability to absorb further cost pass-through. Incrementally growth-cautious; standalone CAD/rates effects unverified.
+
+D. CENTRAL BANK TAPE
+
+BANK OF CANADA / CAD — 15–21 NOVEMBER 2026
+
+Summary — policy reaction function
+The overnight target remained 2.50% following the 28 October 25bp increase (prior-window decision). The 10 November Governing Council deliberations, which documented a real hold-versus-hike debate over future energy pass-through and economic slack, are prior-window context, not a new policy publication. During 15–21 November, the substantive policy speaker event was Toni Gravelle's 18 November Edmonton address: he explained why the April high-oil-price scenario helped frame the eventual October hike and why conditional scenarios are preferable to a promised rate path. His reference to consecutive hikes belongs to the April SCENARIO, not to fresh December guidance. This week's softer realized core and factory-gate data do not eliminate the Bank's forward-looking cost concern; equally, the speech does not override evidence of weak household demand. No in-window Governing Council voting split or meeting-specific rate commitment was established.
+
+TIFF MACKLEM — Governor, Board of Directors announcement — 16 Nov 2026
+Importance: ** (institutional; no immediate monetary-policy increment)
+Primary source: Bank of Canada, "Bank of Canada Governor Tiff Macklem to step down in June 2027", 16 Nov 2026.
+https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/
+
+Key policy signal:
+Macklem will not seek a second term; his seven-year tenure ends 2 June 2027. The independent-director search committee, assisted by Egon Zehnder, aims to conclude its search in spring 2027; the successor's appointment is subject to federal approval for a term starting 3 June. Macklem said he would continue discharging his responsibilities until the end of his mandate. The announcement contains no December-rate guidance and no modification of the inflation-target framework.
+
+Representative quote (institutional):
+"a more fragmented, shock-prone world"
+
+Incremental reaction function:
+Governance succession, not a change in the current Governing Council's policy reaction function. Reuters (David Ljunggren, Promit Mukherjee and Fergal Smith, 16 Nov) framed departure as broadly anticipated and major policy change under the successor as unlikely after the framework renewal. Derek Holt (Scotiabank, cited by Reuters, 16 Nov) stressed that the successor would have to "thread the needle" amid complex trade, fiscal and commodity shocks. Those are external assessments, not official succession guidance or a December-rate signal. Names floated as possible successors in reporting are speculation and have no place in the rate call.
+
+TONI GRAVELLE — Deputy Governor, Edmonton Chamber of Commerce — 18 Nov 2026
+Importance: *** (reaction-function clarification, not a new rate-path signal)
+Primary source: Bank of Canada, "Setting the scenario: Monetary policy communications in uncertain times", 18 Nov 2026.
+https://www.bankofcanada.ca/wp-content/uploads/2026/11/remarks-261118.pdf
+Official event page: https://www.bankofcanada.ca/2026/11/speech-toni-gravelle-2026-11-18/
+
+Key policy signal:
+Gravelle argued that the economy's oil-price and inflation path had come close to the high-oil-price risk scenario communicated in April. That scenario envisaged inflation near 3% for over a year and consecutive policy-rate increases to bring it back to target. He cited the extended Middle East conflict, oil near US$100/bbl, unusually high refining margins, new US tariffs and better-than-expected domestic resilience as part of the October decision environment. This was an explanation of why scenario analysis helps anticipate risks and explain decisions, not a fresh projection prescribing successive hikes from November onward. He rejected an unconditional forward-rate path: the Bank wants to be transparent about possible states of the world without misrepresenting them as predictions. The Bank does not publish every modeled scenario, to preserve an intelligible hierarchy of risks. No commitment was made for 9 December.
+
+Representative quote (on April's inflation risk):
+"had largely materialized"
+
+Incremental reaction function:
+Confirmation and communication clarification rather than a new hawkish escalation. The Bank remains concerned about a persistent cost shock but retains meeting-by-meeting discretion and can weigh observed core and activity weakness. The relevant professional disagreement is about HOW to interpret the scenario, not an established division among policymakers.
+
+Contemporaneous human voices — differentiated framing:
+- Craig Lord (Canadian Press, 18 Nov): emphasized Gravelle's reluctance to give more explicit rate-path guidance; he compared the communication debate with Fed Chair Kevin Warsh's prior comments. This is journalistic framing, not a BoC or Fed policy endorsement. https://montreal.citynews.ca/2026/11/18/bank-of-canada-official-downplays-need-for-more-forward-guidance-on-rate-path/
+- Erik Hertzberg (Bloomberg, 18 Nov; accessible via Canadian Mortgage Trends): emphasized that April scenario analysis had effectively signaled the conditions for October's hike. His report relayed overnight-index swaps implying roughly a 60% chance of a 9 December increase at that timestamp. This is an attributed, secondary-access market snapshot, NOT a validated window-close probability or official signal. https://www.canadianmortgagetrends.com/2026/11/bank-of-canada-says-april-scenario-analysis-telegraphed-hike/
+- Promit Mukherjee (Reuters, 18 Nov): focused on accountability and the credibility channel: better-anchored 2% expectations can limit firms' inflation-price setting. The report did not establish a meeting-specific policy shift. https://www.reuters.com/world/americas/bank-canada-says-scenarios-help-make-monetary-policy-more-effective-2026-11-18/
+- Derek Holt (Scotiabank Global Week Ahead, 13 Nov) expected the Bank to hike again in December but acknowledged the October "proceed carefully" wording as support for a possible pause. This was a PRIOR-WINDOW expectation, not a post-speech reaction; it must not be counted as an independent new 18 November forecast or an official BoC statement.
+No substantive, independently readable named economist response written after Gravelle's speech was established in the validated scout. The different journalist angles do not establish opposing sell-side rate forecasts.
+
+MICHELLE ALEXOPOULOS — Deputy Governor, Barrie 360 podcast interview — official notice 19 Nov 2026
+Importance: * (content unavailable; no inferred signal)
+Official source: https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/
+
+Key policy signal:
+The Bank announced her appearance on "What Barrie's Talking About". Neither an authenticated transcript nor recoverable podcast content was supplied; recording date and policy substance are unconfirmed. No hawkish, dovish or other remark is inferred.
+
+Representative quote: None validated.
+Incremental reaction function: No assessable policy update.
+
+Bottom line — central-bank tape
+Only Gravelle provided a substantive in-window monetary-policy communication, and it clarified existing risk-management language rather than changing the rate path. Macklem's succession is an institutional event; Alexopoulos remains a collection gap. No verified in-window policy comments from Rogers, Gosselin or Vincent establish a committee split. The 9 December meeting remains conditional on realized energy-to-core pass-through versus jobs, GDP and financing-sensitive demand. Market-pricing references from Bloomberg are dated estimates and should not be promoted to a definitive December probability.
+
+Publication-time / evidence boundary:
+- 28 Oct hike and 10 Nov deliberations: PRIOR-WINDOW carry-over, not new weekly communications.
+- Gravelle 18 Nov and Macklem succession 16 Nov: contemporaneous, in-window.
+- Alexopoulos 19 Nov: official event only; content unverified.
+- Macklem's scheduled 24 Nov Economic Club of Canada speech: AFTER WINDOW, excluded from the 15–21 Nov reaction function. It is a future watch item, not a basis for rewriting this week's policy conclusion.
+- The 20 Nov Senior Loan Officer Survey was not researched in the validated speaker scout and is not turned into a speaker-tape conclusion.
+
+E. SIGNAL TENSION CHECK
+
+Main contradiction: The prior-week BoC debate focused on anticipated energy-to-core diffusion despite labor slack. October CPI/IPPI now show weaker realized underlying and monthly upstream momentum while real retail quantities, near-term business conditions and housing pipelines remain soft. Gravelle (18 Nov) reaffirmed that the April high-oil-price scenario had materialized, but his scenario-based explanation and rejection of a fixed path did not establish that future pass-through warrants another hike. The projected-risk versus observed-restraint tension has sharpened, not resolved.
+Why it matters: Pre-emption may prevent second-round inflation, but further tightening could weaken demand before the Bank's assumed pass-through appears; the scenario's consecutive-hike illustration is not a policy commitment.
+Implication: Keep December optionality conditional on Q3 GDP, November jobs, sequential core breadth, wages and firms' realized selling prices. The first substantive next-week Macklem speech (24 Nov) is outside this window and cannot retrospectively determine its stance.
+
+F. 5 KEY RELEASES TO DIG INTO
+
+1. **** CANADA — CONSUMER PRICE INDEX / BANK OF CANADA CORE MEASURES (16 NOV 2026)
+Why it matters: Median 2.0%, trim 1.8%, ex-energy 2.0% and cooler rent/services weaken the immediate tightening case, but selective food/clothing and ~2.7% short-run core raise the pass-through question. Match the Reuters CPIX monthly +0.4% to its exact official definition before using it as momentum evidence.
+
+2. *** CANADA — RETAIL SALES / RETAIL SALES EX-AUTOS (20 NOV 2026)
+Why it matters: +0.8% nominal sales conceal just +0.1% real volume growth; October's -1.5% flash could mark a Q4 reversal, but its 58.1% response rate and the ex-autos versus ex-autos-and-fuel definition conflict demand verification.
+
+3. *** CANADA — CFIB BUSINESS BAROMETER (19 NOV 2026)
+Why it matters: The year-ahead 57.33 rebound is disconnected from a 45.9 near-term index, weak current health and negative net hiring plans. Test whether optimism becomes orders/jobs; resolve the contradictory official description of price plans at 2.9%.
+
+4. ** CANADA — INDUSTRIAL PRODUCT PRICE INDEX / RAW MATERIALS PRICE INDEX (19 NOV 2026)
+Why it matters: Monthly IPPI +0.3%, ex-energy +0.1% and RMPI -1.0% moderate the near-term cost impulse, but annual IPPI +12.6%, fuels/chemicals and an unresolved September revision leave the diffusion/margin channel open.
+
+5. ** CANADA — CMHC HOUSING STARTS (17 NOV 2026)
+Why it matters: Starts 244.6k versus 240.0k poll hide a falling six-month trend and reduced approved-but-not-started pipeline, concentrated in Toronto/Ontario. Separate regional multifamily delays from a nationwide residential-investment decline.
+
+G. RED TEAM QUESTIONS
+
+1. How much of the surprisingly weak October preliminary retail estimate reflects falling real purchases rather than fuel-price changes or low-response measurement, and would national accounts corroborate it?
+2. Are near-2% annual median/trim and slowing IPPI reliable evidence of cost absorption, or are ~2.7% recent annualized core momentum, clothing/freight costs and chemicals the leading edge of broad pass-through?
+3. Will CFIB's 57.33 year-ahead rebound translate into actual orders and hiring despite a 45.9 three-month index and layoffs exceeding intended hires?
+4. Does weaker Ontario/Toronto construction plus a smaller pending-starts pipeline predict nationwide residential investment and construction-employment weakness, or do other regions and housing types offset it?
+5. Can the CPIX monthly +0.4%, retail ex-autos prior/revision fields, contradictory CFIB price-plan direction and unreconciled September IPPI revision be matched to their source series without changing the locked feed?
+6. What Q3 GDP, 4 December jobs and subsequent realized core-pricing evidence would justify a second pre-emptive hike when Gravelle's reference to consecutive hikes came from an April risk scenario rather than new December guidance?
+
+H. CURRENCY MARKET-CONSENSUS SCAN
+
+Bottom line
+Pair convention: USD/CAD (higher = weaker CAD). A small public institutional sample favored modest CAD recovery from the Bank of Canada's 20 November USD/CAD daily reference of 1.4325, but with little short-term conviction. Comparable end-Q4 targets were Scotiabank 1.39 (5 November), MUFG 1.42 (2 November update), and National Bank Financial 1.43 (16 October forecast carried forward). These are three selected public forecasts, NOT a formal Reuters consensus. The cautious target was virtually at spot, versus approximately 3% USD/CAD downside toward Scotiabank's forecast.
+Public-bank end-Q4 2026 range: USD/CAD 1.39–1.43 (selected in-force public targets).
+Constructive CAD cluster: Scotiabank 1.39 by end-Q4; MUFG 1.40 for Q1 2027 is a separate horizon.
+More cautious / tactical view: MUFG 1.42 and National Bank Financial 1.43 at end-Q4.
+Bias at window close: Modestly constructive CAD forecasts, tactically defensive near 1.43 spot.
+
+What changed through the data window
+No verified in-week revision to these three targets emerged; SPOT diverged from mostly unchanged forecasts. USD/CAD approached a 19-month high amid US yield support, broad dollar demand and equity risk aversion. Softer Canadian CPI on 16 November and the provisional retail weakness published 20 November challenged an immediate repeat BoC hike, while trade negotiations and oil/commodity moves remained competing CAD drivers in contemporary Reuters commentary. Forecast conviction cannot be inferred from the gap between unchanged targets and falling CAD spot.
+
+Main consensus drivers
+- Rate differentials: stronger US carry versus a disputed December BoC hike favors USD tactically; narrowing spreads would underpin CAD.
+- Oil and trade: Canadian energy export receipts, crude discounts, imported energy costs and North American trade uncertainty pull in different directions.
+- Global risk: dollar demand and equity weakness can overwhelm limited domestic rate repricing.
+
+Where consensus could be wrong
+CAD-bullish challenge: firmer real Canadian growth and a more convincing inflation response narrow USD/CAD toward 1.39 alongside calmer global risk. Cautious challenge: weak consumption/employment, subdued crude and persistent US rate advantage keep USD/CAD above 1.43. Key falsification: Canada–US front-end yield spreads, 4 December employment, energy flows and verified trade developments, not a single CPI print.
+
+Contemporaneous source anchors
+- Scotiabank FX Outlook, 5 Nov 2026: https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.foreign-exchange.foreign-exchange-outlook--november-5--2026-.html
+- MUFG Monthly FX Outlook, forecasts updated 2 Nov: https://www.mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026
+- National Bank Financial Forex, 16 Oct 2026 (prior in-force forecast): https://www.nbfwm.ca/content/dam/bnc/taux-analyses/analyse-eco/mensuel/forex.pdf
+- Bank of Canada daily FX reference, 20 Nov 2026: https://www.bankofcanada.ca/rates/daily-digest/
+- Reuters CAD market report, 20 Nov 2026: https://www.reuters.com/markets/us/canadian-dollar-falls-third-straight-week-stock-market-selloff-deepens-2026-11-20/
+
+I. COMPRESSED WEEK NOTE
+
+Regime
+- Regime: Energy-led headline inflation / near-target annual core / weak real-demand transmission / conditional BoC tightening.
+- Change: New releases suggest less near-term inflation pressure and weaker Q4 demand; no reversal confirmed.
+
+Scoreboard
+- Growth: ~ | Retail +0.8% nominal, +0.1% real; October -1.5% flash; housing pipeline weak, CFIB 12M rebounds.
+- Labor: ~ | No new hard data; prior -4.7k jobs / 6.7% unemployment, undecomposed; CFIB hiring plans negative.
+- Inflation: + | CPI 3.1% vs 3.2% poll; median 2.0%, trim 1.8%; IPPI +0.3% m/m, +12.6% y/y.
+- Financial Conditions: ~ | BoC 2.50%; broad transmission unverified.
+- Policy Constraint: - | Core favors patience; Gravelle explains conditional high-oil risk, not a December hike.
+
+Major Release Tape
+- **** CPI (16 Nov): 3.1%, core/services cooler; ~2.7% short-run core momentum.
+- *** Retail (20 Nov): +0.8% vs +0.7%, real +0.1%; October flash -1.5%, low response.
+- *** CFIB (19 Nov): 57.33 year-ahead, 45.9 near-term; weak actual conditions/hiring.
+
+Minor Tape
+- ** IPPI/RMPI: +0.3% factory, -1.0% materials; annual +12.6%. ** Housing: 244.6k SAAR, weaker pipeline.
+
+Central Bank
+- Bias: Conditional tightening / meeting-by-meeting discretion; no 9 Dec commitment.
+- Reaction function: Pass-through risk versus weak core/demand and margin absorption; scenario is not rate guidance.
+- Key tape: Gravelle (18 Nov): April high-oil risk materialized, no hike commitment. Macklem departure (16 Nov): institutional. Alexopoulos (19 Nov): content unverified. 10 Nov deliberations: carry-over.
+
+Signal Tension
+- Tension: High-oil scenario versus subdued realized core and demand.
+- What resolves it: Q3 GDP (30 Nov), jobs (4 Dec), wages/prices before BoC (9 Dec).
+
+Key Releases
+- 1. CPI/core — breadth/CPIX definition.
+- 2. Retail — real demand and response quality.
+- 3. CFIB — orders/hiring versus optimism; price-plan discrepancy.
+- 4. IPPI/RMPI — revisions and pass-through.
+- 5. Housing — Ontario pipeline versus national investment.
+
+Red Team
+- October retail: real contraction or response/fuel distortion?
+- Energy costs: pass-through or margin absorption?
+- What GDP/jobs and core evidence would actually justify December pre-emption?
+
+FX Consensus
+- Consensus: Selected bank sample, not formal consensus; modest CAD recovery.
+- Public-bank range / cluster: USD/CAD 1.39–1.43 end-Q4; MUFG 1.40 Q1 2027 separate.
+- At window close: USD/CAD 1.4325 (20 Nov); ~3% toward 1.39.
+- Consensus wrong if: US yield advantage persists or Canadian fundamentals recover faster.
+
+<<CAD_WEEK_END>>
+
+
+
+
 <<CAD_WEEK_BEGIN>>
 DATA WINDOW: 1 November 2026 to 14 November 2026
 STATUS: EVIDENCE-LIMITED FINAL — ZERO VALIDATED RELEASE BLOCKS; RAW REUTERS INVENTORY RETAINED
